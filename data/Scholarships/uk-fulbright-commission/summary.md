@@ -1,0 +1,1 @@
+The US-UK Fulbright Commission is a non-profit organization with the purpose of "promoting cultural understanding between the US and UK" primarily through academic grants. It was created by a treaty signed by both countries on 22 September 1948 and is based in London.

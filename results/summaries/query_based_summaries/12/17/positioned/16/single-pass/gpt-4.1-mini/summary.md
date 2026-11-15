@@ -1,0 +1,9 @@
+**King’s Scholar** refers primarily to students awarded scholarships established by royalty for academic distinction and tradition, with historical roots dating back to medieval England.
+
+The earliest known King's Scholars were established at the University of Cambridge in 1317 by King Edward II, who sent 12 boys from his household to study there. Later, in 1440, King Henry VI founded Eton College as a charitable institution providing free education to "poor, scholarly boys," designating about 70 King's Scholars ("Collegers" or colloquially "tugs"). These scholars reside in the original College building at Eton and wear a distinctive black academic gown, differentiating them from fee-paying students known as Oppidans. Traditionally, a King’s Scholar’s Foundation Scholarship at Eton covered full school fees, though since the 1960s, this has been subject to means testing.
+
+Besides Eton, the title "King’s Scholar" is also used for foundation scholars at Westminster School (titled Queen’s or King’s Scholars depending on the monarch), students with first-class degrees at King’s College Cambridge, and for high-achieving students in several historic English "King's Schools" (Canterbury, Chester, Ely, Gloucester, Peterborough, Rochester, and Worcester), where the scholarship often includes privileges and fee discounts. At these schools, scholars may enjoy lifelong membership in cathedral foundations and ceremonial traditions.
+
+Notable Eton King's Scholars include prominent figures such as Prime Ministers Harold Macmillan and Boris Johnson, economist John Maynard Keynes, writer George Orwell, and many leading scholars, politicians, and artists.
+
+In sum, the "King’s Scholar" designation denotes a prestigious, historically grounded academic scholarship awarded at select English educational institutions, embodying centuries-old traditions and distinguished academic achievement.

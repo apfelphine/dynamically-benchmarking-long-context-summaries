@@ -1,0 +1,7 @@
+Nanyang Technological University (NTU) is a national public research university in Singapore. Founded in 1981, it is also the second oldest autonomous university in the country.
+The university is organised across numerous colleges and schools, including the College of Engineering, College of Science, Nanyang Business School, Lee Kong Chian School of Medicine, College of Humanities, Arts and Social Sciences, College of Computing and Data Science, 
+Graduate College, National Institute of Education, and S. Rajaratnam School of International Studies. NTU is also home to two Research Centres of Excellence – the Singapore Centre on Environmental Life Sciences Engineering, and Institute for Digital Molecular Analytics and Science, and many University Research Institutes such as Earth Observatory of Science (which was a Research Centre of Excellence from June 2008 to June 2023, and transitioned to a University Research Institute in July 2023).
+
+
+NTU's main campus covers 200 hectares (490 acres) of land, making it the largest university campus in Singapore.
+The main campus is located in the western part of Singapore. Apart from its main campus, NTU also has a medical campus in Novena, Singapore’s healthcare district. As a large, comprehensive university, it has 37,458 enrolled students, and 7,997 faculty and staff as of 2024.

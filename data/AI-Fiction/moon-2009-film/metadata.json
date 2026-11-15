@@ -1,0 +1,35 @@
+{
+  "id": 20348262,
+  "title": "Moon (2009 film)",
+  "url": "https://en.wikipedia.org/wiki/Moon_(2009_film)",
+  "path": "AI-Fiction\\moon-2009-film",
+  "summary": {
+    "chars": 1203,
+    "tokens": 276
+  },
+  "document": {
+    "chars": 22878,
+    "tokens": 4198
+  },
+  "infobox": {
+    "title": "Moon",
+    "data": {
+      "Directed by": "Duncan Jones",
+      "Written by": "Nathan Parker",
+      "Story by": "Duncan Jones",
+      "Produced by": "- Stuart Fenegan - Trudie Styler",
+      "Starring": "- Sam Rockwell - Dominique McElligott - Kaya Scodelario - Benedict Wong - Matt Berry - Malcolm Stewart",
+      "Cinematography": "Gary Shaw",
+      "Edited by": "Nicholas Gastor",
+      "Music by": "Clint Mansell",
+      "Production \u00b7 companies": "- Liberty Films - Xingu Films - Limelight",
+      "Distributed by": "Sony Pictures Classics \u00b7 Stage 6 Films",
+      "Release dates": "- 23 January 2009 (Sundance) - 12 June 2009 (United States) - 17 July 2009 (United Kingdom)",
+      "Running time": "97 minutes",
+      "Countries": "- United Kingdom - United States",
+      "Language": "English",
+      "Budget": "$5 million",
+      "Box office": "$9.8 million"
+    }
+  }
+}

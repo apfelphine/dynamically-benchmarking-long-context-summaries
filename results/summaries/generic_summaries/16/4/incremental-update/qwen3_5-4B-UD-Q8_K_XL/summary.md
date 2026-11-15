@@ -1,0 +1,18 @@
+### Comparative Context: Harvard, University of the Andes, & Peking University
+
+**Harvard University** remains the global preeminent R1 research institution, ranked #1 worldwide with exceptional strengths in biomedical research and medical education. Its infrastructure spans multiple Boston locations and global centers, supported by the world's largest endowment (~$50.7 billion). Culturally significant as a backdrop for major literature and cinema, Harvard boasts a dominant alumni network including eight U.S. Presidents and 162 Nobel laureates. Recent challenges include legal battles with the Trump administration regarding student protests and civil rights violations concerning Jewish students, alongside historical campaigns for divestment.
+
+**University of the Andes (Colombia)**, founded in 1948, emerged from political shifts to cultivate skilled professionals, modeled after American institutions while maintaining political neutrality. Governed by a Board of Trustees, it operates 14 academic units in Bogotá's historical center, emphasizing social responsibility. Notable alumni include former presidents and ministers, and its mascot is Seneca, a goat from the late 1940s.
+
+**Peking University (China)**, established in 1898, evolved from the Imperial University to become a global leader, ranking 14th globally in QS 2025 and 11th in Times Higher Education. It features extensive expansion into Shenzhen and Changping, over 55 schools, and specialized research labs. PKU excels in diverse fields, with 22 subjects in the top 1% globally, and maintains strong international partnerships (e.g., Waseda, Yale) and a legacy of notable figures like Cai Yuanpei, Mao Zedong, and Nobel laureate Tu Youyou.
+
+### Higher Education Systems: Brazil, Australia, and Student Life
+
+**Brazil: Foundations and Modern Expansion**
+Brazilian higher education is relatively recent, beginning with the 1808 Medicine Faculty in Rio de Janeiro and the 1926 Federal University. **São Paulo State University (UNESP)**, founded in 1976, decentralizes education across 23 campuses and 33 institutes. Governed by a state-appointed rector, UNESP offers 171 undergraduate and 118 postgraduate programs, maintaining high rankings and extensive international agreements. Its research focus includes bioenergy and climate change, and it is recognized for emerging institutions and young faculty.
+
+**Australia: RMIT University**
+The **Royal Melbourne Institute of Technology (RMIT)** was founded in 1887 as the Working Men's College and became a public university in 1992. Governed by a 21-member council, it operates four academic colleges and maintains campuses in Melbourne City, Bundoora, and Brunswick. RMIT's international strategy includes campuses in Vietnam, China, Singapore, and Malaysia, as well as a coordinating center in Spain. It is known for applied research, high employability rates (98% for postgraduates), and a strong reputation in design, engineering, and arts.
+
+**Student Life and Culture**
+RMIT offers extensive student support through the University Student Union (RUSU), which manages social programs, advocacy, and independent media like *The Swanston Gazette*. Accommodation includes self-catered complexes with full support services. The university maintains a balanced gender split overall, though STEM graduates are predominantly male, and hosts a multi-faith Spiritual Centre. Cultural traditions include an annual graduation parade featuring an academic procession to Federation Square and a ceremony at the Docklands Stadium. RMIT boasts a vast international alumni network and notable graduates across film, sports, and arts sectors.

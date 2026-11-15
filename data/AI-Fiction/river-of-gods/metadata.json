@@ -1,0 +1,32 @@
+{
+  "id": 9454227,
+  "title": "River of Gods",
+  "url": "https://en.wikipedia.org/wiki/River_of_Gods",
+  "path": "AI-Fiction\\river-of-gods",
+  "summary": {
+    "chars": 453,
+    "tokens": 91
+  },
+  "document": {
+    "chars": 3899,
+    "tokens": 884
+  },
+  "infobox": {
+    "title": "River of Gods",
+    "data": {
+      "Author": "Ian McDonald",
+      "Cover artist": "Darren Wall",
+      "Language": "English",
+      "Genre": "Science fiction",
+      "Publisher": "Simon & Schuster",
+      "Publication date": "2004",
+      "Publication place": "United Kingdom",
+      "Media type": "Print (Hardback, Paperback)",
+      "Pages": "485 (Paperback 1st edition), 583 (Hardcover 1st edition)",
+      "ISBN": "0-7432-5670-0 (Paperback 1st edition), ISBN 0-7432-5669-7 (Hardcover 1st edition)",
+      "OCLC": "56503983",
+      "Dewey Decimal": "823.914 22",
+      "LC Class": "PR6063.C38 R58 2004"
+    }
+  }
+}

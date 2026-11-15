@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding the "University of the Andes (Colombia)". Therefore, I cannot generate a summary based strictly on the provided material.

@@ -1,0 +1,20 @@
+{
+  "id": 27567027,
+  "title": "Mendelssohn Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Mendelssohn_Scholarship",
+  "path": "Scholarships\\mendelssohn-scholarship",
+  "summary": {
+    "chars": 273,
+    "tokens": 56
+  },
+  "document": {
+    "chars": 7732,
+    "tokens": 2530
+  },
+  "infobox": {
+    "title": "",
+    "data": {
+      "Humperdinck": "Sittard"
+    }
+  }
+}

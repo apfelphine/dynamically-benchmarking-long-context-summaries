@@ -1,0 +1,26 @@
+{
+  "id": 301915,
+  "title": "John Cocke (computer scientist)",
+  "url": "https://en.wikipedia.org/wiki/John_Cocke_(computer_scientist)",
+  "path": "Comp-Sci-Pioneers\\john-cocke-computer-scientist",
+  "summary": {
+    "chars": 248,
+    "tokens": 56
+  },
+  "document": {
+    "chars": 1652,
+    "tokens": 365
+  },
+  "infobox": {
+    "title": "John Cocke",
+    "data": {
+      "Born": "May 30, 1925 \u00b7 Charlotte, North Carolina, US",
+      "Died": "July 16, 2002 (aged 77) \u00b7 Valhalla, New York, US",
+      "Education": "Duke University (BS, MS, PhD)",
+      "Known for": "RISC \u00b7 CYK algorithm",
+      "Awards": "ACM Turing Award (1987) \u00b7 Computer Pioneer Award (1989) \u00b7 National Medal of Technology (1991) \u00b7 National Medal of Science (1994) \u00b7 IEEE John von Neumann Medal (1994) \u00b7 Computer History Museum Fellow (2002)",
+      "Fields": "Computer Science",
+      "Institutions": "IBM"
+    }
+  }
+}

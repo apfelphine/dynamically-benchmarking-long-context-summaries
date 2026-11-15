@@ -1,0 +1,26 @@
+{
+  "id": 1257746,
+  "title": "Wesley A. Clark",
+  "url": "https://en.wikipedia.org/wiki/Wesley_A._Clark",
+  "path": "Comp-Sci-Pioneers\\wesley-a-clark",
+  "summary": {
+    "chars": 1113,
+    "tokens": 246
+  },
+  "document": {
+    "chars": 4993,
+    "tokens": 1068
+  },
+  "infobox": {
+    "title": "Wesley A. Clark",
+    "data": {
+      "Born": "Wesley Allison Clark \u00b7 April 10, 1927 \u00b7 New Haven, Connecticut, U.S.",
+      "Died": "February 22, 2016 (aged 88) \u00b7 Brooklyn, New York City, New York",
+      "Alma mater": "UC Berkeley",
+      "Known for": "TX-0, TX-2, LINC",
+      "Awards": "Eckert\u2013Mauchly Award \u00b7 Computer Pioneer Award \u00b7 National Academy of Engineering member",
+      "Fields": "Computer engineering \u00b7 Internet",
+      "Institutions": "MIT Lincoln Laboratory \u00b7 Washington University \u00b7 Clark, Rockoff and Associates"
+    }
+  }
+}

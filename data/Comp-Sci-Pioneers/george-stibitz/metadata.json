@@ -1,0 +1,23 @@
+{
+  "id": 637628,
+  "title": "George Stibitz",
+  "url": "https://en.wikipedia.org/wiki/George_Stibitz",
+  "path": "Comp-Sci-Pioneers\\george-stibitz",
+  "summary": {
+    "chars": 344,
+    "tokens": 80
+  },
+  "document": {
+    "chars": 5781,
+    "tokens": 1279
+  },
+  "infobox": {
+    "title": "George Stibitz",
+    "data": {
+      "Born": "April 20, 1904 \u00b7 York, Pennsylvania, U.S.",
+      "Died": "January 31, 1995 (aged 90) \u00b7 Hanover, New Hampshire, U.S.",
+      "Alma mater": "Cornell University \u00b7 Union College \u00b7 Denison University",
+      "Awards": "Harry H. Goode Memorial Award (1965) \u00b7 IEEE Emanuel R. Piore Award (1977)"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Logic, Mathematics, and Hardware Foundations\nThe evolution of computing rests on the theoretical advancements of Gottlob Frege, who established axiomatic predicate logic, and George Boole, whose Boolean algebra defined the logical operations underpinning modern hardware. These abstractions were operationalized by Claude Shannon and expanded by Federico Faggin, who invented Silicon Gate Technology to create the Intel 4004 microprocessor, catalyzing the personal computer revolution. Concurrently, Al-Khwarizmi revolutionized mathematics with algebra and the Hindu\u2013Arabic numeral system, while Kurt G\u00f6del and Ludwig Wittgenstein further shaped the logical landscape through their incompleteness theorems and linguistic analyses.",
+        "text_original": "The evolution of computing rests on the theoretical advancements of Gottlob Frege, who established axiomatic predicate logic, and George Boole, whose Boolean algebra defined the logical operations underpinning modern hardware. These abstractions were operationalized by Claude Shannon and expanded by Federico Faggin, who invented Silicon Gate Technology to create the Intel 4004 microprocessor, catalyzing the personal computer revolution. Concurrently, Al-Khwarizmi revolutionized mathematics with algebra and the Hindu\u2013Arabic numeral system, while Kurt G\u00f6del and Ludwig Wittgenstein further shaped the logical landscape through their incompleteness theorems and linguistic analyses",
+        "idx_start": 49,
+        "idx_end": 733
+    },
+    {
+        "document_idx": null,
+        "text": "# Engineering, Programming, and Communication Innovations\nPractical engineering milestones include Ismail al-Jazari's medieval automata and Per Brinch Hansen's modern operating system architecture, such as the \"monitor\" concept and remote procedure calls. In programming, Grace Hopper coined the term \"computer programming,\" developed the first compiler, and standardized COBOL, while Kenneth E. Iverson formalized APL to enable hardware-independent data processing. These efforts were complemented by Hedy Lamarr and George Antheil's invention of frequency-hopping spread-spectrum technology, which became foundational to modern wireless communications.",
+        "text_original": "Practical engineering milestones include Ismail al-Jazari's medieval automata and Per Brinch Hansen's modern operating system architecture, such as the \"monitor\" concept and remote procedure calls. In programming, Grace Hopper coined the term \"computer programming,\" developed the first compiler, and standardized COBOL, while Kenneth E. Iverson formalized APL to enable hardware-independent data processing. These efforts were complemented by Hedy Lamarr and George Antheil's invention of frequency-hopping spread-spectrum technology, which became foundational to modern wireless communications",
+        "idx_start": 796,
+        "idx_end": 1391
+    },
+    {
+        "document_idx": null,
+        "text": "# Legacy, Ethics, and Global Perspectives\nThe enduring legacy of these pioneers extends into software theory and hardware ethics. Edsger W. Dijkstra reshaped software practice with semaphores and the rejection of \"Go To\" statements, while Lynn Conway advanced VLSI prototyping and highlighted the gender bias in engineering through the \"Conway effect.\" Beyond Western contributions, figures like Jacek Karpi\u0144ski demonstrated resilience in developing scientific computers despite political and economic constraints, and Ramon Llull's historical \"Art of Reasoning\" is now recognized as a significant precursor to modern algorithms.",
+        "text_original": "The enduring legacy of these pioneers extends into software theory and hardware ethics. Edsger W. Dijkstra reshaped software practice with semaphores and the rejection of \"Go To\" statements, while Lynn Conway advanced VLSI prototyping and highlighted the gender bias in engineering through the \"Conway effect.\" Beyond Western contributions, figures like Jacek Karpi\u0144ski demonstrated resilience in developing scientific computers despite political and economic constraints, and Ramon Llull's historical \"Art of Reasoning\" is now recognized as a significant precursor to modern algorithms",
+        "idx_start": 1438,
+        "idx_end": 2024
+    }
+]

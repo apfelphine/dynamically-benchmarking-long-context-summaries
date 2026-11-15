@@ -1,0 +1,198 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education in Romania\n## Overview\nEducation in Romania is compulsory for 15 years, from kindergarten (preschool) to the twelfth grade. The private sector plays a minimal role, except in kindergarten and tertiary education. Compulsory education began in 1864 under Alexandru Ioan Cuza, though illiteracy persisted until literacy campaigns in the 1950s eradicated it. The system was influenced by French and Soviet models during the communist era, including political indoctrination and compulsory physical labor.",
+        "text_original": "Education in Romania is compulsory for 15 years, from kindergarten (preschool) to the twelfth grade. The private sector plays a minimal role, except in kindergarten and tertiary education. Compulsory education began in 1864 under Alexandru Ioan Cuza, though illiteracy persisted until literacy campaigns in the 1950s eradicated it. The system was influenced by French and Soviet models during the communist era, including political indoctrination and compulsory physical labor",
+        "idx_start": 48,
+        "idx_end": 524
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Romania\n## Compulsory Education\nThe duration of compulsory education has fluctuated historically, ranging from 4 to 14 years. Key reforms include:\n- **1947\u20131989** : Gradual expansion from 7 to 10 years, later reduced to 8 years post-1989 due to perceived poor quality and high costs.\n- **2003** : Reinstated to 10 years.\n- **2020** : Extended to 14 years, including kindergarten and two additional high school years.",
+        "text_original": "The duration of compulsory education has fluctuated historically, ranging from 4 to 14 years. Key reforms include:\n- **1947\u20131989**: Gradual expansion from 7 to 10 years, later reduced to 8 years post-1989 due to perceived poor quality and high costs.\n- **2003**: Reinstated to 10 years.\n- **2020**: Extended to 14 years, including kindergarten and two additional high school years",
+        "idx_start": 557,
+        "idx_end": 937
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Romania\n## Kindergarten\nKindergartens offer preschool education for ages 3\u20136, divided into \"small group\" (3\u20134), \"middle group\" (4\u20135), and \"big group\" (5\u20136). The \"preparatory school year\" (clasa preg\u0103titoare) became compulsory in 2012, requiring children aged 6\u20137 to attend. Tuition is free in public kindergartens but varies in private schools (\u20ac400\u2013\u20ac1,600/month). Rural kindergartens face underfunding and limited availability.",
+        "text_original": "Kindergartens offer preschool education for ages 3\u20136, divided into \"small group\" (3\u20134), \"middle group\" (4\u20135), and \"big group\" (5\u20136). The \"preparatory school year\" (clasa preg\u0103titoare) became compulsory in 2012, requiring children aged 6\u20137 to attend. Tuition is free in public kindergartens but varies in private schools (\u20ac400\u2013\u20ac1,600/month). Rural kindergartens face underfunding and limited availability",
+        "idx_start": 962,
+        "idx_end": 1365
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Romania\n## Elementary School\nElementary education spans primary school (years 1\u20134) and gymnasium (years 5\u20138). Grading follows a two-tier system: qualitative grades (FB, B, S, N/I) for years 1\u20134, and a 1\u201310 scale for years 5\u201312. Core subjects include Romanian, mathematics, history, geography, natural sciences, and foreign languages. Science and mathematics are taught in English under the Dual Language Program (DLP).",
+        "text_original": "Elementary education spans primary school (years 1\u20134) and gymnasium (years 5\u20138). Grading follows a two-tier system: qualitative grades (FB, B, S, N/I) for years 1\u20134, and a 1\u201310 scale for years 5\u201312. Core subjects include Romanian, mathematics, history, geography, natural sciences, and foreign languages. Science and mathematics are taught in English under the Dual Language Program (DLP",
+        "idx_start": 1395,
+        "idx_end": 1782
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Romania\n## Secondary Education\nHigh school includes four years of junior high (years 7\u201310) and two years of senior high (years 11\u201312). Admission to high school requires the National Test (Evaluarea Na\u021bional\u0103), with top scores securing entry to prestigious institutions. The Baccalaureate exam (Examenul Na\u021bional de Bacalaureat) is mandatory for university admission. Five types of high schools exist, including National Colleges (most prestigious) and vocational schools.",
+        "text_original": "High school includes four years of junior high (years 7\u201310) and two years of senior high (years 11\u201312). Admission to high school requires the National Test (Evaluarea Na\u021bional\u0103), with top scores securing entry to prestigious institutions. The Baccalaureate exam (Examenul Na\u021bional de Bacalaureat) is mandatory for university admission. Five types of high schools exist, including National Colleges (most prestigious) and vocational schools",
+        "idx_start": 1815,
+        "idx_end": 2254
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Romania\n## Higher Education\nRomania follows the Bologna process, offering three cycles: bachelor\u2019s (3 years), master\u2019s (2 years), and doctoral (3 years). Public universities (56) and private institutions (41) are accredited. The system includes vocational education and international collaborations under programs like Tempus and Erasmus. Foreign students represent 5.1% of enrollment.",
+        "text_original": "Romania follows the Bologna process, offering three cycles: bachelor\u2019s (3 years), master\u2019s (2 years), and doctoral (3 years). Public universities (56) and private institutions (41) are accredited. The system includes vocational education and international collaborations under programs like Tempus and Erasmus. Foreign students represent 5.1% of enrollment",
+        "idx_start": 2283,
+        "idx_end": 2639
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Romania\n## Issues and Challenges\n- **Rural Education** : Limited access to schools, transportation, and resources, leading to high dropout rates.\n- **Language** : Controversial religious education policies, with debates over confessional vs. secular teaching.\n- **Funding** : Secondary education is underfunded, with parents contributing modestly to classroom expenses.\n- **Literacy** : Almost universal literacy (0.83% illiterate), but higher rates among Roma and Turkish minorities.",
+        "text_original": "Rural Education**: Limited access to schools, transportation, and resources, leading to high dropout rates.\n- **Language**: Controversial religious education policies, with debates over confessional vs. secular teaching.\n- **Funding**: Secondary education is underfunded, with parents contributing modestly to classroom expenses.\n- **Literacy**: Almost universal literacy (0.83% illiterate), but higher rates among Roma and Turkish minorities",
+        "idx_start": 2677,
+        "idx_end": 3119
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Australia\n## Structure and Policies\nAustralia\u2019s education system is regulated by state and territory governments, with federal involvement in non-government schools, public universities, and vocational education. The system includes:\n- **Preschool** : Optional, with government-funded preschools offering 15 hours/week for ages 4\u20135.\n- **Primary and Secondary Education** : Compulsory from age 6 to 17, with a national curriculum and standardized assessments (NAPLAN).\n- **Higher Education** : Public universities are subsidized, and tertiary education is funded through student loans.",
+        "text_original": "Australia\u2019s education system is regulated by state and territory governments, with federal involvement in non-government schools, public universities, and vocational education. The system includes:\n- **Preschool**: Optional, with government-funded preschools offering 15 hours/week for ages 4\u20135.\n- **Primary and Secondary Education**: Compulsory from age 6 to 17, with a national curriculum and standardized assessments (NAPLAN).\n- **Higher Education**: Public universities are subsidized, and tertiary education is funded through student loans",
+        "idx_start": 3191,
+        "idx_end": 3735
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Australia\n## Compulsory Attendance\nEducation is compulsory from age 6 to 17, with variations by state. The school year runs from January to December, divided into three terms. Class sizes are capped at 30 students, with smaller classes in rural areas.",
+        "text_original": "Education is compulsory from age 6 to 17, with variations by state. The school year runs from January to December, divided into three terms. Class sizes are capped at 30 students, with smaller classes in rural areas",
+        "idx_start": 3769,
+        "idx_end": 3984
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Australia\n## Curriculum and Types of Schools\n- **Government Schools** : Free, with standardized curricula. Classrooms are divided into \"open\" or \"comprehensive\" schools, selective schools, and specialist schools.\n- **Non-Government Schools** : Include Catholic and private schools, with varying governance and funding.\n- **International Schools** : Offer curricula from other countries (e.g., Cambridge, IB).",
+        "text_original": "Government Schools**: Free, with standardized curricula. Classrooms are divided into \"open\" or \"comprehensive\" schools, selective schools, and specialist schools.\n- **Non-Government Schools**: Include Catholic and private schools, with varying governance and funding.\n- **International Schools**: Offer curricula from other countries (e.g., Cambridge, IB",
+        "idx_start": 4032,
+        "idx_end": 4386
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Australia\n## Performance and Challenges\n- **PISA Scores** : Australian students ranked 16th in reading, 29th in math, and 17th in science in 2018.\n- **Funding** : The Gonski Report (2011) recommended equitable school funding, but implementation was delayed. Rural and Indigenous education remains underfunded.\n- **Violence** : School violence is a growing concern, with 48% of principals reporting physical aggression in 2024.",
+        "text_original": "PISA Scores**: Australian students ranked 16th in reading, 29th in math, and 17th in science in 2018.\n- **Funding**: The Gonski Report (2011) recommended equitable school funding, but implementation was delayed. Rural and Indigenous education remains underfunded.\n- **Violence**: School violence is a growing concern, with 48% of principals reporting physical aggression in",
+        "idx_start": 4430,
+        "idx_end": 4803
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Australia\n## Higher Education\nAustralia has 42 universities, with 37 public and 3 private institutions. The Bologna process has been adopted, offering bachelor\u2019s, master\u2019s, and doctoral degrees. International students represent 26.7% of university enrollment.",
+        "text_original": "Australia has 42 universities, with 37 public and 3 private institutions. The Bologna process has been adopted, offering bachelor\u2019s, master\u2019s, and doctoral degrees. International students represent 26.7% of university enrollment",
+        "idx_start": 4837,
+        "idx_end": 5065
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Malaysia\n## History and Structure\nMalaysia\u2019s education system was influenced by British colonial policies and later adopted the Razak Report (1956), which standardized a national curriculum. Key features:\n- **Preschool** : Optional, with government and private options.\n- **Primary Education** : Compulsory from age 7 to 12, divided into three stages (1\u20133, 4\u20136, 7\u20139). The Primary School Achievement Test (UPSR) was abolished in 2021.\n- **Secondary Education** : Compulsory from age 13 to 17, with five years of study (Form 1\u20135). The Sijil Pelajaran Malaysia (SPM) exam is required for graduation.",
+        "text_original": "Malaysia\u2019s education system was influenced by British colonial policies and later adopted the Razak Report (1956), which standardized a national curriculum. Key features:\n- **Preschool**: Optional, with government and private options.\n- **Primary Education**: Compulsory from age 7 to 12, divided into three stages (1\u20133, 4\u20136, 7\u20139). The Primary School Achievement Test (UPSR) was abolished in 2021.\n- **Secondary Education**: Compulsory from age 13 to 17, with five years of study (Form 1\u20135). The Sijil Pelajaran Malaysia (SPM) exam is required for graduation",
+        "idx_start": 5135,
+        "idx_end": 5693
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Malaysia\n## Languages and Dual Language Program (DLP)\nMalay is the national language, but English is compulsory. The DLP offers English instruction in Science and Mathematics, aiming to improve global competitiveness. Controversies include language proficiency concerns and resource allocation issues.",
+        "text_original": "Malay is the national language, but English is compulsory. The DLP offers English instruction in Science and Mathematics, aiming to improve global competitiveness. Controversies include language proficiency concerns and resource allocation issues",
+        "idx_start": 5747,
+        "idx_end": 5993
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Malaysia\n## Higher Education\nMalaysia\u2019s tertiary education is heavily subsidized, with public universities (20) and private institutions (1,729). The system follows the Malaysian Qualifications Framework (MQF). Postgraduate programs include MBA and PhD degrees.",
+        "text_original": "Malaysia\u2019s tertiary education is heavily subsidized, with public universities (20) and private institutions (1,729). The system follows the Malaysian Qualifications Framework (MQF). Postgraduate programs include MBA and PhD degrees",
+        "idx_start": 6022,
+        "idx_end": 6253
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Malaysia\n## Issues\n- **Language** : Debates over vernacular schools (Chinese and Tamil) and the DLP\u2019s impact on language use.\n- **Racial Quotas** : Historically used in university admissions, now largely abolished.\n- **Funding** : Underinvestment in education, leading to poor learning outcomes.",
+        "text_original": "Language**: Debates over vernacular schools (Chinese and Tamil) and the DLP\u2019s impact on language use.\n- **Racial Quotas**: Historically used in university admissions, now largely abolished.\n- **Funding**: Underinvestment in education, leading to poor learning outcomes",
+        "idx_start": 6276,
+        "idx_end": 6544
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Portugal\n## Structure and Policies\nPortugal\u2019s education system is divided into basic (9 years), secondary (3 years), and higher education. Key features:\n- **Basic Education** : Compulsory from age 6 to 14, divided into three cycles (1\u20134, 5\u20136, 7\u20139). Grading is on a scale of 0\u201320.\n- **Secondary Education** : Compulsory from age 15 to 18, with three tracks (general, professional, artistic).\n- **Higher Education** : Follows the Bologna process, with universities and polytechnics offering bachelor\u2019s, master\u2019s, and doctoral degrees.",
+        "text_original": "Portugal\u2019s education system is divided into basic (9 years), secondary (3 years), and higher education. Key features:\n- **Basic Education**: Compulsory from age 6 to 14, divided into three cycles (1\u20134, 5\u20136, 7\u20139). Grading is on a scale of 0\u201320.\n- **Secondary Education**: Compulsory from age 15 to 18, with three tracks (general, professional, artistic).\n- **Higher Education**: Follows the Bologna process, with universities and polytechnics offering bachelor\u2019s, master\u2019s, and doctoral degrees",
+        "idx_start": 6615,
+        "idx_end": 7108
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Portugal\n## Early Childhood Education\nPreschool (Jardim de Inf\u00e2ncia) is optional for ages 3\u20135. Kindergarten (Jardim de Inf\u00e2ncia) is free in public schools.",
+        "text_original": "Preschool (Jardim de Inf\u00e2ncia) is optional for ages 3\u20135. Kindergarten (Jardim de Inf\u00e2ncia) is free in public schools",
+        "idx_start": 7146,
+        "idx_end": 7262
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Portugal\n## Issues\n- **Funding** : Low higher education enrollment (11% of university-age citizens) due to high costs.\n- **Quality** : Criticisms of diploma mills and lack of academic rigor in private institutions.\n- **Violence** : School violence is a growing concern, with measures like the Escola Segura program.",
+        "text_original": "Funding**: Low higher education enrollment (11% of university-age citizens) due to high costs.\n- **Quality**: Criticisms of diploma mills and lack of academic rigor in private institutions.\n- **Violence**: School violence is a growing concern, with measures like the Escola Segura program",
+        "idx_start": 7285,
+        "idx_end": 7573
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Philippines\n## Structure and Policies\nThe Philippines follows a K\u201312 system, with kindergarten and 12 years of compulsory education. Key features:\n- **Kindergarten** : Compulsory since 2011.\n- **Elementary School** : Grades 1\u20136, with a Mother Tongue-Based Multilingual Education (MTB-MLE) system.\n- **Secondary Education** : Grades 7\u201312, divided into junior high (7\u201310) and senior high (11\u201312). The Senior High School curriculum includes eight learning areas and four tracks (Academic, Technical-Vocational-Livelihood, Sports, Arts and Design).",
+        "text_original": "The Philippines follows a K\u201312 system, with kindergarten and 12 years of compulsory education. Key features:\n- **Kindergarten**: Compulsory since 2011.\n- **Elementary School**: Grades 1\u20136, with a Mother Tongue-Based Multilingual Education (MTB-MLE) system.\n- **Secondary Education**: Grades 7\u201312, divided into junior high (7\u201310) and senior high (11\u201312). The Senior High School curriculum includes eight learning areas and four tracks (Academic, Technical-Vocational-Livelihood, Sports, Arts and Design",
+        "idx_start": 7651,
+        "idx_end": 8152
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Philippines\n## Higher Education\nThe Philippines has over 1,975 higher education institutions, with 246 public and 1,729 private. The Commission on Higher Education (CHED) regulates admissions and accreditation. The Universal Access to Quality Tertiary Education Act (2017) mandates free tertiary education for all Filipinos.",
+        "text_original": "The Philippines has over 1,975 higher education institutions, with 246 public and 1,729 private. The Commission on Higher Education (CHED) regulates admissions and accreditation. The Universal Access to Quality Tertiary Education Act (2017) mandates free tertiary education for all Filipinos",
+        "idx_start": 8182,
+        "idx_end": 8473
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Philippines\n## Issues\n- **Funding** : Underinvestment in education, leading to poor learning outcomes and high dropout rates.\n- **Standardized Testing** : The K\u201312 system has faced criticism for its focus on standardized tests.\n- **Rural Education** : Limited access to schools and resources in rural areas.",
+        "text_original": "Funding**: Underinvestment in education, leading to poor learning outcomes and high dropout rates.\n- **Standardized Testing**: The K\u201312 system has faced criticism for its focus on standardized tests.\n- **Rural Education**: Limited access to schools and resources in rural areas",
+        "idx_start": 8496,
+        "idx_end": 8773
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in South Africa\n## Structure and Policies\nSouth Africa\u2019s education system is divided into basic (primary and secondary) and higher education. Key features:\n- **Basic Education** : Compulsory from age 5 to 17, with grades R\u201312. The system is divided into Foundation Phase (R\u20133), Intermediate Phase (4\u20136), and Senior Phase (7\u20139).\n- **Higher Education** : Includes universities, technikons, and colleges. The National Qualifications Framework (NQF) regulates qualifications.",
+        "text_original": "South Africa\u2019s education system is divided into basic (primary and secondary) and higher education. Key features:\n- **Basic Education**: Compulsory from age 5 to 17, with grades R\u201312. The system is divided into Foundation Phase (R\u20133), Intermediate Phase (4\u20136), and Senior Phase (7\u20139).\n- **Higher Education**: Includes universities, technikons, and colleges. The National Qualifications Framework (NQF) regulates qualifications",
+        "idx_start": 8848,
+        "idx_end": 9274
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in South Africa\n## Issues\n- **Funding** : Inequitable funding between wealthier and poorer districts, leading to disparities in educational outcomes.\n- **Violence** : School violence is a significant issue, with measures like the Hlayiseka program aimed at curbing it.\n- **Performance** : Poor academic performance, with high dropout rates and low literacy rates.",
+        "text_original": "Funding**: Inequitable funding between wealthier and poorer districts, leading to disparities in educational outcomes.\n- **Violence**: School violence is a significant issue, with measures like the Hlayiseka program aimed at curbing it.\n- **Performance**: Poor academic performance, with high dropout rates and low literacy rates",
+        "idx_start": 9297,
+        "idx_end": 9626
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the United States\n## Structure and Policies\nThe U.S. education system is highly decentralized, with control over public schools primarily held by state and local governments. Key features:\n- **Compulsory Education** : Varies by state, typically from age 5 to 16.\n- **K\u201312 Education** : Includes primary (K\u20135) and secondary (6\u201312) schools. Standardized testing (NAPLAN) is used for accountability.\n- **Higher Education** : Over 4,495 colleges and universities, with public institutions offering lower tuition than private ones.",
+        "text_original": "The U.S. education system is highly decentralized, with control over public schools primarily held by state and local governments. Key features:\n- **Compulsory Education**: Varies by state, typically from age 5 to 16.\n- **K\u201312 Education**: Includes primary (K\u20135) and secondary (6\u201312) schools. Standardized testing (NAPLAN) is used for accountability.\n- **Higher Education**: Over 4,495 colleges and universities, with public institutions offering lower tuition than private ones",
+        "idx_start": 9706,
+        "idx_end": 10184
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the United States\n## Issues\n- **Affirmative Action** : Supreme Court ruling (2023) overturned race-based admissions in universities.\n- **Teacher Shortage** : Low teacher retention and high turnover rates, exacerbated by low salaries.\n- **Funding** : Inequitable distribution of funds, with rural and low-income schools often underfunded.",
+        "text_original": "Affirmative Action**: Supreme Court ruling (2023) overturned race-based admissions in universities.\n- **Teacher Shortage**: Low teacher retention and high turnover rates, exacerbated by low salaries.\n- **Funding**: Inequitable distribution of funds, with rural and low-income schools often underfunded",
+        "idx_start": 10207,
+        "idx_end": 10508
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Finland\n## Structure and Policies\nFinland\u2019s education system is known for its high quality and equity. Key features:\n- **Basic Education** : Compulsory from age 7 to 16, with grades 1\u20139. The system emphasizes play-based learning and small class sizes.\n- **Upper Secondary Education** : Compulsory from age 15 to 18, with two tracks (academic and vocational).\n- **Higher Education** : Follows the Bologna process, with free tuition for EU/EEA students and fees for non-EU students.",
+        "text_original": "Finland\u2019s education system is known for its high quality and equity. Key features:\n- **Basic Education**: Compulsory from age 7 to 16, with grades 1\u20139. The system emphasizes play-based learning and small class sizes.\n- **Upper Secondary Education**: Compulsory from age 15 to 18, with two tracks (academic and vocational).\n- **Higher Education**: Follows the Bologna process, with free tuition for EU/EEA students and fees for non-EU students",
+        "idx_start": 10578,
+        "idx_end": 11020
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Finland\n## Issues\n- **Tuition Fees** : Non-EU students pay tuition fees, which have been criticized for limiting access to higher education.\n- **Globalization** : Challenges in maintaining a unique Finnish education model amid increasing international competition.",
+        "text_original": "Tuition Fees**: Non-EU students pay tuition fees, which have been criticized for limiting access to higher education.\n- **Globalization**: Challenges in maintaining a unique Finnish education model amid increasing international competition",
+        "idx_start": 11043,
+        "idx_end": 11282
+    }
+]

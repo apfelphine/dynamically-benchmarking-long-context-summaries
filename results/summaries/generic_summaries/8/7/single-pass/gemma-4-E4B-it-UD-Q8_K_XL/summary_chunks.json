@@ -1,0 +1,79 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Educational Systems Overview\n## Finland\nFinnish education has a long history rooted in Lutheranism, leading to high literacy rates. The system evolved from early Swedish-language schooling to the modern model where grades 1\u20139 are compulsory in a comprehensive school. Post-age 15, students bifurcate into academic ( *lukio* ) or vocational ( *ammattioppilaitos* ) tracks. Early childhood education emphasizes individuality, social skills, and play-based learning, with free universal daycare available since 1990. Tertiary education comprises traditional universities (research-focused) and universities of applied sciences (work-focused). While generally egalitarian, recent changes reflect the Bologna Process and address rising academic unemployment.",
+        "text_original": "Finnish education has a long history rooted in Lutheranism, leading to high literacy rates. The system evolved from early Swedish-language schooling to the modern model where grades 1\u20139 are compulsory in a comprehensive school. Post-age 15, students bifurcate into academic (*lukio*) or vocational (*ammattioppilaitos*) tracks. Early childhood education emphasizes individuality, social skills, and play-based learning, with free universal daycare available since 1990. Tertiary education comprises traditional universities (research-focused) and universities of applied sciences (work-focused). While generally egalitarian, recent changes reflect the Bologna Process and address rising academic unemployment",
+        "idx_start": 43,
+        "idx_end": 751
+    },
+    {
+        "document_idx": null,
+        "text": "# Educational Systems Overview\n## United States\nThe US education system is decentralized, governed by federal, state, and local policies. Compulsory education generally runs from Kindergarten through 12th grade. K-12 education is divided into elementary (K-6) and secondary (grades 7-12). Higher education is optional and highly valued, though significant disparities exist based on socioeconomic status, race, and geography. Key issues include the debate over standardized testing, increasing student loan debt, and persistent educational inequality, with recent impacts exacerbated by the COVID-19 pandemic.",
+        "text_original": "The US education system is decentralized, governed by federal, state, and local policies. Compulsory education generally runs from Kindergarten through 12th grade. K-12 education is divided into elementary (K-6) and secondary (grades 7-12). Higher education is optional and highly valued, though significant disparities exist based on socioeconomic status, race, and geography. Key issues include the debate over standardized testing, increasing student loan debt, and persistent educational inequality, with recent impacts exacerbated by the COVID-19 pandemic",
+        "idx_start": 771,
+        "idx_end": 1331
+    },
+    {
+        "document_idx": null,
+        "text": "# Educational Systems Overview\n## South Africa\nSouth African education is structured across Basic Education (Grade 1\u201312) and higher education. Basic Education is divided into General Education and Training (GET, Grades R\u20139) and Further Education and Training (FET, Grades 10\u201312). The system faces challenges related to inequality, with funding heavily dependent on the neighborhood's poverty level. ICT adoption has been slow due to infrastructure and resource limitations, though government initiatives like South Africa Connect aim to improve connectivity.",
+        "text_original": "South African education is structured across Basic Education (Grade 1\u201312) and higher education. Basic Education is divided into General Education and Training (GET, Grades R\u20139) and Further Education and Training (FET, Grades 10\u201312). The system faces challenges related to inequality, with funding heavily dependent on the neighborhood's poverty level. ICT adoption has been slow due to infrastructure and resource limitations, though government initiatives like South Africa Connect aim to improve connectivity",
+        "idx_start": 1350,
+        "idx_end": 1860
+    },
+    {
+        "document_idx": null,
+        "text": "# Educational Systems Overview\n## Philippines\nThe Philippine education system has transitioned from Spanish to American colonial models, culminating in the current K\u201312 structure. Basic education is compulsory and free for pre-elementary through 12th grade. The curriculum emphasizes Mother Tongue-Based Multilingual Education (MTB-MLE) in early grades. While tertiary education is heavily subsidized by the government, the system faces issues like an education-employment mismatch and low functional literacy rates, particularly in remote areas.",
+        "text_original": "The Philippine education system has transitioned from Spanish to American colonial models, culminating in the current K\u201312 structure. Basic education is compulsory and free for pre-elementary through 12th grade. The curriculum emphasizes Mother Tongue-Based Multilingual Education (MTB-MLE) in early grades. While tertiary education is heavily subsidized by the government, the system faces issues like an education-employment mismatch and low functional literacy rates, particularly in remote areas",
+        "idx_start": 1878,
+        "idx_end": 2377
+    },
+    {
+        "document_idx": null,
+        "text": "# Educational Systems Overview\n## Portugal\nPortuguese education has made significant strides in literacy, moving from over 80% illiteracy in the 1930s to near universality today, heavily influenced by the Estado Novo regime's push for education. The system is structured with three cycles in Basic Education (9 years), followed by a 3-year compulsory Secondary Education. The Bologna Process has integrated university and polytechnic systems, linking them through a standardized degree structure.",
+        "text_original": "Portuguese education has made significant strides in literacy, moving from over 80% illiteracy in the 1930s to near universality today, heavily influenced by the Estado Novo regime's push for education. The system is structured with three cycles in Basic Education (9 years), followed by a 3-year compulsory Secondary Education. The Bologna Process has integrated university and polytechnic systems, linking them through a standardized degree structure",
+        "idx_start": 2392,
+        "idx_end": 2844
+    },
+    {
+        "document_idx": null,
+        "text": "# Educational Systems Overview\n## Malaysia\nEducation in Malaysia is characterized by a linguistic divide, rooted in the Razak Report. Public primary schools are divided into Malay-medium National Schools and non-Malay-medium National-type Schools (Chinese and Tamil). Secondary education is currently not compulsory but plans exist to mandate it. The Dual Language Program (DLP) attempts to enhance English proficiency in STEM subjects, but the system grapples with issues of racial polarization and language preservation.",
+        "text_original": "Education in Malaysia is characterized by a linguistic divide, rooted in the Razak Report. Public primary schools are divided into Malay-medium National Schools and non-Malay-medium National-type Schools (Chinese and Tamil). Secondary education is currently not compulsory but plans exist to mandate it. The Dual Language Program (DLP) attempts to enhance English proficiency in STEM subjects, but the system grapples with issues of racial polarization and language preservation",
+        "idx_start": 2859,
+        "idx_end": 3337
+    },
+    {
+        "document_idx": null,
+        "text": "# Educational Systems Overview\n## Australia\nAustralia's education is regulated by states and territories, with the federal government providing funding support and national curriculum oversight (Australian Curriculum). The system is broadly categorized into government and non-government (Catholic and private) schools. Compulsory education varies by state, and the system uses the Australian Qualifications Framework. Significant efforts are underway to address the educational disadvantages faced by Aboriginal and Torres Strait Islander peoples.",
+        "text_original": "Australia's education is regulated by states and territories, with the federal government providing funding support and national curriculum oversight (Australian Curriculum). The system is broadly categorized into government and non-government (Catholic and private) schools. Compulsory education varies by state, and the system uses the Australian Qualifications Framework. Significant efforts are underway to address the educational disadvantages faced by Aboriginal and Torres Strait Islander peoples",
+        "idx_start": 3353,
+        "idx_end": 3856
+    },
+    {
+        "document_idx": null,
+        "text": "# Educational Systems Overview\n## Romania\nEducation is compulsory for 15 years, with the latest reforms raising it to 14 years, incorporating mandatory preparatory kindergarten. The system resembles the French model. While literacy is nearly universal, rural areas face significant disadvantages, and the system's quality and standardization across regions remain inconsistent.",
+        "text_original": "Education is compulsory for 15 years, with the latest reforms raising it to 14 years, incorporating mandatory preparatory kindergarten. The system resembles the French model. While literacy is nearly universal, rural areas face significant disadvantages, and the system's quality and standardization across regions remain inconsistent",
+        "idx_start": 3870,
+        "idx_end": 4204
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Issues\n## Quality, Equity, and Outcomes\n- **Finland:** Known for high educational equity and a focus on \"learning how to learn,\" with minimal high-stakes testing and strong support systems.\n- **United States:** Marked by significant achievement gaps across race and income, and debates over the effectiveness of standardized testing.\n- **Philippines:** Struggles with foundational skill attainment and regional disparities, despite the implementation of the K-12 system.\n- **Portugal:** Has achieved high general literacy but faces criticisms regarding the quality and rigor of some private/polytechnic institutions.\n- **Malaysia:** Deals with institutionalized language polarization between national and vernacular schools.\n- **Australia:** Shows strong overall human development rankings but notes a decline in standardized test performance and ongoing \"Closing the Gap\" efforts for Indigenous students.\n- **South Africa:** Exhibits stark inequality in funding and resources between affluent and poorer districts.",
+        "text_original": "Finland:** Known for high educational equity and a focus on \"learning how to learn,\" with minimal high-stakes testing and strong support systems.\n*   **United States:** Marked by significant achievement gaps across race and income, and debates over the effectiveness of standardized testing.\n*   **Philippines:** Struggles with foundational skill attainment and regional disparities, despite the implementation of the K-12 system.\n*   **Portugal:** Has achieved high general literacy but faces criticisms regarding the quality and rigor of some private/polytechnic institutions.\n*   **Malaysia:** Deals with institutionalized language polarization between national and vernacular schools.\n*   **Australia:** Shows strong overall human development rankings but notes a decline in standardized test performance and ongoing \"Closing the Gap\" efforts for Indigenous students.\n*   **South Africa:** Exhibits stark inequality in funding and resources between affluent and poorer districts",
+        "idx_start": 4268,
+        "idx_end": 5250
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Issues\n## Infrastructure and Funding\n- **Australia/Portugal:** Both systems are supported by national frameworks, though funding models differ. Portugal faces financial strain in higher education.\n- **US/Philippines/South Africa:** These nations face major challenges with inadequate infrastructure, resource shortages (classrooms, textbooks), and funding disparities, often leading to high dropout rates in vulnerable populations.\n- **Finland:** Municipalities are largely responsible for funding, ensuring broad access.",
+        "text_original": "Australia/Portugal:** Both systems are supported by national frameworks, though funding models differ. Portugal faces financial strain in higher education.\n*   **US/Philippines/South Africa:** These nations face major challenges with inadequate infrastructure, resource shortages (classrooms, textbooks), and funding disparities, often leading to high dropout rates in vulnerable populations.\n*   **Finland:** Municipalities are largely responsible for funding, ensuring broad access",
+        "idx_start": 5289,
+        "idx_end": 5772
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Issues\n## Modernization and Policy Shifts\n- **Finland:** Recently mandated phenomenon-based learning across basic schools.\n- **Philippines/Malaysia:** Both are actively implementing large-scale curriculum overhauls (K-12 in the Philippines).\n- **Romania/Portugal:** Both have reformed higher education to align with the European Bologna Process.\n- **US:** Reforms like *Every Student Succeeds Act* aim to balance federal oversight with state control.",
+        "text_original": "Finland:** Recently mandated phenomenon-based learning across basic schools.\n*   **Philippines/Malaysia:** Both are actively implementing large-scale curriculum overhauls (K-12 in the Philippines).\n*   **Romania/Portugal:** Both have reformed higher education to align with the European Bologna Process.\n*   **US:** Reforms like *Every Student Succeeds Act* aim to balance federal oversight with state control",
+        "idx_start": 5816,
+        "idx_end": 6225
+    }
+]

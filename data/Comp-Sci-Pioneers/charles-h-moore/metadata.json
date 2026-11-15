@@ -1,0 +1,26 @@
+{
+  "id": 320456,
+  "title": "Charles H. Moore",
+  "url": "https://en.wikipedia.org/wiki/Charles_H._Moore",
+  "path": "Comp-Sci-Pioneers\\charles-h-moore",
+  "summary": {
+    "chars": 1285,
+    "tokens": 274
+  },
+  "document": {
+    "chars": 2751,
+    "tokens": 648
+  },
+  "infobox": {
+    "title": "Chuck Moore",
+    "data": {
+      "Born": "Charles Havice Moore II \u00b7 9 September 1938 \u00b7 McKeesport, Pennsylvania",
+      "Citizenship": "American",
+      "Occupation": "Computer chip designer",
+      "Known for": "Forth programming language \u00b7 Stack machine processors",
+      "Spouse": "Winifred Bellis (m. 1967\u20132005, her death)",
+      "Children": "Eric O. Moore",
+      "Website": "colorforth.github.io"
+    }
+  }
+}

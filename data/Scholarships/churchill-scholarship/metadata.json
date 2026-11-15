@@ -1,0 +1,24 @@
+{
+  "id": 1963442,
+  "title": "Churchill Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Churchill_Scholarship",
+  "path": "Scholarships\\churchill-scholarship",
+  "summary": {
+    "chars": 748,
+    "tokens": 129
+  },
+  "document": {
+    "chars": 10347,
+    "tokens": 1770
+  },
+  "infobox": {
+    "title": "Churchill Scholarship",
+    "data": {
+      "Awarded for": "one year of study at Churchill College at the University of Cambridge",
+      "Sponsored by": "Winston Churchill Foundation of the United States",
+      "Location": "Cambridge, England",
+      "Established": "1959",
+      "Website": "churchillscholarship.org"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary\nU.S. federal and state AI regulation has evolved since 2016 to balance innovation, safety, equity, and transparency. Measures such as the AI Bill of Rights, executive orders, and federal agency oversight aim to ensure fairness and accountability in sectors like facial recognition, healthcare, employment, and criminal justice. State initiatives focus on addressing bias, misuse of generative AI, and voice-cloning, shaped by Silicon Valley activism and ongoing debates about technological progress.",
+        "text_original": "U.S. federal and state AI regulation has evolved since 2016 to balance innovation, safety, equity, and transparency. Measures such as the AI Bill of Rights, executive orders, and federal agency oversight aim to ensure fairness and accountability in sectors like facial recognition, healthcare, employment, and criminal justice. State initiatives focus on addressing bias, misuse of generative AI, and voice-cloning, shaped by Silicon Valley activism and ongoing debates about technological progress",
+        "idx_start": 12,
+        "idx_end": 510
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Technological Singularity, Societal Impact, and Ethics\nThe concept of the technological singularity, popularized by figures like Ray Kurzweil, influences discussions around superintelligent AI, existential risks, digital immortality, and transformative employment effects, guiding Congressional and public debates on the broader societal consequences of AI.",
+        "text_original": "The concept of the technological singularity, popularized by figures like Ray Kurzweil, influences discussions around superintelligent AI, existential risks, digital immortality, and transformative employment effects, guiding Congressional and public debates on the broader societal consequences of AI",
+        "idx_start": 573,
+        "idx_end": 874
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Ethics and Governance of AI\nAI ethics and governance blend philosophical, regulatory, and practical approaches, emphasizing bias reduction, accountability, transparency, sustainability, and risk management. Oversight involves collaboration among industry, government, academia, and international bodies, with European regulations like the EU AI Act and GDPR setting important global standards.",
+        "text_original": "AI ethics and governance blend philosophical, regulatory, and practical approaches, emphasizing bias reduction, accountability, transparency, sustainability, and risk management. Oversight involves collaboration among industry, government, academia, and international bodies, with European regulations like the EU AI Act and GDPR setting important global standards",
+        "idx_start": 910,
+        "idx_end": 1274
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Ethics and Governance of AI\n### GDPR: Enforcement, Principles, Global Impact, and Challenges\nGDPR enforces rigorous EU data protection rules, resulting in high-profile fines and global influence over privacy legislation. Organizations must meet consent, erasure, oversight, and security requirements, though enforcement remains inconsistent and burdensome, impacting compliance costs and website operations.",
+        "text_original": "GDPR enforces rigorous EU data protection rules, resulting in high-profile fines and global influence over privacy legislation. Organizations must meet consent, erasure, oversight, and security requirements, though enforcement remains inconsistent and burdensome, impacting compliance costs and website operations",
+        "idx_start": 1344,
+        "idx_end": 1657
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Accelerationism: Political, Philosophical, Sociotechnical, and Extremist Dimensions\nAccelerationism advocates rapid technological and societal change and drives debate across philosophical, political, and extremist spheres, raising questions about human agency and risk.",
+        "text_original": "Accelerationism advocates rapid technological and societal change and drives debate across philosophical, political, and extremist spheres, raising questions about human agency and risk",
+        "idx_start": 1749,
+        "idx_end": 1934
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Deepfakes: Technology, Risks, and Regulation\nDeepfakes pose risks to privacy and democratic integrity, prompting regulatory responses and platform safeguards to protect civil liberties.",
+        "text_original": "Deepfakes pose risks to privacy and democratic integrity, prompting regulatory responses and platform safeguards to protect civil liberties",
+        "idx_start": 1987,
+        "idx_end": 2126
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Environmental and Transparency Concerns\nLarge AI models raise climate, water, and e-waste issues, leading to demands for sustainability, transparency, and open-source model development.",
+        "text_original": "Large AI models raise climate, water, and e-waste issues, leading to demands for sustainability, transparency, and open-source model development",
+        "idx_start": 2174,
+        "idx_end": 2318
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Transhumanism: Practices, Technology, Ethics, Criticism, and Sociopolitical Debates\nTranshumanism seeks to transcend human limits through AI, biotechnology, nanotech, mind uploading, and cryonics, with advocates promoting enhancements for greater cognitive and sensory freedom. Ethical debates focus on risks to human values, feasibility, unintended consequences, associations with eugenics, and socioeconomic impacts. Advocates argue that equality is grounded in legal rights and posit genetic enhancements could even reduce inequality, proposing new methods to distance from historical eugenics. Critics voice concerns about cultural diversity loss, reinforcement of dominant traits, identity, exploitation, increased inequality, and existential risks. Some fear disruption to democracy and propose regulations for equitable access, while broader ethical reflection and resilience are demanded by opponents. Tensions exist between antinatalist and pronatalist movements regarding enhancement\u2019s future. Additionally, transhumanism is sometimes invoked by anti-democratic groups as a negative symbol, influencing political narratives and fueling opposition to liberal democratic values. The movement includes diverse philosophical and spiritual perspectives, with an emphasis on responsible enhancement and societal debate.",
+        "text_original": "Transhumanism seeks to transcend human limits through AI, biotechnology, nanotech, mind uploading, and cryonics, with advocates promoting enhancements for greater cognitive and sensory freedom. Ethical debates focus on risks to human values, feasibility, unintended consequences, associations with eugenics, and socioeconomic impacts. Advocates argue that equality is grounded in legal rights and posit genetic enhancements could even reduce inequality, proposing new methods to distance from historical eugenics. Critics voice concerns about cultural diversity loss, reinforcement of dominant traits, identity, exploitation, increased inequality, and existential risks. Some fear disruption to democracy and propose regulations for equitable access, while broader ethical reflection and resilience are demanded by opponents. Tensions exist between antinatalist and pronatalist movements regarding enhancement\u2019s future. Additionally, transhumanism is sometimes invoked by anti-democratic groups as a negative symbol, influencing political narratives and fueling opposition to liberal democratic values. The movement includes diverse philosophical and spiritual perspectives, with an emphasis on responsible enhancement and societal debate",
+        "idx_start": 2410,
+        "idx_end": 3648
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## AI in Philosophy: John L. Pollock\nJohn L. Pollock contributed to the philosophical underpinnings of AI, notably in defeasible reasoning and machine rationality.",
+        "text_original": "John L. Pollock contributed to the philosophical underpinnings of AI, notably in defeasible reasoning and machine rationality",
+        "idx_start": 3690,
+        "idx_end": 3815
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## AI Narratives in Popular Culture: Terminator\u2014Legion and Dark Fate\n*Terminator: Dark Fate* (2019) introduced new characters and Latino representation but faced franchise discontinuity and poor reception, halting further sequels. Themes of resistance and sacrifice persist, with speculation about future reboots ongoing.",
+        "text_original": "Terminator: Dark Fate* (2019) introduced new characters and Latino representation but faced franchise discontinuity and poor reception, halting further sequels. Themes of resistance and sacrifice persist, with speculation about future reboots ongoing",
+        "idx_start": 3890,
+        "idx_end": 4140
+    }
+]

@@ -1,0 +1,5 @@
+## Donald Knuth
+
+Donald Knuth was born in Milwaukee, Wisconsin, and initially showed ingenious problem-solving skills as a student. He received a scholarship to the Case Institute of Technology, where he was introduced to the IBM 650. He later switched his focus from physics to mathematics and earned two degrees from Case in 1960. He subsequently earned his PhD in mathematics from the California Institute of Technology in 1963.
+
+Knuth became associated with Burroughs Corporation and later moved into more academic work at Stanford in 1969. He is renowned as a writer and computer scientist for creating *The Art of Computer Programming* (TAOCP), which he developed while initially commissioned to write a book on computer programming language compilers in 1962. In the 1970s, he created the TeX and Metafont digital typesetting systems. Knuth has received numerous accolades, including the Turing Award, the National Medal of Science, and the Kyoto Prize. He also proposed the term "algorithmics" as a better name for computer science.

@@ -1,0 +1,9 @@
+Lynn Conway was born in Mount Vernon, New York, in 1938. She experienced gender dysphoria as a child and underwent a gender transition in 1957, though she later detransitioned. After earning a B.S. and M.S.E.E. from Columbia University, she joined IBM Research in 1964, where she contributed to the development of advanced supercomputers, including inventing multiple-issue out-of-order dynamic instruction scheduling.
+
+In 1968, IBM fired Conway after she revealed her intention to transition, a decision she later criticized. She then worked at Memorex and joined Xerox PARC in 1973, where she founded the multiproject wafers (MPW) technology. Collaborating with Carver Mead, she co-authored *Introduction to VLSI Systems*, a foundational textbook in chip design. Their work led to the development of the MOSIS system, which institutionalized the foundry model for chip design and significantly advanced the field of VLSI.
+
+Conway's contributions to computer science were recognized with numerous awards, including the IEEE EAB Major Educational Innovation Award, the John Price Wetherill Medal, and the IEEE/RSE James Clerk Maxwell Medal. She was also elected to the National Academy of Engineering and received the IEEE Computer Society's Computer Pioneer Award.
+
+Beyond her technical achievements, Conway became a prominent transgender rights activist, advocating for equal opportunities and protections for transgender people in the tech industry. She publicly shared her gender transition story in the early 2000s and worked to raise awareness, promote understanding, and challenge the pathologization of transgender identities. She was named one of the "Stonewall 40 trans heroes" in 2009 and a recipient of the National LGBTQ Wall of Honor in 2025.
+
+Conway also coined the term "Conway effect" to describe how marginalized individuals are often overlooked in historical accounts of innovation. She passed away in 2024 at the age of 86.

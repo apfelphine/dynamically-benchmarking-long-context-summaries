@@ -1,0 +1,5 @@
+## Cornell University Summary
+
+Cornell University was founded on April 27, 1865, by Ezra Cornell and Andrew Dickson White, initially as New York's land-grant institution. The university was formally inaugurated on October 7, 1868. It has historically developed as a technologically innovative institution, becoming one of the first electrified universities in 1883. Cornell administers research and extension programs jointly funded by the New York State and U.S. federal government since 1894.
+
+The university operates with a decentralized structure, encompassing 16 colleges, including four publicly supported statutory colleges and twelve privately endowed colleges. Its main campus is located in Ithaca, New York, and spans approximately 745 acres, featuring a mix of architectural styles. Cornell also maintains a medical campus in New York City (Weill Cornell) and a medical college in Qatar (Weill Cornell Medical College in Qatar). The university is classified among "R1: Doctoral Universities – Very high research activity" and has a substantial endowment of $10.7 billion as of 2024.

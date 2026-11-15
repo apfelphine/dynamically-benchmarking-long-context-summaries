@@ -1,0 +1,27 @@
+{
+  "id": 21039212,
+  "title": "Bernard Daly Educational Fund",
+  "url": "https://en.wikipedia.org/wiki/Bernard_Daly_Educational_Fund",
+  "path": "Scholarships\\bernard-daly-educational-fund",
+  "summary": {
+    "chars": 447,
+    "tokens": 100
+  },
+  "document": {
+    "chars": 3397,
+    "tokens": 745
+  },
+  "infobox": {
+    "title": "Bernard Daly Educational Fund",
+    "data": {
+      "Founded": "1922",
+      "Founder": "Bernard Daly",
+      "Type": "Private trust fund",
+      "Focus": "Education",
+      "Location": "- Lakeview, Oregon, USA",
+      "Area served": "Lake County, Oregon",
+      "Method": "College scholarships",
+      "Key people": "Dr. Mike Sabin (chairman)"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computer Science, Logic, and Technology\n## Programming Innovation and Language Design\nKenneth E. Iverson introduced the APL and J languages, pioneering intuitive notations in mathematical computing. Grace Hopper led the development of compilers and COBOL, making programming more accessible and standardizing computing terminology. Per Brinch Hansen made seminal advances in concurrent and parallel computing, designing languages and systems such as Concurrent Pascal, Edison, and Joyce.",
+        "text_original": "Kenneth E. Iverson introduced the APL and J languages, pioneering intuitive notations in mathematical computing. Grace Hopper led the development of compilers and COBOL, making programming more accessible and standardizing computing terminology. Per Brinch Hansen made seminal advances in concurrent and parallel computing, designing languages and systems such as Concurrent Pascal, Edison, and Joyce",
+        "idx_start": 103,
+        "idx_end": 503
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computer Science, Logic, and Technology\n## Foundations of Logic, Computing, and Mathematics\nGeorge Boole established Boolean algebra and binary logic, crucial for digital computation. Gottlob Frege transformed logic and analytic philosophy, while Kurt G\u00f6del\u2019s incompleteness theorems had profound effects on mathematics, logic, and philosophy.",
+        "text_original": "George Boole established Boolean algebra and binary logic, crucial for digital computation. Gottlob Frege transformed logic and analytic philosophy, while Kurt G\u00f6del\u2019s incompleteness theorems had profound effects on mathematics, logic, and philosophy",
+        "idx_start": 559,
+        "idx_end": 809
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computer Science, Logic, and Technology\n## Hardware and Microprocessor Revolution\nFederico Faggin was instrumental in pioneering single-chip microprocessors (Intel 4004, Zilog Z80) and key interface technologies, propelling the global electronics revolution. Jacek Karpi\u0144ski innovated in Polish computing with creations like the K-202 minicomputer.",
+        "text_original": "Federico Faggin was instrumental in pioneering single-chip microprocessors (Intel 4004, Zilog Z80) and key interface technologies, propelling the global electronics revolution. Jacek Karpi\u0144ski innovated in Polish computing with creations like the K-202 minicomputer",
+        "idx_start": 855,
+        "idx_end": 1120
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computer Science, Logic, and Technology\n## Computer Architecture, VLSI Design, and Advocacy\nLynn Conway revolutionized VLSI chip design through scalable methodologies, superscalar architecture, and rapid prototyping (MOSIS), while also advocating for ethics and transgender rights.",
+        "text_original": "Lynn Conway revolutionized VLSI chip design through scalable methodologies, superscalar architecture, and rapid prototyping (MOSIS), while also advocating for ethics and transgender rights",
+        "idx_start": 1176,
+        "idx_end": 1364
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computer Science, Logic, and Technology\n## Logic, Computation, and Cultural Influence\nRamon Llull\u2019s \"Art\" blended logic and combinatorics, laying groundwork for computational thought. Ismail al-Jazari advanced automata and clock engineering, influencing robotics. Al-Khwarizmi formalized algebra and algorithms, greatly influencing astronomy, trigonometry, and geography.",
+        "text_original": "Ramon Llull\u2019s \"Art\" blended logic and combinatorics, laying groundwork for computational thought. Ismail al-Jazari advanced automata and clock engineering, influencing robotics. Al-Khwarizmi formalized algebra and algorithms, greatly influencing astronomy, trigonometry, and geography",
+        "idx_start": 1414,
+        "idx_end": 1698
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computer Science, Logic, and Technology\n## Artificial Intelligence and Engineering Innovation\nGeoffrey Hinton contributed foundational advances to neural networks and AI, and advocated responsible technology regulation. George Antheil and Hedy Lamarr invented frequency-hopping wireless technology, merging creativity with scientific innovation.",
+        "text_original": "Geoffrey Hinton contributed foundational advances to neural networks and AI, and advocated responsible technology regulation. George Antheil and Hedy Lamarr invented frequency-hopping wireless technology, merging creativity with scientific innovation",
+        "idx_start": 1756,
+        "idx_end": 2006
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computer Science, Logic, and Technology\n## Decision-Making and Organizational Theory\nHerbert A. Simon\u2019s concept of \u201cbounded rationality\u201d shaped artificial intelligence, cognitive psychology, economics, and computer science, earning him a Nobel Prize and impacting sociology.",
+        "text_original": "Herbert A. Simon\u2019s concept of \u201cbounded rationality\u201d shaped artificial intelligence, cognitive psychology, economics, and computer science, earning him a Nobel Prize and impacting sociology",
+        "idx_start": 2055,
+        "idx_end": 2243
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computer Science, Logic, and Technology\n## Algorithms, Programming, and Software Development\nDonald Knuth authored groundbreaking texts, created TeX and METAFONT, advanced literate programming, and received top awards. Edsger W. Dijkstra championed disciplined and structured programming, contributed fundamental algorithms, researched semaphores, and influenced distributed computing and computer science education.",
+        "text_original": "Donald Knuth authored groundbreaking texts, created TeX and METAFONT, advanced literate programming, and received top awards. Edsger W. Dijkstra championed disciplined and structured programming, contributed fundamental algorithms, researched semaphores, and influenced distributed computing and computer science education",
+        "idx_start": 2300,
+        "idx_end": 2622
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computer Science, Logic, and Technology\n## Claude Shannon: Information Theory, Digital Communications, and Enduring Impact\nClaude Shannon, celebrated mathematician and engineer, is revered as the founder of information theory, which revolutionized digital communication, cryptography, and computational linguistics. His MIT master\u2019s thesis introduced Boolean algebra for electrical circuits, and at Bell Labs he helped develop pulse-code modulation and contributed wartime cryptography advances. Shannon\u2019s pivotal 1948 paper defined information theory, introducing concepts like information entropy, and influencing fields from communications to linguistics. He contributed to AI with the Theseus learning machine and a pioneering computer chess program employing minimax and evaluation functions, and advanced combinatorics and detection theory. Shannon formulated \"Shannon's maxim\" in cryptography, played a role in early AI conferences, advised on cryptologic matters for the CIA, and was known for inventive hobbies including THROBAC, Rubik\u2019s Cube solvers, and wearable computers. His work set a standard for polymathic innovation, earning honors such as the National Medal of Science, Kyoto Prize, and the eponymous Claude E. Shannon Award. His centenary was internationally commemorated in 2016 through conferences, exhibits, and initiatives. His legacy endures through major scientific accolades, statues, biographies, films, and technologies named in his honor, including the Claude language model and the \u201cshannon\u201d cryptocurrency unit.",
+        "text_original": "Claude Shannon, celebrated mathematician and engineer, is revered as the founder of information theory, which revolutionized digital communication, cryptography, and computational linguistics. His MIT master\u2019s thesis introduced Boolean algebra for electrical circuits, and at Bell Labs he helped develop pulse-code modulation and contributed wartime cryptography advances. Shannon\u2019s pivotal 1948 paper defined information theory, introducing concepts like information entropy, and influencing fields from communications to linguistics. He contributed to AI with the Theseus learning machine and a pioneering computer chess program employing minimax and evaluation functions, and advanced combinatorics and detection theory. Shannon formulated \"Shannon's maxim\" in cryptography, played a role in early AI conferences, advised on cryptologic matters for the CIA, and was known for inventive hobbies including THROBAC, Rubik\u2019s Cube solvers, and wearable computers. His work set a standard for polymathic innovation, earning honors such as the National Medal of Science, Kyoto Prize, and the eponymous Claude E. Shannon Award. His centenary was internationally commemorated in 2016 through conferences, exhibits, and initiatives. His legacy endures through major scientific accolades, statues, biographies, films, and technologies named in his honor, including the Claude language model and the \u201cshannon\u201d cryptocurrency unit",
+        "idx_start": 2709,
+        "idx_end": 4129
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computer Science, Logic, and Technology\n## Honors and Lasting Influence\nThese pioneers are honored with major awards, influential publications, named species and celestial bodies, commemorative events, and enduring impact on computer science, mathematics, technology, and society.",
+        "text_original": "These pioneers are honored with major awards, influential publications, named species and celestial bodies, commemorative events, and enduring impact on computer science, mathematics, technology, and society",
+        "idx_start": 4165,
+        "idx_end": 4372
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computer Science, Logic, and Technology\n## Biographical Notes\nHerbert A. Simon was born in Milwaukee in 1916, studied at the University of Chicago, and came from a diverse technical background. Donald Knuth, also from Milwaukee, is acclaimed for his academic distinction and broad contributions. Claude Shannon, born in Michigan and educated at the University of Michigan, achieved groundbreaking work at MIT and Bell Labs, and is remembered for his transformative innovations and extensive accolades.",
+        "text_original": "Herbert A. Simon was born in Milwaukee in 1916, studied at the University of Chicago, and came from a diverse technical background. Donald Knuth, also from Milwaukee, is acclaimed for his academic distinction and broad contributions. Claude Shannon, born in Michigan and educated at the University of Michigan, achieved groundbreaking work at MIT and Bell Labs, and is remembered for his transformative innovations and extensive accolades",
+        "idx_start": 4398,
+        "idx_end": 4836
+    }
+]

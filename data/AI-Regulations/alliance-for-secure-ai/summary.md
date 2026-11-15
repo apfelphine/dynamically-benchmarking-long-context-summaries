@@ -1,0 +1,1 @@
+The Alliance for Secure AI is a U.S.-based nonprofit organization which educates the public about the risks of advanced artificial intelligence (AI). Politico has described the Alliance as a "bipartisan nonprofit trying to push a middle-ground approach to AI guardrails."

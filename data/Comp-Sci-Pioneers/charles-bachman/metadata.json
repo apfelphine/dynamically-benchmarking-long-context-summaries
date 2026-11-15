@@ -1,0 +1,26 @@
+{
+  "id": 301387,
+  "title": "Charles Bachman",
+  "url": "https://en.wikipedia.org/wiki/Charles_Bachman",
+  "path": "Comp-Sci-Pioneers\\charles-bachman",
+  "summary": {
+    "chars": 378,
+    "tokens": 76
+  },
+  "document": {
+    "chars": 7161,
+    "tokens": 1691
+  },
+  "infobox": {
+    "title": "Charles Bachman",
+    "data": {
+      "Born": "Charles William Bachman III \u00b7 December 11, 1924 \u00b7 Manhattan, Kansas, U.S.",
+      "Died": "July 13, 2017 (aged 92) \u00b7 Lexington, Massachusetts, U.S.",
+      "Education": "University of Pennsylvania (BS) \u00b7 Michigan State University (MS)",
+      "Known for": "Integrated Data Store",
+      "Awards": "Turing Award (1973) \u00b7 National Medal of Technology and Innovation (2012) \u00b7 ACM Fellow (2014)",
+      "Fields": "Computer science",
+      "Institutions": "Dow Chemical \u00b7 General Electric \u00b7 Cullinet \u00b7 Bachman Information Systems"
+    }
+  }
+}

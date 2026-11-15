@@ -1,0 +1,28 @@
+{
+  "id": 99326,
+  "title": "Richard Hamming",
+  "url": "https://en.wikipedia.org/wiki/Richard_Hamming",
+  "path": "Comp-Sci-Pioneers\\richard-hamming",
+  "summary": {
+    "chars": 1443,
+    "tokens": 306
+  },
+  "document": {
+    "chars": 12033,
+    "tokens": 2553
+  },
+  "infobox": {
+    "title": "Richard Hamming",
+    "data": {
+      "Born": "Richard Wesley Hamming \u00b7 February 11, 1915 \u00b7 Chicago, Illinois, U.S.",
+      "Died": "January 7, 1998 (aged 82) \u00b7 Monterey, California, U.S.",
+      "Education": "University of Chicago (BS) \u00b7 University of Nebraska (MA) \u00b7 University of Illinois, Urbana-Champaign (PhD)",
+      "Known for": "Hamming code Hamming window Hamming numbers Hamming distance Hamming weight Association for Computing Machinery",
+      "Awards": "Turing Award (1968) \u00b7 IEEE Emanuel R. Piore Award (1979) \u00b7 Harold Pender Award (1981) \u00b7 IEEE Hamming Medal (1988)",
+      "Fields": "Mathematics",
+      "Institutions": "University of Louisville Manhattan Project (Los Alamos Laboratory, (1945-1946) ) Bell Labs (1946\u20131976) Naval Postgraduate School (1976\u20131998)",
+      "Thesis": "Some Problems in the Boundary Value Theory of Linear Differential Equations (1942)",
+      "Doctoral advisor": "Waldemar Trjitzinsky"
+    }
+  }
+}

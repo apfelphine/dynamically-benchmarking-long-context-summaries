@@ -1,0 +1,11 @@
+Jacek Karpiński was born in 1927 in Turin, Italy, into a family of Polish intellectuals and alpinists. His father, Adam Karpiński, was a pioneering aeronautic engineer and inventor, while his mother, Wanda Czarnocka-Karpińska, was a respected physician and later Dean of the University of Physical Education in Warsaw. The family moved to Warsaw in 1934, where Karpiński's father died in 1939 during an expedition in the Himalayas.
+
+During World War II, at age 14, Karpiński joined the Gray Ranks, a Polish underground paramilitary organization, and participated in numerous resistance operations, including the Warsaw Uprising. He was awarded the Cross of Valour three times and survived a bullet wound to the spine.
+
+After the war, he completed high school in Radomsko and earned a degree from the University of Łódź, later graduating from Warsaw University of Technology in 1951. He worked in various roles, including at the Polish Academy of Sciences, where he designed the AAH (Analytical Analyzer of Harmonics) and later the AKAT-1, the world's first differential equations analyzer based on transistors. AKAT-1 was celebrated for its innovative design and aesthetic appeal.
+
+In 1960, Karpiński was awarded a UNESCO scholarship to study in the United States, where he visited major technological centers and met leading computer scientists. Inspired by his experience, he designed the Polish perceptron, one of the first in the world and the first in the Communist bloc.
+
+He later founded the Microcomputers' Construction Plant (Zakład Budowy Mikrokomputerów) in 1970 to develop the K-202, a minicomputer with advanced features like memory segmentation and floating-point arithmetic. Despite its technical excellence, K-202 never reached mass production due to political and administrative challenges, including resistance from established computer firms and a lack of industrial support.
+
+Karpiński's later life included a period in Switzerland working on Nagra tape recorders, followed by advisory roles in computer science. He received the Officer's Cross of Polonia Restituta in 2009 and the Commander's Cross in 2010. He died on 21 February 2010 in Wrocław. Karpiński is also known for his controversial work as a secret informant for the Polish intelligence service, which he claimed was motivated by the need to gather technological data.

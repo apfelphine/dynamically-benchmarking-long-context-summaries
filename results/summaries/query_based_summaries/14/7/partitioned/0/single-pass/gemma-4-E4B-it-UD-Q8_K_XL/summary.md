@@ -1,0 +1,5 @@
+## University of Chicago Summary
+
+The first iteration of the University of Chicago was founded by Baptist educators in 1857 but closed in 1886 amid financial struggles. In 1890, a new University of Chicago was incorporated by the American Baptist Education Society, supported by donations from John D. Rockefeller and Marshall Field, and classes began in 1892 under President William Rainey Harper. During Harper's tenure, the university adopted its nickname, "Maroons," and established the Divinity School in 1891.
+
+The university's structure and focus have evolved significantly. In 1929, Robert Maynard Hutchins became president and implemented the "New Plan," forming the basis of the core curriculum. The university has consistently maintained strong academic reputations, with its law and business schools ranking among the top professional institutions in the United States. The University of Chicago operates on a quarter system and is home to several major research centers, including the Institute for the Study of Ancient Cultures.

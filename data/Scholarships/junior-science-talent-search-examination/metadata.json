@@ -1,0 +1,30 @@
+{
+  "id": 58892718,
+  "title": "Junior Science Talent Search Examination",
+  "url": "https://en.wikipedia.org/wiki/Junior_Science_Talent_Search_Examination",
+  "path": "Scholarships\\junior-science-talent-search-examination",
+  "summary": {
+    "chars": 261,
+    "tokens": 56
+  },
+  "document": {
+    "chars": 1751,
+    "tokens": 383
+  },
+  "infobox": {
+    "title": "Mukhyamantri Vigyan Pratibha Pariksha",
+    "data": {
+      "Acronym": "MVPP",
+      "Type": "Objective (paper-based standardized test)",
+      "Administrator": "Delhi Directorate of Education",
+      "Skills tested": "Physics, Chemistry, Mathematics, Biology, Mental Ability, Social Science",
+      "Year started": "2005",
+      "Duration": "(120 + 120) minutes",
+      "Score range": "0 to 200",
+      "Offered": "Once (for grade 9 students only)",
+      "Languages": "English Hindi",
+      "Fee": "Free",
+      "Website": "www.edudel.nic.in"
+    }
+  }
+}

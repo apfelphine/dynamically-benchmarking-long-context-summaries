@@ -1,0 +1,1 @@
+Prime Minister's Education Assistance Trust (Bengali: প্রধানমন্ত্রীর শিক্ষা সহায়তা ট্রাস্ট) is a Bangladesh government trust fund under the Ministry of Education responsible for providing scholarships to underprivileged students based on merit. It is managed by an advisory council headed by the Prime Minister of Bangladesh.

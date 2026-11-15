@@ -1,0 +1,11 @@
+## Accelerationism: Origins and Core Concepts
+
+Accelerationism is a philosophical and political concept initially popularized by Benjamin Noys in 2010, though its intellectual roots trace to 1960s–70s French post-Marxists such as Deleuze and Guattari, Lyotard, and Baudrillard. These thinkers reframed capitalist development as a process of radical deterritorialization, proposing that instead of resisting capitalism, one might "accelerate the process" to intensify its contradictions and destabilize established structures. Later, Nick Land and the Cybernetic Culture Research Unit (CCRU) advanced accelerationism with a focus on technological and inhuman forces, while 2010s left-accelerationists like Nick Srnicek and Alex Williams advocated harnessing capitalism’s infrastructure and technological progress for post-capitalist, Promethean ends. Across variants, accelerationism employs concepts like posthumanism, Prometheanism (the belief in limitless transformation through technology and reason), and hyperstition (the idea that imagined futures can causally shape present realities).
+
+## Variants and Modern Usage
+
+Accelerationism encompasses multiple, often contrasting, orientations:
+- **Right-accelerationism:** Associated with Nick Land, this form celebrates the self-escalating, decentralizing power of capitalism, technology, and artificial intelligence, even at the expense of humanity, culminating in human extinction and a technocapital singularity.
+- **Left-accelerationism:** Figures like Srnicek, Williams, Brassier, Negarestani, and Fisher propose democratizing technology to transcend neoliberal restraints, utilize automation, and envision post-capitalist futures, emphasizing rationalist transformation of society.
+- **Effective accelerationism (e/acc):** Advocates unrestricted technological advancement—believing AI and innovation will solve existential human problems—contrasting with the regulatory caution typical of effective altruism.
+Accelerationism has also been appropriated in far-right extremist contexts to describe the deliberate exacerbation of societal conflict, often through violence. The term is used variably in contemporary discourse, sometimes inaccurately, to advocate for speeding up systemic collapse or for radical social change in differing ideological directions.

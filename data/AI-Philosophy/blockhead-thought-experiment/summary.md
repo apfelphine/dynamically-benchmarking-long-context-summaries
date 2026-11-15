@@ -1,0 +1,1 @@
+Blockhead is a theoretical computer system invented as part of a thought experiment by philosopher Ned Block, which appeared in a paper titled "Psychologism and Behaviorism". Block did not personally name the computer in the paper.

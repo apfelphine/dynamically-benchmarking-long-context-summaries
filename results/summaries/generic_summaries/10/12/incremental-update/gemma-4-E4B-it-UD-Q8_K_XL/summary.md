@@ -1,0 +1,13 @@
+## Comparative Education Systems Overview
+
+**System Structures and Governance:**
+Global education systems vary widely, ranging from centralized governance (e.g., Iran, France, Turkey) to decentralized models (e.g., Israel, Ireland). National structures differ significantly; for instance, Nigeria employs a 6-3-3-4 framework while Ghana uses a 6-14 system. England mandates state-funded schooling until age 16, and Turkey centralizes its system under the Ministry of National Education to enforce secularism. France maintains a centralized public system based on Jules Ferry's principles of compulsory, free, and secular education.
+
+**Curriculum, Progression, and Assessment:**
+Assessment methods vary, including subject exams (Sweden, Norway) or national tests (SSCE, WASSCE). England offers diverse post-16 pathways like A-levels and T Levels. French education progresses through primary, *collège*, and *lycée*, culminating in the *baccalauréat*. Turkey utilizes a "4+4+4" model with general and vocational tracks after common secondary courses.
+
+**Higher Education, Equity, and National Performance:**
+Global equity is challenged by infrastructure gaps (e.g., between Egypt and Sweden). Iran is modernizing its system through digital and vocational training, while England's higher education is capped (e.g., £9,535 in 2024-25) and the UK ranks 7th in the UN Education Index. In Turkey, public and costly private universities coexist.
+
+**Turkish and French System Specifics:**
+Turkey promotes international engagement via TÜBİTAK, though its curriculum is scrutinized for mandated historical narratives tied to Atatürk's nationalism. In France, the system is structured around public universities and elite, highly selective *Grandes Écoles* accessed via intensive preparatory classes ($\text{CPGE}$s) and rigorous oral exams (*colles*). French higher education recruitment includes "teachers-researchers," secondary school teachers assigned to universities, and $\text{CPGE}$ teachers, with varying salaries. Furthermore, the French Republic strictly adheres to *laïcité* (secularism), banning conspicuous religious symbols in public institutions since 2004. Historically, France expanded educational training, including introducing secondary colleges for women in the 19th century. Teacher training in France is differentiated, with primary teachers attending $\text{INSPE}$s and secondary teachers being certified through the $\text{CAPES}$ or *Agrégés* examination.

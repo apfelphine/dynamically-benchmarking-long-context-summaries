@@ -1,0 +1,1 @@
+André Trương Trọng Thi (1936–2005) was a Vietnamese-French computer engineer. He is considered to be the "father of the personal computer" for his 1973 creation along with French inventor François Gernelle of the Micral N microcomputer based on an Intel 8008 processor, one of the world's first commercial microcomputers.

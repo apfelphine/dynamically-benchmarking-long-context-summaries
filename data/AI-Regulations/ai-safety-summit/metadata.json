@@ -1,0 +1,23 @@
+{
+  "id": 75199310,
+  "title": "AI Safety Summit",
+  "url": "https://en.wikipedia.org/wiki/AI_Safety_Summit",
+  "path": "AI-Regulations\\ai-safety-summit",
+  "summary": {
+    "chars": 535,
+    "tokens": 106
+  },
+  "document": {
+    "chars": 2752,
+    "tokens": 617
+  },
+  "infobox": {
+    "title": "2023 AI Safety Summit",
+    "data": {
+      "Host country": "United Kingdom",
+      "Date": "1\u20132 November 2023",
+      "Venues": "Bletchley Park Mansion, Bletchley Park \u00b7 Milton Keynes",
+      "Website": "aisafetysummit.gov.uk"
+    }
+  }
+}

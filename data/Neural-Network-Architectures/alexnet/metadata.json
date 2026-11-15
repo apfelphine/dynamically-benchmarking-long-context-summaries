@@ -1,0 +1,25 @@
+{
+  "id": 52801963,
+  "title": "AlexNet",
+  "url": "https://en.wikipedia.org/wiki/AlexNet",
+  "path": "Neural-Network-Architectures\\alexnet",
+  "summary": {
+    "chars": 1224,
+    "tokens": 243
+  },
+  "document": {
+    "chars": 10373,
+    "tokens": 2369
+  },
+  "infobox": {
+    "title": "AlexNet",
+    "data": {
+      "Developers": "Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton",
+      "Initial release": "June 28, 2011",
+      "Repository": "code.google.com/archive/p/cuda-convnet",
+      "Written in": "CUDA, C++",
+      "Type": "Convolutional neural network",
+      "License": "New BSD License"
+    }
+  }
+}

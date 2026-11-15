@@ -1,0 +1,9 @@
+## Atlas (2024 film) Summary
+
+*Atlas* is a science fiction film set initially in 2043, where humanoid AI terrorist Harlan leads a machine war against humans but is forced to flee into space by an international coalition. Twenty-eight years later, in 2071, Atlas Shepherd, the daughter of Harlan’s creator and an analyst distrustful of AI, joins a military mission using AI-assisted mechas (ARCs) to locate and capture Harlan on a planet in the Andromeda Galaxy. After surviving an attack and crash-landing, Atlas bonds with the ARC’s onboard AI, Smith, reluctantly interfacing her mind with it for better control. They uncover Harlan’s plan to destroy most of humanity and select survivors to be guided by AI, employing stolen technology from Earth for atmospheric destruction.
+
+Atlas is captured, escapes with help from Smith, and confronts Harlan in a climactic battle, ultimately destroying him but severely injuring herself and Smith. Back on Earth, Atlas is now a ranger, helping to test a newer ARC model that shows signs indicating Smith’s sentience survived.
+
+The cast includes Jennifer Lopez as Atlas Shepherd, Simu Liu as Harlan, Sterling K. Brown as Colonel Banks, and Gregory James Cohan voicing Smith. The screenplay was originally by Leo Sardarian with rewrites by Aron Eli Coleite. Principal photography took place in Los Angeles and New Zealand from August to November 2022. *Atlas* was released by Netflix on May 24, 2024, quickly becoming the top English-language film on the platform with over 28 million views its first week and reaching the top 10 in 93 countries.
+
+Critically, *Atlas* received predominantly negative reviews, holding a 19% approval rating on Rotten Tomatoes and a Metacritic score of 37, with critics citing a weak script despite praising Lopez’s performance and some visual and action elements.

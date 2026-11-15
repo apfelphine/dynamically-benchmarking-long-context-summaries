@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding the "Edmund S. Muskie Internship Program." The section detailing the program only provides a biographical summary of Edmund Sixtus Muskie, including his early life, military service, political career, and later years.

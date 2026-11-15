@@ -1,0 +1,39 @@
+{
+  "id": 210910,
+  "title": "ETH Zurich",
+  "url": "https://en.wikipedia.org/wiki/ETH_Zurich",
+  "path": "Universities\\eth-zurich",
+  "summary": {
+    "chars": 1114,
+    "tokens": 233
+  },
+  "document": {
+    "chars": 16032,
+    "tokens": 3245
+  },
+  "infobox": {
+    "title": "ETH Zurich",
+    "data": {
+      "Other names": "(Swiss) Federal Institute of Technology in Zurich, German: Polytechnikum, poly (polytechnic) (colloquially)",
+      "Former names": "Federal polytechnic school (Eidgen\u00f6ssische polytechnische Schule) (1855\u20131911)",
+      "Type": "Public",
+      "Established": "February 7, 1854",
+      "Budget": "CHF 1.896 billion (2021)",
+      "President": "Jo\u00ebl Mesot",
+      "Rector": "G\u00fcnther Dissertori",
+      "Academic staff": "6,612 (including doctoral students, excluding 527 professors of all ranks) (full-time equivalents 2021)",
+      "Administrative staff": "3,106 (full-time equivalents 2021)",
+      "Students": "24,534 (headcount 2021)",
+      "Undergraduates": "10,642",
+      "Postgraduates": "8,299",
+      "Doctoral students": "4,460",
+      "Other students": "1,133",
+      "Address": "R\u00e4mistrasse 101, Zurich, Switzerland \u00b7 47\u00b022\u203235\u2033N 8\u00b032\u203253\u2033E\ufeff / \ufeff47.37639\u00b0N 8.54806\u00b0E",
+      "Campus": "Urban",
+      "Language": "German, English (Masters and upwards, some Bachelors)",
+      "Colors": "Black and white",
+      "Affiliations": "CESAER, ENHANCE Alliance, EUA, IARU, IDEA League, LERU",
+      "Website": "ethz.ch"
+    }
+  }
+}

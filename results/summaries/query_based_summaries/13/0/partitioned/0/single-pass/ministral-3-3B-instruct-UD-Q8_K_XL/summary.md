@@ -1,0 +1,13 @@
+The **University of Cambridge** is one of the world’s oldest and most prestigious universities, founded in **1209** as a direct response to tensions at Oxford and the need for a more hospitable academic environment. Initially inspired by the death of a local Oxford-area woman during an administration dispute, Cambridge quickly established itself as a center for learning, particularly in mathematics and the sciences.
+
+### **History and Structure**
+Cambridge’s founding was influenced by the rivalry with Oxford and the desire to attract scholars. By **1225**, the university had a chancellor, established academic governance, and secured rights to local rents. The university’s **31 colleges** (founded between 1284 and the late 20th century) provide residential and academic support, though they vary in focus and history. The **Mathematical Tripos**, introduced in the 19th century, remains a cornerstone of Cambridge’s academic reputation, producing many of Britain’s most influential scientists, including **Isaac Newton, James Clerk Maxwell, and Stephen Hawking**.
+
+### **Academics and Research**
+Cambridge is renowned for its rigorous academic standards, particularly in mathematics, physics, and engineering. The university’s **liberal arts curriculum** emphasizes original research and independent study, with students often engaging in **supervisions** (small-group discussions with faculty). The **Cambridge University Library** and specialized research centers, such as the **Cavendish Laboratory** and **Polar Museum**, support groundbreaking work across disciplines.
+
+### **Admissions and Diversity**
+Admission to Cambridge is highly competitive, with an average offer rate of around **20%**. The university uses a mix of academic performance, interviews, and contextualized offers to ensure diversity. Cambridge has made strides in **widening participation**, including foundation courses for disadvantaged students and initiatives to increase representation from underrepresented backgrounds.
+
+### **Modern Challenges and Reforms**
+In recent years, Cambridge has faced criticism over issues such as **sexual harassment, mental health support, and its financial ties with controversial entities** (e.g., the UAE). The university has responded with reforms, including improved grievance procedures and sustainability initiatives. Despite these challenges, Cambridge remains a global leader in education, research, and innovation.

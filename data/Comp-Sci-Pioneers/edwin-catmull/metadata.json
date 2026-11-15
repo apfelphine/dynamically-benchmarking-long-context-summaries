@@ -1,0 +1,29 @@
+{
+  "id": 174051,
+  "title": "Edwin Catmull",
+  "url": "https://en.wikipedia.org/wiki/Edwin_Catmull",
+  "path": "Comp-Sci-Pioneers\\edwin-catmull",
+  "summary": {
+    "chars": 282,
+    "tokens": 63
+  },
+  "document": {
+    "chars": 13520,
+    "tokens": 2551
+  },
+  "infobox": {
+    "title": "Edwin Catmull",
+    "data": {
+      "Born": "Edwin Earl Catmull \u00b7 March 31, 1945 \u00b7 Parkersburg, West Virginia, U.S.",
+      "Education": "University of Utah (BS, MS, PhD)",
+      "Known for": "- Texture mapping - Catmull\u2013Rom spline - Catmull\u2013Clark subdivision surface",
+      "Spouse": "Susan Anderson",
+      "Children": "3",
+      "Awards": "- Academy Award (1993, 1996, 2001, 2008) - IEEE John von Neumann Medal (2006) - Computer History Museum Fellow (2013) - ACM Turing Award (2019)",
+      "Fields": "Computer science",
+      "Institutions": "- New York Institute of Technology - Pixar Animation Studios - Walt Disney Animation Studios",
+      "Thesis": "A Subdivision Algorithm for Computer Display of Curved Surfaces (1974)",
+      "Doctoral advisor": "Robert E. Stephenson"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The provided text does not contain information regarding "Education in Norway." The document details the education systems of England, France, Ghana, Turkey, Hong Kong, Iran, the Republic of Ireland, Indonesia, Israel, Egypt, and Sri Lanka, but excludes Norway. Consequently, a summary based strictly on the provided text regarding Norwegian education cannot be generated.

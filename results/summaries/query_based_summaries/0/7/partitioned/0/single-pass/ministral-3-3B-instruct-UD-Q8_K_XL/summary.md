@@ -1,0 +1,3 @@
+**Frankenstein**
+
+Mary Shelley’s *Frankenstein*, published in 1818, follows Victor Frankenstein, a brilliant but reckless scientist who defies natural laws by creating a sentient creature from body parts. After years of isolation and torment, the creature seeks revenge against Victor, who abandoned him. The novel explores themes of isolation, responsibility, and the consequences of defying nature, with Shelley’s own personal experiences influencing its darker undertones. The story’s blend of scientific ambition and moral dilemmas has cemented its place as a foundational work of both Gothic literature and science fiction.

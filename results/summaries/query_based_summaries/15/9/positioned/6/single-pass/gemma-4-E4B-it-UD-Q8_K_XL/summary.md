@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding the "National Autonomous University of Mexico". The text focuses on the history, structure, and academics of other universities such as the University of Oxford, University of Toronto, University of British Columbia, University of Melbourne, Cornell University, and others.

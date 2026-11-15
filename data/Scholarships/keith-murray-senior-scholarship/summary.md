@@ -1,0 +1,1 @@
+Keith Anderson Hope Murray, Baron Murray of Newhaven, KCB (28 July 1903 – 10 October 1993) was a British academic and rector of Lincoln College, Oxford.

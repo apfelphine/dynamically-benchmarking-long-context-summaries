@@ -1,0 +1,42 @@
+{
+  "id": 277456,
+  "title": "University of Auckland",
+  "url": "https://en.wikipedia.org/wiki/University_of_Auckland",
+  "path": "Universities\\university-of-auckland",
+  "summary": {
+    "chars": 1002,
+    "tokens": 230
+  },
+  "document": {
+    "chars": 35063,
+    "tokens": 7845
+  },
+  "infobox": {
+    "title": "University of Auckland",
+    "data": {
+      "Other name": "Auckland University (AU)",
+      "Motto": "Ingenio et labore (Latin)",
+      "Motto in English": "By natural ability and hard work",
+      "Type": "Public flagship research university",
+      "Established": "1883",
+      "Endowment": "NZD $293 million (31 December 2021)",
+      "Budget": "NZD $1.281 billion (31 December 2021)",
+      "Chancellor": "Cecilia Tarrant",
+      "Vice-Chancellor": "Dawn Freshwater",
+      "Academic staff": "2,455 (FTE, 2023)",
+      "Administrative staff": "3,875 (FTE, 2023)",
+      "Total staff": "6,330 (FTE, 2023)",
+      "Students": "35,337 (EFTS, 2023)",
+      "Undergraduates": "26,312 (EFTS, 2023)",
+      "Postgraduates": "9,025 (EFTS, 2023)",
+      "Doctoral students": "474 (EFTE, 2023)",
+      "Location": "Auckland, New Zealand (M\u0101ori: T\u0101maki Makaurau, Aotearoa)",
+      "Campus": "Urban, - City Campus: 16 hectares (40 acres) - Grafton Campus: 2.75 hectares (6.8 acres) - Newmarket Campus: 5.2 hectares (13 acres)",
+      "Student Union": "AUSA",
+      "Student Magazine": "Craccum",
+      "Colours": "Auckland Dark Blue and White",
+      "Affiliations": "ACU, APAIE, APRU, Universitas 21, WUN",
+      "Website": "auckland.ac.nz"
+    }
+  }
+}

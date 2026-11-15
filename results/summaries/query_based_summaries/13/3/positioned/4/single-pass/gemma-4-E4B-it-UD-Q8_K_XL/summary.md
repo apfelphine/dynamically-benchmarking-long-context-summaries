@@ -1,0 +1,1 @@
+The provided text contains no information regarding the University of Edinburgh.

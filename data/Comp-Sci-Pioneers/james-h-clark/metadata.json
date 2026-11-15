@@ -1,0 +1,27 @@
+{
+  "id": 98668,
+  "title": "James H. Clark",
+  "url": "https://en.wikipedia.org/wiki/James_H._Clark",
+  "path": "Comp-Sci-Pioneers\\james-h-clark",
+  "summary": {
+    "chars": 520,
+    "tokens": 98
+  },
+  "document": {
+    "chars": 10874,
+    "tokens": 2338
+  },
+  "infobox": {
+    "title": "James H. Clark",
+    "data": {
+      "Born": "James Henry Clark \u00b7 March 23, 1944 \u00b7 Plainview, Texas, U.S.",
+      "Alma mater": "University of Utah \u00b7 University of New Orleans",
+      "Spouse(s)": "Nancy Rutter \u00b7 Kristy Hinze (m. 2009)",
+      "Children": "4",
+      "Fields": "Computer science \u00b7 Computer graphics",
+      "Institutions": "Silicon Graphics \u00b7 Netscape \u00b7 New York Institute of Technology \u00b7 Stanford University",
+      "Thesis": "3-D design of free-form B-spline surfaces (1974)",
+      "Doctoral advisor": "Ivan Sutherland"
+    }
+  }
+}

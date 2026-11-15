@@ -1,0 +1,65 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## California Institute of Technology (Caltech)\nCaltech, founded in 1891, is celebrated for its groundbreaking research, selectivity, and influential alumni and faculty. With 48 Nobel laureates, the institute's legacy includes major contributions to space exploration (JPL), the Manhattan Project, and Nobel-winning discoveries. Caltech promotes ethical leadership, sustainability, and rigorous academics through its interdisciplinary curriculum and honor code, cultivating a dynamic, engaged community.",
+        "text_original": "Caltech, founded in 1891, is celebrated for its groundbreaking research, selectivity, and influential alumni and faculty. With 48 Nobel laureates, the institute's legacy includes major contributions to space exploration (JPL), the Manhattan Project, and Nobel-winning discoveries. Caltech promotes ethical leadership, sustainability, and rigorous academics through its interdisciplinary curriculum and honor code, cultivating a dynamic, engaged community",
+        "idx_start": 81,
+        "idx_end": 535
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## University of California, Berkeley\nUC Berkeley is a premier public university renowned for pioneering research such as cyclotron invention, plutonium discovery, and advancements in CRISPR and computing. Historically pivotal in the Manhattan Project and Free Speech Movement, Berkeley supports a diverse student body with over 350 programs and robust financial aid, continually innovating in ethics, inclusion, and campus management.",
+        "text_original": "UC Berkeley is a premier public university renowned for pioneering research such as cyclotron invention, plutonium discovery, and advancements in CRISPR and computing. Historically pivotal in the Manhattan Project and Free Speech Movement, Berkeley supports a diverse student body with over 350 programs and robust financial aid, continually innovating in ethics, inclusion, and campus management",
+        "idx_start": 577,
+        "idx_end": 973
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## Massachusetts Institute of Technology (MIT)\nFounded in 1861, MIT is internationally recognized for integrating science, engineering, and innovation. Known for its \"mind and hand\" ethos, MIT offers rigorous academics, undergraduate research, and global education platforms like OpenCourseWare. Its faculty and alumni have led advances in AI, energy, and computing, bolstered by industry ties and significant federal funding.",
+        "text_original": "Founded in 1861, MIT is internationally recognized for integrating science, engineering, and innovation. Known for its \"mind and hand\" ethos, MIT offers rigorous academics, undergraduate research, and global education platforms like OpenCourseWare. Its faculty and alumni have led advances in AI, energy, and computing, bolstered by industry ties and significant federal funding",
+        "idx_start": 1024,
+        "idx_end": 1402
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## Stanford University\nStanford is synonymous with technological and academic innovation, shaping Silicon Valley and driving breakthroughs in genetics, computing, and the internet. The university's selective admissions, no-loan policy, and vibrant campus life foster diversity and excellence. Stanford alumni include Nobel and Turing laureates, and the institution is at the forefront of campus reforms addressing safety and misconduct.",
+        "text_original": "Stanford is synonymous with technological and academic innovation, shaping Silicon Valley and driving breakthroughs in genetics, computing, and the internet. The university's selective admissions, no-loan policy, and vibrant campus life foster diversity and excellence. Stanford alumni include Nobel and Turing laureates, and the institution is at the forefront of campus reforms addressing safety and misconduct",
+        "idx_start": 1429,
+        "idx_end": 1841
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## King\u2019s College London (KCL)\nA top UK institution, KCL excels in medical research and scientific achievement, operating across five campuses with a strong tradition in gender inclusion and collaborations such as the Francis Crick Institute. The university boasts distinguished alumni\u2014including 14 Nobel laureates\u2014and fosters active student life with robust cultural and support programs.",
+        "text_original": "A top UK institution, KCL excels in medical research and scientific achievement, operating across five campuses with a strong tradition in gender inclusion and collaborations such as the Francis Crick Institute. The university boasts distinguished alumni\u2014including 14 Nobel laureates\u2014and fosters active student life with robust cultural and support programs",
+        "idx_start": 1876,
+        "idx_end": 2233
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## Greenwood Theatre at King\u2019s College London\nThe Greenwood Theatre, part of KCL\u2019s heritage, served as the venue for landmark television moments, notably the inaugural episode of BBC\u2019s \"Question Time\" (1979) and David Dimbleby\u2019s final episode (2018).",
+        "text_original": "The Greenwood Theatre, part of KCL\u2019s heritage, served as the venue for landmark television moments, notably the inaugural episode of BBC\u2019s \"Question Time\" (1979) and David Dimbleby\u2019s final episode",
+        "idx_start": 2283,
+        "idx_end": 2479
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## Tsinghua University\nEstablished in 1911, Tsinghua University is China's top multidisciplinary institution, renowned for competitive admissions, government backing, and extensive research capacity. With partnerships in medicine, influential alumni\u2014including Chinese policymakers\u2014and historic architecture, Tsinghua shapes national governance and modern academic excellence.",
+        "text_original": "Established in 1911, Tsinghua University is China's top multidisciplinary institution, renowned for competitive admissions, government backing, and extensive research capacity. With partnerships in medicine, influential alumni\u2014including Chinese policymakers\u2014and historic architecture, Tsinghua shapes national governance and modern academic excellence",
+        "idx_start": 2513,
+        "idx_end": 2864
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## Zhejiang University (ZJU)\nFounded in 1897, ZJU is a leading Chinese university noted for research, academic reform, and international collaboration. Hosting twelve State Key Laboratories, ZJU serves a large, diverse student population and boasts accomplished alumni, including Nobel and Fields Medal recipients, reinforcing its reputation for innovation and global partnerships.",
+        "text_original": "Founded in 1897, ZJU is a leading Chinese university noted for research, academic reform, and international collaboration. Hosting twelve State Key Laboratories, ZJU serves a large, diverse student population and boasts accomplished alumni, including Nobel and Fields Medal recipients, reinforcing its reputation for innovation and global partnerships",
+        "idx_start": 2897,
+        "idx_end": 3248
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## University of Chicago\nEstablished in 1890, the University of Chicago is esteemed for academic innovation, influential faculty, and its commitment to institutional neutrality. With achievements in economics, the Manhattan Project, and the social sciences, the university has produced 101 Nobel laureates and maintains robust global and campus engagement, despite facing current financial challenges and active student movements.",
+        "text_original": "Established in 1890, the University of Chicago is esteemed for academic innovation, influential faculty, and its commitment to institutional neutrality. With achievements in economics, the Manhattan Project, and the social sciences, the university has produced 101 Nobel laureates and maintains robust global and campus engagement, despite facing current financial challenges and active student movements",
+        "idx_start": 3277,
+        "idx_end": 3681
+    }
+]

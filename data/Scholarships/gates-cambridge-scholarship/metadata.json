@@ -1,0 +1,24 @@
+{
+  "id": 578026,
+  "title": "Gates Cambridge Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Gates_Cambridge_Scholarship",
+  "path": "Scholarships\\gates-cambridge-scholarship",
+  "summary": {
+    "chars": 882,
+    "tokens": 169
+  },
+  "document": {
+    "chars": 13757,
+    "tokens": 2181
+  },
+  "infobox": {
+    "title": "Gates Cambridge Scholarship",
+    "data": {
+      "Awarded for": "Post-graduate study at the University of Cambridge",
+      "Sponsored by": "Bill and Melinda Gates Foundation",
+      "Location": "Cambridge, England",
+      "Established": "2000",
+      "Website": "gatescambridge.org"
+    }
+  }
+}

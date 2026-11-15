@@ -1,0 +1,25 @@
+{
+  "id": 55773212,
+  "title": "Universal Paperclips",
+  "url": "https://en.wikipedia.org/wiki/Universal_Paperclips",
+  "path": "AI-Regulations\\universal-paperclips",
+  "summary": {
+    "chars": 908,
+    "tokens": 181
+  },
+  "document": {
+    "chars": 7623,
+    "tokens": 1600
+  },
+  "infobox": {
+    "title": "Universal Paperclips",
+    "data": {
+      "Publisher": "www.decisionproblem.com/paperclips/index2.html",
+      "Designer": "Frank Lantz",
+      "Programmers": "Frank Lantz \u00b7 Bennett Foddy",
+      "Platforms": "Web, iOS, Android",
+      "Release": "October 9, 2017",
+      "Genre": "Incremental"
+    }
+  }
+}

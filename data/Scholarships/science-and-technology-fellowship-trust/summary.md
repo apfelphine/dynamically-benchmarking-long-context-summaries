@@ -1,0 +1,1 @@
+Science and Technology Fellowship Trust (Bengali: বিজ্ঞান ও প্রযুক্তি ফেলোশিপ ট্রাস্ট) is a Bangladesh government supported and funded scholarship program for science and technology education and research.

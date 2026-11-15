@@ -1,0 +1,65 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Global Overview\nEducation systems across the globe prioritize inclusivity, equity, teacher quality, and support for cultural and linguistic diversity, but face persistent challenges in implementation, resources, achievement gaps, and social outcomes.",
+        "text_original": "Education systems across the globe prioritize inclusivity, equity, teacher quality, and support for cultural and linguistic diversity, but face persistent challenges in implementation, resources, achievement gaps, and social outcomes",
+        "idx_start": 20,
+        "idx_end": 253
+    },
+    {
+        "document_idx": null,
+        "text": "# Country-Specific Summaries\n## Finland\nFinland excels in universal access, equitable outcomes, advanced learning, digital innovation, and flexible pathways, all led by highly qualified teachers.",
+        "text_original": "Finland excels in universal access, equitable outcomes, advanced learning, digital innovation, and flexible pathways, all led by highly qualified teachers",
+        "idx_start": 304,
+        "idx_end": 458
+    },
+    {
+        "document_idx": null,
+        "text": "# Country-Specific Summaries\n## United States\nThe U.S. system is decentralized, with marked funding disparities, achievement gaps, teacher shortages, expensive higher education, student homelessness, debates over standardized testing, and rising mental health concerns.",
+        "text_original": "The U.S. system is decentralized, with marked funding disparities, achievement gaps, teacher shortages, expensive higher education, student homelessness, debates over standardized testing, and rising mental health concerns",
+        "idx_start": 479,
+        "idx_end": 701
+    },
+    {
+        "document_idx": null,
+        "text": "# Country-Specific Summaries\n## South Africa\nSouth Africa contends with inequality, outdated curricula, high dropout rates, and violence. Reforms focus on grading, technology adoption, inclusivity, curriculum modernization, and expanding ICT integration.",
+        "text_original": "South Africa contends with inequality, outdated curricula, high dropout rates, and violence. Reforms focus on grading, technology adoption, inclusivity, curriculum modernization, and expanding ICT integration",
+        "idx_start": 721,
+        "idx_end": 929
+    },
+    {
+        "document_idx": null,
+        "text": "# Country-Specific Summaries\n## Philippines\nFree K\u201312 education in the Philippines serves academic, vocational, and marginalized groups amid resource shortages, corruption, licensing obstacles, pandemic learning loss, and labor migration. Reform aims include curriculum updates (\"Matatag\"), expanded tertiary access, autonomy, and quality improvement.",
+        "text_original": "Free K\u201312 education in the Philippines serves academic, vocational, and marginalized groups amid resource shortages, corruption, licensing obstacles, pandemic learning loss, and labor migration. Reform aims include curriculum updates (\"Matatag\"), expanded tertiary access, autonomy, and quality improvement",
+        "idx_start": 948,
+        "idx_end": 1254
+    },
+    {
+        "document_idx": null,
+        "text": "# Country-Specific Summaries\n## Portugal\nPortugal\u2019s system provides universal basic and secondary education, broad tertiary access, robust teacher training, and ongoing reforms for workforce readiness and equity, shaped by post-1974 and Bologna process changes.",
+        "text_original": "Portugal\u2019s system provides universal basic and secondary education, broad tertiary access, robust teacher training, and ongoing reforms for workforce readiness and equity, shaped by post-1974 and Bologna process changes",
+        "idx_start": 1270,
+        "idx_end": 1489
+    },
+    {
+        "document_idx": null,
+        "text": "# Country-Specific Summaries\n## Malaysia\nMalaysia\u2019s multicultural system features multiple school types, reform blueprints for inclusion and linguistic diversity, teacher quality improvement, and infrastructure upgrades, while facing issues with language policy, gender imbalance, affirmative action, admission transparency, and talent retention.",
+        "text_original": "Malaysia\u2019s multicultural system features multiple school types, reform blueprints for inclusion and linguistic diversity, teacher quality improvement, and infrastructure upgrades, while facing issues with language policy, gender imbalance, affirmative action, admission transparency, and talent retention",
+        "idx_start": 1505,
+        "idx_end": 1809
+    },
+    {
+        "document_idx": null,
+        "text": "# Country-Specific Summaries\n## Australia\nAustralia offers compulsory education through Year 12 across varied school types, guided by national standards and state oversight. Despite strong international competitiveness, declines in core proficiency and performance inconsistencies persist, alongside ongoing reforms for funding, Indigenous education, and bilingual programs. International student recruitment remains robust.",
+        "text_original": "Australia offers compulsory education through Year 12 across varied school types, guided by national standards and state oversight. Despite strong international competitiveness, declines in core proficiency and performance inconsistencies persist, alongside ongoing reforms for funding, Indigenous education, and bilingual programs. International student recruitment remains robust",
+        "idx_start": 1826,
+        "idx_end": 2207
+    },
+    {
+        "document_idx": null,
+        "text": "# Country-Specific Summaries\n## Romania\n- **Public Education:** Mandates 15 years of education from kindergarten to gymnasium, with literacy high overall but lower among Romani and Turkish minorities. School access and outcomes vary, with urban\u2013rural divides and frequent shift-based schooling; most public schools lack cafeterias and do not provide lunch, though after-school programs are expanding. Uniform policies vary by region and grade.\n- **Examinations & Curriculum:** High school admission is exam-based; graduation requires the Baccalaureate. The curriculum is largely mandatory with limited flexibility, and grading standards vary.\n- **Student Involvement:** Participation in administration is minimal, especially in high schools. Vocational education reforms aim to meet labor market needs.\n- **Digital Innovation:** Digital grading introduced in 2023.\n- **Religious Education:** Since 2014, religion classes require active opt-in; ongoing debate surrounds religious versus secular content and youth decision-making rights.\n- **Higher Education:** Romanian universities operate autonomously within Bologna standards, offering bachelor\u2019s, master\u2019s, and doctoral degrees. Admission policies differ by field and institution; many universities are internationally recognized and actively engage in programs such as Erasmus Mundus, Tempus, and Fulbright. Diplomas are widely recognized in Europe (including the Netherlands), and FEANI confers European Engineer titles. Four universities rank among the world's top 700.\n- **Social & International Engagement:** Universities were pivotal in democratization and student activism post-1990, inspiring wider regional change. Romanian students increasingly study abroad (about 50,000 youths), resulting in significant brain drain.\n- **Rural Challenges:** Rural children face high absenteeism and dropout rates due to lack of local high schools and commuting difficulties.\n- **Funding Issues:** Secondary education is underfunded, leading to common but illegal parental contributions to class funds.\nGlobally, education systems strive for modernization, greater equity, and inclusion while facing persistent barriers tied to social, economic, and cultural contexts.",
+        "text_original": "Public Education:** Mandates 15 years of education from kindergarten to gymnasium, with literacy high overall but lower among Romani and Turkish minorities. School access and outcomes vary, with urban\u2013rural divides and frequent shift-based schooling; most public schools lack cafeterias and do not provide lunch, though after-school programs are expanding. Uniform policies vary by region and grade.\n- **Examinations & Curriculum:** High school admission is exam-based; graduation requires the Baccalaureate. The curriculum is largely mandatory with limited flexibility, and grading standards vary.\n- **Student Involvement:** Participation in administration is minimal, especially in high schools. Vocational education reforms aim to meet labor market needs.\n- **Digital Innovation:** Digital grading introduced in 2023.\n- **Religious Education:** Since 2014, religion classes require active opt-in; ongoing debate surrounds religious versus secular content and youth decision-making rights.\n- **Higher Education:** Romanian universities operate autonomously within Bologna standards, offering bachelor\u2019s, master\u2019s, and doctoral degrees. Admission policies differ by field and institution; many universities are internationally recognized and actively engage in programs such as Erasmus Mundus, Tempus, and Fulbright. Diplomas are widely recognized in Europe (including the Netherlands), and FEANI confers European Engineer titles. Four universities rank among the world's top 700.\n- **Social & International Engagement:** Universities were pivotal in democratization and student activism post-1990, inspiring wider regional change. Romanian students increasingly study abroad (about 50,000 youths), resulting in significant brain drain.\n- **Rural Challenges:** Rural children face high absenteeism and dropout rates due to lack of local high schools and commuting difficulties.\n- **Funding Issues:** Secondary education is underfunded, leading to common but illegal parental contributions to class funds.\n\n---\n\nGlobally, education systems strive for modernization, greater equity, and inclusion while facing persistent barriers tied to social, economic, and cultural contexts",
+        "idx_start": 2227,
+        "idx_end": 4403
+    }
+]

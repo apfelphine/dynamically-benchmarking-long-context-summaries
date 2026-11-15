@@ -1,0 +1,275 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Early Life and Education\nTorres Quevedo was born in Santa Cruz de Igu\u00f1a, Spain, in 1852. After high school in Bilbao, he studied in Paris before moving to Madrid in 1870. He began studies in Civil Engineering but eventually dedicated himself to self-supported research.",
+        "text_original": "Torres Quevedo was born in Santa Cruz de Igu\u00f1a, Spain, in 1852. After high school in Bilbao, he studied in Paris before moving to Madrid in 1870. He began studies in Civil Engineering but eventually dedicated himself to self-supported research",
+        "idx_start": 56,
+        "idx_end": 299
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Engineering and Inventions\nHis early work focused on cableways, leading to a key patent in 1887 for a multi-wire suspended aerial system, which later saw successful public transport implementation in San Sebasti\u00e1n. He was also involved in the Spanish Aerocar built in Canada (1914\u20131916).",
+        "text_original": "His early work focused on cableways, leading to a key patent in 1887 for a multi-wire suspended aerial system, which later saw successful public transport implementation in San Sebasti\u00e1n. He was also involved in the Spanish Aerocar built in Canada",
+        "idx_start": 333,
+        "idx_end": 580
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Calculating Machines and Automatics\nIn 1893, he began work on algebraic machines, presenting papers that were praised by the Paris Academy of Sciences for providing a general solution to constructing algebraic relations mechanically. He developed a series of analogue mechanical calculating machines, culminating in one capable of computing roots of eight-order polynomials (1910\u20131920).",
+        "text_original": "In 1893, he began work on algebraic machines, presenting papers that were praised by the Paris Academy of Sciences for providing a general solution to constructing algebraic relations mechanically. He developed a series of analogue mechanical calculating machines, culminating in one capable of computing roots of eight-order polynomials",
+        "idx_start": 635,
+        "idx_end": 972
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Aerostatics and Radio Control\nTorres pioneered dirigible design, leading to the creation of the Astra-Torres airships. He also invented the Telekino around 1901\u20131902, a pioneering radio control system demonstrated in Bilbao in 1906, capable of controlling up to 19 different actions simultaneously.",
+        "text_original": "Torres pioneered dirigible design, leading to the creation of the Astra-Torres airships. He also invented the Telekino around 1901\u20131902, a pioneering radio control system demonstrated in Bilbao in 1906, capable of controlling up to 19 different actions simultaneously",
+        "idx_start": 1021,
+        "idx_end": 1288
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Formal Language and Legacy\nIn 1907, he introduced a formal language for mechanical drawings in Vienna, considered equivalent to a programming language for machine tool control. His legacy is extensive, encompassing contributions to engineering, mathematics, and the founding of institutions like the Laboratory of Automation.",
+        "text_original": "In 1907, he introduced a formal language for mechanical drawings in Vienna, considered equivalent to a programming language for machine tool control. His legacy is extensive, encompassing contributions to engineering, mathematics, and the founding of institutions like the Laboratory of Automation",
+        "idx_start": 1322,
+        "idx_end": 1619
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Early Life and Education\nAlan Turing was born in London in 1912. His early scientific curiosity was ignited by reading Edwin Tenney Brewster's *Natural Wonders Every Child Should Know* . He excelled in mathematics, encountering Einstein's work in 1928.",
+        "text_original": "Alan Turing was born in London in 1912. His early scientific curiosity was ignited by reading Edwin Tenney Brewster's *Natural Wonders Every Child Should Know*. He excelled in mathematics, encountering Einstein's work in",
+        "idx_start": 1671,
+        "idx_end": 1891
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## University and Computability Theory\nAt Cambridge, Turing proved a version of the central limit theorem. His most influential work, \"On Computable Numbers, with an Application to the Entscheidungsproblem,\" published in 1936, reformulated G\u00f6del's incompleteness theorems using the concept of the Turing machine, proving the Entscheidungsproblem is undecidable.",
+        "text_original": "At Cambridge, Turing proved a version of the central limit theorem. His most influential work, \"On Computable Numbers, with an Application to the Entscheidungsproblem,\" published in 1936, reformulated G\u00f6del's incompleteness theorems using the concept of the Turing machine, proving the Entscheidungsproblem is undecidable",
+        "idx_start": 1939,
+        "idx_end": 2260
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Cryptanalysis and WWII Work\nDuring WWII, Turing was a leading codebreaker at Bletchley Park, focusing on the Enigma cipher. He designed the bombe, an electromechanical machine to search for Enigma settings. He also developed Banburismus for naval Enigma and Turingery for the Lorenz cipher, which fed into the development of the Colossus computer.",
+        "text_original": "During WWII, Turing was a leading codebreaker at Bletchley Park, focusing on the Enigma cipher. He designed the bombe, an electromechanical machine to search for Enigma settings. He also developed Banburismus for naval Enigma and Turingery for the Lorenz cipher, which fed into the development of the Colossus computer",
+        "idx_start": 2295,
+        "idx_end": 2613
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Early Computers and AI\nIn the post-war period, Turing designed the ACE (Automatic Computing Engine) in 1946. In 1948, he proposed the Turing test in \"Computing Machinery and Intelligence\" to define machine intelligence, a concept foundational to modern AI.",
+        "text_original": "In the post-war period, Turing designed the ACE (Automatic Computing Engine) in 1946. In 1948, he proposed the Turing test in \"Computing Machinery and Intelligence\" to define machine intelligence, a concept foundational to modern AI",
+        "idx_start": 2643,
+        "idx_end": 2875
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Later Life and Conviction\nTuring was involved in mathematical biology, publishing \"The Chemical Basis of Morphogenesis\" in 1952, which introduced the reaction\u2013diffusion system concept. In 1951, he was convicted of gross indecency due to a relationship, which resulted in mandatory hormonal treatment. He died in 1954, with posthumous apologies from the British government being issued in 2009.",
+        "text_original": "Turing was involved in mathematical biology, publishing \"The Chemical Basis of Morphogenesis\" in 1952, which introduced the reaction\u2013diffusion system concept. In 1951, he was convicted of gross indecency due to a relationship, which resulted in mandatory hormonal treatment. He died in 1954, with posthumous apologies from the British government being issued in",
+        "idx_start": 2908,
+        "idx_end": 3269
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Early Life and Scientific Beginnings\nBlaise Pascal was born in Clermont-Ferrand, France, in 1623. His early aptitude for mathematics led him to rediscover Euclid's propositions by age 12. At 16, he produced *Essai pour les coniques* (Pascal's theorem), demonstrating his precocity.",
+        "text_original": "Blaise Pascal was born in Clermont-Ferrand, France, in 1623. His early aptitude for mathematics led him to rediscover Euclid's propositions by age 12. At 16, he produced *Essai pour les coniques* (Pascal's theorem), demonstrating his precocity",
+        "idx_start": 3340,
+        "idx_end": 3583
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Inventions and Mathematical Theory\nIn 1642, he invented the Pascaline, a mechanical calculator for addition and subtraction, although it was not a commercial success. In 1654, correspondence with Pierre de Fermat led to the birth of probability theory, and he described Pascal's triangle in his *Trait\u00e9 du triangle arithm\u00e9tique* .",
+        "text_original": "In 1642, he invented the Pascaline, a mechanical calculator for addition and subtraction, although it was not a commercial success. In 1654, correspondence with Pierre de Fermat led to the birth of probability theory, and he described Pascal's triangle in his *Trait\u00e9 du triangle arithm\u00e9tique",
+        "idx_start": 3625,
+        "idx_end": 3917
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Physics and Metaphysics\nPascal significantly advanced physics by proving that hydrostatic pressure depends on elevation difference (Pascal's Law) and by detailing the concept of a vacuum in his *Experiences nouvelles touchant le vide* (1647), disproving the prevailing plenum theory. His later philosophical work, *Pens\u00e9es* , explores themes of human fragility and divine faith.",
+        "text_original": "Pascal significantly advanced physics by proving that hydrostatic pressure depends on elevation difference (Pascal's Law) and by detailing the concept of a vacuum in his *Experiences nouvelles touchant le vide* (1647), disproving the prevailing plenum theory. His later philosophical work, *Pens\u00e9es*, explores themes of human fragility and divine faith",
+        "idx_start": 3949,
+        "idx_end": 4301
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Literature and Legacy\nPascal is highly regarded as a master of French prose, particularly for his satirical *Lettres provinciales* . He was a dualist philosopher who opposed strict rationalism, preferring fideism. His final major technical achievement was inventing the *carrosses \u00e0 cinq sols* , an early public transportation network.",
+        "text_original": "Pascal is highly regarded as a master of French prose, particularly for his satirical *Lettres provinciales*. He was a dualist philosopher who opposed strict rationalism, preferring fideism. His final major technical achievement was inventing the *carrosses \u00e0 cinq sols*, an early public transportation network",
+        "idx_start": 4330,
+        "idx_end": 4640
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Biography and Early Interests\nAda Lovelace was born in 1816. Despite an often difficult relationship with her father, Lord Byron, she developed a profound interest in mathematics and science. She was heavily influenced by her mother and was taught advanced mathematics, including the Bernoulli numbers, by figures like Augustus De Morgan.",
+        "text_original": "Ada Lovelace was born in 1816. Despite an often difficult relationship with her father, Lord Byron, she developed a profound interest in mathematics and science. She was heavily influenced by her mother and was taught advanced mathematics, including the Bernoulli numbers, by figures like Augustus De Morgan",
+        "idx_start": 4698,
+        "idx_end": 5005
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Contribution to Computing\nIn 1840, she translated Luigi Menabrea's notes on Charles Babbage's Analytical Engine. Her extensive \"Notes\" (A\u2013G) were crucial, as **Note G** detailed an algorithm for calculating Bernoulli numbers using the Engine.",
+        "text_original": "In 1840, she translated Luigi Menabrea's notes on Charles Babbage's Analytical Engine. Her extensive \"Notes\" (A\u2013G) were crucial, as **Note G** detailed an algorithm for calculating Bernoulli numbers using the Engine",
+        "idx_start": 5038,
+        "idx_end": 5253
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Vision of Computation\nLovelace recognized that the Analytical Engine's potential extended beyond mere number crunching. She articulated the idea that the machine could operate on symbols representing anything\u2014such as musical harmony\u2014not just quantity. This insight marked the fundamental transition from calculation to general-purpose computation.",
+        "text_original": "Lovelace recognized that the Analytical Engine's potential extended beyond mere number crunching. She articulated the idea that the machine could operate on symbols representing anything\u2014such as musical harmony\u2014not just quantity. This insight marked the fundamental transition from calculation to general-purpose computation",
+        "idx_start": 5282,
+        "idx_end": 5606
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Commemoration and Influence\nHer work is recognized today, and the computer language \"Ada\" is named in her honor. Her notes are credited with describing the world's first published computer program, cementing her role as a pioneer in computer science.",
+        "text_original": "Her work is recognized today, and the computer language \"Ada\" is named in her honor. Her notes are credited with describing the world's first published computer program, cementing her role as a pioneer in computer science",
+        "idx_start": 5641,
+        "idx_end": 5862
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Early Life and Education\nCharles Babbage was born in 1792 and was educated at Holmwood Academy. He attended Trinity College, Cambridge, where he was dissatisfied with the standard mathematical instruction, which spurred his independent work.",
+        "text_original": "Charles Babbage was born in 1792 and was educated at Holmwood Academy. He attended Trinity College, Cambridge, where he was dissatisfied with the standard mathematical instruction, which spurred his independent work",
+        "idx_start": 5918,
+        "idx_end": 6133
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Early Scientific Contributions and Society\nBabbage co-founded the Royal Astronomical Society in 1820, motivated by the need to mechanize the calculation of astronomical tables to reduce errors. He also researched actuarial tables and studied the economy of machinery.",
+        "text_original": "Babbage co-founded the Royal Astronomical Society in 1820, motivated by the need to mechanize the calculation of astronomical tables to reduce errors. He also researched actuarial tables and studied the economy of machinery",
+        "idx_start": 6183,
+        "idx_end": 6406
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Difference and Analytical Engines\nHe conceived the Difference Engine in 1822 to automate polynomial function calculations using finite differences. This evolved into the much more complex Analytical Engine. The Analytical Engine was revolutionary because it was designed to be programmable using punched cards, incorporating features like sequential control, looping, and branching\u2014making it conceptually Turing-complete.",
+        "text_original": "He conceived the Difference Engine in 1822 to automate polynomial function calculations using finite differences. This evolved into the much more complex Analytical Engine. The Analytical Engine was revolutionary because it was designed to be programmable using punched cards, incorporating features like sequential control, looping, and branching\u2014making it conceptually Turing-complete",
+        "idx_start": 6447,
+        "idx_end": 6833
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Economic and Philosophical Views\nHis 1832 work, *On the Economy of Machinery and Manufactures* , introduced the \"Babbage principle,\" advocating for efficient division of labor for commercial profitability. In theology, he supported uniformitarianism and natural theology, proposing the \"library in the air\" concept.",
+        "text_original": "His 1832 work, *On the Economy of Machinery and Manufactures*, introduced the \"Babbage principle,\" advocating for efficient division of labor for commercial profitability. In theology, he supported uniformitarianism and natural theology, proposing the \"library in the air\" concept",
+        "idx_start": 6873,
+        "idx_end": 7153
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Early Life and Programming Work\nRichard Stallman, born in 1953, developed an early interest in computers while attending Columbia University. After studying at Harvard and MIT, he became a regular in the hacker community, known by his initials, RMS.",
+        "text_original": "Richard Stallman, born in 1953, developed an early interest in computers while attending Columbia University. After studying at Harvard and MIT, he became a regular in the hacker community, known by his initials, RMS",
+        "idx_start": 7217,
+        "idx_end": 7433
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## The GNU Project and Free Software Advocacy\nThe proprietary nature of software development in the late 1970s led Stallman to proclaim software restriction \"a crime against humanity.\" In 1983, he started the GNU project, aiming to create a free operating system compatible with Unix. In 1985, he published the GNU Manifesto, and he established the Free Software Foundation (FSF).",
+        "text_original": "The proprietary nature of software development in the late 1970s led Stallman to proclaim software restriction \"a crime against humanity.\" In 1983, he started the GNU project, aiming to create a free operating system compatible with Unix. In 1985, he published the GNU Manifesto, and he established the Free Software Foundation (FSF",
+        "idx_start": 7483,
+        "idx_end": 7815
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Philosophy of Freedom and Open Source\nStallman champions the philosophical concept of **Free Software** \u2014a political movement valuing user freedom to modify and redistribute code\u2014distinguishing it from \"open source,\" which he views as merely a development model. He advocates for \"reduced copyright\" and is highly critical of digital rights management (DRM).",
+        "text_original": "Stallman champions the philosophical concept of **Free Software**\u2014a political movement valuing user freedom to modify and redistribute code\u2014distinguishing it from \"open source,\" which he views as merely a development model. He advocates for \"reduced copyright\" and is highly critical of digital rights management (DRM",
+        "idx_start": 7861,
+        "idx_end": 8178
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Activism and Later Years\nHis activism led him to boycott various proprietary products. He has been a vocal critic of government and corporate surveillance, refusing to use cell phones for tracking. He resigned from MIT in 1984 to work on GNU and later faced controversy regarding past writings on underage sex, leading to his resignation from MIT and FSF in 2019 before returning in 2021.",
+        "text_original": "His activism led him to boycott various proprietary products. He has been a vocal critic of government and corporate surveillance, refusing to use cell phones for tracking. He resigned from MIT in 1984 to work on GNU and later faced controversy regarding past writings on underage sex, leading to his resignation from MIT and FSF in 2019 before returning in",
+        "idx_start": 8211,
+        "idx_end": 8568
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## Early Education and Early Inventions\nVannevar Bush, born in 1890, was educated at Tufts College and MIT. His early inventions included a patented \"profile tracer,\" a device used by surveyors, demonstrating his aptitude for mechanical problem-solving.",
+        "text_original": "Vannevar Bush, born in 1890, was educated at Tufts College and MIT. His early inventions included a patented \"profile tracer,\" a device used by surveyors, demonstrating his aptitude for mechanical problem-solving",
+        "idx_start": 8639,
+        "idx_end": 8851
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## Engineering and World War II Leadership\nHe worked in electrical engineering, developing a differential analyzer, an analog computer. During WWII, Bush became instrumental in guiding U.S. scientific efforts. He chaired the National Advisory Committee for Aeronautics (NACA) and later directed the Office of Scientific Research and Development (OSRD), where he oversaw critical projects like the proximity fuze and played a key role in pushing for the Manhattan Project.",
+        "text_original": "He worked in electrical engineering, developing a differential analyzer, an analog computer. During WWII, Bush became instrumental in guiding U.S. scientific efforts. He chaired the National Advisory Committee for Aeronautics (NACA) and later directed the Office of Scientific Research and Development (OSRD), where he oversaw critical projects like the proximity fuze and played a key role in pushing for the Manhattan Project",
+        "idx_start": 8898,
+        "idx_end": 9325
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## Visionary Concepts and Post-War Policy\nIn his seminal 1945 essay, \"As We May Think,\" Bush introduced the concept of the **memex** , a mechanized private file and library designed to augment human memory. Post-war, he advocated for continued federal patronage of basic scientific research, influencing the eventual establishment of the National Science Foundation (NSF).",
+        "text_original": "In his seminal 1945 essay, \"As We May Think,\" Bush introduced the concept of the **memex**, a mechanized private file and library designed to augment human memory. Post-war, he advocated for continued federal patronage of basic scientific research, influencing the eventual establishment of the National Science Foundation (NSF",
+        "idx_start": 9371,
+        "idx_end": 9698
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Philosophy and Metaphysics\nWhitehead is a central figure in process philosophy, rejecting the notion of \"irreducible brute matter\" (scientific materialism). He proposed an event-based ontology where **occasions of experience** are primary, stressing that change is fundamental, leading to the concept of \"panexperientialism.\"",
+        "text_original": "Whitehead is a central figure in process philosophy, rejecting the notion of \"irreducible brute matter\" (scientific materialism). He proposed an event-based ontology where **occasions of experience** are primary, stressing that change is fundamental, leading to the concept of \"panexperientialism",
+        "idx_start": 9764,
+        "idx_end": 10060
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Key Philosophical Works\nHis magnum opus, *Process and Reality* (1929), argues that reality is constituted by interrelated events. His concept of **prehension** describes perception as actively incorporating the perceived into the perceiver. He also developed a sophisticated view of God as a \"dipolar entity\" that interacts mutually with the world.",
+        "text_original": "His magnum opus, *Process and Reality* (1929), argues that reality is constituted by interrelated events. His concept of **prehension** describes perception as actively incorporating the perceived into the perceiver. He also developed a sophisticated view of God as a \"dipolar entity\" that interacts mutually with the world",
+        "idx_start": 10092,
+        "idx_end": 10415
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Mathematics and Education\nHe co-authored *Principia Mathematica* with Bertrand Russell (1910\u20131913), a monumental work in symbolic logic. In education, he argued against \"inert ideas,\" advocating instead for a **transdisciplinary** curriculum where concepts are organically linked to real-life application.",
+        "text_original": "He co-authored *Principia Mathematica* with Bertrand Russell (1910\u20131913), a monumental work in symbolic logic. In education, he argued against \"inert ideas,\" advocating instead for a **transdisciplinary** curriculum where concepts are organically linked to real-life application",
+        "idx_start": 10448,
+        "idx_end": 10726
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## Early Life and Film Career\nBorn Hedwig Eva Maria Kiesler in 1914, Lamarr was fascinated by film and theater. She achieved international fame in Hollywood starting in 1938, where she was typecast as the exotic, glamorous seductress.",
+        "text_original": "Born Hedwig Eva Maria Kiesler in 1914, Lamarr was fascinated by film and theater. She achieved international fame in Hollywood starting in 1938, where she was typecast as the exotic, glamorous seductress",
+        "idx_start": 10780,
+        "idx_end": 10983
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## The Invention of Frequency Hopping\nHer latent talent for science emerged during her marriage to arms dealer Fritz Mandl. Inspired by his knowledge of military technology and composer George Antheil\u2019s work, she co-invented **frequency-hopping spread spectrum technology** in 1942, designed to prevent torpedo guidance jamming.",
+        "text_original": "Her latent talent for science emerged during her marriage to arms dealer Fritz Mandl. Inspired by his knowledge of military technology and composer George Antheil\u2019s work, she co-invented **frequency-hopping spread spectrum technology** in 1942, designed to prevent torpedo guidance jamming",
+        "idx_start": 11025,
+        "idx_end": 11314
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## Later Life and Recognition\nThe Navy initially rejected the patent. After her film career declined, she focused on invention. She received numerous honors, including the Electronic Frontier Foundation's Pioneer Award (1997). Her invention is recognized today through the **Hedy-Lamarr-Weg** in Vienna and the **Lamarr-class USS Voyager-A** in *Star Trek Prodigy* .",
+        "text_original": "The Navy initially rejected the patent. After her film career declined, she focused on invention. She received numerous honors, including the Electronic Frontier Foundation's Pioneer Award (1997). Her invention is recognized today through the **Hedy-Lamarr-Weg** in Vienna and the **Lamarr-class USS Voyager-A** in *Star Trek Prodigy",
+        "idx_start": 11348,
+        "idx_end": 11681
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Research Focus and Modeling Speech\nPhilip Rubin\u2019s research combines computational, linguistic, and physiological approaches to **embodied cognition** , focusing on the biological basis of speech and language. He is best known for his work on **articulatory synthesis** .",
+        "text_original": "Philip Rubin\u2019s research combines computational, linguistic, and physiological approaches to **embodied cognition**, focusing on the biological basis of speech and language. He is best known for his work on **articulatory synthesis",
+        "idx_start": 11745,
+        "idx_end": 11975
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Speech Synthesis Systems\nAt Haskins Laboratories, he designed foundational software like **ASY** (articulatory synthesis program) and **SWS** (sinewave synthesis program). He developed a model for controlling articulatory events, known as speech gestures, and later, the **CASY** model, a 3D vocal tract simulator.",
+        "text_original": "At Haskins Laboratories, he designed foundational software like **ASY** (articulatory synthesis program) and **SWS** (sinewave synthesis program). He developed a model for controlling articulatory events, known as speech gestures, and later, the **CASY** model, a 3D vocal tract simulator",
+        "idx_start": 12009,
+        "idx_end": 12297
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Theoretical Contributions and Policy\nTheoretically, he introduced a **dynamical systems/action theory perspective** on speech, emphasizing the spatiotemporal coordination of global system aspects over momentary signal cues. He has held significant roles in science policy, serving at the NSF and the OSTP, where he focused on ethical issues related to human research subjects.",
+        "text_original": "Theoretically, he introduced a **dynamical systems/action theory perspective** on speech, emphasizing the spatiotemporal coordination of global system aspects over momentary signal cues. He has held significant roles in science policy, serving at the NSF and the OSTP, where he focused on ethical issues related to human research subjects",
+        "idx_start": 12341,
+        "idx_end": 12679
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures Summary\n- **Leonardo Torres Quevedo:** A versatile Spanish inventor known for pioneering **cableways** , designing the **Spanish Aerocar** , developing **analogue calculating machines** , and inventing the **Telekino** for remote control.\n- **Alan Turing:** A mathematical logician whose work defined the limits of computation with the **Turing Machine** . He made pivotal wartime contributions to cryptanalysis (designing the **bombe** ) and is famous for proposing the **Turing Test** for AI.\n- **Charles Babbage:** Considered the father of the computer, he designed the **Analytical Engine** , a general-purpose mechanical computer intended to be programmed via punch cards. He also researched industrial efficiency in *On the Economy of Machinery and Manufactures* .\n- **Ada Lovelace:** Credited as the first computer programmer for her notes on Babbage's Analytical Engine, particularly **Note G** , which detailed an algorithm for the Bernoulli numbers, demonstrating the concept of computation beyond mere arithmetic.\n- **Vannevar Bush:** A visionary scientist whose 1945 essay, *\"As We May Think,\"* introduced the concept of the **memex** , a precursor to the World Wide Web, and he heavily influenced post-war US science policy, leading to the NSF.\n- **Alfred North Whitehead:** A process metaphysician who developed the **process philosophy** , arguing that reality is composed of interrelated, dynamic **occasions of experience** , fundamentally challenging materialist views.\n- **Philip Rubin:** A speech scientist known for developing **articulatory synthesis** models (like ASY), which computationally model the physiology and acoustics of speech production using a **dynamical systems/action theory** approach.\n- **Hedy Lamarr:** An actress and inventor who, with George Antheil, co-invented **frequency-hopping spread spectrum technology** in 1942 to prevent wartime torpedo jamming.\n- **Richard Stallman:** The driving force behind the **GNU Project** and the free software movement, advocating for software freedom as a moral and political value, and championing **copyleft** .\n- **Blaise Pascal:** A polymath who made seminal contributions to probability theory (co-developing the concept of **expected value** ), invented the **Pascaline** , and advanced hydrostatics and vacuum studies.",
+        "text_original": "Leonardo Torres Quevedo:** A versatile Spanish inventor known for pioneering **cableways**, designing the **Spanish Aerocar**, developing **analogue calculating machines**, and inventing the **Telekino** for remote control.\n*   **Alan Turing:** A mathematical logician whose work defined the limits of computation with the **Turing Machine**. He made pivotal wartime contributions to cryptanalysis (designing the **bombe**) and is famous for proposing the **Turing Test** for AI.\n*   **Charles Babbage:** Considered the father of the computer, he designed the **Analytical Engine**, a general-purpose mechanical computer intended to be programmed via punch cards. He also researched industrial efficiency in *On the Economy of Machinery and Manufactures*.\n*   **Ada Lovelace:** Credited as the first computer programmer for her notes on Babbage's Analytical Engine, particularly **Note G**, which detailed an algorithm for the Bernoulli numbers, demonstrating the concept of computation beyond mere arithmetic.\n*   **Vannevar Bush:** A visionary scientist whose 1945 essay, *\"As We May Think,\"* introduced the concept of the **memex**, a precursor to the World Wide Web, and he heavily influenced post-war US science policy, leading to the NSF.\n*   **Alfred North Whitehead:** A process metaphysician who developed the **process philosophy**, arguing that reality is composed of interrelated, dynamic **occasions of experience**, fundamentally challenging materialist views.\n*   **Philip Rubin:** A speech scientist known for developing **articulatory synthesis** models (like ASY), which computationally model the physiology and acoustics of speech production using a **dynamical systems/action theory** approach.\n*   **Hedy Lamarr:** An actress and inventor who, with George Antheil, co-invented **frequency-hopping spread spectrum technology** in 1942 to prevent wartime torpedo jamming.\n*   **Richard Stallman:** The driving force behind the **GNU Project** and the free software movement, advocating for software freedom as a moral and political value, and championing **copyleft**.\n*   **Blaise Pascal:** A polymath who made seminal contributions to probability theory (co-developing the concept of **expected value**), invented the **Pascaline**, and advanced hydrostatics and vacuum studies",
+        "idx_start": 12716,
+        "idx_end": 15014
+    }
+]

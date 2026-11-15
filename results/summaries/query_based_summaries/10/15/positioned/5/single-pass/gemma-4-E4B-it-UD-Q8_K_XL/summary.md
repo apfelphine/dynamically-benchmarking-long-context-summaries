@@ -1,0 +1,1 @@
+I found no text provided regarding "Education in Norway." Therefore, I cannot generate a summary based on your strict instructions.

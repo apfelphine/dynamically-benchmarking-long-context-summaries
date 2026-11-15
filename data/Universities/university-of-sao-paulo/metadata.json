@@ -1,0 +1,35 @@
+{
+  "id": 561499,
+  "title": "University of S\u00e3o Paulo",
+  "url": "https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo",
+  "path": "Universities\\university-of-sao-paulo",
+  "summary": {
+    "chars": 1257,
+    "tokens": 255
+  },
+  "document": {
+    "chars": 14173,
+    "tokens": 3031
+  },
+  "infobox": {
+    "title": "University of S\u00e3o Paulo",
+    "data": {
+      "Other name": "USP",
+      "Motto": "Scientia Vinces",
+      "Motto in English": "\"Through knowledge you will conquer\"",
+      "Type": "Public university",
+      "Established": "25 January 1934",
+      "Budget": "R$ 9.15 billion",
+      "Rector": "Carlos Gilberto Carlotti Junior",
+      "Academic staff": "5,306",
+      "Administrative staff": "12,607",
+      "Students": "97,325",
+      "Undergraduates": "58,752",
+      "Postgraduates": "29,487",
+      "Location": "S\u00e3o Paulo, Brazil \u00b7 23\u00b033\u203235\u2033S 46\u00b043\u203245\u2033W\ufeff / \ufeff23.55972\u00b0S 46.72917\u00b0W",
+      "Campus": "Bauru, Lorena, Piracicaba, Pirassununga, Ribeir\u00e3o Preto, Santos, S\u00e3o Carlos, S\u00e3o Paulo, S\u00e3o Sebasti\u00e3o",
+      "Colors": "Primary blue, secondary blue and yellow",
+      "Website": "usp.br"
+    }
+  }
+}

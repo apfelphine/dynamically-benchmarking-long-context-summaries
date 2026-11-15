@@ -1,0 +1,34 @@
+{
+  "id": 36885907,
+  "title": "Her (2013 film)",
+  "url": "https://en.wikipedia.org/wiki/Her_(2013_film)",
+  "path": "AI-Fiction\\her-2013-film",
+  "summary": {
+    "chars": 2248,
+    "tokens": 490
+  },
+  "document": {
+    "chars": 20358,
+    "tokens": 4811
+  },
+  "infobox": {
+    "title": "Her",
+    "data": {
+      "Directed by": "Spike Jonze",
+      "Written by": "Spike Jonze",
+      "Produced by": "- Megan Ellison - Spike Jonze - Vincent Landay",
+      "Starring": "- Joaquin Phoenix - Amy Adams - Rooney Mara - Olivia Wilde - Scarlett Johansson",
+      "Cinematography": "Hoyte van Hoytema",
+      "Edited by": "- Eric Zumbrunnen - Jeff Buchanan",
+      "Music by": "Arcade Fire",
+      "Production \u00b7 company": "Annapurna Pictures",
+      "Distributed by": "Warner Bros. Pictures",
+      "Release dates": "- October 12, 2013 (NYFF) - December 18, 2013 (United States)",
+      "Running time": "126 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$23 million",
+      "Box office": "$48.3 million"
+    }
+  }
+}

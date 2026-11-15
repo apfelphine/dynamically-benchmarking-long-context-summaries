@@ -1,0 +1,28 @@
+{
+  "id": 509624,
+  "title": "Gerard Salton",
+  "url": "https://en.wikipedia.org/wiki/Gerard_Salton",
+  "path": "Comp-Sci-Pioneers\\gerard-salton",
+  "summary": {
+    "chars": 479,
+    "tokens": 101
+  },
+  "document": {
+    "chars": 1932,
+    "tokens": 414
+  },
+  "infobox": {
+    "title": "Gerard Salton",
+    "data": {
+      "Born": "Gerhard Anton Sahlmann \u00b7 March 8, 1927 \u00b7 Nuremberg, Germany",
+      "Died": "August 28, 1995 (aged 68) \u00b7 Ithaca, New York, US",
+      "Education": "Brooklyn College \u00b7 Harvard University",
+      "Known for": "the father of Information Retrieval \u00b7 Gerard Salton Award",
+      "Fields": "information retrieval",
+      "Institutions": "Cornell University",
+      "Thesis": "An automatic data processing system for public utility revenue accounting (1958)",
+      "Doctoral advisor": "Howard Aiken",
+      "Doctoral students": "- Amit Singhal - Ellen Voorhees - James Allan"
+    }
+  }
+}

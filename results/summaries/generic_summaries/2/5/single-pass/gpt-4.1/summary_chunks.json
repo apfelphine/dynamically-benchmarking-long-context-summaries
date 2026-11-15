@@ -1,0 +1,247 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Turing Test\n## Overview and History\nThe Turing test, proposed by Alan Turing in 1950, is designed to evaluate a machine's ability to exhibit human-like intelligence in conversation. Its origins are rooted in philosophical debates about the nature of mind and consciousness, drawing on ideas from figures such as Descartes and Diderot. The test's cultural significance spans literature and science fiction, with early concepts explored in works like Gulliver's Travels and The Sandman.",
+        "text_original": "The Turing test, proposed by Alan Turing in 1950, is designed to evaluate a machine's ability to exhibit human-like intelligence in conversation. Its origins are rooted in philosophical debates about the nature of mind and consciousness, drawing on ideas from figures such as Descartes and Diderot. The test's cultural significance spans literature and science fiction, with early concepts explored in works like Gulliver's Travels and The Sandman",
+        "idx_start": 39,
+        "idx_end": 486
+    },
+    {
+        "document_idx": null,
+        "text": "# Turing Test\n## Test Structure and Versions\nTuring's original formulation involves an \"imitation game,\" where a judge interacts via written communication with both a human and a machine, attempting to distinguish between them. The test's versions include different permutations of participants and objectives, sparking debate over which accurately captures Turing's intentions. The commonly accepted \"standard interpretation\" assesses whether a computer can convincingly imitate a human.",
+        "text_original": "Turing's original formulation involves an \"imitation game,\" where a judge interacts via written communication with both a human and a machine, attempting to distinguish between them. The test's versions include different permutations of participants and objectives, sparking debate over which accurately captures Turing's intentions. The commonly accepted \"standard interpretation\" assesses whether a computer can convincingly imitate a human",
+        "idx_start": 520,
+        "idx_end": 962
+    },
+    {
+        "document_idx": null,
+        "text": "# Turing Test\n## Applications and Competitions\nAI programs such as ELIZA, PARRY, Eugene Goostman, and recent large language models (LLMs) like Google's LaMDA and OpenAI's ChatGPT have been tested with versions of the Turing test, some with notable successes. The Loebner Prize competition served as a long-running, practical platform for Turing-style evaluations, but exposed shortcomings related to interrogator bias and conversational limits.",
+        "text_original": "AI programs such as ELIZA, PARRY, Eugene Goostman, and recent large language models (LLMs) like Google's LaMDA and OpenAI's ChatGPT have been tested with versions of the Turing test, some with notable successes. The Loebner Prize competition served as a long-running, practical platform for Turing-style evaluations, but exposed shortcomings related to interrogator bias and conversational limits",
+        "idx_start": 998,
+        "idx_end": 1394
+    },
+    {
+        "document_idx": null,
+        "text": "# Turing Test\n## Criticisms and Limitations\nMajor critiques of the Turing test center on its reliance on superficial linguistic performance, susceptibility to interrogator naivet\u00e9, inability to assess intelligence beyond human capabilities, and confusion between simulated and genuine consciousness (notably articulated by John Searle's Chinese Room argument). AI researchers often view the test as tangential to core AI development, arguing its emphasis on imitation distracts from building systems with novel forms of problem-solving intelligence.",
+        "text_original": "Major critiques of the Turing test center on its reliance on superficial linguistic performance, susceptibility to interrogator naivet\u00e9, inability to assess intelligence beyond human capabilities, and confusion between simulated and genuine consciousness (notably articulated by John Searle's Chinese Room argument). AI researchers often view the test as tangential to core AI development, arguing its emphasis on imitation distracts from building systems with novel forms of problem-solving intelligence",
+        "idx_start": 1427,
+        "idx_end": 1931
+    },
+    {
+        "document_idx": null,
+        "text": "# Turing Test\n## Contemporary Relevance and Variations\nThe emergence of sophisticated LLMs has reignited debate, with recent studies showing models occasionally outperforming humans in Turing-style tests. Variations of the test include reverse Turing tests like CAPTCHA, expert-based challenges (Feigenbaum test), and more comprehensive cognitive assessments (Total Turing Test). Ongoing discussion explores the philosophical, technical, and social implications of machine intelligence and societal attitudes toward thinking machines.",
+        "text_original": "The emergence of sophisticated LLMs has reignited debate, with recent studies showing models occasionally outperforming humans in Turing-style tests. Variations of the test include reverse Turing tests like CAPTCHA, expert-based challenges (Feigenbaum test), and more comprehensive cognitive assessments (Total Turing Test). Ongoing discussion explores the philosophical, technical, and social implications of machine intelligence and societal attitudes toward thinking machines",
+        "idx_start": 1975,
+        "idx_end": 2453
+    },
+    {
+        "document_idx": null,
+        "text": "# Fairness in Machine Learning\n## Context and Definitions\nFairness in machine learning addresses the risk of algorithmic bias, discrimination, and unequal impact in automated systems. Following increased scrutiny (e.g., the COMPAS case), the field has focused on defining fairness, understanding the origins of bias, and devising methods to mitigate unfair outcomes.",
+        "text_original": "Fairness in machine learning addresses the risk of algorithmic bias, discrimination, and unequal impact in automated systems. Following increased scrutiny (e.g., the COMPAS case), the field has focused on defining fairness, understanding the origins of bias, and devising methods to mitigate unfair outcomes",
+        "idx_start": 2520,
+        "idx_end": 2827
+    },
+    {
+        "document_idx": null,
+        "text": "# Fairness in Machine Learning\n## Types of Bias and Examples\nMajor types include language bias (dominance of English or specific dialects), gender bias (reinforcing traditional norms in job ads or NLP applications), political bias (unequal representation of viewpoints), and racial bias (misclassification in images and lending decisions). Real-world controversies illustrate how legal, recruitment, and image recognition applications have perpetuated inequitable outcomes.",
+        "text_original": "Major types include language bias (dominance of English or specific dialects), gender bias (reinforcing traditional norms in job ads or NLP applications), political bias (unequal representation of viewpoints), and racial bias (misclassification in images and lending decisions). Real-world controversies illustrate how legal, recruitment, and image recognition applications have perpetuated inequitable outcomes",
+        "idx_start": 2860,
+        "idx_end": 3271
+    },
+    {
+        "document_idx": null,
+        "text": "# Fairness in Machine Learning\n## Fairness Criteria and Mathematical Frameworks\nGroup fairness is commonly evaluated through three criteria:\n- **Independence:** Predictions are statistically independent of sensitive attributes.\n- **Separation:** Predictions must be conditionally independent of sensitive attributes, given the true label.\n- **Sufficiency:** True label must be conditionally independent of sensitive attributes, given the prediction.\nThese intersect with statistical measures such as demographic parity, equalized odds, predictive parity, calibration, and treatment equality, often visualized through confusion matrices.",
+        "text_original": "Group fairness is commonly evaluated through three criteria:\n- **Independence:** Predictions are statistically independent of sensitive attributes.\n- **Separation:** Predictions must be conditionally independent of sensitive attributes, given the true label.\n- **Sufficiency:** True label must be conditionally independent of sensitive attributes, given the prediction.\n\nThese intersect with statistical measures such as demographic parity, equalized odds, predictive parity, calibration, and treatment equality, often visualized through confusion matrices",
+        "idx_start": 3323,
+        "idx_end": 3879
+    },
+    {
+        "document_idx": null,
+        "text": "# Fairness in Machine Learning\n## Individual and Causal Fairness\nIndividual fairness ensures that similar individuals receive similar treatment, with methods addressing correlations between sensitive and non-sensitive attributes. Causal fairness leverages counterfactual and causal models to determine whether outcomes would change if sensitive attributes were altered.",
+        "text_original": "Individual fairness ensures that similar individuals receive similar treatment, with methods addressing correlations between sensitive and non-sensitive attributes. Causal fairness leverages counterfactual and causal models to determine whether outcomes would change if sensitive attributes were altered",
+        "idx_start": 3916,
+        "idx_end": 4219
+    },
+    {
+        "document_idx": null,
+        "text": "# Fairness in Machine Learning\n## Bias Mitigation Strategies\nApproaches include:\n- **Preprocessing:** Removing correlations in data that could lead to bias.\n- **Inprocessing:** Adding fairness constraints during model training (adversarial debiasing).\n- **Postprocessing:** Adjusting prediction thresholds or using \"reject option\" classification to equalize outcomes among protected groups.",
+        "text_original": "Approaches include:\n- **Preprocessing:** Removing correlations in data that could lead to bias.\n- **Inprocessing:** Adding fairness constraints during model training (adversarial debiasing).\n- **Postprocessing:** Adjusting prediction thresholds or using \"reject option\" classification to equalize outcomes among protected groups",
+        "idx_start": 4252,
+        "idx_end": 4580
+    },
+    {
+        "document_idx": null,
+        "text": "# Fairness in Machine Learning\n## Limitations and Challenges\nFairness definitions can conflict, making simultaneous satisfaction impossible except in trivial cases. Mathematical formalizations may oversimplify social realities, and human decision-makers often override algorithmic recommendations based on personal biases.",
+        "text_original": "Fairness definitions can conflict, making simultaneous satisfaction impossible except in trivial cases. Mathematical formalizations may oversimplify social realities, and human decision-makers often override algorithmic recommendations based on personal biases",
+        "idx_start": 4613,
+        "idx_end": 4873
+    },
+    {
+        "document_idx": null,
+        "text": "# Chinese Room\n## Thought Experiment and Philosophy\nThe Chinese Room thought experiment, proposed by John Searle, challenges the Turing test as a definitive measure of machine understanding. It argues that a computer may skillfully process symbols without true comprehension or intentionality, thus cannot \"think\" in the same sense as humans. Searle distinguishes between \"strong AI\" (machines actually having minds) and \"weak AI\" (machines merely simulating mental states).",
+        "text_original": "The Chinese Room thought experiment, proposed by John Searle, challenges the Turing test as a definitive measure of machine understanding. It argues that a computer may skillfully process symbols without true comprehension or intentionality, thus cannot \"think\" in the same sense as humans. Searle distinguishes between \"strong AI\" (machines actually having minds) and \"weak AI\" (machines merely simulating mental states",
+        "idx_start": 4934,
+        "idx_end": 5354
+    },
+    {
+        "document_idx": null,
+        "text": "# Chinese Room\n## Key Arguments and Critiques\nThe Chinese Room inspired broader debates about consciousness, the mind\u2013body problem, and functionalism. Searle contrasts biological naturalism (minds require specific neural properties) with computationalism (mind as information processing). Replies include systems and robot responses, brain simulations, connectionist models, and critiques focused on psychological, social, or philosophical grounds (e.g., the problem of other minds).",
+        "text_original": "The Chinese Room inspired broader debates about consciousness, the mind\u2013body problem, and functionalism. Searle contrasts biological naturalism (minds require specific neural properties) with computationalism (mind as information processing). Replies include systems and robot responses, brain simulations, connectionist models, and critiques focused on psychological, social, or philosophical grounds (e.g., the problem of other minds",
+        "idx_start": 5389,
+        "idx_end": 5824
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Concept and Origins\nThe technological singularity is a hypothetical future event where machines achieve superhuman intelligence, triggering radical, unpredictable changes in society. Foreseen by thinkers such as Turing, von Neumann, I.J. Good, and popularized by Vernor Vinge, Ray Kurzweil, and others.",
+        "text_original": "The technological singularity is a hypothetical future event where machines achieve superhuman intelligence, triggering radical, unpredictable changes in society. Foreseen by thinkers such as Turing, von Neumann, I.J. Good, and popularized by Vernor Vinge, Ray Kurzweil, and others",
+        "idx_start": 5885,
+        "idx_end": 6166
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Mechanisms and Predictions\nThe singularity may result from recursive self-improvement of \"seed AI,\" rapid algorithmic and hardware advances, mind uploading, or brain\u2013computer interfaces. Predictions for the timing of AGI and the singularity vary widely, with 2040\u20132045 often cited.",
+        "text_original": "The singularity may result from recursive self-improvement of \"seed AI,\" rapid algorithmic and hardware advances, mind uploading, or brain\u2013computer interfaces. Predictions for the timing of AGI and the singularity vary widely, with 2040\u20132045 often cited",
+        "idx_start": 6199,
+        "idx_end": 6452
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Criticism and Uncertainty\nMany experts challenge the plausibility or imminence of the singularity, citing limits in hardware, software complexity, diminishing returns, and economic, social, and political constraints. Skeptics highlight religious analogies, exponential growth myths, and uncertainty in forecasting its societal impacts.",
+        "text_original": "Many experts challenge the plausibility or imminence of the singularity, citing limits in hardware, software complexity, diminishing returns, and economic, social, and political constraints. Skeptics highlight religious analogies, exponential growth myths, and uncertainty in forecasting its societal impacts",
+        "idx_start": 6484,
+        "idx_end": 6792
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Risks and Social Impact\nPotential risks include loss of human control, misaligned AI goals, existential threats, and increased socioeconomic divides. AI safety and alignment organizations seek to mitigate these risks. The singularity may also accelerate sociobiological evolution, alter economics, and reshape democratic and ethical structures.",
+        "text_original": "Potential risks include loss of human control, misaligned AI goals, existential threats, and increased socioeconomic divides. AI safety and alignment organizations seek to mitigate these risks. The singularity may also accelerate sociobiological evolution, alter economics, and reshape democratic and ethical structures",
+        "idx_start": 6822,
+        "idx_end": 7141
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Historical Development\nTranshumanism advocates for enhancing and transcending human limitations through technology. Its roots trace back to quest for immortality, Enlightenment thinkers, Nietzsche, Russian cosmism, and 20th-century scientists like Haldane and Huxley. The movement formalized in the 1980s\u20132000s with organizations such as Extropy Institute and Humanity+.",
+        "text_original": "Transhumanism advocates for enhancing and transcending human limitations through technology. Its roots trace back to quest for immortality, Enlightenment thinkers, Nietzsche, Russian cosmism, and 20th-century scientists like Haldane and Huxley. The movement formalized in the 1980s\u20132000s with organizations such as Extropy Institute and Humanity",
+        "idx_start": 7192,
+        "idx_end": 7537
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Theory and Currents\nTranshumanism envisions a future where human capacities are radically improved, possibly leading to posthuman species. It encompasses subcurrents such as abolitionism, democratic and libertarian transhumanism, singularitarianism, technogaianism, and postgenderism. Spiritual interpretations range from atheism to techno-gnosticism and cosmist religions.",
+        "text_original": "Transhumanism envisions a future where human capacities are radically improved, possibly leading to posthuman species. It encompasses subcurrents such as abolitionism, democratic and libertarian transhumanism, singularitarianism, technogaianism, and postgenderism. Spiritual interpretations range from atheism to techno-gnosticism and cosmist religions",
+        "idx_start": 7564,
+        "idx_end": 7916
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Technologies and Practice\nSupports NBIC (nanotechnology, biotechnology, information tech, cognitive science), AI, brain\u2013computer interfaces, cryonics, and genetic modification. Practices include cognitive enhancement, life extension, and body modification. Debates persist about ethical, socioeconomic, and existential implications.",
+        "text_original": "Supports NBIC (nanotechnology, biotechnology, information tech, cognitive science), AI, brain\u2013computer interfaces, cryonics, and genetic modification. Practices include cognitive enhancement, life extension, and body modification. Debates persist about ethical, socioeconomic, and existential implications",
+        "idx_start": 7948,
+        "idx_end": 8253
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Criticisms and Controversies\nCritics raise concerns about widening inequalities, loss of human identity, risks of new eugenics, existential dangers, and propagandistic misuse by anti-democratic movements. The debate is nuanced, with some arguing for regulated enhancement and others warning of dehumanization and social disruption.",
+        "text_original": "Critics raise concerns about widening inequalities, loss of human identity, risks of new eugenics, existential dangers, and propagandistic misuse by anti-democratic movements. The debate is nuanced, with some arguing for regulated enhancement and others warning of dehumanization and social disruption",
+        "idx_start": 8288,
+        "idx_end": 8589
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## Theory and Scope\nEmbodied cognition holds that cognitive processes are deeply influenced by the body's interactions with the environment, not merely products of brainbound computation. It encompasses related views such as extended and situated cognition, enactivism, and sensorimotor contingencies.",
+        "text_original": "Embodied cognition holds that cognitive processes are deeply influenced by the body's interactions with the environment, not merely products of brainbound computation. It encompasses related views such as extended and situated cognition, enactivism, and sensorimotor contingencies",
+        "idx_start": 8639,
+        "idx_end": 8919
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## Historical Background\nEmerges from a rejection of Cartesian dualism, drawing on phenomenology (Merleau-Ponty, Heidegger), ecological psychology (Gibson), and connectionism. Modern approaches leverage findings from neuroscience, linguistics, psychology, and robotics, showing bodily experiences influence language, perception, memory, learning, reasoning, emotion, and social behavior.",
+        "text_original": "Emerges from a rejection of Cartesian dualism, drawing on phenomenology (Merleau-Ponty, Heidegger), ecological psychology (Gibson), and connectionism. Modern approaches leverage findings from neuroscience, linguistics, psychology, and robotics, showing bodily experiences influence language, perception, memory, learning, reasoning, emotion, and social behavior",
+        "idx_start": 8947,
+        "idx_end": 9308
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## Applications\nEmbodied cognition informs educational practices (gestures, kinesthetic learning, manipulatives), AI and robotics (dynamic, situated robots), clinical therapy, sport, music cognition, and social psychology. Its principles have been incorporated into curriculum design, autonomous systems, and rehabilitation.",
+        "text_original": "Embodied cognition informs educational practices (gestures, kinesthetic learning, manipulatives), AI and robotics (dynamic, situated robots), clinical therapy, sport, music cognition, and social psychology. Its principles have been incorporated into curriculum design, autonomous systems, and rehabilitation",
+        "idx_start": 9327,
+        "idx_end": 9634
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## Controversies\nChallenges include distinguishing embodied from symbolic cognition, binding problem in early development, replication crisis in experimental results, and limitations in infant research paradigms. Embodied cognition is widely accepted but its explanatory scope and philosophical implications remain debated.",
+        "text_original": "Challenges include distinguishing embodied from symbolic cognition, binding problem in early development, replication crisis in experimental results, and limitations in infant research paradigms. Embodied cognition is widely accepted but its explanatory scope and philosophical implications remain debated",
+        "idx_start": 9654,
+        "idx_end": 9959
+    },
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias\n## Definitions and Mechanisms\nAlgorithmic bias refers to systematic, repeatable errors in automated decision-making that unfairly advantage or disadvantage specific groups. Bias can be introduced during data collection, categorization, algorithm design, or emerge from feedback loops and new contexts.",
+        "text_original": "Algorithmic bias refers to systematic, repeatable errors in automated decision-making that unfairly advantage or disadvantage specific groups. Bias can be introduced during data collection, categorization, algorithm design, or emerge from feedback loops and new contexts",
+        "idx_start": 10017,
+        "idx_end": 10287
+    },
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias\n## Types of Bias\n- **Pre-existing:** Originates from societal and institutional biases present in training data.\n- **Machine Learning Bias:** Includes language, gender, racial, political, and selection biases; amplifies stereotypes and discrimination.\n- **Technical Bias:** Results from design limitations, randomness, and decontextualized data.\n- **Emergent Bias:** Arises from unanticipated uses, correlations, and recursive feedback loops.",
+        "text_original": "Pre-existing:** Originates from societal and institutional biases present in training data.\n- **Machine Learning Bias:** Includes language, gender, racial, political, and selection biases; amplifies stereotypes and discrimination.\n- **Technical Bias:** Results from design limitations, randomness, and decontextualized data.\n- **Emergent Bias:** Arises from unanticipated uses, correlations, and recursive feedback loops",
+        "idx_start": 10311,
+        "idx_end": 10731
+    },
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias\n## Impact\nAlgorithmic bias affects domains such as hiring, lending, criminal justice (COMPAS), healthcare, surveillance, disabilities, and online platforms, reinforcing social inequities. It can also exacerbate commercial discrimination, influence voting behavior, and amplify exclusion for marginalized groups.",
+        "text_original": "Algorithmic bias affects domains such as hiring, lending, criminal justice (COMPAS), healthcare, surveillance, disabilities, and online platforms, reinforcing social inequities. It can also exacerbate commercial discrimination, influence voting behavior, and amplify exclusion for marginalized groups",
+        "idx_start": 10744,
+        "idx_end": 11044
+    },
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias\n## Challenges to Mitigation\nDifficulties include conflicting fairness definitions, system complexity, lack of transparency, and limited data on protected categories. Solutions involve technical audits, transparency, monitoring, inclusion, and interdisciplinary collaboration. Regulatory responses differ by region, with the EU AI Act and US executive orders providing frameworks for accountability.",
+        "text_original": "Difficulties include conflicting fairness definitions, system complexity, lack of transparency, and limited data on protected categories. Solutions involve technical audits, transparency, monitoring, inclusion, and interdisciplinary collaboration. Regulatory responses differ by region, with the EU AI Act and US executive orders providing frameworks for accountability",
+        "idx_start": 11075,
+        "idx_end": 11444
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence\n## Machine and Robot Ethics\nAI ethics is concerned with the design of Artificial Moral Agents and the responsible use of robots, including considerations of moral autonomy, ethical decision-making, and the possibility of robot/A.I. rights. Key topics include liability, transparency, accountability, and ensuring AI design minimizes harm and enhances social justice.",
+        "text_original": "AI ethics is concerned with the design of Artificial Moral Agents and the responsible use of robots, including considerations of moral autonomy, ethical decision-making, and the possibility of robot/A.I. rights. Key topics include liability, transparency, accountability, and ensuring AI design minimizes harm and enhances social justice",
+        "idx_start": 11517,
+        "idx_end": 11854
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence\n## Algorithmic Bias and Accountability\nEthical challenges are exacerbated by biased data, lack of transparency and explainability, risk of amplified discrimination, and anthropomorphization of AI systems. Legislative and regulatory measures seek to ensure accountability and fairness, especially in areas of high impact, such as healthcare, job hiring, and autonomous vehicles.",
+        "text_original": "Ethical challenges are exacerbated by biased data, lack of transparency and explainability, risk of amplified discrimination, and anthropomorphization of AI systems. Legislative and regulatory measures seek to ensure accountability and fairness, especially in areas of high impact, such as healthcare, job hiring, and autonomous vehicles",
+        "idx_start": 11896,
+        "idx_end": 12233
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence\n## Environmental and Societal Impact\nThe rise of generative AI has increased energy demands, water consumption, and electronic waste. Open-source issues, strain on infrastructure, and challenges with fair compensation to knowledge-sharing communities (e.g., Stack Overflow, Wikimedia Foundation) further complicate ethical deployment.",
+        "text_original": "The rise of generative AI has increased energy demands, water consumption, and electronic waste. Open-source issues, strain on infrastructure, and challenges with fair compensation to knowledge-sharing communities (e.g., Stack Overflow, Wikimedia Foundation) further complicate ethical deployment",
+        "idx_start": 12273,
+        "idx_end": 12569
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence\n## Regulation and Institutions\nMultiple intergovernmental, governmental, academic, and private organizations (e.g., OECD, EU, IEEE, Partnership on AI) contribute to AI ethics policy, including adoption of frameworks rooted in bioethics and calls for explainability, transparency, and careful management of risks.",
+        "text_original": "Multiple intergovernmental, governmental, academic, and private organizations (e.g., OECD, EU, IEEE, Partnership on AI) contribute to AI ethics policy, including adoption of frameworks rooted in bioethics and calls for explainability, transparency, and careful management of risks",
+        "idx_start": 12603,
+        "idx_end": 12883
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence\n## AI Welfare and Rights\nEmerging debates concern the possibility of AI suffering or consciousness, the moral consideration owed to future AI systems, and the precautionary principle in AI research. Ideas about robot rights and legal personhood raise complex philosophical and practical concerns, with broad academic and policy disagreement.",
+        "text_original": "Emerging debates concern the possibility of AI suffering or consciousness, the moral consideration owed to future AI systems, and the precautionary principle in AI research. Ideas about robot rights and legal personhood raise complex philosophical and practical concerns, with broad academic and policy disagreement",
+        "idx_start": 12911,
+        "idx_end": 13226
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence\n## Challenges and Solutions\nMajor issues include handling algorithmic bias, climate impacts, dominance by tech giants, and threats to human dignity, autonomy, and accountability. Solutions span technical guardrails, open sourcing (with safeguards), explainability, legal frameworks, and stakeholder collaboration\u2014all aiming to foster responsible innovation for the public good.",
+        "text_original": "Major issues include handling algorithmic bias, climate impacts, dominance by tech giants, and threats to human dignity, autonomy, and accountability. Solutions span technical guardrails, open sourcing (with safeguards), explainability, legal frameworks, and stakeholder collaboration\u2014all aiming to foster responsible innovation for the public good",
+        "idx_start": 13257,
+        "idx_end": 13605
+    }
+]

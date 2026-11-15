@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\nBorn in Clermont-Ferrand, Pascal showed early mathematical talent, rediscovering Euclid\u2019s geometric propositions at age 12. He developed the *Pascaline* , a mechanical calculator, and made foundational contributions to probability theory through correspondence with Fermat, leading to the *Pascal's Wager* and the *Pascal's Theorem* on conics. He also contributed to fluid mechanics, including the *Pascal's barrel experiment* and *Pascal's law* , and explored the nature of vacuum. A religious convert in 1654, he wrote the *Pens\u00e9es* , a major work in theology. He also pioneered public transportation with the *carrosses \u00e0 cinq sols* .",
+        "text_original": "Born in Clermont-Ferrand, Pascal showed early mathematical talent, rediscovering Euclid\u2019s geometric propositions at age 12. He developed the *Pascaline*, a mechanical calculator, and made foundational contributions to probability theory through correspondence with Fermat, leading to the *Pascal's Wager* and the *Pascal's Theorem* on conics. He also contributed to fluid mechanics, including the *Pascal's barrel experiment* and *Pascal's law*, and explored the nature of vacuum. A religious convert in 1654, he wrote the *Pens\u00e9es*, a major work in theology. He also pioneered public transportation with the *carrosses \u00e0 cinq sols",
+        "idx_start": 20,
+        "idx_end": 651
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\nA computer scientist and software activist, Stallman was instrumental in founding the *GNU Project* and the *Free Software Foundation* . He developed the *GNU Compiler Collection (GCC)* and *GNU Emacs* , promoting the philosophy of free software and *copyleft* . He advocated against proprietary software, fought for open-source principles, and promoted the use of *free software* over *closed-source* . He was a vocal critic of software patents and DRM, and his activism influenced the open-source movement. He also contributed to the development of the *GNU/Linux* operating system.",
+        "text_original": "A computer scientist and software activist, Stallman was instrumental in founding the *GNU Project* and the *Free Software Foundation*. He developed the *GNU Compiler Collection (GCC)* and *GNU Emacs*, promoting the philosophy of free software and *copyleft*. He advocated against proprietary software, fought for open-source principles, and promoted the use of *free software* over *closed-source*. He was a vocal critic of software patents and DRM, and his activism influenced the open-source movement. He also contributed to the development of the *GNU/Linux* operating system",
+        "idx_start": 678,
+        "idx_end": 1257
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\nA pioneering actress and inventor, Lamarr gained fame for her role in *Ecstasy* and her later work in film. During WWII, she co-invented *frequency-hopping spread spectrum* technology with composer George Antheil, a foundational concept in wireless communication. She later became a key figure in the *invention of modern wireless security* . Her legacy includes the *Hedy Lamarr Award* , the *Hedy-Lamarr-Weg* in Vienna, and recognition in the *National Inventors Hall of Fame* . Her work in technology has had lasting influence on modern communication systems.",
+        "text_original": "A pioneering actress and inventor, Lamarr gained fame for her role in *Ecstasy* and her later work in film. During WWII, she co-invented *frequency-hopping spread spectrum* technology with composer George Antheil, a foundational concept in wireless communication. She later became a key figure in the *invention of modern wireless security*. Her legacy includes the *Hedy Lamarr Award*, the *Hedy-Lamarr-Weg* in Vienna, and recognition in the *National Inventors Hall of Fame*. Her work in technology has had lasting influence on modern communication systems",
+        "idx_start": 1278,
+        "idx_end": 1836
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\nA mathematician and philosopher, Whitehead made significant contributions to mathematics, including *Principia Mathematica* with Bertrand Russell, and developed a comprehensive philosophical system known as *process philosophy* . He emphasized the dynamic, interrelated nature of reality, where events are primary and all things are in constant change. His work on education promoted experiential learning, and he advocated for a *transdisciplinary, values-based approach* to education. His ideas have influenced theology, ecology, and science, particularly through *process theology* and the concept of *interconnectedness* .",
+        "text_original": "A mathematician and philosopher, Whitehead made significant contributions to mathematics, including *Principia Mathematica* with Bertrand Russell, and developed a comprehensive philosophical system known as *process philosophy*. He emphasized the dynamic, interrelated nature of reality, where events are primary and all things are in constant change. His work on education promoted experiential learning, and he advocated for a *transdisciplinary, values-based approach* to education. His ideas have influenced theology, ecology, and science, particularly through *process theology* and the concept of *interconnectedness",
+        "idx_start": 1868,
+        "idx_end": 2490
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\nA mathematician and writer, Lovelace is recognized as the world\u2019s first computer programmer for her notes on Charles Babbage\u2019s *Analytical Engine* , which included an algorithm for computing Bernoulli numbers. She foresaw the potential of computers to go beyond numerical calculation, envisioning their use in music and other symbolic operations. Her work laid the foundation for modern computing. She is celebrated through the *Ada programming language* , the *Ada Lovelace Day* , and numerous awards and honors, including the *Ada Lovelace Medal* and the *Ada Lovelace Building* at the University of Bristol.",
+        "text_original": "A mathematician and writer, Lovelace is recognized as the world\u2019s first computer programmer for her notes on Charles Babbage\u2019s *Analytical Engine*, which included an algorithm for computing Bernoulli numbers. She foresaw the potential of computers to go beyond numerical calculation, envisioning their use in music and other symbolic operations. Her work laid the foundation for modern computing. She is celebrated through the *Ada programming language*, the *Ada Lovelace Day*, and numerous awards and honors, including the *Ada Lovelace Medal* and the *Ada Lovelace Building* at the University of Bristol",
+        "idx_start": 2513,
+        "idx_end": 3119
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\nA Spanish engineer and inventor, Torres Quevedo made pioneering contributions to cableways, mechanical computing, and remote control. He developed the *Niagara Spanish Aerocar* , a cableway over Niagara Falls, and created early analog computing machines, including the *differential analyzer* and *sinewave synthesizer* . He also invented the *Telekino* , one of the first remote-controlled devices, and proposed a formal language for mechanical drawings. His work in *automated systems* , *aerostatics* , and *robotics* laid the groundwork for modern automation and robotics.",
+        "text_original": "A Spanish engineer and inventor, Torres Quevedo made pioneering contributions to cableways, mechanical computing, and remote control. He developed the *Niagara Spanish Aerocar*, a cableway over Niagara Falls, and created early analog computing machines, including the *differential analyzer* and *sinewave synthesizer*. He also invented the *Telekino*, one of the first remote-controlled devices, and proposed a formal language for mechanical drawings. His work in *automated systems*, *aerostatics*, and *robotics* laid the groundwork for modern automation and robotics",
+        "idx_start": 3152,
+        "idx_end": 3722
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\nA cognitive scientist and computational psychologist, Rubin advanced research in *speech synthesis* , *perceptual organization* , and *embodied cognition* . He developed key software systems like *ASY* and *SWS* for articulatory synthesis and contributed to the development of the *TADA* system for speech production. He served in key leadership roles in science policy, including at the *National Science Foundation* and the *White House Office of Science and Technology Policy* , and was a strong advocate for ethical issues in science and technology. He also contributed to the field of *artificial intelligence* and *human-computer interaction* .",
+        "text_original": "A cognitive scientist and computational psychologist, Rubin advanced research in *speech synthesis*, *perceptual organization*, and *embodied cognition*. He developed key software systems like *ASY* and *SWS* for articulatory synthesis and contributed to the development of the *TADA* system for speech production. He served in key leadership roles in science policy, including at the *National Science Foundation* and the *White House Office of Science and Technology Policy*, and was a strong advocate for ethical issues in science and technology. He also contributed to the field of *artificial intelligence* and *human-computer interaction",
+        "idx_start": 3744,
+        "idx_end": 4387
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\nA mathematician and computer scientist, Turing is best known for his work on the *Turing machine* and the *Turing test* , foundational concepts in computer science and artificial intelligence. During WWII, he led the British effort to break German ciphers at Bletchley Park, developing the *bombe* and *Banburismus* techniques. He also contributed to the *proximity fuze* and the *Manhattan Project* . In 1952, he was convicted of homosexuality and subjected to chemical castration, which led to his early death in 1954. His legacy includes the *Alan Turing Law* , which granted pardons to men convicted under historical anti-homosexuality laws, and widespread recognition as a pioneer in computing and AI.",
+        "text_original": "A mathematician and computer scientist, Turing is best known for his work on the *Turing machine* and the *Turing test*, foundational concepts in computer science and artificial intelligence. During WWII, he led the British effort to break German ciphers at Bletchley Park, developing the *bombe* and *Banburismus* techniques. He also contributed to the *proximity fuze* and the *Manhattan Project*. In 1952, he was convicted of homosexuality and subjected to chemical castration, which led to his early death in 1954. His legacy includes the *Alan Turing Law*, which granted pardons to men convicted under historical anti-homosexuality laws, and widespread recognition as a pioneer in computing and AI",
+        "idx_start": 4409,
+        "idx_end": 5111
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\nAn engineer and science administrator, Bush played a key role in organizing U.S. scientific research during WWII through the *National Defense Research Committee* and the *Office of Scientific Research and Development* . He championed the *Manhattan Project* and promoted the development of the *proximity fuze* . He is best known for introducing the *memex* concept, a precursor to the *World Wide Web* , and for advocating government support of basic scientific research. His vision of a *science-based society* led to the creation of the *National Science Foundation* and shaped U.S. science policy for decades.",
+        "text_original": "An engineer and science administrator, Bush played a key role in organizing U.S. scientific research during WWII through the *National Defense Research Committee* and the *Office of Scientific Research and Development*. He championed the *Manhattan Project* and promoted the development of the *proximity fuze*. He is best known for introducing the *memex* concept, a precursor to the *World Wide Web*, and for advocating government support of basic scientific research. His vision of a *science-based society* led to the creation of the *National Science Foundation* and shaped U.S. science policy for decades",
+        "idx_start": 5134,
+        "idx_end": 5744
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\nA mechanical engineer and pioneer of computing, Babbage designed the *difference engine* and the *analytical engine* , the first mechanical computers. Though never fully built during his lifetime, his designs laid the foundation for modern computing. He also contributed to *cryptography* , *economics* , and *natural theology* . His work on *mechanical computation* and *division of labour* influenced industrial organization and economic theory. Babbage is celebrated as a foundational figure in computer science, with his legacy preserved in institutions, memorials, and modern computing concepts.",
+        "text_original": "A mechanical engineer and pioneer of computing, Babbage designed the *difference engine* and the *analytical engine*, the first mechanical computers. Though never fully built during his lifetime, his designs laid the foundation for modern computing. He also contributed to *cryptography*, *economics*, and *natural theology*. His work on *mechanical computation* and *division of labour* influenced industrial organization and economic theory. Babbage is celebrated as a foundational figure in computer science, with his legacy preserved in institutions, memorials, and modern computing concepts",
+        "idx_start": 5769,
+        "idx_end": 6364
+    }
+]

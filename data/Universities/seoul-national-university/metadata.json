@@ -1,0 +1,35 @@
+{
+  "id": 196029,
+  "title": "Seoul National University",
+  "url": "https://en.wikipedia.org/wiki/Seoul_National_University",
+  "path": "Universities\\seoul-national-university",
+  "summary": {
+    "chars": 519,
+    "tokens": 120
+  },
+  "document": {
+    "chars": 19052,
+    "tokens": 4502
+  },
+  "infobox": {
+    "title": "Seoul National University",
+    "data": {
+      "Motto": "Veritas Lux Mea (Latin)",
+      "Motto in English": "The Truth is My Light",
+      "Type": "National",
+      "Established": "August 22, 1946",
+      "President": "Ryu Hong-lim (\uc720\ud64d\ub9bc)",
+      "Academic staff": "2,278 (2022)",
+      "Students": "28,264 (2022)",
+      "Undergraduates": "15,870",
+      "Postgraduates": "12,394",
+      "Doctoral students": "4,019",
+      "Location": "Gwanak-gu, Seoul (Gwanak Campus), Jongno-gu, Seoul (Yeongeon Campus), Pyeongchang-gun, Gangwon-do (Pyeongchang Campus), Siheung-si, Gyeonggi-do (Siheung Campus), \u00b7 South Korea \u00b7 37\u00b027\u203236\u2033N 126\u00b057\u203209\u2033E\ufeff / \ufeff37.46000\u00b0N 126.95250\u00b0E",
+      "Campus": "Urban, 4.2 km2 (1037 acres) \u00b7 7.0 km2 (1,729 acres), including the arboreta and other campuses.",
+      "Colors": "SNU Blue",
+      "Affiliations": "AALAU, AEARU, APRU, AUA",
+      "Mascot": "Crane, Zelkova Tree",
+      "Website": "snu.ac.kr \u00b7 en.snu.ac.kr"
+    }
+  }
+}

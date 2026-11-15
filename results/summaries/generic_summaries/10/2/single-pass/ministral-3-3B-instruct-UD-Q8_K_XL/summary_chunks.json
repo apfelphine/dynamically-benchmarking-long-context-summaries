@@ -1,0 +1,338 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## History\nGhana\u2019s education system traces back to pre-colonial times, where informal education was common, with knowledge transmitted orally and through apprenticeships. European settlers introduced formal schools, initially catering to local elites. Notable early institutions include the **University of Moliyili** (1700s) and **Castle Schools** established by Portuguese, Danish, Dutch, and British colonial powers. The **Philip Quaque Boys School** (1765) became the first formal elementary school, producing notable graduates like former Speaker of Parliament, Ebenezer Begyina Sekyi Hughes.\nIn the 19th century, missionary schools proliferated, particularly in southern Ghana, while the Ashanti Empire established Islamic schools. The **Gold Coast Colony** (1874) under British rule expanded mission schools and merchant companies, though formal education remained the privilege of the few. Post-independence, Ghana\u2019s government prioritized education, introducing **free universal basic education** and the **Kwame Nkrumah University of Science and Technology** (1961). Reforms in the 1970s and 1980s aimed to reduce teacher shortages and improve curriculum quality, though challenges persisted.",
+        "text_original": "Ghana\u2019s education system traces back to pre-colonial times, where informal education was common, with knowledge transmitted orally and through apprenticeships. European settlers introduced formal schools, initially catering to local elites. Notable early institutions include the **University of Moliyili** (1700s) and **Castle Schools** established by Portuguese, Danish, Dutch, and British colonial powers. The **Philip Quaque Boys School** (1765) became the first formal elementary school, producing notable graduates like former Speaker of Parliament, Ebenezer Begyina Sekyi Hughes.\n\nIn the 19th century, missionary schools proliferated, particularly in southern Ghana, while the Ashanti Empire established Islamic schools. The **Gold Coast Colony** (1874) under British rule expanded mission schools and merchant companies, though formal education remained the privilege of the few. Post-independence, Ghana\u2019s government prioritized education, introducing **free universal basic education** and the **Kwame Nkrumah University of Science and Technology** (1961). Reforms in the 1970s and 1980s aimed to reduce teacher shortages and improve curriculum quality, though challenges persisted",
+        "idx_start": 45,
+        "idx_end": 1236
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## Structure of Formal Education\nGhana\u2019s education system is divided into three tiers: **basic education (ages 4\u201315)** , **secondary education (ages 15\u201318)** , and **tertiary education** . Basic education lasts 12 years, beginning with **kindergarten (ages 4\u20136)** , followed by **primary school (ages 6\u201311)** and **junior high school (JHS, ages 12\u201315)** , culminating in the **Basic Education Certificate Examination (BECE)** . Secondary education includes **senior high school (SHS, ages 15\u201318)** , with students choosing between academic or vocational tracks. The SHS curriculum is assessed by the **West African Senior School Certificate Examination (WASSCE)** . Tertiary education includes universities (public and private), polytechnics, and teacher training colleges, with admission based on WASSCE results.",
+        "text_original": "Ghana\u2019s education system is divided into three tiers: **basic education (ages 4\u201315)**, **secondary education (ages 15\u201318)**, and **tertiary education**. Basic education lasts 12 years, beginning with **kindergarten (ages 4\u20136)**, followed by **primary school (ages 6\u201311)** and **junior high school (JHS, ages 12\u201315)**, culminating in the **Basic Education Certificate Examination (BECE)**. Secondary education includes **senior high school (SHS, ages 15\u201318)**, with students choosing between academic or vocational tracks. The SHS curriculum is assessed by the **West African Senior School Certificate Examination (WASSCE)**. Tertiary education includes universities (public and private), polytechnics, and teacher training colleges, with admission based on WASSCE results",
+        "idx_start": 1278,
+        "idx_end": 2049
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## Key Features\n- **Governance** : Education is overseen by the **Ministry of Education** , with the **Ghana Education Service (GES)** coordinating national education policy. The **West African Examination Council (WAEC)** administers terminal exams.\n- **Financing** : Education accounts for **25% of Ghana\u2019s annual budget** , with public and private sectors sharing responsibilities. The **Free, Compulsory and Universal Basic Education (FCUBE)** initiative aims to improve access and quality.\n- **Statistics** : Enrollment rates have improved, with **84% of primary school students enrolled** (2011), though challenges remain in teacher training and vocational education.\n- **Private Education** : Private schools are common, particularly in urban areas, offering alternatives to public schools. The **International Baccalaureate (IB)** and other international curricula are available in select institutions.",
+        "text_original": "Governance**: Education is overseen by the **Ministry of Education**, with the **Ghana Education Service (GES)** coordinating national education policy. The **West African Examination Council (WAEC)** administers terminal exams.\n- **Financing**: Education accounts for **25% of Ghana\u2019s annual budget**, with public and private sectors sharing responsibilities. The **Free, Compulsory and Universal Basic Education (FCUBE)** initiative aims to improve access and quality.\n- **Statistics**: Enrollment rates have improved, with **84% of primary school students enrolled** (2011), though challenges remain in teacher training and vocational education.\n- **Private Education**: Private schools are common, particularly in urban areas, offering alternatives to public schools. The **International Baccalaureate (IB)** and other international curricula are available in select institutions",
+        "idx_start": 2078,
+        "idx_end": 2961
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## Challenges\n- **Teacher Shortages** : Despite efforts, teacher shortages persist, especially in rural areas.\n- **Vocational Education** : Limited formal vocational training programs, with many students relying on informal apprenticeships.\n- **Quality and Equity** : Disparities in educational quality between public and private schools, and between urban and rural areas.\n- **Curriculum Reform** : Ongoing efforts to modernize the curriculum and improve teacher training.",
+        "text_original": "Teacher Shortages**: Despite efforts, teacher shortages persist, especially in rural areas.\n- **Vocational Education**: Limited formal vocational training programs, with many students relying on informal apprenticeships.\n- **Quality and Equity**: Disparities in educational quality between public and private schools, and between urban and rural areas.\n- **Curriculum Reform**: Ongoing efforts to modernize the curriculum and improve teacher training",
+        "idx_start": 2988,
+        "idx_end": 3438
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## History\nEducation in England has evolved significantly from medieval times to modern systems. During the Middle Ages, schools focused on Latin for the aristocracy, with universities like **Oxford** and **Cambridge** emerging. The **Elementary Education Act (1870)** and **Education Act (1902)** expanded state-funded schooling, while **Women\u2019s colleges** (e.g., Bedford College, Girton College) opened in the 19th century to provide higher education for women. The **Education Act (1918)** abolished fees for elementary schools, and the **1944 Education Act** established the **National Curriculum** , integrating primary and secondary education.",
+        "text_original": "Education in England has evolved significantly from medieval times to modern systems. During the Middle Ages, schools focused on Latin for the aristocracy, with universities like **Oxford** and **Cambridge** emerging. The **Elementary Education Act (1870)** and **Education Act (1902)** expanded state-funded schooling, while **Women\u2019s colleges** (e.g., Bedford College, Girton College) opened in the 19th century to provide higher education for women. The **Education Act (1918)** abolished fees for elementary schools, and the **1944 Education Act** established the **National Curriculum**, integrating primary and secondary education",
+        "idx_start": 3493,
+        "idx_end": 4129
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Structure of Education\nEngland\u2019s education system is divided into **primary (ages 5\u201311)** , **secondary (ages 11\u201318)** , and **tertiary (ages 18+)** education. Primary education includes **Foundation Stage (ages 3\u20135)** and **Key Stages 1\u20132 (ages 5\u201311)** , with a focus on core subjects like English, mathematics, and science. Secondary education spans **Key Stages 3\u20135 (ages 11\u201318)** , culminating in the **General Certificate of Secondary Education (GCSE)** and **Advanced Level (A-Level)** exams. Tertiary education includes universities, colleges, and vocational training, with admission based on GCSE and A-Level results.",
+        "text_original": "England\u2019s education system is divided into **primary (ages 5\u201311)**, **secondary (ages 11\u201318)**, and **tertiary (ages 18+)** education. Primary education includes **Foundation Stage (ages 3\u20135)** and **Key Stages 1\u20132 (ages 5\u201311)**, with a focus on core subjects like English, mathematics, and science. Secondary education spans **Key Stages 3\u20135 (ages 11\u201318)**, culminating in the **General Certificate of Secondary Education (GCSE)** and **Advanced Level (A-Level)** exams. Tertiary education includes universities, colleges, and vocational training, with admission based on GCSE and A-Level results",
+        "idx_start": 4164,
+        "idx_end": 4761
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Key Features\n- **Compulsory Education** : Education is compulsory from ages 5 to 18, with students required to attend school until age 16. After this, they must continue in education or training until age 18.\n- **Types of Schools** :\n    - **State-funded schools** : Include **academies** , **community schools** , **free schools** , and **specialist schools** (e.g., **City Technology Colleges** ).\n    - **Private schools** : Charge fees and offer specialized curricula, including **International Baccalaureate (IB)** .\n    - **International schools** : Provide curricula from other countries (e.g., **UK-based I/GCSE** ).\n- **Governance** : The **Department for Education (DfE)** oversees education policy, while local authorities manage schools. The **Office for Standards in Education (Ofsted)** inspects schools for quality.\n- **Financing** : Schools are funded through the national budget, with some private schools receiving subsidies. Tuition fees for universities vary, with public universities offering lower fees compared to private institutions.",
+        "text_original": "Compulsory Education**: Education is compulsory from ages 5 to 18, with students required to attend school until age 16. After this, they must continue in education or training until age 18.\n- **Types of Schools**:\n  - **State-funded schools**: Include **academies**, **community schools**, **free schools**, and **specialist schools** (e.g., **City Technology Colleges**).\n  - **Private schools**: Charge fees and offer specialized curricula, including **International Baccalaureate (IB)**.\n  - **International schools**: Provide curricula from other countries (e.g., **UK-based I/GCSE**).\n- **Governance**: The **Department for Education (DfE)** oversees education policy, while local authorities manage schools. The **Office for Standards in Education (Ofsted)** inspects schools for quality.\n- **Financing**: Schools are funded through the national budget, with some private schools receiving subsidies. Tuition fees for universities vary, with public universities offering lower fees compared to private institutions",
+        "idx_start": 4790,
+        "idx_end": 5811
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Challenges\n- **Disparities in Funding** : Private schools often receive more resources than state-funded schools.\n- **Teacher Shortages** : Persistent challenges in recruiting and retaining qualified teachers.\n- **Standardization** : Criticisms of a one-size-fits-all approach, with concerns over overemphasis on standardized testing.\n- **Digital Divide** : Limited access to technology and digital literacy among students.",
+        "text_original": "Disparities in Funding**: Private schools often receive more resources than state-funded schools.\n- **Teacher Shortages**: Persistent challenges in recruiting and retaining qualified teachers.\n- **Standardization**: Criticisms of a one-size-fits-all approach, with concerns over overemphasis on standardized testing.\n- **Digital Divide**: Limited access to technology and digital literacy among students",
+        "idx_start": 5838,
+        "idx_end": 6241
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## History\nHong Kong\u2019s education system traces back to **1843** , when British missionaries introduced early schools. The **Queen\u2019s College** (1862) was the first government-funded school. The **Portuguese, Italian, and British** established schools catering to local and expatriate populations. The **1997 handover** to China led to reforms, including the adoption of the **Target Oriented Curriculum (TOC)** and the introduction of **English Medium Instruction (EMI)** schools. The **Citizenship and Social Development subject** was later added to promote patriotism.",
+        "text_original": "Hong Kong\u2019s education system traces back to **1843**, when British missionaries introduced early schools. The **Queen\u2019s College** (1862) was the first government-funded school. The **Portuguese, Italian, and British** established schools catering to local and expatriate populations. The **1997 handover** to China led to reforms, including the adoption of the **Target Oriented Curriculum (TOC)** and the introduction of **English Medium Instruction (EMI)** schools. The **Citizenship and Social Development subject** was later added to promote patriotism",
+        "idx_start": 6298,
+        "idx_end": 6854
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## Structure of Education\nHong Kong\u2019s education system is divided into **pre-school (ages 3\u20136)** , **primary (ages 6\u201312)** , **secondary (ages 12\u201318)** , and **tertiary education** . Primary education is compulsory, with students taking the **Primary One Admission System (POAS)** . Secondary education is divided into **junior (Form 1\u20133)** and **senior (Form 4\u20136)** years, culminating in the **Hong Kong Diploma of Secondary Education (HKDSE)** . Tertiary education includes **UGC-funded universities** (e.g., **HKU, CUHK, HKUST** ) and **self-financing institutions** , with admission based on the **Joint University Programmes Admissions System (JUPAS)** .",
+        "text_original": "Hong Kong\u2019s education system is divided into **pre-school (ages 3\u20136)**, **primary (ages 6\u201312)**, **secondary (ages 12\u201318)**, and **tertiary education**. Primary education is compulsory, with students taking the **Primary One Admission System (POAS)**. Secondary education is divided into **junior (Form 1\u20133)** and **senior (Form 4\u20136)** years, culminating in the **Hong Kong Diploma of Secondary Education (HKDSE)**. Tertiary education includes **UGC-funded universities** (e.g., **HKU, CUHK, HKUST**) and **self-financing institutions**, with admission based on the **Joint University Programmes Admissions System (JUPAS",
+        "idx_start": 6889,
+        "idx_end": 7509
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## Key Features\n- **Medium of Instruction** : Most schools use **English or Chinese (Cantonese)** , with **EMI schools** offering English as the primary medium.\n- **International Schools** : Over **175 international schools** cater to expatriate and affluent students, offering curricula like **IB, IGCSE, and A-Levels** .\n- **Governance** : The **Education Bureau (EDB)** oversees education policy, while the **Vocational Training Council (VTC)** manages vocational education.\n- **Financing** : Education is free in public schools, though private schools charge tuition. The government provides subsidies for pre-primary education.",
+        "text_original": "Medium of Instruction**: Most schools use **English or Chinese (Cantonese)**, with **EMI schools** offering English as the primary medium.\n- **International Schools**: Over **175 international schools** cater to expatriate and affluent students, offering curricula like **IB, IGCSE, and A-Levels**.\n- **Governance**: The **Education Bureau (EDB)** oversees education policy, while the **Vocational Training Council (VTC)** manages vocational education.\n- **Financing**: Education is free in public schools, though private schools charge tuition. The government provides subsidies for pre-primary education",
+        "idx_start": 7541,
+        "idx_end": 8146
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## Challenges\n- **Class Size Reduction** : Declining birth rates have led to debates on class sizes and small-group teaching.\n- **Discipline and Culture** : Emphasis on discipline and rote learning, with concerns over student well-being.\n- **Teacher Shortages** : Ongoing challenges in recruiting and retaining qualified teachers.\n- **EMI Schools** : High demand for EMI schools, leading to competition and potential overcrowding.",
+        "text_original": "Class Size Reduction**: Declining birth rates have led to debates on class sizes and small-group teaching.\n- **Discipline and Culture**: Emphasis on discipline and rote learning, with concerns over student well-being.\n- **Teacher Shortages**: Ongoing challenges in recruiting and retaining qualified teachers.\n- **EMI Schools**: High demand for EMI schools, leading to competition and potential overcrowding",
+        "idx_start": 8173,
+        "idx_end": 8580
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## History\nFrance\u2019s education system was shaped by **Napoleon** and **Jules Ferry** , who introduced **free, secular, and compulsory education** for all children aged 6\u201312. The **Third Republic** established the **\u00c9cole r\u00e9publicaine** , emphasizing national identity and cultural unity. The **Bologna Process** (2000) aligned French higher education with European standards, introducing **bachelor\u2019s, master\u2019s, and doctoral degrees** .",
+        "text_original": "France\u2019s education system was shaped by **Napoleon** and **Jules Ferry**, who introduced **free, secular, and compulsory education** for all children aged 6\u201312. The **Third Republic** established the **\u00c9cole r\u00e9publicaine**, emphasizing national identity and cultural unity. The **Bologna Process** (2000) aligned French higher education with European standards, introducing **bachelor\u2019s, master\u2019s, and doctoral degrees",
+        "idx_start": 8634,
+        "idx_end": 9052
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Structure of Education\nFrance\u2019s education system is divided into **primary (ages 3\u201311)** , **middle (ages 11\u201315)** , **high school (ages 15\u201318)** , and **tertiary education** . Primary education includes **preschool (maternelle)** and **elementary school (\u00e9cole \u00e9l\u00e9mentaire)** , with a focus on foundational skills. Middle and high school follow the **National Curriculum** , culminating in the **baccalaur\u00e9at** exam. Tertiary education includes **universities** (public and private) and **grandes \u00e9coles** (elite institutions like **HEC, Sciences Po** ), with admission based on the **baccalaur\u00e9at** or equivalent.",
+        "text_original": "France\u2019s education system is divided into **primary (ages 3\u201311)**, **middle (ages 11\u201315)**, **high school (ages 15\u201318)**, and **tertiary education**. Primary education includes **preschool (maternelle)** and **elementary school (\u00e9cole \u00e9l\u00e9mentaire)**, with a focus on foundational skills. Middle and high school follow the **National Curriculum**, culminating in the **baccalaur\u00e9at** exam. Tertiary education includes **universities** (public and private) and **grandes \u00e9coles** (elite institutions like **HEC, Sciences Po**), with admission based on the **baccalaur\u00e9at** or equivalent",
+        "idx_start": 9089,
+        "idx_end": 9673
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Key Features\n- **Governance** : The **Ministry of National Education** oversees education policy, while **acad\u00e9mies** (regional education boards) manage local schools.\n- **Tuition Fees** : Higher education is mostly free for EU students, with fees ranging from **\u20ac170\u2013\u20ac380/year** for bachelor\u2019s and master\u2019s degrees. Private institutions charge higher fees.\n- **International Schools** : Over **105 international schools** offer curricula like **IB, A-Levels, and American High School Diploma** .\n- **Vocational Education** : The **IUTs (University Technical Institutes)** provide vocational training, while **grandes \u00e9coles** focus on specialized fields like engineering and business.",
+        "text_original": "Governance**: The **Ministry of National Education** oversees education policy, while **acad\u00e9mies** (regional education boards) manage local schools.\n- **Tuition Fees**: Higher education is mostly free for EU students, with fees ranging from **\u20ac170\u2013\u20ac380/year** for bachelor\u2019s and master\u2019s degrees. Private institutions charge higher fees.\n- **International Schools**: Over **105 international schools** offer curricula like **IB, A-Levels, and American High School Diploma**.\n- **Vocational Education**: The **IUTs (University Technical Institutes)** provide vocational training, while **grandes \u00e9coles** focus on specialized fields like engineering and business",
+        "idx_start": 9702,
+        "idx_end": 10364
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Challenges\n- **Teacher Shortages** : Persistent challenges in recruiting and retaining qualified teachers.\n- **Standardization** : Criticisms of a rigid curriculum and overemphasis on standardized testing.\n- **Digital Divide** : Limited access to technology and digital literacy among students.\n- **Private Schools** : High demand for private schools, leading to competition and potential overcrowding.",
+        "text_original": "Teacher Shortages**: Persistent challenges in recruiting and retaining qualified teachers.\n- **Standardization**: Criticisms of a rigid curriculum and overemphasis on standardized testing.\n- **Digital Divide**: Limited access to technology and digital literacy among students.\n- **Private Schools**: High demand for private schools, leading to competition and potential overcrowding",
+        "idx_start": 10391,
+        "idx_end": 10773
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## History\nSweden\u2019s education system dates back to the **18th century** , with the **folkskola** (primary school) introduced in **1842** . The **1962 curriculum** expanded compulsory education to **9 years** , and the **1994 curriculum** introduced a **2+2 model** for vocational education. The **2006 reform (Kunnskapsl\u00f6ftet)** emphasized **general studies** and **vocational studies** , with a focus on **IT integration** .",
+        "text_original": "Sweden\u2019s education system dates back to the **18th century**, with the **folkskola** (primary school) introduced in **1842**. The **1962 curriculum** expanded compulsory education to **9 years**, and the **1994 curriculum** introduced a **2+2 model** for vocational education. The **2006 reform (Kunnskapsl\u00f6ftet)** emphasized **general studies** and **vocational studies**, with a focus on **IT integration",
+        "idx_start": 10827,
+        "idx_end": 11233
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## Structure of Education\nSweden\u2019s education system is divided into **preschool (ages 1\u20136)** , **compulsory school (ages 6\u201316)** , **upper secondary school (ages 16\u201319)** , and **higher education** . Compulsory school includes **primary (ages 6\u201312)** and **lower secondary (ages 12\u201316)** , with students taking the **national tests** in grades 3, 6, and 9. Upper secondary school lasts **3 years** , with students choosing between **preparatory** and **vocational** tracks. Tertiary education includes **universities** (e.g., **Stockholm University, Uppsala University** ) and **university colleges** , with admission based on **SweSAT** scores.",
+        "text_original": "Sweden\u2019s education system is divided into **preschool (ages 1\u20136)**, **compulsory school (ages 6\u201316)**, **upper secondary school (ages 16\u201319)**, and **higher education**. Compulsory school includes **primary (ages 6\u201312)** and **lower secondary (ages 12\u201316)**, with students taking the **national tests** in grades 3, 6, and 9. Upper secondary school lasts **3 years**, with students choosing between **preparatory** and **vocational** tracks. Tertiary education includes **universities** (e.g., **Stockholm University, Uppsala University**) and **university colleges**, with admission based on **SweSAT** scores",
+        "idx_start": 11270,
+        "idx_end": 11880
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## Key Features\n- **Governance** : The **Swedish National Agency for Education** oversees education policy, while **counties** manage public schools.\n- **Financing** : Education is free in public schools, though private schools charge tuition. The **National Board of Student Aid (CSN)** provides financial aid for students.\n- **Independent Schools** : Over **900 independent schools (friskolor)** receive public funding, offering alternative curricula.\n- **Vocational Education** : The **2+2 model** combines school training with apprenticeships, with students earning a diploma after 2 years of school and 2 years of work experience.",
+        "text_original": "Governance**: The **Swedish National Agency for Education** oversees education policy, while **counties** manage public schools.\n- **Financing**: Education is free in public schools, though private schools charge tuition. The **National Board of Student Aid (CSN)** provides financial aid for students.\n- **Independent Schools**: Over **900 independent schools (friskolor)** receive public funding, offering alternative curricula.\n- **Vocational Education**: The **2+2 model** combines school training with apprenticeships, with students earning a diploma after 2 years of school and 2 years of work experience",
+        "idx_start": 11909,
+        "idx_end": 12519
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## Challenges\n- **Teacher Shortages** : Ongoing challenges in recruiting and retaining qualified teachers.\n- **Class Size Reduction** : Debates on class sizes and small-group teaching.\n- **Digital Divide** : Limited access to technology and digital literacy among students.\n- **Standardization** : Criticisms of a rigid curriculum and overemphasis on standardized testing.",
+        "text_original": "Teacher Shortages**: Ongoing challenges in recruiting and retaining qualified teachers.\n- **Class Size Reduction**: Debates on class sizes and small-group teaching.\n- **Digital Divide**: Limited access to technology and digital literacy among students.\n- **Standardization**: Criticisms of a rigid curriculum and overemphasis on standardized testing",
+        "idx_start": 12546,
+        "idx_end": 12895
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## History\nIran\u2019s education system has evolved significantly, from **pre-Islamic Persia** to modern reforms. The **Safavid era** introduced modern education, while the **Qajar era** established the **Educational Committee (Anjoman-e Ma\u2019arif)** . The **Literacy Corps (1969\u20131979)** aimed to improve literacy rates, and the **Islamic Revolution (1979)** led to the **Islamization of textbooks** and the **segregation of schools by gender** . The **2012 education reform** introduced a **credit-based system** and emphasized **research and practical skills** .",
+        "text_original": "Iran\u2019s education system has evolved significantly, from **pre-Islamic Persia** to modern reforms. The **Safavid era** introduced modern education, while the **Qajar era** established the **Educational Committee (Anjoman-e Ma\u2019arif)**. The **Literacy Corps (1969\u20131979)** aimed to improve literacy rates, and the **Islamic Revolution (1979)** led to the **Islamization of textbooks** and the **segregation of schools by gender**. The **2012 education reform** introduced a **credit-based system** and emphasized **research and practical skills",
+        "idx_start": 12947,
+        "idx_end": 13487
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Structure of Education\nIran\u2019s education system is divided into **pre-primary (ages 5\u20136)** , **primary (ages 6\u201312)** , **lower-secondary (ages 12\u201315)** , **upper-secondary (ages 15\u201318)** , and **tertiary education** . Primary education is compulsory, with students taking the **Scholarship Exam** at the end of grade 5. Secondary education includes **theoretical, technical-vocational, and manual skills branches** , culminating in the **National Entrance Examination (Konkur)** . Tertiary education includes **universities** (e.g., **University of Tehran, Sharif University** ) and **Payame Noor University** , with admission based on the **Konkur** scores.",
+        "text_original": "Iran\u2019s education system is divided into **pre-primary (ages 5\u20136)**, **primary (ages 6\u201312)**, **lower-secondary (ages 12\u201315)**, **upper-secondary (ages 15\u201318)**, and **tertiary education**. Primary education is compulsory, with students taking the **Scholarship Exam** at the end of grade 5. Secondary education includes **theoretical, technical-vocational, and manual skills branches**, culminating in the **National Entrance Examination (Konkur)**. Tertiary education includes **universities** (e.g., **University of Tehran, Sharif University**) and **Payame Noor University**, with admission based on the **Konkur** scores",
+        "idx_start": 13524,
+        "idx_end": 14148
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Key Features\n- **Governance** : The **Ministry of Education** oversees education policy, while **Farhangian University** trains teachers.\n- **Financing** : Education is free in public schools, though private schools charge tuition. The government provides subsidies for textbooks and school supplies.\n- **Vocational Education** : The **KARAD Plan** focuses on entrepreneurship and vocational training.\n- **Gender Segregation** : Schools are segregated by gender, with separate curricula for boys and girls.",
+        "text_original": "Governance**: The **Ministry of Education** oversees education policy, while **Farhangian University** trains teachers.\n- **Financing**: Education is free in public schools, though private schools charge tuition. The government provides subsidies for textbooks and school supplies.\n- **Vocational Education**: The **KARAD Plan** focuses on entrepreneurship and vocational training.\n- **Gender Segregation**: Schools are segregated by gender, with separate curricula for boys and girls",
+        "idx_start": 14177,
+        "idx_end": 14661
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Challenges\n- **Teacher Shortages** : Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity** : Disparities in educational quality between public and private schools.\n- **Digital Divide** : Limited access to technology and digital literacy among students.\n- **Political Influence** : Criticisms of political influence in curriculum and textbook content.",
+        "text_original": "Teacher Shortages**: Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity**: Disparities in educational quality between public and private schools.\n- **Digital Divide**: Limited access to technology and digital literacy among students.\n- **Political Influence**: Criticisms of political influence in curriculum and textbook content",
+        "idx_start": 14688,
+        "idx_end": 15056
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## History\nTurkey\u2019s education system was established under the **Atat\u00fcrk regime** , with the **Law of Integration of Education (1924)** merging religious and secular schools. The **1928 Latin alphabet reform** and the **1931 Turkish Language Association** aimed to modernize education. The **1997 reforms** introduced **compulsory education for 8 years** , and the **2012 \"4+4+4\" system** restructured primary and secondary education.",
+        "text_original": "Turkey\u2019s education system was established under the **Atat\u00fcrk regime**, with the **Law of Integration of Education (1924)** merging religious and secular schools. The **1928 Latin alphabet reform** and the **1931 Turkish Language Association** aimed to modernize education. The **1997 reforms** introduced **compulsory education for 8 years**, and the **2012 \"4+4+4\" system** restructured primary and secondary education",
+        "idx_start": 15110,
+        "idx_end": 15530
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Structure of Education\nTurkey\u2019s education system is divided into **pre-primary (ages 3\u20136)** , **primary (ages 6\u201314)** , **secondary (ages 14\u201318)** , and **tertiary education** . Primary education lasts **8 years** , with students taking the **Transition Exam (TEOG)** at the end of grade 5. Secondary education includes **general, vocational, and technical tracks** , culminating in the **University Entrance Exam (Y\u00d6S)** . Tertiary education includes **universities** (e.g., **Istanbul Technical University, Bo\u011fazi\u00e7i University** ) and **vocational schools** , with admission based on the **Y\u00d6S** scores.",
+        "text_original": "Turkey\u2019s education system is divided into **pre-primary (ages 3\u20136)**, **primary (ages 6\u201314)**, **secondary (ages 14\u201318)**, and **tertiary education**. Primary education lasts **8 years**, with students taking the **Transition Exam (TEOG)** at the end of grade 5. Secondary education includes **general, vocational, and technical tracks**, culminating in the **University Entrance Exam (Y\u00d6S)**. Tertiary education includes **universities** (e.g., **Istanbul Technical University, Bo\u011fazi\u00e7i University**) and **vocational schools**, with admission based on the **Y\u00d6S** scores",
+        "idx_start": 15565,
+        "idx_end": 16137
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Key Features\n- **Governance** : The **Ministry of National Education** oversees education policy, while **National Board for Technical Education** manages vocational education.\n- **Financing** : Education is free in public schools, though private schools charge tuition. The government provides subsidies for textbooks and school supplies.\n- **Vocational Education** : The **Vocational Education Law (2005)** focuses on apprenticeships and technical training.\n- **Religious Education** : Religious education is mandatory, with courses on **Islam and ethics** .",
+        "text_original": "Governance**: The **Ministry of National Education** oversees education policy, while **National Board for Technical Education** manages vocational education.\n- **Financing**: Education is free in public schools, though private schools charge tuition. The government provides subsidies for textbooks and school supplies.\n- **Vocational Education**: The **Vocational Education Law (2005)** focuses on apprenticeships and technical training.\n- **Religious Education**: Religious education is mandatory, with courses on **Islam and ethics",
+        "idx_start": 16166,
+        "idx_end": 16701
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Challenges\n- **Teacher Shortages** : Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity** : Disparities in educational quality between public and private schools.\n- **Curriculum Reform** : Frequent changes to the curriculum and examination system.\n- **Digital Divide** : Limited access to technology and digital literacy among students.",
+        "text_original": "Teacher Shortages**: Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity**: Disparities in educational quality between public and private schools.\n- **Curriculum Reform**: Frequent changes to the curriculum and examination system.\n- **Digital Divide**: Limited access to technology and digital literacy among students",
+        "idx_start": 16730,
+        "idx_end": 17085
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## History\nNigeria\u2019s education system traces back to **colonial times** , with the **Universal Primary Education (UPE) program (1976)** and **Universal Basic Education (UBE) program (1999)** aiming to improve access to education. The **6-3-3-4 system** restructured primary and secondary education, with students spending **6 years in primary school, 3 years in junior secondary school, and 3 years in senior secondary school** . The **Federal Government** and **state governments** sponsor secondary schools, while private schools offer alternatives.",
+        "text_original": "Nigeria\u2019s education system traces back to **colonial times**, with the **Universal Primary Education (UPE) program (1976)** and **Universal Basic Education (UBE) program (1999)** aiming to improve access to education. The **6-3-3-4 system** restructured primary and secondary education, with students spending **6 years in primary school, 3 years in junior secondary school, and 3 years in senior secondary school**. The **Federal Government** and **state governments** sponsor secondary schools, while private schools offer alternatives",
+        "idx_start": 17140,
+        "idx_end": 17677
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Structure of Education\nNigeria\u2019s education system is divided into **primary (ages 5\u201311)** , **junior secondary (ages 11\u201314)** , **senior secondary (ages 14\u201317)** , and **tertiary education** . Primary education is compulsory, with students taking the **Common Entrance Examination** at the end of grade 6. Secondary education includes **academic and vocational tracks** , culminating in the **Senior Secondary Certificate Examination (SSCE)** . Tertiary education includes **universities** (e.g., **University of Ibadan, University of Lagos** ), **polytechnics** , and **colleges of education** , with admission based on the **SSCE** scores.",
+        "text_original": "Nigeria\u2019s education system is divided into **primary (ages 5\u201311)**, **junior secondary (ages 11\u201314)**, **senior secondary (ages 14\u201317)**, and **tertiary education**. Primary education is compulsory, with students taking the **Common Entrance Examination** at the end of grade 6. Secondary education includes **academic and vocational tracks**, culminating in the **Senior Secondary Certificate Examination (SSCE)**. Tertiary education includes **universities** (e.g., **University of Ibadan, University of Lagos**), **polytechnics**, and **colleges of education**, with admission based on the **SSCE** scores",
+        "idx_start": 17712,
+        "idx_end": 18320
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Key Features\n- **Governance** : The **Federal Ministry of Education** oversees education policy, while **Universal Basic Education Commission (UBEC)** monitors primary and secondary education.\n- **Financing** : Education is free in public schools, though private schools charge tuition. The government provides subsidies for textbooks and school supplies.\n- **Vocational Education** : The **National Board for Technical Education (NBTE)** manages vocational education, with students earning **National Technical Certificates (NTC)** and **Advanced National Technical Certificates (ANTC)** .\n- **Private Schools** : Private schools are common, offering alternatives to public schools and often charging high tuition fees.",
+        "text_original": "Governance**: The **Federal Ministry of Education** oversees education policy, while **Universal Basic Education Commission (UBEC)** monitors primary and secondary education.\n- **Financing**: Education is free in public schools, though private schools charge tuition. The government provides subsidies for textbooks and school supplies.\n- **Vocational Education**: The **National Board for Technical Education (NBTE)** manages vocational education, with students earning **National Technical Certificates (NTC)** and **Advanced National Technical Certificates (ANTC)**.\n- **Private Schools**: Private schools are common, offering alternatives to public schools and often charging high tuition fees",
+        "idx_start": 18349,
+        "idx_end": 19046
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Challenges\n- **Teacher Shortages** : Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity** : Disparities in educational quality between public and private schools.\n- **Funding** : Limited government funding for education, leading to reliance on private tutoring.\n- **Security** : Insecurity in some regions has disrupted education, leading to high dropout rates.",
+        "text_original": "Teacher Shortages**: Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity**: Disparities in educational quality between public and private schools.\n- **Funding**: Limited government funding for education, leading to reliance on private tutoring.\n- **Security**: Insecurity in some regions has disrupted education, leading to high dropout rates",
+        "idx_start": 19073,
+        "idx_end": 19453
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## History\nSri Lanka\u2019s education system dates back to **ancient times** , with the **Sanskrit language** introduced by Buddhist monks. The **British colonial period** introduced formal education, with the **Colebrooke Commission (1836)** recommending a standardized system. The **1938 Education Act** made education free, and the **1942 Ceylon University Ordinance** established the **University of Ceylon** . Post-independence, the **1978 Universities Act** created separate universities, and the **1984 Special Needs Education Act** introduced special education programs.",
+        "text_original": "Sri Lanka\u2019s education system dates back to **ancient times**, with the **Sanskrit language** introduced by Buddhist monks. The **British colonial period** introduced formal education, with the **Colebrooke Commission (1836)** recommending a standardized system. The **1938 Education Act** made education free, and the **1942 Ceylon University Ordinance** established the **University of Ceylon**. Post-independence, the **1978 Universities Act** created separate universities, and the **1984 Special Needs Education Act** introduced special education programs",
+        "idx_start": 19510,
+        "idx_end": 20069
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## Structure of Education\nSri Lanka\u2019s education system is divided into **primary (ages 5\u201311)** , **junior secondary (ages 11\u201314)** , **senior secondary (ages 14\u201317)** , **collegiate (ages 17\u201319)** , and **tertiary education** . Primary education lasts **5 years** , with students taking the **Scholarship Exam** at the end of grade 5. Junior secondary education lasts **4 years** , culminating in the **General Certificate of Education (GCE) Ordinary Level (O/L)** . Senior secondary education lasts **2 years** , culminating in the **GCE Advanced Level (A/L)** . Tertiary education includes **universities** (e.g., **University of Colombo, University of Peradeniya** ) and **vocational technical colleges** , with admission based on the **A/L** scores.",
+        "text_original": "Sri Lanka\u2019s education system is divided into **primary (ages 5\u201311)**, **junior secondary (ages 11\u201314)**, **senior secondary (ages 14\u201317)**, **collegiate (ages 17\u201319)**, and **tertiary education**. Primary education lasts **5 years**, with students taking the **Scholarship Exam** at the end of grade 5. Junior secondary education lasts **4 years**, culminating in the **General Certificate of Education (GCE) Ordinary Level (O/L)**. Senior secondary education lasts **2 years**, culminating in the **GCE Advanced Level (A/L)**. Tertiary education includes **universities** (e.g., **University of Colombo, University of Peradeniya**) and **vocational technical colleges**, with admission based on the **A/L** scores",
+        "idx_start": 20104,
+        "idx_end": 20818
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## Key Features\n- **Governance** : The **Ministry of Education** oversees education policy, while the **National Institute of Education (NIE)** provides leadership for general education.\n- **Financing** : Education is free in public schools, though private schools charge tuition. The government provides subsidies for textbooks and school supplies.\n- **Vocational Education** : The **Tertiary and Vocational Education Commission** manages vocational education, with students earning **National Vocational Qualifications (NVQSL)** .\n- **Special Needs Education** : The **Education for Persons with Special Educational Needs Act (2004)** provides support for students with disabilities.",
+        "text_original": "Governance**: The **Ministry of Education** oversees education policy, while the **National Institute of Education (NIE)** provides leadership for general education.\n- **Financing**: Education is free in public schools, though private schools charge tuition. The government provides subsidies for textbooks and school supplies.\n- **Vocational Education**: The **Tertiary and Vocational Education Commission** manages vocational education, with students earning **National Vocational Qualifications (NVQSL)**.\n- **Special Needs Education**: The **Education for Persons with Special Educational Needs Act (2004)** provides support for students with disabilities",
+        "idx_start": 20847,
+        "idx_end": 21506
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## Challenges\n- **Teacher Shortages** : Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity** : Disparities in educational quality between public and private schools.\n- **Funding** : Limited government funding for education, leading to reliance on private tutoring.\n- **Security** : Insecurity in some regions has disrupted education, leading to high dropout rates.",
+        "text_original": "Teacher Shortages**: Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity**: Disparities in educational quality between public and private schools.\n- **Funding**: Limited government funding for education, leading to reliance on private tutoring.\n- **Security**: Insecurity in some regions has disrupted education, leading to high dropout rates",
+        "idx_start": 19073,
+        "idx_end": 19453
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## History\nIsrael\u2019s education system traces back to **Jewish diaspora traditions** , with the **Hebrew revival movement** and **Zionism** emphasizing education as a key to national identity. The **1948 establishment of Israel** led to the **Law of Return** , which granted citizenship to Jewish immigrants. The **1953 Education Law** established a **state-secular education system** , while the **1967 Six-Day War** led to increased emphasis on **military and technical education** . The **2000 Israeli Pupils\u2019 Rights Law** addressed discrimination in education.",
+        "text_original": "Israel\u2019s education system traces back to **Jewish diaspora traditions**, with the **Hebrew revival movement** and **Zionism** emphasizing education as a key to national identity. The **1948 establishment of Israel** led to the **Law of Return**, which granted citizenship to Jewish immigrants. The **1953 Education Law** established a **state-secular education system**, while the **1967 Six-Day War** led to increased emphasis on **military and technical education**. The **2000 Israeli Pupils\u2019 Rights Law** addressed discrimination in education",
+        "idx_start": 21967,
+        "idx_end": 22513
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Structure of Education\nIsrael\u2019s education system is divided into **primary (ages 6\u201312)** , **middle school (ages 12\u201315)** , **high school (ages 15\u201318)** , and **tertiary education** . Primary education includes **grades 1\u20136** , with students taking the **matriculation exams (bagrut)** at the end of grade 6. Middle and high school follow the **National Curriculum** , culminating in the **bagrut** exams. Tertiary education includes **universities** (e.g., **Hebrew University of Jerusalem, Technion** ) and **colleges** , with admission based on **bagrut** scores and the **Psychometric Entrance Test (PET)** .",
+        "text_original": "Israel\u2019s education system is divided into **primary (ages 6\u201312)**, **middle school (ages 12\u201315)**, **high school (ages 15\u201318)**, and **tertiary education**. Primary education includes **grades 1\u20136**, with students taking the **matriculation exams (bagrut)** at the end of grade 6. Middle and high school follow the **National Curriculum**, culminating in the **bagrut** exams. Tertiary education includes **universities** (e.g., **Hebrew University of Jerusalem, Technion**) and **colleges**, with admission based on **bagrut** scores and the **Psychometric Entrance Test (PET",
+        "idx_start": 22548,
+        "idx_end": 23124
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Key Features\n- **Governance** : The **Ministry of Education** oversees education policy, while the **Council for Higher Education** manages tertiary education.\n- **Financing** : Education is free in public schools, though private schools charge tuition. The government provides subsidies for universities.\n- **Vocational Education** : The **Ministry of Education** manages vocational education, with students earning **vocational diplomas** .\n- **Religious Schools** : **Haredi (ultra-Orthodox) schools** focus on Torah study, while **state-religious schools** offer intensive Jewish studies.",
+        "text_original": "Governance**: The **Ministry of Education** oversees education policy, while the **Council for Higher Education** manages tertiary education.\n- **Financing**: Education is free in public schools, though private schools charge tuition. The government provides subsidies for universities.\n- **Vocational Education**: The **Ministry of Education** manages vocational education, with students earning **vocational diplomas**.\n- **Religious Schools**: **Haredi (ultra-Orthodox) schools** focus on Torah study, while **state-religious schools** offer intensive Jewish studies",
+        "idx_start": 23156,
+        "idx_end": 23725
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Challenges\n- **Teacher Shortages** : Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity** : Disparities in educational quality between Jewish and Arab schools.\n- **Funding** : Limited government funding for education, leading to reliance on private tutoring.\n- **Security** : Insecurity in some regions has disrupted education, leading to high dropout rates.",
+        "text_original": "Teacher Shortages**: Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity**: Disparities in educational quality between Jewish and Arab schools.\n- **Funding**: Limited government funding for education, leading to reliance on private tutoring.\n- **Security**: Insecurity in some regions has disrupted education, leading to high dropout rates",
+        "idx_start": 23752,
+        "idx_end": 24129
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## History\nEgypt\u2019s education system dates back to **ancient times** , with the **Bar Ankh (House of Life)** being the first known school and library. The **French expedition (1798\u20131801)** established the **Institut d\u2019\u00c9gypte** , which published the monumental **Description de l\u2019\u00c9gypte** . The **Muhammad Ali reforms** introduced modern education, while the **British occupation (1882)** led to neglect and budget cuts. Post-independence, **Gamal Abdel Nasser** introduced **free public education** , and the **1990s reforms** aimed to improve quality through the **National Strategic Plan for Pre-University Education Reform** .",
+        "text_original": "Egypt\u2019s education system dates back to **ancient times**, with the **Bar Ankh (House of Life)** being the first known school and library. The **French expedition (1798\u20131801)** established the **Institut d\u2019\u00c9gypte**, which published the monumental **Description de l\u2019\u00c9gypte**. The **Muhammad Ali reforms** introduced modern education, while the **British occupation (1882)** led to neglect and budget cuts. Post-independence, **Gamal Abdel Nasser** introduced **free public education**, and the **1990s reforms** aimed to improve quality through the **National Strategic Plan for Pre-University Education Reform",
+        "idx_start": 24182,
+        "idx_end": 24791
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## Structure of Education\nEgypt\u2019s education system is divided into **basic education (ages 4\u201314)** , **secondary education (ages 15\u201317)** , and **tertiary education** . Basic education includes **kindergarten (ages 4\u20136)** , **primary school (ages 6\u201311)** , and **preparatory school (ages 11\u201314)** , culminating in the **National Examination** . Secondary education includes **general and technical tracks** , culminating in the **Secondary School Certificate Examination** . Tertiary education includes **universities** (e.g., **Cairo University, Alexandria University** ) and **vocational technical institutes** , with admission based on examination scores.",
+        "text_original": "Egypt\u2019s education system is divided into **basic education (ages 4\u201314)**, **secondary education (ages 15\u201317)**, and **tertiary education**. Basic education includes **kindergarten (ages 4\u20136)**, **primary school (ages 6\u201311)**, and **preparatory school (ages 11\u201314)**, culminating in the **National Examination**. Secondary education includes **general and technical tracks**, culminating in the **Secondary School Certificate Examination**. Tertiary education includes **universities** (e.g., **Cairo University, Alexandria University**) and **vocational technical institutes**, with admission based on examination scores",
+        "idx_start": 24828,
+        "idx_end": 25448
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## Key Features\n- **Governance** : The **Ministry of Education** oversees education policy, while the **National Center for Curriculum Development** manages curriculum.\n- **Financing** : Education is free in public schools, though private schools charge tuition. The government provides subsidies for textbooks and school supplies.\n- **Vocational Education** : The **Industrial Training Council (ITC)** manages vocational education, with students earning **technical diplomas** .\n- **Al-Azhar System** : The **Al-Azhar University** offers Islamic education alongside secular subjects.",
+        "text_original": "Governance**: The **Ministry of Education** oversees education policy, while the **National Center for Curriculum Development** manages curriculum.\n- **Financing**: Education is free in public schools, though private schools charge tuition. The government provides subsidies for textbooks and school supplies.\n- **Vocational Education**: The **Industrial Training Council (ITC)** manages vocational education, with students earning **technical diplomas**.\n- **Al-Azhar System**: The **Al-Azhar University** offers Islamic education alongside secular subjects",
+        "idx_start": 25477,
+        "idx_end": 26035
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## Challenges\n- **Teacher Shortages** : Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity** : Disparities in educational quality between urban and rural areas.\n- **Funding** : Limited government funding for education, leading to reliance on private tutoring.\n- **Digital Divide** : Limited access to technology and digital literacy among students.",
+        "text_original": "Teacher Shortages**: Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity**: Disparities in educational quality between urban and rural areas.\n- **Funding**: Limited government funding for education, leading to reliance on private tutoring.\n- **Digital Divide**: Limited access to technology and digital literacy among students",
+        "idx_start": 26062,
+        "idx_end": 26426
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## History\nIreland\u2019s education system traces back to **medieval monastic schools** , with the **1966 Education Act** introducing **free upper second-level education** . The **1973 Irish language requirement** was abandoned, and the **1999 Primary School Curriculum** emphasized **child-centered learning** . The **2000 Education for Persons with Special Educational Needs Act** provided support for students with disabilities.",
+        "text_original": "Ireland\u2019s education system traces back to **medieval monastic schools**, with the **1966 Education Act** introducing **free upper second-level education**. The **1973 Irish language requirement** was abandoned, and the **1999 Primary School Curriculum** emphasized **child-centered learning**. The **2000 Education for Persons with Special Educational Needs Act** provided support for students with disabilities",
+        "idx_start": 26481,
+        "idx_end": 26892
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Structure of Education\nIreland\u2019s education system is divided into **primary (ages 5\u201311)** , **secondary (ages 11\u201318)** , and **tertiary education** . Primary education includes **Junior Infants (age 4\u20135)** and **Senior Infants (age 5\u20136)** , followed by **First to Sixth Class (ages 6\u201312)** . Secondary education includes **Junior Cycle (ages 12\u201315)** , **Transition Year (optional, age 15\u201316)** , and **Senior Cycle (ages 15\u201318)** , culminating in the **Leaving Certificate Examination** . Tertiary education includes **universities** (e.g., **Trinity College Dublin, University College Dublin** ) and **colleges** , with admission based on **Leaving Certificate** scores.",
+        "text_original": "Ireland\u2019s education system is divided into **primary (ages 5\u201311)**, **secondary (ages 11\u201318)**, and **tertiary education**. Primary education includes **Junior Infants (age 4\u20135)** and **Senior Infants (age 5\u20136)**, followed by **First to Sixth Class (ages 6\u201312)**. Secondary education includes **Junior Cycle (ages 12\u201315)**, **Transition Year (optional, age 15\u201316)**, and **Senior Cycle (ages 15\u201318)**, culminating in the **Leaving Certificate Examination**. Tertiary education includes **universities** (e.g., **Trinity College Dublin, University College Dublin**) and **colleges**, with admission based on **Leaving Certificate** scores",
+        "idx_start": 26927,
+        "idx_end": 27564
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Key Features\n- **Governance** : The **Department of Education** oversees education policy, while **Education and Training Boards (ETBs)** manage vocational education.\n- **Financing** : Education is free in public schools, though private schools charge tuition. The government provides subsidies for disadvantaged students.\n- **Multidenominational Schools** : Over **15% of secondary schools** are multidenominational, offering a mix of religious and secular curricula.\n- **Special Needs Education** : The **Education for Persons with Special Educational Needs Act (2004)** provides support for students with disabilities.",
+        "text_original": "Governance**: The **Department of Education** oversees education policy, while **Education and Training Boards (ETBs)** manage vocational education.\n- **Financing**: Education is free in public schools, though private schools charge tuition. The government provides subsidies for disadvantaged students.\n- **Multidenominational Schools**: Over **15% of secondary schools** are multidenominational, offering a mix of religious and secular curricula.\n- **Special Needs Education**: The **Education for Persons with Special Educational Needs Act (2004)** provides support for students with disabilities",
+        "idx_start": 27593,
+        "idx_end": 28192
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Challenges\n- **Teacher Shortages** : Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity** : Disparities in educational quality between urban and rural areas.\n- **Funding** : Limited government funding for education, leading to reliance on private tutoring.\n- **Digital Divide** : Limited access to technology and digital literacy among students.\nThis summary captures the key aspects of education systems in the provided countries, focusing on historical context, structure, key features, and challenges.",
+        "text_original": "Teacher Shortages**: Ongoing challenges in recruiting and retaining qualified teachers.\n- **Quality and Equity**: Disparities in educational quality between urban and rural areas.\n- **Funding**: Limited government funding for education, leading to reliance on private tutoring.\n- **Digital Divide**: Limited access to technology and digital literacy among students.\n\n---\nThis summary captures the key aspects of education systems in the provided countries, focusing on historical context, structure, key features, and challenges",
+        "idx_start": 28219,
+        "idx_end": 28747
+    }
+]

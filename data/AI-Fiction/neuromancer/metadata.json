@@ -1,0 +1,28 @@
+{
+  "id": 21725,
+  "title": "Neuromancer",
+  "url": "https://en.wikipedia.org/wiki/Neuromancer",
+  "path": "AI-Fiction\\neuromancer",
+  "summary": {
+    "chars": 2084,
+    "tokens": 444
+  },
+  "document": {
+    "chars": 19833,
+    "tokens": 4156
+  },
+  "infobox": {
+    "title": "Neuromancer",
+    "data": {
+      "Author": "William Gibson",
+      "Language": "English",
+      "Series": "Sprawl trilogy",
+      "Genre": "Science fiction (cyberpunk)",
+      "Publisher": "Ace Books",
+      "Publication date": "July 1, 1984",
+      "Pages": "271",
+      "Preceded by": "\"Burning Chrome\" (1982)",
+      "Followed by": "Count Zero (1986)"
+    }
+  }
+}

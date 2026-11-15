@@ -1,0 +1,2 @@
+The National Security Commission on Artificial Intelligence (NSCAI) was an independent commission of the United States of America from 2018 to 2021. Its mission was to make recommendations to the President and Congress to "advance the development of artificial intelligence, machine learning, and associated technologies to comprehensively address the national security and defense needs of the United States". The commission's 15 members were nominated by the United States Congress.
+The  NSCAI was dissolved on 1 October 2021.

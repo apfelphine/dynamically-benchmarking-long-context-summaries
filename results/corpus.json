@@ -1,0 +1,322 @@
+[
+    {
+        "topic": "AI-Fiction",
+        "name": "AI-Fiction (Bin: 0)",
+        "doc_tokens": 95710,
+        "sum_tokens": 3757,
+        "document_paths": [
+            "AI-Fiction\\star-trek-the-motion-picture",
+            "AI-Fiction\\2001-a-space-odyssey",
+            "AI-Fiction\\avengers-age-of-ultron",
+            "AI-Fiction\\robocop",
+            "AI-Fiction\\the-hitchhikers-guide-to-the-galaxy",
+            "AI-Fiction\\blade-runner-2049",
+            "AI-Fiction\\ai-artificial-intelligence",
+            "AI-Fiction\\frankenstein"
+        ]
+    },
+    {
+        "topic": "AI-Fiction",
+        "name": "AI-Fiction (Bin: 1)",
+        "doc_tokens": 91479,
+        "sum_tokens": 5875,
+        "document_paths": [
+            "AI-Fiction\\raone",
+            "AI-Fiction\\alien-covenant",
+            "AI-Fiction\\enthiran",
+            "AI-Fiction\\mission-impossible-dead-reckoning-part-one",
+            "AI-Fiction\\the-terminator",
+            "AI-Fiction\\tron",
+            "AI-Fiction\\the-creator-2023-film",
+            "AI-Fiction\\kalki-2898-ad",
+            "AI-Fiction\\wargames",
+            "AI-Fiction\\rons-gone-wrong",
+            "AI-Fiction\\tron-ares",
+            "AI-Fiction\\free-guy",
+            "AI-Fiction\\her-2013-film",
+            "AI-Fiction\\mission-impossible-the-final-reckoning",
+            "AI-Fiction\\atlas-2024-film",
+            "AI-Fiction\\the-machine-2013-film"
+        ]
+    },
+    {
+        "topic": "AI-Philosophy",
+        "name": "AI-Philosophy",
+        "doc_tokens": 91320,
+        "sum_tokens": 2385,
+        "document_paths": [
+            "AI-Philosophy\\embodied-cognition",
+            "AI-Philosophy\\ethics-of-artificial-intelligence",
+            "AI-Philosophy\\algorithmic-bias",
+            "AI-Philosophy\\transhumanism",
+            "AI-Philosophy\\chinese-room",
+            "AI-Philosophy\\turing-test",
+            "AI-Philosophy\\fairness-machine-learning",
+            "AI-Philosophy\\technological-singularity"
+        ]
+    },
+    {
+        "topic": "AI-Regulations",
+        "name": "AI-Regulations",
+        "doc_tokens": 92396,
+        "sum_tokens": 2285,
+        "document_paths": [
+            "AI-Regulations\\deepfake",
+            "AI-Regulations\\ethics-of-artificial-intelligence",
+            "AI-Regulations\\legion-terminator",
+            "AI-Regulations\\transhumanism",
+            "AI-Regulations\\general-data-protection-regulation",
+            "AI-Regulations\\accelerationism",
+            "AI-Regulations\\technological-singularity",
+            "AI-Regulations\\intelligence-explosion",
+            "AI-Regulations\\regulation-of-ai-in-the-united-states",
+            "AI-Regulations\\john-l-pollock"
+        ]
+    },
+    {
+        "topic": "Comp-Sci-Pioneers",
+        "name": "Comp-Sci-Pioneers (Bin: 0)",
+        "doc_tokens": 97332,
+        "sum_tokens": 3318,
+        "document_paths": [
+            "Comp-Sci-Pioneers\\john-von-neumann",
+            "Comp-Sci-Pioneers\\gottfried-wilhelm-leibniz",
+            "Comp-Sci-Pioneers\\charles-sanders-peirce",
+            "Comp-Sci-Pioneers\\garry-kasparov",
+            "Comp-Sci-Pioneers\\bertrand-russell",
+            "Comp-Sci-Pioneers\\noam-chomsky"
+        ]
+    },
+    {
+        "topic": "Comp-Sci-Pioneers",
+        "name": "Comp-Sci-Pioneers (Bin: 1)",
+        "doc_tokens": 90351,
+        "sum_tokens": 5035,
+        "document_paths": [
+            "Comp-Sci-Pioneers\\alfred-north-whitehead",
+            "Comp-Sci-Pioneers\\leonardo-torres-quevedo",
+            "Comp-Sci-Pioneers\\alan-turing",
+            "Comp-Sci-Pioneers\\charles-babbage",
+            "Comp-Sci-Pioneers\\vannevar-bush",
+            "Comp-Sci-Pioneers\\philip-rubin",
+            "Comp-Sci-Pioneers\\ada-lovelace",
+            "Comp-Sci-Pioneers\\hedy-lamarr",
+            "Comp-Sci-Pioneers\\blaise-pascal",
+            "Comp-Sci-Pioneers\\richard-stallman"
+        ]
+    },
+    {
+        "topic": "Comp-Sci-Pioneers",
+        "name": "Comp-Sci-Pioneers (Bin: 2)",
+        "doc_tokens": 91601,
+        "sum_tokens": 6330,
+        "document_paths": [
+            "Comp-Sci-Pioneers\\donald-knuth",
+            "Comp-Sci-Pioneers\\claude-shannon",
+            "Comp-Sci-Pioneers\\edsger-w-dijkstra",
+            "Comp-Sci-Pioneers\\herbert-a-simon",
+            "Comp-Sci-Pioneers\\per-brinch-hansen",
+            "Comp-Sci-Pioneers\\al-khwarizmi",
+            "Comp-Sci-Pioneers\\gottlob-frege",
+            "Comp-Sci-Pioneers\\grace-hopper",
+            "Comp-Sci-Pioneers\\federico-faggin",
+            "Comp-Sci-Pioneers\\jacek-karpinski",
+            "Comp-Sci-Pioneers\\kenneth-e-iverson",
+            "Comp-Sci-Pioneers\\george-boole",
+            "Comp-Sci-Pioneers\\ramon-llull",
+            "Comp-Sci-Pioneers\\george-antheil",
+            "Comp-Sci-Pioneers\\geoffrey-hinton",
+            "Comp-Sci-Pioneers\\ismail-al-jazari",
+            "Comp-Sci-Pioneers\\kurt-godel",
+            "Comp-Sci-Pioneers\\lynn-conway"
+        ]
+    },
+    {
+        "topic": "Education-Systems",
+        "name": "Education-Systems (Bin: 0)",
+        "doc_tokens": 95518,
+        "sum_tokens": 1944,
+        "document_paths": [
+            "Education-Systems\\education-in-greece",
+            "Education-Systems\\education-in-india",
+            "Education-Systems\\education-in-china",
+            "Education-Systems\\education-in-germany"
+        ]
+    },
+    {
+        "topic": "Education-Systems",
+        "name": "Education-Systems (Bin: 1)",
+        "doc_tokens": 97606,
+        "sum_tokens": 3344,
+        "document_paths": [
+            "Education-Systems\\education-in-the-united-states",
+            "Education-Systems\\education-in-the-philippines",
+            "Education-Systems\\education-in-malaysia",
+            "Education-Systems\\education-in-romania",
+            "Education-Systems\\education-in-australia",
+            "Education-Systems\\education-in-portugal",
+            "Education-Systems\\education-in-south-africa",
+            "Education-Systems\\education-in-finland"
+        ]
+    },
+    {
+        "topic": "Education-Systems",
+        "name": "Education-Systems (Bin: 2)",
+        "doc_tokens": 92461,
+        "sum_tokens": 4487,
+        "document_paths": [
+            "Education-Systems\\education-in-pakistan",
+            "Education-Systems\\education-in-russia",
+            "Education-Systems\\education-in-south-korea",
+            "Education-Systems\\education-in-the-netherlands",
+            "Education-Systems\\education-in-japan",
+            "Education-Systems\\education-in-mexico",
+            "Education-Systems\\education-in-new-zealand",
+            "Education-Systems\\education-in-saudi-arabia",
+            "Education-Systems\\education-in-bangladesh",
+            "Education-Systems\\education-in-canada",
+            "Education-Systems\\education-in-the-czech-republic",
+            "Education-Systems\\education-in-poland"
+        ]
+    },
+    {
+        "topic": "Education-Systems",
+        "name": "Education-Systems (Bin: 3)",
+        "doc_tokens": 93818,
+        "sum_tokens": 5207,
+        "document_paths": [
+            "Education-Systems\\education-in-sweden",
+            "Education-Systems\\education-in-hong-kong",
+            "Education-Systems\\education-in-ghana",
+            "Education-Systems\\education-in-england",
+            "Education-Systems\\education-in-france",
+            "Education-Systems\\education-in-turkey",
+            "Education-Systems\\education-in-iran",
+            "Education-Systems\\education-in-taiwan",
+            "Education-Systems\\education-in-nigeria",
+            "Education-Systems\\education-in-the-republic-of-ireland",
+            "Education-Systems\\education-in-israel",
+            "Education-Systems\\education-in-sri-lanka",
+            "Education-Systems\\education-in-egypt",
+            "Education-Systems\\education-in-indonesia",
+            "Education-Systems\\education-in-armenia",
+            "Education-Systems\\education-in-norway"
+        ]
+    },
+    {
+        "topic": "Neural-Network-Architectures",
+        "name": "Neural-Network-Architectures",
+        "doc_tokens": 90659,
+        "sum_tokens": 3461,
+        "document_paths": [
+            "Neural-Network-Architectures\\generative-adversarial-network",
+            "Neural-Network-Architectures\\transformer-deep-learning",
+            "Neural-Network-Architectures\\convolutional-neural-network",
+            "Neural-Network-Architectures\\hopfield-network",
+            "Neural-Network-Architectures\\recurrent-neural-network",
+            "Neural-Network-Architectures\\radial-basis-function-network",
+            "Neural-Network-Architectures\\autoencoder",
+            "Neural-Network-Architectures\\graph-neural-network",
+            "Neural-Network-Architectures\\variational-autoencoder",
+            "Neural-Network-Architectures\\class-activation-mapping",
+            "Neural-Network-Architectures\\vision-transformer",
+            "Neural-Network-Architectures\\wasserstein-gan"
+        ]
+    },
+    {
+        "topic": "Scholarships",
+        "name": "Scholarships",
+        "doc_tokens": 91155,
+        "sum_tokens": 5093,
+        "document_paths": [
+            "Scholarships\\edmund-s-muskie-internship-program",
+            "Scholarships\\marshall-scholarship",
+            "Scholarships\\miss-america",
+            "Scholarships\\fulbright-program",
+            "Scholarships\\british-council",
+            "Scholarships\\rhodes-scholarship",
+            "Scholarships\\margaret-busby-new-daughters-of-africa-award",
+            "Scholarships\\harkness-fellowship",
+            "Scholarships\\shuping-scholarship",
+            "Scholarships\\studienstiftung",
+            "Scholarships\\thurgood-marshall-college-fund",
+            "Scholarships\\uncf",
+            "Scholarships\\bolashak",
+            "Scholarships\\national-merit-scholarship-program",
+            "Scholarships\\bright-futures-scholarship-program",
+            "Scholarships\\kennedy-scholarship",
+            "Scholarships\\norway-scholarship",
+            "Scholarships\\kings-scholar"
+        ]
+    },
+    {
+        "topic": "Universities",
+        "name": "Universities (Bin: 0)",
+        "doc_tokens": 92163,
+        "sum_tokens": 3213,
+        "document_paths": [
+            "Universities\\university-of-cambridge",
+            "Universities\\university-of-pennsylvania",
+            "Universities\\yale-university",
+            "Universities\\university-of-edinburgh",
+            "Universities\\princeton-university",
+            "Universities\\university-college-london"
+        ]
+    },
+    {
+        "topic": "Universities",
+        "name": "Universities (Bin: 1)",
+        "doc_tokens": 99448,
+        "sum_tokens": 3071,
+        "document_paths": [
+            "Universities\\kings-college-london",
+            "Universities\\massachusetts-institute-of-technology",
+            "Universities\\california-institute-of-technology",
+            "Universities\\university-of-california-berkeley",
+            "Universities\\stanford-university",
+            "Universities\\tsinghua-university",
+            "Universities\\zhejiang-university",
+            "Universities\\university-of-chicago"
+        ]
+    },
+    {
+        "topic": "Universities",
+        "name": "Universities (Bin: 2)",
+        "doc_tokens": 95419,
+        "sum_tokens": 3461,
+        "document_paths": [
+            "Universities\\university-of-melbourne",
+            "Universities\\university-of-british-columbia",
+            "Universities\\university-of-oxford",
+            "Universities\\university-of-toronto",
+            "Universities\\federal-university-of-rio-de-janeiro",
+            "Universities\\cornell-university",
+            "Universities\\national-university-of-singapore",
+            "Universities\\university-of-hong-kong",
+            "Universities\\university-of-new-south-wales",
+            "Universities\\national-autonomous-university-of-mexico"
+        ]
+    },
+    {
+        "topic": "Universities",
+        "name": "Universities (Bin: 3)",
+        "doc_tokens": 93028,
+        "sum_tokens": 4414,
+        "document_paths": [
+            "Universities\\university-of-sydney",
+            "Universities\\university-of-auckland",
+            "Universities\\university-of-manchester",
+            "Universities\\state-university-of-campinas",
+            "Universities\\university-of-western-ontario",
+            "Universities\\imperial-college-london",
+            "Universities\\lund-university",
+            "Universities\\university-of-jordan",
+            "Universities\\boston-college",
+            "Universities\\harvard-university",
+            "Universities\\peking-university",
+            "Universities\\royal-melbourne-institute-of-technology",
+            "Universities\\sao-paulo-state-university",
+            "Universities\\university-of-the-andes-colombia"
+        ]
+    }
+]

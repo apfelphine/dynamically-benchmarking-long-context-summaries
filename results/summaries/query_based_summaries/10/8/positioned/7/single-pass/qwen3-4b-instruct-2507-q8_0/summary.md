@@ -1,0 +1,8 @@
+**Education in Nigeria**  
+Nigeria's education system is structured into basic, secondary, and tertiary levels. Basic education spans 9 years (ages 4–14), comprising kindergarten, primary, and junior secondary school, with free and compulsory education. The curriculum includes core subjects like English, Mathematics, and Islamic or Christian Religious Knowledge, along with indigenous languages. Students take the Senior Secondary Certificate Examination (SSCE) at the end of junior secondary school, which is a prerequisite for tertiary education.  
+
+Secondary education lasts 3 years (ages 14–17) and includes a mix of academic and vocational tracks. Federal and state schools are government-funded, while private schools charge high fees and offer smaller class sizes and better facilities. Admission to universities is based on SSCE results, with a minimum of 5 O-level credits required.  
+
+Tertiary education includes public and private universities, polytechnics, and colleges of education. There are over 150 universities, with public institutions offering free education and private ones charging fees. Most undergraduate programs last 3–5 years, with engineering and medicine taking longer.  
+
+The system faces challenges such as teacher shortages, poor infrastructure, and regional disparities. Female education is improving, though gender-based barriers persist. Literacy remains a concern, with a national rate of 62.02% in 2018, and efforts are ongoing to improve access through government programs and digital literacy initiatives. The government has prioritized education, with policies aimed at reducing illiteracy and expanding access to quality education.

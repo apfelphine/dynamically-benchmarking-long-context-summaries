@@ -1,0 +1,37 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Legends of Computing, Mathematics, and Decision-Making\n## Mathematical and Logical Foundations\nThe evolution of logic and computing began with **Gottlob Frege\u2019s** formalization of predicate logic ( *Begriffsschrift* , 1879) and **Al-Khwarizmi\u2019s** algebraic innovations (9th century), which introduced the Hindu-Arabic numeral system. **George Boole\u2019s** Boolean algebra (1847) and **Claude Shannon\u2019s** foundational work on communication theory (1948) laid the groundwork for digital systems. Meanwhile, **Kurt G\u00f6del\u2019s** Incompleteness Theorems (1931) redefined formal systems, while **Donald Knuth\u2019s** contributions\u2014including *The Art of Computer Programming* and **literate programming** \u2014expanded both technical and recreational mathematics.",
+        "text_original": "The evolution of logic and computing began with **Gottlob Frege\u2019s** formalization of predicate logic (*Begriffsschrift*, 1879) and **Al-Khwarizmi\u2019s** algebraic innovations (9th century), which introduced the Hindu-Arabic numeral system. **George Boole\u2019s** Boolean algebra (1847) and **Claude Shannon\u2019s** foundational work on communication theory (1948) laid the groundwork for digital systems. Meanwhile, **Kurt G\u00f6del\u2019s** Incompleteness Theorems (1931) redefined formal systems, while **Donald Knuth\u2019s** contributions\u2014including *The Art of Computer Programming* and **literate programming**\u2014expanded both technical and recreational mathematics",
+        "idx_start": 110,
+        "idx_end": 753
+    },
+    {
+        "document_idx": null,
+        "text": "# Legends of Computing, Mathematics, and Decision-Making\n## Technological and Interdisciplinary Breakthroughs\n**Grace Hopper** standardized computing languages with **COBOL** , while **Federico Faggin** pioneered silicon gate technology, enabling microprocessors like the **Intel 4004** . **Jacek Karpi\u0144ski** \u2019s Cold War-era computing work, including the **K-202** minicomputer, reflects resilience under constraints. **Per Brinch Hansen\u2019s** monitors and **Kenneth E. Iverson\u2019s** **APL** defined modern concurrency and high-level programming. **Ismail al-Jazari\u2019s** 12th-century automata and **Lynn Conway\u2019s** VLSI design (Mead\u2013Conway methodology) bridge engineering and social innovation, with Conway also advocating for transgender rights.",
+        "text_original": "Grace Hopper** standardized computing languages with **COBOL**, while **Federico Faggin** pioneered silicon gate technology, enabling microprocessors like the **Intel 4004**. **Jacek Karpi\u0144ski**\u2019s Cold War-era computing work, including the **K-202** minicomputer, reflects resilience under constraints. **Per Brinch Hansen\u2019s** monitors and **Kenneth E. Iverson\u2019s** **APL** defined modern concurrency and high-level programming. **Ismail al-Jazari\u2019s** 12th-century automata and **Lynn Conway\u2019s** VLSI design (Mead\u2013Conway methodology) bridge engineering and social innovation, with Conway also advocating for transgender rights",
+        "idx_start": 817,
+        "idx_end": 1442
+    },
+    {
+        "document_idx": null,
+        "text": "# Legends of Computing, Mathematics, and Decision-Making\n## AI, Ethics, and Decision Science\n**Herbert A. Simon\u2019s** *bounded rationality* (1947) revolutionized decision-making under cognitive limits, earning him the **Nobel Prize (1978)** . **Geoffrey Hinton\u2019s** deep learning advancements (backpropagation, 1986) reshaped AI, while his warnings about **existential risks** (e.g., 10\u201320% chance of human extinction by 2050) spurred calls for **AI safety regulations** , such as California\u2019s 2024 bill. His support for **universal basic income** and **analog intelligence** underscores broader ethical debates. **Ramon Llull\u2019s** medieval *Ars Magna* (13th century) merged logic, theology, and combinatorial systems, influencing Renaissance electoral methods.",
+        "text_original": "Herbert A. Simon\u2019s** *bounded rationality* (1947) revolutionized decision-making under cognitive limits, earning him the **Nobel Prize (1978)**. **Geoffrey Hinton\u2019s** deep learning advancements (backpropagation, 1986) reshaped AI, while his warnings about **existential risks** (e.g., 10\u201320% chance of human extinction by 2050) spurred calls for **AI safety regulations**, such as California\u2019s 2024 bill. His support for **universal basic income** and **analog intelligence** underscores broader ethical debates. **Ramon Llull\u2019s** medieval *Ars Magna* (13th century) merged logic, theology, and combinatorial systems, influencing Renaissance electoral methods",
+        "idx_start": 1489,
+        "idx_end": 2148
+    },
+    {
+        "document_idx": null,
+        "text": "# Legends of Computing, Mathematics, and Decision-Making\n## Avant-Garde Intersections\n**George Antheil** merged art and technology with *Ballet M\u00e9canique* (1924) and co-invented **frequency-hopping radio** (1942), a precursor to modern encryption. His interdisciplinary work exemplifies how **art, music, and engineering** converge to drive innovation. Meanwhile, **Hinton\u2019s** collaboration with **Hedy Lamarr** on radio technology and **Conway\u2019s** telepresence systems highlight how **social advocacy** intersects with technical progress.",
+        "text_original": "George Antheil** merged art and technology with *Ballet M\u00e9canique* (1924) and co-invented **frequency-hopping radio** (1942), a precursor to modern encryption. His interdisciplinary work exemplifies how **art, music, and engineering** converge to drive innovation. Meanwhile, **Hinton\u2019s** collaboration with **Hedy Lamarr** on radio technology and **Conway\u2019s** telepresence systems highlight how **social advocacy** intersects with technical progress",
+        "idx_start": 2188,
+        "idx_end": 2638
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Themes\n- **Mathematics & Logic:** From Frege and G\u00f6del to Knuth\u2019s formal systems, these pillars underpin computing, AI, and theoretical frameworks.\n- **AI Ethics & Regulation:** Hinton\u2019s warnings align with emerging policies, emphasizing **safety, transparency, and existential risk mitigation** .\n- **Technological & Social Innovation:** Conway\u2019s VLSI work and al-Jazari\u2019s automata demonstrate how **engineering and advocacy** shape both industry and society.\n- **Interdisciplinary Fusion:** Antheil\u2019s avant-garde art-tech fusion and Llull\u2019s medieval logic reflect how **cross-disciplinary approaches** drive transformative breakthroughs.",
+        "text_original": "Mathematics & Logic:** From Frege and G\u00f6del to Knuth\u2019s formal systems, these pillars underpin computing, AI, and theoretical frameworks.\n- **AI Ethics & Regulation:** Hinton\u2019s warnings align with emerging policies, emphasizing **safety, transparency, and existential risk mitigation**.\n- **Technological & Social Innovation:** Conway\u2019s VLSI work and al-Jazari\u2019s automata demonstrate how **engineering and advocacy** shape both industry and society.\n- **Interdisciplinary Fusion:** Antheil\u2019s avant-garde art-tech fusion and Llull\u2019s medieval logic reflect how **cross-disciplinary approaches** drive transformative breakthroughs",
+        "idx_start": 2668,
+        "idx_end": 3294
+    }
+]

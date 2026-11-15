@@ -1,0 +1,394 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Jacek Karpi\u0144ski\n### Family and Wartime:\nBorn in 1927 into a family of mountaineers and engineers, Karpi\u0144ski endured early loss (father killed in the Himalayas) and serious injury during World War II, where he served in the Polish resistance and the Warsaw Uprising, earning multiple valor awards despite lasting health impacts.",
+        "text_original": "Born in 1927 into a family of mountaineers and engineers, Karpi\u0144ski endured early loss (father killed in the Himalayas) and serious injury during World War II, where he served in the Polish resistance and the Warsaw Uprising, earning multiple valor awards despite lasting health impacts",
+        "idx_start": 70,
+        "idx_end": 356
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Jacek Karpi\u0144ski\n### Post-war Engineering Achievements:\nAfter rapid educational advancement, he became a significant figure in Polish computing. Notable inventions include the AAH harmonic analyzer, AKAT-1\u2014the world\u2019s first transistor-based differential equations analyzer\u2014and later, the perceptron (an early neural net). He led teams on advanced scanner and computer projects, notably building KAR-65, Poland's fastest computer, and pioneering the modular, microchip-based K-202 minicomputer, whose production was curtailed by political and institutional opposition.",
+        "text_original": "After rapid educational advancement, he became a significant figure in Polish computing. Notable inventions include the AAH harmonic analyzer, AKAT-1\u2014the world\u2019s first transistor-based differential equations analyzer\u2014and later, the perceptron (an early neural net). He led teams on advanced scanner and computer projects, notably building KAR-65, Poland's fastest computer, and pioneering the modular, microchip-based K-202 minicomputer, whose production was curtailed by political and institutional opposition",
+        "idx_start": 400,
+        "idx_end": 910
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Jacek Karpi\u0144ski\n### Later Life and Recognition:\nFollowing setbacks, Karpi\u0144ski left the field, returned intermittently, and continued to invent, though his commercial ventures failed. He was honored posthumously with Poland\u2019s Commander's Cross of Polonia Restituta.",
+        "text_original": "Following setbacks, Karpi\u0144ski left the field, returned intermittently, and continued to invent, though his commercial ventures failed. He was honored posthumously with Poland\u2019s Commander's Cross of Polonia Restituta",
+        "idx_start": 947,
+        "idx_end": 1162
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Jacek Karpi\u0144ski\n### Controversies:\nRevelations emerged about his cooperation with Communist intelligence in collecting technical data. The trajectory of his career remains debated, with supporters arguing administrative sabotage prevented modernization, while critics highlight ambiguous technological claims and context challenges.",
+        "text_original": "Revelations emerged about his cooperation with Communist intelligence in collecting technical data. The trajectory of his career remains debated, with supporters arguing administrative sabotage prevented modernization, while critics highlight ambiguous technological claims and context challenges",
+        "idx_start": 1186,
+        "idx_end": 1482
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Kenneth E. Iverson\n### Education and Life:\nIverson (1920\u20132004), raised on a Canadian farm, overcame educational obstacles to earn advanced degrees from Queen\u2019s University and Harvard, where he worked with computer pioneers like Howard Aiken.",
+        "text_original": "Iverson (1920\u20132004), raised on a Canadian farm, overcame educational obstacles to earn advanced degrees from Queen\u2019s University and Harvard, where he worked with computer pioneers like Howard Aiken",
+        "idx_start": 1539,
+        "idx_end": 1736
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Kenneth E. Iverson\n### Programming Language Innovations:\nIverson\u2019s work established foundational notations for expressing computation, evolving into the influential APL programming language. At IBM, he contributed to notation and implementations that advanced interactive and analytic computing. Iverson\u2019s partnerships with Adin Falkoff and others at IBM resulted in the iconic APL/360 system. Later, at I.P. Sharp Associates and Jsoftware, he continued refining array-centric programming, culminating in the J programming language after retirement.",
+        "text_original": "Iverson\u2019s work established foundational notations for expressing computation, evolving into the influential APL programming language. At IBM, he contributed to notation and implementations that advanced interactive and analytic computing. Iverson\u2019s partnerships with Adin Falkoff and others at IBM resulted in the iconic APL/360 system. Later, at I.P. Sharp Associates and Jsoftware, he continued refining array-centric programming, culminating in the J programming language after retirement",
+        "idx_start": 1779,
+        "idx_end": 2270
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Kenneth E. Iverson\n### Legacy:\nHis concepts underpin contemporary approaches in data science and programming notation. Awards include the Turing Award, IBM Fellowship, and multiple honorary degrees.",
+        "text_original": "His concepts underpin contemporary approaches in data science and programming notation. Awards include the Turing Award, IBM Fellowship, and multiple honorary degrees",
+        "idx_start": 2288,
+        "idx_end": 2454
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Federico Faggin\n### Early Career and Technology Innovation:\nItalian-born Faggin, educated in physics, pioneered MOS silicon-gate technology (SGT) at Fairchild Semiconductor, revolutionizing the speed and efficiency of integrated circuits, and enabling practical MOS memory and microprocessors.",
+        "text_original": "Italian-born Faggin, educated in physics, pioneered MOS silicon-gate technology (SGT) at Fairchild Semiconductor, revolutionizing the speed and efficiency of integrated circuits, and enabling practical MOS memory and microprocessors",
+        "idx_start": 2528,
+        "idx_end": 2760
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Federico Faggin\n### Major Contributions:\nAt Intel, Faggin led projects producing the world\u2019s first microprocessor (4004), and subsequent chips (4040, 8008, 8080), introducing key methods like \"buried contacts.\" At Zilog, he designed the Z80\u2014an advanced microprocessor foundational to early personal computing. Later, he founded Synaptics (creating touchpads and displays), led Foveon in innovative imaging, and established the Faggin Foundation to advance consciousness research.",
+        "text_original": "At Intel, Faggin led projects producing the world\u2019s first microprocessor (4004), and subsequent chips (4040, 8008, 8080), introducing key methods like \"buried contacts.\" At Zilog, he designed the Z80\u2014an advanced microprocessor foundational to early personal computing. Later, he founded Synaptics (creating touchpads and displays), led Foveon in innovative imaging, and established the Faggin Foundation to advance consciousness research",
+        "idx_start": 2790,
+        "idx_end": 3227
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Federico Faggin\n### Theory of Consciousness:\nIn recent years, Faggin proposed a quantum-based theory of consciousness, aligning quantum privacy with subjective experience, arguing classical machines cannot be conscious.",
+        "text_original": "In recent years, Faggin proposed a quantum-based theory of consciousness, aligning quantum privacy with subjective experience, arguing classical machines cannot be conscious",
+        "idx_start": 3261,
+        "idx_end": 3434
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Federico Faggin\n### Recognition:\nFaggin received prestigious awards (Marconi, McDowell, Kyoto, National Medal of Technology, and more) for his groundbreaking engineering and theoretical work.",
+        "text_original": "Faggin received prestigious awards (Marconi, McDowell, Kyoto, National Medal of Technology, and more) for his groundbreaking engineering and theoretical work",
+        "idx_start": 3456,
+        "idx_end": 3613
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## George Boole\n### Mathematical and Logical Foundations:\nBoole (1815\u20131864) was self-taught, advancing from modest origins to Professor of Mathematics at Queen\u2019s College Cork. His key works established symbolic logic (Boolean algebra), linking logical reasoning with algebraic manipulation.",
+        "text_original": "Boole (1815\u20131864) was self-taught, advancing from modest origins to Professor of Mathematics at Queen\u2019s College Cork. His key works established symbolic logic (Boolean algebra), linking logical reasoning with algebraic manipulation",
+        "idx_start": 3682,
+        "idx_end": 3913
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## George Boole\n### Major Works and Legacy:\nHe produced foundational works in differential equations and probability, but is most noted for Boolean logic, which underpins digital computer design and theoretical computer science, as highlighted by Claude Shannon\u2019s later integration in circuit theory.",
+        "text_original": "He produced foundational works in differential equations and probability, but is most noted for Boolean logic, which underpins digital computer design and theoretical computer science, as highlighted by Claude Shannon\u2019s later integration in circuit theory",
+        "idx_start": 3946,
+        "idx_end": 4201
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## George Boole\n### Influence and Family:\nBoole\u2019s family included figures influential in mathematics and computer science (notably Geoffrey Hinton). His ideas, controversial in their time, ultimately formed the backbone of logic, computation, and modern information theory.",
+        "text_original": "Boole\u2019s family included figures influential in mathematics and computer science (notably Geoffrey Hinton). His ideas, controversial in their time, ultimately formed the backbone of logic, computation, and modern information theory",
+        "idx_start": 4232,
+        "idx_end": 4462
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Grace Hopper\n### Early Life and Military Career:\nGrace Hopper (1906\u20131992), an accomplished mathematician, was a groundbreaking Navy officer and computer scientist. She contributed to the early development of programming, serving on teams for the Mark series computers during WWII.",
+        "text_original": "Grace Hopper (1906\u20131992), an accomplished mathematician, was a groundbreaking Navy officer and computer scientist. She contributed to the early development of programming, serving on teams for the Mark series computers during WWII",
+        "idx_start": 4525,
+        "idx_end": 4755
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Grace Hopper\n### Key Contributions:\nHopper invented the first compiler (A-0), influenced the development of COBOL, and advocated for programming languages accessible to non-specialists. She held leadership roles in standardizing and validating programming languages for the U.S. military.",
+        "text_original": "Hopper invented the first compiler (A-0), influenced the development of COBOL, and advocated for programming languages accessible to non-specialists. She held leadership roles in standardizing and validating programming languages for the U.S. military",
+        "idx_start": 4783,
+        "idx_end": 5034
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Grace Hopper\n### Legacy and Honors:\nKnown as \"Grandma COBOL,\" Hopper popularized \"debugging\" and inspired generations through teaching and public speaking. Her honors include the Presidential Medal of Freedom, the naming of the USS Hopper, and numerous awards, buildings, and conferences bearing her name.",
+        "text_original": "Known as \"Grandma COBOL,\" Hopper popularized \"debugging\" and inspired generations through teaching and public speaking. Her honors include the Presidential Medal of Freedom, the naming of the USS Hopper, and numerous awards, buildings, and conferences bearing her name",
+        "idx_start": 5062,
+        "idx_end": 5330
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ramon Llull\n### Life and Works:\nCatalan polymath Ramon Llull (c.1232\u20131316) was a mystic, missionary, and prolific writer. Inspired by religious visions, he developed the \"Art,\" a universal combinatorial logical system, aiming to prove religious truths through rational, symbolic reasoning\u2014a precursor to algorithmic and computational thinking.",
+        "text_original": "Catalan polymath Ramon Llull (c.1232\u20131316) was a mystic, missionary, and prolific writer. Inspired by religious visions, he developed the \"Art,\" a universal combinatorial logical system, aiming to prove religious truths through rational, symbolic reasoning\u2014a precursor to algorithmic and computational thinking",
+        "idx_start": 5376,
+        "idx_end": 5686
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ramon Llull\n### Influence:\nLlull's works influenced medieval logic, memory techniques, and early modern encyclopedism, and inspired later thinkers such as Leibniz and Nicholas of Cusa. Though met with resistance, his ideas contributed to systems theory, voting methods, and early concepts of computation, and are referenced in modern scholarship and culture.",
+        "text_original": "Llull's works influenced medieval logic, memory techniques, and early modern encyclopedism, and inspired later thinkers such as Leibniz and Nicholas of Cusa. Though met with resistance, his ideas contributed to systems theory, voting methods, and early concepts of computation, and are referenced in modern scholarship and culture",
+        "idx_start": 5706,
+        "idx_end": 6036
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Gottlob Frege\n### Foundational Work in Logic and Philosophy:\nFrege (1848\u20131925) revolutionized logic, developing predicate logic and quantification, and intended to prove mathematics as a branch of logic (logicism). His *Begriffsschrift* and later works introduced formal systems that underpin modern logic, mathematics, and philosophy.",
+        "text_original": "Frege (1848\u20131925) revolutionized logic, developing predicate logic and quantification, and intended to prove mathematics as a branch of logic (logicism). His *Begriffsschrift* and later works introduced formal systems that underpin modern logic, mathematics, and philosophy",
+        "idx_start": 6111,
+        "idx_end": 6384
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Gottlob Frege\n### Sense and Reference:\nFrege distinguished \"sense\" (mode of presentation) and \"reference\" (object or truth value), deeply influencing analytic philosophy and the study of meaning.",
+        "text_original": "Frege distinguished \"sense\" (mode of presentation) and \"reference\" (object or truth value), deeply influencing analytic philosophy and the study of meaning",
+        "idx_start": 6414,
+        "idx_end": 6569
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Gottlob Frege\n### Legacy and Controversies:\nThough his system was affected by Russell\u2019s Paradox, much of his logic persists through subsequent foundational work. Frege's influence spans logic, linguistics, and philosophy, although late in life he expressed reactionary and antisemitic views.",
+        "text_original": "Though his system was affected by Russell\u2019s Paradox, much of his logic persists through subsequent foundational work. Frege's influence spans logic, linguistics, and philosophy, although late in life he expressed reactionary and antisemitic views",
+        "idx_start": 6604,
+        "idx_end": 6850
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## George Antheil\n### Avant-Garde Composer and Inventor:\nGeorge Antheil (1900\u20131959), American composer and author, is known for his radical \"Ballet M\u00e9canique\" and other mechanical-inspired musical works, which incited public disturbances in 1920s Paris. He later wrote for Hollywood films and diverse genres.",
+        "text_original": "George Antheil (1900\u20131959), American composer and author, is known for his radical \"Ballet M\u00e9canique\" and other mechanical-inspired musical works, which incited public disturbances in 1920s Paris. He later wrote for Hollywood films and diverse genres",
+        "idx_start": 6918,
+        "idx_end": 7168
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## George Antheil\n### Frequency-Hopping Patent:\nIn WWII, collaborating with Hedy Lamarr, Antheil co-invented and patented frequency-hopping technology for secure torpedo guidance, which pioneered ideas foundational to modern wireless communication (Bluetooth, Wi-Fi), though not adopted until decades later.",
+        "text_original": "In WWII, collaborating with Hedy Lamarr, Antheil co-invented and patented frequency-hopping technology for secure torpedo guidance, which pioneered ideas foundational to modern wireless communication (Bluetooth, Wi-Fi), though not adopted until decades later",
+        "idx_start": 7203,
+        "idx_end": 7461
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## George Antheil\n### Other Interests:\nAntheil explored topics from endocrinology to crime, wrote widely, and remains a notable figure in 20th-century music and technology innovation.",
+        "text_original": "Antheil explored topics from endocrinology to crime, wrote widely, and remains a notable figure in 20th-century music and technology innovation",
+        "idx_start": 7487,
+        "idx_end": 7630
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Al-Khwarizmi\n### Foundational Mathematician:\nAl-Khwarizmi (c.780\u2013c.850), Persian scholar at Baghdad\u2019s House of Wisdom, systematized algebra (the term derives from his work), unified approaches to arithmetic, introduced algorithms, and advanced astronomy and geography.",
+        "text_original": "Al-Khwarizmi (c.780\u2013c.850), Persian scholar at Baghdad\u2019s House of Wisdom, systematized algebra (the term derives from his work), unified approaches to arithmetic, introduced algorithms, and advanced astronomy and geography",
+        "idx_start": 7689,
+        "idx_end": 7911
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Al-Khwarizmi\n### Major Achievements:\nHis treatises defined arithmetic with Hindu\u2014Arabic numerals, improved astronomical tables, produced early trigonometric tables, and corrected geographic maps. His methods deeply impacted the later mathematical and scientific development of Europe.",
+        "text_original": "His treatises defined arithmetic with Hindu\u2014Arabic numerals, improved astronomical tables, produced early trigonometric tables, and corrected geographic maps. His methods deeply impacted the later mathematical and scientific development of Europe",
+        "idx_start": 7940,
+        "idx_end": 8186
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Al-Khwarizmi\n### Legacy:\nAl-Khwarizmi\u2019s name is the root of \u201calgorithm.\u201d Craters, asteroids, and awards commemorate his influence on mathematics and computing.",
+        "text_original": "Al-Khwarizmi\u2019s name is the root of \u201calgorithm.\u201d Craters, asteroids, and awards commemorate his influence on mathematics and computing",
+        "idx_start": 8203,
+        "idx_end": 8336
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Geoffrey Hinton\n### Pioneer of Neural Networks:\nGeoffrey Hinton, British-Canadian cognitive psychologist and computer scientist, led the development of deep learning and neural networks, co-inventing backpropagation, Boltzmann machines, and capsule networks. He\u2019s a co-founder of DNNresearch and key figure in CIFAR\u2019s AI programs.",
+        "text_original": "Geoffrey Hinton, British-Canadian cognitive psychologist and computer scientist, led the development of deep learning and neural networks, co-inventing backpropagation, Boltzmann machines, and capsule networks. He\u2019s a co-founder of DNNresearch and key figure in CIFAR\u2019s AI programs",
+        "idx_start": 8398,
+        "idx_end": 8679
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Geoffrey Hinton\n### Current Research and Philosophical Views:\nHinton is actively exploring limitations of neural nets (hierarchical representations, recursion, self-organization), and has proposed novel learning algorithms (e.g., Forward-Forward). He is a strong advocate for analog and edge computing, and explores philosophical questions about intelligence and consciousness.",
+        "text_original": "Hinton is actively exploring limitations of neural nets (hierarchical representations, recursion, self-organization), and has proposed novel learning algorithms (e.g., Forward-Forward). He is a strong advocate for analog and edge computing, and explores philosophical questions about intelligence and consciousness",
+        "idx_start": 8730,
+        "idx_end": 9044
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Geoffrey Hinton\n### Concerns about AI Risk:\nHinton increasingly warns of AI\u2019s existential threats (\"AI takeover\"), risks of misuse, and impacts on employment and society, calling for regulatory safeguards.",
+        "text_original": "Hinton increasingly warns of AI\u2019s existential threats (\"AI takeover\"), risks of misuse, and impacts on employment and society, calling for regulatory safeguards",
+        "idx_start": 9077,
+        "idx_end": 9237
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Geoffrey Hinton\n### Recognition:\nHinton received the Turing Award (2018), Nobel Prize in Physics (2024), and numerous other honors, and is a descendant of George Boole.",
+        "text_original": "Hinton received the Turing Award (2018), Nobel Prize in Physics (2024), and numerous other honors, and is a descendant of George Boole",
+        "idx_start": 9259,
+        "idx_end": 9393
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Per Brinch Hansen\n### Operating Systems and Concurrency Pioneer:\nDanish computer scientist Per Brinch Hansen (1938\u20132007) contributed foundational concepts to operating systems, concurrent and distributed programming. At Regnecentralen, he designed the RC 4000 multiprogramming system\u2014one of the first operating system kernels\u2014to separate mechanism and policy, influencing microkernel architecture.",
+        "text_original": "Danish computer scientist Per Brinch Hansen (1938\u20132007) contributed foundational concepts to operating systems, concurrent and distributed programming. At Regnecentralen, he designed the RC 4000 multiprogramming system\u2014one of the first operating system kernels\u2014to separate mechanism and policy, influencing microkernel architecture",
+        "idx_start": 9472,
+        "idx_end": 9803
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Per Brinch Hansen\n### Programming Languages and Concurrent Computing:\nHe co-invented monitors (with Tony Hoare), invented Concurrent Pascal (the first concurrent programming language), and advocated for formally verified, clear, minimal designs (\u201crelentless search for simplicity\u201d). His later work included distributed language (Joyce) and paradigms for parallel scientific computing.",
+        "text_original": "He co-invented monitors (with Tony Hoare), invented Concurrent Pascal (the first concurrent programming language), and advocated for formally verified, clear, minimal designs (\u201crelentless search for simplicity\u201d). His later work included distributed language (Joyce) and paradigms for parallel scientific computing",
+        "idx_start": 9860,
+        "idx_end": 10173
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Per Brinch Hansen\n### Legacy:\nBrinch Hansen authored pioneering textbooks and essays, shaping operating system and concurrent programming theory and practice. He was honored with the IEEE Computer Pioneer Award.",
+        "text_original": "Brinch Hansen authored pioneering textbooks and essays, shaping operating system and concurrent programming theory and practice. He was honored with the IEEE Computer Pioneer Award",
+        "idx_start": 10190,
+        "idx_end": 10370
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ismail al-Jazari\n### Engineer and Inventor of Automatons:\nAl-Jazari (1136\u20131206), an engineer for the Artuqid dynasty, authored *Book of Knowledge of Ingenious Mechanical Devices* , documenting advanced water-raising machines, clocks, and automata.",
+        "text_original": "Al-Jazari (1136\u20131206), an engineer for the Artuqid dynasty, authored *Book of Knowledge of Ingenious Mechanical Devices*, documenting advanced water-raising machines, clocks, and automata",
+        "idx_start": 10442,
+        "idx_end": 10629
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ismail al-Jazari\n### Mechanics and Design Innovations:\nHe pioneered mechanisms including the crankshaft, camshaft, segmental gear, conical valve, and escapement. His automata\u2014such as drink-serving robots, musical robots, and flush mechanisms\u2014predated many modern mechanical devices.",
+        "text_original": "He pioneered mechanisms including the crankshaft, camshaft, segmental gear, conical valve, and escapement. His automata\u2014such as drink-serving robots, musical robots, and flush mechanisms\u2014predated many modern mechanical devices",
+        "idx_start": 10672,
+        "idx_end": 10898
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ismail al-Jazari\n### Legacy:\nAl-Jazari is celebrated for both artistry and engineering, and is considered influential in the development of robotics, automatic controls, and mechanical engineering.",
+        "text_original": "Al-Jazari is celebrated for both artistry and engineering, and is considered influential in the development of robotics, automatic controls, and mechanical engineering",
+        "idx_start": 10915,
+        "idx_end": 11082
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Herbert A. Simon\n### Interdisciplinary Scientist:\nHerbert Simon (1916\u20132001) impacted economics, psychology, artificial intelligence, and management science. He formulated \"bounded rationality\"\u2014decision-makers\u2019 limits of information and processing\u2014and developed theories on behavior in organizations.",
+        "text_original": "Herbert Simon (1916\u20132001) impacted economics, psychology, artificial intelligence, and management science. He formulated \"bounded rationality\"\u2014decision-makers\u2019 limits of information and processing\u2014and developed theories on behavior in organizations",
+        "idx_start": 11146,
+        "idx_end": 11394
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Herbert A. Simon\n### Artificial Intelligence and Cognitive Science:\nWith Newell, Simon created the first symbolic AI programs (Logic Theory Machine, GPS), developed models of learning and expertise (EPAM, CHREST), and predicted the advance of machine intelligence.",
+        "text_original": "With Newell, Simon created the first symbolic AI programs (Logic Theory Machine, GPS), developed models of learning and expertise (EPAM, CHREST), and predicted the advance of machine intelligence",
+        "idx_start": 11450,
+        "idx_end": 11645
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Herbert A. Simon\n### Recognition:\nSimon earned the Nobel Prize in Economics (1978), Turing Award (1975), and numerous honors, and contributed widely through books and papers on decision-making, organization, and cognitive processes.",
+        "text_original": "Simon earned the Nobel Prize in Economics (1978), Turing Award (1975), and numerous honors, and contributed widely through books and papers on decision-making, organization, and cognitive processes",
+        "idx_start": 11667,
+        "idx_end": 11864
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Kurt G\u00f6del\n### Logic and Foundations of Mathematics:\nG\u00f6del (1906\u20131978), Austrian-American mathematician, established his incompleteness theorems, proving any sufficiently powerful formal mathematical system contains true statements that cannot be proven within the system, revolutionizing mathematical logic.",
+        "text_original": "G\u00f6del (1906\u20131978), Austrian-American mathematician, established his incompleteness theorems, proving any sufficiently powerful formal mathematical system contains true statements that cannot be proven within the system, revolutionizing mathematical logic",
+        "idx_start": 11931,
+        "idx_end": 12185
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Kurt G\u00f6del\n### Later Work and Physical Theories:\nG\u00f6del also worked in set theory, demonstrating the consistency of the axiom of choice and continuum hypothesis (with respect to ZF set theory), and proposed cosmological solutions to Einstein\u2019s equations with closed timelike curves.",
+        "text_original": "G\u00f6del also worked in set theory, demonstrating the consistency of the axiom of choice and continuum hypothesis (with respect to ZF set theory), and proposed cosmological solutions to Einstein\u2019s equations with closed timelike curves",
+        "idx_start": 12228,
+        "idx_end": 12459
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Kurt G\u00f6del\n### Influence:\nG\u00f6del\u2019s work transformed logic, mathematics, physics, and philosophy, and is commemorated with multiple awards, lectures, and research societies.",
+        "text_original": "G\u00f6del\u2019s work transformed logic, mathematics, physics, and philosophy, and is commemorated with multiple awards, lectures, and research societies",
+        "idx_start": 12479,
+        "idx_end": 12623
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Edsger W. Dijkstra\n### Programming Language and Theory Pioneer:\nDutch scientist Edsger Dijkstra (1930\u20132002) was crucial in establishing programming as a mathematical discipline. He devised Dijkstra's algorithm (shortest path), contributed to operating systems (THE system), and invented semaphores and the Banker\u2019s algorithm for concurrency.",
+        "text_original": "Dutch scientist Edsger Dijkstra (1930\u20132002) was crucial in establishing programming as a mathematical discipline. He devised Dijkstra's algorithm (shortest path), contributed to operating systems (THE system), and invented semaphores and the Banker\u2019s algorithm for concurrency",
+        "idx_start": 12701,
+        "idx_end": 12977
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Edsger W. Dijkstra\n### Structured Programming Advocate:\nDijkstra\u2019s advocacy against unstructured code (\u201cGOTO statement considered harmful\u201d) and for formal methods fundamentally shifted programming practices. His prolific writings (EWD reports) highlighted clarity, simplicity, and mathematical thinking.",
+        "text_original": "Dijkstra\u2019s advocacy against unstructured code (\u201cGOTO statement considered harmful\u201d) and for formal methods fundamentally shifted programming practices. His prolific writings (EWD reports) highlighted clarity, simplicity, and mathematical thinking",
+        "idx_start": 13019,
+        "idx_end": 13265
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Edsger W. Dijkstra\n### Legacy:\nHe received the Turing Award and other major honors, influenced generations of computer scientists, and is remembered for both technical contributions and distinct personality.",
+        "text_original": "He received the Turing Award and other major honors, influenced generations of computer scientists, and is remembered for both technical contributions and distinct personality",
+        "idx_start": 13282,
+        "idx_end": 13457
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Lynn Conway\n### VLSI Design Revolution:\nLynn Conway (1938\u20132024) overcame discrimination after transitioning gender, and, at Xerox PARC, co-authored the Mead\u2013Conway methodology, which democratized VLSI chip design. She invented scalable design rules and the MOSIS rapid prototyping infrastructure, propelling the foundry and EDA industries.",
+        "text_original": "Lynn Conway (1938\u20132024) overcame discrimination after transitioning gender, and, at Xerox PARC, co-authored the Mead\u2013Conway methodology, which democratized VLSI chip design. She invented scalable design rules and the MOSIS rapid prototyping infrastructure, propelling the foundry and EDA industries",
+        "idx_start": 13511,
+        "idx_end": 13809
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Lynn Conway\n### Computer Science Advocacy and Transition:\nConway held roles at IBM, Memorex, PARC, DARPA, and University of Michigan, contributed to control systems, and advanced visual communications. She became a leader for transgender rights, mentor for others, and an outspoken critic of exclusionary practices.",
+        "text_original": "Conway held roles at IBM, Memorex, PARC, DARPA, and University of Michigan, contributed to control systems, and advanced visual communications. She became a leader for transgender rights, mentor for others, and an outspoken critic of exclusionary practices",
+        "idx_start": 13860,
+        "idx_end": 14116
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Lynn Conway\n### Honors:\nConway received many accolades (IEEE Fellow, National Academy of Engineering, Computer Pioneer Award), and her story is celebrated for both technological and social bravery.",
+        "text_original": "Conway received many accolades (IEEE Fellow, National Academy of Engineering, Computer Pioneer Award), and her story is celebrated for both technological and social bravery",
+        "idx_start": 14133,
+        "idx_end": 14305
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Claude Shannon\n### Father of Information Theory:\nClaude Shannon (1916\u20132001), American mathematician and engineer, revolutionized communication and computing by founding information theory. His master\u2019s thesis showed how Boolean algebra could model electronic circuits, forming the basis of digital computers.",
+        "text_original": "Claude Shannon (1916\u20132001), American mathematician and engineer, revolutionized communication and computing by founding information theory. His master\u2019s thesis showed how Boolean algebra could model electronic circuits, forming the basis of digital computers",
+        "idx_start": 14368,
+        "idx_end": 14626
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Claude Shannon\n### Key Work:\nHis landmark 1948 paper \"A Mathematical Theory of Communication\" defined ideas of bits, entropy, and coding, setting the stage for modern data compression and transmission. Shannon also contributed to cryptography, sampling theory, and artificial intelligence (e.g., designing the first learning maze-solving machine).",
+        "text_original": "His landmark 1948 paper \"A Mathematical Theory of Communication\" defined ideas of bits, entropy, and coding, setting the stage for modern data compression and transmission. Shannon also contributed to cryptography, sampling theory, and artificial intelligence (e.g., designing the first learning maze-solving machine",
+        "idx_start": 14645,
+        "idx_end": 14961
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Claude Shannon\n### Legacy:\nShannon\u2019s concepts underpin the digital age, with numerous honors (National Medal of Science, IEEE Medal of Honor) and commemorations. His methods, theories, and wit have left a profound mark on technology and science.",
+        "text_original": "Shannon\u2019s concepts underpin the digital age, with numerous honors (National Medal of Science, IEEE Medal of Honor) and commemorations. His methods, theories, and wit have left a profound mark on technology and science",
+        "idx_start": 14979,
+        "idx_end": 15196
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Donald Knuth\n### Architect of Algorithmics:\nDonald Knuth (b.1938) is revered for *The Art of Computer Programming* \u2014a definitive multi-volume treatise establishing foundational techniques, analysis, and mathematical rigor for algorithms and programming.",
+        "text_original": "Donald Knuth (b.1938) is revered for *The Art of Computer Programming*\u2014a definitive multi-volume treatise establishing foundational techniques, analysis, and mathematical rigor for algorithms and programming",
+        "idx_start": 15254,
+        "idx_end": 15461
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Donald Knuth\n### Impactful Inventions:\nHe designed TeX and Metafont, pioneering digital typesetting. His literate programming concept changed how programmers communicate code. Knuth also contributed concrete mathematics, recreational math, and software documentation practices.",
+        "text_original": "He designed TeX and Metafont, pioneering digital typesetting. His literate programming concept changed how programmers communicate code. Knuth also contributed concrete mathematics, recreational math, and software documentation practices",
+        "idx_start": 15492,
+        "idx_end": 15729
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Donald Knuth\n### Awards and Influence:\nKnuth received the Turing Award, National Medal of Science, and Kyoto Prize, influencing generations of computer scientists with his clarity, humor, and mathematical insight.",
+        "text_original": "Knuth received the Turing Award, National Medal of Science, and Kyoto Prize, influencing generations of computer scientists with his clarity, humor, and mathematical insight",
+        "idx_start": 15760,
+        "idx_end": 15933
+    }
+]

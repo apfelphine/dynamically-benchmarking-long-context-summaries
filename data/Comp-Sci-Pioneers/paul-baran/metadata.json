@@ -1,0 +1,27 @@
+{
+  "id": 1016348,
+  "title": "Paul Baran",
+  "url": "https://en.wikipedia.org/wiki/Paul_Baran",
+  "path": "Comp-Sci-Pioneers\\paul-baran",
+  "summary": {
+    "chars": 447,
+    "tokens": 98
+  },
+  "document": {
+    "chars": 10455,
+    "tokens": 2130
+  },
+  "infobox": {
+    "title": "Paul Baran",
+    "data": {
+      "Born": "April 29, 1926 \u00b7 Grodno, Poland \u00b7 (now Belarus)",
+      "Died": "March 26, 2011 (aged 84) \u00b7 Palo Alto, California, U.S.",
+      "Citizenship": "Poland, United States",
+      "Alma mater": "Drexel University (BS) \u00b7 University of California, Los Angeles (MS)",
+      "Known for": "Packet switching",
+      "Spouse": "Evelyn Murphy Baran \u200b(m. 1955)\u200b",
+      "Awards": "IEEE Alexander Graham Bell Medal (1990) \u00b7 Computer History Museum Fellow (2005) \u00b7 Marconi Prize (1991) \u00b7 National Medal of Technology and Innovation (2007) \u00b7 National Inventors Hall of Fame",
+      "Institutions": "RAND Corporation"
+    }
+  }
+}

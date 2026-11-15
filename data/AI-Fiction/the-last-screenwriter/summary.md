@@ -1,0 +1,2 @@
+The Last Screenwriter is a 2024 Swiss science fiction drama film directed by Peter Luisi and written by ChatGPT. It is one of the first films written using artificial intelligence. The film concerns a human screenwriter who encounters an AI scriptwriting system and finds that it matches his skills.
+The film was initially set to premiere at the Prince Charles Cinema in London on 23 June 2024, but was pulled following numerous complaints from the public. The film was released for free on 5 July 2024, alongside documentation on how it was written.

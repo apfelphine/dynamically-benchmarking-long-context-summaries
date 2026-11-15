@@ -1,0 +1,1 @@
+Education in Slovenia from primary to secondary schooling is regulated by the National Education Institute of the Republic of Slovenia (ZRSŠ), whose scope includes education programmes, delivery and development.

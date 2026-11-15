@@ -1,0 +1,25 @@
+{
+  "id": 46719559,
+  "title": "Saul Rosen",
+  "url": "https://en.wikipedia.org/wiki/Saul_Rosen",
+  "path": "Comp-Sci-Pioneers\\saul-rosen",
+  "summary": {
+    "chars": 529,
+    "tokens": 120
+  },
+  "document": {
+    "chars": 842,
+    "tokens": 218
+  },
+  "infobox": {
+    "title": "Saul Rosen",
+    "data": {
+      "Born": "February 8, 1922 \u00b7 Port Chester, New York",
+      "Died": "June 9, 1991 (aged 69) \u00b7 West Lafayette, Indiana",
+      "Alma mater": "University of Pennsylvania",
+      "Awards": "ACM Distinguished Service Award 1984",
+      "Thesis": "Modular Transformations of Certain Series (1950)",
+      "Doctoral advisor": "Hans Adolph Rademacher"
+    }
+  }
+}

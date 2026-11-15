@@ -1,0 +1,1 @@
+The provided text contains no information regarding "Education in China." The information presented pertains exclusively to the education systems of India, Greece, and Germany.

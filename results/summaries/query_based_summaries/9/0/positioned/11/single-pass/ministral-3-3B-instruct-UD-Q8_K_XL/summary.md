@@ -1,0 +1,11 @@
+Pakistan’s education system is structured into **primary, secondary, and tertiary education**, with a notable emphasis on **English-medium instruction** in urban areas and **Urdu-medium** in others, though regional languages like Punjabi, Sindhi, and Pashto are also taught in respective provinces. **Primary education** (ages 5–10) is compulsory, covering subjects like mathematics, science, social studies, Urdu/English, and religious education. However, **only about 67.5% of children complete primary school**, with significant gender disparities—only **18% of Pakistani women** have received 10+ years of schooling.
+
+**Secondary education** (ages 11–16) spans four years, culminating in the **Secondary School Certificate (SSC)** and **Higher Secondary School Certificate (HSSC)**, with streams like pre-medical, pre-engineering, humanities, and commerce. **Alternative qualifications** like the **General Certificate of Education (GCE)** and **International Baccalaureate (IB)** are also available. **Tertiary education** includes professional degrees (e.g., MBBS, BE, BDS) and bachelor’s/master’s programs in arts, sciences, and business, though **only 6% of Pakistanis** are university graduates as of 2007.
+
+**Key challenges** include:
+- **Low enrollment rates**, particularly for girls (females dominate lower education levels).
+- **Poor infrastructure** (e.g., unsafe school buildings, outdated labs) and **teacher shortages**.
+- **Gender disparities**, with women facing cultural barriers, limited access, and systemic discrimination.
+- **Declining education quality**, driven by outdated curricula, lack of professional training for teachers, and insufficient funding (only **2% of GDP** allocated to education).
+
+**Reforms** aim to improve access and quality, such as the **Millennium Development Goals** (MDGs) and **Sustainable Development Goals (SDGs)**, which target free and compulsory education for all. However, **cultural, economic, and political factors** persist, hindering progress.

@@ -1,0 +1,10 @@
+Education in Norway is structured into three main stages: **primary school (barneskole, ages 6–12)**, **lower secondary school (ungdomsskole, ages 13–16)**, and **upper secondary school (videregående skole, ages 16–19)**. The first two stages are compulsory, with the latter being optional but highly recommended for further education or career preparation.
+
+### **Key Features of Education in Norway**
+- **Compulsory Education**: Primary and lower secondary school are mandatory, covering foundational subjects like mathematics, English, science, and social studies. Students are graded starting from lower secondary school, with their grades influencing their acceptance into upper secondary schools.
+- **Upper Secondary School (Videregående Skole)**: This three-year program is divided into general studies (studieforberedelse) and vocational studies (yrkesfag). Students can choose between academic paths (e.g., humanities, sciences) or vocational tracks (e.g., engineering, healthcare). The curriculum integrates IT and practical training, with many schools offering laptops for students.
+- **Grading System**: Students receive grades from 1 to 6, with 6 being the highest passing grade. Final diplomas are based on a combination of teacher-assigned grades and exam results.
+- **Accessibility and Quality**: Norway’s education system is known for its high quality and accessibility, with free tuition for public schools and minimal fees for private institutions. The country emphasizes inclusive education, ensuring all students, including those with special needs, receive support.
+- **Higher Education**: Beyond upper secondary school, students can pursue higher education at universities or university colleges, which are publicly funded and offer a range of programs from bachelor’s to PhD levels. Admission is based on academic performance, and many students re-sit exams to improve their chances of admission to competitive programs.
+
+Norway’s education system is widely regarded for its emphasis on equity, innovation, and preparing students for both academic and vocational success.

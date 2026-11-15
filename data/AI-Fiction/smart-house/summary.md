@@ -1,0 +1,1 @@
+Smart House is a 1999 American science fiction comedy film released as the 8th Disney Channel Original Movie.

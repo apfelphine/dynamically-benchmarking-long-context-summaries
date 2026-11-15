@@ -1,0 +1,34 @@
+{
+  "id": 44236932,
+  "title": "Ex Machina (film)",
+  "url": "https://en.wikipedia.org/wiki/Ex_Machina_(film)",
+  "path": "AI-Fiction\\ex-machina-film",
+  "summary": {
+    "chars": 1078,
+    "tokens": 241
+  },
+  "document": {
+    "chars": 14907,
+    "tokens": 3344
+  },
+  "infobox": {
+    "title": "Ex Machina",
+    "data": {
+      "Directed by": "Alex Garland",
+      "Written by": "Alex Garland",
+      "Produced by": "- Andrew Macdonald - Allon Reich",
+      "Starring": "- Domhnall Gleeson - Alicia Vikander - Oscar Isaac",
+      "Cinematography": "Rob Hardy",
+      "Edited by": "Mark Day",
+      "Music by": "- Ben Salisbury - Geoff Barrow",
+      "Production \u00b7 companies": "- Film4 - DNA Films",
+      "Distributed by": "- A24 (United States) - Universal Pictures International (International)",
+      "Release dates": "- 16 December 2014 (BFI Southbank) - 21 January 2015 (United Kingdom) - 10 April 2015 (United States)",
+      "Running time": "108 minutes",
+      "Countries": "- United Kingdom - United States",
+      "Language": "English",
+      "Budget": "$15 million",
+      "Box office": "$37.3 million"
+    }
+  }
+}

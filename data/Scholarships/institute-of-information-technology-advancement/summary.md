@@ -1,0 +1,2 @@
+The Institute of Information Technology Advancement (IITA) is a South Korea government organization under the National IT Industry Promotion Agency (NIPA), working in the fields of research and development (R&D) and information technology (IT).
+Many IT-projects in Korea are funded by the IITA.

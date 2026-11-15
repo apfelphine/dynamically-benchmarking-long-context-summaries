@@ -1,0 +1,233 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT) Overview\n## History\nVision Transformers emerged from the Transformer architecture originally designed for natural language processing (NLP). In 2019, researchers adapted the Transformer to computer vision by replacing convolutional kernels with self-attention mechanisms, initially in ResNet architectures. The **Vision Transformer (ViT)** (2020) achieved state-of-the-art performance in image classification by treating images as sequences of patches, embedding them, and applying self-attention. This approach overcame the limitations of convolutional neural networks (CNNs) by capturing long-range dependencies in images.\nSubsequent advancements included:\n- **Masked Autoencoder (MAE, 2022)** , which extended ViT to unsupervised pretraining by masking patches and reconstructing them.\n- **Variants like Swin Transformer (2021)** , which improved efficiency and robustness by using sliding windows and pyramid processes.\n- **DINO (2021)** , a self-distillation method for pretraining ViTs without labels.\n- **Cross-fertilization** between ViT and CNN approaches, leading to hybrid models.",
+        "text_original": "Vision Transformers emerged from the Transformer architecture originally designed for natural language processing (NLP). In 2019, researchers adapted the Transformer to computer vision by replacing convolutional kernels with self-attention mechanisms, initially in ResNet architectures. The **Vision Transformer (ViT)** (2020) achieved state-of-the-art performance in image classification by treating images as sequences of patches, embedding them, and applying self-attention. This approach overcame the limitations of convolutional neural networks (CNNs) by capturing long-range dependencies in images.\n\nSubsequent advancements included:\n- **Masked Autoencoder (MAE, 2022)**, which extended ViT to unsupervised pretraining by masking patches and reconstructing them.\n- **Variants like Swin Transformer (2021)**, which improved efficiency and robustness by using sliding windows and pyramid processes.\n- **DINO (2021)**, a self-distillation method for pretraining ViTs without labels.\n- **Cross-fertilization** between ViT and CNN approaches, leading to hybrid models",
+        "idx_start": 60,
+        "idx_end": 1128
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT) Overview\n## Architecture\nThe ViT architecture is inspired by BERT, an encoder-only Transformer for NLP. An image of shape ( \\mathbb{R}^{H \\times W \\times C} ) is divided into square patches, each converted into a vector via a linear embedding. Positional encodings are added to retain spatial information. These vectors are fed into multiple Transformer encoder layers, where self-attention mechanisms capture semantic relationships between patches.\nThe output is processed by a classification head (e.g., a shallow MLP) to generate class probabilities. The **token** (a special token) aggregates information from all patches, enabling the model to predict the entire image class.",
+        "text_original": "",
+        "idx_start": 0,
+        "idx_end": 0
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT) Overview\n## Variants\n#### Original ViT\n    - - Supervised-trained to predict image labels using the token.\n    - Requires a special token for classification, limiting flexibility.\n#### Architectural Improvements\n    - - **Pooling Methods** : Global Average Pooling (GAP) and Multihead Attention Pooling (MAP) replace the token, improving generalization.\n    - **Re-attention** : Enhances training deep ViTs by modifying multihead attention modules.\n#### Masked Autoencoder (MAE)\n    - Uses two ViTs: an encoder to process unmasked patches and a decoder to reconstruct masked patches.\n        - Uses two ViTs: an encoder to process unmasked patches and a decoder to reconstruct masked patches.\n    - Achieves high performance with high mask ratios, improving efficiency and memory usage.\n    - Derivatives like **Medically Supervised MAE** and **Gray Level Co-occurrence Matrix MAE (GLCM-MAE)** address medical imaging challenges.\n#### DINO\n    - Self-distillation method where the student network mimics the teacher (exponential average of past states).\n        - Self-distillation method where the student network mimics the teacher (exponential average of past states).\n    - Uses sharpening and centering strategies to prevent collapse and improve feature transferability.\n    - **DINOv2 (2024)** and **DINOv3 (2025)** further improved performance with advanced architectures and training techniques.\n#### Swin Transformer\n    - Uses shifted windows for self-attention, reducing computational cost.\n        - Uses shifted windows for self-attention, reducing computational cost.\n    - Introduces merge layers to combine neighboring tokens, analogous to pooling in CNNs.\n#### TimeSformer\n    - Applies factorized self-attention to video data, dividing attention into space and time dimensions.\n        - Applies factorized self-attention to video data, dividing attention into space and time dimensions.\n#### ViT-VQGAN\n    - Combines ViT with vector quantization (VQ) and generative adversarial networks (GANs) for image generation.\n        - Combines ViT with vector quantization (VQ) and generative adversarial networks (GANs) for image generation.\n    - Enables autoregressive image generation and text-to-image synthesis.\n#### Other Notable Models\n    - - **Visual Transformer, CoAtNet, CvT, DeiT** : Variants with different design goals (efficiency, robustness, or domain-specific applications).",
+        "text_original": "",
+        "idx_start": 0,
+        "idx_end": 0
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT) Overview\n## Comparison with CNNs\nViTs and CNNs differ in inductive biases:\n- **CNNs** apply the same filters across the entire image, making them data-efficient and robust to local perturbations.\n- **ViTs** use self-attention to capture long-range dependencies but require more data and are sensitive to hyperparameters and network depth.\n- ViTs are more robust to input distortions like adversarial patches or permutations.",
+        "text_original": "ViTs and CNNs differ in inductive biases:\n- **CNNs** apply the same filters across the entire image, making them data-efficient and robust to local perturbations.\n- **ViTs** use self-attention to capture long-range dependencies but require more data and are sensitive to hyperparameters and network depth.\n- ViTs are more robust to input distortions like adversarial patches or permutations",
+        "idx_start": 3725,
+        "idx_end": 4115
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT) Overview\n## Applications\nViTs excel in diverse computer vision tasks, including:\n- **Image classification, object detection, video deepfake detection, image segmentation, anomaly detection, and synthesis** .\n- **Generative models** like GANs and diffusion models (e.g., DALL-E, Stable Diffusion).\n- **Medical imaging** for lesion classification and disease diagnosis.\n- **Weather and climate prediction** with large-scale models.\n- **Autonomous driving** and **3D reconstruction** .",
+        "text_original": "ViTs excel in diverse computer vision tasks, including:\n- **Image classification, object detection, video deepfake detection, image segmentation, anomaly detection, and synthesis**.\n- **Generative models** like GANs and diffusion models (e.g., DALL-E, Stable Diffusion).\n- **Medical imaging** for lesion classification and disease diagnosis.\n- **Weather and climate prediction** with large-scale models.\n- **Autonomous driving** and **3D reconstruction",
+        "idx_start": 4140,
+        "idx_end": 4592
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN) Overview\n## Motivation\nThe original Generative Adversarial Network (GAN) uses the Jensen\u2013Shannon divergence to measure the distance between the generator\u2019s distribution and the reference distribution. However, this approach suffers from:\n- **Mode collapse** , where the generator fails to generalize properly.\n- **Unstable training** , as the discriminator can become too good, leading to vanishing gradients.\n- **High computational cost** due to the Jensen\u2013Shannon divergence\u2019s complexity.\nThe **Wasserstein GAN (WGAN)** addresses these issues by using the **Wasserstein distance** , which is more stable and computationally efficient. The Wasserstein distance measures the \"work\" needed to transform one distribution into another, providing a better gradient signal for the generator.",
+        "text_original": "The original Generative Adversarial Network (GAN) uses the Jensen\u2013Shannon divergence to measure the distance between the generator\u2019s distribution and the reference distribution. However, this approach suffers from:\n- **Mode collapse**, where the generator fails to generalize properly.\n- **Unstable training**, as the discriminator can become too good, leading to vanishing gradients.\n- **High computational cost** due to the Jensen\u2013Shannon divergence\u2019s complexity.\n\nThe **Wasserstein GAN (WGAN)** addresses these issues by using the **Wasserstein distance**, which is more stable and computationally efficient. The Wasserstein distance measures the \"work\" needed to transform one distribution into another, providing a better gradient signal for the generator",
+        "idx_start": 4663,
+        "idx_end": 5423
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN) Overview\n## Definition\nA WGAN game is defined over a probability space ( (\\Omega, \\mathcal{B}, \\mu_{\\text{ref}}) ) , where:\n- **Generator** aims to minimize the Wasserstein distance between its distribution ( \\mu_G ) and the reference distribution ( \\mu_{\\text{ref}} ) .\n- **Discriminator (Critic)** aims to maximize the same distance.\n- The discriminator\u2019s strategy set includes functions with bounded Lipschitz norm ( | D | _L \\leq K ) .\nThe objective function is: [ L_{WGAN}(\\mu_G, D) = \\mathbb{E} *{x \\sim \\mu_G} [D(x)] - \\mathbb{E}* {x \\sim \\mu_{\\text{ref}}} [D(x)] ]",
+        "text_original": "A WGAN game is defined over a probability space \\( (\\Omega, \\mathcal{B}, \\mu_{\\text{ref}}) \\), where:\n- **Generator** aims to minimize the Wasserstein distance between its distribution \\( \\mu_G \\) and the reference distribution \\( \\mu_{\\text{ref}} \\).\n- **Discriminator (Critic)** aims to maximize the same distance.\n- The discriminator\u2019s strategy set includes functions with bounded Lipschitz norm \\( \\|D\\|_L \\leq K \\).\n\nThe objective function is:\n\\[ L_{WGAN}(\\mu_G, D) = \\mathbb{E}_{x \\sim \\mu_G} [D(x)] - \\mathbb{E}_{x \\sim \\mu_{\\text{ref}}} [D(x",
+        "idx_start": 5446,
+        "idx_end": 5995
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN) Overview\n## Comparison with GAN\n- **Gradient Signal** : WGAN provides a better gradient for the generator compared to GAN, reducing mode collapse.\n- **Training Stability** : WGAN avoids the vanishing gradient problem by using a Lipschitz-constrained critic.\n- **Computational Efficiency** : The Wasserstein distance is more efficient to compute than the Jensen\u2013Shannon divergence.",
+        "text_original": "Gradient Signal**: WGAN provides a better gradient for the generator compared to GAN, reducing mode collapse.\n- **Training Stability**: WGAN avoids the vanishing gradient problem by using a Lipschitz-constrained critic.\n- **Computational Efficiency**: The Wasserstein distance is more efficient to compute than the Jensen\u2013Shannon divergence",
+        "idx_start": 6035,
+        "idx_end": 6375
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN) Overview\n## Training Methods\nTraining WGANs involves:\n1. **Upper-Bounding the Lipschitz Norm** :\n    - **Weight Clipping** : Limits the weights of the discriminator to a fixed range.\n    - **Spectral Normalization** : Normalizes the weights to ensure the Lipschitz norm is bounded.\n    - **Gradient Penalty** : Penalizes the discriminator for violating the Lipschitz constraint.\n2. **Advantages** :\n    - **No Mode Collapse** : WGANs consistently generate diverse samples without collapsing into a few modes.\n    - **Better Gradient Flow** : The critic\u2019s gradient is more stable, improving training dynamics.",
+        "text_original": "Training WGANs involves:\n1. **Upper-Bounding the Lipschitz Norm**:\n   - **Weight Clipping**: Limits the weights of the discriminator to a fixed range.\n   - **Spectral Normalization**: Normalizes the weights to ensure the Lipschitz norm is bounded.\n   - **Gradient Penalty**: Penalizes the discriminator for violating the Lipschitz constraint.\n\n2. **Advantages**:\n   - **No Mode Collapse**: WGANs consistently generate diverse samples without collapsing into a few modes.\n   - **Better Gradient Flow**: The critic\u2019s gradient is more stable, improving training dynamics",
+        "idx_start": 6404,
+        "idx_end": 6971
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN) Overview\n## Applications\nWGANs are used in:\n- **Generative modeling** for high-quality image synthesis.\n- **Style transfer** and **image-to-image translation** .\n- **Advanced generative models** like StyleGAN, which leverage WGAN principles for improved stability and quality.",
+        "text_original": "WGANs are used in:\n- **Generative modeling** for high-quality image synthesis.\n- **Style transfer** and **image-to-image translation**.\n- **Advanced generative models** like StyleGAN, which leverage WGAN principles for improved stability and quality",
+        "idx_start": 6996,
+        "idx_end": 7245
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM) Overview\n## Background\nClass activation mapping (CAM) and its variants (e.g., Grad-CAM) provide visual explanations for CNN predictions by highlighting regions in an image that contribute most to a specific class. These methods are rooted in:\n- **Gradient-based visualization** : Highlighting pixels with the largest gradients for a target class.\n- **Guided backpropagation** : Ensuring gradients flow through positive activations, improving interpretability.",
+        "text_original": "Class activation mapping (CAM) and its variants (e.g., Grad-CAM) provide visual explanations for CNN predictions by highlighting regions in an image that contribute most to a specific class. These methods are rooted in:\n- **Gradient-based visualization**: Highlighting pixels with the largest gradients for a target class.\n- **Guided backpropagation**: Ensuring gradients flow through positive activations, improving interpretability",
+        "idx_start": 7322,
+        "idx_end": 7755
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM) Overview\n## Base Versions\n#### Class Activation Mapping (CAM)\n    - - Uses **Global Average Pooling (GAP)** to aggregate feature maps into a single class score.\n    - Requires modifying the CNN architecture to include GAP before the final linear classifier.\n    - **Advantages** : Model-specific, interpretable by design.\n    - **Drawbacks** : Limited to CNNs with GAP layers, less flexible.\n#### Gradient-Weighted Class Activation Mapping (Grad-CAM)\n    - Computes gradients of the class score with respect to feature maps, then pools them to generate a heatmap.\n        - Computes gradients of the class score with respect to feature maps, then pools them to generate a heatmap.\n    - **Advantages** : Model-agnostic, works with any differentiable CNN.\n    - **Drawbacks** : Focuses on discriminative regions, may miss context or coarser details.",
+        "text_original": ".\n\n#### **Base Versions**\n1. **Class Activation Mapping (CAM)**\n   - Uses **Global Average Pooling (GAP)** to aggregate feature maps into a single class score.\n   - Requires modifying the CNN architecture to include GAP before the final linear classifier.\n   - **Advantages**: Model-specific, interpretable by design.\n   - **Drawbacks**: Limited to CNNs with GAP layers, less flexible.\n\n2. **Gradient-Weighted Class Activation Mapping (Grad-CAM)**\n   - Computes gradients of the class score with respect to feature maps, then pools them to generate a heatmap.\n   - **Advantages**: Model-agnostic, works with any differentiable CNN.\n   - **Drawbacks**: Focuses on discriminative regions, may miss context or coarser details.\n\n#### **Fine-Tuned Versions**\n- **",
+        "idx_start": 7755,
+        "idx_end": 8513
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM) Overview\n## Fine-Tuned Versions\n- **Guided Grad-CAM** : Combines Grad-CAM with guided backpropagation for high-resolution details.\n- **Grad-CAM++** : Uses higher-order gradients to improve localization for multiple instances.\n- **Score-CAM** : Replaces gradients with model confidence scores, improving robustness.\n- **LayerCAM** : Enhances Grad-CAM by using gradients from intermediate layers for finer details.",
+        "text_original": "Guided Grad-CAM**: Combines Grad-CAM with guided backpropagation for high-resolution details.\n- **Grad-CAM++**: Uses higher-order gradients to improve localization for multiple instances.\n- **Score-CAM**: Replaces gradients with model confidence scores, improving robustness.\n- **LayerCAM**: Enhances Grad-CAM by using gradients from intermediate layers for finer details",
+        "idx_start": 8513,
+        "idx_end": 8884
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM) Overview\n## Applications\nCAM and its variants are used in:\n- **Explainable AI** : Visualizing CNN decisions for critical systems (e.g., self-driving cars).\n- **Medical imaging** : Highlighting regions of interest in diagnostic tasks.\n- **Computer vision** : Improving interpretability in object detection and classification.",
+        "text_original": "CAM and its variants are used in:\n- **Explainable AI**: Visualizing CNN decisions for critical systems (e.g., self-driving cars).\n- **Medical imaging**: Highlighting regions of interest in diagnostic tasks.\n- **Computer vision**: Improving interpretability in object detection and classification",
+        "idx_start": 8909,
+        "idx_end": 9204
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN) Overview\n## Definition\nA GAN consists of two competing models:\n- **Generator (G)** : Creates synthetic data from a noise distribution.\n- **Discriminator (D)** : Distinguishes real data from generated data.\nThe training process is a zero-sum game where:\n- **Generator** aims to minimize the loss, making its output indistinguishable from real data.\n- **Discriminator** aims to maximize the loss, improving its ability to distinguish real from fake data.",
+        "text_original": "A GAN consists of two competing models:\n- **Generator (G)**: Creates synthetic data from a noise distribution.\n- **Discriminator (D)**: Distinguishes real data from generated data.\n\nThe training process is a zero-sum game where:\n- **Generator** aims to minimize the loss, making its output indistinguishable from real data.\n- **Discriminator** aims to maximize the loss, improving its ability to distinguish real from fake data",
+        "idx_start": 9286,
+        "idx_end": 9713
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN) Overview\n## Training Challenges\n1. **Unstable Convergence** : GANs often fail to converge due to mode collapse or vanishing gradients.\n2. **Mode Collapse** : The generator may produce limited diversity in its outputs.\n3. **Training Strategies** :\n    - **Two-Time Scale Update Rule (TTUR)** : Adjusts learning rates to stabilize training.\n    - **Wasserstein GAN (WGAN)** : Uses the Wasserstein distance for better gradient flow.",
+        "text_original": "Unstable Convergence**: GANs often fail to converge due to mode collapse or vanishing gradients.\n2. **Mode Collapse**: The generator may produce limited diversity in its outputs.\n3. **Training Strategies**:\n   - **Two-Time Scale Update Rule (TTUR)**: Adjusts learning rates to stabilize training.\n   - **Wasserstein GAN (WGAN)**: Uses the Wasserstein distance for better gradient flow",
+        "idx_start": 9750,
+        "idx_end": 10134
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN) Overview\n## Variants\n1. **Conditional GAN (cGAN)** : Generates data conditioned on additional input (e.g., class labels).\n2. **Wasserstein GAN (WGAN)** : Uses Lipschitz-constrained critics to improve stability.\n3. **InfoGAN** : Maximizes mutual information between latent variables and generated data.\n4. **CycleGAN** : Transforms images between domains without paired data.\n5. **BigGAN** : Scales up GANs for high-resolution image generation.",
+        "text_original": "Conditional GAN (cGAN)**: Generates data conditioned on additional input (e.g., class labels).\n2. **Wasserstein GAN (WGAN)**: Uses Lipschitz-constrained critics to improve stability.\n3. **InfoGAN**: Maximizes mutual information between latent variables and generated data.\n4. **CycleGAN**: Transforms images between domains without paired data.\n5. **BigGAN**: Scales up GANs for high-resolution image generation",
+        "idx_start": 10160,
+        "idx_end": 10571
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN) Overview\n## Applications\nGANs are applied in:\n- **Image synthesis** (e.g., StyleGAN, DeepDream).\n- **Medical imaging** (synthetic data generation).\n- **Art and fashion** (image inpainting, photorealistic renders).\n- **Adversarial attacks** (fake media, deepfake detection).\n- **Robotics and reinforcement learning** (policy optimization).",
+        "text_original": "GANs are applied in:\n- **Image synthesis** (e.g., StyleGAN, DeepDream).\n- **Medical imaging** (synthetic data generation).\n- **Art and fashion** (image inpainting, photorealistic renders).\n- **Adversarial attacks** (fake media, deepfake detection).\n- **Robotics and reinforcement learning** (policy optimization",
+        "idx_start": 10596,
+        "idx_end": 10907
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE) Overview\n## Architecture\nA VAE consists of:\n- **Encoder** : Maps input data to a latent space using a neural network.\n- **Decoder** : Reconstructs the input from the latent representation.\n- **Prior and Posterior Distributions** : The encoder approximates the posterior distribution, while the decoder models the prior.",
+        "text_original": "A VAE consists of:\n- **Encoder**: Maps input data to a latent space using a neural network.\n- **Decoder**: Reconstructs the input from the latent representation.\n- **Prior and Posterior Distributions**: The encoder approximates the posterior distribution, while the decoder models the prior",
+        "idx_start": 10986,
+        "idx_end": 11276
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE) Overview\n## Training\nVAEs are trained using the **Evidence Lower Bound (ELBO)** , which balances reconstruction error and the Kullback-Leibler (KL) divergence between the approximate and true posterior distributions. The ELBO is optimized via backpropagation.",
+        "text_original": "VAEs are trained using the **Evidence Lower Bound (ELBO)**, which balances reconstruction error and the Kullback-Leibler (KL) divergence between the approximate and true posterior distributions. The ELBO is optimized via backpropagation",
+        "idx_start": 11297,
+        "idx_end": 11533
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE) Overview\n## Variants\n1. **\u03b2-VAE** : Adjusts the KL divergence weight to enforce disentangled latent representations.\n2. **Sparse Autoencoder (SAE)** : Encourages sparsity in the latent space to improve feature learning.\n3. **Denoising Autoencoder (DAE)** : Trains the model to reconstruct noisy inputs, improving robustness.\n4. **Contractive Autoencoder (CAE)** : Adds a contractive regularization term to resist input perturbations.\n5. **Minimum Description Length Autoencoder (MDL-AE)** : Optimizes for compact latent representations.",
+        "text_original": "VAE**: Adjusts the KL divergence weight to enforce disentangled latent representations.\n2. **Sparse Autoencoder (SAE)**: Encourages sparsity in the latent space to improve feature learning.\n3. **Denoising Autoencoder (DAE)**: Trains the model to reconstruct noisy inputs, improving robustness.\n4. **Contractive Autoencoder (CAE)**: Adds a contractive regularization term to resist input perturbations.\n5. **Minimum Description Length Autoencoder (MDL-AE)**: Optimizes for compact latent representations",
+        "idx_start": 11561,
+        "idx_end": 12063
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE) Overview\n## Applications\nVAEs are used in:\n- **Dimensionality reduction** (e.g., feature learning).\n- **Anomaly detection** (by reconstructing normal data).\n- **Image processing** (denoising, super-resolution).\n- **Drug discovery** (generating novel molecules).\n- **Popularity prediction** (social media content).",
+        "text_original": "VAEs are used in:\n- **Dimensionality reduction** (e.g., feature learning).\n- **Anomaly detection** (by reconstructing normal data).\n- **Image processing** (denoising, super-resolution).\n- **Drug discovery** (generating novel molecules).\n- **Popularity prediction** (social media content",
+        "idx_start": 12088,
+        "idx_end": 12374
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network Overview\n## Structure\nA Hopfield network is a recurrent neural network with:\n- **Binary threshold units** : Each neuron has two states (+1 or -1).\n- **Symmetric weights** : Connections between neurons are bidirectional and symmetric.\n- **Energy function** : Measures the network\u2019s state, with local minima representing stable states.",
+        "text_original": "A Hopfield network is a recurrent neural network with:\n- **Binary threshold units**: Each neuron has two states (+1 or -1).\n- **Symmetric weights**: Connections between neurons are bidirectional and symmetric.\n- **Energy function**: Measures the network\u2019s state, with local minima representing stable states",
+        "idx_start": 12437,
+        "idx_end": 12744
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network Overview\n## Training and Memory\n- **Hebbian Learning Rule** : Updates weights based on simultaneous activations of neurons.\n- **Associative Memory** : Stores patterns as local minima in the energy landscape.\n- **Spurious Patterns** : False attractors that can interfere with memory retrieval.",
+        "text_original": "Hebbian Learning Rule**: Updates weights based on simultaneous activations of neurons.\n- **Associative Memory**: Stores patterns as local minima in the energy landscape.\n- **Spurious Patterns**: False attractors that can interfere with memory retrieval",
+        "idx_start": 12780,
+        "idx_end": 13032
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network Overview\n## Capacity\nThe storage capacity of a Hopfield network is limited by the number of neurons and the number of stored patterns. Modern variants (e.g., **Dense Associative Memories** ) improve this capacity using non-linearities and higher-order interactions.",
+        "text_original": "The storage capacity of a Hopfield network is limited by the number of neurons and the number of stored patterns. Modern variants (e.g., **Dense Associative Memories**) improve this capacity using non-linearities and higher-order interactions",
+        "idx_start": 13053,
+        "idx_end": 13295
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network Overview\n## Applications\nHopfield networks are used in:\n- **Associative memory** (retrieving patterns from partial inputs).\n- **Optimization** (solving combinatorial problems).\n- **Neuromorphic computing** (simulating brain-like functions).",
+        "text_original": "Hopfield networks are used in:\n- **Associative memory** (retrieving patterns from partial inputs).\n- **Optimization** (solving combinatorial problems).\n- **Neuromorphic computing** (simulating brain-like functions",
+        "idx_start": 13320,
+        "idx_end": 13533
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBF) Overview\n## Architecture\nAn RBF network consists of:\n- **Input Layer** : Processes input data.\n- **Hidden Layer** : Uses radial basis functions (e.g., Gaussian) to map input to output.\n- **Output Layer** : Linear combination of hidden layer outputs.",
+        "text_original": "An RBF network consists of:\n- **Input Layer**: Processes input data.\n- **Hidden Layer**: Uses radial basis functions (e.g., Gaussian) to map input to output.\n- **Output Layer**: Linear combination of hidden layer outputs",
+        "idx_start": 13618,
+        "idx_end": 13838
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBF) Overview\n## Training\nRBF networks are trained in two steps:\n1. **Determine centers and widths** of the RBF functions (e.g., via clustering).\n2. **Fit a linear model** to the hidden layer outputs using least squares or gradient descent.",
+        "text_original": "RBF networks are trained in two steps:\n1. **Determine centers and widths** of the RBF functions (e.g., via clustering).\n2. **Fit a linear model** to the hidden layer outputs using least squares or gradient descent",
+        "idx_start": 13859,
+        "idx_end": 14072
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBF) Overview\n## Applications\nRBF networks are used in:\n- **Function approximation** (e.g., chaotic time series).\n- **Time series prediction** (e.g., logistic map).\n- **Control theory** (e.g., chaotic time series control).",
+        "text_original": "RBF networks are used in:\n- **Function approximation** (e.g., chaotic time series).\n- **Time series prediction** (e.g., logistic map).\n- **Control theory** (e.g., chaotic time series control",
+        "idx_start": 14097,
+        "idx_end": 14287
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN) Overview\n## History\nRNNs emerged from neuroscience and statistical mechanics, evolving into modern architectures like LSTM and GRU. They are designed to process sequential data by maintaining a hidden state that captures temporal dependencies.",
+        "text_original": "RNNs emerged from neuroscience and statistical mechanics, evolving into modern architectures like LSTM and GRU. They are designed to process sequential data by maintaining a hidden state that captures temporal dependencies",
+        "idx_start": 14362,
+        "idx_end": 14584
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN) Overview\n## Architectures\n1. **Standard RNN** : Processes sequences by updating hidden states iteratively.\n2. **Stacked RNN** : Combines multiple RNNs for deeper processing.\n3. **Bidirectional RNN (BiRNN)** : Processes sequences in both directions.\n4. **Encoder-Decoder RNN** : Uses two RNNs for sequence transduction (e.g., machine translation).\n5. **LSTM/GRU** : Specialized RNNs with gates to mitigate vanishing gradients.",
+        "text_original": "Standard RNN**: Processes sequences by updating hidden states iteratively.\n2. **Stacked RNN**: Combines multiple RNNs for deeper processing.\n3. **Bidirectional RNN (BiRNN)**: Processes sequences in both directions.\n4. **Encoder-Decoder RNN**: Uses two RNNs for sequence transduction (e.g., machine translation).\n5. **LSTM/GRU**: Specialized RNNs with gates to mitigate vanishing gradients",
+        "idx_start": 14615,
+        "idx_end": 15003
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN) Overview\n## Training\n- **Teacher Forcing** : Uses ground truth labels for training.\n- **Backpropagation Through Time (BPTT)** : Computes gradients over time.\n- **Gradient Descent** : Optimizes weights to minimize error.",
+        "text_original": "Teacher Forcing**: Uses ground truth labels for training.\n- **Backpropagation Through Time (BPTT)**: Computes gradients over time.\n- **Gradient Descent**: Optimizes weights to minimize error",
+        "idx_start": 15028,
+        "idx_end": 15218
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN) Overview\n## Applications\nRNNs are used in:\n- **Natural language processing** (e.g., machine translation, text generation).\n- **Speech recognition** (e.g., Google Translate).\n- **Time series forecasting** (e.g., stock market prediction).\n- **Robotics** (e.g., policy learning).",
+        "text_original": "RNNs are used in:\n- **Natural language processing** (e.g., machine translation, text generation).\n- **Speech recognition** (e.g., Google Translate).\n- **Time series forecasting** (e.g., stock market prediction).\n- **Robotics** (e.g., policy learning",
+        "idx_start": 15243,
+        "idx_end": 15492
+    }
+]

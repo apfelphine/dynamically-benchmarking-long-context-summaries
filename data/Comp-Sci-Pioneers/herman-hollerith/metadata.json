@@ -1,0 +1,28 @@
+{
+  "id": 13969,
+  "title": "Herman Hollerith",
+  "url": "https://en.wikipedia.org/wiki/Herman_Hollerith",
+  "path": "Comp-Sci-Pioneers\\herman-hollerith",
+  "summary": {
+    "chars": 872,
+    "tokens": 187
+  },
+  "document": {
+    "chars": 5148,
+    "tokens": 1119
+  },
+  "infobox": {
+    "title": "Herman Hollerith",
+    "data": {
+      "Born": "February 29, 1860 \u00b7 Buffalo, New York, U.S.",
+      "Died": "November 17, 1929 (aged 69) \u00b7 Washington, D.C., U.S.",
+      "Resting place": "Oak Hill Cemetery",
+      "Education": "- City College of New York - Columbia University (BEng, PhD)",
+      "Occupations": "- Statistician - inventor - businessman",
+      "Known for": "- Electromechanical tabulation of punched card data - IBM",
+      "Spouse": "Lucia Beverly (Talcott) Hollerith",
+      "Children": "6",
+      "Awards": "- Elliott Cresson Medal (1890) - World's Columbian Exposition, Bronze Medal (1892) - National Inventors Hall of Fame (1990)"
+    }
+  }
+}

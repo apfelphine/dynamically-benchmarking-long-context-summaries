@@ -1,0 +1,2 @@
+Echelon Conspiracy (also released as The Gift) is a 2009 American action thriller film directed by Greg Marcks, from a screenplay by Michael Nitsberg and Kevin Alyn Elders. It stars Shane West, Edward Burns, Ving Rhames, Jonathan Pryce, Tamara Feldman, and Martin Sheen.
+The film was theatrically released in the United States by After Dark Films on February 27, 2009, and was released on DVD and Blu-ray in the United States by Paramount Home Entertainment on July 21, 2009.

@@ -1,0 +1,3 @@
+The Pierre Elliott Trudeau Foundation (French: Fondation Pierre Elliott Trudeau), commonly called the Trudeau Foundation (French: Fondation Trudeau), is a Canadian charity founded in 2001 named after former Canadian prime minister Pierre Trudeau.
+Donations to the charity increased when Justin Trudeau became the leader of the Liberal Party of Canada, and again in 2015 when the party won the federal election.
+In early 2023, most of the board of directors resigned, in light of a $200,000 donation from Chinese political strategist and billionaire Zhang Bin. The donation was reported in the context of allegations of Chinese government interference in the 2019 and 2021 Canadian federal elections.

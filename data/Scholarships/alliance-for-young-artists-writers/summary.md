@@ -1,0 +1,1 @@
+The Alliance for Young Artists & Writers is a nonprofit organization which manages the annual Scholastic Art & Writing Awards, a competition that recognizes talented young artists and writers from across the United States.

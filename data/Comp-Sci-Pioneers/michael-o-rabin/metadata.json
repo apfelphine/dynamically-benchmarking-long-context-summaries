@@ -1,0 +1,28 @@
+{
+  "id": 298404,
+  "title": "Michael O. Rabin",
+  "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+  "path": "Comp-Sci-Pioneers\\michael-o-rabin",
+  "summary": {
+    "chars": 158,
+    "tokens": 62
+  },
+  "document": {
+    "chars": 6531,
+    "tokens": 1384
+  },
+  "infobox": {
+    "title": "Michael Oser Rabin",
+    "data": {
+      "Born": "September 1, 1931 \u00b7 Breslau, Germany",
+      "Education": "Hebrew University (BS, MS) \u00b7 University of Pennsylvania \u00b7 Princeton University (PhD)",
+      "Known for": "Rabin cryptosystem \u00b7 Rabin fingerprint \u00b7 Rabin signature algorithm \u00b7 Rabin\u2013Karp string search algorithm \u00b7 Rabin\u2013Scott powerset construction \u00b7 Adian\u2013Rabin theorem \u00b7 Berlekamp\u2013Rabin algorithm \u00b7 Miller\u2013Rabin primality test \u00b7 Hyper-encryption \u00b7 Infinite-tree automaton \u00b7 Decidability of S2S \u00b7 Nondeterministic finite automata \u00b7 Oblivious transfer \u00b7 Probabilistic automaton \u00b7 Pumping lemma \u00b7 Randomized algorithms \u00b7 Two-way finite automaton \u00b7 Rabin automaton \u00b7 Verifiable random function",
+      "Awards": "- Weizmann Prize (1959) - Turing Award (1976) - Harvey Prize (1980) - Gibbs lecture (1985) - Israel Prize (1995) - IEEE Computer Society Charles Babbage Award (2000) - Paris Kanellakis Award (2003) - EMET Prize (2004) - G\u00f6del Lecture (2004) - Dan David Prize (2010) - Dijkstra Prize (2015)",
+      "Fields": "Computer science",
+      "Institutions": "Harvard University \u00b7 Hebrew University of Jerusalem \u00b7 Columbia University",
+      "Thesis": "Recursive Unsolvability of Group Theoretic Problems (1957)",
+      "Doctoral advisor": "Alonzo Church",
+      "Doctoral students": "- Judit Bar-Ilan - Dov Gabbay - Mosh\u00e9 Machover - Saharon Shelah - Michael A. Bender"
+    }
+  }
+}

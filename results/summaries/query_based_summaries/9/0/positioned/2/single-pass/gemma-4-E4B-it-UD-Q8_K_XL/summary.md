@@ -1,0 +1,1 @@
+The provided texts do not contain any information regarding "Education in Pakistan." The text segments focus on education systems in Russia, South Korea, Saudi Arabia, Bangladesh, New Zealand, and others.

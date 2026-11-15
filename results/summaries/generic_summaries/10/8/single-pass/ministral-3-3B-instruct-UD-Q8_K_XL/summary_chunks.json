@@ -1,0 +1,891 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Research and Evidence\nA 2024 systematic review examined AI\u2019s impact on open and distance learning (ODL), revealing mixed outcomes and identifying methodological gaps. A separate study proposed a multilayered framework for predicting academic performance in ODL contexts, emphasizing model evaluation approaches.",
+        "text_original": "A 2024 systematic review examined AI\u2019s impact on open and distance learning (ODL), revealing mixed outcomes and identifying methodological gaps. A separate study proposed a multilayered framework for predicting academic performance in ODL contexts, emphasizing model evaluation approaches",
+        "idx_start": 61,
+        "idx_end": 349
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Primary Education\nPrimary education in Nigeria begins at age 5, spanning six years, culminating in a first school-leaving certificate. Core subjects include Mathematics, English, Religious Knowledge, Agricultural Science, Home Economics, and indigenous languages (Hausa-Fulani, Yoruba, Igbo). Private schools offer additional subjects like Computer Science, French, and Fine Arts. Students must pass the Common Entrance Examination for admission to Federal/State Government Secondary Schools or private schools.",
+        "text_original": "Primary education in Nigeria begins at age 5, spanning six years, culminating in a first school-leaving certificate. Core subjects include Mathematics, English, Religious Knowledge, Agricultural Science, Home Economics, and indigenous languages (Hausa-Fulani, Yoruba, Igbo). Private schools offer additional subjects like Computer Science, French, and Fine Arts. Students must pass the Common Entrance Examination for admission to Federal/State Government Secondary Schools or private schools",
+        "idx_start": 379,
+        "idx_end": 871
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Historical Context:\nBefore 1976, education policy was shaped by colonial practices. The Universal Primary Education (UPE) program (1976) faced challenges and was revised in 1981 and 1990. The Universal Basic Education (UBE) Act (1999) replaced UPE, mandating 9 years of uninterrupted schooling (6 years primary + 3 years junior secondary), transitioning automatically between classes. UBE is funded and monitored by the Universal Basic Education Commission (UBEC), ensuring it is free, compulsory, and a right for all children.",
+        "text_original": "Before 1976, education policy was shaped by colonial practices. The Universal Primary Education (UPE) program (1976) faced challenges and was revised in 1981 and 1990. The Universal Basic Education (UBE) Act (1999) replaced UPE, mandating 9 years of uninterrupted schooling (6 years primary + 3 years junior secondary), transitioning automatically between classes. UBE is funded and monitored by the Universal Basic Education Commission (UBEC), ensuring it is free, compulsory, and a right for all children",
+        "idx_start": 898,
+        "idx_end": 1404
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Secondary Education\nSecondary education serves as a bridge between primary and tertiary education. The 6-3-3-4 system (introduced in 1982) divides secondary education into Junior Secondary School (JSS) and Senior Secondary School (SSS). JSS spans 3 years, covering subjects like Mathematics, English, Social Studies, Cultural Arts, Basic Science, and Technology. SSS (3 years) includes core subjects (English, Mathematics, Economics, Civic Education) plus electives (e.g., Biology, Chemistry, Physics, History, Geography, Agricultural Science, or vocational subjects).",
+        "text_original": "Secondary education serves as a bridge between primary and tertiary education. The 6-3-3-4 system (introduced in 1982) divides secondary education into Junior Secondary School (JSS) and Senior Secondary School (SSS). JSS spans 3 years, covering subjects like Mathematics, English, Social Studies, Cultural Arts, Basic Science, and Technology. SSS (3 years) includes core subjects (English, Mathematics, Economics, Civic Education) plus electives (e.g., Biology, Chemistry, Physics, History, Geography, Agricultural Science, or vocational subjects",
+        "idx_start": 1436,
+        "idx_end": 1982
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Federal-Sponsored Secondary Schools:\n- Operated by the Federal Government through the Ministry of Education.\n- Typically boarding schools with 2-3 federal colleges per state.\n- Admission is merit-based, determined by the National Common Entrance Examination.\n- Tuition is low (~\u20a625,000) due to partial federal funding.\n- Reputed as elite due to merit-based admissions.",
+        "text_original": "Operated by the Federal Government through the Ministry of Education.\n- Typically boarding schools with 2-3 federal colleges per state.\n- Admission is merit-based, determined by the National Common Entrance Examination.\n- Tuition is low (~\u20a625,000) due to partial federal funding.\n- Reputed as elite due to merit-based admissions",
+        "idx_start": 2029,
+        "idx_end": 2357
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## State-Sponsored Secondary Schools:\n- Funded by respective state governments.\n- Education is nominally free, but students pay for books, uniforms, and miscellaneous expenses (~\u20a650,000 annually).\n- Historically elite due to high educational standards, but rankings have declined due to budget issues and competition from private schools.",
+        "text_original": "Funded by respective state governments.\n- Education is nominally free, but students pay for books, uniforms, and miscellaneous expenses (~\u20a650,000 annually).\n- Historically elite due to high educational standards, but rankings have declined due to budget issues and competition from private schools",
+        "idx_start": 2401,
+        "idx_end": 2698
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Private, Religious, and Independent Secondary Schools:\n- Private schools are expensive, with fees ranging from hundreds of thousands to millions of naira annually, often rising by 50-70%.\n- Smaller class sizes, modern facilities, and better salaries attract qualified teachers.\n- Religious schools (e.g., Catholic, Methodist, Baptist) historically offered lower fees but now vary in cost.",
+        "text_original": "Private schools are expensive, with fees ranging from hundreds of thousands to millions of naira annually, often rising by 50-70%.\n- Smaller class sizes, modern facilities, and better salaries attract qualified teachers.\n- Religious schools (e.g., Catholic, Methodist, Baptist) historically offered lower fees but now vary in cost",
+        "idx_start": 2762,
+        "idx_end": 3092
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Promotional Examinations:\n- The 6-3-3-4 system replaced the 6-3-3 system, merging primary and junior secondary years into 9 years of compulsory education.\n- The Senior Secondary Certificate Examination (SSCE) is conducted at the end of SSS.\n- The West African Examination Council (WAEC) administers both SSCE and the General Certificate of Education (GCE).\n- Students must register for 9-7 subjects, with Mathematics and English as compulsory.\n- Grades range from A1 (highest) to F9 (fail), with Credit grades (C4-C6) considered adequate for university admission.",
+        "text_original": "The 6-3-3-4 system replaced the 6-3-3 system, merging primary and junior secondary years into 9 years of compulsory education.\n- The Senior Secondary Certificate Examination (SSCE) is conducted at the end of SSS.\n- The West African Examination Council (WAEC) administers both SSCE and the General Certificate of Education (GCE).\n- Students must register for 9-7 subjects, with Mathematics and English as compulsory.\n- Grades range from A1 (highest) to F9 (fail), with Credit grades (C4-C6) considered adequate for university admission",
+        "idx_start": 3127,
+        "idx_end": 3661
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## International Education\nAs of 2015, Nigeria had 129 international schools, offering curricula in English or other languages, often modeled after foreign systems.",
+        "text_original": "As of 2015, Nigeria had 129 international schools, offering curricula in English or other languages, often modeled after foreign systems",
+        "idx_start": 3697,
+        "idx_end": 3833
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## A-Levels in Nigeria\n- The Interim Joint Matriculation Board (IJMB) offers an advanced-level program for direct entry into universities.\n- The Joint Universities Preliminary Examinations Board (JUPEB) provides direct entry for students without JAMB scores.\n- Both programs are government-approved and recognized for admission to universities in Nigeria and abroad.",
+        "text_original": "The Interim Joint Matriculation Board (IJMB) offers an advanced-level program for direct entry into universities.\n- The Joint Universities Preliminary Examinations Board (JUPEB) provides direct entry for students without JAMB scores.\n- Both programs are government-approved and recognized for admission to universities in Nigeria and abroad",
+        "idx_start": 3867,
+        "idx_end": 4207
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Tertiary Education\nTertiary education in Nigeria is majority-controlled by the government, comprising universities, polytechnics, monotechnics, and colleges of education. The country has 153 registered universities (40 federal, 45 state, and 68 private). Admission requirements include SSCE/GCE Ordinary Level credits, a minimum JAMB score of 180, and direct entry qualifications for those with NCE, ND, or Advanced Level Certificates.",
+        "text_original": "Tertiary education in Nigeria is majority-controlled by the government, comprising universities, polytechnics, monotechnics, and colleges of education. The country has 153 registered universities (40 federal, 45 state, and 68 private). Admission requirements include SSCE/GCE Ordinary Level credits, a minimum JAMB score of 180, and direct entry qualifications for those with NCE, ND, or Advanced Level Certificates",
+        "idx_start": 4238,
+        "idx_end": 4653
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Tiered Universities:\n- **First Generation:** Established between 1948 and 1965 (e.g., University of Ibadan, University of Nigeria, Nsukka, Obafemi Awolowo University, Ahmadu Bello University).\n- **Second Generation:** Established between 1970 and 1985 (e.g., University of Calabar, University of Ilorin, University of Jos, University of Maiduguri).\n- **Third Generation:** Established in the 1980s to address technological and agricultural demands (e.g., Federal University of Technology, Owerri).",
+        "text_original": "First Generation:** Established between 1948 and 1965 (e.g., University of Ibadan, University of Nigeria, Nsukka, Obafemi Awolowo University, Ahmadu Bello University).\n- **Second Generation:** Established between 1970 and 1985 (e.g., University of Calabar, University of Ilorin, University of Jos, University of Maiduguri).\n- **Third Generation:** Established in the 1980s to address technological and agricultural demands (e.g., Federal University of Technology, Owerri",
+        "idx_start": 4685,
+        "idx_end": 5155
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Private Universities:\n- Established in 1993, private universities are regulated by the Federal Government.\n- Tuition fees vary widely, with some private universities charging up to $30,000 annually.",
+        "text_original": "Established in 1993, private universities are regulated by the Federal Government.\n- Tuition fees vary widely, with some private universities charging up to $30,000 annually",
+        "idx_start": 5187,
+        "idx_end": 5360
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Vocational Education\nVocational training and informal education dominate in Nigeria. The National Board for Technical Education oversees vocational education, with the Master Plan for 2001-2010 aimed at improving vocational programs. Challenges include a shortage of teachers, outdated curricula, and lack of labor market data. The National Business and Technical Examinations Board (NABTEB) administers vocational certificates, and apprenticeships are encouraged for skill development.",
+        "text_original": "Vocational training and informal education dominate in Nigeria. The National Board for Technical Education oversees vocational education, with the Master Plan for 2001-2010 aimed at improving vocational programs. Challenges include a shortage of teachers, outdated curricula, and lack of labor market data. The National Business and Technical Examinations Board (NABTEB) administers vocational certificates, and apprenticeships are encouraged for skill development",
+        "idx_start": 5393,
+        "idx_end": 5857
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Informal Education and Literacy Programs\nInformal education is decentralized and unique, often decentralized and mission-driven. Successes include communal literacy programs like the Premier Reading Club (PRC), but funding remains a challenge. The government has partnered with UNESCO to support mass literacy programs and review non-formal education policies.",
+        "text_original": "Informal education is decentralized and unique, often decentralized and mission-driven. Successes include communal literacy programs like the Premier Reading Club (PRC), but funding remains a challenge. The government has partnered with UNESCO to support mass literacy programs and review non-formal education policies",
+        "idx_start": 5910,
+        "idx_end": 6228
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Female Education\nEducation is recognized as a basic human right, with a positive correlation between girls' enrollment and national development metrics. Despite progress, challenges include gender bias, teen pregnancy, religious beliefs, poverty, and poor school facilities. Initiatives like the UNICEF Girls' Education Project aim to improve enrollment, retention, and completion rates.",
+        "text_original": "Education is recognized as a basic human right, with a positive correlation between girls' enrollment and national development metrics. Despite progress, challenges include gender bias, teen pregnancy, religious beliefs, poverty, and poor school facilities. Initiatives like the UNICEF Girls' Education Project aim to improve enrollment, retention, and completion rates",
+        "idx_start": 6257,
+        "idx_end": 6626
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Secondary Education in Rural Areas\nEducation in rural Nigeria faces significant challenges, including poor infrastructure, insufficient academic staff, insecurity, and non-payment of staff salaries. Rural schools are often in a \"sorry state,\" with a majority of the population living in neglected areas.",
+        "text_original": "Education in rural Nigeria faces significant challenges, including poor infrastructure, insufficient academic staff, insecurity, and non-payment of staff salaries. Rural schools are often in a \"sorry state,\" with a majority of the population living in neglected areas",
+        "idx_start": 6673,
+        "idx_end": 6940
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Literacy in Nigeria\nThe literacy rate in Nigeria is 62.02% (2018), with significant regional disparities. The North-East and North-West regions have the highest out-of-school children due to poverty, insecurity, and cultural factors like child marriage and religious extremism. Efforts to improve literacy include multilingual education, access to resources, and initiatives like the Premier Reading Club (PRC). The government has prioritized literacy, with policies aimed at enhancing functional literacy and creating equitable access to education.",
+        "text_original": "The literacy rate in Nigeria is 62.02% (2018), with significant regional disparities. The North-East and North-West regions have the highest out-of-school children due to poverty, insecurity, and cultural factors like child marriage and religious extremism. Efforts to improve literacy include multilingual education, access to resources, and initiatives like the Premier Reading Club (PRC). The government has prioritized literacy, with policies aimed at enhancing functional literacy and creating equitable access to education",
+        "idx_start": 6972,
+        "idx_end": 7500
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## History\n- **1966:** The Fianna F\u00e1il Education Minister, Donogh O\u2019Malley, announced plans for free upper secondary education, which was eventually introduced in 1967.\n- **1973:** The Irish language requirement for a second-level certificate was abandoned.",
+        "text_original": "The Fianna F\u00e1il Education Minister, Donogh O\u2019Malley, announced plans for free upper secondary education, which was eventually introduced in 1967.\n- **1973:** The Irish language requirement for a second-level certificate was abandoned",
+        "idx_start": 7567,
+        "idx_end": 7800
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Structure\nEducation in Ireland is compulsory from ages 5 to 16 or until students complete three years of second-level education. Under the Constitution of Ireland, parents are not obligated to send their children to state schools but have legal rights regarding education.",
+        "text_original": "Education in Ireland is compulsory from ages 5 to 16 or until students complete three years of second-level education. Under the Constitution of Ireland, parents are not obligated to send their children to state schools but have legal rights regarding education",
+        "idx_start": 7822,
+        "idx_end": 8083
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Types of Schools:\n- **National Schools:** Controlled by a board of management under diocesan patronage, often including a local clergyman.\n- **Gaelscoileanna:** Irish-language schools, with Irish as the primary medium of instruction.\n- **Multidenominational Schools:** Open to students from all religions and backgrounds.\n- **Preparatory Schools:** Independent, fee-charging primary schools preparing students for secondary education.",
+        "text_original": "National Schools:** Controlled by a board of management under diocesan patronage, often including a local clergyman.\n- **Gaelscoileanna:** Irish-language schools, with Irish as the primary medium of instruction.\n- **Multidenominational Schools:** Open to students from all religions and backgrounds.\n- **Preparatory Schools:** Independent, fee-charging primary schools preparing students for secondary education",
+        "idx_start": 8112,
+        "idx_end": 8523
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Framework\nEducation is structured around the European Qualifications Framework (EQF) and the European Higher Education Area (EHEA) framework, with levels corresponding to the National Framework for Qualifications (NFQ).",
+        "text_original": "Education is structured around the European Qualifications Framework (EQF) and the European Higher Education Area (EHEA) framework, with levels corresponding to the National Framework for Qualifications (NFQ",
+        "idx_start": 8545,
+        "idx_end": 8752
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## School Years\n- **Primary School:** Ages 4\u201312, divided into Junior Infants (age 4\u20135/5\u20136), Senior Infants (age 5\u20136/6\u20137), and grades 1\u20136.\n- **Secondary School:** Ages 12\u201319, divided into Junior Cycle (ages 12\u201315), Transition Year (optional, ages 15\u201316), and Senior Cycle (ages 16\u201319).",
+        "text_original": "Primary School:** Ages 4\u201312, divided into Junior Infants (age 4\u20135/5\u20136), Senior Infants (age 5\u20136/6\u20137), and grades 1\u20136.\n- **Secondary School:** Ages 12\u201319, divided into Junior Cycle (ages 12\u201315), Transition Year (optional, ages 15\u201316), and Senior Cycle (ages",
+        "idx_start": 8782,
+        "idx_end": 9038
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Primary Education\nThe Primary School Curriculum (1999) focuses on nurturing children in all dimensions of life, including spiritual, moral, cognitive, emotional, imaginative, aesthetic, social, and physical development. The curriculum is prepared by the National Council for Curriculum and Assessment.",
+        "text_original": "The Primary School Curriculum (1999) focuses on nurturing children in all dimensions of life, including spiritual, moral, cognitive, emotional, imaginative, aesthetic, social, and physical development. The curriculum is prepared by the National Council for Curriculum and Assessment",
+        "idx_start": 9075,
+        "idx_end": 9357
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Secondary Education\n- **Junior Cycle:** A three-year program culminating in the Junior Certificate Examination.\n- **Transition Year:** Optional one-year program for students aged 15\u201316.\n- **Senior Cycle:** A two-year program culminating in the Leaving Certificate Examination.",
+        "text_original": "Junior Cycle:** A three-year program culminating in the Junior Certificate Examination.\n- **Transition Year:** Optional one-year program for students aged 15\u201316.\n- **Senior Cycle:** A two-year program culminating in the Leaving Certificate Examination",
+        "idx_start": 9393,
+        "idx_end": 9644
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Third-Level Education\nIreland is recognized as one of the top twenty best countries for education globally.",
+        "text_original": "Ireland is recognized as one of the top twenty best countries for education globally",
+        "idx_start": 9678,
+        "idx_end": 9762
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Special Needs Education\nThe Education for Persons with Special Educational Needs Act (2004) established a framework for education of students with special needs. Special Needs Assistants (SNAs) provide additional learning support for students with disabilities.",
+        "text_original": "The Education for Persons with Special Educational Needs Act (2004) established a framework for education of students with special needs. Special Needs Assistants (SNAs) provide additional learning support for students with disabilities",
+        "idx_start": 9798,
+        "idx_end": 10034
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Areas of Disadvantage\nThe Department of Education identifies disadvantaged schools and provides additional assistance through schemes like the Delivering Equality of Opportunity in Schools (DEIS) program, which includes reduced class sizes and other supports.",
+        "text_original": "The Department of Education identifies disadvantaged schools and provides additional assistance through schemes like the Delivering Equality of Opportunity in Schools (DEIS) program, which includes reduced class sizes and other supports",
+        "idx_start": 10068,
+        "idx_end": 10304
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## International Students\nIreland is a popular destination for international students, with many universities and colleges educating global leaders.",
+        "text_original": "Ireland is a popular destination for international students, with many universities and colleges educating global leaders",
+        "idx_start": 10339,
+        "idx_end": 10460
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ireland\n## Holidays\nThe school year is divided into three terms, with major holiday breaks around Easter, Christmas, and mid-term.",
+        "text_original": "The school year is divided into three terms, with major holiday breaks around Easter, Christmas, and mid-term",
+        "idx_start": 10481,
+        "idx_end": 10590
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## History\n- **Dutch East India Company:** Implemented education systems in Taiwan.\n- **Ming Chinese Loyalists:** Established academies like Daodong Academy.\n- **Republic of China:** After 1949, public schools were established, and private schools were suppressed to ensure loyalty.\n- **1954:** Educational reforms began, revitalizing and expanding private schooling.",
+        "text_original": "Dutch East India Company:** Implemented education systems in Taiwan.\n- **Ming Chinese Loyalists:** Established academies like Daodong Academy.\n- **Republic of China:** After 1949, public schools were established, and private schools were suppressed to ensure loyalty.\n- **1954:** Educational reforms began, revitalizing and expanding private schooling",
+        "idx_start": 10648,
+        "idx_end": 10999
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## Public Education\n- **Compulsory:** Primary school through junior high school since 1968.\n- **12-Year Compulsory Education:** Implemented by 2014.\n- **Discipline:** Strict with school uniforms and morning reveille.\n- **Semesters:** Two semesters per year, with winter and summer vacations.\n- **Language:** Mandarin.",
+        "text_original": "Compulsory:** Primary school through junior high school since 1968.\n- **12-Year Compulsory Education:** Implemented by 2014.\n- **Discipline:** Strict with school uniforms and morning reveille.\n- **Semesters:** Two semesters per year, with winter and summer vacations.\n- **Language:** Mandarin",
+        "idx_start": 11032,
+        "idx_end": 11324
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## School Grades\n- **Elementary School:** Grades 1\u20136.\n- **Junior High School:** Grades 7\u20139.\n- **Senior High School:** Grades 10\u201312.\n- **Vocational Schools:** Three-year programs focusing on practical skills.",
+        "text_original": "Elementary School:** Grades 1\u20136.\n- **Junior High School:** Grades 7\u20139.\n- **Senior High School:** Grades 10\u201312.\n- **Vocational Schools:** Three-year programs focusing on practical skills",
+        "idx_start": 11354,
+        "idx_end": 11539
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## Higher Education\n- **Universities:** Public and private, with public universities receiving government support.\n- **Engineering:** Popular field, with engineering degrees accounting for over a quarter of bachelor's degrees.\n- **Tuition:** Lower in public universities compared to private ones.",
+        "text_original": "Universities:** Public and private, with public universities receiving government support.\n- **Engineering:** Popular field, with engineering degrees accounting for over a quarter of bachelor's degrees.\n- **Tuition:** Lower in public universities compared to private ones",
+        "idx_start": 11572,
+        "idx_end": 11843
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## Vocational Education\n- **Junior Colleges:** Five-year and two-year programs offering associate degrees.\n- **Institutes of Technology:** Offer associate's, bachelor's, master's, and doctoral degrees.\n- **Challenges:** Shortage of teachers, outdated curriculum, and lack of labor market data.",
+        "text_original": "Junior Colleges:** Five-year and two-year programs offering associate degrees.\n- **Institutes of Technology:** Offer associate's, bachelor's, master's, and doctoral degrees.\n- **Challenges:** Shortage of teachers, outdated curriculum, and lack of labor market data",
+        "idx_start": 11880,
+        "idx_end": 12144
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## Private Education\n- **Cram Schools:** Popular for after-school classes to supplement regular education.\n- **Kindergartens and Preschools:** Increasingly popular, with some offering accelerated courses.",
+        "text_original": "Cram Schools:** Popular for after-school classes to supplement regular education.\n- **Kindergartens and Preschools:** Increasingly popular, with some offering accelerated courses",
+        "idx_start": 12178,
+        "idx_end": 12356
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## Special Education Services\n- **Special Education Act:** Established in 1984, providing services for students with special needs.\n- **Three Main Ways:** Centralized special education classes, decentralized resource rooms, and itinerant resource programs.",
+        "text_original": "Special Education Act:** Established in 1984, providing services for students with special needs.\n- **Three Main Ways:** Centralized special education classes, decentralized resource rooms, and itinerant resource programs",
+        "idx_start": 12399,
+        "idx_end": 12620
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## Nursing Education\n- **Entry:** After completing education, students gain qualifications to participate in the National exam for professional nurse license.",
+        "text_original": "Entry:** After completing education, students gain qualifications to participate in the National exam for professional nurse license",
+        "idx_start": 12654,
+        "idx_end": 12786
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Schools: Tiers and Tracks\n- **Primary Education:** Grades 1\u20136 (ages 6\u201312).\n- **Middle School:** Grades 7\u20139 (ages 12\u201315).\n- **High School:** Grades 10\u201312 (ages 15\u201318).\n- **Compulsory Education:** From kindergarten through 12th grade.",
+        "text_original": "Primary Education:** Grades 1\u20136 (ages 6\u201312).\n- **Middle School:** Grades 7\u20139 (ages 12\u201315).\n- **High School:** Grades 10\u201312 (ages 15\u201318).\n- **Compulsory Education:** From kindergarten through 12th grade",
+        "idx_start": 12862,
+        "idx_end": 13063
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Tracks:\n- **State-Secular (Mamlachti):** Secular curriculum.\n- **State-Religious (Mamlachti Dati):** Intensive Jewish studies.\n- **Independent Religious (Haredi):** Focuses on Torah study.\n- **Arab Schools:** Teach in Arabic, emphasizing Arab history, religion, and culture.",
+        "text_original": "State-Secular (Mamlachti):** Secular curriculum.\n- **State-Religious (Mamlachti Dati):** Intensive Jewish studies.\n- **Independent Religious (Haredi):** Focuses on Torah study.\n- **Arab Schools:** Teach in Arabic, emphasizing Arab history, religion, and culture",
+        "idx_start": 13082,
+        "idx_end": 13343
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Societal Approach to Education\n- **Higher Education:** Seen as key to socioeconomic mobility.\n- **Education Value:** Highly valued in Israeli society, with many parents prioritizing education.\n- **Labor Market:** High demand for higher education, particularly in science and engineering.",
+        "text_original": "Higher Education:** Seen as key to socioeconomic mobility.\n- **Education Value:** Highly valued in Israeli society, with many parents prioritizing education.\n- **Labor Market:** High demand for higher education, particularly in science and engineering",
+        "idx_start": 13390,
+        "idx_end": 13641
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Matriculation (Bagrut)\n- **High Schools:** Prepare students for the Israeli matriculation exams (bagrut).\n- **Exams:** Cover various academic disciplines, with passing marks required for matriculation.\n- **Impact:** Matriculation certificates determine acceptance into elite military units, admission to academic institutions, and job prospects.",
+        "text_original": "High Schools:** Prepare students for the Israeli matriculation exams (bagrut).\n- **Exams:** Cover various academic disciplines, with passing marks required for matriculation.\n- **Impact:** Matriculation certificates determine acceptance into elite military units, admission to academic institutions, and job prospects",
+        "idx_start": 13680,
+        "idx_end": 13997
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Higher Education\n- **Universities:** Nine public universities, with some private institutions.\n- **Admission:** Requires certain bagrut matriculation units and a good grade in the Psychometric Entrance Test.\n- **Tuition:** Public universities subsidized by the government, with discounts for military service.\n- **Rankings:** Israel's universities rank highly in science and engineering-related subjects.",
+        "text_original": "Universities:** Nine public universities, with some private institutions.\n- **Admission:** Requires certain bagrut matriculation units and a good grade in the Psychometric Entrance Test.\n- **Tuition:** Public universities subsidized by the government, with discounts for military service.\n- **Rankings:** Israel's universities rank highly in science and engineering-related subjects",
+        "idx_start": 14030,
+        "idx_end": 14412
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Criticisms\n- **Test Scores:** Scores from standardized tests exclude Haredi and special education students, not accurately reflecting overall education quality.\n- **Teacher Quality:** Large classes, low wages, and low morale among teachers.\n- **Textbooks:** Negative portrayal of Arabs in textbooks.",
+        "text_original": "Test Scores:** Scores from standardized tests exclude Haredi and special education students, not accurately reflecting overall education quality.\n- **Teacher Quality:** Large classes, low wages, and low morale among teachers.\n- **Textbooks:** Negative portrayal of Arabs in textbooks",
+        "idx_start": 14439,
+        "idx_end": 14722
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Arab Sector\n- **Education System:** Operates separately, teaching in Arabic about Arab history and culture.\n- **Funding Disparities:** The Jewish education system receives more resources.\n- **Challenges:** High dropout rates, underfunding, and lack of resources in Arab schools.",
+        "text_original": "Education System:** Operates separately, teaching in Arabic about Arab history and culture.\n- **Funding Disparities:** The Jewish education system receives more resources.\n- **Challenges:** High dropout rates, underfunding, and lack of resources in Arab schools",
+        "idx_start": 14750,
+        "idx_end": 15011
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## History\n- **Pre-Islamic Iran:** Emphasis on education to understand God and live a prosperous life.\n- **Safavid Era:** Modern education system formed with a mixed emphasis on Islamic values and scientific advancements.\n- **Qajar Era:** Educational Committee (Anjoman-e Ma'arf) promoted educational reform.\n- **Literacy Corps (1969\u20131979):** Aimed to improve literacy rates through mass education.\n- **Post-Islamic Revolution:** Islamization of textbooks, segregation by sex, and mandatory religious ceremonies.",
+        "text_original": "Pre-Islamic Iran:** Emphasis on education to understand God and live a prosperous life.\n- **Safavid Era:** Modern education system formed with a mixed emphasis on Islamic values and scientific advancements.\n- **Qajar Era:** Educational Committee (Anjoman-e Ma'arf) promoted educational reform.\n- **Literacy Corps (1969\u20131979):** Aimed to improve literacy rates through mass education.\n- **Post-Islamic Revolution:** Islamization of textbooks, segregation by sex, and mandatory religious ceremonies",
+        "idx_start": 15067,
+        "idx_end": 15563
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Grades and Structure\n- **Pre-Primary:** Kindergarten (1 year).\n- **Elementary Education:** Grades 1\u20136 (6 years).\n- **Lower Secondary:** Grades 7\u20139 (3 years).\n- **Upper Secondary:** Grades 10\u201312 (3 years).\n- **Vocational Schools:** 2 years.\n- **University:** 4 years (undergraduate), 2 years (graduate).",
+        "text_original": "Pre-Primary:** Kindergarten (1 year).\n- **Elementary Education:** Grades 1\u20136 (6 years).\n- **Lower Secondary:** Grades 7\u20139 (3 years).\n- **Upper Secondary:** Grades 10\u201312 (3 years).\n- **Vocational Schools:** 2 years.\n- **University:** 4 years (undergraduate), 2 years (graduate",
+        "idx_start": 15600,
+        "idx_end": 15875
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Budget and Challenges\n- **Education Budget:** 20% of government spending and 5% of GDP.\n- **Teacher Shortage:** Around 60,000 teachers are needed but only 950,000 are available.\n- **Privatization:** Rising costs of private schools, with public schools considered weak and expensive for the poor.",
+        "text_original": "Education Budget:** 20% of government spending and 5% of GDP.\n- **Teacher Shortage:** Around 60,000 teachers are needed but only 950,000 are available.\n- **Privatization:** Rising costs of private schools, with public schools considered weak and expensive for the poor",
+        "idx_start": 15914,
+        "idx_end": 16182
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Foreign Languages\n- **Persian:** Official language.\n- **Arabic:** Taught in grades 7\u201312.\n- **English:** Most desired language.\n- **French:** Added to the curriculum in 2022.",
+        "text_original": "Persian:** Official language.\n- **Arabic:** Taught in grades 7\u201312.\n- **English:** Most desired language.\n- **French:** Added to the curriculum in",
+        "idx_start": 16216,
+        "idx_end": 16361
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Higher Education\n- **Universities:** 16 universities, closed after the 1979 revolution, reopened gradually under Islamic supervision.\n- **Admission:** Based on the nationwide Konkur exam.\n- **Notable Universities:** Tehran University, Sharif University of Technology, Amirkabir University of Technology.",
+        "text_original": "Universities:** 16 universities, closed after the 1979 revolution, reopened gradually under Islamic supervision.\n- **Admission:** Based on the nationwide Konkur exam.\n- **Notable Universities:** Tehran University, Sharif University of Technology, Amirkabir University of Technology",
+        "idx_start": 16399,
+        "idx_end": 16680
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Women in Education\n- **Enrollment:** Women comprised over 70% of university students in 2015.\n- **Challenges:** Restrictions on women's education due to Islamic society norms.",
+        "text_original": "Enrollment:** Women comprised over 70% of university students in 2015.\n- **Challenges:** Restrictions on women's education due to Islamic society norms",
+        "idx_start": 16715,
+        "idx_end": 16866
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Schools for Gifted Children\n- **National Organization for Development of Exceptional Talents (NODET):** Maintains middle and high schools for gifted students.\n- **Tuition:** Similar to private schools but may be partially or fully waived based on financial conditions.",
+        "text_original": "National Organization for Development of Exceptional Talents (NODET):** Maintains middle and high schools for gifted students.\n- **Tuition:** Similar to private schools but may be partially or fully waived based on financial conditions",
+        "idx_start": 16910,
+        "idx_end": 17145
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Education Reform\n- **Fourth Five-Year Development Plan:** Focus on upgrading educational quality and reforming curricula.\n- **Hybrid Method Learning Program:** Mass hybrid teaching in universities with learning management systems.",
+        "text_original": "Fourth Five-Year Development Plan:** Focus on upgrading educational quality and reforming curricula.\n- **Hybrid Method Learning Program:** Mass hybrid teaching in universities with learning management systems",
+        "idx_start": 17178,
+        "idx_end": 17386
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## Administration\n- **Ministries:** Ministry of Education, Ministry of Higher Education, Ministry of Education Services, Ministry of Skills Development and Vocational Training.\n- **National Institute of Education (NIE):** Provides leadership for the development of general education.",
+        "text_original": "Ministries:** Ministry of Education, Ministry of Higher Education, Ministry of Education Services, Ministry of Skills Development and Vocational Training.\n- **National Institute of Education (NIE):** Provides leadership for the development of general education",
+        "idx_start": 17454,
+        "idx_end": 17714
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## History\n- **Ancient Education:** Sanskrit introduced by Buddhism, with schools and libraries in ancient times.\n- **Colonial Period:** British introduced standardized schools, leading to the establishment of the Royal College in Colombo.\n- **Post-Independence:** Increased number of schools and literacy rates, with the introduction of free education in 1938.",
+        "text_original": "Ancient Education:** Sanskrit introduced by Buddhism, with schools and libraries in ancient times.\n- **Colonial Period:** British introduced standardized schools, leading to the establishment of the Royal College in Colombo.\n- **Post-Independence:** Increased number of schools and literacy rates, with the introduction of free education in",
+        "idx_start": 17738,
+        "idx_end": 18078
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## Primary and Secondary Education\n- **Structure:** Five stages: primary, junior secondary, senior secondary, collegiate, and tertiary.\n- **Primary School:** Ages 4\u201311, with a Scholarship exam at the end of Grade 5.\n- **Junior Secondary:** Ages 11\u201314, leading to the General Certificate of Education (GCE) Ordinary Level (O/Ls).\n- **Senior Secondary:** Ages 14\u201316, leading to the GCE Advanced Level (A/Ls).",
+        "text_original": "Structure:** Five stages: primary, junior secondary, senior secondary, collegiate, and tertiary.\n- **Primary School:** Ages 4\u201311, with a Scholarship exam at the end of Grade 5.\n- **Junior Secondary:** Ages 11\u201314, leading to the General Certificate of Education (GCE) Ordinary Level (O/Ls).\n- **Senior Secondary:** Ages 14\u201316, leading to the GCE Advanced Level (A/Ls",
+        "idx_start": 18131,
+        "idx_end": 18496
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## Types of Schools:\n- **National Schools:** Established during colonial times, with a rich history.\n- **Provincial Schools:** Majority of schools, with varying quality.\n- **Pirivenas:** Monastic colleges for Buddhist priests.\n- **Private Schools:** Increasing in number, offering alternative curricula.\n- **International Schools:** Offering IGCSE, A-levels, and IB programs.",
+        "text_original": "National Schools:** Established during colonial times, with a rich history.\n- **Provincial Schools:** Majority of schools, with varying quality.\n- **Pirivenas:** Monastic colleges for Buddhist priests.\n- **Private Schools:** Increasing in number, offering alternative curricula.\n- **International Schools:** Offering IGCSE, A-levels, and IB programs",
+        "idx_start": 18526,
+        "idx_end": 18875
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## Tertiary Education\n- **Universities:** 15 state universities, with high competition for admission.\n- **Vocational Education:** Managed by the Tertiary and Vocational Education Commission.\n- **Criticisms:** High competition, limited exposure, and brain drain.",
+        "text_original": "Universities:** 15 state universities, with high competition for admission.\n- **Vocational Education:** Managed by the Tertiary and Vocational Education Commission.\n- **Criticisms:** High competition, limited exposure, and brain drain",
+        "idx_start": 18910,
+        "idx_end": 19144
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## Vocational Education and Training\n- **National Vocational Qualifications Systems:** Seven levels of qualifications from Level 1 to Level 7.\n- **Training:** Offered at technical colleges, the Open University, and the University of Vocational Technology.",
+        "text_original": "National Vocational Qualifications Systems:** Seven levels of qualifications from Level 1 to Level 7.\n- **Training:** Offered at technical colleges, the Open University, and the University of Vocational Technology",
+        "idx_start": 19194,
+        "idx_end": 19407
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## History\n- **Republic of Turkey:** Education gradually developed and reorganized with the Law no 2287 in 1933.\n- **Pre-Colonial Era:** Schools were organized into three separate channels: district schools, madrasas, and reform schools.\n- **1924:** Law of Integration of Education (no 430) combined these channels, promoting secularism.\n- **1928:** New Latin-based alphabet introduced.",
+        "text_original": "Republic of Turkey:** Education gradually developed and reorganized with the Law no 2287 in 1933.\n- **Pre-Colonial Era:** Schools were organized into three separate channels: district schools, madrasas, and reform schools.\n- **1924:** Law of Integration of Education (no 430) combined these channels, promoting secularism.\n- **1928:** New Latin-based alphabet introduced",
+        "idx_start": 19465,
+        "idx_end": 19835
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Pre-Primary Education\n- **Kindergarten:** Optional education for children aged 36\u201372 months.\n- **Nurseries and Kindergartens:** Opened by the Ministry of National Education and other institutions.",
+        "text_original": "Kindergarten:** Optional education for children aged 36\u201372 months.\n- **Nurseries and Kindergartens:** Opened by the Ministry of National Education and other institutions",
+        "idx_start": 19873,
+        "idx_end": 20042
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Primary Education\n- **Duration:** 8 years.\n- **Core Subjects:** Turkish, Mathematics, Life Knowledge, and Foreign Language.\n- **Curriculum:** Standardized across the country.",
+        "text_original": "Duration:** 8 years.\n- **Core Subjects:** Turkish, Mathematics, Life Knowledge, and Foreign Language.\n- **Curriculum:** Standardized across the country",
+        "idx_start": 20076,
+        "idx_end": 20227
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Secondary Education\n- **General Secondary Education:** Covers children aged 15\u201317 for at least three years.\n- **Vocational and Technical Secondary Education:** Prepares students for higher education and vocational careers.\n- **Curriculum:** Includes Turkish language, mathematics, physics, chemistry, biology, geography, religion, physical education, and foreign languages.",
+        "text_original": "General Secondary Education:** Covers children aged 15\u201317 for at least three years.\n- **Vocational and Technical Secondary Education:** Prepares students for higher education and vocational careers.\n- **Curriculum:** Includes Turkish language, mathematics, physics, chemistry, biology, geography, religion, physical education, and foreign languages",
+        "idx_start": 20263,
+        "idx_end": 20611
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Higher Education\n- **Universities:** 76 universities, with 53 state and 23 foundation universities.\n- **Admission:** Based on the national university entrance examination.\n- **Research:** Coordinated by the Scientific and Technological Research Council of Turkey (T\u00dcB\u0130TAK).",
+        "text_original": "Universities:** 76 universities, with 53 state and 23 foundation universities.\n- **Admission:** Based on the national university entrance examination.\n- **Research:** Coordinated by the Scientific and Technological Research Council of Turkey (T\u00dcB\u0130TAK",
+        "idx_start": 20644,
+        "idx_end": 20894
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Private Schools\n- **Types:** Private Turkish schools, minority schools, foreign schools, and international education institutions.\n- **Religious Education:** Introduced in 1956, with a focus on secularism and ethical values.",
+        "text_original": "Types:** Private Turkish schools, minority schools, foreign schools, and international education institutions.\n- **Religious Education:** Introduced in 1956, with a focus on secularism and ethical values",
+        "idx_start": 20927,
+        "idx_end": 21130
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Foreign Languages\n- **English:** Most common foreign language, taught from grade 2.\n- **Other Languages:** German, French, Spanish, Arabic, Russian, and Chinese.",
+        "text_original": "English:** Most common foreign language, taught from grade 2.\n- **Other Languages:** German, French, Spanish, Arabic, Russian, and Chinese",
+        "idx_start": 21164,
+        "idx_end": 21302
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Criticisms\n- **Education System:** Constant alterations have caused controversy.\n- **Textbooks:** Negative portrayal of Armenians in textbooks.\n- **Bias:** Curricula are required to teach history based on state-approved textbooks.",
+        "text_original": "Education System:** Constant alterations have caused controversy.\n- **Textbooks:** Negative portrayal of Armenians in textbooks.\n- **Bias:** Curricula are required to teach history based on state-approved textbooks",
+        "idx_start": 21329,
+        "idx_end": 21543
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## History\n- **Antiquity:** Education in ancient Egypt, with the first school and library, Bar Ankh.\n- **Medieval Egypt:** Al-Azhar and Dar al-Ilm as centers of Islamic education.\n- **French Expedition:** Institut d'\u00c9gypte established in 1798.\n- **Muhammad Ali's Reforms:** Modern education introduced, leading to a dual system of religious and secular schools.",
+        "text_original": "Antiquity:** Education in ancient Egypt, with the first school and library, Bar Ankh.\n- **Medieval Egypt:** Al-Azhar and Dar al-Ilm as centers of Islamic education.\n- **French Expedition:** Institut d'\u00c9gypte established in 1798.\n- **Muhammad Ali's Reforms:** Modern education introduced, leading to a dual system of religious and secular schools",
+        "idx_start": 21600,
+        "idx_end": 21945
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## Education System\n- **Basic Education:** Ages 4\u201314, free and compulsory.\n- **Secondary Education:** Three-year general and technical programs.\n- **Higher Education:** Extensive system with public and private institutions.",
+        "text_original": "Basic Education:** Ages 4\u201314, free and compulsory.\n- **Secondary Education:** Three-year general and technical programs.\n- **Higher Education:** Extensive system with public and private institutions",
+        "idx_start": 21978,
+        "idx_end": 22176
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## Challenges\n- **Quality:** Low and unevenly distributed.\n- **Private Tutoring:** Rapid expansion due to inadequate public education.\n- **Teacher Quality:** Low qualifications and salaries.\n- **Funding:** Insufficient public education funding.",
+        "text_original": "Quality:** Low and unevenly distributed.\n- **Private Tutoring:** Rapid expansion due to inadequate public education.\n- **Teacher Quality:** Low qualifications and salaries.\n- **Funding:** Insufficient public education funding",
+        "idx_start": 22203,
+        "idx_end": 22428
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## International Schools\n- **184 International Schools:** Offer curricula from various countries.",
+        "text_original": "International Schools:** Offer curricula from various countries",
+        "idx_start": 22470,
+        "idx_end": 22533
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## Al-Azhar System\n- **Curriculum:** Six-year primary, three-year preparatory, and three-year secondary.\n- **Segregation:** Separate schools for boys and girls.",
+        "text_original": "Curriculum:** Six-year primary, three-year preparatory, and three-year secondary.\n- **Segregation:** Separate schools for boys and girls",
+        "idx_start": 22565,
+        "idx_end": 22701
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## Agricultural Education\n- **Secondary Agricultural Schools:** Offering three-year and five-year programs.",
+        "text_original": "Secondary Agricultural Schools:** Offering three-year and five-year programs",
+        "idx_start": 22740,
+        "idx_end": 22816
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## History\n- **Napoleon:** Began French university and secondary educational systems.\n- **Jules Ferry:** Introduced free, compulsory, and secular education in 1881.\n- **Education Act:** Repealed most of the Falloux Laws, promoting secularism.",
+        "text_original": "Napoleon:** Began French university and secondary educational systems.\n- **Jules Ferry:** Introduced free, compulsory, and secular education in 1881.\n- **Education Act:** Repealed most of the Falloux Laws, promoting secularism",
+        "idx_start": 22874,
+        "idx_end": 23100
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Governance\n- **Ministry of National Education:** Regulates all educational programs.\n- **Curriculum:** Standardized for all French students in each grade.",
+        "text_original": "Ministry of National Education:** Regulates all educational programs.\n- **Curriculum:** Standardized for all French students in each grade",
+        "idx_start": 23127,
+        "idx_end": 23265
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## School Year\n- **Duration:** September to July.\n- **Holidays:** Major breaks around Easter, Christmas, and mid-term.",
+        "text_original": "Duration:** September to July.\n- **Holidays:** Major breaks around Easter, Christmas, and mid-term",
+        "idx_start": 23293,
+        "idx_end": 23391
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Primary School\n- **Duration:** 5 years (ages 6\u201311).\n- **Curriculum:** Focus on reading, writing, mathematics, science, and arts.",
+        "text_original": "Duration:** 5 years (ages 6\u201311).\n- **Curriculum:** Focus on reading, writing, mathematics, science, and arts",
+        "idx_start": 23422,
+        "idx_end": 23530
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Middle and High School\n- **Compulsory Subjects:** French language, history, foreign languages, arts, civics, mathematics, physics, chemistry, natural sciences, technology, and physical education.\n- **Types of Schools:** Public, private, and international schools.",
+        "text_original": "Compulsory Subjects:** French language, history, foreign languages, arts, civics, mathematics, physics, chemistry, natural sciences, technology, and physical education.\n- **Types of Schools:** Public, private, and international schools",
+        "idx_start": 23569,
+        "idx_end": 23804
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Private Schools\n- **Types:** Private schools under contract and private schools without contract.\n- **Curriculum:** Respect the State curriculum or offer their own curriculum.",
+        "text_original": "Types:** Private schools under contract and private schools without contract.\n- **Curriculum:** Respect the State curriculum or offer their own curriculum",
+        "idx_start": 23836,
+        "idx_end": 23990
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## International Education\n- **105 International Schools:** Offer curricula in English or other languages.",
+        "text_original": "International Schools:** Offer curricula in English or other languages",
+        "idx_start": 24034,
+        "idx_end": 24104
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Higher Education\n- **Structure:** Licence, Master's, and Doctorate degrees.\n- **Universities:** Public and private, with public universities being more affordable.\n- **Grandes \u00c9coles:** Elite higher-education institutions, highly selective.",
+        "text_original": "Structure:** Licence, Master's, and Doctorate degrees.\n- **Universities:** Public and private, with public universities being more affordable.\n- **Grandes \u00c9coles:** Elite higher-education institutions, highly selective",
+        "idx_start": 24137,
+        "idx_end": 24355
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Tuition Costs\n- **Higher Education:** Low fees for EU, EEA, Swiss, and Quebec students; higher fees for international students.",
+        "text_original": "Higher Education:** Low fees for EU, EEA, Swiss, and Quebec students; higher fees for international students",
+        "idx_start": 24385,
+        "idx_end": 24493
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Adult Education\n- **Continuing Education:** Offered by universities and vocational training agencies.",
+        "text_original": "Continuing Education:** Offered by universities and vocational training agencies",
+        "idx_start": 24525,
+        "idx_end": 24605
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Indonesia\n## History\n- **Islamic Kingdoms Period:** Pondok Pesantren introduced.\n- **Dutch Colonial Period:** Formal education introduced, segregated by social status.\n- **Japanese Occupation:** Consolidated Dutch education system, emphasizing military and physical drill.\n- **Post-Independence:** New education system based on nationalism and anti-discrimination.",
+        "text_original": "Islamic Kingdoms Period:** Pondok Pesantren introduced.\n- **Dutch Colonial Period:** Formal education introduced, segregated by social status.\n- **Japanese Occupation:** Consolidated Dutch education system, emphasizing military and physical drill.\n- **Post-Independence:** New education system based on nationalism and anti-discrimination",
+        "idx_start": 24666,
+        "idx_end": 25004
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Indonesia\n## Early Education\n- **Pre-School:** PAUD (Pendidikan Anak Usia Dini) includes Taman Bermain and Taman Kanak-Kanak.\n- **Compulsory:** 12 years of school, starting from age 6.",
+        "text_original": "Pre-School:** PAUD (Pendidikan Anak Usia Dini) includes Taman Bermain and Taman Kanak-Kanak.\n- **Compulsory:** 12 years of school, starting from age",
+        "idx_start": 25036,
+        "idx_end": 25184
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Indonesia\n## Public Primary and Secondary Education\n- **Curriculum:** Focus on secular wisdom and participation in modern nation-state.\n- **Compulsory:** Primary and middle school free, high school with small fees.\n- **Challenges:** Teacher shortages, poor infrastructure, and quality issues.",
+        "text_original": "Curriculum:** Focus on secular wisdom and participation in modern nation-state.\n- **Compulsory:** Primary and middle school free, high school with small fees.\n- **Challenges:** Teacher shortages, poor infrastructure, and quality issues",
+        "idx_start": 25241,
+        "idx_end": 25476
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Indonesia\n## Islamic Schools\n- **Types:** Pesantren, Madrasah, Sekolah Islam.\n- **Curriculum:** Combines religious and secular subjects.",
+        "text_original": "Types:** Pesantren, Madrasah, Sekolah Islam.\n- **Curriculum:** Combines religious and secular subjects",
+        "idx_start": 25508,
+        "idx_end": 25610
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Indonesia\n## Higher Education\n- **Types:** Academic, vocational, and professional education.\n- **Institutions:** Universities, institutes, colleges, polytechnics, and academies.",
+        "text_original": "Types:** Academic, vocational, and professional education.\n- **Institutions:** Universities, institutes, colleges, polytechnics, and academies",
+        "idx_start": 25643,
+        "idx_end": 25785
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Indonesia\n## Vocational Education\n- **Challenges:** Low completion rates, poorly trained instructors, and lack of infrastructure.",
+        "text_original": "Challenges:** Low completion rates, poorly trained instructors, and lack of infrastructure",
+        "idx_start": 25822,
+        "idx_end": 25912
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Legally Compulsory Education\n- **Ages:** 5\u201318.\n- **Stages:** Foundation Stage, Key Stages 1\u20134, and post-16 education.",
+        "text_original": "Ages:** 5\u201318.\n- **Stages:** Foundation Stage, Key Stages 1\u20134, and post-16 education",
+        "idx_start": 25992,
+        "idx_end": 26075
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Types of Schools\n- **State-Funded Schools:** Academies, community schools, free schools, foundation schools, voluntary aided schools, voluntary controlled schools, university technical colleges, and maths schools.\n- **Private Schools:** Fee-charging schools, including public schools and prep schools.\n- **Education by Means Other Than Schooling:** Home education, unschooling, and Education Otherwise.",
+        "text_original": "State-Funded Schools:** Academies, community schools, free schools, foundation schools, voluntary aided schools, voluntary controlled schools, university technical colleges, and maths schools.\n- **Private Schools:** Fee-charging schools, including public schools and prep schools.\n- **Education by Means Other Than Schooling:** Home education, unschooling, and Education Otherwise",
+        "idx_start": 26108,
+        "idx_end": 26488
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Stages of Compulsory Education\n- **Early Years:** Nursery and Reception classes.\n- **National Curriculum:** Covers subjects like English, Mathematics, Science, Art, History, Geography, and Religious Education.\n- **Post-16 Education:** Sixth form colleges, further education colleges, apprenticeships, and traineeships.",
+        "text_original": "Early Years:** Nursery and Reception classes.\n- **National Curriculum:** Covers subjects like English, Mathematics, Science, Art, History, Geography, and Religious Education.\n- **Post-16 Education:** Sixth form colleges, further education colleges, apprenticeships, and traineeships",
+        "idx_start": 26535,
+        "idx_end": 26817
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Higher Education\n- **Types:** Universities, university colleges, and private colleges.\n- **Degrees:** Bachelor's, Master's, and Doctorate degrees.\n- **Tuition Fees:** Low for EU students, higher for international students.",
+        "text_original": "Types:** Universities, university colleges, and private colleges.\n- **Degrees:** Bachelor's, Master's, and Doctorate degrees.\n- **Tuition Fees:** Low for EU students, higher for international students",
+        "idx_start": 26850,
+        "idx_end": 27050
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Adult Education\n- **Continuing Education:** Offered by universities and vocational training agencies.",
+        "text_original": "Continuing Education:** Offered by universities and vocational training agencies",
+        "idx_start": 24525,
+        "idx_end": 24605
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Armenia\n## Literacy Rate\n- **100% Literacy:** Reported as early as 1960.\n- **Challenges:** Low numeracy levels in the 18th and 19th centuries due to Ottoman and Persian education policies.",
+        "text_original": "Literacy:** Reported as early as 1960.\n- **Challenges:** Low numeracy levels in the 18th and 19th centuries due to Ottoman and Persian education policies",
+        "idx_start": 27232,
+        "idx_end": 27385
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Armenia\n## K-12 Education\n- **Preschool:** Ages 2\u20136, focusing on communication skills and foundational knowledge.\n- **Secondary Education:** Compulsory and free, structured into primary, middle, and high schools.\n- **Exams:** State exams determine eligibility for higher education.",
+        "text_original": "Preschool:** Ages 2\u20136, focusing on communication skills and foundational knowledge.\n- **Secondary Education:** Compulsory and free, structured into primary, middle, and high schools.\n- **Exams:** State exams determine eligibility for higher education",
+        "idx_start": 27416,
+        "idx_end": 27666
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Armenia\n## Types of Schools\n- **Public Schools:** Government-funded, following national curriculum.\n- **Private Schools:** Follow specific licensing guidelines, with varying quality and resources.",
+        "text_original": "Public Schools:** Government-funded, following national curriculum.\n- **Private Schools:** Follow specific licensing guidelines, with varying quality and resources",
+        "idx_start": 27699,
+        "idx_end": 27862
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Armenia\n## Educational Institutions\n- **Universities:** 26 state and 33 licensed private higher educational institutions.\n- **Notable Universities:** Yerevan State University, Yerevan State Medical University, State Engineering University of Armenia.",
+        "text_original": "Universities:** 26 state and 33 licensed private higher educational institutions.\n- **Notable Universities:** Yerevan State University, Yerevan State Medical University, State Engineering University of Armenia",
+        "idx_start": 27903,
+        "idx_end": 28112
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Armenia\n## Higher Education Agreements\n- **Bologna Process:** Signed in 1997, full member since 2005.\n- **European University Association:** Member since 2005.",
+        "text_original": "Bologna Process:** Signed in 1997, full member since 2005.\n- **European University Association:** Member since",
+        "idx_start": 28156,
+        "idx_end": 28266
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Armenia\n## Student Absenteeism\n- **Challenges:** Rapidly growing absenteeism and dropout rates linked to child labor and education quality.",
+        "text_original": "Challenges:** Rapidly growing absenteeism and dropout rates linked to child labor and education quality",
+        "idx_start": 28307,
+        "idx_end": 28410
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Armenia\n## After School Education\n- **Centers:** Tumo Center for Creative Technologies, SMART center, and others, providing 21st-century skills.",
+        "text_original": "Centers:** Tumo Center for Creative Technologies, SMART center, and others, providing 21st-century skills",
+        "idx_start": 28449,
+        "idx_end": 28554
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## History\n- **Early Education:** University of Moliyili, informal education.\n- **Colonial Period:** Castle schools, Philip Quaque Boys School, and mission schools.\n- **Post-Independence:** Free and compulsory primary education, Kwame Nkrumah University of Science and Technology.",
+        "text_original": "Early Education:** University of Moliyili, informal education.\n- **Colonial Period:** Castle schools, Philip Quaque Boys School, and mission schools.\n- **Post-Independence:** Free and compulsory primary education, Kwame Nkrumah University of Science and Technology",
+        "idx_start": 28611,
+        "idx_end": 28875
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## Statistics\n- **Spending:** 25% of annual budget on education.\n- **Enrollment:** Rapid increase in primary, middle, and high school enrollment.\n- **Literacy Rate:** 79.04% (2018), with notable gender disparities.",
+        "text_original": "Spending:** 25% of annual budget on education.\n- **Enrollment:** Rapid increase in primary, middle, and high school enrollment.\n- **Literacy Rate:** 79.04% (2018), with notable gender disparities",
+        "idx_start": 28902,
+        "idx_end": 29097
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## Structure of Formal Education\n- **Basic Education:** Ages 4\u201315, free and compulsory.\n- **Primary School:** Ages 6\u201311, covering core subjects.\n- **Junior High School:** Ages 12\u201315, leading to the Basic Education Certificate Examination (BECE).\n- **Secondary Education:** Academic and vocational programs, leading to the West African Senior School Certificate Examination (WASSCE).\n- **Tertiary Education:** Universities, polytechnics, and colleges of education.",
+        "text_original": "Basic Education:** Ages 4\u201315, free and compulsory.\n- **Primary School:** Ages 6\u201311, covering core subjects.\n- **Junior High School:** Ages 12\u201315, leading to the Basic Education Certificate Examination (BECE).\n- **Secondary Education:** Academic and vocational programs, leading to the West African Senior School Certificate Examination (WASSCE).\n- **Tertiary Education:** Universities, polytechnics, and colleges of education",
+        "idx_start": 29143,
+        "idx_end": 29568
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## Private Education and Partnerships\n- **Private Involvement:** Shared effort between public and private sectors to address education financing.\n- **Challenges:** Inequality in access to higher education, gender disparities, and economic barriers.",
+        "text_original": "Private Involvement:** Shared effort between public and private sectors to address education financing.\n- **Challenges:** Inequality in access to higher education, gender disparities, and economic barriers",
+        "idx_start": 29619,
+        "idx_end": 29824
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## Governance\n- **Administration:** Ministry of Education, Ghana Education Service (GES), and various autonomous bodies.\n- **Financing:** 23% of expenditure on education, partly funded by donors.",
+        "text_original": "Administration:** Ministry of Education, Ghana Education Service (GES), and various autonomous bodies.\n- **Financing:** 23% of expenditure on education, partly funded by donors",
+        "idx_start": 29851,
+        "idx_end": 30027
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## Public Action and Policies\n- **Adult Literacy:** Non-formal education programs targeting women and rural areas.\n- **Technical and Vocational Education:** Focus on poverty alleviation and unemployment reduction.\n- **Equity in Tertiary Education:** Policies to reduce gender and socioeconomic disparities.",
+        "text_original": "Adult Literacy:** Non-formal education programs targeting women and rural areas.\n- **Technical and Vocational Education:** Focus on poverty alleviation and unemployment reduction.\n- **Equity in Tertiary Education:** Policies to reduce gender and socioeconomic disparities",
+        "idx_start": 30070,
+        "idx_end": 30341
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Norway\n## History\n- **Organized Education:** Dates back to 2000 B.C.\n- **Reformation:** Cathedral schools turned into Latin schools.\n- **1736:** Training in reading made compulsory.\n- **1827:** Folkeskole introduced, mandatory for seven years.\n- **1962:** Grunnskole introduced, mandatory for nine years.",
+        "text_original": "Organized Education:** Dates back to 2000 B.C.\n- **Reformation:** Cathedral schools turned into Latin schools.\n- **1736:** Training in reading made compulsory.\n- **1827:** Folkeskole introduced, mandatory for seven years.\n- **1962:** Grunnskole introduced, mandatory for nine years",
+        "idx_start": 30399,
+        "idx_end": 30680
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Norway\n## Education Today\n- **Primary School:** Ages 6\u201312, compulsory.\n- **Lower Secondary School:** Ages 13\u201316, compulsory.\n- **Upper Secondary School:** Ages 16\u201319, elective but highly enrolled.",
+        "text_original": "Primary School:** Ages 6\u201312, compulsory.\n- **Lower Secondary School:** Ages 13\u201316, compulsory.\n- **Upper Secondary School:** Ages 16\u201319, elective but highly enrolled",
+        "idx_start": 30712,
+        "idx_end": 30877
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Norway\n## Educators\n- **Titles:** Preschool teacher, adjunct teacher, lecturer.\n- **Requirements:** Bachelor's degree, pedagogy course, and specific subject qualifications.",
+        "text_original": "Titles:** Preschool teacher, adjunct teacher, lecturer.\n- **Requirements:** Bachelor's degree, pedagogy course, and specific subject qualifications",
+        "idx_start": 30903,
+        "idx_end": 31050
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Norway\n## Higher Education\n- **Types:** Universities, university colleges, and private schools.\n- **Admission:** General university admissions certificate or specific requirements.\n- **Grading:** Uses a scale from 1 to 6, with 6 being the highest.",
+        "text_original": "Types:** Universities, university colleges, and private schools.\n- **Admission:** General university admissions certificate or specific requirements.\n- **Grading:** Uses a scale from 1 to 6, with 6 being the highest",
+        "idx_start": 31083,
+        "idx_end": 31298
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Norway\n## Special Education\n- **Focus:** Inclusive education, with special educators and Educational/Psychological Services providing support.",
+        "text_original": "Focus:** Inclusive education, with special educators and Educational/Psychological Services providing support",
+        "idx_start": 31332,
+        "idx_end": 31441
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Norway\n## Grading\n- **Compulsory School:** Grades A\u2013F, with F being failing.\n- **Upper Secondary School:** Grades A\u2013F, with F being failing.",
+        "text_original": "Compulsory School:** Grades A\u2013F, with F being failing.\n- **Upper Secondary School:** Grades A\u2013F, with F being failing",
+        "idx_start": 31465,
+        "idx_end": 31582
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Norway\n## Examinations\n- **Final Exams:** Students must pass all subjects to graduate.",
+        "text_original": "Final Exams:** Students must pass all subjects to graduate",
+        "idx_start": 31611,
+        "idx_end": 31669
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Norway\n## Academic Schedule\n- **Semesters:** Two semesters per year, with breaks around Christmas, fall, and winter.",
+        "text_original": "Semesters:** Two semesters per year, with breaks around Christmas, fall, and winter",
+        "idx_start": 31703,
+        "idx_end": 31786
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## History\n- **Early Schools:** Small village schools, Li Ying College.\n- **British Influence:** Queen's College, Belilios Public School, and international schools.\n- **Post-Handover:** Target Oriented Curriculum (TOC), focus on project learning.",
+        "text_original": "Early Schools:** Small village schools, Li Ying College.\n- **British Influence:** Queen's College, Belilios Public School, and international schools.\n- **Post-Handover:** Target Oriented Curriculum (TOC), focus on project learning",
+        "idx_start": 31847,
+        "idx_end": 32077
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## Pre-School Education\n- **Fees:** Payable by parents, with subsidies for right-of-abode children.",
+        "text_original": "Fees:** Payable by parents, with subsidies for right-of-abode children",
+        "idx_start": 32114,
+        "idx_end": 32184
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## Primary and Secondary Education\n- **Compulsory:** Primary school after age 6, secondary school after primary education.\n- **Curriculum:** English and Chinese medium instruction, with EMI schools offering English-medium education.\n- **Exams:** Hong Kong Diploma of Secondary Education (HKDSE) and International Baccalaureate Diploma Program (IBDP).",
+        "text_original": "Compulsory:** Primary school after age 6, secondary school after primary education.\n- **Curriculum:** English and Chinese medium instruction, with EMI schools offering English-medium education.\n- **Exams:** Hong Kong Diploma of Secondary Education (HKDSE) and International Baccalaureate Diploma Program (IBDP",
+        "idx_start": 32232,
+        "idx_end": 32541
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## Tertiary and Higher Education\n- **Universities:** Eight UGC-funded universities, including The University of Hong Kong, Chinese University of Hong Kong, and Hong Kong University of Science and Technology.\n- **Admission:** Joint University Programmes Admissions System (JUPAS).\n- **Medium of Instruction:** English.",
+        "text_original": "Universities:** Eight UGC-funded universities, including The University of Hong Kong, Chinese University of Hong Kong, and Hong Kong University of Science and Technology.\n- **Admission:** Joint University Programmes Admissions System (JUPAS).\n- **Medium of Instruction:** English",
+        "idx_start": 32588,
+        "idx_end": 32867
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## International Education\n- **175 International Schools:** Offering curricula from various countries.",
+        "text_original": "International Schools:** Offering curricula from various countries",
+        "idx_start": 32911,
+        "idx_end": 32977
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## Types of Schools\n- **Government Schools:** Free, comprehensive.\n- **Aided Schools:** Subsidized, run by charitable and religious organizations.\n- **Private Schools:** Offering local and international curricula.\n- **Private International Schools:** Higher tuition fees, offering alternative education.",
+        "text_original": "Government Schools:** Free, comprehensive.\n- **Aided Schools:** Subsidized, run by charitable and religious organizations.\n- **Private Schools:** Offering local and international curricula.\n- **Private International Schools:** Higher tuition fees, offering alternative education",
+        "idx_start": 33010,
+        "idx_end": 33288
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## History\n- **Primary School:** 1842, folkskola introduced.\n- **Secondary School:** 1905 realskolan, 1968 gymnasieskolan.\n- **Preschool:** Free for children aged three, with fees based on family income.",
+        "text_original": "Primary School:** 1842, folkskola introduced.\n- **Secondary School:** 1905 realskolan, 1968 gymnasieskolan.\n- **Preschool:** Free for children aged three, with fees based on family income",
+        "idx_start": 33346,
+        "idx_end": 33533
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## Comprehensive School\n- **Duration:** Nine years, compulsory from ages 6\u201315.\n- **Subjects:** Swedish, mathematics, physical education, English, handicrafts, music, visual arts, technology, physics, chemistry, biology, history, social studies, religion, geography, and home economics.",
+        "text_original": "Duration:** Nine years, compulsory from ages 6\u201315.\n- **Subjects:** Swedish, mathematics, physical education, English, handicrafts, music, visual arts, technology, physics, chemistry, biology, history, social studies, religion, geography, and home economics",
+        "idx_start": 33570,
+        "idx_end": 33826
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## Upper Secondary Education\n- **Duration:** Three years, elective but highly enrolled.\n- **Programmes:** 18 national programmes, divided into preparatory and vocational.\n- **Diploma Project:** Required for all programs.",
+        "text_original": "Duration:** Three years, elective but highly enrolled.\n- **Programmes:** 18 national programmes, divided into preparatory and vocational.\n- **Diploma Project:** Required for all programs",
+        "idx_start": 33868,
+        "idx_end": 34054
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## Higher Education\n- **Types:** Universities, university colleges, and higher vocational education.\n- **Degrees:** Bachelor's, Master's, and Doctorate degrees.\n- **Grading:** Uses a scale from A to F, with A being the highest.",
+        "text_original": "Types:** Universities, university colleges, and higher vocational education.\n- **Degrees:** Bachelor's, Master's, and Doctorate degrees.\n- **Grading:** Uses a scale from A to F, with A being the highest",
+        "idx_start": 34087,
+        "idx_end": 34289
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## Independent Schools\n- **Types:** Free schools, religious schools, and for-profit schools.\n- **Challenges:** Controversies over educational standards and inequality.",
+        "text_original": "Types:** Free schools, religious schools, and for-profit schools.\n- **Challenges:** Controversies over educational standards and inequality",
+        "idx_start": 34325,
+        "idx_end": 34464
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## PISA and PIRLS Results\n- **PISA:** Scores close to the OECD average, with improvements noted.\n- **PIRLS:** Decline in reading scores from 2001 to 2011, recovery in 2016.",
+        "text_original": "PISA:** Scores close to the OECD average, with improvements noted.\n- **PIRLS:** Decline in reading scores from 2001 to 2011, recovery in",
+        "idx_start": 34503,
+        "idx_end": 34639
+    }
+]

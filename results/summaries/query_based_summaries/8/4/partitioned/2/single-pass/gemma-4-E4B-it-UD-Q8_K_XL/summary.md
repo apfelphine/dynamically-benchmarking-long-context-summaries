@@ -1,0 +1,7 @@
+## Education in Australia
+
+### Organisational Structures and Funding
+In Australia, education is overseen by state and territory governments, though the Commonwealth Government sets overall national policy. Schools are broadly classified as government or non-government. Government schools educate approximately two-thirds of students, while non-government schools are further divided into Catholic and private schools. Non-government schools receive funding from the Commonwealth government, alongside state/territory contributions. Funding structures have been subject to review, such as the Gonski report, leading to new funding agreements under the Better and Fairer Schools Agreement (BFSA), which mandates increased state funding for public schools.
+
+### Curricula and Student Outcomes
+A national Australian Curriculum, administered by the Australian Curriculum, Assessment and Reporting Authority (ACARA), sets expected learning standards across the country. Compulsory school attendance requirements vary by state or territory, generally running from ages five to six until fifteen to seventeen. Student performance, as seen in the 2018 PISA study, indicated Australian students ranked 16th globally in reading, 29th in maths, and 17th in science. Furthermore, there are specific educational structures, such as Indigenous community schools and specialist schools, serving diverse needs within the system.

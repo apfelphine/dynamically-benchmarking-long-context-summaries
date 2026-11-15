@@ -1,0 +1,10 @@
+# Master Summary of Initiatives and Legacies
+
+## Literary and Academic Scholarship
+Various initiatives support academic and literary advancement. Literary scholarship is advanced by projects like *Daughters of Africa* and *New Daughters of Africa*, which document African descent literature to revise the Black feminist literary canon. Beyond this, numerous scholarships recognize achievement, including the Rhodes Scholarship, the Harkness Fellowship, the Shuping Scholarship for impoverished students, and the Kennedy Scholarship, which supports public service potential.
+
+## Educational Programs and Global Engagement
+Global education is supported by programs such as the Fulbright Program for international exchange and the Marshall Scholarship for postgraduate study in the UK. Domestic funding sources include the UNCF and TMCF. While these programs promote global engagement, the Fulbright Program and the British Council have recently faced geopolitical disruptions, specifically ceasing activities in Russia.
+
+## Political History and Social Change
+Edmund S. Muskie, a Cornell alumnus, was a significant political figure who championed landmark legislation, including the Civil Rights Act of 1964 and the Clean Air and Clean Water Acts, during his tenure as Governor and U.S. Senator. His diplomatic legacy also includes managing global crises as U.S. Secretary of State under Jimmy Carter. Concurrently, social milestones are evident in the evolution of the Miss America Pageant, which has broadened its scope from awarding furs to providing college scholarships and embracing greater diversity.

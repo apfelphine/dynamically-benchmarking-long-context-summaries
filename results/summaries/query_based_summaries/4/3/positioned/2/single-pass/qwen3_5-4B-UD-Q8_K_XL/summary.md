@@ -1,0 +1,1 @@
+The provided text contains no information regarding Garry Kasparov. The document exclusively details the biographies and works of Bertrand Russell, Noam Chomsky, John von Neumann, Charles Sanders Peirce, and Gottfried Wilhelm Leibniz.

@@ -1,0 +1,24 @@
+{
+  "id": 4316761,
+  "title": "Rosalind Picard",
+  "url": "https://en.wikipedia.org/wiki/Rosalind_Picard",
+  "path": "Comp-Sci-Pioneers\\rosalind-picard",
+  "summary": {
+    "chars": 2302,
+    "tokens": 430
+  },
+  "document": {
+    "chars": 15514,
+    "tokens": 3534
+  },
+  "infobox": {
+    "title": "Rosalind Picard",
+    "data": {
+      "Alma mater": "Georgia Institute of Technology (BS) \u00b7 Massachusetts Institute of Technology (SM, ScD)",
+      "Institutions": "MIT Media Lab",
+      "Thesis": "Texture modeling: Temperature effects on Markov/Gibbs random fields (1991)",
+      "Doctoral advisor": "Alex Pentland \u00b7 Jae Soo Lim \u00b7 Sanjoy K. Mitter",
+      "Website": "web.media.mit.edu/~picard"
+    }
+  }
+}

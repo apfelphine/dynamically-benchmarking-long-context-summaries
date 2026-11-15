@@ -1,0 +1,26 @@
+{
+  "id": 1775773,
+  "title": "Charles P. Thacker",
+  "url": "https://en.wikipedia.org/wiki/Charles_P._Thacker",
+  "path": "Comp-Sci-Pioneers\\charles-p-thacker",
+  "summary": {
+    "chars": 223,
+    "tokens": 55
+  },
+  "document": {
+    "chars": 3281,
+    "tokens": 736
+  },
+  "infobox": {
+    "title": "Charles P. Thacker",
+    "data": {
+      "Born": "Charles Patrick Thacker \u00b7 February 26, 1943 \u00b7 Pasadena, California, U.S.",
+      "Died": "June 12, 2017 (aged 74) \u00b7 Palo Alto, California, U.S.",
+      "Education": "University of California, Berkeley (BS)",
+      "Known for": "Xerox Alto",
+      "Awards": "IEEE John von Neumann Medal (2007) \u00b7 Turing Award (2009) \u00b7 Computer History Museum Fellow (2007) Eckert\u2013Mauchly Award (2017)",
+      "Fields": "Computer Science",
+      "Institutions": "Xerox, DEC, Microsoft Research"
+    }
+  }
+}

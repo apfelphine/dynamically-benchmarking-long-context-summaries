@@ -1,0 +1,31 @@
+{
+  "id": 7225564,
+  "title": "Qatar University",
+  "url": "https://en.wikipedia.org/wiki/Qatar_University",
+  "path": "Universities\\qatar-university",
+  "summary": {
+    "chars": 1528,
+    "tokens": 299
+  },
+  "document": {
+    "chars": 21720,
+    "tokens": 4541
+  },
+  "infobox": {
+    "title": "Qatar University",
+    "data": {
+      "Former names": "University of Qatar",
+      "Type": "Public",
+      "Established": "1973",
+      "President": "Dr. Omar AlAnsari",
+      "Academic staff": "961",
+      "Undergraduates": "23,929",
+      "Location": "Doha, Qatar \u00b7 25\u00b022\u203230\u2033N 51\u00b029\u203220\u2033E\ufeff / \ufeff25.37500\u00b0N 51.48889\u00b0E",
+      "Campus": "Urban \u00b7 2,000 acres (8.1 km2)",
+      "Language": "Arabic and English",
+      "Publications": "Campus Life (English) \u00b7 Campus Today (Arabic)",
+      "Affiliations": "Union of Arab Universities \u00b7 League of Islamic Universities \u00b7 International Association of Universities",
+      "Website": "qu.edu.qa"
+    }
+  }
+}

@@ -1,0 +1,156 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Regulation of AI in the United States\nThe U.S. government has incrementally developed AI regulation, beginning with the Obama administration in 2016, which promoted AI research with few restrictions and emphasized risk assessment. From 2018 through 2020, key initiatives included the establishment of the National Security Commission on AI, the release of federal guidance for AI regulation, and involvement from agencies like the FDA and NIST to ensure ethical and trustworthy AI. The Biden administration advanced oversight by securing voluntary risk management commitments from major tech companies in 2023, launching the AI Risk Management Framework (AI RMF), and issuing an executive order in October 2023 that established standards for safe, secure, and equitable AI, covering issues such as bias, labor disruptions, and content watermarking.\nIn 2025, the Trump administration repealed many restrictive measures, signaling a preference for deregulation and innovation. Congress responded with bipartisan efforts targeting deepfakes and proposed expansions of public AI resources. State-level regulation increased, especially in California and Tennessee, with laws addressing AI impersonation, chatbot disclosure, and synthetic political content. Tech companies have pushed for federal rules to preempt diverse state laws.",
+        "text_original": "The U.S. government has incrementally developed AI regulation, beginning with the Obama administration in 2016, which promoted AI research with few restrictions and emphasized risk assessment. From 2018 through 2020, key initiatives included the establishment of the National Security Commission on AI, the release of federal guidance for AI regulation, and involvement from agencies like the FDA and NIST to ensure ethical and trustworthy AI. The Biden administration advanced oversight by securing voluntary risk management commitments from major tech companies in 2023, launching the AI Risk Management Framework (AI RMF), and issuing an executive order in October 2023 that established standards for safe, secure, and equitable AI, covering issues such as bias, labor disruptions, and content watermarking.\n\nIn 2025, the Trump administration repealed many restrictive measures, signaling a preference for deregulation and innovation. Congress responded with bipartisan efforts targeting deepfakes and proposed expansions of public AI resources. State-level regulation increased, especially in California and Tennessee, with laws addressing AI impersonation, chatbot disclosure, and synthetic political content. Tech companies have pushed for federal rules to preempt diverse state laws",
+        "idx_start": 53,
+        "idx_end": 1342
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## State and Local Government Interventions\nLocal and state governments have developed targeted interventions, such as New York City's Law 144 requiring audits of AI hiring tools for bias, and Utah's AI Policy Act establishing disclosure liabilities and an AI oversight office. In 2024, Tennessee enacted the ELVIS Act, pioneering regulation of voice-cloning and deepfake impersonation to protect artist rights. The FTC\u2019s \"Operation AI Comply\" enforces consumer protection and truth-in-advertising in AI products.",
+        "text_original": "Local and state governments have developed targeted interventions, such as New York City's Law 144 requiring audits of AI hiring tools for bias, and Utah's AI Policy Act establishing disclosure liabilities and an AI oversight office. In 2024, Tennessee enacted the ELVIS Act, pioneering regulation of voice-cloning and deepfake impersonation to protect artist rights. The FTC\u2019s \"Operation AI Comply\" enforces consumer protection and truth-in-advertising in AI products",
+        "idx_start": 1390,
+        "idx_end": 1858
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Other Perspectives\nActivists and academics have highlighted bias and discrimination inherent to AI, particularly in facial recognition. Public sentiment leans cautious, with concerns about algorithmic fairness and systemic bias. Tech industry groups have formed super PACs to push for pro-AI policies.",
+        "text_original": "Activists and academics have highlighted bias and discrimination inherent to AI, particularly in facial recognition. Public sentiment leans cautious, with concerns about algorithmic fairness and systemic bias. Tech industry groups have formed super PACs to push for pro-AI policies",
+        "idx_start": 1884,
+        "idx_end": 2165
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## John L. Pollock\nJohn L. Pollock (1940\u20132009) was a distinguished philosopher whose work shaped modern epistemology, logic, and artificial intelligence. He was noted for his analysis of defeasible reasoning\u2014norms that admit exceptions\u2014and made significant contributions with his book \"Knowledge and Justification.\" Pollock\u2019s work bridged philosophy and AI, introducing concepts like \"undercutting\" and \"rebutting\" defeat in argumentation.\nPollock developed OSCAR, an AI software implementing his reasoning theories, and contributed to the understanding of nomic probability and rational decision-making. His prolific publications covered modal logic, moral reasoning, planning, and epistemology, influencing both cognitive science and AI researchers.",
+        "text_original": "John L. Pollock (1940\u20132009) was a distinguished philosopher whose work shaped modern epistemology, logic, and artificial intelligence. He was noted for his analysis of defeasible reasoning\u2014norms that admit exceptions\u2014and made significant contributions with his book \"Knowledge and Justification.\" Pollock\u2019s work bridged philosophy and AI, introducing concepts like \"undercutting\" and \"rebutting\" defeat in argumentation.\n\nPollock developed OSCAR, an AI software implementing his reasoning theories, and contributed to the understanding of nomic probability and rational decision-making. His prolific publications covered modal logic, moral reasoning, planning, and epistemology, influencing both cognitive science and AI researchers",
+        "idx_start": 2193,
+        "idx_end": 2925
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Intelligence Explosion & Technological Singularity\n### Concept and History\nThe intelligence explosion hypothesis, introduced by I. J. Good and popularized by Vernor Vinge and Ray Kurzweil, posits that once machines exceed human intelligence, they could rapidly self-improve, leading to the \"technological singularity\"\u2014a rupture in human history where exponential change becomes unpredictable. Predicted dates for the singularity range from 2040 to 2100 but remain controversial.",
+        "text_original": "The intelligence explosion hypothesis, introduced by I. J. Good and popularized by Vernor Vinge and Ray Kurzweil, posits that once machines exceed human intelligence, they could rapidly self-improve, leading to the \"technological singularity\"\u2014a rupture in human history where exponential change becomes unpredictable. Predicted dates for the singularity range from 2040 to 2100 but remain controversial",
+        "idx_start": 3013,
+        "idx_end": 3415
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Intelligence Explosion & Technological Singularity\n### Mechanisms and Variations\nAccelerating technological progress is explained through recursive self-improvement, faster computation, and algorithmic advances. Some theorists include broader technological revolutions, like nanotechnology, under the singularity umbrella, though most emphasize superintelligent AI as central.",
+        "text_original": "Accelerating technological progress is explained through recursive self-improvement, faster computation, and algorithmic advances. Some theorists include broader technological revolutions, like nanotechnology, under the singularity umbrella, though most emphasize superintelligent AI as central",
+        "idx_start": 3449,
+        "idx_end": 3743
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Intelligence Explosion & Technological Singularity\n### Criticism and Plausibility\nMany technologists and academics challenge the singularity\u2019s plausibility, citing limits of exponential growth, complexity brakes, and declining innovation rates. Critics argue that technological change will likely be gradual, with enduring hardware and software challenges, economic constraints, and unpredictable social impacts.",
+        "text_original": "Many technologists and academics challenge the singularity\u2019s plausibility, citing limits of exponential growth, complexity brakes, and declining innovation rates. Critics argue that technological change will likely be gradual, with enduring hardware and software challenges, economic constraints, and unpredictable social impacts",
+        "idx_start": 3778,
+        "idx_end": 4107
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Intelligence Explosion & Technological Singularity\n### Impact and Risks\nPotential impacts include dramatic acceleration in economic growth and radical changes to human society, but risks\u2014such as AI-driven extinction, misaligned goals, and ethical concerns\u2014remain prominent. Initiatives focused on aligning AI values and enhancing safety, like the Machine Intelligence Research Institute and similar organizations, seek to address these existential threats.",
+        "text_original": "Potential impacts include dramatic acceleration in economic growth and radical changes to human society, but risks\u2014such as AI-driven extinction, misaligned goals, and ethical concerns\u2014remain prominent. Initiatives focused on aligning AI values and enhancing safety, like the Machine Intelligence Research Institute and similar organizations, seek to address these existential threats",
+        "idx_start": 4132,
+        "idx_end": 4515
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Deepfakes\n### Technology and Development\nDeepfakes use AI-based neural networks to generate highly realistic synthetic media, including images, audio, and video. Developed via autoencoders and GANs, deepfakes have advanced beyond facial imagery to include full-body animation and voice cloning.",
+        "text_original": "Deepfakes use AI-based neural networks to generate highly realistic synthetic media, including images, audio, and video. Developed via autoencoders and GANs, deepfakes have advanced beyond facial imagery to include full-body animation and voice cloning",
+        "idx_start": 4569,
+        "idx_end": 4821
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Deepfakes\n### Applications and Concerns\nDeepfakes have seen widespread use in entertainment, art, political campaigns, fraud, blackmail, and pornography (where female celebrities and marginalized groups are frequent targets). In media and politics, deepfakes pose risks for misinformation, identity fraud, and erosion of public trust. Social media platforms have responded with bans and detection initiatives, while governments enact legal remedies.",
+        "text_original": "Deepfakes have seen widespread use in entertainment, art, political campaigns, fraud, blackmail, and pornography (where female celebrities and marginalized groups are frequent targets). In media and politics, deepfakes pose risks for misinformation, identity fraud, and erosion of public trust. Social media platforms have responded with bans and detection initiatives, while governments enact legal remedies",
+        "idx_start": 4855,
+        "idx_end": 5263
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Deepfakes\n### Detection and Countermeasures\nDetection involves deep learning algorithms, pattern recognition (such as subtle facial features or light reflections), and emerging regulatory frameworks. Blockchain and digital signatures are suggested for authentication, while media literacy is promoted to help individuals discern fakes.",
+        "text_original": "Detection involves deep learning algorithms, pattern recognition (such as subtle facial features or light reflections), and emerging regulatory frameworks. Blockchain and digital signatures are suggested for authentication, while media literacy is promoted to help individuals discern fakes",
+        "idx_start": 5301,
+        "idx_end": 5591
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Deepfakes\n### Regulation and Response\nLegislation has emerged worldwide\u2014in the US, EU, UK, China, and elsewhere\u2014addressing deepfake risks to privacy, elections, and reputation. Regulatory gaps and enforcement inconsistency persist, while international and academic initiatives work to manage technological and legal challenges.",
+        "text_original": "Legislation has emerged worldwide\u2014in the US, EU, UK, China, and elsewhere\u2014addressing deepfake risks to privacy, elections, and reputation. Regulatory gaps and enforcement inconsistency persist, while international and academic initiatives work to manage technological and legal challenges",
+        "idx_start": 5623,
+        "idx_end": 5911
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Ethics of Artificial Intelligence\n### Machine and Robot Ethics\nAI ethics addresses the design of moral and trustworthy artificial agents, balancing transparency, fairness, explainability, and harm prevention. Robot ethics considers how autonomous machines may impact autonomy, dignity, and justice, including debates around granting rights.",
+        "text_original": "AI ethics addresses the design of moral and trustworthy artificial agents, balancing transparency, fairness, explainability, and harm prevention. Robot ethics considers how autonomous machines may impact autonomy, dignity, and justice, including debates around granting rights",
+        "idx_start": 5987,
+        "idx_end": 6263
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Ethics of Artificial Intelligence\n### Algorithmic Bias and Accountability\nAI systems reflect biases present in training data, leading to gender, racial, and political stereotyping. Calls for transparent data documentation, process mining, and regulatory oversight seek to mitigate these problems. Specific sectors like healthcare and criminal justice have highlighted discriminatory outcomes.",
+        "text_original": "AI systems reflect biases present in training data, leading to gender, racial, and political stereotyping. Calls for transparent data documentation, process mining, and regulatory oversight seek to mitigate these problems. Specific sectors like healthcare and criminal justice have highlighted discriminatory outcomes",
+        "idx_start": 6307,
+        "idx_end": 6624
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Ethics of Artificial Intelligence\n### Environmental and Knowledge Impacts\nTraining large models consumes significant resources, generating emissions, water usage, and e-waste; open-knowledge platforms face strain from AI data scraping. Transparency, accountability, and explainability remain key for trust, particularly in sensitive domains.",
+        "text_original": "Training large models consumes significant resources, generating emissions, water usage, and e-waste; open-knowledge platforms face strain from AI data scraping. Transparency, accountability, and explainability remain key for trust, particularly in sensitive domains",
+        "idx_start": 6668,
+        "idx_end": 6934
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Ethics of Artificial Intelligence\n### Regulation and Governance\nGovernments and international bodies (EU AI Act, national laws) increasingly seek to manage AI\u2019s risks and societal impact, balancing innovation with safety and ethics. Civil society and expert organizations play critical roles in shaping policy and industry standards.",
+        "text_original": "Governments and international bodies (EU AI Act, national laws) increasingly seek to manage AI\u2019s risks and societal impact, balancing innovation with safety and ethics. Civil society and expert organizations play critical roles in shaping policy and industry standards",
+        "idx_start": 6968,
+        "idx_end": 7236
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Transhumanism\n### History and Theory\nTranshumanism advocates for the use of technology to overcome human limitations, aiming for radical enhancement, extended lifespans, and, ultimately, the emergence of \"posthuman\" beings. Influences include Nietzsche, Bacon, and early 20th-century visionaries; modern movements emerged in the late 20th century.",
+        "text_original": "Transhumanism advocates for the use of technology to overcome human limitations, aiming for radical enhancement, extended lifespans, and, ultimately, the emergence of \"posthuman\" beings. Influences include Nietzsche, Bacon, and early 20th-century visionaries; modern movements emerged in the late 20th century",
+        "idx_start": 7286,
+        "idx_end": 7595
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Transhumanism\n### Ethics and Debate\nProponents argue for cognitive liberty, bodily autonomy, and directed evolution, while critics cite risks of exacerbating inequality, loss of human identity, and unintended social and ethical consequences. Religious and philosophical critiques highlight tensions between technological enhancement and human dignity.",
+        "text_original": "Proponents argue for cognitive liberty, bodily autonomy, and directed evolution, while critics cite risks of exacerbating inequality, loss of human identity, and unintended social and ethical consequences. Religious and philosophical critiques highlight tensions between technological enhancement and human dignity",
+        "idx_start": 7621,
+        "idx_end": 7935
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Transhumanism\n### Practice and Technologies\nTranshumanists pursue brain-computer interfaces, genetic engineering, life extension, and sensory augmentation, focusing on nanotechnology, AI, and cognitive science. The debate includes concerns over eugenics, existential risks, and cultural impacts.",
+        "text_original": "Transhumanists pursue brain-computer interfaces, genetic engineering, life extension, and sensory augmentation, focusing on nanotechnology, AI, and cognitive science. The debate includes concerns over eugenics, existential risks, and cultural impacts",
+        "idx_start": 7969,
+        "idx_end": 8219
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Accelerationism\n### Background and Concepts\nAccelerationism is a philosophical and political theory advocating for the intensification of capitalist and technological processes to bring about radical change. Influenced by figures like Deleuze, Guattari, Land, and Marx, it divides into right-wing (favoring unregulated technocapitalism) and left-wing (aiming for post-capitalist technological progress) strands.",
+        "text_original": "Accelerationism is a philosophical and political theory advocating for the intensification of capitalist and technological processes to bring about radical change. Influenced by figures like Deleuze, Guattari, Land, and Marx, it divides into right-wing (favoring unregulated technocapitalism) and left-wing (aiming for post-capitalist technological progress) strands",
+        "idx_start": 8276,
+        "idx_end": 8642
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Accelerationism\n### Variations and Criticism\nRight-accelerationists anticipate human extinction in the face of AI-driven progress, while left-accelerationists focus on democratizing technology and achieving post-capitalist utopias. Other variants, such as \"effective accelerationism,\" prioritize rapid technological advancement. Critics argue accelerationism can spur authoritarianism, subvert human agency, and exacerbate inequalities, and it has been misappropriated by far-right movements to promote societal collapse.",
+        "text_original": "Right-accelerationists anticipate human extinction in the face of AI-driven progress, while left-accelerationists focus on democratizing technology and achieving post-capitalist utopias. Other variants, such as \"effective accelerationism,\" prioritize rapid technological advancement. Critics argue accelerationism can spur authoritarianism, subvert human agency, and exacerbate inequalities, and it has been misappropriated by far-right movements to promote societal collapse",
+        "idx_start": 8675,
+        "idx_end": 9150
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## General Data Protection Regulation (GDPR)\nThe GDPR is a comprehensive data protection law in the EU, establishing principles for lawful processing, rights of data subjects (access, portability, erasure), obligations for data controllers, and significant penalties for violations. It requires data minimization, transparency, security, and consent, with extraterritorial reach and provisions for third-country data transfers. Enforcement is uneven, and its influence has shaped privacy laws globally. The GDPR continues to affect business practices, regulatory landscapes, and debates over technology, privacy, and digital rights.",
+        "text_original": "The GDPR is a comprehensive data protection law in the EU, establishing principles for lawful processing, rights of data subjects (access, portability, erasure), obligations for data controllers, and significant penalties for violations. It requires data minimization, transparency, security, and consent, with extraterritorial reach and provisions for third-country data transfers. Enforcement is uneven, and its influence has shaped privacy laws globally. The GDPR continues to affect business practices, regulatory landscapes, and debates over technology, privacy, and digital rights",
+        "idx_start": 9204,
+        "idx_end": 9790
+    }
+]

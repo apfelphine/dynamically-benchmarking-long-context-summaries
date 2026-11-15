@@ -1,0 +1,34 @@
+{
+  "id": 34130,
+  "title": "WarGames",
+  "url": "https://en.wikipedia.org/wiki/WarGames",
+  "path": "AI-Fiction\\wargames",
+  "summary": {
+    "chars": 1159,
+    "tokens": 248
+  },
+  "document": {
+    "chars": 24972,
+    "tokens": 5223
+  },
+  "infobox": {
+    "title": "WarGames",
+    "data": {
+      "Directed by": "John Badham",
+      "Written by": "- Lawrence Lasker - Walter F. Parkes",
+      "Produced by": "Harold Schneider",
+      "Starring": "- Matthew Broderick - Dabney Coleman - John Wood - Ally Sheedy",
+      "Cinematography": "William A. Fraker",
+      "Edited by": "Tom Rolf",
+      "Music by": "Arthur B. Rubinstein",
+      "Production \u00b7 companies": "- United Artists - Sherwood Productions",
+      "Distributed by": "MGM/UA Entertainment Company (United States) \u00b7 United International Pictures (international)",
+      "Release dates": "- May 7, 1983 (Cannes) - June 3, 1983 (United States)",
+      "Running time": "114 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$12 million",
+      "Box office": "$124.6 million"
+    }
+  }
+}

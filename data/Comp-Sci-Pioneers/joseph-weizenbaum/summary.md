@@ -1,0 +1,1 @@
+Joseph Weizenbaum (8 January 1923 – 5 March 2008) was a German-American computer scientist and a professor at the Massachusetts Institute of Technology. He is the namesake of the Weizenbaum Award and the Weizenbaum Institute.

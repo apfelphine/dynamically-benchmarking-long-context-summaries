@@ -1,0 +1,10 @@
+The **Studienstiftung des deutschen Volkes** (Studienstiftung) is a prestigious German scholarship program founded in 1925, initially as a department of the Deutsche Studentenschaft. After its dissolution under National Socialism, it was reestablished in 1948 as a registered association in Cologne. The Studienstiftung supports exceptionally talented students and doctoral candidates through financial and academic support, emphasizing excellence, initiative, and responsibility.
+
+**Admission Criteria:**
+Eligibility is based on high academic achievement and social commitment, with no strict age or citizenship requirements. Students are nominated through various channels, including schools, professors, examination boards, national competitions, and self-nomination via an assessment test. Scholarships are granted for bachelor’s, master’s, and doctoral studies, with funding including a monthly allowance, health insurance subsidies, and support for study-related activities. Renewals are contingent on academic performance and exceptional circumstances.
+
+**Structure and Support:**
+The Studienstiftung offers a comprehensive scholarship package, including financial aid, mentorship, and access to academic resources such as summer schools, language courses, and workshops. It also supports doctoral candidates and provides specialized programs, like the KAUST-Studienstiftung partnership for STEM research internships. The scholarship is tax-free and covers tuition fees for studies in Germany, the EU, or Switzerland.
+
+**Demographics and Impact:**
+As of 2023, the Studienstiftung supports over 14,888 students, with a notable gender balance (55.4% women). The program has a long-standing reputation for fostering leadership and academic excellence, with alumni contributing significantly to science, politics, arts, and business. The scholarship’s influence extends beyond financial support, promoting a culture of intellectual and social responsibility among its recipients.

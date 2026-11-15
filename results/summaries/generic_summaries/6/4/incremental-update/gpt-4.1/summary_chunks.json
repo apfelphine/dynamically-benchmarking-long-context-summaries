@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Per Brinch Hansen: Innovator in Concurrent and Parallel Computing\nPer Brinch Hansen made foundational contributions to operating systems and concurrent computing, pioneering kernels, monitors, multiprogramming, multiprocessor languages, remote procedure calls, and championing design simplicity.",
+        "text_original": "Per Brinch Hansen made foundational contributions to operating systems and concurrent computing, pioneering kernels, monitors, multiprogramming, multiprocessor languages, remote procedure calls, and championing design simplicity",
+        "idx_start": 139,
+        "idx_end": 367
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Al-Khwarizmi: Father of Algebra and Polymath\nAl-Khwarizmi established algebra, improved equation-solving, advanced numerals and algorithms, and contributed to trigonometry, geography, and astronomy.",
+        "text_original": "Al-Khwarizmi established algebra, improved equation-solving, advanced numerals and algorithms, and contributed to trigonometry, geography, and astronomy",
+        "idx_start": 419,
+        "idx_end": 571
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Herbert A. Simon: Architect of Decision Sciences and Artificial Intelligence\nHerbert A. Simon shaped decision sciences, economics, psychology, computer science, and AI, introducing bounded rationality and pioneering theoretical and practical advances.",
+        "text_original": "Herbert A. Simon shaped decision sciences, economics, psychology, computer science, and AI, introducing bounded rationality and pioneering theoretical and practical advances",
+        "idx_start": 655,
+        "idx_end": 828
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Gottlob Frege: Founder of Modern Logic and Philosophy of Language\nGottlob Frege revolutionized logic and philosophy, inventing formal logical language, predicate logic, and logicism, laying the foundations for mathematics and analytic philosophy.",
+        "text_original": "Gottlob Frege revolutionized logic and philosophy, inventing formal logical language, predicate logic, and logicism, laying the foundations for mathematics and analytic philosophy",
+        "idx_start": 901,
+        "idx_end": 1080
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Edsger W. Dijkstra: Pioneer of Computer Science and Structured Programming\nEdsger W. Dijkstra contributed seminal algorithms, developed the THE operating system, semaphores, self-stabilizing distributed systems, and influenced computer science education.",
+        "text_original": "Edsger W. Dijkstra contributed seminal algorithms, developed the THE operating system, semaphores, self-stabilizing distributed systems, and influenced computer science education",
+        "idx_start": 1162,
+        "idx_end": 1340
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Grace Hopper: Programming Language Innovator and Inspirational Computing Leader\nGrace Hopper contributed to early computers, created the first compiler, helped develop COBOL, standardized programming languages, and inspired women in STEM.",
+        "text_original": "Grace Hopper contributed to early computers, created the first compiler, helped develop COBOL, standardized programming languages, and inspired women in STEM",
+        "idx_start": 1427,
+        "idx_end": 1584
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Claude Shannon: Father of Information Theory and Digital Circuit Design\nClaude Shannon founded information theory, revolutionized digital circuits, formalized entropy, and advanced cryptography and computer chess.",
+        "text_original": "Claude Shannon founded information theory, revolutionized digital circuits, formalized entropy, and advanced cryptography and computer chess",
+        "idx_start": 1663,
+        "idx_end": 1803
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Federico Faggin: Revolutionizer of Microprocessors and Semiconductors\nFederico Faggin pioneered MOSFET technology, led Intel\u2019s first microprocessors, founded Zilog, advanced touch technologies, and contributed to research on computing and consciousness.",
+        "text_original": "Federico Faggin pioneered MOSFET technology, led Intel\u2019s first microprocessors, founded Zilog, advanced touch technologies, and contributed to research on computing and consciousness",
+        "idx_start": 1880,
+        "idx_end": 2062
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Donald Knuth: Master of Algorithms, Typesetting, and Prolific Authorship\nDonald Knuth authored *The Art of Computer Programming* , developed TeX, and contributed to compiler design, literate programming, and recreational mathematics.",
+        "text_original": "Donald Knuth authored *The Art of Computer Programming*, developed TeX, and contributed to compiler design, literate programming, and recreational mathematics",
+        "idx_start": 2142,
+        "idx_end": 2300
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Jacek Karpi\u0144ski: Wartime Resilience and Pioneering Computer Engineering\nJacek Karpi\u0144ski developed advanced computing and electronics in Poland, including the AKAT-1 and K-202, overcoming political obstacles.",
+        "text_original": "Jacek Karpi\u0144ski developed advanced computing and electronics in Poland, including the AKAT-1 and K-202, overcoming political obstacles",
+        "idx_start": 2379,
+        "idx_end": 2513
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Lynn Conway: Trailblazer in VLSI Design and Transgender Advocacy\nLynn Conway transformed VLSI chip design, influenced academia, co-authored a landmark textbook, advocated for LGBT rights, and shaped technology ethics standards.",
+        "text_original": "Lynn Conway transformed VLSI chip design, influenced academia, co-authored a landmark textbook, advocated for LGBT rights, and shaped technology ethics standards",
+        "idx_start": 2585,
+        "idx_end": 2746
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Kenneth E. Iverson: Innovator in Array Programming Languages\nKenneth E. Iverson created APL, transformed IBM programming and education, and co-developed J, influencing modern array programming.",
+        "text_original": "Kenneth E. Iverson created APL, transformed IBM programming and education, and co-developed J, influencing modern array programming",
+        "idx_start": 2814,
+        "idx_end": 2945
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Kurt G\u00f6del: Architect of Modern Mathematical Logic and Foundations\nKurt G\u00f6del introduced the completeness and incompleteness theorems, shaped computability theory, contributed to set theory, and influenced philosophy and physics.",
+        "text_original": "Kurt G\u00f6del introduced the completeness and incompleteness theorems, shaped computability theory, contributed to set theory, and influenced philosophy and physics",
+        "idx_start": 3019,
+        "idx_end": 3180
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## George Boole: Founder of Boolean Logic and Symbolic Reasoning\nGeorge Boole founded Boolean algebra and binary logic, defined the \"universe of discourse,\" contributed to probability theory, and influenced generations of mathematical thought and computing.",
+        "text_original": "George Boole founded Boolean algebra and binary logic, defined the \"universe of discourse,\" contributed to probability theory, and influenced generations of mathematical thought and computing",
+        "idx_start": 3249,
+        "idx_end": 3440
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Ismail al-Jazari: Medieval Engineer and Inventor of Automata and Clocks\nIsmail al-Jazari, a 12th-century Islamic engineer, developed complex mechanical inventions such as camshafts, crankshafts, escapements, and automata. His *Book of Knowledge of Ingenious Mechanical Devices* greatly impacted Islamic and European engineering.",
+        "text_original": "Ismail al-Jazari, a 12th-century Islamic engineer, developed complex mechanical inventions such as camshafts, crankshafts, escapements, and automata. His *Book of Knowledge of Ingenious Mechanical Devices* greatly impacted Islamic and European engineering",
+        "idx_start": 3519,
+        "idx_end": 3774
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Ramon Llull: Architect of Combinatorial Logic and Literary Influence\nRamon Llull advocated interfaith education, pioneered universal logic systems with combinatorial diagrams, and authored philosophical and literary works. Lullism influenced later thinkers and remains relevant in logic and early computation.",
+        "text_original": "Ramon Llull advocated interfaith education, pioneered universal logic systems with combinatorial diagrams, and authored philosophical and literary works. Lullism influenced later thinkers and remains relevant in logic and early computation",
+        "idx_start": 3850,
+        "idx_end": 4089
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## Geoffrey Hinton: Foundational Scholar in Artificial Intelligence\nGeoffrey Hinton is a leading figure in neural networks and deep learning, honored with major awards including the Turing Award and Nobel Prize in Physics. He advanced foundational AI techniques (backpropagation, Boltzmann machines, t-SNE), led research at University of Toronto, CIFAR, and Google, and introduced the Forward-Forward algorithm. Hinton advocates for analog intelligence, AI safety legislation, government regulation, and universal basic income, expressing concern over AI\u2019s existential risks and societal impacts. He has faced personal challenges including lifelong depression and a chronic back injury. Hinton descends from notable scientists including George Boole, Charles Howard Hinton, George Everest, and Joan Hinton. He is a committed socialist and moved to Canada partly for political reasons.",
+        "text_original": "Geoffrey Hinton is a leading figure in neural networks and deep learning, honored with major awards including the Turing Award and Nobel Prize in Physics. He advanced foundational AI techniques (backpropagation, Boltzmann machines, t-SNE), led research at University of Toronto, CIFAR, and Google, and introduced the Forward-Forward algorithm. Hinton advocates for analog intelligence, AI safety legislation, government regulation, and universal basic income, expressing concern over AI\u2019s existential risks and societal impacts. He has faced personal challenges including lifelong depression and a chronic back injury. Hinton descends from notable scientists including George Boole, Charles Howard Hinton, George Everest, and Joan Hinton. He is a committed socialist and moved to Canada partly for political reasons",
+        "idx_start": 4161,
+        "idx_end": 4976
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computing, Mathematics, Logic, and Decision Sciences\n## George Antheil: Composer, Technological Innovator, and Inventor\nGeorge Antheil was an American composer whose avant-garde work, notably *Ballet M\u00e9canique* , embodied mechanization and provoked controversy at its premieres. He composed ballet, theatre, and opera music in Europe but returned to the U.S. due to Nazi opposition, later working in Hollywood where he adapted his style. Antheil co-invented a frequency-hopping radio technology with Hedy Lamarr, a precursor to modern wireless communications such as Bluetooth and Wi-Fi; it was implemented by the U.S. military in 1962 and gained widespread recognition only decades later. Beyond music and invention, he wrote, engaged in activism, and pursued unconventional scientific interests. Antheil\u2019s compositions remain performed and discussed, his innovations are referenced in literature, and he left a legacy through notable students and works.",
+        "text_original": "George Antheil was an American composer whose avant-garde work, notably *Ballet M\u00e9canique*, embodied mechanization and provoked controversy at its premieres. He composed ballet, theatre, and opera music in Europe but returned to the U.S. due to Nazi opposition, later working in Hollywood where he adapted his style. Antheil co-invented a frequency-hopping radio technology with Hedy Lamarr, a precursor to modern wireless communications such as Bluetooth and Wi-Fi; it was implemented by the U.S. military in 1962 and gained widespread recognition only decades later. Beyond music and invention, he wrote, engaged in activism, and pursued unconventional scientific interests. Antheil\u2019s compositions remain performed and discussed, his innovations are referenced in literature, and he left a legacy through notable students and works",
+        "idx_start": 5047,
+        "idx_end": 5880
+    }
+]

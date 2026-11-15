@@ -1,0 +1,22 @@
+{
+  "id": 30195944,
+  "title": "Keith Murray Senior Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Keith_Murray,_Baron_Murray_of_Newhaven",
+  "path": "Scholarships\\keith-murray-senior-scholarship",
+  "summary": {
+    "chars": 152,
+    "tokens": 40
+  },
+  "document": {
+    "chars": 2492,
+    "tokens": 562
+  },
+  "infobox": {
+    "title": "The Right HonourableThe Lord Murray of Newhaven",
+    "data": {
+      "Born": "28 July 1903 \u00b7 Edinburgh, Scotland",
+      "Died": "10 October 1993, aged 90 \u00b7 London, UK",
+      "Education": "Edinburgh Academy \u00b7 University of Edinburgh \u00b7 Cornell University"
+    }
+  }
+}

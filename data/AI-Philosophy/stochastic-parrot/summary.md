@@ -1,0 +1,1 @@
+In machine learning, the term stochastic parrot is a metaphor, introduced by Emily M. Bender and colleagues in a 2021 paper, that frames large language models as systems that statistically mimic text without real understanding.

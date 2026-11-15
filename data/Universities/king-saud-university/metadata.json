@@ -1,0 +1,33 @@
+{
+  "id": 578090,
+  "title": "King Saud University",
+  "url": "https://en.wikipedia.org/wiki/King_Saud_University",
+  "path": "Universities\\king-saud-university",
+  "summary": {
+    "chars": 1000,
+    "tokens": 221
+  },
+  "document": {
+    "chars": 17376,
+    "tokens": 3674
+  },
+  "infobox": {
+    "title": "King Saud University",
+    "data": {
+      "Former names": "Riyadh University \u00b7 (1964\u20131982)",
+      "Motto": "\u0631\u064a\u0627\u062f\u0629 \u0648\u062a\u0645\u064a\u0632",
+      "Motto in English": "Leadership and Excellence",
+      "Type": "Public university",
+      "Established": "6 November 1957",
+      "Founder": "Saud bin Abdulaziz",
+      "Endowment": "US$2.7 billion (2013)",
+      "President": "Ali M. Masmali",
+      "Administrative staff": "4,952",
+      "Students": "61,412 (2022)",
+      "Location": "Riyadh, Saudi Arabia \u00b7 24\u00b043\u203219\u2033N 46\u00b037\u203237\u2033E\ufeff / \ufeff24.722\u00b0N 46.627\u00b0E",
+      "Campus": "Urban, 2,224 acres (900 ha)",
+      "Language": "English, Arabic",
+      "Website": "ksu.edu.sa"
+    }
+  }
+}

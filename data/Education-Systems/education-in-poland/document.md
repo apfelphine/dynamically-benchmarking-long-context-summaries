@@ -1,0 +1,60 @@
+# Education in Poland
+
+## Compulsory education
+
+### Primary school
+Children typically start attending primary school (szkoła podstawowa, also known colloquially as podstawówka) at the age of seven or six, if their guardians decide to, but the child must have attended kindergarten in the school year preceding the one in which they are to start primary school. If not, the child must have an opinion about the possibility of starting education provided by a psychological and pedagogical counseling center. Primary school typically takes eight years to complete (grades 1–8). Prior to 2017, primary school only took six years to complete (grades 1–6), after which students would attend the also mandatory gimnazjum (middle school), which lasted 3 years. However, this changed when the 2016 "Law on School Education" act was introduced by then-Minister of Education, Anna Zalewska. Gimnazjum was abolished, and replaced with 8 years of primary school (as opposed to the previous 6 years of primary school + 3 years of gimnazjum system). The changes began taking effect on 1 September 2017.
+
+
+### Junior high school
+Until 2019, the junior high school (gimnazjum) covered lower secondary education and ended general basic education and lasted three years. The subjects taught were: Polish language, history, civic education, two foreign languages, mathematics, physics and astronomy, chemistry, biology, geography, fine arts/music, technology, information technology, physical education and religion or ethics. At the end of the curriculum, pupils were evaluated based on their cinuing results and on an examination in humanities, science and foreign languages.
+
+Following 2016 reform by PiS ruling party changes to Polish education system were gradually introduced. Starting with the school year of 2017/18, middle schools were scheduled to be disbanded, primary schools to be extended to eight years and upper secondary schools to be given one year more, as it was before 1999. Institutions were either set to close or to be changed into primary schools or high schools by 1 September 2019.
+
+
+## Upper secondary education
+Upper secondary education begins at the end of full-time compulsory education, preparing students for entry directly into the labour-market and/or tertiary (i.e. higher) education. Upper secondary education takes many forms.
+
+General education can be pursued in general secondary schools (liceum): after four years, students can pass the "Matura", which grants access to higher education. Vocational and technical education is mainly provided by technical schools (technikum) and/or basic vocational schools (zasadnicza szkoła zawodowa). Technical schools last five years and lead to the Matura. Their primary goal is to teach occupations and trades, the most popular being: accountant, mechanic, electronics specialist, and salesperson. Basic vocational schools provide a vocational education lasting three years and grant a certificate of competence in various fields, the most popular being: shop-assistant, cook, gardener, automobile mechanic, hairdresser and baker. Graduates from basic vocational schools can pass the Matura after an extra-curriculum of two years in a general secondary school, or, since 2004, of three years in a technical school. Profiled general secondary schools (liceum profilowane) provide a vocational education in four years, but only in fields described by the Polish Classification of Activities (PKD). In addition, mentally and/or physically handicapped students can join special schools (szkoła specjalna) which prepare them for the Matura in three years.
+
+
+## Tertiary education
+Poland follows the Bologna scheme and most of its tertiary level programmes are made of two cycles: a three-year bachelor's degree followed by a two-year master's degree. Some master's degrees are however granted after a unique long-cycle programme, lasting between four and six years (Ex: five years for pharmacy, six year for medicine). Doctoral programmes are achieved in about three years. The diploma of primary school teachers requires three years of study within a teacher training college. Vocational education is handled by post-secondary school (szkoła policealna) with programmes lasting two and a half years.
+
+
+### Grading system at university level
+University-level education uses a numeric system of grades from two to five, with most grades including 0.5 point increments: 2.0 is the failing grade, 3.0 is the lowest passing grade, followed by 3.5, 4.0 and 4.5, with 5.0 being the highest grade. There is no grade 2.5. A 5.5 or 6.0 is sometimes given as an "exceeds expectations" grade, but this differs among various universities and may be equivalent to 5.0 for some purposes. Similarly "3-" is occasionally (but very rarely) given as a "barely passing" grade, but for all official purposes it is equivalent to 3.0.
+
+The grading is done every semester (twice a year), not just once in a school year. Depending on the subject, the final grade may be based on the result of a single exam, or on the student's performance during the whole semester. In the latter case, a point system is generally used rather than the 2–5 scale. The points accumulated during the semester are added and converted to a final grade according to some scale.
+
+As a failing grade means merely having to repeat the failed subject, and can usually be corrected on a retake exam (and in some cases also on a special "committee exam"), it is used much more liberally, and it is quite common for a significant number of students to fail a class on the first attempt.
+
+
+## Foreign languages
+Students in Polish schools typically learn one or two foreign languages. In 2005/06, the fractions of students studying foreign languages in Polish schools included: English – 67.9%, German – 33.3%, French – 13.3%, Spanish – 10.2%, Russian – 6.1%, Italian – 4.3%, Latin – 0.6%.
+
+In 2005/06, there were 49,200 students in schools for national minorities, most of them in German, Kashubian, Ukrainian and Belarusian language schools.
+
+Under the education reform introduced by Polish education minister Katarzyna Hall, students of Polish lower secondary schools had to learn two different foreign languages. The first foreign language (usually English) was taught three times a week. The second foreign language was taught twice a week. The reform introduced two different levels of the exam – a higher level (if a student learnt the same language in primary school) and a standard level (if a student learnt the first language in lower secondary school). The results of lower secondary school language examinations contributed to the criteria of applying to enter upper secondary level school.
+
+
+## History
+The education of Polish society was a goal of rulers as early as the 12th century, and Poland soon became one of the most educated countries in Europe. The library catalog of the Cathedral Chapter of Kraków dating back to 1110 shows that in the early 12th-century Polish intellectuals had access to European literature. The Jagiellonian University, founded in 1364 by King Casimir III in Kraków, is one of Europe's oldest universities. In 1773 King Stanisław August Poniatowski established the Commission of National Education (Komisja Edukacji Narodowej), the world's first state ministry of education.
+
+The first university in Poland, Kraków's Jagiellonian University, was established in 1364 by Casimir III the Great in Kraków. It is the oldest university in Poland. It is the second oldest university in Central Europe (after Prague University) and one of the oldest universities in the world. Casimir III realized that the nation needed a class of educated people, especially lawyers, who could codify the country's laws and administer the courts and offices. His efforts to found an institution of higher learning in Poland were finally rewarded when Pope Urban V granted him permission to open the University of Kraków.
+
+During the 16th century, grammar and Latin were taught at an elementary level in schools established in 90% of parishes across Lesser Poland and Greater Poland. Secondary education  was primarily accessible in larger urban centers. At the Jagiellonian University, the student composition leaned heavily toward urban-born individuals, who accounted for 65% of enrollment. Those from noble families made up 25%, while students from peasant origins represented 10%.
+
+The idea of compulsory education was put forward by Andrzej Frycz Modrzewski in 1555. After the partitions of Poland, compulsory education was introduced by Prussian authorities in Polish provinces which belonged to Prussia (1825), and Austrian authorities in Galicia (1873). In the Russian Empire compulsory education did not exist. As a result, in 1921, after Poland regained independence, one-third of the population of the Second Polish Republic was illiterate. Illiteracy was very high in the east, but almost non-existent in western provinces. Compulsory education in Poland was introduced by a decree in February 1919. This covered all children aged 7 to 14. At the beginning, however, the newly created Polish state faced several problems of implementation – a lack of qualified teachers, buildings and funds. After World War II, compulsory education remained as one of the priorities of the state. By 1978, only 1.2 percent of the Polish population was illiterate. In Poland, compulsory education ends at the age of 18. It usually starts when children are 6 years old and ends after 12 years of learning (usually in a high school). Contemporary Polish law distinguishes between compulsory school (obowiązek szkolny) and compulsory education (obowiązek nauki).
+
+
+### Reforms of 1999
+A major reform of the education system took place in 1999, changing the overall organisational structure from 8 (primary school) + 4 (high school/liceum) years of education to 6 (primary) + 3 (junior high school, gimnazjum) + 3 (senior high school, liceum) years. The reform increased time spent on core subjects and delayed vocational study (lyceum) by one year. Poland's OECD educational rankings for reading and science shifted from being below average to being in the top 10, and to the top 15 for mathematics.
+
+
+### Reforms of 2017
+The PiS government of Poland introduced a major 2017 Polish education system reform, for successive implementation over the three school years starting with 2017/2018. The reform reverts the overall organisational structure from 6 (primary) + 3 (junior high school) + 3/4 (high school) years of education to 8 (primary school) + 4/5 (high school) years. According to history teacher Anna Dzierzgowska, the reform inherits the Polish-centred and Eurocentric focuses of the previous history syllabus, removes the Non-Aligned Movement from the syllabus, and focuses on political and military leaders and the nobility, neglecting the historical role of lower social classes. The term communism was removed from teaching about the nineteenth century, during which it is called socialism, and only appears later in association with the Polish People's Republic. Dzierzgowska argues that the notion of nationalism historically dates only back to the nineteenth century, but is used much too frequently in the new curriculum, giving pupils insufficient geographical context.
+
+
+## Violence
+In 2006, in response to the suicide of a girl after she was sexually molested in school, the Polish Minister of Education, Roman Giertych, launched a "zero tolerance" school reform. Under this plan, teachers would have the legal status of civil servants, making violent crimes against them punishable by higher penalties. Head teachers will be, in theory, able to send aggressive pupils to perform community service and these students' parents may also be fined. Teachers who fail to report violent acts in school could face a prison sentence.

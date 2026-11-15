@@ -1,0 +1,121 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Armenia\n**Literacy and Curriculum:** Armenia achieved 100% literacy by 1960. Post-Soviet reforms shifted curricula to emphasize Armenian history and culture, with Armenian becoming the dominant language of instruction, although Russian remains widely taught. English language learning is growing, and the country established its first Chinese language school in 2018.\n**K-12 Structure and Schools:** Secondary education is compulsory and free, spanning 12 years across primary (Grades 1-4), middle (Grades 5-9), and high school (Grades 10-12). Public schools constitute 97% of institutions, following the national curriculum, while private schools operate on tuition fees but must adhere to national quality criteria. Entrance exams are critical for university admission.",
+        "text_original": "Literacy and Curriculum:** Armenia achieved 100% literacy by 1960. Post-Soviet reforms shifted curricula to emphasize Armenian history and culture, with Armenian becoming the dominant language of instruction, although Russian remains widely taught. English language learning is growing, and the country established its first Chinese language school in 2018.\n\n**K-12 Structure and Schools:** Secondary education is compulsory and free, spanning 12 years across primary (Grades 1-4), middle (Grades 5-9), and high school (Grades 10-12). Public schools constitute 97% of institutions, following the national curriculum, while private schools operate on tuition fees but must adhere to national quality criteria. Entrance exams are critical for university admission",
+        "idx_start": 49,
+        "idx_end": 810
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Norway\n**Structure and Compulsion:** The Norwegian system is structured into elementary (ages 6\u201312), lower secondary (ages 13\u201316), and upper secondary (ages 16\u201319). Elementary and lower secondary education (grunnskole) are compulsory for ages 6\u201316.\n**Education Levels:** Primary school focuses on foundational skills without official grades. Lower secondary introduces grading and elective choices. Upper secondary offers paths in general or vocational studies, often utilizing the \"2+2 model\" for vocational students. Higher education is state-run, with quality assured by NOKUT, and follows Bologna Process agreements.",
+        "text_original": "Structure and Compulsion:** The Norwegian system is structured into elementary (ages 6\u201312), lower secondary (ages 13\u201316), and upper secondary (ages 16\u201319). Elementary and lower secondary education (grunnskole) are compulsory for ages 6\u201316.\n\n**Education Levels:** Primary school focuses on foundational skills without official grades. Lower secondary introduces grading and elective choices. Upper secondary offers paths in general or vocational studies, often utilizing the \"2+2 model\" for vocational students. Higher education is state-run, with quality assured by NOKUT, and follows Bologna Process agreements",
+        "idx_start": 825,
+        "idx_end": 1436
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Indonesia\n**Historical Context and Structure:** Indonesian education evolved from Islamic boarding schools (Pondok Pesantren) through Dutch colonial structures, which were segregated by social status. Post-independence, the system aims to be anti-discriminatory and nationalist. Compulsory education lasts twelve years.\n**Levels and Focus:** Early education (PAUD) is generally private. Public education is free for primary and middle school, focusing on instilling Pancasila principles. Secondary education offers academic (SMA) or vocational (SMK) pathways. The system is large, serving over fifty million students, though challenges remain in funding, management, and equity.",
+        "text_original": "Historical Context and Structure:** Indonesian education evolved from Islamic boarding schools (Pondok Pesantren) through Dutch colonial structures, which were segregated by social status. Post-independence, the system aims to be anti-discriminatory and nationalist. Compulsory education lasts twelve years.\n\n**Levels and Focus:** Early education (PAUD) is generally private. Public education is free for primary and middle school, focusing on instilling Pancasila principles. Secondary education offers academic (SMA) or vocational (SMK) pathways. The system is large, serving over fifty million students, though challenges remain in funding, management, and equity",
+        "idx_start": 1454,
+        "idx_end": 2120
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Sweden\n**System Overview:** Sweden has a comprehensive nine-year compulsory school (grundskola), followed by upper secondary education (gymnasieskola). Education is characterized by a strong focus on core subjects and is highly regulated.\n**Levels and Higher Education:** Preschool education is offered, with three-year compulsory primary schooling. Upper secondary offers preparatory or vocational paths. Higher education is structured around the Bologna Process (Bachelor's, Master's, Doctoral levels), with state-run universities and accredited private options. Independent schools (friskolor) are publicly funded but face scrutiny regarding profit models.",
+        "text_original": "System Overview:** Sweden has a comprehensive nine-year compulsory school (grundskola), followed by upper secondary education (gymnasieskola). Education is characterized by a strong focus on core subjects and is highly regulated.\n\n**Levels and Higher Education:** Preschool education is offered, with three-year compulsory primary schooling. Upper secondary offers preparatory or vocational paths. Higher education is structured around the Bologna Process (Bachelor's, Master's, Doctoral levels), with state-run universities and accredited private options. Independent schools (friskolor) are publicly funded but face scrutiny regarding profit models",
+        "idx_start": 2135,
+        "idx_end": 2785
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Egypt\n**Historical Trajectory and Structure:** Education in Egypt has roots in ancient institutions like \"Bar Ankh.\" Modernization began under Muhammad Ali, creating a dual system of traditional religious schools (mansouri) and modern secular institutions (madrasas).\n**Modern System and Challenges:** The system is highly centralized, with compulsory basic education (ages 4\u201314) being free in government institutions. While access has increased, quality remains low, leading to heavy reliance on private tutoring. Systemic challenges include low teacher status, poor infrastructure, and wealth gaps in attainment.",
+        "text_original": "Historical Trajectory and Structure:** Education in Egypt has roots in ancient institutions like \"Bar Ankh.\" Modernization began under Muhammad Ali, creating a dual system of traditional religious schools (mansouri) and modern secular institutions (madrasas).\n\n**Modern System and Challenges:** The system is highly centralized, with compulsory basic education (ages 4\u201314) being free in government institutions. While access has increased, quality remains low, leading to heavy reliance on private tutoring. Systemic challenges include low teacher status, poor infrastructure, and wealth gaps in attainment",
+        "idx_start": 2799,
+        "idx_end": 3405
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Hong Kong\n**System and Curriculum:** Compulsory education requires attendance through primary and secondary school (ending at age 18). Public primary education is free, while the system features diverse private and international schools.\n**Levels and Assessment:** Secondary education is divided into junior and senior years, culminating in the Hong Kong Diploma of Secondary Education (HKDSE). The curriculum emphasizes both local and international standards; English Medium Instruction (EMI) schools are often viewed as elite. The system is increasingly shifting toward active and experiential learning.",
+        "text_original": "System and Curriculum:** Compulsory education requires attendance through primary and secondary school (ending at age 18). Public primary education is free, while the system features diverse private and international schools.\n\n**Levels and Assessment:** Secondary education is divided into junior and senior years, culminating in the Hong Kong Diploma of Secondary Education (HKDSE). The curriculum emphasizes both local and international standards; English Medium Instruction (EMI) schools are often viewed as elite. The system is increasingly shifting toward active and experiential learning",
+        "idx_start": 3423,
+        "idx_end": 4016
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Sri Lanka\n**Administration and Structure:** The system is overseen by several ministries. The structure is divided into primary (5 years), junior secondary (4 years), senior secondary (2 years, preparing for G.C.E. O/Ls), and collegiate (2 years, leading to G.C.E. A/Ls).\n**Access and Competition:** Education is largely free, but competition for higher education is intense, with admissions based on performance in national exams. The system features government, private, and numerous religious schools (Buddhist, Hindu, Catholic).",
+        "text_original": "Administration and Structure:** The system is overseen by several ministries. The structure is divided into primary (5 years), junior secondary (4 years), senior secondary (2 years, preparing for G.C.E. O/Ls), and collegiate (2 years, leading to G.C.E. A/Ls).\n\n**Access and Competition:** Education is largely free, but competition for higher education is intense, with admissions based on performance in national exams. The system features government, private, and numerous religious schools (Buddhist, Hindu, Catholic",
+        "idx_start": 4034,
+        "idx_end": 4553
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Ghana\n**Structure and Growth:** Education is divided into basic (12 years, ages 4\u201315), secondary, and tertiary levels, primarily taught in English. The system has seen rapid growth in enrollment, supported by government investment.\n**Challenges and Equity:** While basic education is free and compulsory, the system faces challenges, including teacher shortages, and significant socioeconomic disparities in tertiary education access, with wealthy males disproportionately represented in higher education.",
+        "text_original": "Structure and Growth:** Education is divided into basic (12 years, ages 4\u201315), secondary, and tertiary levels, primarily taught in English. The system has seen rapid growth in enrollment, supported by government investment.\n\n**Challenges and Equity:** While basic education is free and compulsory, the system faces challenges, including teacher shortages, and significant socioeconomic disparities in tertiary education access, with wealthy males disproportionately represented in higher education",
+        "idx_start": 4568,
+        "idx_end": 5065
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Israel\n**System and Diversity:** The system spans three tiers: primary (Grades 1\u20136), middle school (Grades 7\u20139), and high school (Grades 10\u201312), with compulsory education running through Grade 12. It features four main tracks: state-secular, state-religious, independent religious (Haredi), and Arab.\n**Societal Value and Challenges:** Education is highly valued as a key to socioeconomic mobility. However, disparities exist, particularly in the Arab sector, which faces underfunding and resource shortages despite official efforts to close gaps.",
+        "text_original": "System and Diversity:** The system spans three tiers: primary (Grades 1\u20136), middle school (Grades 7\u20139), and high school (Grades 10\u201312), with compulsory education running through Grade 12. It features four main tracks: state-secular, state-religious, independent religious (Haredi), and Arab.\n\n**Societal Value and Challenges:** Education is highly valued as a key to socioeconomic mobility. However, disparities exist, particularly in the Arab sector, which faces underfunding and resource shortages despite official efforts to close gaps",
+        "idx_start": 5080,
+        "idx_end": 5618
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## England\n**Framework and Access:** Compulsory education is required from age 5 to 18. State-funded schooling is widespread, with 93% of children attending.\n**Structure and Funding:** The system uses Key Stages, with mandatory subjects forming the core curriculum. Education is supported by various school types (Academies, Free schools). Higher education is subsidized, though tuition fees have increased since 2012, with quality assurance managed by Ofsted and QAA.",
+        "text_original": "Framework and Access:** Compulsory education is required from age 5 to 18. State-funded schooling is widespread, with 93% of children attending.\n\n**Structure and Funding:** The system uses Key Stages, with mandatory subjects forming the core curriculum. Education is supported by various school types (Academies, Free schools). Higher education is subsidized, though tuition fees have increased since 2012, with quality assurance managed by Ofsted and QAA",
+        "idx_start": 5634,
+        "idx_end": 6089
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Republic of Ireland\n**Structure and Language:** Education is compulsory from age 6 to 16. English is the primary medium, but Gaelscoileanna use Irish. The system involves a three-year Junior Cycle culminating in the Junior Certificate, followed by the two-year Senior Cycle leading to the Leaving Certificate.\n**Equity and Diversity:** State-funded schools are heavily dominated by Catholic patronage. The system attempts to address disadvantage through the Deis scheme, while the Irish language remains a core subject in all public schools.",
+        "text_original": "Structure and Language:** Education is compulsory from age 6 to 16. English is the primary medium, but Gaelscoileanna use Irish. The system involves a three-year Junior Cycle culminating in the Junior Certificate, followed by the two-year Senior Cycle leading to the Leaving Certificate.\n\n**Equity and Diversity:** State-funded schools are heavily dominated by Catholic patronage. The system attempts to address disadvantage through the Deis scheme, while the Irish language remains a core subject in all public schools",
+        "idx_start": 6117,
+        "idx_end": 6636
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## France\n**Centralization and Ideology:** French education is highly centralized under the Ministry of National Education and Youth, emphasizing the transmission of a \"common culture.\" The Jules Ferry laws made primary instruction mandatory, free, and secular.\n**Levels and Elite Tracks:** Education progresses through *\u00e9cole \u00e9l\u00e9mentaire* , *coll\u00e8ge* (middle school), and *lyc\u00e9e* (high school). Elite access to *grandes \u00e9coles* is highly selective, often requiring specialized preparatory classes (CPGEs) with intense academic rigor. Higher education is structured around the Bologna Process.",
+        "text_original": "Centralization and Ideology:** French education is highly centralized under the Ministry of National Education and Youth, emphasizing the transmission of a \"common culture.\" The Jules Ferry laws made primary instruction mandatory, free, and secular.\n\n**Levels and Elite Tracks:** Education progresses through *\u00e9cole \u00e9l\u00e9mentaire*, *coll\u00e8ge* (middle school), and *lyc\u00e9e* (high school). Elite access to *grandes \u00e9coles* is highly selective, often requiring specialized preparatory classes (CPGEs) with intense academic rigor. Higher education is structured around the Bologna Process",
+        "idx_start": 6651,
+        "idx_end": 7231
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Nigeria\n**Structure and Access:** Basic education is compulsory and free, structured as a 9-year Universal Basic Education (UBE) system. Secondary education is divided into Junior Secondary School (JSS, 3 years) and Senior Secondary School (SSS, 3 years).\n**Funding and Quality:** Education is a shared effort between government and private entities. While public schools are intended to be free, challenges persist regarding infrastructure, qualified staff, and low prestige in vocational training, leading to high private sector involvement.",
+        "text_original": "Structure and Access:** Basic education is compulsory and free, structured as a 9-year Universal Basic Education (UBE) system. Secondary education is divided into Junior Secondary School (JSS, 3 years) and Senior Secondary School (SSS, 3 years).\n\n**Funding and Quality:** Education is a shared effort between government and private entities. While public schools are intended to be free, challenges persist regarding infrastructure, qualified staff, and low prestige in vocational training, leading to high private sector involvement",
+        "idx_start": 7247,
+        "idx_end": 7780
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Turkish Education\n**System and Secularism:** The system transitioned from segregated, religious channels to a unified, secular structure via the 1924 Law of Integration. Compulsory education was extended to 12 years.\n**Curriculum and Ideology:** The curriculum emphasizes Turkish nationalism in Atat\u00fcrk's thought. While religion is taught from the 4th grade, state control over curriculum is strict, and textbooks have been criticized for promoting nationalist viewpoints and denying Armenian genocide.",
+        "text_original": "System and Secularism:** The system transitioned from segregated, religious channels to a unified, secular structure via the 1924 Law of Integration. Compulsory education was extended to 12 years.\n\n**Curriculum and Ideology:** The curriculum emphasizes Turkish nationalism in Atat\u00fcrk's thought. While religion is taught from the 4th grade, state control over curriculum is strict, and textbooks have been criticized for promoting nationalist viewpoints and denying Armenian genocide",
+        "idx_start": 7806,
+        "idx_end": 8288
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Taiwan\n**Compulsion and Structure:** The current national basic education is compulsory for 12 years. The system is highly regimented, with a strong emphasis on discipline and daily rituals.\n**Levels and Pathways:** Education flows through elementary (6 years), junior high (3 years), and senior high (3 years). University entry relies on national exams. Vocational training is offered through junior colleges and institutes of technology. Private schools are popular, with a significant market for supplementary cram schools.",
+        "text_original": "Compulsion and Structure:** The current national basic education is compulsory for 12 years. The system is highly regimented, with a strong emphasis on discipline and daily rituals.\n\n**Levels and Pathways:** Education flows through elementary (6 years), junior high (3 years), and senior high (3 years). University entry relies on national exams. Vocational training is offered through junior colleges and institutes of technology. Private schools are popular, with a significant market for supplementary cram schools",
+        "idx_start": 8303,
+        "idx_end": 8820
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Iran\n**Centralization and Values:** Education is highly centralized under the Ministry of Education. Post-1979, the system underwent Islamization, leading to gender segregation and the introduction of mandatory religious instruction.\n**Levels and Challenges:** The system has stages ranging from pre-primary to tertiary level. While public universities are tuition-free, privatization is growing, with private schools becoming increasingly expensive. Challenges include dropout rates and political interference in educational policy.",
+        "text_original": "Centralization and Values:** Education is highly centralized under the Ministry of Education. Post-1979, the system underwent Islamization, leading to gender segregation and the introduction of mandatory religious instruction.\n\n**Levels and Challenges:** The system has stages ranging from pre-primary to tertiary level. While public universities are tuition-free, privatization is growing, with private schools becoming increasingly expensive. Challenges include dropout rates and political interference in educational policy",
+        "idx_start": 8833,
+        "idx_end": 9359
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Summary\n## Comparative Analysis Summary\nAcross all systems, key themes emerge: **Centralization vs. Decentralization** (e.g., France vs. Ghana), **Secularism vs. Religious Influence** (e.g., Turkey vs. Ireland), the **Role of Private Education** (e.g., England vs. Nigeria), and persistent **Equity Challenges** related to wealth and geography across nearly all nations. International integration (e.g., Bologna Process in Armenia/Sweden; IB in Hong Kong/Turkey) is a common modern trend.",
+        "text_original": "Across all systems, key themes emerge: **Centralization vs. Decentralization** (e.g., France vs. Ghana), **Secularism vs. Religious Influence** (e.g., Turkey vs. Ireland), the **Role of Private Education** (e.g., England vs. Nigeria), and persistent **Equity Challenges** related to wealth and geography across nearly all nations. International integration (e.g., Bologna Process in Armenia/Sweden; IB in Hong Kong/Turkey) is a common modern trend",
+        "idx_start": 9394,
+        "idx_end": 9841
+    }
+]

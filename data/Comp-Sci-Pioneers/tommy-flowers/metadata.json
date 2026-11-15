@@ -1,0 +1,26 @@
+{
+  "id": 698618,
+  "title": "Tommy Flowers",
+  "url": "https://en.wikipedia.org/wiki/Tommy_Flowers",
+  "path": "Comp-Sci-Pioneers\\tommy-flowers",
+  "summary": {
+    "chars": 274,
+    "tokens": 57
+  },
+  "document": {
+    "chars": 11009,
+    "tokens": 2344
+  },
+  "infobox": {
+    "title": "Tommy FlowersMBE",
+    "data": {
+      "Born": "Thomas Harold Flowers \u00b7 22 December 1905 \u00b7 Poplar, London, England",
+      "Died": "28 October 1998 (aged 92) \u00b7 Mill Hill, London, England",
+      "Education": "University of London",
+      "Occupation": "Engineer",
+      "Known for": "Colossus computer",
+      "Spouse": "Eileen Margaret Green \u200b (m. 1935)\u200b",
+      "Children": "2"
+    }
+  }
+}

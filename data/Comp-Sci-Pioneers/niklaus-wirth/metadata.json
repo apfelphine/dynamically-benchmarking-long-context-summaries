@@ -1,0 +1,30 @@
+{
+  "id": 21642,
+  "title": "Niklaus Wirth",
+  "url": "https://en.wikipedia.org/wiki/Niklaus_Wirth",
+  "path": "Comp-Sci-Pioneers\\niklaus-wirth",
+  "summary": {
+    "chars": 388,
+    "tokens": 84
+  },
+  "document": {
+    "chars": 4625,
+    "tokens": 1064
+  },
+  "infobox": {
+    "title": "Niklaus Wirth",
+    "data": {
+      "Born": "Niklaus Emil Wirth \u00b7 15 February 1934 \u00b7 Winterthur, Switzerland",
+      "Died": "1 January 2024 (aged 89) \u00b7 Z\u00fcrich, Switzerland",
+      "Education": "- ETH Zurich (BS) - Laval University (MS) - UC Berkeley (PhD)",
+      "Known for": "Oberon Oberon-2 Oberon-07 Oberon System Euler Pascal ALGOL W Modula Modula-2",
+      "Children": "3",
+      "Awards": "- IEEE Emanuel R. Piore Award (1983) - Turing Award (1984) - SIGPLAN Programming Languages Achievement Award - Fellow of the Computer History Museum (2004) - Marcel Benoist Prize (1989)",
+      "Fields": "Computer science",
+      "Institutions": "- ETH Zurich - Stanford University - University of Zurich - Xerox PARC",
+      "Thesis": "A Generalization of Algol (1963)",
+      "Doctoral advisor": "- Harry Huskey - Edward Feigenbaum",
+      "Doctoral students": "- Martin Odersky - Michael Franz"
+    }
+  }
+}

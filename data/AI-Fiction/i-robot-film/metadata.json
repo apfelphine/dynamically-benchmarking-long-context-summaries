@@ -1,0 +1,36 @@
+{
+  "id": 564947,
+  "title": "I, Robot (film)",
+  "url": "https://en.wikipedia.org/wiki/I,_Robot_(film)",
+  "path": "AI-Fiction\\i-robot-film",
+  "summary": {
+    "chars": 1125,
+    "tokens": 262
+  },
+  "document": {
+    "chars": 15691,
+    "tokens": 3526
+  },
+  "infobox": {
+    "title": "I, Robot",
+    "data": {
+      "Directed by": "Alex Proyas",
+      "Screenplay by": "- Jeff Vintar - Akiva Goldsman",
+      "Story by": "Jeff Vintar",
+      "Based on": "Premise suggested by I, Robot \u00b7 (1950 book) \u00b7 by Isaac Asimov",
+      "Produced by": "- Laurence Mark - John Davis - Topher Dow - Wyck Godfrey",
+      "Starring": "- Will Smith - Bridget Moynahan - Bruce Greenwood - James Cromwell - Chi McBride - Alan Tudyk",
+      "Cinematography": "Simon Duggan",
+      "Edited by": "- Richard Learoyd - Armen Minasian - William Hoy",
+      "Music by": "Marco Beltrami",
+      "Production \u00b7 companies": "- Davis Entertainment - Laurence Mark Productions - Overbrook Films - Mediastream IV",
+      "Distributed by": "20th Century Fox",
+      "Release dates": "- July 7, 2004 (Mann Village Theater) - July 16, 2004 (US)",
+      "Running time": "115 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$105-120 million",
+      "Box office": "$353.1 million"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 42912557,
+  "title": "Future of Life Institute",
+  "url": "https://en.wikipedia.org/wiki/Future_of_Life_Institute",
+  "path": "AI-Regulations\\future-of-life-institute",
+  "summary": {
+    "chars": 642,
+    "tokens": 143
+  },
+  "document": {
+    "chars": 8736,
+    "tokens": 1899
+  },
+  "infobox": {
+    "title": "Future of Life Institute",
+    "data": {
+      "Abbreviation": "FLI",
+      "Formation": "March 2014",
+      "Founders": "- Jaan Tallinn - Max Tegmark - Viktoriya Krakovna - Anthony Aguirre - Meia Chita-Tegmark",
+      "Type": "Non-profit research institute",
+      "Purpose": "Reduction of existential risk, particularly from advanced artificial intelligence",
+      "Headquarters": "Campbell, California, United States",
+      "Location": "- - Global - Brussels, Belgium - Campbell, California, United States - London, United Kingdom - Washington, D.C., United States",
+      "President": "Max Tegmark",
+      "Endowment": "$665.8 million (in 2021)",
+      "Website": "futureoflife.org"
+    }
+  }
+}

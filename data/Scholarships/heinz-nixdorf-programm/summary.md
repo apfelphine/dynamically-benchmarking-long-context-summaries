@@ -1,0 +1,1 @@
+The Heinz Nixdorf Program is a scholarship program to promote Asia-Pacific related work experience for young aspiring managers holding German citizenship. The program is funded by the Heinz Nixdorf Stiftung.

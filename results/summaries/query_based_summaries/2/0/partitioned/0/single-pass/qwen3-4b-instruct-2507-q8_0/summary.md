@@ -1,0 +1,11 @@
+**Embodied cognition** is a theory asserting that cognition is deeply rooted in the body's interactions with the world, rejecting the idea of a disembodied, abstract mind. It emphasizes that perception, memory, language, reasoning, and emotion are shaped by sensorimotor experiences, bodily states, and the environment. Key ideas include:
+
+- **Perception**: Is an active, embodied process involving sensorimotor coupling, where bodily actions influence how the world is perceived (e.g., distance perception changes with physical state).
+- **Language**: Understanding words involves activating motor systems; language comprehension and production are grounded in sensorimotor simulations.
+- **Memory**: Memories are tied to bodily experiences and actions; recalling autobiographical events is enhanced by matching body position to the memory.
+- **Learning and Reasoning**: Action-based learning improves cognitive performance; motor expertise enhances spatial reasoning, and gestures during reasoning boost comprehension and insight.
+- **Emotion**: Emotions are experienced through bodily states (e.g., muscle tension for anger), and re-experiencing emotions involves reactivating sensorimotor systems.
+- **Self-regulation**: Bodily cues (e.g., muscle firming) can enhance willpower and motivation, influencing decisions like charitable giving.
+- **Social Cognition**: Nonverbal synchrony and perspective-taking are embodied processes, where bodily interactions shape emotional and social understanding.
+
+The theory is supported by empirical research in neuroscience, robotics, education, and psychology, showing that cognitive functions are not isolated in the brain but emerge from dynamic interactions between the body, environment, and action. Embodied cognition has led to practical applications in education, clinical therapy, robotics, and AI, promoting a more holistic view of intelligence. It is considered a broad, interdisciplinary research program rather than a single unified theory, with ongoing debates about its scope and limitations.

@@ -1,0 +1,58 @@
+[
+    {
+        "document_idx": null,
+        "text": "# University of Hong Kong (HKU)\nFounded in 1911, the University of Hong Kong is Hong Kong\u2019s oldest and most prestigious university, recognized for its British-Chinese heritage and excellence in health, law, education, and research across ten faculties. Globally ranked, HKU offers dynamic student life, significant research collaborations, and an influential alumni network, including Nobel laureates, while navigating ongoing challenges related to academic freedom and political pressures.",
+        "text_original": "Founded in 1911, the University of Hong Kong is Hong Kong\u2019s oldest and most prestigious university, recognized for its British-Chinese heritage and excellence in health, law, education, and research across ten faculties. Globally ranked, HKU offers dynamic student life, significant research collaborations, and an influential alumni network, including Nobel laureates, while navigating ongoing challenges related to academic freedom and political pressures",
+        "idx_start": 33,
+        "idx_end": 490
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Australian Universities: UNSW & University of Melbourne\nThe University of New South Wales (UNSW) and the University of Melbourne are renowned Australian institutions noted for selective admissions, high-impact research, and vibrant student communities. UNSW specializes in engineering, technology, medicine, law, and the arts, while Melbourne\u2019s \u201cMelbourne Model\u201d combines broad undergraduate education with focused postgraduate study. Both foster international exchange and have alumni shaping policy, arts, and science globally.",
+        "text_original": "The University of New South Wales (UNSW) and the University of Melbourne are renowned Australian institutions noted for selective admissions, high-impact research, and vibrant student communities. UNSW specializes in engineering, technology, medicine, law, and the arts, while Melbourne\u2019s \u201cMelbourne Model\u201d combines broad undergraduate education with focused postgraduate study. Both foster international exchange and have alumni shaping policy, arts, and science globally",
+        "idx_start": 560,
+        "idx_end": 1032
+    },
+    {
+        "document_idx": null,
+        "text": "# National University of Singapore (NUS)\nFounded in 1905, NUS is Singapore\u2019s first and leading university, consistently ranking among the global top institutions for interdisciplinary research, innovation, and international collaboration. Comprising 17 faculties and multiple campuses, it nurtures leaders in academia, politics, and health, marking 120 years of multicultural engagement and transformation.",
+        "text_original": "Founded in 1905, NUS is Singapore\u2019s first and leading university, consistently ranking among the global top institutions for interdisciplinary research, innovation, and international collaboration. Comprising 17 faculties and multiple campuses, it nurtures leaders in academia, politics, and health, marking 120 years of multicultural engagement and transformation",
+        "idx_start": 1077,
+        "idx_end": 1441
+    },
+    {
+        "document_idx": null,
+        "text": "# Latin American Leaders: UNAM & UFRJ\nThe National Autonomous University of Mexico (UNAM), established in 1910, is one of the largest and most influential universities in the world, known for multidisciplinary research, cultural leadership, activism, and a UNESCO World Heritage campus. The Federal University of Rio de Janeiro (UFRJ) excels in academic innovation, autonomy, affirmative action, and research, producing eminent alumni in arts and sciences.",
+        "text_original": "The National Autonomous University of Mexico (UNAM), established in 1910, is one of the largest and most influential universities in the world, known for multidisciplinary research, cultural leadership, activism, and a UNESCO World Heritage campus. The Federal University of Rio de Janeiro (UFRJ) excels in academic innovation, autonomy, affirmative action, and research, producing eminent alumni in arts and sciences",
+        "idx_start": 1483,
+        "idx_end": 1900
+    },
+    {
+        "document_idx": null,
+        "text": "# Cornell University\nEstablished in 1865, Cornell University in New York is a prestigious land-grant institution with campuses in multiple cities, noted for academic innovation, global engagement, sustainability, selective admissions, and robust financial aid. Home to a vibrant campus life, distinguished alumni, and significant Nobel laureates, Cornell values community traditions and student wellbeing.",
+        "text_original": "Established in 1865, Cornell University in New York is a prestigious land-grant institution with campuses in multiple cities, noted for academic innovation, global engagement, sustainability, selective admissions, and robust financial aid. Home to a vibrant campus life, distinguished alumni, and significant Nobel laureates, Cornell values community traditions and student wellbeing",
+        "idx_start": 1925,
+        "idx_end": 2308
+    },
+    {
+        "document_idx": null,
+        "text": "# University of British Columbia (UBC)\nUBC is a top Canadian university with campuses in Vancouver and Okanagan, serving over 72,000 students including substantial international and Indigenous representation. Globally ranked and renowned for research centers like TRIUMF, UBC offers unique academic programs, strong student support, and extensive partnerships with Indigenous communities. Student life is anchored around \"the Nest,\" celebrated traditions, active organizations, and a notable alumni community.",
+        "text_original": "UBC is a top Canadian university with campuses in Vancouver and Okanagan, serving over 72,000 students including substantial international and Indigenous representation. Globally ranked and renowned for research centers like TRIUMF, UBC offers unique academic programs, strong student support, and extensive partnerships with Indigenous communities. Student life is anchored around \"the Nest,\" celebrated traditions, active organizations, and a notable alumni community",
+        "idx_start": 2351,
+        "idx_end": 2820
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Toronto (U of T)\nCanada\u2019s leading university, U of T operates three campuses and a central collegiate system, consistently ranking among the world\u2019s top 20\u201330 institutions. With 14 faculties, groundbreaking research achievements (including insulin and stem cell innovations), North America's third-largest academic library, and Canada\u2019s largest research budget, U of T boasts a diverse, international student body, exemplary student support, and robust extracurricular offerings. Its alumni include prime ministers, Nobel laureates, and key innovators; their companies contribute significantly to Canada\u2019s economy. U of T was named QS\u2019s most sustainable university in 2024.",
+        "text_original": "Canada\u2019s leading university, U of T operates three campuses and a central collegiate system, consistently ranking among the world\u2019s top 20\u201330 institutions. With 14 faculties, groundbreaking research achievements (including insulin and stem cell innovations), North America's third-largest academic library, and Canada\u2019s largest research budget, U of T boasts a diverse, international student body, exemplary student support, and robust extracurricular offerings. Its alumni include prime ministers, Nobel laureates, and key innovators; their companies contribute significantly to Canada\u2019s economy. U of T was named QS\u2019s most sustainable university in",
+        "idx_start": 2857,
+        "idx_end": 3507
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Oxford\nEstablished in the 12th century, Oxford is one of the oldest and most acclaimed universities worldwide, operating through a collegiate system of 39 colleges. Oxford\u2019s wealth, ranked prominence, and world-leading teaching and research span humanities, sciences, and business. It boasts a storied academic tradition\u2014unique societies, sports, and arts\u2014and influential alumni, including over 70 Nobel laureates and prominent cultural figures. Its resources include the Bodleian Libraries, renowned museums, and the world\u2019s largest university press.",
+        "text_original": "Established in the 12th century, Oxford is one of the oldest and most acclaimed universities worldwide, operating through a collegiate system of 39 colleges. Oxford\u2019s wealth, ranked prominence, and world-leading teaching and research span humanities, sciences, and business. It boasts a storied academic tradition\u2014unique societies, sports, and arts\u2014and influential alumni, including over 70 Nobel laureates and prominent cultural figures. Its resources include the Bodleian Libraries, renowned museums, and the world\u2019s largest university press",
+        "idx_start": 3539,
+        "idx_end": 4082
+    }
+]

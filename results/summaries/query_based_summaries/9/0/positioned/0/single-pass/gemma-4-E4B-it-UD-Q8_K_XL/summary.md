@@ -1,0 +1,7 @@
+## Education in Pakistan
+
+**Formal Education Structure and Statistics:**
+The formal education system in Pakistan is inspired by the English system, covering primary, secondary, and tertiary levels. Only about 67.5% of Pakistani children complete primary school. Secondary education begins in year 9 and culminates in the Higher Secondary School Certificate (HSSC) after years 11 and 12. Alternative qualifications like GCE (Ordinary Level/Advanced Level) and IGCSE are also available. Technical education combines technical and vocational learning from year 5 to year 10. As of 2009, the net primary school attendance rate for both sexes was 66%, which was below the world average of 90%.
+
+**Quality, Access, and Societal Issues:**
+The quality of education in Pakistan is declining, suffering from outdated curricula, teacher shortages, and poorly equipped laboratories. Education expenditure was marginal, with only about 12% of the national allocation going to higher education. Gender disparity is a profound issue; for instance, in the 1990s, only 20% of female enrollment was recorded. Despite some recent improvements, low female enrollment persists, and literacy rates show a significant disparity, with men's literacy rate around 67% versus women's at 42%. Furthermore, religious seminaries (Madrassas) are popular among poorer families, often outnumbering public schools in some regions, while the system faces criticism for prioritizing rote memorization over application-based learning.

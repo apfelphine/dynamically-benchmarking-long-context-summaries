@@ -1,0 +1,15 @@
+**University College London (UCL)**
+
+UCL is a globally recognized research-intensive university with two primary campuses: **Bloomsbury** in Central London and **UCL East** in Stratford, east London. The historic Bloomsbury campus features iconic buildings like the **Wilkins Building**, **Rockefeller Building**, and the **Sainsbury Wellcome Centre for Neural Circuits and Behaviour**, which won awards for its innovative design. In 2024, UCL regained control of part of its campus after a court case involving pro-Gaza protesters.
+
+UCL operates a large network of **18 libraries** across both campuses, including the **UCL Main Library** and **UCL East Library**, with over 2 million books. The university is home to prestigious museums, such as the **Petrie Museum of Egyptian Archaeology** and the **Grant Museum of Zoology**, and holds significant collections in special archives, including rare books and manuscripts. UCL’s **Sainsbury Wellcome Centre** and **London Centre for Nanotechnology** are notable research centers.
+
+UCL is highly ranked internationally, consistently appearing in the **top 25 globally** in major university rankings. In the UK, it is among the **top 15 universities** based on teaching quality, student experience, and research impact. The university is known for its **diverse student body**, with a strong commitment to widening access through initiatives like **Access UCL**, which offers contextualized offers to students from disadvantaged backgrounds.
+
+UCL’s governance includes a **Council** and **Academic Board**, with the **President and Provost** as the principal academic and administrative officer. The university organizes its research and teaching into **11 faculties**, each with specialized schools, departments, and institutes. Notable research areas include neuroscience, engineering, medicine, and humanities.
+
+UCL’s financial strength is evident in its **£2.03 billion income** in 2024, with significant contributions from research grants, tuition fees, and donations. The university has a strong reputation for innovation, with a **second-largest patent portfolio** among UK universities and a robust commercialization arm, **UCL Business**.
+
+Student life at UCL includes over **250 clubs and societies**, a **Students’ Union** with extensive services, and a focus on sustainability, reflected in initiatives like the **Student Centre**, which was certified outstanding by BREEAM. UCL also hosts **UCL East**, a new campus in Stratford, offering engineering and architectural programs.
+
+UCL’s **diversity and inclusion efforts** are recognized, with institutional awards for gender equality and race equality. The university has faced criticism over historical ties to eugenics and has taken steps to address these issues, including renaming buildings and apologizing for its past contributions to harmful ideologies.

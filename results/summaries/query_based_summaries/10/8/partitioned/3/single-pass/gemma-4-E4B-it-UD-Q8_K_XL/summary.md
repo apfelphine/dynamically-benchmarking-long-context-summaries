@@ -1,0 +1,10 @@
+## Education in Nigeria
+
+**Informal and Literacy Education:**
+Nigeria has various communal-based strategies, supported by the government and NGOs like CELLE, to improve literacy among children and adults through programs such as the Premier Reading Club (PRC). While formal and informal literacy education saw a boost under British colonial rule, funding across the board has been lacking since independence in 1960. The overall informal education system is complex, complicated by funding challenges and political resistance, with studies linking high illiteracy rates to a lack of commitment from the national government.
+
+**Formal Education Structure:**
+The formal system includes primary education, which for the majority of Nigerians begins around age five and lasts six years. Following this, Junior Secondary School (JSS) lasts three years, and Senior Secondary School (SSS) also spans three years, leading to the Senior Secondary Certificate Examination (SSCE). Tertiary education is controlled by the government and includes universities (public and private), polytechnics, and colleges of education. Enrollment in universities requires meeting minimum criteria, such as specific credits in the Senior School Certificate Examination (SSCE) or a minimum score in the Joint Admissions and Matriculation Board (JAMB) entrance examination.
+
+**Challenges and Diversity:**
+The education sector faces numerous challenges, including poor infrastructure in rural areas, insufficient academic staff, and security issues. In the realm of female education, while participation is increasing due to NGO and government efforts, significant barriers remain, such as teen pregnancy, poverty, and gender-based stereotyping in secondary schools. Vocational training is a major element of informal education, though it faces issues like teacher shortages and curriculum obsolescence.

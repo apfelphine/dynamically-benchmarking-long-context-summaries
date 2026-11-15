@@ -1,0 +1,35 @@
+{
+  "id": 2899940,
+  "title": "American University of Sharjah",
+  "url": "https://en.wikipedia.org/wiki/American_University_of_Sharjah",
+  "path": "Universities\\american-university-of-sharjah",
+  "summary": {
+    "chars": 892,
+    "tokens": 201
+  },
+  "document": {
+    "chars": 4467,
+    "tokens": 904
+  },
+  "infobox": {
+    "title": "American University of Sharjah",
+    "data": {
+      "Other name": "AUS",
+      "Type": "Private university",
+      "Established": "1997",
+      "Chancellor": "Tod A. Laursen",
+      "President": "Bodour bint Sultan bin Muhammad Al Qasimi",
+      "Academic staff": "338",
+      "Administrative staff": "563",
+      "Students": "Total Fall 2020 Enrollment: 5,198",
+      "Undergraduates": "4,593",
+      "Postgraduates": "519",
+      "Location": "Sharjah, United Arab Emirates \u00b7 25\u00b018\u203235\u2033N 55\u00b029\u203226\u2033E\ufeff / \ufeff25.30972\u00b0N 55.49056\u00b0E",
+      "Campus": "Urban, 128 hectares (316 acres)",
+      "Colors": "Burgundy, White",
+      "Affiliations": "AAICU",
+      "Mascot": "Leopard",
+      "Website": "www.aus.edu"
+    }
+  }
+}

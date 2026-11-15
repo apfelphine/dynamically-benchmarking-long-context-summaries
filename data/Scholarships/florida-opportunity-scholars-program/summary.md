@@ -1,0 +1,1 @@
+Machen Florida Opportunity Scholar Program is a need-based scholarship at the University of Florida. The objective of the scholarship is to retain these particular students and have them graduate at rates equal to or greater than the standard undergraduate population on campus.

@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Pioneers and Innovators in Computing\nCharles Babbage, Ada Lovelace, and Alan Turing are regarded as foundational figures in computing. Babbage\u2019s designs for the Difference and Analytical Engines laid essential groundwork for programmable machines, directly influencing Lovelace, whose published algorithm for the Analytical Engine established her as the first computer programmer. Lovelace\u2019s visionary ideas extended computing into symbolic manipulation, impacting fields beyond mathematics and shaping the theoretical foundations of computer science and artificial intelligence. Turing formalized computation theory with the Turing machine and advanced cryptography and AI, profoundly affecting the development of modern computers. These early contributions, despite various societal challenges, remain central to the evolution and narrative of computing.",
+        "text_original": "Charles Babbage, Ada Lovelace, and Alan Turing are regarded as foundational figures in computing. Babbage\u2019s designs for the Difference and Analytical Engines laid essential groundwork for programmable machines, directly influencing Lovelace, whose published algorithm for the Analytical Engine established her as the first computer programmer. Lovelace\u2019s visionary ideas extended computing into symbolic manipulation, impacting fields beyond mathematics and shaping the theoretical foundations of computer science and artificial intelligence. Turing formalized computation theory with the Turing machine and advanced cryptography and AI, profoundly affecting the development of modern computers. These early contributions, despite various societal challenges, remain central to the evolution and narrative of computing",
+        "idx_start": 41,
+        "idx_end": 859
+    },
+    {
+        "document_idx": null,
+        "text": "# Mechanical, Analog, and Wireless Innovation\nInventors like Leonardo Torres Quevedo, Vannevar Bush, Charles Babbage, Blaise Pascal, and Hedy Lamarr contributed substantially to mechanical and analog computation, as well as wireless technology. Pascal\u2019s Pascaline and foundational mathematical work, Quevedo\u2019s automated devices and the first chess machine, and Bush\u2019s differential analyzer advanced computation across scientific and industrial domains. Lamarr's co-invention of frequency-hopping technology, although initially overlooked, became a pillar of modern wireless communication. Collectively, these innovators transformed computational capability, automation, and information transmission, and their legacies persist through scientific advancements, institutional honors, and cultural representations.",
+        "text_original": "Inventors like Leonardo Torres Quevedo, Vannevar Bush, Charles Babbage, Blaise Pascal, and Hedy Lamarr contributed substantially to mechanical and analog computation, as well as wireless technology. Pascal\u2019s Pascaline and foundational mathematical work, Quevedo\u2019s automated devices and the first chess machine, and Bush\u2019s differential analyzer advanced computation across scientific and industrial domains. Lamarr's co-invention of frequency-hopping technology, although initially overlooked, became a pillar of modern wireless communication. Collectively, these innovators transformed computational capability, automation, and information transmission, and their legacies persist through scientific advancements, institutional honors, and cultural representations",
+        "idx_start": 910,
+        "idx_end": 1674
+    },
+    {
+        "document_idx": null,
+        "text": "# Leadership, Policy, and Ethics\nVannevar Bush and Philip Rubin made significant impacts on scientific policy and infrastructure, guiding civilian-military research and advocating for foundational efforts like the National Science Foundation. Their work shaped ethical standards and technical innovation in federal science. Richard Stallman\u2019s leadership in the free software movement established frameworks for user rights, digital ethics, and the fight against proprietary restrictions, influencing global debates on privacy and surveillance.",
+        "text_original": "Vannevar Bush and Philip Rubin made significant impacts on scientific policy and infrastructure, guiding civilian-military research and advocating for foundational efforts like the National Science Foundation. Their work shaped ethical standards and technical innovation in federal science. Richard Stallman\u2019s leadership in the free software movement established frameworks for user rights, digital ethics, and the fight against proprietary restrictions, influencing global debates on privacy and surveillance",
+        "idx_start": 1712,
+        "idx_end": 2221
+    },
+    {
+        "document_idx": null,
+        "text": "# Philosophical and Interdisciplinary Influence\nAlfred North Whitehead and Blaise Pascal significantly shaped philosophy and logic. Whitehead\u2019s process philosophy and co-authorship of *Principia Mathematica* contributed to dynamic understandings of reality, with ongoing interdisciplinary influence. Pascal\u2019s work bridged mathematics, physics, and philosophy, and his writings remain central to discussions in epistemology and religious thought. Their legacies endure through continued research, widespread recognition, and deep integration across academic and cultural fields.",
+        "text_original": "Alfred North Whitehead and Blaise Pascal significantly shaped philosophy and logic. Whitehead\u2019s process philosophy and co-authorship of *Principia Mathematica* contributed to dynamic understandings of reality, with ongoing interdisciplinary influence. Pascal\u2019s work bridged mathematics, physics, and philosophy, and his writings remain central to discussions in epistemology and religious thought. Their legacies endure through continued research, widespread recognition, and deep integration across academic and cultural fields",
+        "idx_start": 2274,
+        "idx_end": 2802
+    }
+]

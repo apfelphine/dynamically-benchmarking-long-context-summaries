@@ -1,0 +1,8 @@
+John von Neumann was a prodigious mathematician, physicist, economist, and computer scientist, born in Budapest in 1903. He exhibited early mathematical genius, familiar with differential and integral calculus by age eight, and later published two major mathematical papers by age nineteen, including the modern definition of ordinal numbers.
+
+His significant contributions span several fields:
+*   **Mathematics and Set Theory:** He developed techniques to exclude pathological sets in set theory, contributing to the axiomatization of set theory, and devised the Von Neumann paradox concerning the decomposition of a disk.
+*   **Physics:** He established the rigorous mathematical framework for quantum mechanics in his 1932 work, *Mathematical Foundations of Quantum Mechanics*. He also made foundational contributions to ergodic theory and measure theory.
+*   **Computer Science:** He is a founding figure in computing, notably designing the IAS machine and conceiving of the single-memory, stored-program architecture, which is termed von Neumann architecture. He also invented the merge sort algorithm and pioneered stochastic computing.
+*   **Economics and Game Theory:** He founded game theory as a mathematical discipline, proving the minimax theorem, and developed a model of an expanding economy that introduced fixed-point theorems to mathematical economics.
+*   **Other:** He was involved in the Manhattan Project, contributing to the design of explosive lenses for the atomic bomb, and he co-developed the theory of self-replicating automata, preceding the discovery of DNA structure.

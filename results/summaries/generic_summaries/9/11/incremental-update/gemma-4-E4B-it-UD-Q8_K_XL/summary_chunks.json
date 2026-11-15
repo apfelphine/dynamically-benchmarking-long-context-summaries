@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Comparison\n## System Structures and Governance:\nGlobal education systems vary widely in structure, ranging from centralized (e.g., Saudi Arabia) to decentralized (e.g., Canada). Mexico's system, which follows a US-like structure (Bachelor's, Master's, Doctorate) and roots in Prehispanic Mesoamerica, has evolved significantly. Historically shaped by the Catholic Church during the colonial era, it later saw state reforms promoting positivism post-independence. After the Mexican Revolution (1910-1920), the centralized SEP pushed secular, nationalist education to integrate indigenous populations, with socialist policies in the 1930s challenging religious influence. Following the 1992 neoliberal decentralization, the system underwent further changes, notably in 2013 when control was transferred from the powerful SNTE union to central/state governments.",
+        "text_original": "Global education systems vary widely in structure, ranging from centralized (e.g., Saudi Arabia) to decentralized (e.g., Canada). Mexico's system, which follows a US-like structure (Bachelor's, Master's, Doctorate) and roots in Prehispanic Mesoamerica, has evolved significantly. Historically shaped by the Catholic Church during the colonial era, it later saw state reforms promoting positivism post-independence. After the Mexican Revolution (1910-1920), the centralized SEP pushed secular, nationalist education to integrate indigenous populations, with socialist policies in the 1930s challenging religious influence. Following the 1992 neoliberal decentralization, the system underwent further changes, notably in 2013 when control was transferred from the powerful SNTE union to central/state governments",
+        "idx_start": 78,
+        "idx_end": 888
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Comparison\n## Curriculum, Learning Practices, and Challenges:\nWorldwide education faces issues like poverty, teacher absence, and rote learning (e.g., South Korea's exam culture). Global benchmarks are set by nations such as Japan and Singapore, while the Netherlands has prioritized equity since 1968. In Mexico, while school attendance and literacy are rising, attainment remains a challenge, especially in rural areas. Furthermore, the SEP incorporated Mexican art into free textbooks in 2019.",
+        "text_original": "Worldwide education faces issues like poverty, teacher absence, and rote learning (e.g., South Korea's exam culture). Global benchmarks are set by nations such as Japan and Singapore, while the Netherlands has prioritized equity since 1968. In Mexico, while school attendance and literacy are rising, attainment remains a challenge, especially in rural areas. Furthermore, the SEP incorporated Mexican art into free textbooks in",
+        "idx_start": 943,
+        "idx_end": 1371
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Comparison\n## Tertiary and Vocational Education:\nThe Bologna framework is a global standard for higher education. The Netherlands distinguishes between research-oriented (WO) and job-market-focused (HBO) tertiary tracks, alongside other frameworks like Bangladesh's UGC and New Zealand's NZ Qualifications Framework. Among Mexican institutions, the National Autonomous University of Mexico leads national rankings (as of 2019), followed by the Monterrey Institute of Technology and Higher Education (private), with IPADE and EGADE also ranking highly internationally.",
+        "text_original": "The Bologna framework is a global standard for higher education. The Netherlands distinguishes between research-oriented (WO) and job-market-focused (HBO) tertiary tracks, alongside other frameworks like Bangladesh's UGC and New Zealand's NZ Qualifications Framework. Among Mexican institutions, the National Autonomous University of Mexico leads national rankings (as of 2019), followed by the Monterrey Institute of Technology and Higher Education (private), with IPADE and EGADE also ranking highly internationally",
+        "idx_start": 1418,
+        "idx_end": 1935
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems Comparison\n## Socio-Economic Pressures and Equity:\nGlobal competition is high, notably in South Korea. In Bangladesh, funding and gender equity are key concerns. New Zealand offers free primary/secondary education until age 19, successfully utilizing M\u0101ori education models ( *k\u014dhanga* and *kura kaupapa* ), despite ongoing achievement gaps and bullying issues. Mexico struggles with low secondary progression (45% completion) and limited higher education access due to rural disparities, though the establishment of Intercultural Universities in 2004 and efforts to integrate special needs (USAER) aim to address these issues.",
+        "text_original": "Global competition is high, notably in South Korea. In Bangladesh, funding and gender equity are key concerns. New Zealand offers free primary/secondary education until age 19, successfully utilizing M\u0101ori education models (*k\u014dhanga* and *kura kaupapa*), despite ongoing achievement gaps and bullying issues. Mexico struggles with low secondary progression (45% completion) and limited higher education access due to rural disparities, though the establishment of Intercultural Universities in 2004 and efforts to integrate special needs (USAER) aim to address these issues",
+        "idx_start": 1979,
+        "idx_end": 2552
+    }
+]

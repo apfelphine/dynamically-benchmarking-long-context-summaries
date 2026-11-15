@@ -1,0 +1,9 @@
+Jacek Karpiński was a Polish engineer and inventor, born in 1927 in Turin, Italy, into a family of intellectuals and alpinists. His father, Adam Karpiński, was a pioneering aeronautic engineer and inventor, while his mother, Wanda Czarnocka-Karpińska, was a physician and a prominent figure in winter mountaineering.
+
+During World War II, Karpiński, then 14, joined the Gray Ranks, a Polish underground paramilitary organization, and participated in numerous resistance operations. His wartime experiences included the Warsaw Uprising, where he was severely injured but survived. After the war, he moved to Poland and pursued higher education, graduating from the Warsaw University of Technology.
+
+Karpiński’s career in engineering began with his work on the **AAH (Analytical Analyzer of Harmonics)**, a pioneering computer designed to improve weather forecasting accuracy. His most significant achievement was the **AKAT-1**, a transistor-based differential equations analyzer, which was the world’s first such device. This work earned him recognition and a UNESCO scholarship to study in the United States.
+
+Later, Karpiński designed the **KAR-65**, a mathematical computer that processed data from CERN experiments, and the **K-202**, an innovative minicomputer using Intel 4004 microchips. Despite initial success, political and bureaucratic obstacles hindered its commercialization. Karpiński’s later ventures included developing a hand-held text scanner and cash registers, which did not succeed.
+
+Karpiński was also a secret informant for the Polish intelligence service, Służba Bezpieczeństwa, providing technical intelligence during his travels. His legacy includes contributions to early computer science, particularly in the development of analog and digital computing systems, and his posthumous recognition for his engineering achievements. He died in 2010.

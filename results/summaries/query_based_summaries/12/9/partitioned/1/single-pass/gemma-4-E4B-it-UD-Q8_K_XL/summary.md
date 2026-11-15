@@ -1,0 +1,5 @@
+## Studienstiftung Summary
+
+The Studienstiftung des deutschen Volkes, initially established in Dresden in 1925, was dissolved under National Socialism and later reformed as a registered association in Cologne in 1948. It offers general scholarship support, including both financial and academic aid, for undergraduate, graduate, and PhD students. Eligibility for the general scholarship is tied to the BAFöG (Federal Training Assistance Act) criteria, and scholars are admitted based on principles of "excellence, initiative and responsibility."
+
+Admissions occur through several channels: nomination by a school (where 26.6% of nominees in 2023 were offered admission), nomination by university professors (40.8% offered admission in 2023), nomination by an examination board, recognition as a winner of a national or federal competition, or by candidates putting themselves forward via an assessment test. Academic support includes summer schools, research groups, and workshops. The organization also maintains internal and open scholarship programs, such as the KAUST-Studienstiftung programme, in cooperation with other bodies.

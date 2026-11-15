@@ -1,0 +1,7 @@
+## Education in Poland
+
+**Compulsory and Secondary Education:**
+Compulsory education in Poland generally begins at age seven, though kindergarten attendance is required beforehand. The primary school, *szkoła podstawowa*, is now eight years long, replacing the previous six-year system combined with a three-year *gimnazjum*. Following the 2016 reform, the structure was changed, abolishing the *gimnazjum* and extending primary schooling to eight years, effective September 1, 2017. Upper secondary education prepares students for the labor market or tertiary education. General education continues in general secondary schools (*liceum*), where students can earn the *Matura* for university access. Vocational and technical education is offered through technical schools (*technikum*) and basic vocational schools (*zasadnicza szkoła zawodowa*).
+
+**Higher Education and Reforms:**
+Poland follows the Bologna scheme, structuring most tertiary programs into a three-year bachelor's degree followed by a two-year master's degree; some specialized programs are longer (e.g., medicine at six years). University-level grading uses a numeric system from 2.0 (failing) to 5.0 (highest grade). Major educational reforms occurred in 1999 (changing the structure to 6 primary + 3 junior high + 3 senior high) and again in 2017, which reverted the structure to 8 primary + 4/5 high school years. Students in Polish schools typically learn one or two foreign languages.

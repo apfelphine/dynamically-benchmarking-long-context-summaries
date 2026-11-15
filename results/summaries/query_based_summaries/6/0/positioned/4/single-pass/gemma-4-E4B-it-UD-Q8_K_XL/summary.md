@@ -1,0 +1,5 @@
+## Donald Knuth
+
+Donald Knuth was born in Milwaukee, Wisconsin, and developed an aptitude for problem-solving from a young age, notably by solving a word-rearrangement contest. After beginning his studies in physics at the Case Institute of Technology, he transitioned to mathematics. He worked as a programmer for Burroughs Corporation, where he suggested an extension to the symbol table that became the basis of DEFINE in Burroughs ALGOL.
+
+His most significant contribution is his monumental work, *The Art of Computer Programming* (*TAOCP*), which he developed from a project to write a book on compiler language compilers. Knuth is also famous for creating TeX and Metafont to address typesetting frustrations. He championed the concept of "Analysis of algorithms" and proposed the term "algorithmics" for computer science. He received the Turing Award in 1974 and was elected to the National Academy of Sciences in 1975.

@@ -1,0 +1,1 @@
+The Commonwealth Scholarship and Fellowship Plan (CSFP) is an international programme under which Commonwealth governments offer scholarships and fellowships to citizens of other Commonwealth countries.

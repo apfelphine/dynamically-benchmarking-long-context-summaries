@@ -1,0 +1,30 @@
+# Adi Shamir
+
+## Biography
+Adi Shamir was born in Tel Aviv. He  received a Bachelor of Science (BSc) degree in mathematics from Tel Aviv University in 1973 and obtained an MSc and PhD in computer science from the Weizmann Institute in 1975 and 1977 respectively.
+He spent a year as a postdoctoral researcher at the University of Warwick and did research at Massachusetts Institute of Technology (MIT) from 1977 to 1980.
+
+
+## Scientific career
+In 1980, he returned to Israel, joining the faculty of Mathematics and Computer Science at the Weizmann Institute. Starting from 2006, he is also an invited professor at École Normale Supérieure in Paris.
+
+In addition to RSA, Shamir's other numerous inventions and contributions to cryptography include the Shamir secret sharing scheme, the breaking of the Merkle-Hellman knapsack cryptosystem, visual cryptography, and the TWIRL and TWINKLE factoring devices. Together with Eli Biham, he discovered differential cryptanalysis in the late 1980s, a general method for attacking block ciphers. It later emerged that differential cryptanalysis was already known — and kept a secret — by both IBM and the National Security Agency (NSA).
+
+Shamir has also made contributions to computer science outside of cryptography, such as finding the first linear time algorithm for 2-satisfiability and showing the equivalence of the complexity classes PSPACE and IP.
+
+
+## Awards and recognition
+- 2002 ACM Turing Award, together with Rivest and Adleman, in recognition of his contributions to cryptography[8]
+- Paris Kanellakis Theory and Practice Award;[9]
+- Erdős Prize of the Israel Mathematical Society,
+- 1986 IEEE W.R.G. Baker Award[10]
+- UAP Scientific Prize[clarification needed]
+- Vaticans PIUS XI Gold Medal[11]
+- 2000 IEEE Koji Kobayashi Computers and Communications Award[12]
+- Israel Prize, in 2008, for computer sciences.[13][14]
+- Honorary DMath (Doctor of Mathematics) degree from the University of Waterloo[15]
+- 2017 (33rd) Japan Prize in the field of Electronics, Information and Communication for his contribution to information security through pioneering research on cryptography [16]
+- Foreign Member of the Royal Society (ForMemRS) in 2018 for substantial contribution to the improvement of natural knowledge.[1]
+- He was elected a Member of the American Philosophical Society in 2019.
+- 2024 Wolf Prize in Mathematics for his fundamental contributions to Mathematical Cryptography.
+- 2025 Levchin Prize for his contributions to Real World Cryptography.[17]

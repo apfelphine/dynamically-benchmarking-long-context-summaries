@@ -1,0 +1,1 @@
+Kill Command (also known as Identify) is a 2016 British science fiction action horror film written and directed by Steven Gomez, and starring Thure Lindhardt and Vanessa Kirby. The story focuses on a group of U.S. Marines attempting to survive after a training mission against warfare A.I. goes wrong.

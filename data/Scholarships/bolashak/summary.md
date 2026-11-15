@@ -1,0 +1,2 @@
+The Bolashak Programme (the Bolashak International Scholarship) is a scholarship which is awarded to high-performing students from Kazakhstan to study overseas all-expenses paid, provided that they return to Kazakhstan to work for at least five years after graduation.
+Since its implementation in 1993, more than 10,000 students have been awarded the scholarship. Most of these students travel to study in the United States, but also elsewhere around the world.

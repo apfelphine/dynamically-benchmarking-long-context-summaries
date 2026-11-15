@@ -1,0 +1,1 @@
+Cal Grant is a financial aid program administrated by the California Student Aid Commission (CSAC) providing aid to California undergraduates, vocational training students, and those in teacher certification programs.  Cal Grants are the largest source of California state funded student financial aid.

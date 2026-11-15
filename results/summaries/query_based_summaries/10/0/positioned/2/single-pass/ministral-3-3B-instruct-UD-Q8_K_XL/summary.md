@@ -1,0 +1,9 @@
+Sweden’s education system is structured around a **nine-year compulsory comprehensive school (grundskola)**, followed by **upper secondary education (gymnasieskola)** and higher education. Key features include:
+
+- **Comprehensive School (Grundskola):** Ages 6–15, mandatory, covering core subjects like Swedish, mathematics, English, and sciences. Students receive grades starting in **Grade 6**, with a standardized grading system (A–E, F for failure). National tests in **Grades 3, 6, and 9** assess student progress.
+- **Upper Secondary Education (Gymnasieskola):** Three-year programs, divided into **preparatory** (e.g., social sciences, business) and **vocational** tracks. Students must pass **8 core subjects** for preparatory programs or **12** for vocational programs to qualify. The **Hong Kong Diploma of Secondary Education (HKDSE)**-equivalent diploma is awarded upon completion.
+- **Higher Education:** Free for Swedish, EU/EEA, and Swiss citizens. Degrees follow the **Bologna Process** (Bachelor’s, Master’s, PhD). Admission is based on academic performance, with standardized tests like **SweSAT** for some programs.
+- **Preschool and Special Education:** Free preschool (ages 1–5) with optional hours, and inclusive education for students with disabilities.
+- **Grading and Assessment:** Grades are calculated numerically (A=20, B=17.5, etc.), with a maximum score of **340** for 17 subjects. National tests and standardized exams evaluate student readiness for further education.
+
+Sweden emphasizes **equality, practical skills, and critical thinking**, with a focus on reducing class sizes and improving teacher quality. The system is designed to prepare students for both academic and vocational careers.

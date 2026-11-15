@@ -1,0 +1,100 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\nFounded in 1845 as the Royal College of Chemistry, it evolved through mergers with the Royal School of Mines and other institutions, becoming Imperial College of Science and Technology in 1907. It gained full independence from the University of London in 2007 and now includes faculties in Engineering, Medicine, Natural Sciences, and Business. It is renowned for interdisciplinary research, entrepreneurship, and strong industry ties. Key achievements include the invention of fibre optics, the development of diagnostic ultrasound, and the establishment of the Francis Crick Institute. The main campus is in South Kensington, with additional campuses in White City and Silwood Park. The university emphasizes practical education, innovation, and global research collaborations, particularly with MIT.",
+        "text_original": "Founded in 1845 as the Royal College of Chemistry, it evolved through mergers with the Royal School of Mines and other institutions, becoming Imperial College of Science and Technology in 1907. It gained full independence from the University of London in 2007 and now includes faculties in Engineering, Medicine, Natural Sciences, and Business. It is renowned for interdisciplinary research, entrepreneurship, and strong industry ties. Key achievements include the invention of fibre optics, the development of diagnostic ultrasound, and the establishment of the Francis Crick Institute. The main campus is in South Kensington, with additional campuses in White City and Silwood Park. The university emphasizes practical education, innovation, and global research collaborations, particularly with MIT",
+        "idx_start": 30,
+        "idx_end": 831
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\nFounded in 1666 as a studium generale, it became a university in 1866. It expanded significantly in the 20th century, adding faculties in law, medicine, and engineering. The university is known for its strong research output, including innovations like diagnostic ultrasound and Bluetooth technology. It has a student body with a high proportion of international students and maintains a vibrant student life through student nations, the Academic Society (AF), and student unions. The campus in Lund is historic and central, with satellite campuses in Malm\u00f6 and Helsingborg. It ranks among the top universities in Scandinavia, particularly in medicine and engineering.",
+        "text_original": "Founded in 1666 as a studium generale, it became a university in 1866. It expanded significantly in the 20th century, adding faculties in law, medicine, and engineering. The university is known for its strong research output, including innovations like diagnostic ultrasound and Bluetooth technology. It has a student body with a high proportion of international students and maintains a vibrant student life through student nations, the Academic Society (AF), and student unions. The campus in Lund is historic and central, with satellite campuses in Malm\u00f6 and Helsingborg. It ranks among the top universities in Scandinavia, particularly in medicine and engineering",
+        "idx_start": 856,
+        "idx_end": 1523
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\nFounded in 1878 as The Western University of London, Ontario, it grew through affiliations with institutions like Huron and King's Colleges. It expanded its faculties in the 20th century, including Law, Business, and Medicine. The university is known for its strong research in life sciences and social sciences, with notable contributions in medical technology and neuroscience. It has a student body with a high proportion of international students and a strong emphasis on student life, including sports, clubs, and student media. The campus in London is central, with additional research facilities in nearby areas. It is recognized for its research excellence and strong ties to industry.",
+        "text_original": "Founded in 1878 as The Western University of London, Ontario, it grew through affiliations with institutions like Huron and King's Colleges. It expanded its faculties in the 20th century, including Law, Business, and Medicine. The university is known for its strong research in life sciences and social sciences, with notable contributions in medical technology and neuroscience. It has a student body with a high proportion of international students and a strong emphasis on student life, including sports, clubs, and student media. The campus in London is central, with additional research facilities in nearby areas. It is recognized for its research excellence and strong ties to industry",
+        "idx_start": 1562,
+        "idx_end": 2254
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\nEstablished in 1962, it is the first university in Jordan and has grown into a major research institution. It has a main campus in Amman and a southern branch in Aqaba. The university offers a broad range of programs across scientific, humanities, and medical fields. It is known for its strong research output, including innovations in medical technology and environmental science. The university has a large student body, with a high proportion of international students. It is recognized for its academic excellence and research contributions, particularly in medicine and engineering.",
+        "text_original": "Established in 1962, it is the first university in Jordan and has grown into a major research institution. It has a main campus in Amman and a southern branch in Aqaba. The university offers a broad range of programs across scientific, humanities, and medical fields. It is known for its strong research output, including innovations in medical technology and environmental science. The university has a large student body, with a high proportion of international students. It is recognized for its academic excellence and research contributions, particularly in medicine and engineering",
+        "idx_start": 2284,
+        "idx_end": 2871
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\nFounded in 1962, it began as a research center to promote development in the interior of S\u00e3o Paulo. It expanded rapidly, becoming a major public university with a strong focus on science and engineering. The campus in Campinas is designed with a radial layout centered on a circular plaza. The university is known for its strong research in technology, medicine, and environmental science. It has a large student body and a strong emphasis on innovation and entrepreneurship. The university is a leading research institution in Latin America, particularly in engineering and applied sciences.",
+        "text_original": "Founded in 1962, it began as a research center to promote development in the interior of S\u00e3o Paulo. It expanded rapidly, becoming a major public university with a strong focus on science and engineering. The campus in Campinas is designed with a radial layout centered on a circular plaza. The university is known for its strong research in technology, medicine, and environmental science. It has a large student body and a strong emphasis on innovation and entrepreneurship. The university is a leading research institution in Latin America, particularly in engineering and applied sciences",
+        "idx_start": 2919,
+        "idx_end": 3510
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\nFounded in 1849 as a Jesuit institution in Boston, it expanded significantly in the 20th century, becoming a major Catholic university. It is known for its strong academic programs, particularly in business, law, and the arts. The university has a strong emphasis on student life, with a wide range of student organizations, media, and athletics. It is known for its strong alumni network and leadership in social and political issues. The campus in Chestnut Hill is historic and central, with additional campuses in Newton and Brighton. It is recognized for its academic excellence and strong community engagement.",
+        "text_original": "Founded in 1849 as a Jesuit institution in Boston, it expanded significantly in the 20th century, becoming a major Catholic university. It is known for its strong academic programs, particularly in business, law, and the arts. The university has a strong emphasis on student life, with a wide range of student organizations, media, and athletics. It is known for its strong alumni network and leadership in social and political issues. The campus in Chestnut Hill is historic and central, with additional campuses in Newton and Brighton. It is recognized for its academic excellence and strong community engagement",
+        "idx_start": 3534,
+        "idx_end": 4148
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\nFounded in 1824 as the Mechanics' Institution, it evolved into Owens College and later the Victoria University of Manchester. In 2004, it merged with UMIST to form the University of Manchester. It is a leading research university with strong programs in engineering, medicine, and the sciences. The campus in Manchester is central and integrated into the city, with major research facilities and museums. The university is known for its strong research output, particularly in physics, chemistry, and materials science. It is recognized for its academic excellence and strong industry partnerships.",
+        "text_original": "Founded in 1824 as the Mechanics' Institution, it evolved into Owens College and later the Victoria University of Manchester. In 2004, it merged with UMIST to form the University of Manchester. It is a leading research university with strong programs in engineering, medicine, and the sciences. The campus in Manchester is central and integrated into the city, with major research facilities and museums. The university is known for its strong research output, particularly in physics, chemistry, and materials science. It is recognized for its academic excellence and strong industry partnerships",
+        "idx_start": 4182,
+        "idx_end": 4779
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\nFounded in 1636, it is one of the oldest and most prestigious universities in the world. It is known for its strong academic programs, particularly in the humanities, sciences, and social sciences. The university is a leading research institution with a strong emphasis on innovation and entrepreneurship. The campus in Cambridge is historic and central, with major research facilities and museums. The university is known for its strong alumni network and leadership in global affairs. It is recognized for its academic excellence and strong research output.",
+        "text_original": "Founded in 1636, it is one of the oldest and most prestigious universities in the world. It is known for its strong academic programs, particularly in the humanities, sciences, and social sciences. The university is a leading research institution with a strong emphasis on innovation and entrepreneurship. The campus in Cambridge is historic and central, with major research facilities and museums. The university is known for its strong alumni network and leadership in global affairs. It is recognized for its academic excellence and strong research output",
+        "idx_start": 4807,
+        "idx_end": 5365
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\nFounded in 1883 as Auckland University College, it became a university in 1961. It has grown into a major research institution with strong programs in science, engineering, and business. The campus in Auckland is central and integrated into the city, with major research facilities and museums. The university is known for its strong research output, particularly in health sciences and environmental science. It is recognized for its academic excellence and strong industry partnerships.",
+        "text_original": "Founded in 1883 as Auckland University College, it became a university in 1961. It has grown into a major research institution with strong programs in science, engineering, and business. The campus in Auckland is central and integrated into the city, with major research facilities and museums. The university is known for its strong research output, particularly in health sciences and environmental science. It is recognized for its academic excellence and strong industry partnerships",
+        "idx_start": 5397,
+        "idx_end": 5884
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\nFounded in 1898 as the Imperial University of Peking, it became a national university in 1919. It is a leading research university in China with strong programs in science, engineering, and the humanities. The campus in Beijing is historic and central, with major research facilities and museums. The university is known for its strong research output, particularly in medicine, engineering, and social sciences. It is recognized for its academic excellence and strong industry partnerships.",
+        "text_original": "Founded in 1898 as the Imperial University of Peking, it became a national university in 1919. It is a leading research university in China with strong programs in science, engineering, and the humanities. The campus in Beijing is historic and central, with major research facilities and museums. The university is known for its strong research output, particularly in medicine, engineering, and social sciences. It is recognized for its academic excellence and strong industry partnerships",
+        "idx_start": 5911,
+        "idx_end": 6401
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\nFounded in 1850 as the University of Sydney, it is one of the oldest and most prestigious universities in Australia. It has grown into a major research institution with strong programs in medicine, engineering, and the sciences. The campus in Sydney is central and integrated into the city, with major research facilities and museums. The university is known for its strong research output, particularly in health sciences and environmental science. It is recognized for its academic excellence and strong industry partnerships.",
+        "text_original": "Founded in 1850 as the University of Sydney, it is one of the oldest and most prestigious universities in Australia. It has grown into a major research institution with strong programs in medicine, engineering, and the sciences. The campus in Sydney is central and integrated into the city, with major research facilities and museums. The university is known for its strong research output, particularly in health sciences and environmental science. It is recognized for its academic excellence and strong industry partnerships",
+        "idx_start": 6431,
+        "idx_end": 6958
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\nFounded in 1887 as the Working Men's College of Melbourne, it evolved into a major vocational and higher education institution. It is known for its strong programs in design, engineering, and business. The campus in Melbourne is central and integrated into the city, with major research facilities and museums. The university is known for its strong research output, particularly in applied sciences and technology. It is recognized for its academic excellence and strong industry partnerships.",
+        "text_original": "Founded in 1887 as the Working Men's College of Melbourne, it evolved into a major vocational and higher education institution. It is known for its strong programs in design, engineering, and business. The campus in Melbourne is central and integrated into the city, with major research facilities and museums. The university is known for its strong research output, particularly in applied sciences and technology. It is recognized for its academic excellence and strong industry partnerships",
+        "idx_start": 7014,
+        "idx_end": 7507
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\nFounded in 1949, it is a leading university in Colombia with strong programs in engineering, social sciences, and public policy. The campus in Bogot\u00e1 is central and integrated into the city, with major research facilities and museums. The university is known for its strong research output, particularly in social sciences and public policy. It is recognized for its academic excellence and strong industry partnerships.",
+        "text_original": "Founded in 1949, it is a leading university in Colombia with strong programs in engineering, social sciences, and public policy. The campus in Bogot\u00e1 is central and integrated into the city, with major research facilities and museums. The university is known for its strong research output, particularly in social sciences and public policy. It is recognized for its academic excellence and strong industry partnerships",
+        "idx_start": 7551,
+        "idx_end": 7970
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\nFounded in 1976, it is one of the largest public universities in Brazil with campuses across the state of S\u00e3o Paulo. It has strong programs in engineering, agriculture, and health sciences. The university is known for its strong research output, particularly in biotechnology, environmental science, and public policy. It is recognized for its academic excellence and strong industry partnerships.",
+        "text_original": "Founded in 1976, it is one of the largest public universities in Brazil with campuses across the state of S\u00e3o Paulo. It has strong programs in engineering, agriculture, and health sciences. The university is known for its strong research output, particularly in biotechnology, environmental science, and public policy. It is recognized for its academic excellence and strong industry partnerships",
+        "idx_start": 8014,
+        "idx_end": 8410
+    }
+]

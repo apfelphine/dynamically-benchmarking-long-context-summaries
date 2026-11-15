@@ -1,0 +1,30 @@
+{
+  "id": 15637345,
+  "title": "Master of the World (1934 film)",
+  "url": "https://en.wikipedia.org/wiki/Master_of_the_World_(1934_film)",
+  "path": "AI-Fiction\\master-of-the-world-1934-film",
+  "summary": {
+    "chars": 383,
+    "tokens": 88
+  },
+  "document": {
+    "chars": 3022,
+    "tokens": 678
+  },
+  "infobox": {
+    "title": "Master of the World",
+    "data": {
+      "Directed by": "Harry Piel",
+      "Written by": "Georg M\u00fchlen-Schulte",
+      "Produced by": "Harry Piel",
+      "Starring": "- Walter Janssen - Sybille Schmitz - Aribert Waescher - Willi Schur",
+      "Cinematography": "Ewald Daub",
+      "Edited by": "Erich Palme",
+      "Music by": "Fritz Wenneis",
+      "Release date": "- 1934",
+      "Running time": "90 minutes",
+      "Country": "Germany",
+      "Language": "German"
+    }
+  }
+}

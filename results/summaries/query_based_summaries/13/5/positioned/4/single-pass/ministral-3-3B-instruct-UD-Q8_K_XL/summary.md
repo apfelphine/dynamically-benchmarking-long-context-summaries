@@ -1,0 +1,11 @@
+**University College London (UCL)**
+
+Founded in 1826 as an alternative to Oxford and Cambridge, UCL initially operated as a joint stock company under the name London University before gaining royal charter status in 1836 as **University College, London**. It became a constituent college of the **University of London** in 1909 but regained legal independence in 1976. UCL is renowned for its interdisciplinary approach, pioneering research, and contributions to fields such as medicine, engineering, and humanities.
+
+UCL’s main campus is located in **Bloomsbury, London**, with additional facilities in **UCL East** at the Queen Elizabeth Olympic Park. The university is home to over **46,000 students** (including **24% UK undergraduates, 27% international undergraduates, and 18% postgraduates**), with a diverse student body reflecting its global reach. Notable for its **top-tier research**, UCL is consistently ranked among the world’s leading universities, particularly in medicine, engineering, and social sciences.
+
+UCL’s academic structure includes **11 faculties**, such as the **Arts and Humanities**, **Engineering Sciences**, and **Medical Sciences**, each with specialized departments and research centers. The university is a leader in **open-access publishing** (UCL Press) and **intellectual property commercialization** (UCL Business), with a strong focus on innovation and entrepreneurship.
+
+In **admissions**, UCL is highly selective, with an average entry tariff of **189 UCAS points** (equivalent to **AAAB** at A-level). The university offers **widening access initiatives**, including contextualized offers and summer schools for disadvantaged students. Financial aid is generous, meeting **100% of demonstrated financial need** for undergraduates.
+
+UCL’s **student life** is vibrant, with over **250 student societies**, a strong **sports culture** (including varsity teams in rugby, cricket, and rowing), and a historic rivalry with **King’s College London**. The university has faced controversies, including debates over **historical ties to eugenics** and **divestment from fossil fuels**, but remains a global leader in research, education, and societal impact.

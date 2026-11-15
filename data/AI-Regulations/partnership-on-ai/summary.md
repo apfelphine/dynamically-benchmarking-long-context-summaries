@@ -1,0 +1,1 @@
+Partnership on Artificial Intelligence to Benefit People and Society, otherwise known as Partnership on AI (PAI), is a nonprofit coalition committed to the responsible use of artificial intelligence. Coming into inception in September 2016, PAI grouped together members from over 90 companies and non-profits in order to explore best practice recommendations for the tech community.

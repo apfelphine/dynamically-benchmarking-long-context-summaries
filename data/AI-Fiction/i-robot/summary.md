@@ -1,0 +1,2 @@
+I, Robot is a fixup collection of science fiction short stories by American writer Isaac Asimov. The stories originally appeared in the American magazines Super Science Stories and Astounding Science Fiction between 1940 and 1950. The stories were then compiled into a single publication by Gnome Press in 1950, in an initial edition of 5,000 copies. 
+All the short stories in this collection, minus the frame story, were later included in The Complete Robot (1982).

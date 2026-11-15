@@ -1,0 +1,86 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary\nThis overview compares national education systems, examining governance, structure, equity, challenges, reforms, and outcomes, while emphasizing local variations and shared priorities like inclusivity, curriculum improvement, teacher welfare, foreign language study, and adaptation to societal needs.",
+        "text_original": "This overview compares national education systems, examining governance, structure, equity, challenges, reforms, and outcomes, while emphasizing local variations and shared priorities like inclusivity, curriculum improvement, teacher welfare, foreign language study, and adaptation to societal needs",
+        "idx_start": 12,
+        "idx_end": 311
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Japan\nJapan\u2019s highly centralized, academically rigorous, exam-driven education system features widespread cram schools and continuous reforms to support student well-being, with international schools offering alternatives.",
+        "text_original": "Japan\u2019s highly centralized, academically rigorous, exam-driven education system features widespread cram schools and continuous reforms to support student well-being, with international schools offering alternatives",
+        "idx_start": 324,
+        "idx_end": 539
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Mexico\nMexico\u2019s federal, secular system prioritizes inclusivity for rural, indigenous, and disabled students, yet struggles with resources, teacher training, and completion rates. Reforms focus on equity and improved outcomes.",
+        "text_original": "Mexico\u2019s federal, secular system prioritizes inclusivity for rural, indigenous, and disabled students, yet struggles with resources, teacher training, and completion rates. Reforms focus on equity and improved outcomes",
+        "idx_start": 553,
+        "idx_end": 771
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Netherlands\nSchools are locally managed, with early streaming into academic or vocational tracks and strong oversight aimed at supporting inclusion and equity.",
+        "text_original": "Schools are locally managed, with early streaming into academic or vocational tracks and strong oversight aimed at supporting inclusion and equity",
+        "idx_start": 790,
+        "idx_end": 936
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## New Zealand\nNew Zealand combines mainstream and M\u0101ori education, centralizes teacher pay, and co-funds tertiary education. Reforms target improved indigenous outcomes, declining math skills, and bullying.",
+        "text_original": "New Zealand combines mainstream and M\u0101ori education, centralizes teacher pay, and co-funds tertiary education. Reforms target improved indigenous outcomes, declining math skills, and bullying",
+        "idx_start": 955,
+        "idx_end": 1146
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## South Korea\nSouth Korea maintains a competitive, exam-based system with general, vocational, and specialized tracks; hagwon attendance is widespread and vocational education faces stigma. Reforms seek better skills alignment and student well-being.",
+        "text_original": "South Korea maintains a competitive, exam-based system with general, vocational, and specialized tracks; hagwon attendance is widespread and vocational education faces stigma. Reforms seek better skills alignment and student well-being",
+        "idx_start": 1165,
+        "idx_end": 1400
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Saudi Arabia\nSaudi Arabia\u2019s state system merges religious and English curricula, modernizes offerings, addresses gender disparities, and expands private/international education.",
+        "text_original": "Saudi Arabia\u2019s state system merges religious and English curricula, modernizes offerings, addresses gender disparities, and expands private/international education",
+        "idx_start": 1420,
+        "idx_end": 1583
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Russia\nEducation features tiered, early tracking, urban capacity challenges, and limited inclusion for disabled students. Reforms touch on degrees, tuition, patriotism, minority language provision, and foreign student policies.",
+        "text_original": "Education features tiered, early tracking, urban capacity challenges, and limited inclusion for disabled students. Reforms touch on degrees, tuition, patriotism, minority language provision, and foreign student policies",
+        "idx_start": 1597,
+        "idx_end": 1816
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Bangladesh & Pakistan\nBangladesh\u2019s diverse, underfunded system has teacher shortages and rural-urban disparities but sees improvements in literacy and gender parity; rote learning and job market misalignment persist. Pakistan\u2019s multi-stream, British-influenced system uses several languages and faces inequities, with emerging reforms and alternative pathways. TVET and remote options remain inconsistent in both.",
+        "text_original": "Bangladesh\u2019s diverse, underfunded system has teacher shortages and rural-urban disparities but sees improvements in literacy and gender parity; rote learning and job market misalignment persist. Pakistan\u2019s multi-stream, British-influenced system uses several languages and faces inequities, with emerging reforms and alternative pathways. TVET and remote options remain inconsistent in both",
+        "idx_start": 1845,
+        "idx_end": 2235
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Canada\nCanada's provincially run system varies in terminology and structure, includes advanced programs (IB/AP), vocational pathways with less competitive entry, and some private and religious schooling (funding varies by province). Investment prioritizes support for Indigenous and minority students, with limited federal involvement.",
+        "text_original": "Canada's provincially run system varies in terminology and structure, includes advanced programs (IB/AP), vocational pathways with less competitive entry, and some private and religious schooling (funding varies by province). Investment prioritizes support for Indigenous and minority students, with limited federal involvement",
+        "idx_start": 2249,
+        "idx_end": 2576
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Poland\nPoland has compulsory, reformed primary education followed by liceum (academic) or vocational/technical tracks, with the Matura exam required for higher education. The Bologna system structures tertiary education; foreign languages are widely taught, and reforms in 1999 and 2017 have redefined curricula and structure.",
+        "text_original": "Poland has compulsory, reformed primary education followed by liceum (academic) or vocational/technical tracks, with the Matura exam required for higher education. The Bologna system structures tertiary education; foreign languages are widely taught, and reforms in 1999 and 2017 have redefined curricula and structure",
+        "idx_start": 2590,
+        "idx_end": 2908
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Czech Republic\nThe Czech Republic offers nine years of elementary education in two stages, early foreign language introduction, and multiple secondary pathways (vocational, professional, lyceum, grammar) via entrance exams. Tertiary options include higher professional schools (VO\u0160, granting DiS. diplomas) and universities (public, private, police, military), with free Czech-language programs at public universities for first-time students and tuition at private institutions. Bachelor\u2019s programs last 3 years, master\u2019s 2\u20136 years, and doctoral studies require a master\u2019s. School year runs September\u2013June with several holidays. Former \u201cspecial\u201d schools for disabled students now focus on practical skills and integration into mainstream schools is increasing.\nOverall, systems worldwide contend with balancing academic rigor, inclusivity, local autonomy, vocational/academic pathways, foreign language emphasis, teacher welfare, and reform to meet changing societal and economic demands.",
+        "text_original": "The Czech Republic offers nine years of elementary education in two stages, early foreign language introduction, and multiple secondary pathways (vocational, professional, lyceum, grammar) via entrance exams. Tertiary options include higher professional schools (VO\u0160, granting DiS. diplomas) and universities (public, private, police, military), with free Czech-language programs at public universities for first-time students and tuition at private institutions. Bachelor\u2019s programs last 3 years, master\u2019s 2\u20136 years, and doctoral studies require a master\u2019s. School year runs September\u2013June with several holidays. Former \u201cspecial\u201d schools for disabled students now focus on practical skills and integration into mainstream schools is increasing.\n\n---\n\nOverall, systems worldwide contend with balancing academic rigor, inclusivity, local autonomy, vocational/academic pathways, foreign language emphasis, teacher welfare, and reform to meet changing societal and economic demands",
+        "idx_start": 2930,
+        "idx_end": 3908
+    }
+]

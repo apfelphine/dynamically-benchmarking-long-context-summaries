@@ -1,0 +1,25 @@
+{
+  "id": 12026454,
+  "title": "Farouk Kamoun",
+  "url": "https://en.wikipedia.org/wiki/Farouk_Kamoun",
+  "path": "Comp-Sci-Pioneers\\farouk-kamoun",
+  "summary": {
+    "chars": 422,
+    "tokens": 97
+  },
+  "document": {
+    "chars": 2404,
+    "tokens": 500
+  },
+  "infobox": {
+    "title": "Farouk Kamoun",
+    "data": {
+      "Born": "October 20, 1946 (age 79) \u00b7 Sfax",
+      "Citizenship": "Tunisian",
+      "Known for": "Hierarchical routing optimal number",
+      "Fields": "Computer Science",
+      "Institutions": "ENSI",
+      "Doctoral advisor": "Leonard Kleinrock"
+    }
+  }
+}

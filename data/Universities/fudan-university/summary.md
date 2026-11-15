@@ -1,0 +1,2 @@
+Fudan University (FDU) is a public university in Yangpu, Shanghai, China. It is affiliated with the Ministry of Education and is co-funded with the Shanghai Municipal Government. The university is part of Project 211, Project 985, and the Double First-Class Construction.  
+The university was originally founded by the Chinese Jesuit priest Ma Xiangbo in 1905. It is a member of the C9 League.

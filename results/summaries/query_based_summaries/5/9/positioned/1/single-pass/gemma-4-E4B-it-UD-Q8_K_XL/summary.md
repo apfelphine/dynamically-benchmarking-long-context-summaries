@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding "Richard Stallman." It contains extensive information about Blaise Pascal, Alfred North Whitehead, Ada Lovelace, Leonardo Torres Quevedo, Philip Rubin, Alan Turing, and Vannevar Bush.

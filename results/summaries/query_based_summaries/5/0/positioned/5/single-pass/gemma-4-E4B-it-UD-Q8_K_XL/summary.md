@@ -1,0 +1,5 @@
+## Alfred North Whitehead Summary
+
+Alfred North Whitehead was born in Ramsgate, Kent, England, in 1861. He was educated at Sherborne and began studying mathematics at Trinity College, Cambridge, where he graduated as fourth wrangler in 1884. He taught mathematics and physics at Cambridge until 1910, during which time he collaborated with Bertrand Russell on the first edition of *Principia Mathematica* (1910–1913). In 1914, he accepted a professorship of applied mathematics at Imperial College London.
+
+After moving to the United States in 1924, Whitehead produced significant philosophical works, including *The Concept of Nature* (1920) and *Science and the Modern World* (1925). His mature philosophy, known as process philosophy, rejected scientific materialism, arguing instead for an event-based ontology where reality is constituted by interrelated events. He developed the concept of "prehension" to describe perception, applicable to all entities, and posited that God is a "dipolar" entity—primordial nature representing potentiality and consequent nature representing the world's activity—with both God and the world fulfilling each other.

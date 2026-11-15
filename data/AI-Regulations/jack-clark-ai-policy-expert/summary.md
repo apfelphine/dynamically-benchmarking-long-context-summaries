@@ -1,0 +1,1 @@
+Jack Clark is a co-founder of Anthropic and serves as its head of policy. He is also engaged in global AI policy, serving as an expert for the Global Partnership on AI and on an AI committee of the OECD.

@@ -1,0 +1,5 @@
+## Wasserstein GAN
+
+Wasserstein GAN (WGAN) is a modification of the original Generative Adversarial Network (GAN) designed to improve training stability and address issues like mode collapse. The original GAN game is a zero-sum game where the discriminator maximizes an objective based on Jensen–Shannon divergence, while the generator minimizes it.
+
+WGAN replaces this objective with the Wasserstein metric, formalized by the Kantorovich-Rubenstein duality. In the WGAN game, the discriminator, now called the "critic," is restricted to functions with a bounded Lipschitz norm ($||D||_L \leq K$). The objective function for WGAN is $L_{WGAN}(\mu_G, D) := \mathbb{E}_{x\sim \mu_G}[D(x)]-\mathbb{E}_{x\sim \mu_{ref}}[D(x)]$. This metric provides a better gradient for the generator compared to the original GAN, especially when the real ($\mu_{ref}$) and generated ($\mu_G$) distributions are disjoint (as often happens in high-dimensional spaces), thus providing a more reliable learning signal. Training WGANs requires specific methods to enforce the bounded Lipschitz norm on the discriminator, such as weight clipping, spectral normalization, or gradient penalty.

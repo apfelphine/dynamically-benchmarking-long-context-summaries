@@ -1,0 +1,30 @@
+{
+  "id": 46127,
+  "title": "Robert Tarjan",
+  "url": "https://en.wikipedia.org/wiki/Robert_Tarjan",
+  "path": "Comp-Sci-Pioneers\\robert-tarjan",
+  "summary": {
+    "chars": 387,
+    "tokens": 78
+  },
+  "document": {
+    "chars": 5323,
+    "tokens": 1254
+  },
+  "infobox": {
+    "title": "Robert Tarjan",
+    "data": {
+      "Born": "Robert Endre Tarjan \u00b7 April 30, 1948 \u00b7 Pomona, California, U.S.",
+      "Education": "California Institute of Technology (BS) \u00b7 Stanford University (MS, PhD)",
+      "Known for": "Algorithms and data structures",
+      "Awards": "Paris Kanellakis Award (1999) \u00b7 Turing Award (1986) \u00b7 Nevanlinna Prize (1982)",
+      "Fields": "Computer science",
+      "Institutions": "Princeton University \u00b7 New York University \u00b7 Stanford University \u00b7 University of California, Berkeley \u00b7 Cornell University \u00b7 Microsoft Research \u00b7 Intertrust Technologies \u00b7 Hewlett-Packard \u00b7 Compaq \u00b7 NEC Research \u00b7 Bell Labs",
+      "Thesis": "An Efficient Planarity Algorithm (1972)",
+      "Doctoral advisor": "Robert W. Floyd",
+      "Other academic advisors": "Donald Knuth",
+      "Doctoral students": "- Thomas Lengauer - Monika Henzinger - Ramesh Sitaraman - Daniel Sleator - Jeff Westbrook",
+      "Website": "www.cs.princeton.edu/~ret"
+    }
+  }
+}

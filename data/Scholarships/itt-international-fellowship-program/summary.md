@@ -1,0 +1,1 @@
+The ITT International Fellowship Program was a program of grants promoting international educational student exchanges, similar to the Fulbright Program, sponsored by the International Telephone & Telegraph Corporation. The program was administered by the Institute of International Education from 1973 until the mid-1980s.

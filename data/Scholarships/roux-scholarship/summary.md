@@ -1,0 +1,1 @@
+The Roux Scholarship is a cooking competition for young chefs in the UK. Set up by the brothers Michel and Albert Roux, and now run by their sons Alain Roux and Michel Roux Jr. It was first run in 1984 with Andrew Fairlie being named the first winner. It has since been run on an annual basis, with winners undertaking a three-month placement in a Michelin-starred restaurant.

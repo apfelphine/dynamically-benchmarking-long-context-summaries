@@ -1,0 +1,34 @@
+{
+  "id": 76908491,
+  "title": "Companion (film)",
+  "url": "https://en.wikipedia.org/wiki/Companion_(film)",
+  "path": "AI-Fiction\\companion-film",
+  "summary": {
+    "chars": 585,
+    "tokens": 137
+  },
+  "document": {
+    "chars": 9777,
+    "tokens": 2180
+  },
+  "infobox": {
+    "title": "Companion",
+    "data": {
+      "Directed by": "Drew Hancock",
+      "Written by": "Drew Hancock",
+      "Produced by": "- Raphael Margules - J. D. Lifshitz - Zach Cregger - Roy Lee",
+      "Starring": "- Sophie Thatcher - Jack Quaid - Lukas Gage - Megan Suri - Harvey Guill\u00e9n - Rupert Friend",
+      "Cinematography": "Eli Born",
+      "Edited by": "- Brett W. Bachman - Josh Ethier",
+      "Music by": "Hrishikesh Hirway",
+      "Production \u00b7 companies": "- New Line Cinema - BoulderLight Pictures",
+      "Distributed by": "Warner Bros. Pictures",
+      "Release date": "- January 31, 2025",
+      "Running time": "97 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$10 million",
+      "Box office": "$36.7 million"
+    }
+  }
+}

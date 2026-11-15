@@ -1,0 +1,240 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Convolutional Neural Network (CNN)\n### Architecture & Building Blocks:\nCNNs comprise input, hidden (convolutional, pooling, normalization), and output layers. Convolutional layers extract local features via learnable filters, pooling layers reduce spatial dimensions, and fully connected layers make final predictions. Neurons process restricted regions (receptive fields), and parameter sharing reduces model size and boosts generalization. Advanced techniques include depthwise separable convolutions and dilated convolutions for receptive field enlargement.",
+        "text_original": "CNNs comprise input, hidden (convolutional, pooling, normalization), and output layers. Convolutional layers extract local features via learnable filters, pooling layers reduce spatial dimensions, and fully connected layers make final predictions. Neurons process restricted regions (receptive fields), and parameter sharing reduces model size and boosts generalization. Advanced techniques include depthwise separable convolutions and dilated convolutions for receptive field enlargement",
+        "idx_start": 125,
+        "idx_end": 613
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Convolutional Neural Network (CNN)\n### Training & Regularization:\nCNNs are trained via backpropagation using loss functions suited to the task (e.g., softmax for classification). Regularization methods such as dropout, weight decay, early stopping, and data augmentation combat overfitting.",
+        "text_original": "CNNs are trained via backpropagation using loss functions suited to the task (e.g., softmax for classification). Regularization methods such as dropout, weight decay, early stopping, and data augmentation combat overfitting",
+        "idx_start": 649,
+        "idx_end": 872
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Convolutional Neural Network (CNN)\n### Distinctive Features:\nCNNs leverage local connectivity, weight sharing, and pooling for efficient hierarchical feature extraction, enabling scalability and robustness, especially for image data.",
+        "text_original": "CNNs leverage local connectivity, weight sharing, and pooling for efficient hierarchical feature extraction, enabling scalability and robustness, especially for image data",
+        "idx_start": 903,
+        "idx_end": 1074
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Convolutional Neural Network (CNN)\n### Applications:\nWidely used in image and video recognition, natural language processing, anomaly detection, drug discovery, games (Go, checkers), and time series forecasting. GPU acceleration has been central to recent breakthroughs.",
+        "text_original": "Widely used in image and video recognition, natural language processing, anomaly detection, drug discovery, games (Go, checkers), and time series forecasting. GPU acceleration has been central to recent breakthroughs",
+        "idx_start": 1097,
+        "idx_end": 1313
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Recurrent Neural Network (RNN)\n### Architecture & Variants:\nRNNs process sequential data with hidden state vectors that capture temporal dependencies. Common variants include Elman and Jordan networks, LSTM (for long-range memory), GRU (simplified LSTM), and bidirectional and stacked RNNs. They can be combined in encoder-decoder configurations for tasks like machine translation.",
+        "text_original": "RNNs process sequential data with hidden state vectors that capture temporal dependencies. Common variants include Elman and Jordan networks, LSTM (for long-range memory), GRU (simplified LSTM), and bidirectional and stacked RNNs. They can be combined in encoder-decoder configurations for tasks like machine translation",
+        "idx_start": 1387,
+        "idx_end": 1707
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Recurrent Neural Network (RNN)\n### Training:\nTrained via backpropagation through time (BPTT) or real-time recurrent learning; teacher forcing is used for efficient sequence modeling. Issues with vanishing/exploding gradients are mitigated with LSTM/GRU.",
+        "text_original": "Trained via backpropagation through time (BPTT) or real-time recurrent learning; teacher forcing is used for efficient sequence modeling. Issues with vanishing/exploding gradients are mitigated with LSTM/GRU",
+        "idx_start": 1726,
+        "idx_end": 1933
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Recurrent Neural Network (RNN)\n### Applications:\nUsed in machine translation, speech recognition/synthesis, anomaly detection, time series modeling, music/rhythm learning, handwriting, action recognition, and more.",
+        "text_original": "Used in machine translation, speech recognition/synthesis, anomaly detection, time series modeling, music/rhythm learning, handwriting, action recognition, and more",
+        "idx_start": 1956,
+        "idx_end": 2120
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Hopfield Network\n### Structure & Properties:\nHopfield networks are recurrent nets serving as content-addressable associative memory. Units are binary (or continuous), interconnected with symmetric weights, and update asynchronously or synchronously to reach attractor states (energy minima).",
+        "text_original": "Hopfield networks are recurrent nets serving as content-addressable associative memory. Units are binary (or continuous), interconnected with symmetric weights, and update asynchronously or synchronously to reach attractor states (energy minima",
+        "idx_start": 2179,
+        "idx_end": 2423
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Hopfield Network\n### Training:\nWeights are set via Hebbian learning or the more advanced Storkey rule for higher capacity and reduced error rates. Learning is local and incremental.",
+        "text_original": "Weights are set via Hebbian learning or the more advanced Storkey rule for higher capacity and reduced error rates. Learning is local and incremental",
+        "idx_start": 2443,
+        "idx_end": 2592
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Hopfield Network\n### Applications & Extensions:\nModel associative/human memory, optimization problems, and form the basis for dense associative memories (modern Hopfield networks), which generalize classical models to super-linear storage capacities.",
+        "text_original": "Model associative/human memory, optimization problems, and form the basis for dense associative memories (modern Hopfield networks), which generalize classical models to super-linear storage capacities",
+        "idx_start": 2628,
+        "idx_end": 2829
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Transformer\n### Architecture:\nTransformers eschew recurrence for multihead self-attention, enabling parallel processing of tokens and contextual feature extraction. Consists of tokenization, embedding, encoder/decoder layers, residual connections, and positional encodings.",
+        "text_original": "Transformers eschew recurrence for multihead self-attention, enabling parallel processing of tokens and contextual feature extraction. Consists of tokenization, embedding, encoder/decoder layers, residual connections, and positional encodings",
+        "idx_start": 2873,
+        "idx_end": 3115
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Transformer\n### Training:\nPretrained on large corpora via masked or autoregressive language modeling, then fine-tuned for tasks. Layer normalization and learning rate warmup stabilize training. Efficient inference uses techniques like KV caching and FlashAttention.",
+        "text_original": "Pretrained on large corpora via masked or autoregressive language modeling, then fine-tuned for tasks. Layer normalization and learning rate warmup stabilize training. Efficient inference uses techniques like KV caching and FlashAttention",
+        "idx_start": 3134,
+        "idx_end": 3372
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Transformer\n### Variants & Extensions:\nAdapted for multimodality (vision, audio, etc.), sub-quadratic designs for long inputs, and efficient implementations. Key models include BERT (encoder-only) and GPT (decoder-only).",
+        "text_original": "Adapted for multimodality (vision, audio, etc.), sub-quadratic designs for long inputs, and efficient implementations. Key models include BERT (encoder-only) and GPT (decoder-only",
+        "idx_start": 3404,
+        "idx_end": 3583
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Transformer\n### Applications:\nDominates NLP (translation, summarization, search, coding, speech) and is increasingly used in vision, protein folding, and games.",
+        "text_original": "Dominates NLP (translation, summarization, search, coding, speech) and is increasingly used in vision, protein folding, and games",
+        "idx_start": 3607,
+        "idx_end": 3736
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Generative Adversarial Network (GAN)\n### Definition:\nGANs pit a generator (producing synthetic data) against a discriminator (distinguishing real from fake). The objective is a minimax game based on divergences (Jensen\u2013Shannon in classical GAN, Wasserstein in WGAN).",
+        "text_original": "GANs pit a generator (producing synthetic data) against a discriminator (distinguishing real from fake). The objective is a minimax game based on divergences (Jensen\u2013Shannon in classical GAN, Wasserstein in WGAN",
+        "idx_start": 3803,
+        "idx_end": 4014
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Generative Adversarial Network (GAN)\n### Training & Challenges:\nUnstable convergence, mode collapse, and vanishing gradients are practical issues, addressed by techniques like TTUR and architectural/loss function variants.",
+        "text_original": "Unstable convergence, mode collapse, and vanishing gradients are practical issues, addressed by techniques like TTUR and architectural/loss function variants",
+        "idx_start": 4047,
+        "idx_end": 4204
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Generative Adversarial Network (GAN)\n### Variants:\nConditional GANs, WGAN, CycleGAN, InfoGAN, BiGAN, and the StyleGAN family extend capabilities (conditional generation, improved stability, style transfer).",
+        "text_original": "Conditional GANs, WGAN, CycleGAN, InfoGAN, BiGAN, and the StyleGAN family extend capabilities (conditional generation, improved stability, style transfer",
+        "idx_start": 4223,
+        "idx_end": 4376
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Generative Adversarial Network (GAN)\n### Applications:\nImage generation, scientific simulations, privacy-preserving medical imaging, fake media detection, creativity/art, molecular discovery, and more.",
+        "text_original": "Image generation, scientific simulations, privacy-preserving medical imaging, fake media detection, creativity/art, molecular discovery, and more",
+        "idx_start": 4400,
+        "idx_end": 4545
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Radial Basis Function (RBF) Network\n### Architecture:\nConsists of input, hidden (RBF-activated), and output layers. Functions approximate any continuous mapping via weighted sums of radial basis functions centered on data points.",
+        "text_original": "Consists of input, hidden (RBF-activated), and output layers. Functions approximate any continuous mapping via weighted sums of radial basis functions centered on data points",
+        "idx_start": 4613,
+        "idx_end": 4787
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Radial Basis Function (RBF) Network\n### Training:\nCenters determined by clustering or selection; output weights solved via least-squares minimization or pseudoinverse; regularization may be applied.",
+        "text_original": "Centers determined by clustering or selection; output weights solved via least-squares minimization or pseudoinverse; regularization may be applied",
+        "idx_start": 4806,
+        "idx_end": 4953
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Radial Basis Function (RBF) Network\n### Applications:\nFunction approximation, time series prediction, interpolation, and system control, particularly for non-linear/chaotic data.",
+        "text_original": "Function approximation, time series prediction, interpolation, and system control, particularly for non-linear/chaotic data",
+        "idx_start": 4976,
+        "idx_end": 5099
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Autoencoder & Variational Autoencoder (VAE)\n### Architecture:\nAutoencoders consist of encoder and decoder networks mapping data to/from a lower-dimensional latent space for reconstruction. VAEs combine this with probabilistic modeling and variational inference for generative tasks.",
+        "text_original": "Autoencoders consist of encoder and decoder networks mapping data to/from a lower-dimensional latent space for reconstruction. VAEs combine this with probabilistic modeling and variational inference for generative tasks",
+        "idx_start": 5175,
+        "idx_end": 5394
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Autoencoder & Variational Autoencoder (VAE)\n### Training:\nOptimized via reconstruction loss and, in VAEs, KL divergence or other statistical distances to regularize latent distributions. Variants include sparse, denoising, contractive, minimum description length, and concrete autoencoders.",
+        "text_original": "Optimized via reconstruction loss and, in VAEs, KL divergence or other statistical distances to regularize latent distributions. Variants include sparse, denoising, contractive, minimum description length, and concrete autoencoders",
+        "idx_start": 5413,
+        "idx_end": 5644
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Autoencoder & Variational Autoencoder (VAE)\n### Applications:\nDimensionality reduction, anomaly detection, lossy compression, information retrieval, drug discovery, popular content prediction, and as components in larger generative models.",
+        "text_original": "Dimensionality reduction, anomaly detection, lossy compression, information retrieval, drug discovery, popular content prediction, and as components in larger generative models",
+        "idx_start": 5667,
+        "idx_end": 5843
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Vision Transformer (ViT)\n### Architecture:\nAdapts the Transformer to images by operating on sequences of patched embeddings. Processes images similarly to text, using self-attention for global context.",
+        "text_original": "Adapts the Transformer to images by operating on sequences of patched embeddings. Processes images similarly to text, using self-attention for global context",
+        "idx_start": 5900,
+        "idx_end": 6057
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Vision Transformer (ViT)\n### Variants:\nIncludes masked autoencoders, DINO (self-distillation), Swin Transformer (localized attention), TimeSformer (video), ViT-VQGAN (vector quantized generative modeling), and methods for efficient pooling and multi-layer fusion.",
+        "text_original": "Includes masked autoencoders, DINO (self-distillation), Swin Transformer (localized attention), TimeSformer (video), ViT-VQGAN (vector quantized generative modeling), and methods for efficient pooling and multi-layer fusion",
+        "idx_start": 6076,
+        "idx_end": 6299
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Vision Transformer (ViT)\n### Applications:\nImage classification, segmentation, generation (as GAN/diffusion backbone), anomaly detection, medical imaging, climate prediction, and more.",
+        "text_original": "Image classification, segmentation, generation (as GAN/diffusion backbone), anomaly detection, medical imaging, climate prediction, and more",
+        "idx_start": 6322,
+        "idx_end": 6462
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Graph Neural Network (GNN)\n### Architecture & Layers:\nGNNs process non-Euclidean structured data (graphs) via permutation-equivariant message passing, local pooling, and global pooling layers. Variants include GCN, GAT (attention-based), and GGS-NN (sequential output).",
+        "text_original": "GNNs process non-Euclidean structured data (graphs) via permutation-equivariant message passing, local pooling, and global pooling layers. Variants include GCN, GAT (attention-based), and GGS-NN (sequential output",
+        "idx_start": 6530,
+        "idx_end": 6743
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Graph Neural Network (GNN)\n### Training & Expressivity:\nMessage passing aggregates local graph information; stacking increases receptive field but too many layers lead to oversmoothing/squashing. GNNs are bounded in expressivity by graph isomorphism tests.",
+        "text_original": "Message passing aggregates local graph information; stacking increases receptive field but too many layers lead to oversmoothing/squashing. GNNs are bounded in expressivity by graph isomorphism tests",
+        "idx_start": 6778,
+        "idx_end": 6977
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Graph Neural Network (GNN)\n### Applications:\nProtein folding (AlphaFold), social/recommender networks, combinatorial optimization, cybersecurity (anomaly detection), water distribution, computer vision (patch graphs), and text analysis.",
+        "text_original": "Protein folding (AlphaFold), social/recommender networks, combinatorial optimization, cybersecurity (anomaly detection), water distribution, computer vision (patch graphs), and text analysis",
+        "idx_start": 7000,
+        "idx_end": 7190
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Class Activation Mapping (CAM) & Variants\n### Purpose:\nCAM and Grad-CAM visualize which regions of an input contributed to a neural network's prediction, especially for CNNs. CAM uses architectural modifications (GAP layer), while Grad-CAM uses gradient-based weighting for flexibility.",
+        "text_original": "CAM and Grad-CAM visualize which regions of an input contributed to a neural network's prediction, especially for CNNs. CAM uses architectural modifications (GAP layer), while Grad-CAM uses gradient-based weighting for flexibility",
+        "idx_start": 7259,
+        "idx_end": 7489
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Class Activation Mapping (CAM) & Variants\n### Variants:\nGuided Grad-CAM, Grad-CAM++, Score-CAM, and LayerCAM offer improved localization, class-specificity, and independence from architectural restrictions.",
+        "text_original": "Guided Grad-CAM, Grad-CAM++, Score-CAM, and LayerCAM offer improved localization, class-specificity, and independence from architectural restrictions",
+        "idx_start": 7508,
+        "idx_end": 7657
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Wasserstein GAN\n### Overview:\nWasserstein GAN modifies the original GAN objective by measuring generator-discriminator divergence using the Wasserstein (Earth Mover\u2019s) distance, leading to improved gradient flow and stability. The Lipschitz constraint on the discriminator is enforced via weight clipping, spectral normalization, or gradient penalty.",
+        "text_original": "Wasserstein GAN modifies the original GAN objective by measuring generator-discriminator divergence using the Wasserstein (Earth Mover\u2019s) distance, leading to improved gradient flow and stability. The Lipschitz constraint on the discriminator is enforced via weight clipping, spectral normalization, or gradient penalty",
+        "idx_start": 7701,
+        "idx_end": 8020
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Neural Network Architectures\n## Overall Connections\n- CNNs, RNNs, Transformers, and GNNs all constitute foundational neural network architectures for different data types and tasks.\n- Autoencoders and GANs serve as core generative modeling methods, with VAEs unifying probabilistic generative and inference approaches.\n- Modern architectures increasingly combine elements from multiple paradigms to achieve superior expressivity, scalability, and performance across vision, language, graphs, and generative tasks.",
+        "text_original": "CNNs, RNNs, Transformers, and GNNs all constitute foundational neural network architectures for different data types and tasks.\n- Autoencoders and GANs serve as core generative modeling methods, with VAEs unifying probabilistic generative and inference approaches.\n- Modern architectures increasingly combine elements from multiple paradigms to achieve superior expressivity, scalability, and performance across vision, language, graphs, and generative tasks",
+        "idx_start": 8055,
+        "idx_end": 8513
+    }
+]

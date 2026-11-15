@@ -1,0 +1,34 @@
+{
+  "id": 12590,
+  "title": "Grace Hopper",
+  "url": "https://en.wikipedia.org/wiki/Grace_Hopper",
+  "path": "Comp-Sci-Pioneers\\grace-hopper",
+  "summary": {
+    "chars": 2705,
+    "tokens": 591
+  },
+  "document": {
+    "chars": 23493,
+    "tokens": 5197
+  },
+  "infobox": {
+    "title": "Grace Hopper",
+    "data": {
+      "Born": "Grace Brewster Murray \u00b7 December 9, 1906 \u00b7 New York City, New York, U.S.",
+      "Died": "January 1, 1992 (aged 85) \u00b7 Arlington County, Virginia, U.S.",
+      "Resting place": "Arlington National Cemetery",
+      "Education": "Vassar College (BA) \u00b7 Yale University (MS, PhD)",
+      "Spouse": "Vincent Hopper \u200b (m. 1930; div. 1945)\u200b",
+      "Awards": "- Defense Distinguished Service Medal - Legion of Merit - Meritorious Service Medal - American Campaign Medal - World War II Victory Medal - National Defense Service Medal - Armed Forces Reserve Medal with two Hourglass Devices - Naval Reserve Medal - Presidential Medal of Freedom (posthumous)",
+      "Allegiance": "United States",
+      "Branch": "United States Navy",
+      "Years of service": "1943\u20131986",
+      "Rank": "Rear admiral (lower half)",
+      "Known for": "- FLOW-MATIC - COBOL",
+      "Fields": "Computer science \u00b7 Mathematics",
+      "Institutions": "- Vassar College - Yale University - Harvard University - University of Pennsylvania - Eckert\u2013Mauchly Computer Corporation - Remington Rand - Digital Equipment Corporation",
+      "Thesis": "New Types of Irreducibility Criteria (1934)",
+      "Doctoral advisor": "\u00d8ystein Ore"
+    }
+  }
+}

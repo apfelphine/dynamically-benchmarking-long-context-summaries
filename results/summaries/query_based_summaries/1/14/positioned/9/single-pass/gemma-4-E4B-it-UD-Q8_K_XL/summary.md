@@ -1,0 +1,3 @@
+**Atlas (2024 film)** is set in the year 2043, where humanoid artificial intelligence terrorist Harlan leads a war against humanity. The military forces of a new International Coalition of Nations (ICN) compel Harlan to escape into outer space.
+
+Twenty-eight years later, in 2071, Atlas Shepherd, an analyst who distrusts AI and is the daughter of Harlan's designer, hunts the fugitive. After discovering Harlan has fled to a planet in the Andromeda Galaxy, Atlas joins an ICN mission using AI-assisted mecha called ARCs. During the mission, Atlas is forced to enter an ARC and bond with its onboard AI, Smith. After being captured by Harlan, Atlas and Smith fight to escape and eventually defeat Harlan.

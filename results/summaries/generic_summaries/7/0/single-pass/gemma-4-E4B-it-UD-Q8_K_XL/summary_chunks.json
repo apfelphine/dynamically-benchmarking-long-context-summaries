@@ -1,0 +1,65 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## Greece\nThe Greek education system is structured across several compulsory and non-compulsory stages. Preschool is compulsory for two years (Pre-kindergarten and Kindergarten). Primary school ($\\text{Dimotiko}$) is compulsory for six years. Lower Secondary Education ($\\text{Gymnasium}$) is compulsory until age 15, while Upper Secondary Education ($\\text{Lyceum}$) is non-compulsory for three years. The system includes various specialized and vocational institutions, such as Vocational Lyceums ($\\text{EPAL}$), which offer dual-diploma studies. Tertiary education is provided by Higher Educational Institutes ($\\text{HEIs}$).",
+        "text_original": "The Greek education system is structured across several compulsory and non-compulsory stages. Preschool is compulsory for two years (Pre-kindergarten and Kindergarten). Primary school ($\\text{Dimotiko}$) is compulsory for six years. Lower Secondary Education ($\\text{Gymnasium}$) is compulsory until age 15, while Upper Secondary Education ($\\text{Lyceum}$) is non-compulsory for three years. The system includes various specialized and vocational institutions, such as Vocational Lyceums ($\\text{EPAL}$), which offer dual-diploma studies. Tertiary education is provided by Higher Educational Institutes ($\\text{HEIs",
+        "idx_start": 42,
+        "idx_end": 658
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## India\nIn India, education is a Concurrent List subject, meaning both the Central and state governments are involved. The structure generally follows a $10+2$ pattern: 10 years of schooling (Primary and Secondary) followed by 2 years of Higher Secondary. The government heavily promotes primary education, offering it free until age 14 via the Right to Education Act 2009. While enrollment rates are high, quality remains a concern, with teacher absenteeism being a significant challenge.",
+        "text_original": "In India, education is a Concurrent List subject, meaning both the Central and state governments are involved. The structure generally follows a $10+2$ pattern: 10 years of schooling (Primary and Secondary) followed by 2 years of Higher Secondary. The government heavily promotes primary education, offering it free until age 14 via the Right to Education Act 2009. While enrollment rates are high, quality remains a concern, with teacher absenteeism being a significant challenge",
+        "idx_start": 674,
+        "idx_end": 1154
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## China\nChina operates under a nine-year compulsory education law, which integrates elementary and junior secondary education ($\\text{Nine Years \u2013 One Policy}$). The system emphasizes political education and modernization, historically shifting focus towards science and technology. Despite massive expansion in enrollment, educational inequality persists between rural and urban areas, and intense competition driven by the $\\text{Gaokao}$ exam often prioritizes rote memorization over innovation.",
+        "text_original": "China operates under a nine-year compulsory education law, which integrates elementary and junior secondary education ($\\text{Nine Years \u2013 One Policy}$). The system emphasizes political education and modernization, historically shifting focus towards science and technology. Despite massive expansion in enrollment, educational inequality persists between rural and urban areas, and intense competition driven by the $\\text{Gaokao}$ exam often prioritizes rote memorization over innovation",
+        "idx_start": 1167,
+        "idx_end": 1656
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## Germany\nGermany's education is decentralized, with the 16 states ($\\text{L\u00e4nder}$) holding constitutional sovereignty over the system. Secondary education is partitioned into different types of schools (e.g., $\\text{Gymnasium}$, $\\text{Realschule}$, $\\text{Hauptschule}$), which guide students toward university or vocational training. The Duale Ausbildung system, which combines vocational training in companies with school attendance, is highly valued. Public universities generally do not charge tuition fees, though semester fees apply.",
+        "text_original": "Germany's education is decentralized, with the 16 states ($\\text{L\u00e4nder}$) holding constitutional sovereignty over the system. Secondary education is partitioned into different types of schools (e.g., $\\text{Gymnasium}$, $\\text{Realschule}$, $\\text{Hauptschule}$), which guide students toward university or vocational training. The Duale Ausbildung system, which combines vocational training in companies with school attendance, is highly valued. Public universities generally do not charge tuition fees, though semester fees apply",
+        "idx_start": 1671,
+        "idx_end": 2202
+    },
+    {
+        "document_idx": null,
+        "text": "# Curriculum and Learning Focus\n## Foreign Language and Skill Acquisition\nIn Greece, English is introduced in kindergarten, and secondary foreign languages like French or German are mandatory in the $\\text{Gymnasium}$. In India, languages taught include English and regional/foreign languages. China is increasingly promoting English, though its teaching often emphasizes rote memorization. Germany mandates foreign language study throughout secondary school, with English being popular.",
+        "text_original": "In Greece, English is introduced in kindergarten, and secondary foreign languages like French or German are mandatory in the $\\text{Gymnasium}$. In India, languages taught include English and regional/foreign languages. China is increasingly promoting English, though its teaching often emphasizes rote memorization. Germany mandates foreign language study throughout secondary school, with English being popular",
+        "idx_start": 2287,
+        "idx_end": 2699
+    },
+    {
+        "document_idx": null,
+        "text": "# Curriculum and Learning Focus\n## Vocational and Applied Learning\nVocational training is a major component across multiple systems. In Greece, $\\text{EPAL}$ offers specialized technical programs. India offers vocational courses at secondary and higher secondary levels. Germany features the highly respected Duale Ausbildung system, linking workplace training with vocational schools. China has continually developed its technical and vocational education to meet modernization needs, though quality control remains a concern.",
+        "text_original": "Vocational training is a major component across multiple systems. In Greece, $\\text{EPAL}$ offers specialized technical programs. India offers vocational courses at secondary and higher secondary levels. Germany features the highly respected Duale Ausbildung system, linking workplace training with vocational schools. China has continually developed its technical and vocational education to meet modernization needs, though quality control remains a concern",
+        "idx_start": 2738,
+        "idx_end": 3197
+    },
+    {
+        "document_idx": null,
+        "text": "# Curriculum and Learning Focus\n## Quality and Issues\nA recurring theme across the summarized systems is the tension between enrollment growth and quality. In Greece, there are concerns regarding corruption and bullying. India struggles with low literacy/numeracy among primary graduates and teacher absenteeism. China battles intense exam pressure, rote learning, and regional disparities. Germany faces debates over the streaming system ($\\text{Gymnasium}$ vs. $\\text{Hauptschule}$) and the high correlation between socioeconomic status and academic achievement.",
+        "text_original": "A recurring theme across the summarized systems is the tension between enrollment growth and quality. In Greece, there are concerns regarding corruption and bullying. India struggles with low literacy/numeracy among primary graduates and teacher absenteeism. China battles intense exam pressure, rote learning, and regional disparities. Germany faces debates over the streaming system ($\\text{Gymnasium}$ vs. $\\text{Hauptschule}$) and the high correlation between socioeconomic status and academic achievement",
+        "idx_start": 3223,
+        "idx_end": 3732
+    },
+    {
+        "document_idx": null,
+        "text": "# Governance and Higher Education\n## Administrative Structures\nIn Greece, the curriculum is structured by defined stages ($\\text{Primary}$, $\\text{Secondary}$, $\\text{Lyceum}$). India's system is governed concurrently by the central and state governments, with bodies like $\\text{NCERT}$ overseeing curriculum. China's system is tightly controlled by the Chinese Communist Party ($\\text{CCP}$) through centralized approval of curricula and textbooks. Germany's system is highly decentralized, with state governments holding primary responsibility ($\\text{Kulturhoheit der L\u00e4nder}$).",
+        "text_original": "In Greece, the curriculum is structured by defined stages ($\\text{Primary}$, $\\text{Secondary}$, $\\text{Lyceum}$). India's system is governed concurrently by the central and state governments, with bodies like $\\text{NCERT}$ overseeing curriculum. China's system is tightly controlled by the Chinese Communist Party ($\\text{CCP}$) through centralized approval of curricula and textbooks. Germany's system is highly decentralized, with state governments holding primary responsibility ($\\text{Kulturhoheit der L\u00e4nder",
+        "idx_start": 3806,
+        "idx_end": 4321
+    },
+    {
+        "document_idx": null,
+        "text": "# Governance and Higher Education\n## Higher Education Pathways\nIn Greece, the $\\text{Lyceum}$ certificate is required for higher education, which is accessed through the $\\text{Pan-Hellenic Examinations}$. India has a large, diverse system of central, state, and private universities, with a focus on science and technology. China has rapidly expanded its tertiary education, with top universities achieving global recognition, though ideological control remains central to higher learning. Germany features two main types of tertiary institutions: traditional $\\text{Universit\u00e4ten}$ (granting doctorates) and practical $\\text{Fachhochschulen}$ (Universities of Applied Sciences).",
+        "text_original": "In Greece, the $\\text{Lyceum}$ certificate is required for higher education, which is accessed through the $\\text{Pan-Hellenic Examinations}$. India has a large, diverse system of central, state, and private universities, with a focus on science and technology. China has rapidly expanded its tertiary education, with top universities achieving global recognition, though ideological control remains central to higher learning. Germany features two main types of tertiary institutions: traditional $\\text{Universit\u00e4ten}$ (granting doctorates) and practical $\\text{Fachhochschulen}$ (Universities of Applied Sciences",
+        "idx_start": 4357,
+        "idx_end": 4972
+    }
+]

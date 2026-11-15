@@ -1,0 +1,86 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\nAn autoencoder compresses data into a latent space and reconstructs it, with two main components: an encoder that maps input to a code and a decoder that reconstructs the input. It is trained to minimize reconstruction error, often using mean squared error or L2 loss. Variants include:\n- **Sparse autoencoders (SAE)** : Enforce sparsity in latent codes using k-sparse or regularization loss.\n- **Denoising autoencoders (DAE)** : Train on corrupted inputs to learn robust representations.\n- **Contractive autoencoders (CAE)** : Add a regularization term to make latent representations invariant to small input changes.\n- **Variational autoencoders (VAE)** : Use probabilistic modeling with latent variables, optimizing a lower bound (ELBO) balancing reconstruction and KL divergence.\n- **Minimum description length (MDL-AE)** : Minimizes total description length of data and latent code.\n**Applications** : Dimensionality reduction, anomaly detection, image compression, and feature learning.",
+        "text_original": "An autoencoder compresses data into a latent space and reconstructs it, with two main components: an encoder that maps input to a code and a decoder that reconstructs the input. It is trained to minimize reconstruction error, often using mean squared error or L2 loss. Variants include:\n- **Sparse autoencoders (SAE)**: Enforce sparsity in latent codes using k-sparse or regularization loss.\n- **Denoising autoencoders (DAE)**: Train on corrupted inputs to learn robust representations.\n- **Contractive autoencoders (CAE)**: Add a regularization term to make latent representations invariant to small input changes.\n- **Variational autoencoders (VAE)**: Use probabilistic modeling with latent variables, optimizing a lower bound (ELBO) balancing reconstruction and KL divergence.\n- **Minimum description length (MDL-AE)**: Minimizes total description length of data and latent code.\n\n**Applications**: Dimensionality reduction, anomaly detection, image compression, and feature learning",
+        "idx_start": 20,
+        "idx_end": 1006
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\nA GNN processes graph-structured data by propagating information through nodes and edges. Key components:\n- **Message passing layers** : Nodes update their representations by aggregating messages from neighbors.\n- **Local and global pooling** : Reduce graph size via downsampling.\n- **Architecture** : Includes GCN, GAT, and GGS-NN.\n**Applications** : Protein folding (AlphaFold), social networks, cyber security, water distribution, computer vision, and text processing.",
+        "text_original": "A GNN processes graph-structured data by propagating information through nodes and edges. Key components:\n- **Message passing layers**: Nodes update their representations by aggregating messages from neighbors.\n- **Local and global pooling**: Reduce graph size via downsampling.\n- **Architecture**: Includes GCN, GAT, and GGS-NN.\n\n**Applications**: Protein folding (AlphaFold), social networks, cyber security, water distribution, computer vision, and text processing",
+        "idx_start": 1049,
+        "idx_end": 1516
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function (RBF) Network\nAn RBF network uses a hidden layer with radial basis functions and a linear output layer. It is trained via two-step process: center selection and linear weight optimization. The network can be normalized to improve performance.\n**Applications** : Interpolation, function approximation, and time series prediction.",
+        "text_original": "An RBF network uses a hidden layer with radial basis functions and a linear output layer. It is trained via two-step process: center selection and linear weight optimization. The network can be normalized to improve performance.\n\n**Applications**: Interpolation, function approximation, and time series prediction",
+        "idx_start": 1568,
+        "idx_end": 1881
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\nA VAE is a generative model that learns a probabilistic latent space. It uses a latent variable distribution (typically Gaussian) and optimizes the evidence lower bound (ELBO) to balance reconstruction and latent space regularity. Variants include:\n- **\u03b2-VAE** : Encourages disentangled latent factors.\n- **Conditional VAE (CVAE)** : Incorporates labels for constrained latent representation.\n- **Statistical distance VAEs** : Replace KL divergence with distances like MMD, WAE, or sliced Wasserstein.\n**Applications** : Image generation, anomaly detection, and generative modeling.",
+        "text_original": "A VAE is a generative model that learns a probabilistic latent space. It uses a latent variable distribution (typically Gaussian) and optimizes the evidence lower bound (ELBO) to balance reconstruction and latent space regularity. Variants include:\n- **\u03b2-VAE**: Encourages disentangled latent factors.\n- **Conditional VAE (CVAE)**: Incorporates labels for constrained latent representation.\n- **Statistical distance VAEs**: Replace KL divergence with distances like MMD, WAE, or sliced Wasserstein.\n\n**Applications**: Image generation, anomaly detection, and generative modeling",
+        "idx_start": 1927,
+        "idx_end": 2505
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\nAn RNN processes sequences by maintaining a hidden state that evolves over time. Key architectures:\n- **Elman and Jordan networks** : Use context units to maintain state.\n- **LSTM and GRU** : Solve vanishing gradients; LSTM has gates for long-term memory.\n- **Bidirectional RNNs (BRNN)** : Process sequences in both directions.\n**Applications** : Machine translation, speech recognition, time series prediction, and control systems.",
+        "text_original": "An RNN processes sequences by maintaining a hidden state that evolves over time. Key architectures:\n- **Elman and Jordan networks**: Use context units to maintain state.\n- **LSTM and GRU**: Solve vanishing gradients; LSTM has gates for long-term memory.\n- **Bidirectional RNNs (BRNN)**: Process sequences in both directions.\n\n**Applications**: Machine translation, speech recognition, time series prediction, and control systems",
+        "idx_start": 2552,
+        "idx_end": 2980
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM) and Grad-CAM\nCAM and Grad-CAM generate visual explanations of CNN decisions by highlighting discriminative regions. CAM uses global average pooling and weights from the final layer. Grad-CAM computes gradients of class scores with respect to feature maps. Variants include:\n- **Guided Grad-CAM** : Combines Grad-CAM with guided backpropagation.\n- **Grad-CAM++** : Uses higher-order gradients for better localization.\n- **Score-CAM** : Uses model confidence scores instead of gradients.\n**Applications** : Explainability in image classification and object detection.",
+        "text_original": "CAM and Grad-CAM generate visual explanations of CNN decisions by highlighting discriminative regions. CAM uses global average pooling and weights from the final layer. Grad-CAM computes gradients of class scores with respect to feature maps. Variants include:\n- **Guided Grad-CAM**: Combines Grad-CAM with guided backpropagation.\n- **Grad-CAM++**: Uses higher-order gradients for better localization.\n- **Score-CAM**: Uses model confidence scores instead of gradients.\n\n**Applications**: Explainability in image classification and object detection",
+        "idx_start": 3040,
+        "idx_end": 3588
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network\nA recurrent network that stores and retrieves patterns using Hebbian learning. It has a binary state space and energy function that decreases over time. Modern variants (Dense Associative Memories) use higher-order interactions to increase storage capacity.\n**Applications** : Optimization problems, associative memory, and pattern recognition.",
+        "text_original": "A recurrent network that stores and retrieves patterns using Hebbian learning. It has a binary state space and energy function that decreases over time. Modern variants (Dense Associative Memories) use higher-order interactions to increase storage capacity.\n\n**Applications**: Optimization problems, associative memory, and pattern recognition",
+        "idx_start": 3621,
+        "idx_end": 3964
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\nViT replaces convolutional kernels with self-attention over image patches. It processes images as sequences of patches, enabling global context modeling. Variants include:\n- **MAE (Masked Autoencoder)** : Uses masked patches for unsupervised pretraining.\n- **DINO** : Uses self-distillation with teacher-student networks.\n- **Swin Transformer** : Uses shifted windows and hierarchical attention.\n- **TimeSformer** : Applies factorized attention for video tasks.\n**Applications** : Image classification, object detection, video understanding, and image generation.",
+        "text_original": "ViT replaces convolutional kernels with self-attention over image patches. It processes images as sequences of patches, enabling global context modeling. Variants include:\n- **MAE (Masked Autoencoder)**: Uses masked patches for unsupervised pretraining.\n- **DINO**: Uses self-distillation with teacher-student networks.\n- **Swin Transformer**: Uses shifted windows and hierarchical attention.\n- **TimeSformer**: Applies factorized attention for video tasks.\n\n**Applications**: Image classification, object detection, video understanding, and image generation",
+        "idx_start": 4005,
+        "idx_end": 4563
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\nCNNs exploit spatial locality through shared weights and local connectivity. Key components:\n- **Convolutional layers** : Extract spatial features.\n- **Pooling layers** : Downsample feature maps.\n- **Fully connected layers** : Classify images.\n**Applications** : Image recognition, object detection, medical imaging, drug discovery, and time series forecasting.",
+        "text_original": "CNNs exploit spatial locality through shared weights and local connectivity. Key components:\n- **Convolutional layers**: Extract spatial features.\n- **Pooling layers**: Downsample feature maps.\n- **Fully connected layers**: Classify images.\n\n**Applications**: Image recognition, object detection, medical imaging, drug discovery, and time series forecasting",
+        "idx_start": 4614,
+        "idx_end": 4971
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\nA GAN variant that uses the Wasserstein distance instead of Jensen-Shannon divergence. It improves training stability by enforcing a bounded Lipschitz norm on the discriminator. Training uses gradient penalty or spectral normalization.\n**Applications** : Image generation, style transfer, and generative modeling with stable training.",
+        "text_original": "A GAN variant that uses the Wasserstein distance instead of Jensen-Shannon divergence. It improves training stability by enforcing a bounded Lipschitz norm on the discriminator. Training uses gradient penalty or spectral normalization.\n\n**Applications**: Image generation, style transfer, and generative modeling with stable training",
+        "idx_start": 5010,
+        "idx_end": 5343
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer (Deep Learning)\nA sequence modeling architecture using self-attention and feedforward layers. Key components:\n- **Self-attention** : Computes relationships between tokens.\n- **Multihead attention** : Allows parallel attention to different feature dimensions.\n- **Positional encoding** : Adds positional information to sequences.\n**Applications** : Natural language processing (NLP), machine translation, speech recognition, and multimodal tasks (e.g., vision, video).",
+        "text_original": "A sequence modeling architecture using self-attention and feedforward layers. Key components:\n- **Self-attention**: Computes relationships between tokens.\n- **Multihead attention**: Allows parallel attention to different feature dimensions.\n- **Positional encoding**: Adds positional information to sequences.\n\n**Applications**: Natural language processing (NLP), machine translation, speech recognition, and multimodal tasks (e.g., vision, video",
+        "idx_start": 5387,
+        "idx_end": 5833
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\nA two-player game where a generator creates data and a discriminator evaluates it. The generator learns to produce data indistinguishable from real data. Variants include:\n- **Conditional GAN (cGAN)** : Generates data based on labels.\n- **Wasserstein GAN (WGAN)** : Improves training stability.\n- **CycleGAN** : Translates between domains without paired data.\n- **InfoGAN** : Encourages latent variables to carry meaningful information.\n**Applications** : Image generation, style transfer, medical imaging, and scientific simulations.\nThis summary covers the core principles, architectures, training methods, and key applications of each model.",
+        "text_original": "A two-player game where a generator creates data and a discriminator evaluates it. The generator learns to produce data indistinguishable from real data. Variants include:\n- **Conditional GAN (cGAN)**: Generates data based on labels.\n- **Wasserstein GAN (WGAN)**: Improves training stability.\n- **CycleGAN**: Translates between domains without paired data.\n- **InfoGAN**: Encourages latent variables to carry meaningful information.\n\n**Applications**: Image generation, style transfer, medical imaging, and scientific simulations.\n\n--- \n\nThis summary covers the core principles, architectures, training methods, and key applications of each model",
+        "idx_start": 5887,
+        "idx_end": 6533
+    }
+]

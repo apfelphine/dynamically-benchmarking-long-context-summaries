@@ -1,0 +1,1 @@
+The 2024 AI Seoul Summit was co-hosted by the South Korean and British governments. The Seoul Declaration was adopted to address artificial intelligence technology and related challenges and opportunities.

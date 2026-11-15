@@ -1,0 +1,28 @@
+{
+  "id": 2307535,
+  "title": "Sultan Qaboos University",
+  "url": "https://en.wikipedia.org/wiki/Sultan_Qaboos_University",
+  "path": "Universities\\sultan-qaboos-university",
+  "summary": {
+    "chars": 636,
+    "tokens": 164
+  },
+  "document": {
+    "chars": 1363,
+    "tokens": 358
+  },
+  "infobox": {
+    "title": "Sultan Qaboos University",
+    "data": {
+      "Motto": "\u0627\u0642\u0631\u0623",
+      "Motto in English": "Read",
+      "Type": "Public",
+      "Established": "1986",
+      "Vice-Chancellor": "HH Dr. Fahad bin Al-Julanda bin Majed Al Said",
+      "Undergraduates": "15,357",
+      "Location": "Muscat, Oman",
+      "Campus": "Urban",
+      "Website": "www.squ.edu.om"
+    }
+  }
+}

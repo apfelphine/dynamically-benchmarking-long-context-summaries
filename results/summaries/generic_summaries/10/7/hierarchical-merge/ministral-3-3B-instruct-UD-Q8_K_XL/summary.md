@@ -1,0 +1,27 @@
+### **Global Education Systems: Structure, Challenges, and Comparative Insights**
+
+#### **Compulsory Education and Curriculum**
+Taiwan’s **12-year compulsory system** (nursery to university) enforces **Mandarin instruction** and integrates **private schools** into the state framework, with structured progression through **kindergarten–elementary, junior high, and senior high**. Senior high students face **military drills and university admissions exams**, while vocational pathways include **3-year university-based programs**. In contrast, **Nigeria’s system** is fragmented, with **129 international schools** and **99 universities** competing via **SSCE/GCE credits or JAMB scores (≥180)**, though **vocational training remains underfunded**. **Iran’s system** blends **Islamic integration** (gender-segregated, 9-year compulsory education) with **STEM-focused reforms**, achieving **70% women in STEM** (2015) but facing **teacher shortages and dropout rates**. **Ghana’s ICT-driven system** integrates digital tools, though **infrastructure gaps persist**, while **Indonesia’s 12-year curriculum** historically prioritized **male literacy** but now offers **47 vocational programs** in junior/senior high schools.
+
+**Hong Kong** emphasizes **bilingual/bicultural education**, transitioning to **English-medium instruction (EMI)** post-2019 reforms, which restricted sensitive topics and promoted patriotism. **Armenia’s universal, free system** (since 1960) ensures **100% literacy** but lags in **high school enrollment (65.5%)**, with **vocational gaps** despite **Bologna Process alignment**. **Sweden/Norway** follow the **Bologna Process**, offering **free tuition for EU/EEA students** and standardized grading systems, though **equity disparities** (e.g., Sweden’s **15.6% unqualified leavers**) persist.
+
+---
+
+#### **Higher Education and Vocational Pathways**
+Taiwan’s **95%+ university enrollment** is dominated by **public (e.g., NTU) and private institutions (e.g., Fu Jen)**, with **universities of science/technology** offering **3-year vocational programs**. **Iran’s 4.5M student enrollment** (70% women in STEM) is supported by **20% of GDP funding**, though **dropout rates and teacher shortages** remain issues. **Nigeria’s vocational training** is underdeveloped, with **military schools** as a rare alternative. **Hong Kong’s elite universities** (e.g., HKUST) integrate **AI tools**, while **Armenia’s 26 state universities** focus on **STEM/medicine**, though **vocational training is limited**.
+
+**Sweden/Norway** split higher education into **academic and vocational tracks**, with **Sweden’s free tuition** (EU/EEA) and **Norway’s standardized grading (1–6)**. **Indonesia’s vocational programs (47 options)** are unmatched, while **Ghana’s online scholarships** aim to reduce tertiary barriers. **France’s secular system** (*laïcité*) and **England’s GCSE/A-level exams** ensure **standardized equity**, though **teacher shortages** disrupt reforms. **Turkey’s secularized system** under Atatürk includes **apprenticeship programs**, but **ideological tensions** (e.g., creationism debates) persist.
+
+---
+#### **Funding, Technology, and Equity**
+**Iran** allocates **20% of GDP to education**, using **digital tools (OERP, LMS)** but facing **political restrictions**. **France** faces **high tuition costs (€2,770–3,770/year for non-EU students)** and **teacher strikes**, while **Sweden/Norway** invest in **digital training** (e.g., Norway’s mandatory IT courses). **Ghana’s ICT integration** is ambitious but **digitally illiterate rural populations** remain underserved. **Armenia’s universal literacy** contrasts with **low high school enrollment (65.5%)**, and **Hong Kong’s class size reductions** (amid declining birth rates) highlight **demographic pressures**. **Equity gaps** persist in **Sweden (15.6% unqualified leavers)** and **Norway (regional dropout rates ~38%)**, with **rural literacy disparities** (e.g., Nigeria’s **69% as of 2022**) and **gender barriers** (e.g., Iran’s **rural insecurity, Nigeria’s teen pregnancy**).
+
+---
+#### **Global Performance and Future Trends**
+**Top performers** include **Israel (social sciences/economics)** and **France (Bologna Process)**, despite **funding disparities**. **Egypt/Ghana** require **deeper reforms** to address **youth unemployment, teacher shortages, and digital access**, with **fragmented systems** and **donor dependency**. **COVID-19** exacerbated inequities, necessitating **resilient, inclusive reforms**. **Key themes**:
+- **Compulsory education** varies from **Taiwan/Iran’s structured competition** to **Nigeria’s fragmented system**.
+- **Vocational vs. academic pathways** differ: **Taiwan’s universities of science/technology** vs. **Nigeria’s military schools**, while **Sweden/Norway** balance **Bologna equivalence** with **vocational tracks**.
+- **Funding disparities** range from **Iran’s 20% GDP investment** to **France’s high tuition costs**.
+- **Gender equity** is advanced in **Iran (70% women in STEM)** but hindered by **rural insecurity in Nigeria**.
+- **Digital access** is a priority in **Iran (OERP)** and **Ghana (ICT integration)**, though **rural gaps** persist.
+- **Curriculum reforms** reflect **regional priorities**: **Hong Kong’s patriotic shifts**, **Indonesia’s Pancasila alignment**, and **Armenia’s Bologna alignment**.

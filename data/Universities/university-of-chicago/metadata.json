@@ -1,0 +1,43 @@
+{
+  "id": 32127,
+  "title": "University of Chicago",
+  "url": "https://en.wikipedia.org/wiki/University_of_Chicago",
+  "path": "Universities\\university-of-chicago",
+  "summary": {
+    "chars": 2001,
+    "tokens": 385
+  },
+  "document": {
+    "chars": 45909,
+    "tokens": 9552
+  },
+  "infobox": {
+    "title": "University of Chicago",
+    "data": {
+      "Motto": "Crescat scientia; vita excolatur (Latin)",
+      "Motto in English": "\"Let knowledge grow from more to more; and so be human life enriched\"",
+      "Type": "Private research university",
+      "Established": "1890",
+      "Founder": "John D. Rockefeller",
+      "Accreditation": "HLC",
+      "Academic affiliations": "AAU NAICU URA",
+      "Endowment": "$10.1 billion (2024)",
+      "President": "Paul Alivisatos",
+      "Academic staff": "3,418 (2023)",
+      "Administrative staff": "23,217 (2023)",
+      "Students": "19,287 (2024)",
+      "Undergraduates": "7,569 (2024)",
+      "Postgraduates": "10,968 (2024)",
+      "Other students": "750 (non-degree seeking, 2024)",
+      "Location": "Chicago, Illinois, United States \u00b7 41\u00b047\u203223\u2033N 87\u00b035\u203259\u2033W\ufeff / \ufeff41.78972\u00b0N 87.59972\u00b0W",
+      "Campus": "Large city, 217 acres (87.8 ha) (main campus)",
+      "Other campuses": "Beijing Delhi Hong Kong London Luxor Paris",
+      "Newspaper": "The Chicago Maroon",
+      "Colors": "Maroon",
+      "Nickname": "Maroons",
+      "Sporting affiliations": "NCAA Division III \u2013",
+      "Mascot": "Phil the Phoenix",
+      "Website": "uchicago.edu"
+    }
+  }
+}

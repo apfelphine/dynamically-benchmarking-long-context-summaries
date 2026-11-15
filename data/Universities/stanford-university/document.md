@@ -1,0 +1,331 @@
+# Stanford University
+
+## History
+Stanford University was founded in 1885 by Leland and Jane Stanford as a tribute to the memory of their only child, Leland Stanford Jr. The university officially opened in 1891 on the Stanfords' former Palo Alto farm. Modeled after the great Eastern universities, specifically Cornell University in Ithaca, New York, Stanford was often referred to as the "Cornell of the West" in its early years. This comparison was largely due to a significant portion of its faculty being former Cornell affiliates, including its first president, David Starr Jordan, and its second president, John Casper Branner. Both Cornell and Stanford were among the first to make higher education accessible, non-sectarian, and inclusive of women and men. Cornell is recognized as one of the first American universities to embrace this progressive approach to education, and Stanford quickly followed suit, solidifying its commitment to these ideals.
+
+From an architectural perspective, the Stanfords sought to distinguish their university by emulating the style of English university buildings while also incorporating elements of local California heritage. They specified in the founding grant that the buildings should "be like the old adobe houses of the early Spanish days; they will be one-storied; they will have deep window seats and open fireplaces, and the roofs will be covered with the familiar dark red tiles." The Stanfords also hired renowned landscape architect Frederick Law Olmsted, who previously designed the Cornell campus, to design the Stanford campus.
+
+When Leland Stanford died in 1893, the continued existence of the university was put in jeopardy due to a federal lawsuit against his estate, but Jane Stanford insisted the university remain in operation throughout the financial crisis. The university suffered major damage from the 1906 San Francisco earthquake; most of the damage was repaired, but a new library and gymnasium were demolished, and some original features of Memorial Church and the Quad were never restored. During the early-20th century, the university added four professional graduate schools. Stanford University School of Medicine was established in 1908 when the university acquired Cooper Medical College in San Francisco; it moved to the Stanford campus in 1959.
+
+The university's law department, established as an undergraduate curriculum in 1893, was transitioned into a professional law school starting in 1908 and received accreditation from the American Bar Association in 1923. The Stanford University Graduate School of Education grew out of the Department of the History and Art of Education, one of the original twenty-one departments at Stanford, and became a professional graduate school in 1917. The Stanford Graduate School of Business was founded in 1925 at the urging of then-trustee Herbert Hoover. In 1919, The Hoover Institution on War, Revolution and Peace was started by Herbert Hoover to preserve artifacts related to World War I. The SLAC National Accelerator Laboratory, established in 1962, performs research in particle physics.
+
+In the 1940s and 1950s, Frederick Terman, an engineering professor who later became provost, encouraged Stanford engineering graduates to start their own companies and invent products. During the 1950s, he established Stanford Industrial Park, a high-tech commercial campus on university land. Also in the 1950s, William Shockley, co-inventor of the silicon transistor, recipient of the 1956 Nobel Prize for Physics, and later professor of physics at Stanford, moved to the Palo Alto area and founded a company, Shockley Semiconductor Laboratory. The next year, eight of his employees resigned and formed a competing company, Fairchild Semiconductor. The presence of so many high-tech and semiconductor firms helped to establish Stanford and the mid-Peninsula as a hotbed of innovation, eventually named Silicon Valley after the key ingredient in transistors. Shockley and Terman are both often described as the "fathers of Silicon Valley".
+
+In the 1950s, Stanford intentionally reduced and restricted Jewish admissions, and for decades, denied and dismissed claims from students, parents, and alumni that they were doing so. Stanford issued its first institutional apology to the Jewish community in 2022 after an internal task force confirmed that the university deliberately discriminated against Jewish applicants, while also misleading those who expressed concerns, including students, parents, alumni, and the ADL. Stanford was once considered a school for "the wealthy", but controversies in later decades damaged its reputation. The 1971 Stanford prison experiment was criticized as unethical, and the misuse of government funds from 1981 resulted in severe penalties for the school's research funding, and the resignation of President Donald Kennedy in 1992.
+
+In the 1960s, Stanford rose from a regional university to one of the most prestigious in the United States, "when it appeared on lists of the "top ten" universities in America... This swift rise to performance [was] understood at the time as related directly to the university's defense contracts..." Wallace Sterling was the President from 1949 to 1968 and he oversaw the growth of Stanford from a financially troubled regional university to a financially sound, internationally recognized academic powerhouse, "the Harvard of the West". Achievements during Sterling's tenure included:
+
+- Moving the Stanford Medical School from a small, inadequate campus in San Francisco to a new facility on the Stanford campus which was fully integrated into the university to an unusual degree for medical schools.[70]
+- Establishing the Stanford Industrial Park (now the Stanford Research Park) and the Stanford Shopping Center on leased University land, thus stabilizing the university's finances. The Stanford Industrial Park, together with the university's aggressive pursuit of government research grants, helped to spur the development of Silicon Valley.[70]
+- Increasing the number of students receiving financial aid from less than 5% when he took office to more than one-third when he retired.[70]
+- Increasing the size of the student body from 8,300 to 11,300 and the size of the tenured faculty from 322 to 974.[70]
+- Launching the PACE fundraising program, the largest such program ever undertaken by any university up to that time.[70]
+- Launching a building boom on campus that included a new bookstore, post office, student union, dormitories, a faculty club, and many academic buildings.[70]
+- Creating the Overseas Campus program for undergraduates in 1958.[70]
+
+
+
+## Land
+Most of Stanford is on an 8,180-acre (12.8 sq mi; 33.1 km2) campus, one of the largest in the United States. It is on the San Francisco Peninsula, in the northwest part of the Santa Clara Valley (Silicon Valley) approximately 37 miles (60 km) southeast of San Francisco and approximately 20 miles (30 km) northwest of San Jose. Stanford received $4.5 billion in 2006 and spent more than $2.1 billion in Santa Clara and San Mateo counties. In 2008, 60% of this land remained undeveloped.
+
+Stanford's main campus includes a census-designated place within unincorporated Santa Clara County, although some of the university land (such as the Stanford Shopping Center and the Stanford Research Park) is within the city limits of Palo Alto. The campus also includes much land in unincorporated San Mateo County (including the SLAC National Accelerator Laboratory and the Jasper Ridge Biological Preserve), as well as in the city limits of Menlo Park (Stanford Hills neighborhood), Woodside, and Portola Valley.
+
+The central campus includes a seasonal lake (Lake Lagunita, an irrigation reservoir), home to the vulnerable California tiger salamander. As of 2012, Lake Lagunita was often dry and the university had no plans to artificially fill it. Heavy rains in January 2023 refilled Lake Lagunita to up to 8 feet of depth. Two other reservoirs, Searsville Lake on San Francisquito Creek and Felt Lake, are on more remote sections of the founding grant.
+
+
+### Central campus
+The central campus is adjacent to Palo Alto, bounded by El Camino Real, Stanford Avenue, Junipero Serra Blvd, and Sand Hill Road, off State Route 82. The United States Postal Service has assigned it two ZIP Codes: 94305 for campus mail and 94309 for P.O. box mail. It lies within area code 650.
+
+
+### Non-central campus
+On the founding grant:
+
+- Jasper Ridge Biological Preserve is a 1,200-acre (490 ha) natural reserve west of the central campus owned by the university and used by wildlife biologists for research. Researchers and students are involved in biological research. Professors can teach the importance of biological research to the biological community. The primary goal is to understand the system of the natural Earth.[80]
+- SLAC National Accelerator Laboratory is a facility west of the central campus operated by the university for the Department of Energy. It contains the longest linear particle accelerator in the world, 2 miles (3.2 km) on a 426-acre (172 ha) area of land.[81]
+
+
+Off the founding grant:
+
+- Hopkins Marine Station, in Pacific Grove, California, is a marine biology research center owned by the university since 1892. Based on US Pacific Coast, it is one of the oldest marine laboratories. It includes 10 research laboratories and is also used for archaeological exploration purposes.[82] A graduate student of the anthropology department discovered evidence that the location was home to a Chinese American fishing village in the early 1900s.[83]
+- Study abroad locations: unlike typical study abroad programs, Stanford itself operates in several locations around the world; thus, each location has Stanford faculty-in-residence and staff in addition to students, creating a "mini-Stanford".[84]
+- Redwood City campus for many of the university's administrative offices in Redwood City, California, a few miles north of the main campus. In 2005, the university purchased a small, 35-acre (14 ha) campus in Midpoint Technology Park intended for staff offices; development was delayed by the Great Recession.[85][86] In 2015, the university announced a development plan,[87] and the Redwood City campus opened in March 2019.[88]
+- The Bass Center in Washington, D.C. provides a base, including housing, for the Stanford in Washington program for undergraduates.[89] It includes a small art gallery open to the public.[90]
+- China: Stanford Center at Peking University, housed in the Lee Jung Sen Building, is a small center for researchers and students in collaboration with Peking University.[91][92]
+
+
+
+### Faculty residences
+Many Stanford faculty members live in the "Faculty Ghetto", within walking or biking distance of campus. The Faculty Ghetto is composed of land owned by Stanford. Similar to a condominium, the houses can be bought and sold to other Stanford faculty but the land under the houses is leased for 51 years with the possibility of extensions. Houses in the "Ghetto" appreciate and depreciate, but not as rapidly as overall Silicon Valley values.
+
+
+### Other uses
+Some of the land is managed to provide revenue for the university such as the Stanford Shopping Center and the Stanford Research Park. Stanford land is also leased for a token rent by the Palo Alto Unified School District for several schools including Palo Alto High School and Gunn High School. El Camino Park, the oldest Palo Alto city park, is also on Stanford land. Stanford also has the Stanford Golf Course, and Stanford Red Barn Equestrian Center, used by Stanford athletics though the golf course can also be used by the general public.
+
+
+### Landmarks
+Contemporary campus landmarks include the Main Quad and Memorial Church, the Cantor Center for Visual Arts and the Bing Concert Hall, the Stanford Mausoleum with the nearby Angel of Grief, Hoover Tower, the Rodin Sculpture Garden, the Papua New Guinea Sculpture Garden, the Arizona Cactus Garden, the Stanford University Arboretum, Green Library and the Dish. Frank Lloyd Wright's 1937 Hanna–Honeycomb House and the 1919 Lou Henry Hoover House are both listed on the National Register of Historic Places. White Memorial Fountain (also known as "The Claw") between the Stanford Bookstore and the Old Union is a popular place to meet and to engage in the Stanford custom of "fountain hopping"; it was installed in 1964 and designed by Aristides Demetrios after a national competition as a memorial for two brothers in the class of 1949, William White and John White II, one of whom died before graduating and one shortly after in 1952.
+
+- Interior of the Stanford Memorial Church at the center of the Main Quad
+- Hoover Tower, at 285 feet (87 m), the tallest building on campus
+- The new Stanford Stadium, site of home football games
+- Stanford Quad with Memorial Church in the background
+- The Dish, a 150 feet (46 m) diameter radio telescope on the Stanford foothills overlooking the main campus
+- White Memorial Fountain (The Claw)
+
+
+
+## Administration and organization
+Stanford is a private, non-profit university administered as a corporate trust governed by a privately appointed board of trustees with a maximum membership of 38. Trustees serve five-year terms (not more than two consecutive terms) and meet five times annually. A new trustee is chosen by the current trustees by ballot. The Stanford trustees also oversee the Stanford Research Park, the Stanford Shopping Center, the Cantor Center for Visual Arts, Stanford University Medical Center, and many associated medical facilities (including the Lucile Packard Children's Hospital).
+
+The board appoints a president to serve as the chief executive officer of the university, to prescribe the duties of professors and course of study, to manage financial and business affairs, and to appoint nine vice presidents. Richard Saller became the interim president in September 2023. On April 4, 2024, the board of trustees announced that Jonathan Levin would become the thirteenth president on August 1, 2024. The provost is the chief academic and budget officer, to whom the deans of each of the seven schools report. Jenny Martinez became the fourteenth provost in October 2023. The university is organized into seven academic schools.
+
+The schools of Humanities and Sciences (twenty-seven departments), Engineering (nine departments), and Sustainability (nine departments) have both graduate and undergraduate programs while the Schools of Law, Medicine, Education, and Business have graduate programs only. The powers and authority of the faculty are vested in the Academic Council, which is made up of tenure and non-tenure line faculty, research faculty, senior fellows in some policy centers and institutes, the president of the university, and some other academic administrators. But most matters are handled by the Faculty Senate, made up of 54 elected representatives of the faculty for 2021.
+
+The Associated Students of Stanford University (ASSU) is the student government for Stanford and all registered students are members. Its elected leadership consists of the Undergraduate Senate elected by the undergraduate students, the Graduate Student Council elected by the graduate students, and the President and Vice President elected as a ticket by the entire student body. Stanford is the beneficiary of a special clause in the California Constitution, which explicitly exempts Stanford property from taxation so long as the property is used for educational purposes.
+
+
+### Endowment, assets, and donations
+Stanford's endowment includes real estate and other investments valued at $36.5 billion as of August 2023, and is one of the four largest academic endowments in the United States. The endowment consists of $29.9 billion in a merged pool of assets and $6.6 billion of real estate near the main campus. Stanford is the largest landowner in the Silicon Valley Payouts from the endowment covered approximately 22% of university expenses in the 2023 fiscal year.
+
+Since inception, the university has been the beneficiary of large donations. The endowment began in 1885, six years before the opening of the university, when Leland Stanford and his wife Jane conveyed approximately $20 million to the university. The university's pioneering of technology intellectual property transfer created both direct investments and enabled a unique pipeline of mega-donors including from alumni-founded companies with Google (Sergey Brin and Larry Page), Nike (Phil Knight), Hewlett-Packard (David Packard and Bill Hewlett), and Sun Microsystems (Vinod Kohsla) as examples. Further, the university's global reputation and continued leadership in technology has attracted large donations from prominent figures such as the co-founder of Netscape (Jim Clark), founder of SAP SE (Hasso Plattner), co-founder of Andreessen Horowitz (Marc Andreessen and Laura Arillaga-Andreessen), chairman of Kleiner Perkins (John Doerr and his wife Ann).
+
+
+## Academics
+
+### Admissions
+Stanford is considered by US News to be 'most selective' with an acceptance rate of 4%, one of the lowest
+among US universities. Half of the applicants accepted to Stanford have an SAT score between 1440 and 1570 or an ACT score between 32 and 35, typically with a GPA of 3.94 or higher. Admissions officials consider a student's grade point average to be an important academic factor, with emphasis on an applicant's high school class rank and letters of recommendation. In terms of non-academic materials as of 2019, Stanford ranks extracurricular activities, talent/ability and character/personal qualities as 'very important' in making first-time, first-year admission decisions, while ranking the interview, whether the applicant is a first-generation university applicant, legacy preferences, volunteer work and work experience as 'considered'. Of those students accepted to Stanford's Class of 2026, 1,736 chose to attend, of which 21% were first-generation college students.
+
+Stanford's admission process is need-blind for U.S. citizens and permanent residents; while it is not need-blind for international students, 64% are on need-based aid, with an average aid package of $31,411. In 2012, the university awarded $126 million in need-based financial aid to 3,485 students, with an average aid package of $40,460. Eighty percent of students receive some form of financial aid. Stanford has a no-loan policy. For undergraduates admitted starting in 2015, Stanford waives tuition, room, and board for most families with incomes below $65,000, and most families with incomes below $125,000 are not required to pay tuition; those with incomes up to $150,000 may have tuition significantly reduced. Seventeen percent of students receive Pell Grants, a common measure of low-income students at a college. In 2022, Stanford started its first dual-enrollment computer science program for high school students from low-income communities, as a pilot project which then inspired the founding of the Qualia Global Scholars Program. Stanford plans to expand the program to include courses in Structured Liberal Education and writing.
+
+
+### Teaching and learning
+Stanford follows a quarter system with the autumn quarter usually beginning in late September and the spring quarter ending in mid-June. The full-time, four-year undergraduate program has arts and sciences focus with high graduate student coexistence. Stanford is accredited by the Western Association of Schools and Colleges with the latest review in 2023.
+
+
+### Research centers and institutes
+Stanford is classified among "R1: Doctoral Universities – Very high research activity." The university's research expenditure in fiscal years of 2021/22 was $1.82 billion and the total number of sponsored projects was 7,900. By 2016, the Office of the Vice Provost and Dean of Research oversaw eighteen independent laboratories, centers, and institutes. Kathryn Ann Moler is the key person for leading those research centers for choosing problems, faculty members, and students. Funding is also provided for undergraduate and graduate students by those labs, centers, and institutes for collaborative research. Other Stanford-affiliated institutions include the SLAC National Accelerator Laboratory (originally the Stanford Linear Accelerator Center), the Stanford Research Institute (an independent institution which originated at the university), the Hoover Institution (a conservative think tank), and the Hasso Plattner Institute of Design (a multidisciplinary design school in cooperation with the Hasso Plattner Institute of University of Potsdam that integrates product design, engineering, and business management education).
+
+Stanford is home to the Martin Luther King Jr. Research and Education Institute, which grew out of and still contains the Martin Luther King Jr. Papers Project, a collaboration with the King Center to publish the King papers held by the King Center. It also runs the John S. Knight Fellowship for Professional Journalists and the Center for Ocean Solutions, which brings together marine science and policy to address challenges facing the ocean. It focuses on five points: climate change, overfishing, coastal development, pollution, and plastics. Together with UC Berkeley and UC San Francisco, Stanford is part of the Biohub, a new medical science research center founded in 2016 by a $600 million commitment from Facebook CEO and founder Mark Zuckerberg and pediatrician Priscilla Chan. This medical research center is working for designing advanced-level health care units.
+
+
+### Libraries and digital resources
+By 2014, Stanford University Libraries (SUL) had twenty-four libraries in total. The Hoover Institution Library and Archives is a research center based on history of 20th-century. Stanford University Libraries (SUL) held a collection of more than 9.3 million volumes, nearly 300,000 rare or special books, 1.5 million e-books, 2.5 million audiovisual materials, 77,000 serials, nearly 6 million microform holdings, and thousands of other digital resources. The main library in the SU library system is the Green Library, which also contains various meeting and conference rooms, study spaces, and reading rooms. Lathrop Library (previously Meyer Library, demolished in 2015), holds various student-accessible media resources and houses one of the largest East Asia collections with 540,000 volumes. Stanford University Press, founded in 1892, published about 130 books per year has printed more than 3,000 books. It also has fifteen subject areas.
+
+
+#### Online encyclopedia
+The Stanford Encyclopedia of Philosophy is a leading online encyclopedia and academic resource on the subject of philosophy, published and maintained by the university. The encyclopedia was founded by Stanford senior researcher Edward Zalta in 1995.
+
+
+### Arts
+Stanford is home to the Cantor Center for Visual Arts, a museum established with the help of art collector B. Gerald Cantor. It today consists of twenty-four galleries, sculpture gardens, terraces, and a courtyard first established in 1891 by Jane and Leland Stanford as a memorial to their only child. The university's collection of works by Auguste Rodin is among the largest in the world, with as many as 200 sculptures at the Cantor Center alone. These include an original bronze cast of The Thinker granted residence at Stanford by Cantor in 1988, with the university expected to attain full ownership sometime in the future. The Stanford Thinker has been loaned for viewing around the world and features across the university's iconography and culture, including the logo of the Encyclopedia of Philosophy.
+
+The Thomas Welton Stanford Gallery, which was built in 1917, serves as a teaching resource for the Department of Art & Art History as well as an exhibition venue. In 2014, Stanford opened the Anderson Collection, a new museum focused on postwar American art and founded by the donation of 121 works by food service moguls Mary and Harry Anderson. There are outdoor art installations throughout the campus, primarily sculptures, but some murals as well. The Papua New Guinea Sculpture Garden near Roble Hall features wood carvings and "totem poles".
+
+The Stanford music department sponsors many ensembles, including five choirs, the Stanford Symphony Orchestra, Stanford Taiko, and the Stanford Wind Ensemble. Extracurricular activities include theater groups such as Ram's Head Theatrical Society, the Stanford Improvisors, the Stanford Shakespeare Company, and the Stanford Savoyards, a group dedicated to performing the works of Gilbert and Sullivan. Stanford is also host to ten a cappella groups, including the Mendicants (Stanford's first), Counterpoint (the first all-female group on the West Coast), the Harmonics, the Stanford Fleet Street Singers, Talisman, Everyday People, and Raagapella.
+
+
+### Reputation and rankings
+Stanford is highly ranked by U.S. News & World Report, Times Higher Education, and QS World University Rankings. As noted in The Wall Street Journal's 2024 rankings, "the usual players are almost always going to come out on top: The Princetons, the Stanfords, the Yales, the Harvards. They will jockey for those first few spots on whatever ranking you happen to be looking."
+
+
+#### Standings in rankings
+In 2022, Washington Monthly ranked Stanford at 1st position in their annual list of top universities in the United States. In 2019, Stanford University took 1st place on Reuters' list of the World's Most Innovative Universities for the fifth consecutive year. Stanford Graduate School of Business has consistently been both the most selective business school in the world and consistently ranked 1st in the list of best business schools year-over-year consecutively by various reputed studies including Bloomberg Businessweek and U.S. News & World Report for 2024. Stanford Law School is also consistently been amongst the two most selective law schools in the world and consistently ranked 1st in the list of best law schools year-over-year consecutively for 2024 in U.S. News & World Report.
+
+In a 2022 survey by The Princeton Review, Stanford was ranked 1st among the top ten "dream colleges" of America, and was considered to be the ultimate "dream college" of both students and parents. From polls of college applicants done by The Princeton Review, every year from 2013 to 2020 the most commonly named "dream college" for students was Stanford; separately, parents, too, most frequently named Stanford their ultimate "dream college". The Academic Ranking of World Universities (ARWU) ranked Stanford second in the world (after Harvard) most years from 2003 to 2024. Times Higher Education recognizes Stanford as one of the world's "six super brands" on its World Reputation Rankings, along with Berkeley, Cambridge, Harvard, MIT, and Oxford.
+
+
+## Discoveries and innovation
+
+### Natural sciences
+- Biological synthesis of deoxyribonucleic acid (DNA) – Arthur Kornberg discovered the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid, and won the Nobel Prize in Physiology or Medicine in 1959 for his work at Stanford.[204] By studying bacteria, Kornberg succeeded in isolating DNA polymerase in 1956–an enzyme that is active in the formation of DNA.
+- First Transgenic organism – Stanley Cohen and Herbert Boyer were the first scientists to transplant genes from one living organism to another, a fundamental discovery for genetic engineering.[205][206] Thousands of products have been developed on the basis of their work, including human growth hormone and hepatitis B vaccine.
+- Laser – Arthur Leonard Schawlow shared the 1981 Nobel Prize in Physics with Nicolaas Bloembergen and Kai Siegbahn for his work on lasers.[207][208]
+- Nuclear magnetic resonance – Felix Bloch developed new methods for nuclear magnetic precision measurements, which are the underlying principles of MRI.[209][210]
+
+
+
+### Computer and applied sciences
+- ARPANET – Stanford Research Institute, formerly part of Stanford but on a separate campus, was the site of one of the four original ARPANET nodes.[211][212] In the early 1970s, Bob Kahn & Vint Cerf's research project about Internetworking, later DARPA formulated it to the TCP (Transmission Control Protocol).[213]
+- Internet – Stanford was the site where the original design of the Internet was undertaken. Vint Cerf led a research group to elaborate the design of the Transmission Control Protocol (TCP/IP) that he originally co-created with Robert E. Kahn (Bob Kahn) in 1973 and which formed the basis for the architecture of the Internet.[214]
+- Frequency modulation synthesis – John Chowning of the Music department invented the FM music synthesis algorithm in 1967, and Stanford later licensed it to Yamaha Corporation.[215][216]
+- Google – Google began in January 1996 as a research project by Larry Page and Sergey Brin, when they were both PhD students at Stanford.[217] They were working on the Stanford Digital Library Project (SDLP) which is started in 1999. The SDLP's goal was "to develop the enabling technologies for a single, integrated and universal digital library",[218] and it was funded through the National Science Foundation, among other federal agencies.[219] Today, Google stands as one of the most valuable brands in the world.
+- Klystron tube – invented by the brothers Russell and Sigurd Varian at Stanford.[220] Their prototype was completed and demonstrated successfully on August 30, 1937.[221] Upon publication in 1939, news of the klystron immediately influenced the work of U.S. and UK researchers working on radar equipment.[222][223]
+- RISC – ARPA funded VLSI project of microprocessor design. Stanford and UC Berkeley are most associated with the popularization of this concept. The Stanford MIPS would go on to be commercialized as the successful MIPS architecture, while Berkeley RISC gave its name to the entire concept, commercialized as the SPARC. Another success from this era were IBM's efforts that eventually led to the IBM POWER instruction set architecture, PowerPC, and Power ISA. As these projects matured, a wide variety of similar designs flourished in the late 1980s and especially the early 1990s, representing a major force in the Unix workstation market as well as embedded processors in laser printers, routers and similar products.[224]
+- SUN workstation – Andy Bechtolsheim designed the SUN workstation,[225] for the Stanford University Network communications project as a personal CAD workstation,[226] which led to Sun Microsystems.
+- MIMO - Arogyaswami Paulraj and Thomas Kailath invented multiple-input and multiple-output (MIMO) radio communications, which involves simultaneously using multiple antennas on receivers and transmitters. Invented in 1992, MIMO is an essential element in many modern wireless technologies today.[227]
+
+
+
+### Businesses and entrepreneurship
+Stanford is one of the most successful universities worldwide in creating companies and licensing its inventions to existing companies, and it is often considered the model for technology transfer. Stanford's Office of Technology Licensing is responsible for commercializing university research, intellectual property, and university-developed projects. The university is described as having a strong venture culture in which students are encouraged, and often funded, to launch their own companies. Companies founded by Stanford alumni generate more than $2.7 trillion in annual revenue and have created some 5.4 million jobs since the 1930s. When combined, these companies would form the tenth-largest economy in the world.
+
+Some notable companies closely associated with Stanford and their connections include:
+
+- Hewlett-Packard, 1939: co-founders William R. Hewlett (B.S, PhD) and David Packard (M.S)[233]
+- Silicon Graphics, 1981: co-founders James H. Clark (Associate Professor) and several of his graduate students[234]
+- Sun Microsystems, 1982:[235] co-founders Vinod Khosla (M.B.A), Andy Bechtolsheim (PhD) and Scott McNealy (M.B.A)
+- Cisco, 1984:[236] co-founders Leonard Bosack (M.S) and Sandy Lerner (M.S) were in charge of the Stanford Computer Science and the Graduate School of Business computer operations groups, respectively, when the hardware was developed[237]
+- Nvidia, 1993:[238] co-founder Jensen Huang (M.S)
+- Yahoo!, 1994:[239] co-founders Jerry Yang (B.S, M.S) and David Filo (M.S)
+- Netflix, 1997:[240] co-founder Reed Hastings (M.S)
+- Google, 1998:[241] co-founders Larry Page (M.S) and Sergey Brin (M.S)
+- PayPal, 1998:[242] co-founders Ken Howery (B.A), Peter Thiel (B.A, J.D), Elon Musk (Accepted into graduate program although never enrolled)[243]
+- VMware, 1998:[244] co-founders Mendel Rosenblum (Professor) and Edouard Bugnion (M.S)
+- LinkedIn, 2002:[245] co-founders Reid Hoffman (B.S), Konstantin Guericke (B.S, M.S), Eric Lee (B.S), and Alan Liu (B.S)
+- Roblox, 2004:[246] co-founder David Baszucki (B.S)
+- YouTube, 2005:[247] co-founder Jawed Karim (M.S)
+- Instagram, 2010:[248] co-founders Kevin Systrom (B.S) and Mike Krieger (B.S)[249]
+- Snapchat, 2011: co-founders Evan Spiegel (B.S), Reggie Brown (B.S) and Bobby Murphy (B.S)[250]
+- Coursera, 2012:[251] co-founders Andrew Ng (Associate Professor) and Daphne Koller (Professor, PhD)
+- DoorDash, 2013:[252] co-founders Tony Xu (M.B.A) and Evan Moore (M.B.A)
+
+
+
+## Student life
+
+### Student body
+| Race and ethnicity             | Total | Total |
+| ------------------------------ | ----- | ----- |
+| Asian                          | 29%   |       |
+| White                          | 23%   |       |
+| Hispanic                       | 17%   |       |
+| Non-resident Foreign nationals | 13%   |       |
+| Other                          | 10%   |       |
+| Black                          | 7%    |       |
+| Native American                | 1%    |       |
+
+
+Stanford enrolled 6,996 undergraduate and 10,253 graduate students in the 2019–2020 school year. Women made up 50.4% of undergraduates and 41.5% of graduate students. In the same academic year, the freshman retention rate was 99%. Stanford awarded 1,819 undergraduate degrees, 2,393 master's degrees, 770 doctoral degrees, and 3270 professional degrees in the 2018–2019 school year. The four-year graduation rate for the class of 2017 cohort was 72.9%, and the six-year rate was 94.4%. The relatively low four-year graduation rate is a function of the university's coterminal degree (or "coterm") program, which allows students to earn a master's degree as a 1-to-2-year extension of their undergraduate program. In 2010, 15% of undergraduates were first-generation students.
+
+
+### Dormitories and student housing
+By 2013, 89% of undergraduate students lived in on-campus university housing. First-year undergraduates are required to live on campus, and all undergraduates are guaranteed housing for all four undergraduate years. Undergraduates live in 80 different houses, including dormitories, co-ops, row houses, and fraternities and sororities. At Manzanita Park, 118 mobile homes were installed as "temporary" housing from 1969 to 1991, but have become the site of newer dorms Castano, Kimball, Lantana, and the Humanities House, completed in 2015. Most student residences are just outside the campus core, within ten minutes (on foot or bike) of most classrooms and libraries. Some are reserved for freshmen, sophomores, or upper-class students and some are open to all four classes. Most residences are co-ed; seven are all-male fraternities, three are all-female sororities, and there is also one all-female non-sorority house, Roth House. In most residences, men and women live on the same floor, but some have single-gender floors.
+
+Several residences are considered "theme" houses; predating the current classification system are Columbae (Social Change Through Nonviolence, since 1970), and Synergy (Exploring Alternatives, since 1972). The Academic, Language, and Culture Houses include EAST (Education and Society Themed House), Hammarskjöld (International Themed House), Haus Mitteleuropa (Central European Themed House), La Casa Italiana (Italian Language and Culture), La Maison Française (French Language and Culture House), Slavianskii Dom (Slavic/East European Themed House), Storey (Human Biology Themed House), and Yost (Spanish Language and Culture). Cross-Cultural Themed Houses include Casa Zapata (Chicano/Latino Theme in Stern Hall), Muwekma-tah-ruk (American Indian/Alaska Native, and Native Hawaiian Themed House), Okada (Asian-American Themed House in Wilbur Hall), and Ujamaa (Black/African-American Themed House in Lagunita Court). Focus Houses include Freshman-Sophomore College (Academic Focus), Branner Hall (Community Service), Kimball (Arts & Performing Arts), Crothers (Global Citizenship), and Toyon (Sophomore Priority).
+
+Co-ops or "Self-Ops" are another housing option. These houses feature cooperative living, where residents and eating associates each contribute work to keep the house running, such as cooking meals or cleaning shared spaces. These houses have unique themes around which their community is centered. Many co-ops are hubs of music, art and philosophy. The co-ops on campus are 576 Alvarado Row (formerly Chi Theta Chi), Columbae, Enchanted Broccoli Forest (EBF), Hammarskjöld, Kairos, Terra (the unofficial LGBT house), and Synergy. Phi Sigma, at 1018 Campus Drive was formerly Phi Sigma Kappa fraternity, but in 1973 became a Self-Op. By 2015, 55 percent of the graduate student population lived on campus. Stanford also subsidizes off-campus apartments in nearby Palo Alto, Menlo Park, and Mountain View for graduate students who are guaranteed on-campus housing but are unable to live on campus due to a lack of space.
+
+
+### Athletics
+In 2016, Stanford had sixteen male varsity sports and twenty female varsity sports, nineteen club sports, and about 27 intramural sports. The Stanford Tree is the Stanford Band's mascot and the unofficial mascot of Stanford University. Stanford's team name is the "Cardinal", referring to the vivid Stanford Cardinal Red color (not the common songbird as at several other schools); the university does not have an official mascot. The Tree has been called one of America's most bizarre and controversial college mascots; it regularly appears at the top of Internet "worst mascot" lists, but has also appeared on at least one list of top mascots. The Tree is a member of the Leland Stanford Junior University Marching Band (LSJUMB) and appears at football games, basketball games, and other events where the band performs.
+
+In 1930, following a unanimous vote by the executive committee for the Associated Students, the athletic department adopted a new mascot (Indian). The Indian symbol and name were dropped by President Richard Lyman in 1972, after objections from Native American students and a vote by the student senate. Stanford is a member of the Atlantic Coast Conference in most sports, the Mountain Pacific Sports Federation in several other sports, and the America East Conference in field hockey with the participation in the inter-collegiate NCAA's Division I FBS. The two official colors of the university are Stanford Cardinal Red and Palo Alto Green.
+
+From 1930 until 1972, Stanford's sports teams had been known as the Indians and during the period from 1951 to 1972, Prince Lightfoot (portrayed by Timm Williams, a member of the Yurok tribe) was the official mascot. But in 1972, Native American students and staff members successfully lobbied University President Richard Lyman to abolish the "Indian" name along with what they had come to perceive as an offensive and demeaning mascot. Stanford's teams reverted unofficially to the name "Cardinal", the color that had represented the school before 1930.
+
+From 1972 until 1981, Stanford's official nickname was the Cardinal, but, during this time, there was debate among students and administrators concerning what the mascot and team name should be. A 1972 student referendum on the issue was in favor of restoring the Indian, while a second 1975 referendum was against. The 1975 vote included new suggestions, many alluding to the industry of the school's founder, tycoon Leland Stanford: the Robber Barons, the Sequoias, the Trees, the Cardinals, the Railroaders, the Spikes, and the Huns.
+Its traditional sports rival is the University of California, Berkeley. The winner of the annual "Big Game" between the Cal and Cardinal football teams gains custody of the Stanford Axe.
+
+As of May 23, 2024, Stanford has won 136 NCAA team championships, more than any other school. Stanford has won at least one NCAA team championship each academic year for 48 consecutive years, from 1976–77 through to 2023–24. As of January 1, 2022, Stanford athletes have also won 529 NCAA individual championships. No other Division I school is within 100 of Stanford's total. Stanford have won 25 consecutive NACDA Directors' Cups, from 1994–1995 through to 2018–19, awarded annually to the most successful overall college sports program in the nation. 177 Stanford-affiliated athletes have won a total of 296 Summer Olympic medals (150 gold, 79 silver, 67 bronze), including 26 medals at the 2020 Tokyo Olympics and 27 medals at the 2016 Rio de Janeiro Olympics. In the 2020 Tokyo Summer Olympics, Stanford-affiliated athletes won 26 medals, more than any other university.
+
+
+### Traditions
+- "Hail, Stanford, Hail!" is the Stanford hymn sometimes sung at ceremonies or adapted by the various university singing groups. It was written in 1892 by mechanical engineering professor Albert W. Smith and his wife, Mary Roberts Smith (in 1896 she earned the first Stanford doctorate in economics and later became associate professor of sociology), but was not officially adopted until after a performance on campus in March 1902 by the Mormon Tabernacle Choir.[286][287]
+- Big Game: The central football rivalry between Stanford and UC Berkeley. First played in 1892, and for a time played by the universities' rugby teams, it is one of the oldest college rivalries in the United States.
+- The Stanford Axe: A trophy earned by the winner of Big Game, exchanged only as necessary. The axe originated in 1899 when Stanford yell leader Billy Erb wielded a lumberman's axe to inspire the team. Stanford lost, and the Axe was stolen by Berkeley students following the game. In 1930, Stanford students staged an elaborate heist to recover the Axe. In 1933, the schools agreed to exchange it as a prize for winning Big Game. As of 2021, a restaurant centrally located on Stanford's campus is named "The Axe and Palm" in reference to the Axe.[288]
+- Big Game Gaieties: In the week ahead of Big Game, a 90-minute original musical (written, composed, produced, and performed by the students of Ram's Head Theatrical Society) is performed in Memorial Auditorium.[289]
+- Full Moon on the Quad: An annual event at Main Quad, where students gather to kiss one another starting at midnight. Typically organized by the junior class cabinet, the festivities include live entertainment, such as music and dance performances.[290]
+- The Stanford Marriage Pact: An annual matchmaking event where thousands of students complete a questionnaire about their values and are subsequently matched with the best person for them to make a "marriage pact" with.[291][292][293][294]
+- Fountain Hopping: At any time of year, students tour Stanford's main campus fountains to dip their feet or swim in some of the university's 25 fountains.[290][295][296]
+- Mausoleum Party: An annual Halloween party at the Stanford Mausoleum, the final resting place of Leland Stanford Jr. and his parents. A 20-year tradition, the Mausoleum party was on hiatus from 2002 to 2005 due to a lack of funding, but was revived in 2006.[290][297] In 2008, it was hosted in Old Union rather than at the actual Mausoleum, because rain prohibited generators from being rented.[298] In 2009, after fundraising efforts by the Junior Class Presidents and the ASSU Executive, the event was able to return to the Mausoleum despite facing budget cuts earlier in the year.[299]
+- Wacky Walk: At commencement, graduates forgo a more traditional entrance and instead stride into Stanford Stadium in a large procession wearing wacky costumes.[296][300]
+- Steam Tunneling: Stanford has a network of underground brick-lined tunnels that conduct central heating to more than 200 buildings via steam pipes. Students sometimes navigate the corridors, rooms, and locked gates, carrying flashlights and water bottles.[301] Stanford Magazine named steam tunneling one of the "101 things you must do" before graduating from the Farm in 2000.[302]
+- Band Run: An annual festivity at the beginning of the school year, where the band picks up freshmen from dorms across campus while stopping to perform at each location, culminating in a finale performance at Main Quad.[290]
+- Viennese Ball: A formal ball with waltzes that was initially started in the 1970s by students returning from the now-closed (since 1987) Stanford in Vienna overseas program. It is now open to all students.[303]
+- The long-unofficial motto of Stanford, selected by President Jordan, is "Die Luft der Freiheit weht."[304] Translated from the German language, this quotation from Ulrich von Hutten means, "The wind of freedom blows." The motto was controversial during World War I, when anything in German was suspect; at that time the university disavowed that this motto was official.[1] It was made official by way of incorporation into an official seal by the board of trustees in December 2002.[305]
+- Degree of Uncommon Man/Uncommon Woman: Stanford does not award honorary degrees,[306][307] but in 1953 the "degree of Uncommon Man/Uncommon Woman" was created by Stanford Associates, part of the Stanford alumni organization, to recognize alumni who give rare and extraordinary service to the university. It is awarded not at prescribed intervals, but instead only when the president of the university deems it appropriate to recognize extraordinary service. Recipients include Herbert Hoover, Bill Hewlett, Dave Packard, Lucile Packard, and John Gardner.[308]
+- Former campus traditions include the Big Game bonfire on Lake Lagunita (a seasonal lake usually dry in the fall), which was formally ended in 1997 because of the presence of endangered salamanders in the lake bed.[309]
+
+
+
+### Religious life
+Students and staff at Stanford are of many different religions. The Stanford Office for Religious Life's mission is "to guide, nurture and enhance spiritual, religious and ethical life within the Stanford University community" by promoting enriching dialogue, meaningful ritual, and enduring friendships among people of all religious backgrounds. It is headed by a dean with the assistance of a senior associate dean and an associate dean.
+Stanford Memorial Church, in the center of campus, has a Sunday University Public Worship service (UPW) usually in the "Protestant Ecumenical Christian" tradition where the Memorial Church Choir sings and a sermon is preached usually by one of the Stanford deans for Religious Life. UPW sometimes has multifaith services. In addition, the church is used by the Catholic community and the other Christian denominations at Stanford. Weddings happen most Saturdays and the university has allowed blessings of same-gender relationships and legal weddings.
+
+In addition to the church, the Office for Religious Life has a Center for Inter-Religious Community, Learning, and Experiences (CIRCLE) on the third floor of Old Union. It offers a common room, an interfaith sanctuary, a seminar room, a student lounge area, and a reading room, as well as offices housing a number of Stanford Associated Religions (SAR) member groups and the Senior Associate Dean and Associate Dean for Religious Life. Most though not all religious student groups belong to SAR. The SAR directory includes organizations that serve atheist, Bahá'í, Buddhist, Christian, Hindu, Muslim, Jewish, and Sikh groups, though these groups vary year by year. The Windhover Contemplation Center was dedicated in October 2014, and was intended to provide spiritual sanctuary for students and staff in the midst of their course and work schedules; the center displays the "Windhover" paintings by Nathan Oliveira, the late Stanford professor and artist. Some religions have a larger and more formal presence on campus in addition to the student groups; these include the Catholic and Hillel communities at Stanford.
+
+
+### Greek life
+Fraternities and sororities have been active on the Stanford campus since 1891 when the university first opened. In 1944, University President Donald Tresidder banned all Stanford sororities due to extreme competition. However, following Title IX, the Board of Trustees lifted the 33-year ban on sororities in 1977. Students are not permitted to join a fraternity or sorority until spring quarter of their freshman year. Stanford has thirty-one Greek organizations, including fourteen sororities and sixteen fraternities. Nine of the Greek organizations were housed (eight in University-owned houses and one, Sigma Chi, in their own house, although the land is owned by the university). Five chapters were members of the African American Fraternal and Sororal Association, eleven chapters were members of the Interfraternity Council, seven chapters belonged to the Intersorority Council, and six chapters belonged to the Multicultural Greek Council.
+
+
+### Student groups
+Stanford has more than 600 student organizations. Groups are often, though not always, partially funded by the university via allocations directed by the student government organization, the ASSU. These funds include "special fees", which are decided by a Spring Quarter vote by the student body. Groups span athletics and recreation, careers/pre-professional, community service, ethnic/cultural, fraternities and sororities, health and counseling, media and publications, the arts, political and social awareness, and religious and philosophical organizations. In contrast to many other selective universities, Stanford policy mandates that all recognized student clubs be "broadly open" for all interested students to join.
+
+The Stanford Daily is a student-run daily newspaper and has been published since the university was founded in 1892. The student-run radio station, KZSU Stanford 90.1 FM, features freeform music programming, sports commentary, and news segments; it started in 1947 as an AM radio station. The Stanford Review is a conservative student newspaper founded in 1987. The Fountain Hopper (FoHo) is a financially independent, anonymous student-run campus rag publication, notable for having broken the Brock Turner story. Stanford hosts numerous environmental and sustainability-oriented student groups, including Students for a Sustainable Stanford, Students for Environmental and Racial Justice, and Stanford Energy Club. Stanford is a member of the Ivy Plus Sustainability Consortium, through which it has committed to best-practice sharing and the ongoing exchange of campus sustainability solutions along with other member institutions.
+
+Stanford is also home to a large number of pre-professional student organizations, organized around missions from startup incubation to paid consulting. The Business Association of Stanford Entrepreneurial Students (BASES) is one of the largest professional organizations in Silicon Valley, with over 5,000 members. Its goal is to support the next generation of entrepreneurs. StartX is a non-profit startup accelerator for student and faculty-led startups. It is staffed primarily by students. Stanford Women In Business (SWIB) is an on-campus business organization, aimed at helping Stanford women find paths to success in the generally male-dominated technology industry. Stanford Marketing is a student group that provides students hands-on training through research and strategy consulting projects with Fortune 500 clients, as well as workshops led by people from industry and professors in the Stanford Graduate School of Business. Stanford Finance provides mentoring and internships for students who want to enter a career in finance. Stanford Pre Business Association is intended to build connections among industry, alumni, and student communities.
+
+Stanford is also home to several academic groups focused on government and politics, including Stanford in Government and Stanford Women in Politics. The Stanford Society for Latin American Politics is Stanford's first student organization focused on the region's political, economic, and social developments, working to increase the representation and study of Latin America on campus. Former guest speakers include José Mujica and Gustavo Petro. Other groups include:
+
+- The Stanford Axe Committee is the official guardian of the Stanford Axe and the rest of the time assists the Stanford Band as a supplementary spirit group. It has existed since 1982.[340]
+- Stanford American Indian Organization (SAIO) which hosts the annual Stanford Powwow started in 1971. This is the largest student-run event on campus and the largest student-run powwow in the country.[341][342]
+- The Stanford Improvisors (SImps for short) teach and perform improvisational theatre on campus and in the surrounding community.[343] In 2014 the group finished second in the Golden Gate Regional College Improv tournament,[344] and they have since been invited twice to perform at the annual San Francisco Improv Festival.[345]
+- Asha for Education is a national student group founded in 1991. It focuses mainly on education in India and supporting nonprofit organizations that work mainly in the education sector. Asha's Stanford chapter organizes events like Holi as well as lectures by prominent leaders from India on the university campus.[346][347][348]
+
+
+
+### Safety
+Stanford's Department of Public Safety is responsible for law enforcement and safety on the main campus. Its deputy sheriffs are peace officers by arrangement with the Santa Clara County Sheriff's Office. The department is also responsible for publishing an annual crime report covering the previous three years as required by the Clery Act. Fire protection has been provided by contract with the Palo Alto Fire Department since 1976. Murder is rare on the campus, although a few cases have been notorious, including the 1974 murder of Arlis Perry in Stanford Memorial Church, which was not solved until 2018. Also infamous was Theodore Streleski's murder of his faculty advisor in 1978.
+
+
+#### Campus sexual misconduct
+In 2014, Stanford was the tenth highest in the nation in "total of reports of rape" on their main campus, with 26 reports of rape. In Stanford's 2015 Campus Climate Survey, 4.7 percent of female undergraduates reported experiencing sexual assault as defined by the university, and 32.9 percent reported experiencing sexual misconduct. According to the survey, 85% of perpetrators of misconduct were Stanford students and 80% were men. Perpetrators of sexual misconduct were frequently aided by alcohol or drugs, according to the survey: "Nearly three-fourths of the students whose responses were categorized as sexual assault indicated that the act was accomplished by a person or persons taking advantage of them when they were drunk or high, according to the survey. Close to 70 percent of students who reported an experience of sexual misconduct involving nonconsensual penetration and/or oral sex indicated the same."
+
+Associated Students of Stanford and student and alumni activists with the anti-rape group Stand with Leah criticized the survey methodology for downgrading incidents involving alcohol if students did not check two separate boxes indicating they were both intoxicated and incapacity while sexually assaulted. Reporting on the Brock Turner rape case, a reporter from The Washington Post analyzed campus rape reports submitted by universities to the U.S. Department of Education, and found that Stanford was one of the top ten universities in campus rapes in 2014, with 26 reported that year, but when analyzed by rapes per 1000 students, Stanford was not among the top ten.
+
+
+#### People v. Turner
+On the night of January 17–18, 2015, 22-year-old Chanel Miller, who was visiting the campus to attend a party at the fraternity Kappa Alpha Order, was sexually assaulted by Brock Turner, a nineteen-year-old freshman student-athlete from Ohio. Two Stanford graduate students witnessed the attack and intervened; when Turner attempted to flee the two held him down on the ground until police arrived. Stanford immediately referred the case to prosecutors and offered Miller counseling, and within two weeks had barred Turner from campus after conducting an investigation. Turner was convicted on three felony charges in March 2016 and in June 2016 he received a jail sentence of six months and was declared a sex offender, requiring him to register as such for the rest of his life; prosecutors had sought a six-year prison sentence out of the maximum 14 years that was possible. The case and the relatively lenient sentence drew nationwide attention. Two years later, the judge in the case, Stanford graduate Aaron Persky, was recalled by the voters.
+
+
+#### Joe Lonsdale
+In February 2015, Elise Clougherty filed a sexual assault and harassment lawsuit against venture capitalist Joe Lonsdale. Lonsdale and Clougherty entered into a relationship in the spring of 2012 when she was a junior and he was her mentor in a Stanford entrepreneurship course. By the spring of 2013 Clougherty had broken off the relationship and filed charges at Stanford that Lonsdale had broken the Stanford policy against consensual relationships between students and faculty and that he had sexually assaulted and harassed her, which resulted in Lonsdale being banned from Stanford for 10 years. Lonsdale challenged Stanford's finding that he had sexually assaulted and harassed her and Stanford rescinded that finding and the campus ban in the fall of 2015. Clougherty withdrew her suit that fall as well.
+
+
+## Notable people
+
+### Award laureates and scholars
+Stanford's current community of scholars includes:
+
+- 2 ACL Lifetime Achievement Award winners;[366]
+- 3 Presidential Medal of Freedom winners;[16][367][368]
+- 3 recipients of the National Medal of Technology;[16]
+- 4 Pulitzer Prize winners;[16]
+- 6 recipients of the National Humanities Medal;[16]
+- 6 Turing Award winners;
+- 7 Wolf Foundation Prize winners;[16]
+- 10 recipients of the National Medal of Science;[16]
+- 14 AAAI fellows;[369]
+- 22 Nobel Prize laureates (as of 2022, 58 affiliates in total);[370][371][372][373][374]
+- 33 MacArthur Fellows;[16]
+- 47 members of American Philosophical Society;[16]
+- 56 fellows of the American Physics Society (since 1995);[375]
+- 90 members of National Academy of Medicine;[16]
+- 113 members of National Academy of Engineering;[16]
+- 174 members of the National Academy of Sciences;[16]
+- 303 members of the American Academy of Arts and Sciences.[16]
+
+
+Stanford's current and former faculty includes 58 Nobel laureates, as well as 29 winners of the Turing Award, the so-called "Nobel Prize in computer science", comprising one-third of the awards given in its 44-year history. The university also has 27 ACM Fellows and is affiliated with four Gödel Prize winners, four Knuth Prize recipients, ten IJCAI Computers and Thought Award winners, and fifteen Grace Murray Hopper Award winners for their work in the foundations of computer science. Stanford alumni have started many companies and, according to Forbes, Stanford has produced the second highest number of billionaires of all universities. By 2022, 128 Stanford students or alumni have also been named Rhodes Scholars.
+
+- Notable Stanford alumni include:
+- Herbert Hoover (SB 1895), 31st President of the United States, founder of Hoover Institution at Stanford. Trustee of Stanford for nearly 50 years.[380]
+- Rishi Sunak (MBA 2006), former Prime Minister of the United Kingdom
+- Yukio Hatoyama (PhD 1976), former Prime Minister of Japan
+- William Rehnquist (AB 1948, AM 1948, LLB 1952) 16th Chief Justice of the United States
+- Sandra Day O'Connor (AB 1950, LLB 1952), former Associate Justice of the Supreme Court of the United States
+- Anthony Kennedy (AB 1958), former Associate Justice of the Supreme Court of the United States
+- Stephen Breyer (AB 1959), former Associate Justice of the Supreme Court of the United States
+- Larry Page (MS 1998), founder of Alphabet Inc.
+- Sergey Brin (MS 1995), founder of Alphabet Inc.
+- Reed Hastings (MS 1988), founder of Netflix Inc.
+- Phil Knight (MBA 1962), founder of Nike Inc.
+- Reid Hoffman (BS 1990), founder of LinkedIn Corporation
+
+
+- Notable present and past Stanford faculty include:
+- Philip Zimbardo
+- Tobias Wolff
+- Condoleezza Rice

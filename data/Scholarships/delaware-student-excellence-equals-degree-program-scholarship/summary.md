@@ -1,0 +1,1 @@
+The Delaware Student Excellence Equals Degree Program Scholarship (Delaware SEED Scholarship) is intended to provide free college tuition to Delaware residents seeking to earn an Associate degree at in-state colleges Delaware Tech and the University of Delaware. Any Delaware high school graduate after 2006 is eligible to apply given certain criteria.

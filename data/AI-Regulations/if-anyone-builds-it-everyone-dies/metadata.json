@@ -1,0 +1,25 @@
+{
+  "id": 79977733,
+  "title": "If Anyone Builds It, Everyone Dies",
+  "url": "https://en.wikipedia.org/wiki/If_Anyone_Builds_It,_Everyone_Dies",
+  "path": "AI-Regulations\\if-anyone-builds-it-everyone-dies",
+  "summary": {
+    "chars": 420,
+    "tokens": 94
+  },
+  "document": {
+    "chars": 8578,
+    "tokens": 1762
+  },
+  "infobox": {
+    "title": "If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All",
+    "data": {
+      "Author": "Eliezer Yudkowsky and Nate Soares",
+      "Subject": "Existential risk from artificial intelligence",
+      "Publisher": "Little, Brown and Company",
+      "Publication date": "16 September 2025",
+      "Pages": "256",
+      "ISBN": "9780316595643"
+    }
+  }
+}

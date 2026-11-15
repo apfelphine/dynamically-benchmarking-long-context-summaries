@@ -1,0 +1,26 @@
+{
+  "id": 64772633,
+  "title": "Margaret Busby New Daughters of Africa Award",
+  "url": "https://en.wikipedia.org/wiki/Daughters_of_Africa",
+  "path": "Scholarships\\margaret-busby-new-daughters-of-africa-award",
+  "summary": {
+    "chars": 1813,
+    "tokens": 387
+  },
+  "document": {
+    "chars": 24204,
+    "tokens": 6060
+  },
+  "infobox": {
+    "title": "Daughters of Africa",
+    "data": {
+      "Editor": "Margaret Busby",
+      "Language": "English",
+      "Genre": "Anthology",
+      "Publication date": "1992",
+      "Publication place": "UK",
+      "Pages": "1127 pp.",
+      "Followed by": "New Daughters of Africa"
+    }
+  }
+}

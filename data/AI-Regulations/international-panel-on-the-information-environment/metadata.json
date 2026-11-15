@@ -1,0 +1,24 @@
+{
+  "id": 76234074,
+  "title": "International Panel on the Information Environment",
+  "url": "https://en.wikipedia.org/wiki/International_Panel_on_the_Information_Environment",
+  "path": "AI-Regulations\\international-panel-on-the-information-environment",
+  "summary": {
+    "chars": 576,
+    "tokens": 108
+  },
+  "document": {
+    "chars": 3113,
+    "tokens": 584
+  },
+  "infobox": {
+    "title": "International Panel on the Information Environment",
+    "data": {
+      "Abbreviation": "IPIE",
+      "Established": "December 2023 (2 years ago)",
+      "Types": "Scientific body, non-governmental organization",
+      "Headquarters": "Zurich, Switzerland",
+      "Website": "www.ipie.info"
+    }
+  }
+}

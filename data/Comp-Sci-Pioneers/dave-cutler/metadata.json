@@ -1,0 +1,24 @@
+{
+  "id": 51793,
+  "title": "Dave Cutler",
+  "url": "https://en.wikipedia.org/wiki/Dave_Cutler",
+  "path": "Comp-Sci-Pioneers\\dave-cutler",
+  "summary": {
+    "chars": 223,
+    "tokens": 57
+  },
+  "document": {
+    "chars": 5411,
+    "tokens": 1190
+  },
+  "infobox": {
+    "title": "Dave Cutler",
+    "data": {
+      "Born": "March 13, 1942 \u00b7 Lansing, Michigan, United States",
+      "Alma mater": "Olivet College",
+      "Known for": "Developing several widely-used commercial operating systems: \u00b7 Microsoft: Windows NT \u00b7 Digital Equipment Corporation: RSX-11M, VMS, VAXELN, MICA",
+      "Fields": "Computer science \u00b7 Operating system design",
+      "Institutions": "DuPont \u00b7 Digital Equipment Corporation \u00b7 Microsoft (Senior Technical Fellow) \u00b7 University of Washington"
+    }
+  }
+}

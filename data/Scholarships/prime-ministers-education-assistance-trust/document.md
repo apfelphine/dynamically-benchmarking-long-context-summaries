@@ -1,0 +1,6 @@
+# Prime Minister's Education Assistance Trust
+
+## History
+On 20 April 2010, Prime Minister Sheikh Hasina sent a written order to the Ministry of Planning to form a trust fund for underprivileged students in Bangladesh. On 31 January 2011, the Ministry of Planning submitted the final proposal for the trust fund to the Planning Commission. On 6 March 2011, the Ministry of Planning sent a semi official plan to the Ministry of Education on the Trust fund. On 12 December 2011, the trust was approved by the Cabinet of Bangladesh. On 11 March 2012, the bill for the Prime Minister's Education Assistance Trust was passed by the Parliament of Bangladesh. In 2013, MD. Nurul Amin (Senior Secretary, Retired) was assigned as the first Managing Director of Prime Minister's Education Assistance Trust.  In 2017, banks in Bangladesh donated 1360 million taka to Prime Minister's Education Assistance Trust, Shuchona Foundation, and the Jatir Janak Bangabandhu Sheikh Mujibur Rahman Memorial Trust.
+
+From 2014 to 2017, 746 thousand students received funding amounting to 4110 million taka. In 2018, 279 thousand students received funding from the Prime Minister's Education Assistance Trust.

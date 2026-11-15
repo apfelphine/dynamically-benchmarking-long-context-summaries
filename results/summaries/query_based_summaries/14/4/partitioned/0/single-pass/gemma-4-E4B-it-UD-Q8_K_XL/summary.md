@@ -1,0 +1,5 @@
+## Stanford University Summary
+
+Stanford University was established in 1885 by Leland and Jane Stanford to commemorate their son, Leland Stanford Jr., and officially opened in 1891. Modeled after Eastern universities, it quickly embraced progressive ideals of accessibility, inclusivity for both men and women, and non-sectarian education. Architecturally, the founders intended to blend English university styles with local California heritage. The university's growth saw the addition of professional graduate schools, including law in 1908, education in 1917, and business in 1925.
+
+Stanford has become a globally recognized institution, evidenced by its high rankings and its role in fostering innovation. It is renowned for its venture culture, with alumni founding companies such as Google, Netflix, and Hewlett-Packard. The university possesses a substantial endowment, one of the four largest in the U.S. It maintains a highly selective admission process, while its research activity is classified as "R1: Doctoral Universities – Very high research activity." Culturally, it hosts annual traditions like "Fountain Hopping" and the "Big Game" rivalry with UC Berkeley.

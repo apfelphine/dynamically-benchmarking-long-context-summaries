@@ -1,0 +1,1 @@
+The provided text contains no information regarding "King's Scholar." The summaries detail information on the Shuping Scholarship, Harkness Fellowship, Thurgood Marshall College Fund, Rhodes Scholarship, Kennedy Scholarship, Marshall Scholarship, Norway Scholarship, Edmund S. Muskie Internship Program, Bright Futures Scholarship Program, Miss America, and British Council.

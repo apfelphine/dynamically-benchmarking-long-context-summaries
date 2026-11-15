@@ -1,0 +1,7 @@
+I am sorry, but the provided text documents contain information about education systems in many countries (e.g., Ireland, Israel, Nigeria, France, Sweden, etc.), but none of the documents contain any information specifically detailing "Education in Nigeria" other than the section dedicated to it.
+
+Based *strictly* on the text provided, here is the concise summary regarding "Education in Nigeria":
+
+Primary education in Nigeria typically begins around age 5 and lasts for six years, concluding with a first school-leaving certificate. Subjects include Mathematics, English language, Christian Religious Knowledge/Islamic Knowledge, Agricultural science, Home economics, and one of the three main indigenous languages (Hausa-Fulani, Yoruba, or Igbo). The Universal Basic Education (UBE), established in 1999, encompasses nine years of uninterrupted schooling, which is designated as "free," "compulsory," and a "right" for every child.
+
+Secondary education bridges primary and tertiary levels. The "6-3-3-4" system divides this into three years of Junior Secondary School (JSS) and three years of Senior Secondary School (SSS). JSS covers subjects like Mathematics, English, and Social Studies, while the SSS curriculum is based on four core subjects and four or five elective subjects. Federal-sponsored secondary schools, often "unity schools," are funded and managed by the Federal Government and are admitted based on the National Common Entrance Examination.

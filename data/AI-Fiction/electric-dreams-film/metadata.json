@@ -1,0 +1,34 @@
+{
+  "id": 1335244,
+  "title": "Electric Dreams (film)",
+  "url": "https://en.wikipedia.org/wiki/Electric_Dreams_(film)",
+  "path": "AI-Fiction\\electric-dreams-film",
+  "summary": {
+    "chars": 463,
+    "tokens": 113
+  },
+  "document": {
+    "chars": 8880,
+    "tokens": 1981
+  },
+  "infobox": {
+    "title": "Electric Dreams",
+    "data": {
+      "Directed by": "Steve Barron",
+      "Written by": "Rusty Lemorande",
+      "Produced by": "- Rusty Lemorande - Larry DeWaay",
+      "Starring": "- Lenny Von Dohlen - Virginia Madsen - Maxwell Caulfield - Bud Cort",
+      "Cinematography": "Alex Thomson",
+      "Edited by": "Peter Honess",
+      "Music by": "Giorgio Moroder",
+      "Production \u00b7 company": "Virgin Pictures Ltd.",
+      "Distributed by": "- MGM/UA Entertainment Co. (United States) - 20th Century Fox (United Kingdom)",
+      "Release dates": "- July 20, 1984 (United States) - August 17, 1984 (United Kingdom)",
+      "Running time": "96 minutes",
+      "Countries": "- United Kingdom - United States",
+      "Language": "English",
+      "Budget": "$5.5 million",
+      "Box office": "$2.5 million"
+    }
+  }
+}

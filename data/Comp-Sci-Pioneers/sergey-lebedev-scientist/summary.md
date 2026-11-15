@@ -1,0 +1,1 @@
+Sergey Alekseyevich Lebedev (Russian: Серге́й Алексе́евич Ле́бедев; 2 November, 1902 – 3 July, 1974) was a Soviet scientist in the fields of electrical engineering and computer science, and designer of the first Soviet computers.

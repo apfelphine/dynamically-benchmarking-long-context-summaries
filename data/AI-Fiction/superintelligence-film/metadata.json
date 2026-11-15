@@ -1,0 +1,33 @@
+{
+  "id": 57089154,
+  "title": "Superintelligence (film)",
+  "url": "https://en.wikipedia.org/wiki/Superintelligence_(film)",
+  "path": "AI-Fiction\\superintelligence-film",
+  "summary": {
+    "chars": 588,
+    "tokens": 120
+  },
+  "document": {
+    "chars": 6380,
+    "tokens": 1416
+  },
+  "infobox": {
+    "title": "Superintelligence",
+    "data": {
+      "Directed by": "Ben Falcone",
+      "Written by": "Steve Mallory",
+      "Produced by": "- Ben Falcone - Melissa McCarthy - Rob Cowan",
+      "Starring": "- Melissa McCarthy - Bobby Cannavale - Brian Tyree Henry - James Corden",
+      "Cinematography": "Barry Peterson",
+      "Edited by": "Tia Nolan",
+      "Music by": "Fil Eisler",
+      "Production \u00b7 companies": "- Warner Max - New Line Cinema - Bron Creative - On the Day Productions",
+      "Distributed by": "Warner Bros. Pictures",
+      "Release date": "- November 26, 2020",
+      "Running time": "106 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Box office": "$4.2 million"
+    }
+  }
+}

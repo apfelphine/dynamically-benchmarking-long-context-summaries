@@ -1,0 +1,1 @@
+The Talented Athlete Scholarship Scheme, known as TASS, is a scheme of Sport England (UK government-funded) to find and support prospective talented athletes.

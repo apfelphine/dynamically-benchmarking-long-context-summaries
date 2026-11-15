@@ -1,0 +1,23 @@
+{
+  "id": 10054112,
+  "title": "Skynet (Terminator)",
+  "url": "https://en.wikipedia.org/wiki/Skynet_(Terminator)",
+  "path": "AI-Regulations\\skynet-terminator",
+  "summary": {
+    "chars": 1697,
+    "tokens": 340
+  },
+  "document": {
+    "chars": 21596,
+    "tokens": 4522
+  },
+  "infobox": {
+    "title": "Skynet",
+    "data": {
+      "First appearance": "The Terminator (1984)",
+      "Last appearance": "Terminator: Resistance (2019)",
+      "Created by": "- James Cameron - Gale Anne Hurd",
+      "Portrayed by": "- Helena Bonham Carter - (Terminator Salvation) - Christian Bale - (Terminator Salvation) - Anton Yelchin - (Terminator Salvation) - Matt Smith - (Terminator Genisys) - Ian Etheridge - (age 10; Terminator Genisys) - Nolan Gross - (age 12\u201314; Terminator Genisys) - Seth Meriwether - (age 18; Terminator Genisys)"
+    }
+  }
+}

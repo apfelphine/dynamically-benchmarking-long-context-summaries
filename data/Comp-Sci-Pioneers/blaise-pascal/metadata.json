@@ -1,0 +1,23 @@
+{
+  "id": 4068,
+  "title": "Blaise Pascal",
+  "url": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+  "path": "Comp-Sci-Pioneers\\blaise-pascal",
+  "summary": {
+    "chars": 2253,
+    "tokens": 482
+  },
+  "document": {
+    "chars": 30219,
+    "tokens": 6808
+  },
+  "infobox": {
+    "title": "Blaise Pascal",
+    "data": {
+      "Born": "19 June 1623 \u00b7 Clermont-Ferrand, France",
+      "Died": "19 August 1662 (aged 39) \u00b7 Paris, France",
+      "Father": "\u00c9tienne Pascal",
+      "Relatives": "Marguerite P\u00e9rier (niece) \u00b7 Jacqueline Pascal (sister) \u00b7 Gilberte P\u00e9rier (sister)"
+    }
+  }
+}

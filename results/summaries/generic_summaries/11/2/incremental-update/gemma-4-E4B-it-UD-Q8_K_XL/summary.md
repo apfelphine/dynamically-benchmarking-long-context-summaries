@@ -1,0 +1,9 @@
+AI models utilize diverse architectures, including Transformers, RNNs, GANs (e.g., WGANs), RBF networks, and various neural networks like Autoencoders (AEs) for dimensionality reduction and anomaly detection, with advanced forms such as VAEs and SAEs.
+
+In computer vision, Vision Transformers (ViT) are leading, treating images as patch embeddings and surpassing CNNs post-2020, enhanced by self-supervised methods (MAE, DINO), although ViT requires more data. Specialized variants include Swin Transformer and TimeSformer.
+
+Graph Neural Networks (GNNs) employ Message Passing Layers (MPNNs) to aggregate neighbor data, featuring permutation-equivariant layers and pooling methods. Architectures range from Graph Convolutional Networks (GCNs) to Graph Attention Networks (GATs), and GNNs are widely applied across NLP, social networks, and cybersecurity.
+
+For model interpretability, several Class Activation Mapping (CAM) techniques exist. **Grad-CAM** is model-agnostic, using class score gradients relative to feature maps, while enhancements like **Guided Grad-CAM** and **Grad-CAM++** refine visualizations using higher-order gradients. Score-CAM is a gradient-free method.
+
+Variational Autoencoders (VAEs) function as probabilistic models that approximate the intractable posterior $p_{\theta}(z|x)$ using a parameterized distribution $q_{\phi}(z|x)$. The VAE uses a probabilistic encoder ($E_{\phi}$) and decoder ($D_{\theta}$), optimizing the Evidence Lower Bound (ELBO) by balancing reconstruction error and alignment with a prior $p_{\theta}(z)$. The reparameterization trick enables gradient calculation. VAE variations include $\beta$-VAE (for disentanglement) and CVAE. Furthermore, VAE loss functions can incorporate various statistical distances—such as Sliced Wasserstein, Energy, Maximum Mean Discrepancy (MMD-VAE), Wasserstein (WAE), and kernel-based distances (K-VAE)—to yield specialized VAE flavors.

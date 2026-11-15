@@ -1,0 +1,11 @@
+## University of the Andes (Colombia): Key Facts and Overview
+
+Founded in 1948 by Mario Laserna Pinzón with a mission to provide nonsectarian, non-politically affiliated higher education, the University of the Andes (Universidad de los Andes or Uniandes) is recognized as a leading institution in Colombia for academic excellence and technical training. Modelled after American universities, Uniandes offers an interdisciplinary approach, allowing students to tailor their own curricular programs across cycles in basic professional, socio-humanistic, core professional, and complementary subjects. The university consists of 10 faculties and several specialized academic units, enrolling top-performing students from across Colombia and abroad. International exchange is facilitated through partnerships with over 119 universities globally.
+
+Located in Bogotá's historical center, the campus comprises a blend of renovated historic buildings and modern infrastructure, including over 116 classrooms, 219 laboratories, a central library, five satellite libraries housing more than 445,000 books, sports facilities, and computer rooms with thousands of computers for student use. Uniandes also operates a medical internships center in partnership with Fundación Santa Fe and maintains strong ties to cultural landmarks in Bogotá.
+
+## Governance, Student Life, and Alumni
+
+Uniandes is governed by a Board of Trustees and Board of Directors, maintaining institutional autonomy and a commitment to pluralism, diversity, and critical ethical formation. The university employs mainly full-time faculty, with a significant majority holding doctorates from top universities worldwide. The student body is gender-balanced (55% male, 45% female), and 30% come from outside Bogotá; 95% rank among the top 1% of high school graduates nationally. Academic programs emphasize flexibility, internationalization, and interdisciplinary opportunities for both local and exchange students.
+
+The campus culture includes traditions such as the Seneca goat mascot and annual student events. Notable alumni include former Colombian presidents, government ministers, leading artists, scientists, and innovators, reflecting the institution's impact on national leadership, research, and the arts.

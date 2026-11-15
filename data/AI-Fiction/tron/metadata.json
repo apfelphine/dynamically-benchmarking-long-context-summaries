@@ -1,0 +1,35 @@
+{
+  "id": 312757,
+  "title": "Tron",
+  "url": "https://en.wikipedia.org/wiki/Tron",
+  "path": "AI-Fiction\\tron",
+  "summary": {
+    "chars": 2427,
+    "tokens": 495
+  },
+  "document": {
+    "chars": 34161,
+    "tokens": 7308
+  },
+  "infobox": {
+    "title": "Tron",
+    "data": {
+      "Directed by": "Steven Lisberger",
+      "Screenplay by": "Steven Lisberger",
+      "Story by": "- Steven Lisberger - Bonnie MacBird",
+      "Produced by": "Donald Kushner",
+      "Starring": "- Jeff Bridges - Bruce Boxleitner - David Warner - Cindy Morgan - Barnard Hughes",
+      "Cinematography": "Bruce Logan",
+      "Edited by": "Jeff Gourson",
+      "Music by": "Wendy Carlos",
+      "Production \u00b7 companies": "- Walt Disney Productions - Lisberger-Kushner Productions",
+      "Distributed by": "Buena Vista Distribution",
+      "Release date": "- July 9, 1982",
+      "Running time": "96 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$17 million",
+      "Box office": "$50 million"
+    }
+  }
+}

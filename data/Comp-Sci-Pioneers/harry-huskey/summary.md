@@ -1,0 +1,1 @@
+Harry Douglas Huskey (January 19, 1916 – April 9, 2017) was an American computer design pioneer.

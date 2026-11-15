@@ -1,0 +1,42 @@
+{
+  "id": 31922,
+  "title": "University of California, Berkeley",
+  "url": "https://en.wikipedia.org/wiki/University_of_California,_Berkeley",
+  "path": "Universities\\university-of-california-berkeley",
+  "summary": {
+    "chars": 1700,
+    "tokens": 326
+  },
+  "document": {
+    "chars": 61035,
+    "tokens": 13474
+  },
+  "infobox": {
+    "title": "University of California, Berkeley",
+    "data": {
+      "Former names": "University of California (1868\u20131958)",
+      "Motto": "Fiat lux (Latin)",
+      "Motto in English": "\"Let there be light\"",
+      "Type": "Public land-grant research university",
+      "Established": "March 23, 1868",
+      "Parent institution": "University of California",
+      "Accreditation": "WSCUC",
+      "Academic affiliations": "AAU APRU IARU URA Space-grant",
+      "Endowment": "$2.9 billion (FY2023) \u00b7 (Berkeley only) \u00b7 $4.5 billion (FY2023) \u00b7 (Regents portion)",
+      "Chancellor": "Richard Lyons",
+      "Provost": "Benjamin E. Hermalin",
+      "Total staff": "23,524 (2020)",
+      "Students": "45,307 (fall 2022)",
+      "Undergraduates": "32,479 (fall 2022)",
+      "Postgraduates": "12,828 (fall 2022)",
+      "Location": "Berkeley, California, United States \u00b7 37\u00b052\u203219\u2033N 122\u00b015\u203230\u2033W\ufeff / \ufeff37.87194\u00b0N 122.25833\u00b0W",
+      "Campus": "Core central: 178-acre (72-hectare) \u00b7 Large suburb: 8,164-acre (3,304-hectare)",
+      "Newspaper": "The Daily Californian",
+      "Colors": "Berkeley Blue \u00b7 California Gold",
+      "Nickname": "Golden Bears",
+      "Sporting affiliations": "NCAA Division I FBS \u2013 ACC MPSF America East IRA",
+      "Mascot": "Oski the Bear",
+      "Website": "berkeley.edu"
+    }
+  }
+}

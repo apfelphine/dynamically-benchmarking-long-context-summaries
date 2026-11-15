@@ -1,0 +1,53 @@
+# Scholarships and Fellowships Overview
+
+## Harkness Fellowship
+Founded by the Commonwealth Fund in 1925, initially to enable British graduates to study in the U.S., the Harkness Fellowships expanded to include graduates from other Commonwealth nations. Renamed in 1961, it broadened its scope to health care and related fields since 1997, offering prestigious 12-month fellowships involving research at top U.S. institutions. The program includes seminars and policy briefings, funded by the Commonwealth Fund and partner organizations. Notable alumni span diverse fields including academia, arts, and medicine.
+
+## Shuping Scholarship
+Founded in Shanghai in 1939 by businessman Koo who was inspired to support academically talented but financially disadvantaged youth, the Shuping Scholarship provides continuous educational support coupled with extracurricular and volunteer opportunities. After interruptions due to war and political changes, it resumed in 1986 with government and alumni support. The program now supports thousands yearly across multiple educational levels and maintains an active alumni foundation overseeing its administration.
+
+## Margaret Busby New Daughters of Africa Award
+"Daughters of Africa" is an influential anthology (1992) edited by Margaret Busby featuring writings by over 200 women of African descent, praised for its historical and literary significance. In 2019, "New Daughters of Africa" was published with a broader scope and contributors from various generations. The award linked to the anthology supports African women’s education, with partnerships distributing the book to schools. The anthologies have inspired related works and continue to impact black feminist literary discourse globally.
+
+## Studienstiftung (German Scholarship Foundation)
+Established in 1925 and reformed after WWII, Studienstiftung is Germany’s largest scholarship foundation supporting academically excellent students and doctoral candidates regardless of nationality. Selection includes nomination through schools, professors, competitions, and assessments emphasizing excellence, initiative, and responsibility. It provides financial support, academic enrichment activities, and specialized programs. Notable alumni include Nobel laureates and leaders across sciences, humanities, business, and politics.
+
+## Rhodes Scholarship
+Founded in 1902 through Cecil Rhodes's will, this prestigious international postgraduate scholarship aims to unite English-speaking nations and promote leadership. Open globally since 2018, selection is highly competitive, with stringent criteria focused on scholastic excellence, character, leadership, and service. Despite controversies over colonialist legacies and historical exclusions of women and Black Africans, the scholarship has produced numerous heads of state and notable figures in various fields. It has inspired similar scholarships worldwide.
+
+## Thurgood Marshall College Fund (TMCF)
+Established in 1987 to support public Historically Black Colleges and Universities (HBCUs), TMCF has raised over $500 million for scholarships and programmatic support. It advocates for higher education within its 55-member institutions, distinct from but complementary to the United Negro College Fund. TMCF has expanded through acquisitions and partnerships, led by notable CEOs, and serves a diverse range of HBCUs, predominantly in the U.S. southern states.
+
+## British Council
+Founded in 1934 to promote UK culture and education abroad, the British Council operates in over 100 countries supporting English language learning, cultural exchange, and educational cooperation. It manages English exams, MOOC platforms, mobility programs like Education UK and Erasmus+, and arts initiatives such as the fiveFilms4freedom LGBT film festival. The Council has faced operational challenges including office closures, political controversies, and union issues, but remains a key UK soft power institution.
+
+## UNCF (United Negro College Fund)
+Established in 1944 to fund scholarships for African-American students at member HBCUs, UNCF has supported thousands through grants and fundraising events like the Lou Rawls Parade of Stars. It has garnered major philanthropic support and has notable alumni in politics, arts, and public service. UNCF continues to address educational funding inequities and aid HBCUs’ sustainability.
+
+## Fulbright Program
+Created in 1946 to foster international peace through educational exchange, the Fulbright Program funds scholars and students worldwide for research, teaching, and study. Administered by the U.S. Department of State and partner commissions, it offers various grants spanning undergraduate to professorial levels. The program promotes cultural understanding but has recently faced political challenges, including board resignations over alleged interference and termination in Russia.
+
+## Bolashak Scholarship (Kazakhstan)
+Launched in 1993 by President Nazarbayev, Bolashak funds Kazakhstani youth to study abroad in leading global universities. With over 12,800 scholarships awarded by 2018, it aims to instill Western democratic values. Candidates predominantly ethnic Kazakh due to language requirements, recipients often secure key positions domestically. The program supports study in numerous countries and fields.
+
+## Miss America Pageant
+Originating in 1921 as a beauty contest to boost Atlantic City tourism, the Miss America Pageant evolved into a scholarship competition celebrating talent and academic achievement. The pageant experienced racial integration challenges, with the first African-American contestant entering in 1970 and the first African-American winner in 1983. Reforms in 2018 aimed to reduce emphasis on physical appearance, though some changes have since been reversed. The organization has faced controversies and leadership changes.
+
+## National Merit Scholarship Program
+A U.S. academic competition based on PSAT scores, the National Merit Scholarship identifies high-achieving high school students annually, awarding scholarships to finalists based on academic records and extracurriculars. It includes the National Achievement Scholarship Program targeting Black American students, now transitioned to UNCF support. The program has faced critiques regarding reliance solely on standardized test scores and transparency in selection.
+
+## Marshall Scholarship
+Established in 1953 to honor George C. Marshall and strengthen UK-US ties, it awards distinguished American students to study postgraduate degrees at any UK university. Selection emphasizes academic excellence and leadership potential, often compared to Rhodes Scholarships but more flexible geographically. The Association of Marshall Scholars annually convenes forums fostering UK-US dialogue.
+
+## Kennedy Scholarship
+Created posthumously for U.S. President John F. Kennedy in 1964, this scholarship funds British students to study at Harvard or MIT. Selected by competitive national interviews, criteria include intellectual attainment and potential public impact, paralleling other elite scholarships like Rhodes and Marshall. Trustees include prominent academics and public figures.
+
+## King's Scholar
+Historically, King's Scholars are academically distinguished students at elite UK institutions such as Eton College, Westminster School, and King's College Cambridge. Originating in the 14th and 15th centuries, these scholarships confer privileges and status, with recipients often noted for leadership and intellectual accomplishments. Terms alternate between "King's" and "Queen's" Scholars based on the reigning monarch.
+
+## Norway Scholarship
+Established in 1919 to enable Norwegian students to study at Oxford, it emphasizes exposure to British collegiate life. Funding challenges persisted mid-20th century, but revitalization efforts have maintained the program. It has supported diverse scholars over a century, facilitating academic exchange and fostering UK-Norway educational ties.
+
+---
+
+This summary captures key information on major scholarship and fellowship programs, their history, selection criteria, notable impacts, controversies, and significant alumni, providing an overview of global academic and cultural exchange initiatives.

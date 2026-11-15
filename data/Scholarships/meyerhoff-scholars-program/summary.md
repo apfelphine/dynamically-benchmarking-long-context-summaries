@@ -1,0 +1,1 @@
+The Meyerhoff Scholars Program is a program at the University of Maryland, Baltimore County (UMBC) designed to prepare minority students for academic careers in the science, technology, engineering and math (STEM) disciplines.  The program has served as a model for developing and supporting minority students pursuing academic careers.

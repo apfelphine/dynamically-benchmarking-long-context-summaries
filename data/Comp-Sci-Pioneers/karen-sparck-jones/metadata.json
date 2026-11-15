@@ -1,0 +1,30 @@
+{
+  "id": 17212387,
+  "title": "Karen Sp\u00e4rck Jones",
+  "url": "https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones",
+  "path": "Comp-Sci-Pioneers\\karen-sparck-jones",
+  "summary": {
+    "chars": 851,
+    "tokens": 186
+  },
+  "document": {
+    "chars": 4050,
+    "tokens": 900
+  },
+  "infobox": {
+    "title": "Karen Sp\u00e4rck JonesFBA",
+    "data": {
+      "Born": "Karen Ida Boalth Sp\u00e4rck Jones \u00b7 26 August 1935 \u00b7 Huddersfield, Yorkshire, England",
+      "Died": "4 April 2007 (aged 71) \u00b7 Willingham, Cambridgeshire, England",
+      "Alma mater": "University of Cambridge",
+      "Known for": "Term frequency\u2013inverse document frequency",
+      "Spouse": "Roger Needham \u200b (m. 1958; died 2003)\u200b",
+      "Awards": "- Gerard Salton Award (1988) - AAAI Fellow (1993) - BCS Lovelace Medal (2007)",
+      "Fields": "- Computer science - Information retrieval - Natural language processing - Document retrieval",
+      "Institutions": "University of Cambridge",
+      "Thesis": "Synonymy and Semantic Classification (1964)",
+      "Doctoral advisor": "Richard Braithwaite",
+      "Website": "cl.cam.ac.uk/archive/ksj21"
+    }
+  }
+}

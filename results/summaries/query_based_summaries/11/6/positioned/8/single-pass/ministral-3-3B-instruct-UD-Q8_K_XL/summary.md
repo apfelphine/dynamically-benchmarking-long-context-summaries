@@ -1,0 +1,7 @@
+An **autoencoder** is a type of neural network designed for unsupervised learning, primarily used for dimensionality reduction and feature extraction. It consists of two main components: an **encoder** and a **decoder**.
+
+The **encoder** maps input data into a compressed latent space representation (code), typically with fewer dimensions than the original input. This process involves learning meaningful features that capture the essential structure of the data. The encoder is usually a neural network that transforms the input data into a lower-dimensional representation.
+
+The **decoder** then reconstructs the original input data from this compressed representation. The goal is to minimize the difference between the original input and the reconstructed output, often measured using a loss function like mean squared error. This reconstruction process helps the model learn robust and efficient representations of the data.
+
+Autoencoders are particularly useful in scenarios where the goal is to learn a compact representation of data, such as in image compression, anomaly detection, and feature learning for downstream tasks. Variants like **sparse autoencoders**, **denoising autoencoders**, and **variational autoencoders** introduce additional constraints or mechanisms to improve performance, such as encouraging sparsity or modeling probabilistic distributions.

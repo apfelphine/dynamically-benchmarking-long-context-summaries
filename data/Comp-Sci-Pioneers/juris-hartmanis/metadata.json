@@ -1,0 +1,27 @@
+{
+  "id": 305842,
+  "title": "Juris Hartmanis",
+  "url": "https://en.wikipedia.org/wiki/Juris_Hartmanis",
+  "path": "Comp-Sci-Pioneers\\juris-hartmanis",
+  "summary": {
+    "chars": 309,
+    "tokens": 72
+  },
+  "document": {
+    "chars": 7308,
+    "tokens": 1715
+  },
+  "infobox": {
+    "title": "Juris Hartmanis",
+    "data": {
+      "Born": "July 5, 1928 \u00b7 Riga, Latvia",
+      "Died": "July 29, 2022 (aged 94)",
+      "Education": "- University of Marburg (BS, MS) - University of Missouri, Kansas City (MS) - California Institute of Technology (PhD)",
+      "Awards": "Turing Award (1993)",
+      "Fields": "Computer science",
+      "Institutions": "- General Electric - Cornell University - Ohio State University",
+      "Doctoral advisor": "Robert P. Dilworth",
+      "Doctoral students": "Allan Borodin (1969) \u00b7 Dexter Kozen (1977) \u00b7 Neil Immerman (1980) \u00b7 Jin-Yi Cai (1986)"
+    }
+  }
+}

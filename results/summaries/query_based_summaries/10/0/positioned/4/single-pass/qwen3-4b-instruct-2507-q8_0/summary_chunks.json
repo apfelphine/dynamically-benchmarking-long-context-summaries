@@ -1,0 +1,37 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\nSweden's education system is structured into nine years of compulsory comprehensive school (grundskola), followed by upper secondary education (gymnasieskola), and tertiary education.",
+        "text_original": "Sweden's education system is structured into nine years of compulsory comprehensive school (grundskola), followed by upper secondary education (gymnasieskola), and tertiary education",
+        "idx_start": 25,
+        "idx_end": 207
+    },
+    {
+        "document_idx": null,
+        "text": "# Primary and Secondary Education:\n- **Preschool (F\u00f6rskoleklass):** Offered to children aged 1\u20136, free for those with working parents; provides foundational social and educational skills.\n- **Comprehensive School (Grundskola):** Mandatory from ages 6\u201316, with a structured curriculum including Swedish, mathematics, physical education, English, handicrafts, music, visual arts, technology, physics, chemistry, biology, history, social studies, religion, and geography. Students take a total of 16 compulsory subjects, with an optional foreign language course in grades 6\u20139. A student's total score for university applications is calculated from subject grades (A\u2013E), with E = 10, D = 12.5, C = 15, B = 17.5, and A = 20.\n- **National Tests:** Administered in grades 3, 6, and 9 to ensure consistent assessment, though results are not used for grading before grade 6.\n- **Upper Secondary Education (Gymnasieskola):** Elective, lasting three years, with 18 national programs (e.g., social sciences, business, natural sciences, arts, vocational). Students must pass 8\u201312 subjects to qualify for university. A diploma project is required, which is not included in the university application score.\n- **Admission:** Based on elementary school grades and performance in national exams.",
+        "text_original": "Preschool (F\u00f6rskoleklass):** Offered to children aged 1\u20136, free for those with working parents; provides foundational social and educational skills.\n- **Comprehensive School (Grundskola):** Mandatory from ages 6\u201316, with a structured curriculum including Swedish, mathematics, physical education, English, handicrafts, music, visual arts, technology, physics, chemistry, biology, history, social studies, religion, and geography. Students take a total of 16 compulsory subjects, with an optional foreign language course in grades 6\u20139. A student's total score for university applications is calculated from subject grades (A\u2013E), with E = 10, D = 12.5, C = 15, B = 17.5, and A = 20.\n- **National Tests:** Administered in grades 3, 6, and 9 to ensure consistent assessment, though results are not used for grading before grade 6.\n- **Upper Secondary Education (Gymnasieskola):** Elective, lasting three years, with 18 national programs (e.g., social sciences, business, natural sciences, arts, vocational). Students must pass 8\u201312 subjects to qualify for university. A diploma project is required, which is not included in the university application score.\n- **Admission:** Based on elementary school grades and performance in national exams",
+        "idx_start": 252,
+        "idx_end": 1490
+    },
+    {
+        "document_idx": null,
+        "text": "# Higher Education:\n- **Degrees:** Follow the Bologna Process with bachelor's (3 years), master's (2 years), and doctoral (3\u20134 years) levels. The basic level includes the Higher Education Diploma (120 credits) and Bachelor's degree (180 credits). Advanced levels include the Master's degree (120 credits) and Doctorate (240 credits).\n- **Grading:** Uses a 5-grade scale (A\u2013E), with A\u2013F being pass/fail, and grades converted to ECTS credits for international comparison.\n- **Language Requirements:** All applicants must demonstrate proficiency in Swedish and English via standardized tests (e.g., SweSAT).\n- **Student Aid:** Free tuition for Swedish, EU/EEA, and Swiss citizens; financial aid available through the National Board of Student Aid (CSN).",
+        "text_original": "Degrees:** Follow the Bologna Process with bachelor's (3 years), master's (2 years), and doctoral (3\u20134 years) levels. The basic level includes the Higher Education Diploma (120 credits) and Bachelor's degree (180 credits). Advanced levels include the Master's degree (120 credits) and Doctorate (240 credits).\n- **Grading:** Uses a 5-grade scale (A\u2013E), with A\u2013F being pass/fail, and grades converted to ECTS credits for international comparison.\n- **Language Requirements:** All applicants must demonstrate proficiency in Swedish and English via standardized tests (e.g., SweSAT).\n- **Student Aid:** Free tuition for Swedish, EU/EEA, and Swiss citizens; financial aid available through the National Board of Student Aid (CSN",
+        "idx_start": 1519,
+        "idx_end": 2243
+    },
+    {
+        "document_idx": null,
+        "text": "# Independent Schools (Friskolor):\n- Privately funded, publicly regulated schools that offer the same curriculum as public schools. As of 2008, there were around 900 friskolor, with 15% of primary and 30% of upper secondary pupils attending them. Concerns have been raised about grade inflation and unequal access to quality education.",
+        "text_original": "Privately funded, publicly regulated schools that offer the same curriculum as public schools. As of 2008, there were around 900 friskolor, with 15% of primary and 30% of upper secondary pupils attending them. Concerns have been raised about grade inflation and unequal access to quality education",
+        "idx_start": 2286,
+        "idx_end": 2583
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Features:\n- Emphasis on equality, student-centered learning, and quality education.\n- A strong focus on inclusivity, with support for students with special needs and immigrant communities.\n- The system has faced criticism over student workload, teacher shortages, and regional disparities in educational outcomes.",
+        "text_original": "Emphasis on equality, student-centered learning, and quality education.\n- A strong focus on inclusivity, with support for students with special needs and immigrant communities.\n- The system has faced criticism over student workload, teacher shortages, and regional disparities in educational outcomes",
+        "idx_start": 2606,
+        "idx_end": 2906
+    }
+]

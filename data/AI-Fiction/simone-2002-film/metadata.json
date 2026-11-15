@@ -1,0 +1,34 @@
+{
+  "id": 897540,
+  "title": "Simone (2002 film)",
+  "url": "https://en.wikipedia.org/wiki/Simone_(2002_film)",
+  "path": "AI-Fiction\\simone-2002-film",
+  "summary": {
+    "chars": 522,
+    "tokens": 117
+  },
+  "document": {
+    "chars": 8624,
+    "tokens": 1824
+  },
+  "infobox": {
+    "title": "Simone",
+    "data": {
+      "Directed by": "Andrew Niccol",
+      "Written by": "Andrew Niccol",
+      "Produced by": "Andrew Niccol",
+      "Starring": "- Al Pacino - Catherine Keener - Pruitt Taylor Vince - Jay Mohr",
+      "Cinematography": "Edward Lachman",
+      "Edited by": "Paul Rubell",
+      "Music by": "Carter Burwell",
+      "Production \u00b7 company": "Niccol Films",
+      "Distributed by": "New Line Cinema",
+      "Release date": "- August 23, 2002",
+      "Running time": "118 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$10 million",
+      "Box office": "$19.6 million"
+    }
+  }
+}

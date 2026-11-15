@@ -1,0 +1,37 @@
+{
+  "id": 71968,
+  "title": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+  "url": "https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne",
+  "path": "Universities\\ecole-polytechnique-federale-de-lausanne",
+  "summary": {
+    "chars": 765,
+    "tokens": 173
+  },
+  "document": {
+    "chars": 26073,
+    "tokens": 5960
+  },
+  "infobox": {
+    "title": "EPFL",
+    "data": {
+      "Former names": "\u00c9cole sp\u00e9ciale de Lausanne (1853\u20131869) \u00b7 \u00c9cole polytechnique de l'Universit\u00e9 de Lausanne (1869\u20131969)",
+      "Type": "Public research university",
+      "Established": "January 1, 1969",
+      "Budget": "1.158 billion CHF (2023)",
+      "President": "Anna Fontcuberta i Morral",
+      "Academic staff": "372 professors \u00b7 3,713 (other academic staff) (2023)",
+      "Administrative staff": "2,445 (2023)",
+      "Students": "14,012 (2024)",
+      "Undergraduates": "7,249 (2024)",
+      "Postgraduates": "6,763 (2024)",
+      "Location": "\u00c9cublens, Vaud, Switzerland \u00b7 46\u00b031\u203213\u2033N 6\u00b033\u203256\u2033E\ufeff / \ufeff46.52028\u00b0N 6.56556\u00b0E",
+      "Campus": "Urban, 136 acres (55.0 ha)",
+      "Language": "French, English",
+      "Nationalities": "130+",
+      "University press": "EPFL Press",
+      "Colours": "Swiss red",
+      "Affiliations": "AUF, CESAER, EUA, EuroTech, RESCIF and TIME",
+      "Website": "epfl.ch"
+    }
+  }
+}

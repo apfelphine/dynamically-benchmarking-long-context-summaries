@@ -1,0 +1,21 @@
+{
+  "id": 31353,
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "url": "https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy",
+  "path": "AI-Fiction\\the-hitchhikers-guide-to-the-galaxy",
+  "summary": {
+    "chars": 1678,
+    "tokens": 369
+  },
+  "document": {
+    "chars": 52714,
+    "tokens": 11675
+  },
+  "infobox": {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "data": {
+      "Created by": "Douglas Adams",
+      "Original work": "The Hitchhiker's Guide to the Galaxy Primary and Secondary Phases (1978\u20131980)"
+    }
+  }
+}

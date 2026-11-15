@@ -1,0 +1,2 @@
+Education in Cuba has been a highly ranked system for many years. Following the 1959 revolution, the Castro government nationalized all educational institutions, and created a government operated system. Illiteracy was eliminated. Education expenditures continue to receive high priority. The mean average years of schooling in Cuba is 11.8, as of 2025.
+The University of Havana was founded in 1727 and there are a number of other well-established colleges and universities.

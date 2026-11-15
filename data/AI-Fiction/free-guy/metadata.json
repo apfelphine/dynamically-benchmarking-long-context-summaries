@@ -1,0 +1,35 @@
+{
+  "id": 60203476,
+  "title": "Free Guy",
+  "url": "https://en.wikipedia.org/wiki/Free_Guy",
+  "path": "AI-Fiction\\free-guy",
+  "summary": {
+    "chars": 1714,
+    "tokens": 388
+  },
+  "document": {
+    "chars": 22532,
+    "tokens": 4820
+  },
+  "infobox": {
+    "title": "Free Guy",
+    "data": {
+      "Directed by": "Shawn Levy",
+      "Screenplay by": "- Matt Lieberman - Zak Penn",
+      "Story by": "Matt Lieberman",
+      "Produced by": "- Ryan Reynolds - Shawn Levy - Sarah Schechter - Greg Berlanti - Adam Kolbrenner",
+      "Starring": "- Ryan Reynolds - Jodie Comer - Lil Rel Howery - Utkarsh Ambudkar - Joe Keery - Taika Waititi",
+      "Cinematography": "George Richmond",
+      "Edited by": "Dean Zimmerman",
+      "Music by": "Christophe Beck",
+      "Production \u00b7 companies": "- Berlanti Productions - 21 Laps Entertainment - Maximum Effort - Lit Entertainment Group",
+      "Distributed by": "20th Century Studios",
+      "Release dates": "- August 10, 2021 (Locarno) - August 13, 2021 (United States)",
+      "Running time": "115 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$100\u2013125 million",
+      "Box office": "$331.5 million"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 72599,
+  "title": "Fudan University",
+  "url": "https://en.wikipedia.org/wiki/Fudan_University",
+  "path": "Universities\\fudan-university",
+  "summary": {
+    "chars": 393,
+    "tokens": 89
+  },
+  "document": {
+    "chars": 14652,
+    "tokens": 3197
+  },
+  "infobox": {
+    "title": "Fudan University",
+    "data": {
+      "Former names": "- Fudan Public School (1905) - Fudan College - Private Fudan University (1917\u20131941) - National Fudan University (1941\u20131949)",
+      "Motto": "\u535a\u5b66\u800c\u7b03\u5fd7\uff0c\u5207\u95ee\u800c\u8fd1\u601d",
+      "Motto in English": "Rich in knowledge and tenacious of purposes, inquiring with earnestness and reflecting with self-practice",
+      "Type": "Public",
+      "Established": "14 September 1905",
+      "Founder": "Ma Xiangbo",
+      "President": "Jin Li",
+      "Party Secretary": "Qiu Xin (\u88d8\u65b0)",
+      "Academic staff": "2,700",
+      "Administrative staff": "5,800",
+      "Students": "31,900",
+      "Undergraduates": "14,100",
+      "Postgraduates": "14,800",
+      "Location": "220 Handan Rd., Yangpu District, Shanghai, China",
+      "Campus": "604 acres (244 ha)",
+      "Affiliations": "C9, Universitas 21, AEARU, APRU, BRICS Universities League, Council on Business & Society, ASRMU",
+      "Website": "fudan.edu.cn"
+    }
+  }
+}

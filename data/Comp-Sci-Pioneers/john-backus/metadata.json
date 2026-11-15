@@ -1,0 +1,28 @@
+{
+  "id": 71331,
+  "title": "John Backus",
+  "url": "https://en.wikipedia.org/wiki/John_Backus",
+  "path": "Comp-Sci-Pioneers\\john-backus",
+  "summary": {
+    "chars": 1043,
+    "tokens": 232
+  },
+  "document": {
+    "chars": 5051,
+    "tokens": 1062
+  },
+  "infobox": {
+    "title": "John Backus",
+    "data": {
+      "Born": "John Warner Backus \u00b7 December 3, 1924 \u00b7 Wilmington, Delaware",
+      "Died": "March 17, 2007 (aged 82) \u00b7 Ashland, Oregon",
+      "Education": "University of Virginia \u00b7 University of Pittsburgh \u00b7 Haverford College \u00b7 Columbia University (BS, MS)",
+      "Known for": "Speedcoding \u00b7 FORTRAN \u00b7 ALGOL \u00b7 Backus\u2013Naur form \u00b7 Function-level programming",
+      "Spouses": "Marjorie Jamison \u200b (m. 1947\u2060\u2013\u20601966)\u200b Barbara Una \u200b (m. 1968; died 2004)\u200b",
+      "Children": "2",
+      "Awards": "National Medal of Science (1975) \u00b7 Turing Award (1977) \u00b7 Charles Stark Draper Prize (1993)",
+      "Fields": "Computer science",
+      "Institutions": "IBM"
+    }
+  }
+}

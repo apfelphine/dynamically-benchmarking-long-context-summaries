@@ -1,0 +1,33 @@
+{
+  "id": 67960327,
+  "title": "Atlas (2024 film)",
+  "url": "https://en.wikipedia.org/wiki/Atlas_(2024_film)",
+  "path": "AI-Fiction\\atlas-2024-film",
+  "summary": {
+    "chars": 784,
+    "tokens": 171
+  },
+  "document": {
+    "chars": 8416,
+    "tokens": 1576
+  },
+  "infobox": {
+    "title": "Atlas",
+    "data": {
+      "Directed by": "Brad Peyton",
+      "Written by": "- Leo Sardarian - Aron Eli Coleite",
+      "Produced by": "- Brad Peyton - Jeff Fierson - Joby Harold - Tory Tunnell - Jennifer Lopez - Elaine Goldsmith-Thomas - Benny Medina - Greg Berlanti - Sarah Schechter",
+      "Starring": "- Jennifer Lopez - Simu Liu - Sterling K. Brown - Mark Strong",
+      "Cinematography": "John Schwartzman",
+      "Edited by": "Bob Ducsay",
+      "Music by": "Andrew Lockington",
+      "Production \u00b7 companies": "- ASAP Entertainment - Safehouse Pictures - Nuyorican Productions - Berlanti-Schechter Films",
+      "Distributed by": "Netflix",
+      "Release date": "- May 24, 2024",
+      "Running time": "120 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$100 million"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2010744,
+  "title": "Stealth (film)",
+  "url": "https://en.wikipedia.org/wiki/Stealth_(film)",
+  "path": "AI-Fiction\\stealth-film",
+  "summary": {
+    "chars": 534,
+    "tokens": 120
+  },
+  "document": {
+    "chars": 11981,
+    "tokens": 2654
+  },
+  "infobox": {
+    "title": "Stealth",
+    "data": {
+      "Directed by": "Rob Cohen",
+      "Written by": "W. D. Richter",
+      "Produced by": "- Mike Medavoy - Neal H. Moritz - Laura Ziskin",
+      "Starring": "- Josh Lucas - Jessica Biel - Jamie Foxx - Sam Shepard - Joe Morton - Richard Roxburgh",
+      "Cinematography": "Dean Semler",
+      "Edited by": "Stephen E. Rivkin",
+      "Music by": "BT",
+      "Production \u00b7 companies": "- Columbia Pictures - Phoenix Pictures - Original Film - Laura Ziskin Productions",
+      "Distributed by": "Sony Pictures Releasing",
+      "Release date": "- July 29, 2005",
+      "Running time": "121 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$135 million",
+      "Box office": "$79.3 million"
+    }
+  }
+}

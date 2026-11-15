@@ -1,0 +1,11 @@
+# Global Educational and Philanthropic Initiatives
+
+A wide array of international scholarships supports advanced and undergraduate studies globally. Notable examples include the Rhodes Scholarship, which supports worldwide postgraduate study, and the Fulbright Program, which facilitates global cultural exchanges. Specific awards cater to different needs, such as the Norway Scholarship for law and medicine, the Kennedy Scholarship for merit-based study at top institutions, and the Studienstiftung des deutschen Volkes supporting students from Germany, the EU, or Switzerland.
+
+Various targeted initiatives provide specific support. These include the Florida Bright Futures Scholarship in the US, and programs like the UNCF and TMCF supporting HBCUs. Research and policy funding is also available through initiatives like the Harkness Fellowships, which fund research in Health Care Policy & Practice for international Fellows studying in the US.
+
+# Cultural and Literary Contributions
+
+In the realm of literature, Margaret Busby has curated significant anthologies, such as *New Daughters of Africa* (2019), which focuses on the black feminist literary canon. This work inspired the creation of the Margaret Busby New Daughters of Africa Award for African women students.
+
+In political and public life, Edmund S. Muskie was a prominent Maine politician known for his role in passing the Clean Air Act and the Civil Rights Act of 1964 before serving as Secretary of State. Separately, the Miss America pageant has faced public controversy regarding sexism and racism, leading to its Chapter 11 bankruptcy filing in late 2024.

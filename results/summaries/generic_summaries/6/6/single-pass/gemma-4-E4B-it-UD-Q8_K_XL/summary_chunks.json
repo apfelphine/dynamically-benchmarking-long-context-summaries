@@ -1,0 +1,457 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\n## Life and Education\nBorn in 1848 in Germany, Frege's early life was influenced by philosophical texts in his father's teaching materials. His studies at the University of Jena and later G\u00f6ttingen led to his doctorate in 1873. He married in 1887 and later became a prominent figure in analytic philosophy.",
+        "text_original": "Born in 1848 in Germany, Frege's early life was influenced by philosophical texts in his father's teaching materials. His studies at the University of Jena and later G\u00f6ttingen led to his doctorate in 1873. He married in 1887 and later became a prominent figure in analytic philosophy",
+        "idx_start": 38,
+        "idx_end": 321
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\n## Logician and Philosopher\nFrege is known for pioneering axiomatic predicate logic with his *Begriffsschrift* (1879), which rigorously treated functions and variables, enabling the representation of complex mathematical statements where Aristotelian syllogistic failed. His overarching goal was logicism\u2014proving arithmetic grows from logic\u2014which he explored in *Grundgesetze der Arithmetik* .",
+        "text_original": "Frege is known for pioneering axiomatic predicate logic with his *Begriffsschrift* (1879), which rigorously treated functions and variables, enabling the representation of complex mathematical statements where Aristotelian syllogistic failed. His overarching goal was logicism\u2014proving arithmetic grows from logic\u2014which he explored in *Grundgesetze der Arithmetik",
+        "idx_start": 352,
+        "idx_end": 714
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\n## Key Philosophical Contributions\nHe established the crucial distinction between **sense (** ***Sinn*** **) and reference (** ***Bedeutung*** **)** in his 1892 paper, which profoundly influenced the philosophy of language. As a philosopher of mathematics, he rejected psychologistic explanations for judgment content, striving instead to ground arithmetic purely in logical principles.",
+        "text_original": "He established the crucial distinction between **sense (*Sinn*) and reference (*Bedeutung*)** in his 1892 paper, which profoundly influenced the philosophy of language. As a philosopher of mathematics, he rejected psychologistic explanations for judgment content, striving instead to ground arithmetic purely in logical principles",
+        "idx_start": 753,
+        "idx_end": 1083
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\n## Controversies and Legacy\nHis system encountered a major crisis in 1903 when Bertrand Russell demonstrated Russell's Paradox derived from Frege's Basic Law V. While his logical ideas were slow to gain international recognition until Russell's intervention, his foundational work inspired major developments, including *Principia Mathematica* , G\u00f6del's incompleteness theorems, and Tarski's theory of truth.",
+        "text_original": "His system encountered a major crisis in 1903 when Bertrand Russell demonstrated Russell's Paradox derived from Frege's Basic Law V. While his logical ideas were slow to gain international recognition until Russell's intervention, his foundational work inspired major developments, including *Principia Mathematica*, G\u00f6del's incompleteness theorems, and Tarski's theory of truth",
+        "idx_start": 1114,
+        "idx_end": 1492
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n## Early Life and Education\nGrace Brewster Murray, born in New York City, displayed early curiosity, dismantling alarm clocks at age seven. She earned a B.S. in mathematics and physics from Vassar College in 1928 and an M.S. from Yale in 1930. She later married Vincent Foster Hopper.",
+        "text_original": "Grace Brewster Murray, born in New York City, displayed early curiosity, dismantling alarm clocks at age seven. She earned a B.S. in mathematics and physics from Vassar College in 1928 and an M.S. from Yale in 1930. She later married Vincent Foster Hopper",
+        "idx_start": 1538,
+        "idx_end": 1793
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n## Military and Computing Career\nDuring WWII, Hopper served in the US Navy Reserve, training at the Naval Reserve Midshipmen's School. She worked on the Mark I computer at Harvard. In 1949, she joined Eckert\u2013Mauchly Computer Corporation, contributing to the development of the UNIVAC I.",
+        "text_original": "During WWII, Hopper served in the US Navy Reserve, training at the Naval Reserve Midshipmen's School. She worked on the Mark I computer at Harvard. In 1949, she joined Eckert\u2013Mauchly Computer Corporation, contributing to the development of the UNIVAC I",
+        "idx_start": 1829,
+        "idx_end": 2081
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n## Innovation in Programming\nHopper strongly advocated for programming languages based on English words, persisting despite initial skepticism. Her compiler work led to the development of the A compiler (A-0). Subsequently, she was instrumental in the creation of **COBOL** (Common Business-Oriented Language), capturing her belief that programs should be accessible to non-symbolic users.",
+        "text_original": "Hopper strongly advocated for programming languages based on English words, persisting despite initial skepticism. Her compiler work led to the development of the A compiler (A-0). Subsequently, she was instrumental in the creation of **COBOL** (Common Business-Oriented Language), capturing her belief that programs should be accessible to non-symbolic users",
+        "idx_start": 2113,
+        "idx_end": 2472
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n## Later Work and Legacy\nHopper advocated for distributed computing in the 1970s and developed standards for testing computer components. She retired from the Navy in 1966 and continued consulting at Digital Equipment Corporation (DEC). She was posthumously awarded the Presidential Medal of Freedom in 2016, and her legacy continues through numerous named institutions and awards.",
+        "text_original": "Hopper advocated for distributed computing in the 1970s and developed standards for testing computer components. She retired from the Navy in 1966 and continued consulting at Digital Equipment Corporation (DEC). She was posthumously awarded the Presidential Medal of Freedom in 2016, and her legacy continues through numerous named institutions and awards",
+        "idx_start": 2500,
+        "idx_end": 2855
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\n## Background and Life\nAl-Khw\u0101rizm\u012b, from Persian stock, was active between 813 and 833 CE, most of his work conducted in Baghdad around the House of Wisdom, where he studied various sciences, including translations of Greek and Sanskrit manuscripts.",
+        "text_original": "Al-Khw\u0101rizm\u012b, from Persian stock, was active between 813 and 833 CE, most of his work conducted in Baghdad around the House of Wisdom, where he studied various sciences, including translations of Greek and Sanskrit manuscripts",
+        "idx_start": 2896,
+        "idx_end": 3122
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\n## Mathematical Contributions\nHis primary contribution to mathematics was the development of **algebra** , derived from his book *Al-Jabr* . This work systematized the solving of linear and quadratic equations using methods of \"restoration\" ( *al-jabr* ) and \"balancing\" ( *al-muq\u0101bala* ).",
+        "text_original": "His primary contribution to mathematics was the development of **algebra**, derived from his book *Al-Jabr*. This work systematized the solving of linear and quadratic equations using methods of \"restoration\" (*al-jabr*) and \"balancing\" (*al-muq\u0101bala",
+        "idx_start": 3155,
+        "idx_end": 3405
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\n## Arithmetic and Algorithmic Theory\nHe was also responsible for spreading the **Hindu-Arabic numeral system** across the Middle East and Europe. The Latin translation of his arithmetic text introduced the term **\"algorithm\"** to the West.",
+        "text_original": "He was also responsible for spreading the **Hindu-Arabic numeral system** across the Middle East and Europe. The Latin translation of his arithmetic text introduced the term **\"algorithm\"** to the West",
+        "idx_start": 3447,
+        "idx_end": 3648
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\n## Other Fields\nHis works also covered **astronomy** (including the *Z\u012bj as-Sindhind* ), **trigonometry** , and **geography** ( *Kit\u0101b \u1e62\u016brat al-Ar\u1e0d* ), which significantly corrected Ptolemy's data. Additionally, he authored a treatise on the **Hebrew calendar** .",
+        "text_original": "His works also covered **astronomy** (including the *Z\u012bj as-Sindhind*), **trigonometry**, and **geography** (*Kit\u0101b \u1e62\u016brat al-Ar\u1e0d*), which significantly corrected Ptolemy's data. Additionally, he authored a treatise on the **Hebrew calendar",
+        "idx_start": 3667,
+        "idx_end": 3906
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n## Education and Early Career\nFederico Faggin, born in Italy, studied physics at the University of Padua. He began his career at Olivetti R&D Labs, where he helped design early digital transistor computers.",
+        "text_original": "Federico Faggin, born in Italy, studied physics at the University of Padua. He began his career at Olivetti R&D Labs, where he helped design early digital transistor computers",
+        "idx_start": 3959,
+        "idx_end": 4134
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n## Pioneering Microelectronics\nIn 1967, at SGS-Fairchild, Faggin pioneered the **MOS metal-gate process technology** , subsequently developing the transformative **Silicon-Gate Technology (SGT)** . SGT formed the basis for modern NMOS and CMOS integrated circuits.",
+        "text_original": "In 1967, at SGS-Fairchild, Faggin pioneered the **MOS metal-gate process technology**, subsequently developing the transformative **Silicon-Gate Technology (SGT)**. SGT formed the basis for modern NMOS and CMOS integrated circuits",
+        "idx_start": 4168,
+        "idx_end": 4398
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n## Microprocessor Development\nAt Fairchild, he designed the Fairchild 3708, the first commercial IC using SGT. In 1970, he joined Intel, leading the development of the **MCS-4 family** , which included the **4004** , the world's first single-chip microprocessor. His design methodology was crucial to the success of this chip.",
+        "text_original": "At Fairchild, he designed the Fairchild 3708, the first commercial IC using SGT. In 1970, he joined Intel, leading the development of the **MCS-4 family**, which included the **4004**, the world's first single-chip microprocessor. His design methodology was crucial to the success of this chip",
+        "idx_start": 4431,
+        "idx_end": 4724
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n## Later Career and Consciousness Theory\nFaggin went on to design the Intel 8080 microprocessor and later founded Zilog, designing the Z80. He also co-founded Synaptics, which introduced the touchpad and early touchscreens. In recent years, he developed a theory of consciousness proposing it is a purely **quantum phenomenon** , linking it to quantum physics theorems.",
+        "text_original": "Faggin went on to design the Intel 8080 microprocessor and later founded Zilog, designing the Z80. He also co-founded Synaptics, which introduced the touchpad and early touchscreens. In recent years, he developed a theory of consciousness proposing it is a purely **quantum phenomenon**, linking it to quantum physics theorems",
+        "idx_start": 4768,
+        "idx_end": 5094
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\n## Early Career and OS Development\nAfter studying electrical engineering in Denmark, Brinch Hansen started at Regnecentralen, writing a parser for a COBOL compiler. He moved into hardware group development and, by 1969, led the team defining the architecture and instruction set for the **RC 4000** , creating a small kernel for multiprogramming.",
+        "text_original": "After studying electrical engineering in Denmark, Brinch Hansen started at Regnecentralen, writing a parser for a COBOL compiler. He moved into hardware group development and, by 1969, led the team defining the architecture and instruction set for the **RC 4000**, creating a small kernel for multiprogramming",
+        "idx_start": 5152,
+        "idx_end": 5461
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\n## Foundational Contributions to Computing\nAt Carnegie Mellon, his work, alongside Hoare and Dijkstra, led to the first **monitor notation** and the development of the comprehensive textbook *Operating System Principles* (1973). He later worked at Caltech, developing **Concurrent Pascal** and the **Solo** operating system.",
+        "text_original": "At Carnegie Mellon, his work, alongside Hoare and Dijkstra, led to the first **monitor notation** and the development of the comprehensive textbook *Operating System Principles* (1973). He later worked at Caltech, developing **Concurrent Pascal** and the **Solo** operating system",
+        "idx_start": 5507,
+        "idx_end": 5787
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\n## Concurrent and Distributed Computing\nBrinch Hansen's work established the first book on concurrent programming ( *The Architecture of Concurrent Programs* , 1977). He later proposed **Distributed Processes** in 1978, leading to the concept of **remote procedure calls** . He also created the language Edison and later Joyce, focusing on message passing paradigms.",
+        "text_original": "Brinch Hansen's work established the first book on concurrent programming (*The Architecture of Concurrent Programs*, 1977). He later proposed **Distributed Processes** in 1978, leading to the concept of **remote procedure calls**. He also created the language Edison and later Joyce, focusing on message passing paradigms",
+        "idx_start": 5830,
+        "idx_end": 6152
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n## Wartime Experience\nJacek Karpi\u0144ski's life was marked by the war; after his father's death in 1939, he joined the Polish underground paramilitary scouts. He was severely injured in 1943, losing sight in both eyes, but remained active in the Home Army and participated in the Warsaw Uprising, surviving but remaining paralyzed.",
+        "text_original": "Jacek Karpi\u0144ski's life was marked by the war; after his father's death in 1939, he joined the Polish underground paramilitary scouts. He was severely injured in 1943, losing sight in both eyes, but remained active in the Home Army and participated in the Warsaw Uprising, surviving but remaining paralyzed",
+        "idx_start": 6195,
+        "idx_end": 6500
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n## Early Technological Achievements\nPost-war, he worked in science, building the **AAH** (Analytical Analyzer of Harmonics) in 1957. His major breakthrough was the construction of **AKAT-1 in 1959** , the world's first differential equations analyzer based on transistors.",
+        "text_original": "Post-war, he worked in science, building the **AAH** (Analytical Analyzer of Harmonics) in 1957. His major breakthrough was the construction of **AKAT-1 in 1959**, the world's first differential equations analyzer based on transistors",
+        "idx_start": 6539,
+        "idx_end": 6773
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n## Minicomputer Development and Controversy\nIn 1970, he founded Microcomputers' Construction Plant to build the **K-202** minicomputer, which was technically advanced, featuring microchips, memory segmentation with paging, and high performance. Despite its technical excellence, the project failed to achieve mass production due to unclear political backing and industrial resistance in communist Poland.",
+        "text_original": "In 1970, he founded Microcomputers' Construction Plant to build the **K-202** minicomputer, which was technically advanced, featuring microchips, memory segmentation with paging, and high performance. Despite its technical excellence, the project failed to achieve mass production due to unclear political backing and industrial resistance in communist Poland",
+        "idx_start": 6820,
+        "idx_end": 7179
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n## Later Life and Informant Activity\nAfter the K-202's failure, he returned to the countryside. Tragically, it was later revealed that Karpi\u0144ski had worked as a secret informant for the S\u0142u\u017cba Bezpiecze\u0144stwa from 1961, providing intelligence on Polish technological progress, which led to controversies surrounding his achievements.",
+        "text_original": "After the K-202's failure, he returned to the countryside. Tragically, it was later revealed that Karpi\u0144ski had worked as a secret informant for the S\u0142u\u017cba Bezpiecze\u0144stwa from 1961, providing intelligence on Polish technological progress, which led to controversies surrounding his achievements",
+        "idx_start": 7219,
+        "idx_end": 7513
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\n## Theoretical Foundations and Decision Making\nSimon was heavily influenced by his family's background in science and his mother's brother's work in economics and psychology. His doctoral research led to the concept of **organizational decision-making** , detailed in *Administrative Behavior* (1947).",
+        "text_original": "Simon was heavily influenced by his family's background in science and his mother's brother's work in economics and psychology. His doctoral research led to the concept of **organizational decision-making**, detailed in *Administrative Behavior",
+        "idx_start": 7582,
+        "idx_end": 7826
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\n## Bounded Rationality\nHe challenged the classical *homo economicus* model by arguing that human decision-makers operate under **bounded rationality** due to incomplete knowledge. Rational choice, for Simon, involves selecting the alternative that is both **adequate** to achieve objectives and **efficient** in execution.",
+        "text_original": "He challenged the classical *homo economicus* model by arguing that human decision-makers operate under **bounded rationality** due to incomplete knowledge. Rational choice, for Simon, involves selecting the alternative that is both **adequate** to achieve objectives and **efficient** in execution",
+        "idx_start": 7860,
+        "idx_end": 8158
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\n## AI and Cognitive Science\nSimon was a pioneer in **Artificial Intelligence** , co-developing the **Logic Theory Machine (1956)** and the **General Problem Solver (GPS) (1957)** with Allen Newell. He also contributed to the theory of **emotional cognition** , arguing that machines could not replicate human emotions.",
+        "text_original": "Simon was a pioneer in **Artificial Intelligence**, co-developing the **Logic Theory Machine (1956)** and the **General Problem Solver (GPS) (1957)** with Allen Newell. He also contributed to the theory of **emotional cognition**, arguing that machines could not replicate human emotions",
+        "idx_start": 8189,
+        "idx_end": 8476
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\n## Nobel Prize and Legacy\nSimon's work bridged economics and psychology, earning him the Nobel Prize in 1978 for his research on decision-making. His later work explored models of human cognition, such as the EPAM theory, and he emphasized the role of **practice** in developing expertise, influencing modern pedagogy.",
+        "text_original": "Simon's work bridged economics and psychology, earning him the Nobel Prize in 1978 for his research on decision-making. His later work explored models of human cognition, such as the EPAM theory, and he emphasized the role of **practice** in developing expertise, influencing modern pedagogy",
+        "idx_start": 8505,
+        "idx_end": 8796
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\n## Education and Early Work\nBorn in Canada, Iverson earned his Ph.D. from Harvard University in 1954, where he worked with Wassily Leontief on input-output models. He was instrumental in establishing the first graduate program in \"automatic data processing\" at Harvard.",
+        "text_original": "Born in Canada, Iverson earned his Ph.D. from Harvard University in 1954, where he worked with Wassily Leontief on input-output models. He was instrumental in establishing the first graduate program in \"automatic data processing\" at Harvard",
+        "idx_start": 8848,
+        "idx_end": 9088
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\n## Development of APL\nAt IBM starting in 1960, Iverson met Adin Falkoff. Together, they used Iverson's unique notation to formally describe the **IBM System/360** computer in 1964, leading to the development of **APL** (A Programming Language). The formal description drove the language's evolution and spurred interest from young minds, leading to the Grace Murray Hopper Award in 1973.",
+        "text_original": "At IBM starting in 1960, Iverson met Adin Falkoff. Together, they used Iverson's unique notation to formally describe the **IBM System/360** computer in 1964, leading to the development of **APL** (A Programming Language). The formal description drove the language's evolution and spurred interest from young minds, leading to the Grace Murray Hopper Award in",
+        "idx_start": 9113,
+        "idx_end": 9472
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\n## Professional Evolution\nIverson moved to I.P. Sharp Associates (1980\u20131987), where he continued to extend APL, leading to the development of **Rationalized APL** . In 1990, he founded Jsoftware Inc., where he invented **\"fork\"** in 1988, a feature that enabled tacit expressions, leading to the creation of the **J programming language** .",
+        "text_original": "Iverson moved to I.P. Sharp Associates (1980\u20131987), where he continued to extend APL, leading to the development of **Rationalized APL**. In 1990, he founded Jsoftware Inc., where he invented **\"fork\"** in 1988, a feature that enabled tacit expressions, leading to the creation of the **J programming language",
+        "idx_start": 9506,
+        "idx_end": 9815
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\n## Philosophy of Programming\nDijkstra is renowned for his rigorous and elegant approach to programming. He famously argued that \"Go To statement considered harmful\" (1968), advocating for **structured programming** over unstructured jumps. He emphasized that it is the programmer's business to design *classes of computations* that display desired behavior, not merely to make programs.",
+        "text_original": "Dijkstra is renowned for his rigorous and elegant approach to programming. He famously argued that \"Go To statement considered harmful\" (1968), advocating for **structured programming** over unstructured jumps. He emphasized that it is the programmer's business to design *classes of computations* that display desired behavior, not merely to make programs",
+        "idx_start": 9870,
+        "idx_end": 10226
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\n## Key Technical Contributions\nHis work at the Mathematisch Centrum led to the development of the first compiler for **ALGOL 60** . Later, at Eindhoven University of Technology, he built the **THE operating system** , which introduced **software-based paged virtual memory** , influencing subsequent OS designs.",
+        "text_original": "His work at the Mathematisch Centrum led to the development of the first compiler for **ALGOL 60**. Later, at Eindhoven University of Technology, he built the **THE operating system**, which introduced **software-based paged virtual memory**, influencing subsequent OS designs",
+        "idx_start": 10260,
+        "idx_end": 10536
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\n## Concurrency and Modern Impact\nHe and Hoare co-developed the **monitor concept** and published the first monitor notation. His 1978 paper on **Distributed Processes** introduced the concept of **remote procedure calls** . Dijkstra\u2019s influence is cemented by his algorithm for finding the **shortest path** through a network and the concept of **self-stabilization** .",
+        "text_original": "He and Hoare co-developed the **monitor concept** and published the first monitor notation. His 1978 paper on **Distributed Processes** introduced the concept of **remote procedure calls**. Dijkstra\u2019s influence is cemented by his algorithm for finding the **shortest path** through a network and the concept of **self-stabilization",
+        "idx_start": 10572,
+        "idx_end": 10903
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\n## Foundations in Mathematics and Logic\nGeorge Boole, a self-taught mathematician, was recognized as the first professor of mathematics at Queen's College, Cork (1849). He published seminal works on differential equations and analysis.",
+        "text_original": "George Boole, a self-taught mathematician, was recognized as the first professor of mathematics at Queen's College, Cork (1849). He published seminal works on differential equations and analysis",
+        "idx_start": 10963,
+        "idx_end": 11157
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\n## Boolean Algebra\nHis most enduring contribution was the pamphlet *Mathematical Analysis of Logic* (1847), which founded what is now known as **Boolean algebra** . He systematized Aristotelian logic, establishing a foundation for symbolic logic and introducing the **principle of wholistic reference** .",
+        "text_original": "His most enduring contribution was the pamphlet *Mathematical Analysis of Logic* (1847), which founded what is now known as **Boolean algebra**. He systematized Aristotelian logic, establishing a foundation for symbolic logic and introducing the **principle of wholistic reference",
+        "idx_start": 11179,
+        "idx_end": 11459
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\n## Legacy in Computing\nBoole's logical framework provided the essential theoretical grounding for the **Information Age** . Claude Shannon recognized his work in 1937, proving that Boolean algebra could be used to optimize the design of electromechanical relays, which underpins all modern electronic digital computers.",
+        "text_original": "Boole's logical framework provided the essential theoretical grounding for the **Information Age**. Claude Shannon recognized his work in 1937, proving that Boolean algebra could be used to optimize the design of electromechanical relays, which underpins all modern electronic digital computers",
+        "idx_start": 11487,
+        "idx_end": 11781
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\n## Information Theory Foundation\nClaude Shannon's 1948 paper, *A Mathematical Theory of Communication* , established the field of **information theory** . He developed **information entropy** as a quantifiable measure of uncertainty reduced by a message, essentially inventing the concept of information as a measure of freedom of choice.",
+        "text_original": "Claude Shannon's 1948 paper, *A Mathematical Theory of Communication*, established the field of **information theory**. He developed **information entropy** as a quantifiable measure of uncertainty reduced by a message, essentially inventing the concept of information as a measure of freedom of choice",
+        "idx_start": 11834,
+        "idx_end": 12136
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\n## Digital Circuit Design\nIn 1937, his master's thesis demonstrated that **Boolean algebra** concepts could be mapped directly onto switching circuits using electrical relays. This work provided the fundamental theoretical basis for all modern **electronic digital computers** , changing circuit design from an art to a science.",
+        "text_original": "In 1937, his master's thesis demonstrated that **Boolean algebra** concepts could be mapped directly onto switching circuits using electrical relays. This work provided the fundamental theoretical basis for all modern **electronic digital computers**, changing circuit design from an art to a science",
+        "idx_start": 12165,
+        "idx_end": 12465
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\n## AI and Communication\nShannon designed **Theseus, the mouse** in 1950, an early learning machine, inspiring the field of AI. His wartime research included inventing **signal-flow graphs** (1942) and proving that the one-time pad is unbreakable, which laid groundwork for modern cryptography. He also estimated the complexity of chess (the \"Shannon number\").",
+        "text_original": "Shannon designed **Theseus, the mouse** in 1950, an early learning machine, inspiring the field of AI. His wartime research included inventing **signal-flow graphs** (1942) and proving that the one-time pad is unbreakable, which laid groundwork for modern cryptography. He also estimated the complexity of chess (the \"Shannon number",
+        "idx_start": 12492,
+        "idx_end": 12824
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\n## Historical Context and Religious Vision\nRamon Llull, a patrician from Majorca, experienced visions in 1263 that inspired him to dedicate his life to promoting Christianity and teaching universal logic. He extensively studied both Christian and Muslim theological thought, learning Arabic.",
+        "text_original": "Ramon Llull, a patrician from Majorca, experienced visions in 1263 that inspired him to dedicate his life to promoting Christianity and teaching universal logic. He extensively studied both Christian and Muslim theological thought, learning Arabic",
+        "idx_start": 12886,
+        "idx_end": 13133
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\n## Llull's Art and Combinatorial Logic\nHis central innovation is **Llull's Art** , a combinatorial system designed to prove statements about God and Creation. The Art uses diagrams and letters, giving it an **algebraic or algorithmic character** . It progressed through a Quaternary Phase and a Ternary Phase, culminating in the *Ars generalis ultima* .",
+        "text_original": "His central innovation is **Llull's Art**, a combinatorial system designed to prove statements about God and Creation. The Art uses diagrams and letters, giving it an **algebraic or algorithmic character**. It progressed through a Quaternary Phase and a Ternary Phase, culminating in the *Ars generalis ultima",
+        "idx_start": 13175,
+        "idx_end": 13484
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\n## Influence and Reception\nLlull urged the study of Arabic and founded language schools for missionaries. While his Art was initially met with academic resistance and later condemned by the Inquisition, its influence resonated through later thinkers like Nicholas of Cusa and Gottfried Leibniz, with some scholars viewing his Art as a precursor to modern computation theory.",
+        "text_original": "Llull urged the study of Arabic and founded language schools for missionaries. While his Art was initially met with academic resistance and later condemned by the Inquisition, its influence resonated through later thinkers like Nicholas of Cusa and Gottfried Leibniz, with some scholars viewing his Art as a precursor to modern computation theory",
+        "idx_start": 13515,
+        "idx_end": 13861
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\n## Contributions to Computer Science Theory and Practice\nDonald Knuth is a computer scientist and author whose work defined modern computer science methodology. He authored **The Art of Computer Programming (TAOCP)** , a monumental series that provides a deep theoretical treatment of algorithms.",
+        "text_original": "Donald Knuth is a computer scientist and author whose work defined modern computer science methodology. He authored **The Art of Computer Programming (TAOCP)**, a monumental series that provides a deep theoretical treatment of algorithms",
+        "idx_start": 13936,
+        "idx_end": 14173
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\n## Software Engineering and Typesetting\nHis pursuit of clarity led him to invent **TeX** and **Metafont** in the 1970s, revolutionizing digital typesetting. He also pioneered **literate programming** , viewing programs as works of literature where the explanation of the program is as important as the code itself, embodied in the WEB system.",
+        "text_original": "His pursuit of clarity led him to invent **TeX** and **Metafont** in the 1970s, revolutionizing digital typesetting. He also pioneered **literate programming**, viewing programs as works of literature where the explanation of the program is as important as the code itself, embodied in the WEB system",
+        "idx_start": 14216,
+        "idx_end": 14516
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\n## Academic and Other Works\nHe also authored *Concrete Mathematics: A Foundation for Computer Science* , providing necessary mathematical tools for CS students. Knuth holds numerous prestigious awards, including the Turing Award, and his writings have significantly shaped how computer science is studied and taught.",
+        "text_original": "He also authored *Concrete Mathematics: A Foundation for Computer Science*, providing necessary mathematical tools for CS students. Knuth holds numerous prestigious awards, including the Turing Award, and his writings have significantly shaped how computer science is studied and taught",
+        "idx_start": 14547,
+        "idx_end": 14833
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\n## Musical Style and Futurism\nGeorge Johann Carl Antheil was an avant-garde composer from a German immigrant family. Raised in a musical environment, his early exposure to Dadaism led him to compose \"mechanical music,\" treating the piano as a percussion instrument.",
+        "text_original": "George Johann Carl Antheil was an avant-garde composer from a German immigrant family. Raised in a musical environment, his early exposure to Dadaism led him to compose \"mechanical music,\" treating the piano as a percussion instrument",
+        "idx_start": 14883,
+        "idx_end": 15117
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\n## Ballet M\u00e9canique\nHis most famous work is **Ballet M\u00e9canique** , which was scored for numerous synchronized player pianos. This piece, which embodies the rhythm of machinery, was a radical work of futurism, linking music directly to industrial mechanics.",
+        "text_original": "His most famous work is **Ballet M\u00e9canique**, which was scored for numerous synchronized player pianos. This piece, which embodies the rhythm of machinery, was a radical work of futurism, linking music directly to industrial mechanics",
+        "idx_start": 15140,
+        "idx_end": 15374
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\n## Frequency-Hopping Radio Invention\nDuring WWII, Antheil collaborated with Hedy Lamarr to develop the concept of **frequency hopping** by using a player piano roll to randomly change signals across 88 frequencies. This invention, patented in 1942, shares concepts with modern spread-spectrum communication.",
+        "text_original": "During WWII, Antheil collaborated with Hedy Lamarr to develop the concept of **frequency hopping** by using a player piano roll to randomly change signals across 88 frequencies. This invention, patented in 1942, shares concepts with modern spread-spectrum communication",
+        "idx_start": 15414,
+        "idx_end": 15683
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\n## Early Career and Architectural Innovation\nLynn Conway began her career at IBM Research, contributing to the **Advanced Computing Systems (ACS) project** , where she helped invent multiple-issue out-of-order dynamic instruction scheduling, a design recognized as a precursor to **superscalar** architecture.",
+        "text_original": "Lynn Conway began her career at IBM Research, contributing to the **Advanced Computing Systems (ACS) project**, where she helped invent multiple-issue out-of-order dynamic instruction scheduling, a design recognized as a precursor to **superscalar** architecture",
+        "idx_start": 15745,
+        "idx_end": 16007
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\n## VLSI Revolution and Design Methodologies\nAfter transitioning her identity, she joined Xerox PARC in 1973. There, she co-authored *Introduction to VLSI Systems* with Carver Mead, founding the **multiproject wafers (MPW)** technology. Her invention of dimensionless, scalable design rules and the creation of the **MOSIS** system addressed the complexity of chip design, initiating the modern VLSI foundry model.",
+        "text_original": "After transitioning her identity, she joined Xerox PARC in 1973. There, she co-authored *Introduction to VLSI Systems* with Carver Mead, founding the **multiproject wafers (MPW)** technology. Her invention of dimensionless, scalable design rules and the creation of the **MOSIS** system addressed the complexity of chip design, initiating the modern VLSI foundry model",
+        "idx_start": 16054,
+        "idx_end": 16422
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\n## Career and Activism\nConway later worked at DARPA and taught at the University of Michigan. She coined the term **Conway effect** to describe the historical overlooking of innovators like herself. She is also a prominent transgender rights activist.",
+        "text_original": "Conway later worked at DARPA and taught at the University of Michigan. She coined the term **Conway effect** to describe the historical overlooking of innovators like herself. She is also a prominent transgender rights activist",
+        "idx_start": 16448,
+        "idx_end": 16675
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\n## AI Research and Neural Networks\nGeoffrey Hinton is a foundational figure in AI, known for his work on **neural networks** . He co-invented **Boltzmann machines** with David Ackley and Terry Sejnowski in 1985. With Rumelhart and Williams, he applied the **backpropagation algorithm** to multi-layer neural networks, demonstrating they could learn useful representations.",
+        "text_original": "Geoffrey Hinton is a foundational figure in AI, known for his work on **neural networks**. He co-invented **Boltzmann machines** with David Ackley and Terry Sejnowski in 1985. With Rumelhart and Williams, he applied the **backpropagation algorithm** to multi-layer neural networks, demonstrating they could learn useful representations",
+        "idx_start": 16731,
+        "idx_end": 17066
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\n## Recent Philosophical Stance and Skepticism\nSince resigning from Google in 2023, Hinton has expressed growing **skepticism and concern regarding the rapid progress of AI** . He warns of existential risks, including AI takeover, catastrophic misuse by malicious actors, and severe societal economic disruption, urging government regulation.",
+        "text_original": "Since resigning from Google in 2023, Hinton has expressed growing **skepticism and concern regarding the rapid progress of AI**. He warns of existential risks, including AI takeover, catastrophic misuse by malicious actors, and severe societal economic disruption, urging government regulation",
+        "idx_start": 17115,
+        "idx_end": 17408
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\n## Major Awards and Impact\nHe, along with Yann LeCun and Yoshua Bengio, was awarded the **Turing Award in 2018** . Hinton\u2019s work is foundational to modern machine learning, and his 2024 Nobel Prize in Physics with John Hopfield recognized his role in enabling machine learning.",
+        "text_original": "He, along with Yann LeCun and Yoshua Bengio, was awarded the **Turing Award in 2018**. Hinton\u2019s work is foundational to modern machine learning, and his 2024 Nobel Prize in Physics with John Hopfield recognized his role in enabling machine learning",
+        "idx_start": 17438,
+        "idx_end": 17686
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\n## Completeness and Incompleteness Theorems\nKurt G\u00f6del's monumental achievement was his **Incompleteness Theorems** (1931), which demonstrated that any formal axiomatic system powerful enough to encompass arithmetic will contain true but unprovable statements, and that the system's consistency cannot be proven from within itself. These theorems fundamentally reshaped modern logic.",
+        "text_original": "Kurt G\u00f6del's monumental achievement was his **Incompleteness Theorems** (1931), which demonstrated that any formal axiomatic system powerful enough to encompass arithmetic will contain true but unprovable statements, and that the system's consistency cannot be proven from within itself. These theorems fundamentally reshaped modern logic",
+        "idx_start": 17746,
+        "idx_end": 18084
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\n## Early Work and Intellectual Life\nStarting in Vienna, G\u00f6del was drawn to mathematical logic, influenced by the work of Hilbert. He also explored ideas of **computability** and **recursive functions** . His academic life was marked by periods of illness and mental instability.",
+        "text_original": "Starting in Vienna, G\u00f6del was drawn to mathematical logic, influenced by the work of Hilbert. He also explored ideas of **computability** and **recursive functions**. His academic life was marked by periods of illness and mental instability",
+        "idx_start": 18123,
+        "idx_end": 18363
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\n## Set Theory and Metaphysics\nIn the 1930s, he proved the consistency of the axiom of choice and the continuum hypothesis within the **constructible universe** . Later, he developed **G\u00f6del's ontological proof** for the existence of God, reflecting his rationalistic and theological worldview, which he maintained throughout his life.",
+        "text_original": "In the 1930s, he proved the consistency of the axiom of choice and the continuum hypothesis within the **constructible universe**. Later, he developed **G\u00f6del's ontological proof** for the existence of God, reflecting his rationalistic and theological worldview, which he maintained throughout his life",
+        "idx_start": 18396,
+        "idx_end": 18698
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\n## Biography and Engineering Practice\nAl-Jazari, active in the 12th and 13th centuries, was a practical engineer who served as a chief engineer at the Artuklu Palace. His *Book of Knowledge of Ingenious Mechanical Devices* showcases devices built through empirical trial and error, akin to a modern \"do-it-yourself\" manual.",
+        "text_original": "Al-Jazari, active in the 12th and 13th centuries, was a practical engineer who served as a chief engineer at the Artuklu Palace. His *Book of Knowledge of Ingenious Mechanical Devices* showcases devices built through empirical trial and error, akin to a modern \"do-it-yourself\" manual",
+        "idx_start": 18758,
+        "idx_end": 19042
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\n## Mechanical Innovations\nHe is credited with significant mechanical inventions, including the description of the **camshaft** , an early **crankshaft and crank-slider mechanism** , and an **escapement mechanism** for speed control in rotating wheels.",
+        "text_original": "He is credited with significant mechanical inventions, including the description of the **camshaft**, an early **crankshaft and crank-slider mechanism**, and an **escapement mechanism** for speed control in rotating wheels",
+        "idx_start": 19071,
+        "idx_end": 19293
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\n## Automata and Hydraulics\nAl-Jazari designed complex automata, such as a humanoid **hand-washing automaton with a flush mechanism** and a **musical robot band** . Furthermore, he developed advanced **water-raising machines** , including a twin-cylinder reciprocating piston suction pump, which is considered an ancestor of the steam engine.",
+        "text_original": "Al-Jazari designed complex automata, such as a humanoid **hand-washing automaton with a flush mechanism** and a **musical robot band**. Furthermore, he developed advanced **water-raising machines**, including a twin-cylinder reciprocating piston suction pump, which is considered an ancestor of the steam engine",
+        "idx_start": 19323,
+        "idx_end": 19634
+    },
+    {
+        "document_idx": null,
+        "text": "# Stephen Simon\n## Theory of Corporate Decision Making\nHerbert A. Simon's seminal work, *Administrative Behavior* (1947), shifted focus from purely economic models to **human decision-making** in organizational settings. He rejected the perfect rationality of the *homo economicus* .",
+        "text_original": "Herbert A. Simon's seminal work, *Administrative Behavior* (1947), shifted focus from purely economic models to **human decision-making** in organizational settings. He rejected the perfect rationality of the *homo economicus",
+        "idx_start": 19692,
+        "idx_end": 19917
+    },
+    {
+        "document_idx": null,
+        "text": "# Stephen Simon\n## Bounded Rationality and Satisficing\nSimon introduced the concept of **bounded rationality** , arguing that real-world agents operate with incomplete information. Consequently, decisions are made not by maximizing utility, but by **satisficing** \u2014choosing an option that is \"good enough.\"",
+        "text_original": "Simon introduced the concept of **bounded rationality**, arguing that real-world agents operate with incomplete information. Consequently, decisions are made not by maximizing utility, but by **satisficing**\u2014choosing an option that is \"good enough",
+        "idx_start": 19960,
+        "idx_end": 20207
+    },
+    {
+        "document_idx": null,
+        "text": "# Stephen Simon\n## Contributions to AI and Cognition\nHe was a pioneer in **Artificial Intelligence** , co-developing the **General Problem Solver (GPS)** with Allen Newell. His interest in how humans learn led to the development of the EPAM theory, a model of verbal learning, and later, the **CHREST** computational model.",
+        "text_original": "He was a pioneer in **Artificial Intelligence**, co-developing the **General Problem Solver (GPS)** with Allen Newell. His interest in how humans learn led to the development of the EPAM theory, a model of verbal learning, and later, the **CHREST** computational model",
+        "idx_start": 20248,
+        "idx_end": 20516
+    },
+    {
+        "document_idx": null,
+        "text": "# Stephen Simon\n## Legacy and Nobel Prize\nSimon\u2019s interdisciplinary approach linking psychology and economics led to his Nobel Prize in 1978. His research emphasized the necessity of simulation to study human cognition, influencing fields from economics to computer science.",
+        "text_original": "Simon\u2019s interdisciplinary approach linking psychology and economics led to his Nobel Prize in 1978. His research emphasized the necessity of simulation to study human cognition, influencing fields from economics to computer science",
+        "idx_start": 20545,
+        "idx_end": 20776
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\n*(Note: Claude Shannon was already summarized above, this section is omitted to maintain strict conciseness based on the rule of representing all general topics once.)*",
+        "text_original": "Note: Claude Shannon was already summarized above, this section is omitted to maintain strict conciseness based on the rule of representing all general topics once",
+        "idx_start": 20798,
+        "idx_end": 20961
+    }
+]

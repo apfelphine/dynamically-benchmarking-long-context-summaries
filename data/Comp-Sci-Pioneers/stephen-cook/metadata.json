@@ -1,0 +1,28 @@
+{
+  "id": 39432,
+  "title": "Stephen Cook",
+  "url": "https://en.wikipedia.org/wiki/Stephen_Cook",
+  "path": "Comp-Sci-Pioneers\\stephen-cook",
+  "summary": {
+    "chars": 415,
+    "tokens": 78
+  },
+  "document": {
+    "chars": 6490,
+    "tokens": 1275
+  },
+  "infobox": {
+    "title": "Stephen CookOC OOnt",
+    "data": {
+      "Born": "Stephen Arthur Cook \u00b7 December 14, 1939 \u00b7 Buffalo, New York",
+      "Education": "University of Michigan (BA) \u00b7 Harvard University (MA, PhD)",
+      "Known for": "NP-completeness \u00b7 Propositional proof complexity \u00b7 Cook\u2013Levin theorem",
+      "Awards": "- Turing Award (1982) - G\u00f6del Lecture (1999) - CRM-Fields-PIMS prize (1999) - John L. Synge Award (2006) - Bernard Bolzano Medal (2008) - Gerhard Herzberg Canada Gold Medal for Science and Engineering (2012) - Officer of Order of Canada (2015) - BBVA Foundation Frontiers of Knowledge Award (2015)",
+      "Fields": "Computer Science",
+      "Institutions": "University of Toronto \u00b7 University of California, Berkeley",
+      "Thesis": "On the Minimum Computation Time of Functions (1966)",
+      "Doctoral advisor": "Hao Wang",
+      "Doctoral students": "Mark Braverman \u00b7 Toniann Pitassi \u00b7 Walter Savitch \u00b7 Arvind Gupta \u00b7 Anna Lubiw"
+    }
+  }
+}

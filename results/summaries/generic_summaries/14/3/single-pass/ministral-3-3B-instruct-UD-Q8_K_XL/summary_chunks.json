@@ -1,0 +1,254 @@
+[
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## History\nBerkeley was founded in 1868 as a land-grant university, inheriting facilities from the private College of California. It began admitting women in 1870 and was initially located in Oakland before relocating to Berkeley in 1873. The university gained prominence during the 20th century, particularly for its contributions to scientific research, including the Manhattan Project and the discovery of new chemical elements. The Free Speech Movement in the 1960s marked a pivotal moment in its history, symbolizing student activism. Berkeley\u2019s reputation for political activism, STEM focus, and fundraising has solidified its status as a leading research institution.",
+        "text_original": "Berkeley was founded in 1868 as a land-grant university, inheriting facilities from the private College of California. It began admitting women in 1870 and was initially located in Oakland before relocating to Berkeley in 1873. The university gained prominence during the 20th century, particularly for its contributions to scientific research, including the Manhattan Project and the discovery of new chemical elements. The Free Speech Movement in the 1960s marked a pivotal moment in its history, symbolizing student activism. Berkeley\u2019s reputation for political activism, STEM focus, and fundraising has solidified its status as a leading research institution",
+        "idx_start": 61,
+        "idx_end": 723
+    },
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## Organization and Administration\nBerkeley operates under a semi-autonomous governance system within the University of California system. The university is governed by a 26-member Board of Regents, with a chancellor overseeing operations. The institution is funded by public support, private philanthropy, and government contracts. Notable figures include Nobel laureates such as Ernest Orlando Lawrence and J. Robert Oppenheimer, who played key roles in scientific advancements.",
+        "text_original": "Berkeley operates under a semi-autonomous governance system within the University of California system. The university is governed by a 26-member Board of Regents, with a chancellor overseeing operations. The institution is funded by public support, private philanthropy, and government contracts. Notable figures include Nobel laureates such as Ernest Orlando Lawrence and J. Robert Oppenheimer, who played key roles in scientific advancements",
+        "idx_start": 767,
+        "idx_end": 1211
+    },
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## Academics\nBerkeley is a large, primarily residential research university with a strong emphasis on STEM disciplines. It offers 15 colleges and schools, including the Haas School of Business, Goldman School of Public Policy, and School of Law. The university is known for its rigorous academic programs, with a focus on interdisciplinary research. Berkeley\u2019s library system includes Doe Library, the Bancroft Library, and the Mathematical Sciences Research Institute. The university consistently ranks among the top institutions globally, particularly in STEM fields.",
+        "text_original": "Berkeley is a large, primarily residential research university with a strong emphasis on STEM disciplines. It offers 15 colleges and schools, including the Haas School of Business, Goldman School of Public Policy, and School of Law. The university is known for its rigorous academic programs, with a focus on interdisciplinary research. Berkeley\u2019s library system includes Doe Library, the Bancroft Library, and the Mathematical Sciences Research Institute. The university consistently ranks among the top institutions globally, particularly in STEM fields",
+        "idx_start": 1233,
+        "idx_end": 1788
+    },
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## Notable Discoveries and Innovation\nBerkeley has been instrumental in numerous scientific breakthroughs, including the development of the cyclotron, the discovery of new chemical elements, and advancements in gene editing (CRISPR). Alumni and faculty have founded numerous companies, contributing to Silicon Valley\u2019s innovation ecosystem. The university is also recognized for its environmental initiatives and commitment to sustainability.",
+        "text_original": "Berkeley has been instrumental in numerous scientific breakthroughs, including the development of the cyclotron, the discovery of new chemical elements, and advancements in gene editing (CRISPR). Alumni and faculty have founded numerous companies, contributing to Silicon Valley\u2019s innovation ecosystem. The university is also recognized for its environmental initiatives and commitment to sustainability",
+        "idx_start": 1835,
+        "idx_end": 2238
+    },
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## Campus\nThe Berkeley campus spans approximately 1,232 acres, with the central campus occupying 178 acres. Key landmarks include Hearst Greek Theatre, Doe Memorial Library, and the Lawrence Hall of Science. The campus features a mix of historic and modern architecture, with notable buildings designed by John Galen Howard and Bernard Maybeck. The university is also home to several museums, including the University of California Museum of Paleontology and the Berkeley Art Museum.",
+        "text_original": "The Berkeley campus spans approximately 1,232 acres, with the central campus occupying 178 acres. Key landmarks include Hearst Greek Theatre, Doe Memorial Library, and the Lawrence Hall of Science. The campus features a mix of historic and modern architecture, with notable buildings designed by John Galen Howard and Bernard Maybeck. The university is also home to several museums, including the University of California Museum of Paleontology and the Berkeley Art Museum",
+        "idx_start": 2257,
+        "idx_end": 2729
+    },
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## Student Life and Traditions\nBerkeley\u2019s student life is vibrant, with over 900 student organizations, including political, cultural, and academic groups. The university\u2019s mascot is Oski the Bear, and spirit events like the Big \"C\" and Cal Mic Men are central to campus culture. The university has a strong tradition of activism, with notable protests and demonstrations reflecting its progressive values.",
+        "text_original": "Berkeley\u2019s student life is vibrant, with over 900 student organizations, including political, cultural, and academic groups. The university\u2019s mascot is Oski the Bear, and spirit events like the Big \"C\" and Cal Mic Men are central to campus culture. The university has a strong tradition of activism, with notable protests and demonstrations reflecting its progressive values",
+        "idx_start": 2769,
+        "idx_end": 3143
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## History\nStanford University was founded in 1885 by Leland and Jane Stanford in memory of their son, Leland Stanford Jr. The university initially struggled financially but grew significantly under President Wallace Sterling, who expanded its facilities and student body. Stanford became a leader in technology and innovation, particularly in Silicon Valley, thanks to the contributions of figures like Frederick Terman and William Shockley. The university has faced controversies, including allegations of anti-Semitism and criticism of its handling of sexual misconduct cases.",
+        "text_original": "Stanford University was founded in 1885 by Leland and Jane Stanford in memory of their son, Leland Stanford Jr. The university initially struggled financially but grew significantly under President Wallace Sterling, who expanded its facilities and student body. Stanford became a leader in technology and innovation, particularly in Silicon Valley, thanks to the contributions of figures like Frederick Terman and William Shockley. The university has faced controversies, including allegations of anti-Semitism and criticism of its handling of sexual misconduct cases",
+        "idx_start": 3197,
+        "idx_end": 3764
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## Organization and Administration\nStanford is governed by a board of trustees, with a president overseeing academic and administrative affairs. The university operates on a quarter system and is known for its strong business and engineering programs. Stanford\u2019s endowment is one of the largest in the world, supporting extensive research and development initiatives.",
+        "text_original": "Stanford is governed by a board of trustees, with a president overseeing academic and administrative affairs. The university operates on a quarter system and is known for its strong business and engineering programs. Stanford\u2019s endowment is one of the largest in the world, supporting extensive research and development initiatives",
+        "idx_start": 3808,
+        "idx_end": 4139
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## Academics\nStanford offers a wide range of undergraduate and graduate programs across seven academic schools, including the Stanford School of Business and the School of Engineering. The university is highly ranked globally, particularly in business, engineering, and computer science. Stanford\u2019s library system includes the Hoover Institution Library and the Cantor Center for Visual Arts, among others.",
+        "text_original": "Stanford offers a wide range of undergraduate and graduate programs across seven academic schools, including the Stanford School of Business and the School of Engineering. The university is highly ranked globally, particularly in business, engineering, and computer science. Stanford\u2019s library system includes the Hoover Institution Library and the Cantor Center for Visual Arts, among others",
+        "idx_start": 4161,
+        "idx_end": 4553
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## Notable Discoveries and Innovation\nStanford has been a hub for groundbreaking research, including the development of the laser, the Internet, and advancements in artificial intelligence. Alumni and faculty have founded numerous companies, including Google, Yahoo!, and Sun Microsystems. The university is also recognized for its contributions to renewable energy and sustainability.",
+        "text_original": "Stanford has been a hub for groundbreaking research, including the development of the laser, the Internet, and advancements in artificial intelligence. Alumni and faculty have founded numerous companies, including Google, Yahoo!, and Sun Microsystems. The university is also recognized for its contributions to renewable energy and sustainability",
+        "idx_start": 4600,
+        "idx_end": 4946
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## Campus\nStanford\u2019s main campus spans 8,180 acres, with additional facilities in Palo Alto, Menlo Park, and Redwood City. Key landmarks include the Main Quad, Memorial Church, and the Stanford Mausoleum. The campus features a mix of historic and modern architecture, with notable buildings designed by Frank Lloyd Wright and other renowned architects.",
+        "text_original": "Stanford\u2019s main campus spans 8,180 acres, with additional facilities in Palo Alto, Menlo Park, and Redwood City. Key landmarks include the Main Quad, Memorial Church, and the Stanford Mausoleum. The campus features a mix of historic and modern architecture, with notable buildings designed by Frank Lloyd Wright and other renowned architects",
+        "idx_start": 4965,
+        "idx_end": 5306
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## Student Life and Traditions\nStanford\u2019s student life is characterized by a strong sense of community and tradition. The university has over 600 student organizations, including cultural, political, and academic groups. Notable traditions include the Big Game, the Stanford Marriage Pact, and Fountain Hopping. The university\u2019s mascot is the Cardinal, and the Stanford Band is a central part of campus culture.",
+        "text_original": "Stanford\u2019s student life is characterized by a strong sense of community and tradition. The university has over 600 student organizations, including cultural, political, and academic groups. Notable traditions include the Big Game, the Stanford Marriage Pact, and Fountain Hopping. The university\u2019s mascot is the Cardinal, and the Stanford Band is a central part of campus culture",
+        "idx_start": 5346,
+        "idx_end": 5725
+    },
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## History\nCaltech was founded in 1891 as Throop College of Technology by local businessman Amos G. Throop. The university grew significantly under the leadership of George Ellery Hale and Arthur Amos Noyes, who attracted top scientists and researchers. Caltech became a leader in scientific research, particularly in physics and engineering, and played a crucial role in World War II through its contributions to the Manhattan Project and rocket research. The university has faced controversies, including allegations of eugenics ties and criticism of its handling of sexual misconduct cases.",
+        "text_original": "Caltech was founded in 1891 as Throop College of Technology by local businessman Amos G. Throop. The university grew significantly under the leadership of George Ellery Hale and Arthur Amos Noyes, who attracted top scientists and researchers. Caltech became a leader in scientific research, particularly in physics and engineering, and played a crucial role in World War II through its contributions to the Manhattan Project and rocket research. The university has faced controversies, including allegations of eugenics ties and criticism of its handling of sexual misconduct cases",
+        "idx_start": 5804,
+        "idx_end": 6385
+    },
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## Organization and Administration\nCaltech is governed by a 46-member board of trustees, with a president overseeing academic and administrative affairs. The university operates on a quarter system and is known for its rigorous academic programs, particularly in STEM fields. Caltech\u2019s endowment is one of the largest among private universities, supporting extensive research initiatives.",
+        "text_original": "Caltech is governed by a 46-member board of trustees, with a president overseeing academic and administrative affairs. The university operates on a quarter system and is known for its rigorous academic programs, particularly in STEM fields. Caltech\u2019s endowment is one of the largest among private universities, supporting extensive research initiatives",
+        "idx_start": 6429,
+        "idx_end": 6781
+    },
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## Academics\nCaltech offers a small, highly residential research university with a focus on STEM disciplines. The university is known for its rigorous academic programs, with a strong emphasis on research. Caltech\u2019s library system includes the Millikan Library, the Beckman Auditorium, and the Cahill Center for Astronomy and Astrophysics. The university consistently ranks among the top institutions globally, particularly in engineering and natural sciences.",
+        "text_original": "Caltech offers a small, highly residential research university with a focus on STEM disciplines. The university is known for its rigorous academic programs, with a strong emphasis on research. Caltech\u2019s library system includes the Millikan Library, the Beckman Auditorium, and the Cahill Center for Astronomy and Astrophysics. The university consistently ranks among the top institutions globally, particularly in engineering and natural sciences",
+        "idx_start": 6803,
+        "idx_end": 7249
+    },
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## Notable Discoveries and Innovation\nCaltech has been instrumental in numerous scientific breakthroughs, including the invention of the cyclotron, the discovery of new chemical elements, and advancements in aerospace technology. Alumni and faculty have founded numerous companies, contributing to Silicon Valley\u2019s innovation ecosystem. The university is also recognized for its contributions to renewable energy and sustainability.",
+        "text_original": "Caltech has been instrumental in numerous scientific breakthroughs, including the invention of the cyclotron, the discovery of new chemical elements, and advancements in aerospace technology. Alumni and faculty have founded numerous companies, contributing to Silicon Valley\u2019s innovation ecosystem. The university is also recognized for its contributions to renewable energy and sustainability",
+        "idx_start": 7296,
+        "idx_end": 7689
+    },
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## Campus\nCaltech\u2019s main campus spans 124 acres in Pasadena, California. Key landmarks include the Millikan Library, the Beckman Auditorium, and the Cahill Center for Astronomy and Astrophysics. The campus features a mix of historic and modern architecture, with notable buildings designed by Bertram Goodhue and other renowned architects.",
+        "text_original": "Caltech\u2019s main campus spans 124 acres in Pasadena, California. Key landmarks include the Millikan Library, the Beckman Auditorium, and the Cahill Center for Astronomy and Astrophysics. The campus features a mix of historic and modern architecture, with notable buildings designed by Bertram Goodhue and other renowned architects",
+        "idx_start": 7708,
+        "idx_end": 8036
+    },
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## Student Life and Traditions\nCaltech\u2019s student life is characterized by a strong sense of community and tradition. The university has over 500 student organizations, including cultural, political, and academic groups. Notable traditions include the Millikan Pumpkin Drop Experiment and Ditch Day. The university\u2019s mascot is the Beaver, and the Caltech ROTC program is a central part of campus culture.",
+        "text_original": "Caltech\u2019s student life is characterized by a strong sense of community and tradition. The university has over 500 student organizations, including cultural, political, and academic groups. Notable traditions include the Millikan Pumpkin Drop Experiment and Ditch Day. The university\u2019s mascot is the Beaver, and the Caltech ROTC program is a central part of campus culture",
+        "idx_start": 8076,
+        "idx_end": 8447
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## History\nTsinghua University was established in 1911 as Tsinghua College, initially as a preparatory school for Chinese students to study in the United States. The university evolved into a comprehensive institution under the leadership of prominent scholars like Liang Qichao and Chu Kochen. Tsinghua has played a significant role in China\u2019s scientific and technological development, particularly during the 20th century. The university has faced controversies, including allegations of involvement in cyber-espionage and criticism of its handling of political and academic freedom issues.",
+        "text_original": "Tsinghua University was established in 1911 as Tsinghua College, initially as a preparatory school for Chinese students to study in the United States. The university evolved into a comprehensive institution under the leadership of prominent scholars like Liang Qichao and Chu Kochen. Tsinghua has played a significant role in China\u2019s scientific and technological development, particularly during the 20th century. The university has faced controversies, including allegations of involvement in cyber-espionage and criticism of its handling of political and academic freedom issues",
+        "idx_start": 8501,
+        "idx_end": 9081
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## Organization and Administration\nTsinghua is governed by a board of trustees, with a president overseeing academic and administrative affairs. The university operates on a semester system and is known for its strong academic programs across a wide range of disciplines. Tsinghua\u2019s endowment is one of the largest in China, supporting extensive research and development initiatives.",
+        "text_original": "Tsinghua is governed by a board of trustees, with a president overseeing academic and administrative affairs. The university operates on a semester system and is known for its strong academic programs across a wide range of disciplines. Tsinghua\u2019s endowment is one of the largest in China, supporting extensive research and development initiatives",
+        "idx_start": 9125,
+        "idx_end": 9472
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## Academics\nTsinghua offers a wide range of undergraduate and graduate programs across 20 schools and 58 departments. The university is highly ranked globally, particularly in engineering, natural sciences, and business. Tsinghua\u2019s library system includes the Tsinghua University Library, the Tsinghua University Art Museum, and the Tsinghua History Museum.",
+        "text_original": "Tsinghua offers a wide range of undergraduate and graduate programs across 20 schools and 58 departments. The university is highly ranked globally, particularly in engineering, natural sciences, and business. Tsinghua\u2019s library system includes the Tsinghua University Library, the Tsinghua University Art Museum, and the Tsinghua History Museum",
+        "idx_start": 9494,
+        "idx_end": 9838
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## Notable Discoveries and Innovation\nTsinghua has been a hub for groundbreaking research, including advancements in artificial intelligence, renewable energy, and biomedical sciences. Alumni and faculty have founded numerous companies, contributing to China\u2019s technological and economic growth. The university is also recognized for its contributions to education and research in various fields.",
+        "text_original": "Tsinghua has been a hub for groundbreaking research, including advancements in artificial intelligence, renewable energy, and biomedical sciences. Alumni and faculty have founded numerous companies, contributing to China\u2019s technological and economic growth. The university is also recognized for its contributions to education and research in various fields",
+        "idx_start": 9885,
+        "idx_end": 10242
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## Campus\nTsinghua\u2019s main campus spans 6.22 square kilometers in Beijing, with additional facilities in Haining, Ningbo, and other locations. Key landmarks include the Tsinghua University Library, the Tsinghua University Art Museum, and the Tsinghua University History Museum. The campus features a mix of historic and modern architecture, with notable buildings designed by American and Chinese architects.",
+        "text_original": "Tsinghua\u2019s main campus spans 6.22 square kilometers in Beijing, with additional facilities in Haining, Ningbo, and other locations. Key landmarks include the Tsinghua University Library, the Tsinghua University Art Museum, and the Tsinghua University History Museum. The campus features a mix of historic and modern architecture, with notable buildings designed by American and Chinese architects",
+        "idx_start": 10261,
+        "idx_end": 10657
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## Student Life and Traditions\nTsinghua\u2019s student life is characterized by a strong sense of community and tradition. The university has over 500 student organizations, including cultural, political, and academic groups. Notable traditions include the Tsinghua Anthem and the Tsinghua Canteens. The university\u2019s mascot is the Qiushi Eagle, and the Tsinghua clique is a significant part of campus culture.",
+        "text_original": "Tsinghua\u2019s student life is characterized by a strong sense of community and tradition. The university has over 500 student organizations, including cultural, political, and academic groups. Notable traditions include the Tsinghua Anthem and the Tsinghua Canteens. The university\u2019s mascot is the Qiushi Eagle, and the Tsinghua clique is a significant part of campus culture",
+        "idx_start": 10697,
+        "idx_end": 11069
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## History\nKing\u2019s College London was founded in 1829 in response to the religious and social changes in England. The university was established to provide a secular education for students from various backgrounds, contrasting with the religiously oriented universities of Oxford and Cambridge. King\u2019s College London has a rich history of academic excellence and has played a significant role in medical and scientific research. The university has faced controversies, including allegations of anti-Semitism and criticism of its handling of sexual misconduct cases.",
+        "text_original": "King\u2019s College London was founded in 1829 in response to the religious and social changes in England. The university was established to provide a secular education for students from various backgrounds, contrasting with the religiously oriented universities of Oxford and Cambridge. King\u2019s College London has a rich history of academic excellence and has played a significant role in medical and scientific research. The university has faced controversies, including allegations of anti-Semitism and criticism of its handling of sexual misconduct cases",
+        "idx_start": 11125,
+        "idx_end": 11677
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## Organization and Administration\nKing\u2019s College London is governed by a board of trustees, with a president overseeing academic and administrative affairs. The university operates on a semester system and is known for its strong academic programs across a wide range of disciplines. King\u2019s College London\u2019s endowment is one of the largest among UK universities, supporting extensive research and development initiatives.",
+        "text_original": "King\u2019s College London is governed by a board of trustees, with a president overseeing academic and administrative affairs. The university operates on a semester system and is known for its strong academic programs across a wide range of disciplines. King\u2019s College London\u2019s endowment is one of the largest among UK universities, supporting extensive research and development initiatives",
+        "idx_start": 11721,
+        "idx_end": 12107
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## Academics\nKing\u2019s College London offers a wide range of undergraduate and graduate programs across nine academic faculties. The university is highly ranked globally, particularly in medicine, law, and social sciences. King\u2019s College London\u2019s library system includes the Maughan Library, the Foyle Special Collections Library, and the Archives Reading Room.",
+        "text_original": "King\u2019s College London offers a wide range of undergraduate and graduate programs across nine academic faculties. The university is highly ranked globally, particularly in medicine, law, and social sciences. King\u2019s College London\u2019s library system includes the Maughan Library, the Foyle Special Collections Library, and the Archives Reading Room",
+        "idx_start": 12129,
+        "idx_end": 12473
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## Notable Discoveries and Innovation\nKing\u2019s College London has been a hub for groundbreaking research, including the discovery of the double helix structure of DNA and advancements in medical and scientific fields. Alumni and faculty have made significant contributions to various industries, including healthcare, law, and business. The university is also recognized for its contributions to education and research in various fields.",
+        "text_original": "King\u2019s College London has been a hub for groundbreaking research, including the discovery of the double helix structure of DNA and advancements in medical and scientific fields. Alumni and faculty have made significant contributions to various industries, including healthcare, law, and business. The university is also recognized for its contributions to education and research in various fields",
+        "idx_start": 12520,
+        "idx_end": 12916
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## Campus\nKing\u2019s College London\u2019s main campus spans several locations in central London, including the Strand Campus, the Waterloo Campus, and the Denmark Hill Campus. Key landmarks include the King\u2019s Building, the Maughan Library, and the Bush House. The campus features a mix of historic and modern architecture, with notable buildings designed by Sir Robert Smirke and other renowned architects.",
+        "text_original": "King\u2019s College London\u2019s main campus spans several locations in central London, including the Strand Campus, the Waterloo Campus, and the Denmark Hill Campus. Key landmarks include the King\u2019s Building, the Maughan Library, and the Bush House. The campus features a mix of historic and modern architecture, with notable buildings designed by Sir Robert Smirke and other renowned architects",
+        "idx_start": 12935,
+        "idx_end": 13322
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## Student Life and Traditions\nKing\u2019s College London\u2019s student life is characterized by a strong sense of community and tradition. The university has over 300 student organizations, including cultural, political, and academic groups. Notable traditions include the King\u2019s College London Anthem and the King\u2019s College London Students\u2019 Union. The university\u2019s mascot is Reggie the Lion, and the King\u2019s College London Rugby Football Club is a central part of campus culture.",
+        "text_original": "King\u2019s College London\u2019s student life is characterized by a strong sense of community and tradition. The university has over 300 student organizations, including cultural, political, and academic groups. Notable traditions include the King\u2019s College London Anthem and the King\u2019s College London Students\u2019 Union. The university\u2019s mascot is Reggie the Lion, and the King\u2019s College London Rugby Football Club is a central part of campus culture",
+        "idx_start": 13362,
+        "idx_end": 13801
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## History\nThe University of Chicago was founded in 1890 by a group of Baptist educators and incorporated in 1897. The university initially struggled financially but grew significantly under the leadership of William Rainey Harper and later figures like Robert Maynard Hutchins. The university became a leader in scientific research and education, particularly in the social sciences and natural sciences. The university has faced controversies, including allegations of communist influence and criticism of its handling of sexual misconduct cases.",
+        "text_original": "The University of Chicago was founded in 1890 by a group of Baptist educators and incorporated in 1897. The university initially struggled financially but grew significantly under the leadership of William Rainey Harper and later figures like Robert Maynard Hutchins. The university became a leader in scientific research and education, particularly in the social sciences and natural sciences. The university has faced controversies, including allegations of communist influence and criticism of its handling of sexual misconduct cases",
+        "idx_start": 13857,
+        "idx_end": 14393
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## Organization and Administration\nThe University of Chicago is governed by a board of trustees, with a president overseeing academic and administrative affairs. The university operates on a quarter system and is known for its strong academic programs across a wide range of disciplines. The university\u2019s endowment is one of the largest among American universities, supporting extensive research and development initiatives.",
+        "text_original": "The University of Chicago is governed by a board of trustees, with a president overseeing academic and administrative affairs. The university operates on a quarter system and is known for its strong academic programs across a wide range of disciplines. The university\u2019s endowment is one of the largest among American universities, supporting extensive research and development initiatives",
+        "idx_start": 14437,
+        "idx_end": 14825
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## Academics\nThe University of Chicago offers a wide range of undergraduate and graduate programs across the College, four graduate divisions, seven professional schools, and the Graham School of Continuing Liberal and Professional Studies. The university is highly ranked globally, particularly in law, business, and natural sciences. The university\u2019s library system includes the Regenstein Library, the Joe and Rika Mansueto Library, and the John Crerar Library.",
+        "text_original": "The University of Chicago offers a wide range of undergraduate and graduate programs across the College, four graduate divisions, seven professional schools, and the Graham School of Continuing Liberal and Professional Studies. The university is highly ranked globally, particularly in law, business, and natural sciences. The university\u2019s library system includes the Regenstein Library, the Joe and Rika Mansueto Library, and the John Crerar Library",
+        "idx_start": 14847,
+        "idx_end": 15297
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## Notable Discoveries and Innovation\nThe University of Chicago has been a hub for groundbreaking research, including the development of the atomic bomb, the discovery of new chemical elements, and advancements in physics and economics. Alumni and faculty have founded numerous companies and institutions, contributing to global innovation. The university is also recognized for its contributions to education and research in various fields.",
+        "text_original": "The University of Chicago has been a hub for groundbreaking research, including the development of the atomic bomb, the discovery of new chemical elements, and advancements in physics and economics. Alumni and faculty have founded numerous companies and institutions, contributing to global innovation. The university is also recognized for its contributions to education and research in various fields",
+        "idx_start": 15344,
+        "idx_end": 15746
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## Campus\nThe University of Chicago\u2019s main campus spans 217 acres in Hyde Park, Chicago. Key landmarks include the Main Quadrangles, the Rockefeller Chapel, and the Joe and Rika Mansueto Library. The campus features a mix of historic and modern architecture, with notable buildings designed by Henry Ives Cobb and other renowned architects.",
+        "text_original": "The University of Chicago\u2019s main campus spans 217 acres in Hyde Park, Chicago. Key landmarks include the Main Quadrangles, the Rockefeller Chapel, and the Joe and Rika Mansueto Library. The campus features a mix of historic and modern architecture, with notable buildings designed by Henry Ives Cobb and other renowned architects",
+        "idx_start": 15765,
+        "idx_end": 16094
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## Student Life and Traditions\nThe University of Chicago\u2019s student life is characterized by a strong sense of community and tradition. The university has over 400 student organizations, including cultural, political, and academic groups. Notable traditions include the University of Chicago Scavenger Hunt, the University of Chicago Winter Festival, and the Latke-Hamantash Debate. The university\u2019s mascot is Phil the Phoenix, and the University of Chicago Rugby Football Club is a central part of campus culture.",
+        "text_original": "The University of Chicago\u2019s student life is characterized by a strong sense of community and tradition. The university has over 400 student organizations, including cultural, political, and academic groups. Notable traditions include the University of Chicago Scavenger Hunt, the University of Chicago Winter Festival, and the Latke-Hamantash Debate. The university\u2019s mascot is Phil the Phoenix, and the University of Chicago Rugby Football Club is a central part of campus culture",
+        "idx_start": 16134,
+        "idx_end": 16615
+    }
+]

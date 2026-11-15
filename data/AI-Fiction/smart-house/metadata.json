@@ -1,0 +1,25 @@
+{
+  "id": 3520792,
+  "title": "Smart House",
+  "url": "https://en.wikipedia.org/wiki/Smart_House",
+  "path": "AI-Fiction\\smart-house",
+  "summary": {
+    "chars": 109,
+    "tokens": 23
+  },
+  "document": {
+    "chars": 5105,
+    "tokens": 1115
+  },
+  "infobox": {
+    "title": "Smart House",
+    "data": {
+      "Written by": "William R. Hudson \u00b7 Stu Krieger",
+      "Directed by": "LeVar Burton",
+      "Starring": "Katey Sagal \u00b7 Ryan Merriman \u00b7 Kevin Kilner \u00b7 Jessica Steen \u00b7 Katie Volding",
+      "Music by": "Barry Goldberg",
+      "Country of origin": "United States",
+      "Original language": "English"
+    }
+  }
+}

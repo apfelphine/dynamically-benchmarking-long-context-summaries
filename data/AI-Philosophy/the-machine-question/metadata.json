@@ -1,0 +1,26 @@
+{
+  "id": 46181931,
+  "title": "The Machine Question",
+  "url": "https://en.wikipedia.org/wiki/The_Machine_Question",
+  "path": "AI-Philosophy\\the-machine-question",
+  "summary": {
+    "chars": 531,
+    "tokens": 95
+  },
+  "document": {
+    "chars": 5710,
+    "tokens": 1096
+  },
+  "infobox": {
+    "title": "The Machine Question",
+    "data": {
+      "Author": "David J. Gunkel",
+      "Genre": "Non-fiction, philosophy, computer science, ethics",
+      "Publisher": "MIT Press",
+      "Publication date": "July 13, 2012",
+      "Media type": "Print (Hardcover & paperback)",
+      "Pages": "270",
+      "ISBN": "0262017431"
+    }
+  }
+}

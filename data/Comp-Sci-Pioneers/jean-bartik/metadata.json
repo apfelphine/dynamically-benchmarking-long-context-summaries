@@ -1,0 +1,29 @@
+{
+  "id": 5178038,
+  "title": "Jean Bartik",
+  "url": "https://en.wikipedia.org/wiki/Jean_Bartik",
+  "path": "Comp-Sci-Pioneers\\jean-bartik",
+  "summary": {
+    "chars": 998,
+    "tokens": 225
+  },
+  "document": {
+    "chars": 13498,
+    "tokens": 2925
+  },
+  "infobox": {
+    "title": "Jean Bartik",
+    "data": {
+      "Born": "Betty Jean Jennings \u00b7 December 27, 1924 \u00b7 Alanthus Grove, Missouri, U.S.",
+      "Died": "March 23, 2011 (aged 86) \u00b7 Poughkeepsie, New York, U.S.",
+      "Alma mater": "- Northwest Missouri State Teachers College (B.S., 1945) - University of Pennsylvania (Master's 1967)",
+      "Spouse": "William Bartik",
+      "Awards": [
+        "Computer Pioneer Award of the IEEE Computer Society (2008)",
+        "- WITI Hall of Fame - Computer History Museum Fellow (2008)"
+      ],
+      "Employers": "- University of Pennsylvania - Eckert\u2013Mauchly Computer Corporation - Auerbach PublishersData Decisions",
+      "Projects": "ENIAC"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 27805027,
+  "title": "Kathleen Booth",
+  "url": "https://en.wikipedia.org/wiki/Kathleen_Booth",
+  "path": "Comp-Sci-Pioneers\\kathleen-booth",
+  "summary": {
+    "chars": 416,
+    "tokens": 90
+  },
+  "document": {
+    "chars": 4209,
+    "tokens": 914
+  },
+  "infobox": {
+    "title": "Kathleen Booth",
+    "data": {
+      "Born": "Kathleen Hylda Valerie Britten \u00b7 9 July 1922 \u00b7 Stourbridge, Worcestershire, England",
+      "Died": "29 September 2022 (aged 100)",
+      "Alma mater": "University of London",
+      "Known for": "Inventing assembly language",
+      "Spouse": "Andrew Booth \u200b (m. 1950; died 2009)\u200b",
+      "Fields": "Computer science",
+      "Institutions": "Birkbeck College"
+    }
+  }
+}

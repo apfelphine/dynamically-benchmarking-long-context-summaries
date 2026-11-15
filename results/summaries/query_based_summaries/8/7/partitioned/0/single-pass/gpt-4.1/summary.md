@@ -1,0 +1,18 @@
+## Education in Finland
+
+Education in Finland is characterized by a comprehensive, publicly funded system that prioritizes inclusivity, equality, and autonomy for both teachers and students. Compulsory education spans nine years, covering primary (grades 1–6) and middle school (grades 7–9), with recent legislation extending the mandatory schooling age to 18 and including upper secondary education—either academic (lukio) or vocational (ammattikoulu) paths. Schools are managed by municipalities, and both public and private schools (the latter primarily faith-based or Waldorf) must follow strict non-selective admission and tuition-free policies. Class sizes remain small, supportive resources like free lunches and materials are guaranteed, and academic tracking or "gifted" programs are absent, fostering peer assistance and collaborative learning. Language education is heavily emphasized, with students learning at least two languages in addition to their mother tongue, and reading for pleasure is encouraged.
+
+Teachers must hold a master's degree, and entrance to teacher training programs is highly competitive. The academic curriculum promotes autonomy, minimal homework, and phenomenon-based learning as mandated by the National Curriculum Framework 2016, which focuses on 21st-century skills like collaboration and critical thinking. There are no high-stakes tests in basic education, and grading is performed on a scale of 4–10 with local flexibility. Upon completing compulsory education, students advance to upper secondary school, now compulsory, where they may follow either the academic track leading to university or the vocational track leading to polytechnics and employment. Tertiary education is divided into research-focused universities and practical, workforce-oriented universities of applied sciences, both of which are transparent and merit-based in admissions, with most students studying free of charge unless they are from outside the EU/EEA. Adult education is supported by state-funded institutions and open university programs to promote lifelong learning. Internationally, Finland's educational model and expertise are increasingly exported and adapted worldwide due to its successful outcomes and reputation.
+
+---
+
+**Key features:**  
+- Compulsory education from ages 7–18; upper secondary now mandated  
+- No tuition fees for domestic/EU students; strict inclusion policies  
+- Small class sizes, free school meals and educational materials  
+- Teachers require master’s degrees; highly competitive training  
+- No "gifted" programs; collaborative approach and minimal homework  
+- Focus on languages and reading culture  
+- Phenomenon-based learning integrated into the curriculum  
+- Academic and vocational tracks with objective, transparent university admissions  
+- Adult education and open university options; strong education export initiatives

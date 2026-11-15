@@ -1,0 +1,43 @@
+{
+  "id": 169136,
+  "title": "University of Western Ontario",
+  "url": "https://en.wikipedia.org/wiki/University_of_Western_Ontario",
+  "path": "Universities\\university-of-western-ontario",
+  "summary": {
+    "chars": 1242,
+    "tokens": 259
+  },
+  "document": {
+    "chars": 37869,
+    "tokens": 7498
+  },
+  "infobox": {
+    "title": "The University of Western Ontario",
+    "data": {
+      "Other name": "Western University",
+      "Former names": "The Western University of London, Ontario",
+      "Motto": "Veritas et Utilitas (Latin)",
+      "Motto in English": "Truth and usefulness",
+      "Type": "Public",
+      "Established": "7 March 1878",
+      "Academic affiliations": "ACU, CARL, COU, CUSID, Fields Institute, Universities Canada, U15",
+      "Endowment": "CA$1.3 billion (2024)",
+      "Budget": "CA$1.7 billion",
+      "Visitor": "Edith Dumont (ex officio as Lieutenant Governor of Ontario)",
+      "Chancellor": "Kelly Meighen",
+      "President": "Alan Shepard",
+      "Provost": "Florentine Strzelczyk",
+      "Academic staff": "1,432",
+      "Students": "37,875",
+      "Undergraduates": "30,647",
+      "Postgraduates": "7,221",
+      "Location": "London, Ontario, Canada \u00b7 43\u00b000\u203230\u2033N 81\u00b016\u203221\u2033W\ufeff / \ufeff43.00833\u00b0N 81.27250\u00b0W",
+      "Campus": "Urban, 455 hectares (1,120 acres)",
+      "Colours": "Western Purple and White",
+      "Nickname": "Mustangs",
+      "Sporting affiliations": "U Sports, OUA",
+      "Mascot": "JW the Mustang",
+      "Website": "uwo.ca"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+# Yale University
+
+Founded in 1701 as the "Collegiate School" to educate ministers and lay leaders, Yale was renamed after benefactor Elihu Yale in 1718. The university developed a classical liberal arts curriculum, influenced by movements like the Great Awakening and Enlightenment, and emphasized Hebrew study and theological orthodoxy. Its student body originally consisted of Connecticut’s elite sons, organized into private societies fostering debates and scholarship. By the 19th century, Yale defended classical education while expanding professional schools, eventually becoming Yale University in 1887.
+
+In the 20th century, Yale advanced scientific medicine, established the "Yale System" of teaching, and increased faculty diversity. Women were first admitted in graduate programs in 1892 and as undergraduates in 1969, with Title IX lawsuits prompting reforms against sexual harassment. Yale’s notable alumni include multiple U.S. Presidents, justices, and global leaders. The university is governed by the Yale Corporation, with a complex labor union history and a campus celebrated for Collegiate Gothic architecture. Yale’s residential college system, student organizations, traditions, and varsity athletics form a vibrant campus life. The university faces ongoing challenges around mental health policies.
+
+---
+
+# University of Edinburgh
+
+Established by royal charter in 1582, the University of Edinburgh emerged as a secular college with an early focus on liberal arts and divinity. It played a central role in the Scottish Enlightenment, attracting leading thinkers like Adam Smith and David Hume. The university expanded through the 18th and 19th centuries, founding faculties of law, arts, medicine, and the divinity school. Women were first admitted to medical studies in the late 19th century after campaigns like that of the Edinburgh Seven.
+
+The 20th century saw growth with the creation of satellite campuses, mergers (e.g., with Edinburgh College of Art), and establishment of renowned research institutes. Its BioQuarter campus hosts medical innovation centers, and it operates several museums and historic buildings in Edinburgh. Governed by the University Court, General Council, and Senatus Academicus, Edinburgh comprises three colleges covering arts, sciences, and medicine. With a £1.3 billion budget and high research output, the university is a leading global institution. Student life includes a large students’ association, rich cultural offerings, historic debating societies, and active sports programs, as well as recent activism concerning global issues and climate change.
+
+---
+
+# University of Pennsylvania (Penn)
+
+Penn traces its origins to 1740 efforts inspired by Benjamin Franklin to create a "Public Academy of Philadelphia." Chartered as the College of Philadelphia in 1755, it positions itself as the fourth-oldest U.S. institution. Its 299-acre West Philadelphia campus blends Collegiate Gothic architecture with modern research facilities like the Pennovation Center and includes extensive arboreta and the New Bolton Center veterinary facility.
+
+Penn’s comprehensive library system holds millions of volumes, and the Penn Museum houses global artifacts, including North America’s largest authentic Egyptian sphinx. Academically, Penn offers interdisciplinary programs, highly selective admissions (~4% acceptance), and need-blind financial aid. The university operates a leading medical school, numerous dual-degree programs, and strong international partnerships.
+
+Student life features robust performing arts, a cappella, and debate societies, historic student-run publications, and a vibrant sports tradition including football, crew, rugby, and ice hockey. Together, Penn’s faculty, alumni, and research funding contribute to its high global standing and reputation for interdisciplinary excellence.
+
+---
+
+# Princeton University
+
+Founded in 1746 as the College of New Jersey amid Presbyterian church splits, Princeton grew under early leaders like president John Witherspoon, contributing to the American Revolution and hosting the Continental Congress in Nassau Hall. The institution evolved from a college focused on clergy and leadership training into a modern university with a residential college system established in 1982.
+
+Princeton’s Collegiate Gothic campus features historic Nassau Hall and the Princeton University Art Museum. Academically, it emphasizes a liberal arts curriculum with rigorous independent work, including junior papers and senior theses. Admissions are highly selective (approx. 6% acceptance). The university abolished student loans in financial aid and strives for socioeconomic diversity.
+
+Student life centers around seven residential colleges and eating clubs with strong social traditions, alongside a wide range of performing arts and over 500 student organizations, including the nation’s oldest collegiate debating society. Princeton is renowned for athletic success, especially in football and basketball, and boasts numerous Nobel laureates, government leaders, and cultural figures among alumni.
+
+---
+
+# University of Cambridge
+
+Cambridge, founded around 1209 by scholars fleeing Oxford, consists of 31 autonomous colleges that provide housing, welfare, and undergraduate teaching via small group supervisions. It developed a strong tradition in mathematics and mathematical physics, producing eminent scientists like Isaac Newton and G.H. Hardy.
+
+The university expanded over centuries, formalized governance through the Cambridge University Act 1856, and progressively admitted women, achieving near gender parity by 2020. Its faculties and schools cover a broad academic spectrum, supported by an extensive library system and multiple museums.
+
+Cambridge maintains a prestigious global reputation, often ranking within the top ten worldwide. Student life includes formal halls, May balls, numerous societies such as the historic Cambridge Union debating society, and competitive sports including the Boat Race against Oxford. The university has also been the setting for and inspiration to significant literature and media.
+
+---
+
+# University College London (UCL)
+
+Founded in 1826 as London University, UCL offered a nonsectarian alternative to Oxbridge, becoming University College, London in 1836 and later gaining degree-awarding powers in 2005. It pioneered including women from 1878 and established the UK’s first chemical engineering department.
+
+UCL’s main Bloomsbury campus houses historic buildings and cutting-edge facilities, including the new UCL East campus. It comprises eleven faculties covering arts, sciences, engineering, and medicine, with a diverse student body of over 46,000 globally. UCL emphasizes sustainability, with ambitious carbon reduction targets and biodiversity initiatives.
+
+Governed by a council and academic board, UCL is a leading research institution, notable for early Internet contributions and substantial intellectual property activity. Student life includes an active union with over 250 clubs, wide-ranging faith groups, and more than 70 sports clubs. UCL has a storied rivalry with King’s College London and ongoing student activism on social issues, including recent protests over Gaza. Notable alumni include Nobel laureates and pioneers in science, technology, and policy.

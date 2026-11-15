@@ -1,0 +1,11 @@
+The **King's Scholar** is a prestigious academic designation tied to specific educational institutions in the UK and the United States, each with distinct traditions and privileges.
+
+At **Eton College**, a King's Scholar (also called a "Colleger" or "tug") is a student who has been elected into the oldest house, "College," through competitive examinations. These scholars, aged 13 to 18, receive a Foundation Scholarship and are distinguished by a black academic gown over their school uniform. They share many aspects of school life with other students but eat meals exclusively in College Hall, participate in formal traditions, and wear gowns during certain ceremonies. Scholarship eligibility is tied to academic merit, and while historically full tuition was waived, modern scholarships are increasingly means-tested. Notable alumni include figures in politics, academia, and media.
+
+At **King’s College Cambridge**, King’s Scholars are undergraduates who achieve first-class degrees, receiving a prize and attending a ceremony in King’s College Chapel. This scholarship is a historical legacy from the college’s founder, Henry VI.
+
+At **Westminster School**, King’s Scholars are selected by competitive examination, board at the oldest house, and wear gowns during services in Westminster Abbey.
+
+At **King’s Schools** (Canterbury, Chester, Ely, Gloucester, Peterborough, Rochester, and Worcester), King’s Scholarships are awarded based on academic or musical attainment, often with fee discounts. Scholars wear gowns during school services and enjoy privileges such as the right to marry in cathedral grounds or be buried within the school’s grounds.
+
+The **King's Scholar** designation is not exclusive to these institutions but is also used in broader contexts, such as the **King's Scholarship at King’s Schools**, which emphasizes academic excellence and cultural heritage. The term reflects a long-standing tradition of academic prestige and support for students from historically significant educational institutions.

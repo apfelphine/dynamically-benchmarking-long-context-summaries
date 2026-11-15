@@ -1,0 +1,30 @@
+{
+  "id": 30034,
+  "title": "Tim Berners-Lee",
+  "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+  "path": "Comp-Sci-Pioneers\\tim-berners-lee",
+  "summary": {
+    "chars": 1826,
+    "tokens": 389
+  },
+  "document": {
+    "chars": 14401,
+    "tokens": 3221
+  },
+  "infobox": {
+    "title": "SirTim Berners-LeeOM KBE FRS RDI FRSA DFBCS FREng",
+    "data": {
+      "Born": "Timothy John Berners-Lee \u00b7 8 June 1955 \u00b7 London, England",
+      "Other names": "TimBL TBL",
+      "Education": "Queen's College, Oxford (BA)",
+      "Known for": "Invention of the World Wide Web",
+      "Spouses": "Jane Northcote \u200b (m. 1976, divorced)\u200b Nancy Carlson \u200b (m. 1990; div. 2011)\u200b Rosemary Leith \u200b(m. 2014)\u200b",
+      "Children": "2 children \u00b7 3 step-children",
+      "Parents": "- Conway Berners-Lee (father) - Mary Lee Woods (mother)",
+      "Awards": "- Turing Award (2016) - Queen Elizabeth Prize (2013) - Foreign Associate of the National Academy of Sciences (2009) - Order of Merit (2007) - ACM Software System Award (1995)",
+      "Fields": "Computer science",
+      "Institutions": "CERN Massachusetts Institute of Technology World Wide Web Consortium University of Oxford University of Southampton",
+      "Website": "w3.org/People/Berners-Lee"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 766938,
+  "title": "Tom Kilburn",
+  "url": "https://en.wikipedia.org/wiki/Tom_Kilburn",
+  "path": "Comp-Sci-Pioneers\\tom-kilburn",
+  "summary": {
+    "chars": 1216,
+    "tokens": 233
+  },
+  "document": {
+    "chars": 9162,
+    "tokens": 1933
+  },
+  "infobox": {
+    "title": "Tom KilburnCBE FRS",
+    "data": {
+      "Born": "11 August 1921 \u00b7 Dewsbury, Yorkshire, England",
+      "Died": "17 January 2001 (aged 79) \u00b7 Manchester, England",
+      "Education": "Wheelwright Grammar School for Boys",
+      "Alma mater": "- University of Cambridge (BA) - University of Manchester (PhD)",
+      "Known for": "- Williams\u2013Kilburn tube - Manchester Baby - Manchester Mark 1 - Atlas computer - MU5",
+      "Spouse": "Irene Marsden \u200b(m. 1943)\u200b",
+      "Children": "2",
+      "Awards": "- Mountbatten Medal (1997) - Royal Medal (1978)",
+      "Institutions": "- University of Manchester - Telecommunications Research Establishment",
+      "Thesis": "A storage system for use with binary digital computing machines (1948)",
+      "Doctoral advisor": "Frederic Calland Williams"
+    }
+  }
+}

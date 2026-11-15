@@ -1,0 +1,26 @@
+{
+  "id": 732167,
+  "title": "Machine Intelligence Research Institute",
+  "url": "https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute",
+  "path": "AI-Regulations\\machine-intelligence-research-institute",
+  "summary": {
+    "chars": 391,
+    "tokens": 70
+  },
+  "document": {
+    "chars": 4432,
+    "tokens": 1067
+  },
+  "infobox": {
+    "title": "Machine Intelligence Research Institute",
+    "data": {
+      "Formation": "2000",
+      "Type": "Nonprofit research institute",
+      "Tax ID no.": "58-2565917",
+      "Purpose": "Research into friendly artificial intelligence and the AI control problem",
+      "Location": "- Berkeley, California, U.S.",
+      "Key people": "Eliezer Yudkowsky",
+      "Website": "intelligence.org"
+    }
+  }
+}

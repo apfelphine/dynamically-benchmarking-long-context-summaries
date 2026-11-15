@@ -1,0 +1,23 @@
+{
+  "id": 12748221,
+  "title": "Maurice Karnaugh",
+  "url": "https://en.wikipedia.org/wiki/Maurice_Karnaugh",
+  "path": "Comp-Sci-Pioneers\\maurice-karnaugh",
+  "summary": {
+    "chars": 192,
+    "tokens": 62
+  },
+  "document": {
+    "chars": 2756,
+    "tokens": 782
+  },
+  "infobox": {
+    "title": "Maurice Karnaugh",
+    "data": {
+      "Born": "October 4, 1924 \u00b7 New York City, U.S.",
+      "Died": "November 8, 2022 (aged 98) \u00b7 New York City, U.S.",
+      "Known for": "Karnaugh map",
+      "Spouse": "Linn Blank \u200b(m. 1970)\u200b"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+The Arkwright Engineering Scholarship is an engineering award given to engineering students within the United Kingdom and Channel Islands. It has been running since 1991 and, as part of The Smallpeice Trust, has awarded over 6,000 scholarships to date.
+Arkwright is the largest and most prestigious Scholarship scheme of its type in the UK. The scholarship is named after Sir Richard Arkwright, an 18th-century industrialist and inventor, often credited with being one of the founding figures of the Industrial Revolution.

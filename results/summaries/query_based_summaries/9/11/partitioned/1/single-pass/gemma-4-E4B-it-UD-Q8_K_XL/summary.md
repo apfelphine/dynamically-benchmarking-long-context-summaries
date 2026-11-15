@@ -1,0 +1,10 @@
+## Education in Poland
+
+**Upper Secondary Education:**
+General education is offered in general secondary schools (liceum), where students can obtain the "Matura" after four years, which grants access to higher education. Vocational and technical education is provided by technical schools (technikum), which last five years and lead to the Matura, focusing on trades like accountant or mechanic. Basic vocational schools (zasadnicza szkoła zawodowa) offer a three-year vocational education leading to a certificate of competence in fields such as cook or hairdresser. Profiled general secondary schools (liceum profilowane) offer vocational education in four years based on the Polish Classification of Activities (PKD). Special schools (szkoła specjalna) prepare mentally and/or physically handicapped students for the Matura in three years.
+
+**Tertiary Education:**
+Poland adheres to the Bologna scheme, structuring most tertiary programs into two cycles: a three-year bachelor's degree followed by a two-year master's degree. Some master's degrees are granted after longer-cycle programs lasting four to six years (e.g., medicine at six years). Doctoral programs generally take about three years. Vocational education at the tertiary level is managed by post-secondary schools (szkoła policealna) with programs lasting two and a half years. University-level education employs a numeric grading system from 2.0 (failing) to 5.0 (highest grade), with grading occurring every semester.
+
+**Recent Changes:**
+A major educational reform took place in 1999, restructuring the system from 8 (primary) + 4 (high school/liceum) years to 6 (primary) + 3 (junior high school, gimnazjum) + 3 (senior high school, liceum) years. A subsequent 2017 reform by the PiS government reverted the structure to 8 (primary school) + 4/5 (high school) years.

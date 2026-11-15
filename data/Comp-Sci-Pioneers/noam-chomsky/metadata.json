@@ -1,0 +1,24 @@
+{
+  "id": 21566,
+  "title": "Noam Chomsky",
+  "url": "https://en.wikipedia.org/wiki/Noam_Chomsky",
+  "path": "Comp-Sci-Pioneers\\noam-chomsky",
+  "summary": {
+    "chars": 3557,
+    "tokens": 721
+  },
+  "document": {
+    "chars": 64236,
+    "tokens": 13026
+  },
+  "infobox": {
+    "title": "Noam Chomsky",
+    "data": {
+      "Born": "Avram Noam Chomsky \u00b7 December 7, 1928 \u00b7 Philadelphia, Pennsylvania, U.S.",
+      "Spouses": "Carol Schatz \u200b (m. 1949; died 2008)\u200b Valeria Wasserman \u200b(m. 2014)\u200b",
+      "Children": "3, including Aviva",
+      "Father": "William Chomsky",
+      "Awards": "- - Guggenheim Fellowship (1971) - Member of the National Academy of Sciences (1972) - APA Award for Distinguished Scientific Contributions to Psychology (1984) - Orwell Award (1987, 1989) - Kyoto Prize in Basic Sciences (1988) - Helmholtz Medal (1996) - Benjamin Franklin Medal in Computer and Cognitive Science (1999) - Sydney Peace Prize (2011) - Nuclear Age Peace Foundation (2014)"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3004115,
+  "title": "Education in Spain",
+  "url": "https://en.wikipedia.org/wiki/Education_in_Spain",
+  "path": "Education-Systems\\education-in-spain",
+  "summary": {
+    "chars": 1048,
+    "tokens": 236
+  },
+  "document": {
+    "chars": 29793,
+    "tokens": 4134
+  },
+  "infobox": {
+    "title": "Ministry of Education",
+    "data": {
+      "Minister": "Pilar Alegr\u00eda"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+**Education in Sweden**
+
+The Swedish educational system includes compulsory education, which is a nine-year comprehensive school (*grundskola*), with mandatory attendance between ages six to seven and fifteen to sixteen. Preschool education is available to working parents, and all children are eligible for at least three hours of free preschool education daily starting from age three.
+
+The compulsory school covers 16 subjects across three stages (lower, middle, and upper), including Swedish, mathematics, English, and others. Students begin receiving grades in year six, though before this, teachers provide an Individual Development Plan (IUP). National tests are administered in grades 3, 6, and 9. Upper secondary education (*gymnasieskola*) is typically three years long and is divided into preparatory and vocational national programmes. All students in upper secondary school are required to complete a diploma project.
+
+Independent schools (*friskolor*) exist and receive public funding from local municipalities, meaning they cannot discriminate or charge additional fees, although they can accept private donations. Swedish higher education degrees are incorporated into the Bologna Process, with cycles corresponding to bachelor's, master's, and doctoral levels. Admission to higher education requires proficiency in Swedish and English, and the Swedish Scholastic Aptitude Test (SweSAT) is used for admission.

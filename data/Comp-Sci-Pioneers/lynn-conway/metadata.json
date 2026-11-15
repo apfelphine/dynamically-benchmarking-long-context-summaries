@@ -1,0 +1,27 @@
+{
+  "id": 747715,
+  "title": "Lynn Conway",
+  "url": "https://en.wikipedia.org/wiki/Lynn_Conway",
+  "path": "Comp-Sci-Pioneers\\lynn-conway",
+  "summary": {
+    "chars": 1143,
+    "tokens": 252
+  },
+  "document": {
+    "chars": 17584,
+    "tokens": 4006
+  },
+  "infobox": {
+    "title": "Lynn Conway",
+    "data": {
+      "Born": "January 2, 1938 \u00b7 Mount Vernon, New York, U.S.",
+      "Died": "June 9, 2024 (aged 86) \u00b7 Jackson, Michigan, U.S.",
+      "Education": "Massachusetts Institute of Technology (attended) \u00b7 Columbia University (BS, MS)",
+      "Known for": "- Mead\u2013Conway VLSI chip design revolution - Transgender rights activism",
+      "Spouses": "- \"Sue\" (pseudonym) \u200b (m. 1963; div. 1968)\u200b - Charles Rogers \u200b(m. 2002)\u200b",
+      "Awards": "- Harold Pender Award (1984) - John Price Wetherill Medal (1985) - Secretary of Defense Meritorious Civilian Service Award (1985) - National Academy of Engineering (1989) - Computer Pioneer Award (2009) - Computer History Museum Fellow (2014) - IEEE/RSE James Clerk Maxwell Medal (2015) - National Inventors Hall of Fame (2023)",
+      "Fields": "- Computer science - Electrical engineering",
+      "Institutions": "- IBM Advanced Computing Systems (1964\u20131968) - Memorex - Xerox PARC (1973\u20131983) - DARPA (1983\u20131985) - University of Michigan"
+    }
+  }
+}

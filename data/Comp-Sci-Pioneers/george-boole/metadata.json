@@ -1,0 +1,24 @@
+{
+  "id": 38298,
+  "title": "George Boole",
+  "url": "https://en.wikipedia.org/wiki/George_Boole",
+  "path": "Comp-Sci-Pioneers\\george-boole",
+  "summary": {
+    "chars": 2779,
+    "tokens": 545
+  },
+  "document": {
+    "chars": 22376,
+    "tokens": 4838
+  },
+  "infobox": {
+    "title": "George BooleFRS",
+    "data": {
+      "Born": "2 November 1815 \u00b7 Lincoln, England",
+      "Died": "8 December 1864 (aged 49) \u00b7 Ballintemple, Cork, Ireland",
+      "Known for": "- Boolean algebra - Boole's expansion theorem - Boolean function - Boole's inequality - Boolean polynomials - Boolean ring - Boole's rule - Abstract algebraic logic - Invariant theory - Wholistic reference",
+      "Spouse": "Mary Everest \u200b(m. 1855)\u200b",
+      "Awards": "- Royal Medal (1844) - Keith Medal (1855\u20131857) - FRS (1857)"
+    }
+  }
+}

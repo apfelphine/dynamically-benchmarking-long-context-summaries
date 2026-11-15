@@ -1,0 +1,9 @@
+[
+    {
+        "document_idx": null,
+        "text": "The provided text contains information regarding education systems in South Africa, Finland, Portugal, the United States, the Philippines, Romania, Malaysia, and Australia, but **no information regarding \"Education in Australia\"** is present in the source material.\nConsequently, it is not possible to generate a summary about \"Education in Australia\" strictly based on the provided text. The document details various educational structures, histories, and statistics for the other listed countries, including Australia's compulsory education timeline (1871\u20131916), its government and non-government school sectors, the Australian Curriculum, and its tertiary education landscape, but the specific section titled \"Education in Australia\" was not included in the input text provided for summarization.",
+        "text_original": "The provided text contains information regarding education systems in South Africa, Finland, Portugal, the United States, the Philippines, Romania, Malaysia, and Australia, but **no information regarding \"Education in Australia\"** is present in the source material.\n\nConsequently, it is not possible to generate a summary about \"Education in Australia\" strictly based on the provided text. The document details various educational structures, histories, and statistics for the other listed countries, including Australia's compulsory education timeline (1871\u20131916), its government and non-government school sectors, the Australian Curriculum, and its tertiary education landscape, but the specific section titled \"Education in Australia\" was not included in the input text provided for summarization",
+        "idx_start": 0,
+        "idx_end": 799
+    }
+]

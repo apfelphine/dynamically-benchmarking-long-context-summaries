@@ -1,0 +1,41 @@
+{
+  "id": 5786,
+  "title": "California Institute of Technology",
+  "url": "https://en.wikipedia.org/wiki/California_Institute_of_Technology",
+  "path": "Universities\\california-institute-of-technology",
+  "summary": {
+    "chars": 2412,
+    "tokens": 505
+  },
+  "document": {
+    "chars": 63721,
+    "tokens": 13798
+  },
+  "infobox": {
+    "title": "California Institute of Technology",
+    "data": {
+      "Former names": "List - - Throop University (1891\u20131907) - Throop Polytechnic Institute and Manual Training School (1907\u20131913) - Throop College of Technology (1913\u20131920)",
+      "Motto": "\"The truth shall make you free\"",
+      "Type": "Private research university",
+      "Established": "September 23, 1891",
+      "Founder": "Amos G. Throop",
+      "Accreditation": "WSCUC",
+      "Academic affiliations": "AAU AITU APRU COFHE URA Space-grant",
+      "Endowment": "$4.7 billion (2024)",
+      "President": "Thomas F. Rosenbaum",
+      "Provost": "David. A. Tirrell",
+      "Academic staff": "300 professorial faculty",
+      "Students": "2,430 (2024\u201325)",
+      "Undergraduates": "987 (2024-25)",
+      "Postgraduates": "1,443 (2024-25)",
+      "Location": "Pasadena, California, United States \u00b7 34\u00b008\u203215\u2033N 118\u00b007\u203230\u2033W\ufeff / \ufeff34.13750\u00b0N 118.12500\u00b0W",
+      "Campus": "Midsize city, 124 acres (0.50 km2)",
+      "Newspaper": "The California Tech",
+      "Colors": "Orange and white",
+      "Nickname": "Beavers",
+      "Sporting affiliations": "NCAA Division III \u2013 SCIAC",
+      "Mascot": "Bernoulli the Beaver",
+      "Website": "caltech.edu"
+    }
+  }
+}

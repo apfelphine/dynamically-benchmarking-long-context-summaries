@@ -1,0 +1,28 @@
+{
+  "id": 2712053,
+  "title": "Computer Power and Human Reason",
+  "url": "https://en.wikipedia.org/wiki/Computer_Power_and_Human_Reason",
+  "path": "AI-Philosophy\\computer-power-and-human-reason",
+  "summary": {
+    "chars": 349,
+    "tokens": 62
+  },
+  "document": {
+    "chars": 1039,
+    "tokens": 177
+  },
+  "infobox": {
+    "title": "Computer Power and Human Reason",
+    "data": {
+      "Author": "Joseph Weizenbaum",
+      "Language": "English",
+      "Genre": "Nonfiction",
+      "Publisher": "W. H. Freeman and Company",
+      "Publication date": "1976",
+      "Publication place": "United States",
+      "Media type": "Print",
+      "Pages": "300",
+      "ISBN": "978-0716704645"
+    }
+  }
+}

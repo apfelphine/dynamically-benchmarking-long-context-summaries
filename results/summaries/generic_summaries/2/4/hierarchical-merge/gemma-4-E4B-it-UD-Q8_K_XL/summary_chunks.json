@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# AI Ethics, Cognition, and Governance\n## Philosophical Understanding and Cognitive Models\nDebates surrounding AI intelligence question whether syntax manipulation equates to true understanding, as highlighted by arguments like Searle's Chinese Room, which challenges the notion that behavioral tests prove mentality. Cognitive theories, such as Embodied Cognition, suggest that intelligence is shaped by an agent's physical interaction with its environment, influencing the development of Embodied AI systems.",
+        "text_original": "Debates surrounding AI intelligence question whether syntax manipulation equates to true understanding, as highlighted by arguments like Searle's Chinese Room, which challenges the notion that behavioral tests prove mentality. Cognitive theories, such as Embodied Cognition, suggest that intelligence is shaped by an agent's physical interaction with its environment, influencing the development of Embodied AI systems",
+        "idx_start": 92,
+        "idx_end": 510
+    },
+    {
+        "document_idx": null,
+        "text": "# AI Ethics, Cognition, and Governance\n## Bias, Transparency, and Societal Risks\nA critical issue is algorithmic bias\u2014systematic unfairness derived from data or design\u2014which amplifies societal prejudices in areas like healthcare and justice. Addressing the \"black box\" opacity of complex models requires mitigation strategies across data preprocessing, inprocessing constraints during training, and postprocessing of results, often supported by Explainable AI (XAI).",
+        "text_original": "A critical issue is algorithmic bias\u2014systematic unfairness derived from data or design\u2014which amplifies societal prejudices in areas like healthcare and justice. Addressing the \"black box\" opacity of complex models requires mitigation strategies across data preprocessing, inprocessing constraints during training, and postprocessing of results, often supported by Explainable AI (XAI",
+        "idx_start": 555,
+        "idx_end": 938
+    },
+    {
+        "document_idx": null,
+        "text": "# AI Ethics, Cognition, and Governance\n## Governance and Existential Challenges\nAI governance faces complex global regulations and immediate concerns regarding energy use and accountability. Long-term risks include the Technological Singularity, necessitating solutions to the \"alignment problem\"\u2014ensuring AI goals align with human values\u2014while ethical movements raise questions about human identity in an age of advanced AI.",
+        "text_original": "AI governance faces complex global regulations and immediate concerns regarding energy use and accountability. Long-term risks include the Technological Singularity, necessitating solutions to the \"alignment problem\"\u2014ensuring AI goals align with human values\u2014while ethical movements raise questions about human identity in an age of advanced AI",
+        "idx_start": 983,
+        "idx_end": 1327
+    }
+]

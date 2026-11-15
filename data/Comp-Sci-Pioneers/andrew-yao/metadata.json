@@ -1,0 +1,29 @@
+{
+  "id": 299560,
+  "title": "Andrew Yao",
+  "url": "https://en.wikipedia.org/wiki/Andrew_Yao",
+  "path": "Comp-Sci-Pioneers\\andrew-yao",
+  "summary": {
+    "chars": 1067,
+    "tokens": 233
+  },
+  "document": {
+    "chars": 3140,
+    "tokens": 674
+  },
+  "infobox": {
+    "title": "Andrew Chi-Chih Yao",
+    "data": {
+      "Born": "December 24, 1946 \u00b7 Shanghai, China",
+      "Citizenship": "- Republic of China (1946\u20132015) - United States (?\u20132015) - People's Republic of China (2015\u2013present)",
+      "Education": "National Taiwan University (BS) \u00b7 Harvard University (MA, PhD) \u00b7 University of Illinois, Urbana-Champaign (PhD)",
+      "Known for": "Yao's principle \u00b7 Communication complexity \u00b7 Dolev\u2013Yao model \u00b7 Garbled circuit \u00b7 Hybrid argument \u00b7 Yao's Millionaires' Problem \u00b7 Yao's test \u00b7 Yao graph",
+      "Spouse": "Frances Yao",
+      "Awards": "George P\u00f3lya Prize (1987) \u00b7 Knuth Prize (1996) \u00b7 Turing Award (2000) \u00b7 Kyoto Prize (2021)",
+      "Fields": "Computer science \u00b7 Theoretical physics",
+      "Institutions": "Massachusetts Institute of Technology \u00b7 Stanford University \u00b7 University of California, Berkeley \u00b7 Princeton University \u00b7 Tsinghua University \u00b7 Chinese University of Hong Kong",
+      "Theses": "- Internal Symmetries and Positivity (1969, Harvard) - A Study of Concrete Computational Complexity (1975, Illinois)",
+      "Doctoral advisor": "Sheldon Glashow (Harvard) \u00b7 Chung Laung Liu (Illinois)"
+    }
+  }
+}

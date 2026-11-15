@@ -1,0 +1,28 @@
+{
+  "id": 93548,
+  "title": "Edgar F. Codd",
+  "url": "https://en.wikipedia.org/wiki/Edgar_F._Codd",
+  "path": "Comp-Sci-Pioneers\\edgar-f-codd",
+  "summary": {
+    "chars": 262,
+    "tokens": 54
+  },
+  "document": {
+    "chars": 4822,
+    "tokens": 1139
+  },
+  "infobox": {
+    "title": "Edgar \"Ted\" Codd",
+    "data": {
+      "Born": "Edgar Frank Codd \u00b7 19 August 1923 \u00b7 Fortuneswell, Dorset, England",
+      "Died": "18 April 2003 (aged 79) \u00b7 Williams Island, Aventura, Florida, USA",
+      "Education": "Exeter College, Oxford (BA) \u00b7 University of Michigan (MA, PhD)",
+      "Known for": "Alpha language \u00b7 Database normalization \u00b7 OLAP \u00b7 Relational model \u00b7 Codd's cellular automaton \u00b7 Codd's theorem \u00b7 Codd's 12 rules \u00b7 Boyce\u2013Codd normal form",
+      "Awards": "Turing Award (1981)",
+      "Fields": "Computer Science",
+      "Institutions": "University of Oxford \u00b7 University of Michigan \u00b7 IBM",
+      "Thesis": "Propagation, Computation, and Construction in Two-dimensional cellular spaces (1965)",
+      "Doctoral advisor": "John Henry Holland"
+    }
+  }
+}

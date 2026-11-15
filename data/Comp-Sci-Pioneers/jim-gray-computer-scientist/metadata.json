@@ -1,0 +1,30 @@
+{
+  "id": 308367,
+  "title": "Jim Gray (computer scientist)",
+  "url": "https://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)",
+  "path": "Comp-Sci-Pioneers\\jim-gray-computer-scientist",
+  "summary": {
+    "chars": 259,
+    "tokens": 47
+  },
+  "document": {
+    "chars": 5317,
+    "tokens": 1126
+  },
+  "infobox": {
+    "title": "Jim Gray",
+    "data": {
+      "Born": "James Nicholas Gray \u00b7 January 12, 1944 \u00b7 San Francisco, California",
+      "Disappeared": "January 28, 2007 (aged 63) \u00b7 Waters near San Francisco",
+      "Status": "Declared dead in absentia \u00b7 January 28, 2012 (aged 68)",
+      "Citizenship": "American",
+      "Education": "University of California, Berkeley (BS, MS, PhD) \u00b7 New York University",
+      "Occupation": "Computer scientist",
+      "Employers": "- IBM - Tandem Computers - DEC - Microsoft",
+      "Known for": "Work on database and transaction processing systems",
+      "Spouse(s)": "Loretta (divorced), Donna Carnes (widowed)",
+      "Children": "1 (daughter)",
+      "Awards": "Turing Award (1998) \u00b7 IEEE Computer Society Charles Babbage Award (1998)"
+    }
+  }
+}

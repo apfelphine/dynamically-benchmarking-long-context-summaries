@@ -1,0 +1,36 @@
+{
+  "id": 886475,
+  "title": "Federal University of Rio de Janeiro",
+  "url": "https://en.wikipedia.org/wiki/Federal_University_of_Rio_de_Janeiro",
+  "path": "Universities\\federal-university-of-rio-de-janeiro",
+  "summary": {
+    "chars": 1595,
+    "tokens": 332
+  },
+  "document": {
+    "chars": 42482,
+    "tokens": 9348
+  },
+  "infobox": {
+    "title": "Federal University of Rio de Janeiro",
+    "data": {
+      "Other names": "UFRJ",
+      "Motto": "A Universidade do Brasil",
+      "Motto in English": "\"The University of Brazil\"",
+      "Type": "Public research university",
+      "Established": "December 16, 1792 \u00b7 (232 years) (Royal Academy) \u00b7 September 7, 1920 \u00b7 (105 years) (University)",
+      "Budget": "R$3.8 billion (2020)",
+      "Rector": "Roberto de Andrade Medronho",
+      "Academic staff": "4,218 (2021)",
+      "Administrative staff": "9,153 (2021)",
+      "Students": "69,200 (2021)",
+      "Undergraduates": "53,500 (2021)",
+      "Postgraduates": "15,700 (2021)",
+      "Location": "Rio de Janeiro, Rio de Janeiro, Brazil \u00b7 22\u00b051\u203245\u2033S 43\u00b013\u203226\u2033W\ufeff / \ufeff22.86250\u00b0S 43.22389\u00b0W",
+      "Campus": "University town \u00b7 2,338 acres (946 ha) \u00b7 (Main campus) \u00b7 3 municipalities - Rio de Janeiro - Duque de Caxias - Maca\u00e9",
+      "Colors": "Yellow and White",
+      "Mascot": "Minerva",
+      "Website": "ufrj.br/en"
+    }
+  }
+}

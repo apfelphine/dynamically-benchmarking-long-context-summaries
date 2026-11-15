@@ -1,0 +1,268 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Architecture\nA CNN consists of an input layer, hidden layers (including convolutional, pooling, fully connected, and normalization layers), and an output layer. Convolutional layers apply learnable filters to input data, generating feature maps that capture spatial hierarchies. Pooling layers reduce dimensionality while retaining key features, and fully connected layers perform classification. CNNs leverage shared weights and local connectivity to efficiently process spatial data, reducing computational complexity compared to fully connected networks.",
+        "text_original": "A CNN consists of an input layer, hidden layers (including convolutional, pooling, fully connected, and normalization layers), and an output layer. Convolutional layers apply learnable filters to input data, generating feature maps that capture spatial hierarchies. Pooling layers reduce dimensionality while retaining key features, and fully connected layers perform classification. CNNs leverage shared weights and local connectivity to efficiently process spatial data, reducing computational complexity compared to fully connected networks",
+        "idx_start": 66,
+        "idx_end": 609
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Key Features\n- **Convolutional Layers** : Use shared filters to detect features (edges, textures) at different scales, reducing parameters via weight sharing.\n- **Pooling Layers** : Downsample feature maps (e.g., max pooling) to reduce spatial dimensions, enhancing translation invariance.\n- **Receptive Fields** : Each neuron\u2019s receptive field grows with layer depth, enabling hierarchical feature abstraction.\n- **Dilated Convolutions** : Expand receptive fields without increasing parameters, improving long-range dependencies.",
+        "text_original": "Convolutional Layers**: Use shared filters to detect features (edges, textures) at different scales, reducing parameters via weight sharing.\n- **Pooling Layers**: Downsample feature maps (e.g., max pooling) to reduce spatial dimensions, enhancing translation invariance.\n- **Receptive Fields**: Each neuron\u2019s receptive field grows with layer depth, enabling hierarchical feature abstraction.\n- **Dilated Convolutions**: Expand receptive fields without increasing parameters, improving long-range dependencies",
+        "idx_start": 638,
+        "idx_end": 1146
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Applications\nCNNs excel in image recognition, object detection, and video analysis. They are foundational in computer vision tasks like facial recognition, medical imaging, and autonomous driving, often outperforming traditional MLPs due to their spatial locality and hierarchical feature learning.",
+        "text_original": "CNNs excel in image recognition, object detection, and video analysis. They are foundational in computer vision tasks like facial recognition, medical imaging, and autonomous driving, often outperforming traditional MLPs due to their spatial locality and hierarchical feature learning",
+        "idx_start": 1171,
+        "idx_end": 1455
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network\nA Hopfield network is a recurrent neural network designed for associative memory, storing patterns as stable states. Its architecture consists of binary threshold units with symmetric, learned weights, enabling content-addressable memory.",
+        "text_original": "A Hopfield network is a recurrent neural network designed for associative memory, storing patterns as stable states. Its architecture consists of binary threshold units with symmetric, learned weights, enabling content-addressable memory",
+        "idx_start": 1488,
+        "idx_end": 1725
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network\n## Training & Dynamics\n- **Learning Rules** : Weights are updated via Hebbian learning, where simultaneous activations strengthen connections.\n- **Convergence** : Networks converge to stable states (attractors) via energy minimization, ensuring robustness to input perturbations.\n- **Capacity** : Limited by the number of neurons (e.g., ~138 patterns per 1000 neurons), with modern variants (dense associative memories) achieving exponential storage capacity.",
+        "text_original": "Learning Rules**: Weights are updated via Hebbian learning, where simultaneous activations strengthen connections.\n- **Convergence**: Networks converge to stable states (attractors) via energy minimization, ensuring robustness to input perturbations.\n- **Capacity**: Limited by the number of neurons (e.g., ~138 patterns per 1000 neurons), with modern variants (dense associative memories) achieving exponential storage capacity",
+        "idx_start": 1761,
+        "idx_end": 2189
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network\n## Applications\nHopfield networks model human associative memory, solve optimization problems (e.g., traveling salesman), and are used in pattern recognition and cognitive simulations.",
+        "text_original": "Hopfield networks model human associative memory, solve optimization problems (e.g., traveling salesman), and are used in pattern recognition and cognitive simulations",
+        "idx_start": 2214,
+        "idx_end": 2381
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer\nTransformers revolutionize sequence modeling by replacing recurrent connections with self-attention mechanisms, enabling parallel processing.",
+        "text_original": "Transformers revolutionize sequence modeling by replacing recurrent connections with self-attention mechanisms, enabling parallel processing",
+        "idx_start": 2409,
+        "idx_end": 2549
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer\n## Architecture\n- **Tokenization & Embeddings** : Input text is split into tokens (e.g., words/subwords) and embedded into dense vectors.\n- **Self-Attention** : Captures long-range dependencies by weighting token relationships dynamically.\n- **Positional Encoding** : Adds positional context to embeddings, enabling order-aware processing.\n- **Encoder-Decoder** : Encoders compress input sequences; decoders generate outputs autoregressively.",
+        "text_original": "Tokenization & Embeddings**: Input text is split into tokens (e.g., words/subwords) and embedded into dense vectors.\n- **Self-Attention**: Captures long-range dependencies by weighting token relationships dynamically.\n- **Positional Encoding**: Adds positional context to embeddings, enabling order-aware processing.\n- **Encoder-Decoder**: Encoders compress input sequences; decoders generate outputs autoregressively",
+        "idx_start": 2578,
+        "idx_end": 2995
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer\n## Training\n- **Pretrain-Finetune** : Models are pretrained on large unlabeled data (e.g., language modeling) and fine-tuned for specific tasks.\n- **Loss Functions** : Variants like masked language modeling or next-sentence prediction guide training.",
+        "text_original": "Pretrain-Finetune**: Models are pretrained on large unlabeled data (e.g., language modeling) and fine-tuned for specific tasks.\n- **Loss Functions**: Variants like masked language modeling or next-sentence prediction guide training",
+        "idx_start": 3020,
+        "idx_end": 3251
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer\n## Applications\nTransformers dominate NLP (e.g., BERT, GPT-3), machine translation, and multimodal tasks (e.g., vision-language models). They also extend to video, speech, and generative AI.",
+        "text_original": "Transformers dominate NLP (e.g., BERT, GPT-3), machine translation, and multimodal tasks (e.g., vision-language models). They also extend to video, speech, and generative AI",
+        "idx_start": 3276,
+        "idx_end": 3449
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\nRNNs process sequential data by maintaining hidden states, enabling temporal dependencies.",
+        "text_original": "RNNs process sequential data by maintaining hidden states, enabling temporal dependencies",
+        "idx_start": 3496,
+        "idx_end": 3585
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Variants\n- **LSTM/GRU** : Mitigate vanishing gradients via gating mechanisms, enabling long-term memory.\n- **Bidirectional RNNs** : Process sequences in both directions, capturing past and future context.\n- **Encoder-Decoder** : Combines RNNs for sequence-to-sequence tasks (e.g., machine translation).",
+        "text_original": "LSTM/GRU**: Mitigate vanishing gradients via gating mechanisms, enabling long-term memory.\n- **Bidirectional RNNs**: Process sequences in both directions, capturing past and future context.\n- **Encoder-Decoder**: Combines RNNs for sequence-to-sequence tasks (e.g., machine translation",
+        "idx_start": 3610,
+        "idx_end": 3894
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Training\n- **Backpropagation Through Time (BPTT)** : Computes gradients across time steps, though computationally expensive.\n- **Teacher Forcing** : Uses ground truth labels during training to stabilize learning.",
+        "text_original": "Backpropagation Through Time (BPTT)**: Computes gradients across time steps, though computationally expensive.\n- **Teacher Forcing**: Uses ground truth labels during training to stabilize learning",
+        "idx_start": 3920,
+        "idx_end": 4116
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Applications\nRNNs excel in time-series forecasting, speech recognition, and natural language processing (e.g., grammar learning, text generation).",
+        "text_original": "RNNs excel in time-series forecasting, speech recognition, and natural language processing (e.g., grammar learning, text generation",
+        "idx_start": 4141,
+        "idx_end": 4272
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\nGANs consist of a generator and discriminator, trained in a minimax game to produce realistic data.",
+        "text_original": "GANs consist of a generator and discriminator, trained in a minimax game to produce realistic data",
+        "idx_start": 4326,
+        "idx_end": 4424
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Training Challenges\n- **Mode Collapse** : Generator may focus on a subset of data, ignoring others.\n- **Wasserstein GAN** : Addresses instability by using Lipschitz-constrained discriminators.",
+        "text_original": "Mode Collapse**: Generator may focus on a subset of data, ignoring others.\n- **Wasserstein GAN**: Addresses instability by using Lipschitz-constrained discriminators",
+        "idx_start": 4460,
+        "idx_end": 4625
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Applications\nGANs generate images (e.g., faces, art), simulate physics (e.g., particle collisions), and enhance medical imaging. Variants like CycleGAN enable domain translation without paired data.",
+        "text_original": "GANs generate images (e.g., faces, art), simulate physics (e.g., particle collisions), and enhance medical imaging. Variants like CycleGAN enable domain translation without paired data",
+        "idx_start": 4650,
+        "idx_end": 4834
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBF)\nRBF networks approximate functions using Gaussian \"basis functions\" centered at learned parameters.",
+        "text_original": "RBF networks approximate functions using Gaussian \"basis functions\" centered at learned parameters",
+        "idx_start": 4886,
+        "idx_end": 4984
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBF)\n## Architecture\n- **Three Layers** : Input \u2192 Hidden (Gaussian activation) \u2192 Output (linear).\n- **Normalization** : Encodes data into a latent space for improved generalization.",
+        "text_original": "Three Layers**: Input \u2192 Hidden (Gaussian activation) \u2192 Output (linear).\n- **Normalization**: Encodes data into a latent space for improved generalization",
+        "idx_start": 5013,
+        "idx_end": 5166
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBF)\n## Training\n- **Two-Phase** : First, centers are determined (e.g., via clustering); second, weights are optimized via least squares.",
+        "text_original": "Two-Phase**: First, centers are determined (e.g., via clustering); second, weights are optimized via least squares",
+        "idx_start": 5191,
+        "idx_end": 5305
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBF)\n## Applications\nRBF networks model chaotic systems, time-series prediction, and control theory.",
+        "text_original": "RBF networks model chaotic systems, time-series prediction, and control theory",
+        "idx_start": 5330,
+        "idx_end": 5408
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\nVAEs combine autoencoding with probabilistic modeling, using a prior and variational posterior to generate data.",
+        "text_original": "VAEs combine autoencoding with probabilistic modeling, using a prior and variational posterior to generate data",
+        "idx_start": 5454,
+        "idx_end": 5565
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Key Components\n- **Encoder** : Maps data to a latent distribution (e.g., Gaussian).\n- **Decoder** : Reconstructs data from latent samples.\n- **ELBO Loss** : Balances reconstruction error and KL divergence between approximate and true posteriors.",
+        "text_original": "Encoder**: Maps data to a latent distribution (e.g., Gaussian).\n- **Decoder**: Reconstructs data from latent samples.\n- **ELBO Loss**: Balances reconstruction error and KL divergence between approximate and true posteriors",
+        "idx_start": 5596,
+        "idx_end": 5818
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Applications\nVAEs generate synthetic data (e.g., images, molecules), compress data, and enable unsupervised learning.",
+        "text_original": "VAEs generate synthetic data (e.g., images, molecules), compress data, and enable unsupervised learning",
+        "idx_start": 5843,
+        "idx_end": 5946
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\nViTs replace CNNs\u2019 convolutional filters with self-attention, treating images as sequences of patches.",
+        "text_original": "ViTs replace CNNs\u2019 convolutional filters with self-attention, treating images as sequences of patches",
+        "idx_start": 5987,
+        "idx_end": 6088
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Architecture\n- **Patch Embeddings** : Images split into patches, each converted to a vector.\n- **Self-Attention** : Processes patches in parallel, capturing global relationships.\n- **Positional Encoding** : Adds positional context to embeddings.",
+        "text_original": "Patch Embeddings**: Images split into patches, each converted to a vector.\n- **Self-Attention**: Processes patches in parallel, capturing global relationships.\n- **Positional Encoding**: Adds positional context to embeddings",
+        "idx_start": 6117,
+        "idx_end": 6341
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Variants\n- **Masked Autoencoder (MAE)** : Trains ViTs by masking patches, improving efficiency.\n- **DINO** : Self-distillation method for pretraining ViTs without labels.",
+        "text_original": "Masked Autoencoder (MAE)**: Trains ViTs by masking patches, improving efficiency.\n- **DINO**: Self-distillation method for pretraining ViTs without labels",
+        "idx_start": 6366,
+        "idx_end": 6520
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Applications\nViTs achieve state-of-the-art results in image classification, segmentation, and generative tasks.",
+        "text_original": "ViTs achieve state-of-the-art results in image classification, segmentation, and generative tasks",
+        "idx_start": 6545,
+        "idx_end": 6642
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\nGNNs model relationships between nodes in graph-structured data using message passing.",
+        "text_original": "GNNs model relationships between nodes in graph-structured data using message passing",
+        "idx_start": 6684,
+        "idx_end": 6769
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Core Layers\n- **Message Passing** : Nodes update representations via neighbor interactions.\n- **Local Pooling** : Aggregates node features (e.g., k-nearest neighbors).\n- **Global Pooling** : Produces fixed-size graph representations (e.g., sum/mean).",
+        "text_original": "Message Passing**: Nodes update representations via neighbor interactions.\n- **Local Pooling**: Aggregates node features (e.g., k-nearest neighbors).\n- **Global Pooling**: Produces fixed-size graph representations (e.g., sum/mean",
+        "idx_start": 6797,
+        "idx_end": 7026
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Variants\n- **Graph Convolutional Networks (GCN)** : Uses spectral filtering.\n- **Graph Attention Networks (GAT)** : Learns attention weights for node interactions.",
+        "text_original": "Graph Convolutional Networks (GCN)**: Uses spectral filtering.\n- **Graph Attention Networks (GAT)**: Learns attention weights for node interactions",
+        "idx_start": 7052,
+        "idx_end": 7199
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Applications\nGNNs solve problems in chemistry (e.g., drug discovery), social networks, and cybersecurity.",
+        "text_original": "GNNs solve problems in chemistry (e.g., drug discovery), social networks, and cybersecurity",
+        "idx_start": 7224,
+        "idx_end": 7315
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM)\nCAM visualizes which regions in an image contribute most to a CNN\u2019s class prediction.",
+        "text_original": "CAM visualizes which regions in an image contribute most to a CNN\u2019s class prediction",
+        "idx_start": 7361,
+        "idx_end": 7445
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM)\n## Methods\n- **CAM** : Uses global average pooling to highlight discriminative regions.\n- **Grad-CAM** : Computes gradients of class scores w.r.t. feature maps, emphasizing influential pixels.",
+        "text_original": "CAM**: Uses global average pooling to highlight discriminative regions.\n- **Grad-CAM**: Computes gradients of class scores w.r.t. feature maps, emphasizing influential pixels",
+        "idx_start": 7469,
+        "idx_end": 7643
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM)\n## Applications\nCAM aids interpretability in medical imaging, autonomous driving, and explainable AI.",
+        "text_original": "CAM aids interpretability in medical imaging, autonomous driving, and explainable AI",
+        "idx_start": 7668,
+        "idx_end": 7752
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN\nWasserstein GANs use the Wasserstein distance to improve stability and avoid mode collapse.",
+        "text_original": "Wasserstein GANs use the Wasserstein distance to improve stability and avoid mode collapse",
+        "idx_start": 7783,
+        "idx_end": 7873
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN\n## Key Improvements\n- **Lipschitz-Constrained Discriminator** : Ensures discriminator gradients are bounded.\n- **Gradient Penalty** : Penalizes discriminator gradients to enforce Lipschitz continuity.",
+        "text_original": "Lipschitz-Constrained Discriminator**: Ensures discriminator gradients are bounded.\n- **Gradient Penalty**: Penalizes discriminator gradients to enforce Lipschitz continuity",
+        "idx_start": 7906,
+        "idx_end": 8079
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN\n## Applications\nWasserstein GANs generate high-quality images and simulate physical phenomena.",
+        "text_original": "Wasserstein GANs generate high-quality images and simulate physical phenomena",
+        "idx_start": 8104,
+        "idx_end": 8181
+    }
+]

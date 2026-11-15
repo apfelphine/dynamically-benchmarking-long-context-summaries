@@ -1,0 +1,1 @@
+Emil Leon Post (/poʊst/; February 11, 1897 – April 21, 1954) was an American mathematician and logician. He is best known for his work in the field that eventually became known as computability theory.

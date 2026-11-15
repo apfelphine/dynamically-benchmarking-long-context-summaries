@@ -1,0 +1,23 @@
+{
+  "id": 15783715,
+  "title": "Institute of Information Technology Advancement",
+  "url": "https://en.wikipedia.org/wiki/Institute_of_Information_Technology_Advancement",
+  "path": "Scholarships\\institute-of-information-technology-advancement",
+  "summary": {
+    "chars": 294,
+    "tokens": 59
+  },
+  "document": {
+    "chars": 655,
+    "tokens": 117
+  },
+  "infobox": {
+    "title": "Institute of Information Technology Advancement",
+    "data": {
+      "Type": "Government",
+      "Established": "1999",
+      "Location": "Daejeon, South Korea",
+      "Website": "www.iita.re.kr"
+    }
+  }
+}

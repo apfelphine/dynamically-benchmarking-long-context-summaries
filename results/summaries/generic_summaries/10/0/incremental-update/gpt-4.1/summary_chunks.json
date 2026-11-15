@@ -1,0 +1,114 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Sweden\nSweden provides universal preschool from age three, nine years of compulsory education, and merit-based upper secondary tracks. Tuition-free higher education emphasizes inclusivity, lifelong learning, teacher quality, and regulated independent schools.",
+        "text_original": "Sweden provides universal preschool from age three, nine years of compulsory education, and merit-based upper secondary tracks. Tuition-free higher education emphasizes inclusivity, lifelong learning, teacher quality, and regulated independent schools",
+        "idx_start": 24,
+        "idx_end": 275
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Hong Kong\nHong Kong offers voluntary kindergarten, compulsory primary, and academic/vocational secondary routes with smaller classes and multilingual instruction. Major exams (HKDSE, IB) shape progression, and tertiary education is integrating AI.",
+        "text_original": "Hong Kong offers voluntary kindergarten, compulsory primary, and academic/vocational secondary routes with smaller classes and multilingual instruction. Major exams (HKDSE, IB) shape progression, and tertiary education is integrating AI",
+        "idx_start": 293,
+        "idx_end": 529
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Norway\nNorway mandates elementary and lower secondary schooling, with flexible academic/vocational upper secondary options. Diplomas are teacher-awarded, IT integration is strong, and there is extensive support for special needs and selective teacher education.",
+        "text_original": "Norway mandates elementary and lower secondary schooling, with flexible academic/vocational upper secondary options. Diplomas are teacher-awarded, IT integration is strong, and there is extensive support for special needs and selective teacher education",
+        "idx_start": 544,
+        "idx_end": 797
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Ghana\nGhana provides twelve years of free compulsory schooling, national exams (BECE, WASSCE), expanding vocational programs, and rising access to private/ICT education amid infrastructure challenges. University access is competitive, national service is required, and literacy is increasing.",
+        "text_original": "Ghana provides twelve years of free compulsory schooling, national exams (BECE, WASSCE), expanding vocational programs, and rising access to private/ICT education amid infrastructure challenges. University access is competitive, national service is required, and literacy is increasing",
+        "idx_start": 811,
+        "idx_end": 1096
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Armenia\nArmenia maintains high literacy and compulsory twelve-year schooling, though absenteeism and child labor persist. Entrance to higher/vocational education relies on exams, curricula align with European standards, and early childhood access is improving.",
+        "text_original": "Armenia maintains high literacy and compulsory twelve-year schooling, though absenteeism and child labor persist. Entrance to higher/vocational education relies on exams, curricula align with European standards, and early childhood access is improving",
+        "idx_start": 1112,
+        "idx_end": 1363
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## England\nEngland has compulsory education from ages 5\u201318, support for disadvantaged groups, broad curricula, multiple school types, and diverse routes for post-16/higher education, including vocational and remote learning. Its top-ranked universities enhance global standing.",
+        "text_original": "England has compulsory education from ages 5\u201318, support for disadvantaged groups, broad curricula, multiple school types, and diverse routes for post-16/higher education, including vocational and remote learning. Its top-ranked universities enhance global standing",
+        "idx_start": 1379,
+        "idx_end": 1644
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Indonesia\nIndonesia enforces twelve years of compulsory inclusive education via public, private, and Islamic schools, with reforms addressing enrollment gaps. The KKNI framework guides higher and vocational studies.",
+        "text_original": "Indonesia enforces twelve years of compulsory inclusive education via public, private, and Islamic schools, with reforms addressing enrollment gaps. The KKNI framework guides higher and vocational studies",
+        "idx_start": 1662,
+        "idx_end": 1866
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## France\nFrance features a centralized system with academic/vocational tracks, regulated private/home schools, AEFE-backed international schools, competitive grandes \u00e9coles, and LMD-based higher education. Ongoing reforms target secularism, inclusion, science, and global integration.",
+        "text_original": "France features a centralized system with academic/vocational tracks, regulated private/home schools, AEFE-backed international schools, competitive grandes \u00e9coles, and LMD-based higher education. Ongoing reforms target secularism, inclusion, science, and global integration",
+        "idx_start": 1881,
+        "idx_end": 2155
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Egypt\nEgypt provides free, compulsory basic education with academic/technical tracks. Challenges include equity, access, and private tutoring despite rising government spending, growing inclusion, and globally ranked universities with graduate unemployment.",
+        "text_original": "Egypt provides free, compulsory basic education with academic/technical tracks. Challenges include equity, access, and private tutoring despite rising government spending, growing inclusion, and globally ranked universities with graduate unemployment",
+        "idx_start": 2169,
+        "idx_end": 2419
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Turkey\nTurkey\u2019s \u201c4+4+4\u201d structure offers academic/technical options, regulated curricula, private schools focusing on languages, religious education from grade 4, and limited minority support. Entrance exams govern higher education access.",
+        "text_original": "Turkey\u2019s \u201c4+4+4\u201d structure offers academic/technical options, regulated curricula, private schools focusing on languages, religious education from grade 4, and limited minority support. Entrance exams govern higher education access",
+        "idx_start": 2434,
+        "idx_end": 2665
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Sri Lanka\nSri Lanka mandates schooling until age 14 with competitive exams and diverse school types. Equity, private tutoring, and highly selective university entry remain issues, despite expanding vocational and online opportunities and graduate unemployment.",
+        "text_original": "Sri Lanka mandates schooling until age 14 with competitive exams and diverse school types. Equity, private tutoring, and highly selective university entry remain issues, despite expanding vocational and online opportunities and graduate unemployment",
+        "idx_start": 2683,
+        "idx_end": 2932
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Iran\nIran\u2019s centralized system covers all levels, with post-1979 reforms fostering religious, global, and digital education. University admission is competitive, female STEM participation is high, but disparities persist with rising remote learning.",
+        "text_original": "Iran\u2019s centralized system covers all levels, with post-1979 reforms fostering religious, global, and digital education. University admission is competitive, female STEM participation is high, but disparities persist with rising remote learning",
+        "idx_start": 2945,
+        "idx_end": 3188
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Israel\nIsrael\u2019s tiered system includes state-secular, state-religious, Haredi, and Arab tracks. Achievement gaps persist; Arab university enrollment is rising, women perform strongly overall, men dominate STEM, and teacher pay is low amid ongoing innovation and reform.",
+        "text_original": "Israel\u2019s tiered system includes state-secular, state-religious, Haredi, and Arab tracks. Achievement gaps persist; Arab university enrollment is rising, women perform strongly overall, men dominate STEM, and teacher pay is low amid ongoing innovation and reform",
+        "idx_start": 3203,
+        "idx_end": 3464
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Taiwan\nTaiwan\u2019s twelve years of public schooling lead to academic/science/vocational tracks, common university progression, strict discipline, and highly internationalized higher education. Cram/private schools, special/nursing education, and substantial foreign Chinese study prevail.",
+        "text_original": "Taiwan\u2019s twelve years of public schooling lead to academic/science/vocational tracks, common university progression, strict discipline, and highly internationalized higher education. Cram/private schools, special/nursing education, and substantial foreign Chinese study prevail",
+        "idx_start": 3479,
+        "idx_end": 3756
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Republic of Ireland\nIreland's system features eight years of primary education, varied secondary cycles, low dropout rates, strong support for special needs and disadvantaged groups, and high achievement. Schools closed for COVID-19 and reopened later in 2020. International student numbers are high, with reforms reducing religious influence and expanding inclusivity, and two years of free early childcare are available. University follows NFQ/EHEA cycles and national leaders are prominent.",
+        "text_original": "Ireland's system features eight years of primary education, varied secondary cycles, low dropout rates, strong support for special needs and disadvantaged groups, and high achievement. Schools closed for COVID-19 and reopened later in 2020. International student numbers are high, with reforms reducing religious influence and expanding inclusivity, and two years of free early childcare are available. University follows NFQ/EHEA cycles and national leaders are prominent",
+        "idx_start": 3784,
+        "idx_end": 4256
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Nigeria\nNigeria\u2019s \u201c6-3-3-4\u201d system includes six years of primary, three years each of junior/senior secondary, and four years of tertiary education. The Universal Basic Education program offers nine years of free, compulsory schooling. Federal \u201cunity\u201d schools and private schools differ in resources and reputation, with rising private fees. Key exams include SSCE (WAEC) and NECO. Universities are structured in successive generations, now totaling 153 (99 private), and admissions require SSCE/GCE credits or JAMB scores, with advanced-level programs (IJMB, JUPEB) for direct entry.\nVocational and informal education, overseen by NABTEB and the National Board for Technical Education, includes certificate programs and apprenticeships\u2014vital but hampered by political instability, poor policy implementation, decentralization, and underfunding. NGOs and government initiatives have seen mixed success. Female education has improved through initiatives like UNICEF's Girls' Education Project, but barriers such as poverty, gender stereotypes, teen pregnancy, and insecurity persist. Rural secondary schools are often neglected, with poor infrastructure and staffing. Nigeria\u2019s adult literacy rate remains low, especially in the North (due to poverty and cultural factors), with regional disparities and high rates of out-of-school children. Government aims to reach 95% digital literacy by 2030, but persistent challenges remain.",
+        "text_original": "Nigeria\u2019s \u201c6-3-3-4\u201d system includes six years of primary, three years each of junior/senior secondary, and four years of tertiary education. The Universal Basic Education program offers nine years of free, compulsory schooling. Federal \u201cunity\u201d schools and private schools differ in resources and reputation, with rising private fees. Key exams include SSCE (WAEC) and NECO. Universities are structured in successive generations, now totaling 153 (99 private), and admissions require SSCE/GCE credits or JAMB scores, with advanced-level programs (IJMB, JUPEB) for direct entry.\n\nVocational and informal education, overseen by NABTEB and the National Board for Technical Education, includes certificate programs and apprenticeships\u2014vital but hampered by political instability, poor policy implementation, decentralization, and underfunding. NGOs and government initiatives have seen mixed success. Female education has improved through initiatives like UNICEF's Girls' Education Project, but barriers such as poverty, gender stereotypes, teen pregnancy, and insecurity persist. Rural secondary schools are often neglected, with poor infrastructure and staffing. Nigeria\u2019s adult literacy rate remains low, especially in the North (due to poverty and cultural factors), with regional disparities and high rates of out-of-school children. Government aims to reach 95% digital literacy by 2030, but persistent challenges remain",
+        "idx_start": 4272,
+        "idx_end": 5693
+    }
+]

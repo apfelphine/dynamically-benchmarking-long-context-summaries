@@ -1,0 +1,156 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of New South Wales (UNSW)\nFounded in 1949, UNSW is a major Australian research university with multiple campuses, including a forthcoming CBD campus. Under Vice-Chancellor Attila Brungs, it comprises faculties from Arts to Engineering and Medicine, ranking among QS\u2019s Top 20 globally. UNSW excels in cancer research, cybersecurity, and education assessment. Student life features numerous clubs and innovative competitions via Arc @ UNSW. Notable alumni include Prime Minister Scott Morrison. The university has faced controversies related to copyright, safety, and research integrity.",
+        "text_original": "Founded in 1949, UNSW is a major Australian research university with multiple campuses, including a forthcoming CBD campus. Under Vice-Chancellor Attila Brungs, it comprises faculties from Arts to Engineering and Medicine, ranking among QS\u2019s Top 20 globally. UNSW excels in cancer research, cybersecurity, and education assessment. Student life features numerous clubs and innovative competitions via Arc @ UNSW. Notable alumni include Prime Minister Scott Morrison. The university has faced controversies related to copyright, safety, and research integrity",
+        "idx_start": 237,
+        "idx_end": 795
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## National Autonomous University of Mexico (UNAM)\nEstablished in 1910 and autonomous since the 1920s, UNAM is known for its UNESCO-listed Ciudad Universitaria and traditions of student activism and cultural festivals. It produces half of Mexico\u2019s research in AI, robotics, and biotechnology, housing the supercomputer Miztli. Its alumni include Nobel laureates and prominent political figures.",
+        "text_original": "Established in 1910 and autonomous since the 1920s, UNAM is known for its UNESCO-listed Ciudad Universitaria and traditions of student activism and cultural festivals. It produces half of Mexico\u2019s research in AI, robotics, and biotechnology, housing the supercomputer Miztli. Its alumni include Nobel laureates and prominent political figures",
+        "idx_start": 856,
+        "idx_end": 1198
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of Hong Kong (HKU)\nFounded in 1911 to blend British and Chinese cultures, HKU overcame WWII but currently confronts challenges to political and academic freedom. Its main campus supports diverse faculties and offers bilingual admissions. Ranked globally in social sciences, law, life sciences, and business, HKU values its heritage and vibrant student societies and residential colleges. Alumni include significant leaders and researchers.",
+        "text_original": "Founded in 1911 to blend British and Chinese cultures, HKU overcame WWII but currently confronts challenges to political and academic freedom. Its main campus supports diverse faculties and offers bilingual admissions. Ranked globally in social sciences, law, life sciences, and business, HKU values its heritage and vibrant student societies and residential colleges. Alumni include significant leaders and researchers",
+        "idx_start": 1241,
+        "idx_end": 1660
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of Melbourne\nFounded in 1853, Melbourne introduced the \"Melbourne Model\" for broad-based education and is expanding with a Fishermans Bend campus. It manages nine faculties, ranking as Australia\u2019s top university with notable employer recognition. Alumni include Prime Ministers and Nobel laureates, supported by active unions and residential colleges.",
+        "text_original": "Founded in 1853, Melbourne introduced the \"Melbourne Model\" for broad-based education and is expanding with a Fishermans Bend campus. It manages nine faculties, ranking as Australia\u2019s top university with notable employer recognition. Alumni include Prime Ministers and Nobel laureates, supported by active unions and residential colleges",
+        "idx_start": 1697,
+        "idx_end": 2034
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## National University of Singapore (NUS)\nTracing origins to early 20th-century institutions, NUS unified Singapore\u2019s higher education with English instruction. Operating multiple campuses and 17 faculties, including interdisciplinary NUS College, it ranks globally in STEM and business fields such as nanoscience and biomedical engineering. NUS fosters entrepreneurship through NUS Enterprise and interdisciplinary residential colleges. Alumni include heads of state and international leaders.",
+        "text_original": "Tracing origins to early 20th-century institutions, NUS unified Singapore\u2019s higher education with English instruction. Operating multiple campuses and 17 faculties, including interdisciplinary NUS College, it ranks globally in STEM and business fields such as nanoscience and biomedical engineering. NUS fosters entrepreneurship through NUS Enterprise and interdisciplinary residential colleges. Alumni include heads of state and international leaders",
+        "idx_start": 2086,
+        "idx_end": 2537
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of British Columbia (UBC)\nFounded in 1908 on Musqueam and Syilx lands, UBC emphasizes sustainability with facilities like the Cedar Longhouse and Brock Commons Tallwood House. Governance includes a chancellor and senate overseeing 12 faculties in Vancouver and 7 in Okanagan. Ranked 27th globally, UBC hosts notable research centers and industry partnerships. Tuition varies by residency. Student life includes Greek societies and competitive athletics. Alumni include Nobel laureates and innovators.",
+        "text_original": "Founded in 1908 on Musqueam and Syilx lands, UBC emphasizes sustainability with facilities like the Cedar Longhouse and Brock Commons Tallwood House. Governance includes a chancellor and senate overseeing 12 faculties in Vancouver and 7 in Okanagan. Ranked 27th globally, UBC hosts notable research centers and industry partnerships. Tuition varies by residency. Student life includes Greek societies and competitive athletics. Alumni include Nobel laureates and innovators",
+        "idx_start": 2587,
+        "idx_end": 3060
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## Cornell University\nFounded in 1865 as a land-grant university with campuses in Ithaca, NYC, and Qatar, Cornell is renowned for research, sustainability, and global engagement. Highly selective, governed by a large board with interim leadership, and supported by a $10.7 billion endowment, it sustains vast libraries, diverse student groups, and NCAA Division I athletics. Alumni include Nobel laureates, political leaders, scientists, and cultural icons.",
+        "text_original": "Founded in 1865 as a land-grant university with campuses in Ithaca, NYC, and Qatar, Cornell is renowned for research, sustainability, and global engagement. Highly selective, governed by a large board with interim leadership, and supported by a $10.7 billion endowment, it sustains vast libraries, diverse student groups, and NCAA Division I athletics. Alumni include Nobel laureates, political leaders, scientists, and cultural icons",
+        "idx_start": 3092,
+        "idx_end": 3526
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of Oxford\nOriginating in the late 11th century with a collegiate system formed by the 13th, Oxford endures major historical upheavals. Comprising 39 colleges and 4 private halls, it emphasizes small-group tutorials. Governance involves chancellors, proctors, and extensive endowments (\u00a31.9 billion university, \u00a36.7 billion in colleges). Highly competitive admissions and outreach promote diversity.",
+        "text_original": "Originating in the late 11th century with a collegiate system formed by the 13th, Oxford endures major historical upheavals. Comprising 39 colleges and 4 private halls, it emphasizes small-group tutorials. Governance involves chancellors, proctors, and extensive endowments (\u00a31.9 billion university, \u00a36.7 billion in colleges). Highly competitive admissions and outreach promote diversity",
+        "idx_start": 3560,
+        "idx_end": 3947
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of Oxford\n### Student Life and Culture\nOxford hosts diverse societies like the Oxford Union, student media, athletics with intercollegiate competitions, private clubs, and formal traditions including academic dress.",
+        "text_original": "Oxford hosts diverse societies like the Oxford Union, student media, athletics with intercollegiate competitions, private clubs, and formal traditions including academic dress",
+        "idx_start": 3981,
+        "idx_end": 4156
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of Oxford\n### Notable Alumni and Influence\nWith over 70 Nobel laureates, several British Prime Ministers, monarchs, and world leaders among alumni, Oxford has global impact in politics, science, and arts and features extensively in literature and film.",
+        "text_original": "With over 70 Nobel laureates, several British Prime Ministers, monarchs, and world leaders among alumni, Oxford has global impact in politics, science, and arts and features extensively in literature and film",
+        "idx_start": 4194,
+        "idx_end": 4402
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## Federal University of Rio de Janeiro (UFRJ)\nFounded in 1920 with roots in Brazil\u2019s earliest higher education, UFRJ was reformed under French influence in 1937 and gained autonomy in 1965. Governed by a rector and multiple pro-rectories, it serves over 48,000 undergraduates and 5,000+ graduate students.",
+        "text_original": "Founded in 1920 with roots in Brazil\u2019s earliest higher education, UFRJ was reformed under French influence in 1937 and gained autonomy in 1965. Governed by a rector and multiple pro-rectories, it serves over 48,000 undergraduates and 5,000+ graduate students",
+        "idx_start": 4459,
+        "idx_end": 4717
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## Federal University of Rio de Janeiro (UFRJ)\n### Academic Structure and Research\nComprised of six centers covering Health Sciences to Arts, UFRJ offers 179 undergrad and 345 postgraduate courses, reserving 30% admission for disadvantaged students. Its COPPEAD Graduate School ranks among the top 100 business schools globally. Student activism is historically significant, linked to movements such as the 1968 \u201cMassacre da Praia Vermelha.\u201d",
+        "text_original": "Comprised of six centers covering Health Sciences to Arts, UFRJ offers 179 undergrad and 345 postgraduate courses, reserving 30% admission for disadvantaged students. Its COPPEAD Graduate School ranks among the top 100 business schools globally. Student activism is historically significant, linked to movements such as the 1968 \u201cMassacre da Praia Vermelha",
+        "idx_start": 4758,
+        "idx_end": 5114
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## Federal University of Rio de Janeiro (UFRJ)\n### Campuses and Resources\nMain campuses include Ilha do Fund\u00e3o (modernist main and residences), Praia Vermelha (humanities), and specialized sites for biophysics and nanotech. Digital library networks and e-learning consortia enhance access.",
+        "text_original": "Main campuses include Ilha do Fund\u00e3o (modernist main and residences), Praia Vermelha (humanities), and specialized sites for biophysics and nanotech. Digital library networks and e-learning consortia enhance access",
+        "idx_start": 5147,
+        "idx_end": 5361
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## Federal University of Rio de Janeiro (UFRJ)\n### Innovation and Partnerships\nThe Technological Park of Rio hosts Petrobras\u2019s oil research and over 200 companies\u2014Brazil\u2019s main innovation hub\u2014with oceanic research, experimental energy, and advanced transport projects.",
+        "text_original": "The Technological Park of Rio hosts Petrobras\u2019s oil research and over 200 companies\u2014Brazil\u2019s main innovation hub\u2014with oceanic research, experimental energy, and advanced transport projects",
+        "idx_start": 5398,
+        "idx_end": 5586
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## Federal University of Rio de Janeiro (UFRJ)\n### Museums and Health Complex\nUFRJ hosts Latin America\u2019s largest natural history museum, the National Museum, plus Casa da Ci\u00eancia and a health complex with nine medical-hospital units including psychiatric and neurological institutes.",
+        "text_original": "UFRJ hosts Latin America\u2019s largest natural history museum, the National Museum, plus Casa da Ci\u00eancia and a health complex with nine medical-hospital units including psychiatric and neurological institutes",
+        "idx_start": 5622,
+        "idx_end": 5826
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## Federal University of Rio de Janeiro (UFRJ)\n### Notable Alumni\nCultural icons (Jorge Amado, Clarice Lispector), architect Oscar Niemeyer, scientist Carlos Chagas, Fields Medalist Artur \u00c1vila, and political leaders like Joaquim Levy.",
+        "text_original": "Cultural icons (Jorge Amado, Clarice Lispector), architect Oscar Niemeyer, scientist Carlos Chagas, Fields Medalist Artur \u00c1vila, and political leaders like Joaquim Levy",
+        "idx_start": 5850,
+        "idx_end": 6018
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of Toronto\nEstablished 1827 and secularized in 1849, U of T operates three main campuses\u2014St. George, Mississauga, Scarborough\u2014plus other sites supporting Indigenous studies, under a council and collegiate system with religious and graduate colleges.",
+        "text_original": "Established 1827 and secularized in 1849, U of T operates three main campuses\u2014St. George, Mississauga, Scarborough\u2014plus other sites supporting Indigenous studies, under a council and collegiate system with religious and graduate colleges",
+        "idx_start": 6053,
+        "idx_end": 6290
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of Toronto\n### Academic Excellence and Research\nWith 14 professional faculties plus Arts and Science, it pioneered communication theory and hosts major research entities like Munk School, Rotman Business, Faculty of Law, and Ontario Institute for Studies in Education. Its library system is the third-largest in North America.\nRanked consistently among the world\u2019s top 30 and Canada\u2019s top two, U of T leads in research funding (~$1.2 billion in 2020), sustainability (top global in 2024), and entrepreneurship. Innovations include electron microscopy, insulin discovery, G-suit, black hole evidence, early computing, deep learning breakthroughs, and medical advances like cancer stem cell research and pacemakers. It anchors Toronto\u2019s Discovery District and MaRS innovation hub.",
+        "text_original": "With 14 professional faculties plus Arts and Science, it pioneered communication theory and hosts major research entities like Munk School, Rotman Business, Faculty of Law, and Ontario Institute for Studies in Education. Its library system is the third-largest in North America.\n\nRanked consistently among the world\u2019s top 30 and Canada\u2019s top two, U of T leads in research funding (~$1.2 billion in 2020), sustainability (top global in 2024), and entrepreneurship. Innovations include electron microscopy, insulin discovery, G-suit, black hole evidence, early computing, deep learning breakthroughs, and medical advances like cancer stem cell research and pacemakers. It anchors Toronto\u2019s Discovery District and MaRS innovation hub",
+        "idx_start": 6332,
+        "idx_end": 7062
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of Toronto\n### Athletics\nHome to 44 Varsity Blues teams competing nationally (U Sports) and provincially (OUA). It hosted the first documented North American football game (1861) and won multiple championships: 4 Grey Cups, 2 Vanier Cups, 25 Yates Cups. Varsity Stadium (since 1898) also hosted 2015 Pan Am archery. The men\u2019s ice hockey team earned Olympic gold (1928) and 10 national titles, playing at Varsity Arena since 1926. Men\u2019s basketball claimed 14 conference titles; swimming teams have 30+ national championships; rowing is the oldest collegiate club with 1924 Olympic silver.",
+        "text_original": "Home to 44 Varsity Blues teams competing nationally (U Sports) and provincially (OUA). It hosted the first documented North American football game (1861) and won multiple championships: 4 Grey Cups, 2 Vanier Cups, 25 Yates Cups. Varsity Stadium (since 1898) also hosted 2015 Pan Am archery. The men\u2019s ice hockey team earned Olympic gold (1928) and 10 national titles, playing at Varsity Arena since 1926. Men\u2019s basketball claimed 14 conference titles; swimming teams have 30+ national championships; rowing is the oldest collegiate club with 1924 Olympic silver",
+        "idx_start": 7081,
+        "idx_end": 7642
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of Toronto\n### Culture and Student Life\nHart House\u2014a neo-Gothic student centre\u2014fosters community with library, theatre, pool, and internationally renowned clubs (Debating, Model UN, chess, Formula SAE, popular Aphrodite Project). Student representation involves five main unions. Canada\u2019s first fraternity, Zeta Psi (1879), and other Greek organizations enrich social life. Student media include *The Varsity* , *Hart House Review* , and activism outlets; early Facebook usage influenced campus culture.\nResidences at St. George house ~6,400 students, primarily first-years, with expansion plans. Surrounding neighborhoods form vibrant student communities.",
+        "text_original": "Hart House\u2014a neo-Gothic student centre\u2014fosters community with library, theatre, pool, and internationally renowned clubs (Debating, Model UN, chess, Formula SAE, popular Aphrodite Project). Student representation involves five main unions. Canada\u2019s first fraternity, Zeta Psi (1879), and other Greek organizations enrich social life. Student media include *The Varsity*, *Hart House Review*, and activism outlets; early Facebook usage influenced campus culture.\n\nResidences at St. George house ~6,400 students, primarily first-years, with expansion plans. Surrounding neighborhoods form vibrant student communities",
+        "idx_start": 7676,
+        "idx_end": 8290
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of Toronto\n### Demographics and Challenges\nAs Canada\u2019s largest university, enrollment surpasses 100,000 (2024), with ~29% international students and a slight female majority varying by level and faculty. Program enrollment spans Social Sciences, STEM, and Health. Following several student suicides (2017\u20132019), especially at the Bahen Centre, the university invested nearly $3 million in mental health initiatives.",
+        "text_original": "As Canada\u2019s largest university, enrollment surpasses 100,000 (2024), with ~29% international students and a slight female majority varying by level and faculty. Program enrollment spans Social Sciences, STEM, and Health. Following several student suicides (2017\u20132019), especially at the Bahen Centre, the university invested nearly $3 million in mental health initiatives",
+        "idx_start": 8327,
+        "idx_end": 8698
+    },
+    {
+        "document_idx": null,
+        "text": "# Universities Summary: UNSW, UNAM, HKU, University of Melbourne, NUS, UBC, Cornell University, University of Oxford, Federal University of Rio de Janeiro (UFRJ), and University of Toronto\n## University of Toronto\n### Notable People\nAlumni include three Canadian Prime Ministers (King, Pearson, Martin), multiple Governors General, 13 Nobel laureates, and numerous members of prestigious academies. Distinguished figures span politics, academia, science, arts, business, and exploration\u2014e.g., Frederick Banting (insulin discoverer), Roberta Bondar (first Canadian female astronaut), Lester B. Pearson (Nobel Peace Prize), Margaret Atwood (author), David Cronenberg (director). Alumni-founded companies produce roughly one-quarter of Canadian GDP.\nThis comprehensive summary details the histories, academic structures, research achievements, governance, student life, athletics, notable alumni, and societal contributions of leading global universities, culminating with an extensive profile of the University of Toronto\u2019s multifaceted excellence in research, culture, athletics, and innovation.",
+        "text_original": "Alumni include three Canadian Prime Ministers (King, Pearson, Martin), multiple Governors General, 13 Nobel laureates, and numerous members of prestigious academies. Distinguished figures span politics, academia, science, arts, business, and exploration\u2014e.g., Frederick Banting (insulin discoverer), Roberta Bondar (first Canadian female astronaut), Lester B. Pearson (Nobel Peace Prize), Margaret Atwood (author), David Cronenberg (director). Alumni-founded companies produce roughly one-quarter of Canadian GDP.\n\n---\n\nThis comprehensive summary details the histories, academic structures, research achievements, governance, student life, athletics, notable alumni, and societal contributions of leading global universities, culminating with an extensive profile of the University of Toronto\u2019s multifaceted excellence in research, culture, athletics, and innovation",
+        "idx_start": 8722,
+        "idx_end": 9588
+    }
+]

@@ -1,0 +1,3 @@
+Superintelligence is a 2020 American romantic action comedy film directed by Ben Falcone and written by Steve Mallory. The film stars Melissa McCarthy in her fourth collaboration with her husband, Falcone.
+Superintelligence was released by Warner Bros. Pictures digitally in the United States via HBO Max, and theatrically in some international markets, on November 26, 2020. The film has grossed $4 million and received mixed-to-negative reviews from critics, who called the film "forgettable", although McCarthy's performance was praised.
+The film was removed from HBO Max in July 2022.

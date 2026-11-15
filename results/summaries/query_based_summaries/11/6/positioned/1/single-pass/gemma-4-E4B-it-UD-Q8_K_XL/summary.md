@@ -1,0 +1,5 @@
+**Autoencoder**
+
+An autoencoder is a system comprising two main parts: an encoder and a decoder. The encoder maps an input message ($x \in \mathcal{X}$) to a compressed representation called the code or latent variable ($z \in \mathcal{Z}$), while the decoder reconstructs the message ($\hat{x} = D_{\theta}(z)$) from this code. Typically, both the encoder and decoder are implemented as multilayer perceptrons (MLPs).
+
+The goal of training an autoencoder is to minimize a loss function, $L(\theta, \phi) = \mathbb{E}_{x \sim \mu_{ref}}[d(x, D_{\theta}(E_{\phi}(x)))]$, where $d(x, x')$ measures the reconstruction quality. For an undercomplete autoencoder (where $\mathcal{Z}$ has fewer dimensions than $\mathcal{X}$), the objective is message compression. Variations include the Variational Autoencoder (VAE), which optimizes a lower bound of the data likelihood using a KL-divergence term, and the Sparse Autoencoder (SAE), which enforces sparsity on the latent codes. Denoising Autoencoders (DAE) achieve better representations by training on intentionally corrupted inputs.

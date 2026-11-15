@@ -1,0 +1,5 @@
+## University of the Andes (Colombia) Summary
+
+The University of the Andes (Uniandes) was legally established as a common-utility nonprofit corporation in February 1948, with the Colombian government granting it University status in 1964. Uniandes was founded by Mario Laserna Pinzón in November 1948, aiming to be Colombia's first nonsectarian and non-politically affiliated university, modeled after the American university. Its primary goals were to supply professionals with technical knowledge to benefit national development and to cultivate leaders for the post-war world through a blend of technical and liberal education.
+
+Uniandes' campus, situated in Bogotá's historical center, features a mix of renovated industrial and religious buildings alongside new constructions, covering 180,551 sq mt. The infrastructure includes approximately 116 classrooms, 219 laboratories, a central library, and five specialized satellite libraries. The university's mascot is Seneca, a goat. Uniandes' governance includes the Board of Trustees, the Board of Directors, the Rector, and the Academic Council.

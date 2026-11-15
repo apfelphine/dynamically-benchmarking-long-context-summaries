@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Ismail al-Jazari: Engineering Innovator\nIsmail al-Jazari (1136\u20131206) pioneered early robotics and automation, inventing camshafts, programmable automata, and escapements, as detailed in his landmark \u201cBook of Knowledge of Ingenious Mechanical Devices.\u201d",
+        "text_original": "Ismail al-Jazari (1136\u20131206) pioneered early robotics and automation, inventing camshafts, programmable automata, and escapements, as detailed in his landmark \u201cBook of Knowledge of Ingenious Mechanical Devices",
+        "idx_start": 125,
+        "idx_end": 334
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Al-Khwarizmi: Father of Algebra, Numerals, Algorithms, and Multidisciplinary Science\nAl-Khwarizmi, a 9th-century Persian polymath, transformed mathematics through abstract algebra, systematic equation solving, introduction of Hindu\u2013Arabic numerals, and computational algorithms. His impact extended to astronomy, geography, and calendrics, with celestial bodies named in his honor.",
+        "text_original": "Al-Khwarizmi, a 9th-century Persian polymath, transformed mathematics through abstract algebra, systematic equation solving, introduction of Hindu\u2013Arabic numerals, and computational algorithms. His impact extended to astronomy, geography, and calendrics, with celestial bodies named in his honor",
+        "idx_start": 427,
+        "idx_end": 722
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Claude Shannon: Father of Information Theory\nClaude Shannon founded information theory and digital circuit design, applying Boolean algebra to revolutionize communication and coding\u2014the backbone of modern digital technology.",
+        "text_original": "Claude Shannon founded information theory and digital circuit design, applying Boolean algebra to revolutionize communication and coding\u2014the backbone of modern digital technology",
+        "idx_start": 774,
+        "idx_end": 952
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## George Boole: Foundations of Boolean Logic\nGeorge Boole developed Boolean algebra and the \u201cLaws of Thought,\u201d fundamental to mathematics, engineering, and computer science.",
+        "text_original": "George Boole developed Boolean algebra and the \u201cLaws of Thought,\u201d fundamental to mathematics, engineering, and computer science",
+        "idx_start": 1002,
+        "idx_end": 1129
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Gottlob Frege: Architect of Modern Logic and Analytic Philosophy\nGottlob Frege (1848\u20131925) fundamentally shaped modern logic and the philosophy of mathematics. With key works like *Begriffsschrift* (1879), he created formal logic modeled on arithmetic; *Die Grundlagen der Arithmetik* (1884) and *Grundgesetze der Arithmetik* (1893, 1903) laid the logical foundations for number and arithmetic. His philosophical essays\u2014including \u201cOn Sense and Reference\u201d and \u201cFunction and Concept\u201d\u2014introduced vital distinctions such as sense vs. reference and concept vs. object, fostering analytic philosophy and compositionality. Though his Basic Law V faced Russell\u2019s paradox, subsequent work salvaged elements with alternative axioms. Frege\u2019s writings continue to influence logic, mathematics, and philosophy despite controversies in his later life.",
+        "text_original": "Gottlob Frege (1848\u20131925) fundamentally shaped modern logic and the philosophy of mathematics. With key works like *Begriffsschrift* (1879), he created formal logic modeled on arithmetic; *Die Grundlagen der Arithmetik* (1884) and *Grundgesetze der Arithmetik* (1893, 1903) laid the logical foundations for number and arithmetic. His philosophical essays\u2014including \u201cOn Sense and Reference\u201d and \u201cFunction and Concept\u201d\u2014introduced vital distinctions such as sense vs. reference and concept vs. object, fostering analytic philosophy and compositionality. Though his Basic Law V faced Russell\u2019s paradox, subsequent work salvaged elements with alternative axioms. Frege\u2019s writings continue to influence logic, mathematics, and philosophy despite controversies in his later life",
+        "idx_start": 1201,
+        "idx_end": 1972
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Kurt G\u00f6del: Mathematical and Logical Revolution\nKurt G\u00f6del (1906\u20131978) revolutionized logic and mathematics with his incompleteness theorems, recursion theory, G\u00f6del numbering, and contributions to set theory, relativity, and philosophy.",
+        "text_original": "Kurt G\u00f6del (1906\u20131978) revolutionized logic and mathematics with his incompleteness theorems, recursion theory, G\u00f6del numbering, and contributions to set theory, relativity, and philosophy",
+        "idx_start": 2027,
+        "idx_end": 2215
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Geoffrey Hinton: Architect of Modern AI\nGeoffrey Hinton\u2019s research on neural networks and deep learning, notably backpropagation, underpins contemporary artificial intelligence, building on foundational logic.",
+        "text_original": "Geoffrey Hinton\u2019s research on neural networks and deep learning, notably backpropagation, underpins contemporary artificial intelligence, building on foundational logic",
+        "idx_start": 2262,
+        "idx_end": 2430
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Lynn Conway: Computing Pioneer and Inclusion Advocate\nLynn Conway transformed VLSI chip design with the Mead\u2013Conway methodology, advanced electronic design automation, and championed transgender rights and STEM diversity.",
+        "text_original": "Lynn Conway transformed VLSI chip design with the Mead\u2013Conway methodology, advanced electronic design automation, and championed transgender rights and STEM diversity",
+        "idx_start": 2491,
+        "idx_end": 2657
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## George Antheil: Composer and Technologist\nGeorge Antheil fused music and technology, composing *Ballet M\u00e9canique* and, with Hedy Lamarr, co-invented frequency-hopping for secure wireless communication.",
+        "text_original": "George Antheil fused music and technology, composing *Ballet M\u00e9canique* and, with Hedy Lamarr, co-invented frequency-hopping for secure wireless communication",
+        "idx_start": 2706,
+        "idx_end": 2864
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Donald Knuth: Computer Science Innovator\nDonald Knuth\u2019s *The Art of Computer Programming* , TeX, Metafont, and literate programming set standards in computing; he is a Turing Award recipient.",
+        "text_original": "Donald Knuth\u2019s *The Art of Computer Programming*, TeX, Metafont, and literate programming set standards in computing; he is a Turing Award recipient",
+        "idx_start": 2912,
+        "idx_end": 3060
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Ramon Llull: Combinatorial Logic and Computation\nRamon Llull (1232/33\u20131315/16) contributed to combinatorial logic via his *Art* , influencing computation, literature, and voting theory.",
+        "text_original": "Ramon Llull (1232/33\u20131315/16) contributed to combinatorial logic via his *Art*, influencing computation, literature, and voting theory",
+        "idx_start": 3116,
+        "idx_end": 3250
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Edsger W. Dijkstra: Programming and Algorithmic Visionary\nEdsger W. Dijkstra authored foundational algorithms and championed structured programming, shaping software engineering.",
+        "text_original": "Edsger W. Dijkstra authored foundational algorithms and championed structured programming, shaping software engineering",
+        "idx_start": 3315,
+        "idx_end": 3434
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Kenneth E. Iverson: Functional Language Design\nKenneth Iverson (1920\u20132004) innovated programming languages with APL and J, championing expressive functional design and earning major computing awards.",
+        "text_original": "Kenneth Iverson (1920\u20132004) innovated programming languages with APL and J, championing expressive functional design and earning major computing awards",
+        "idx_start": 3488,
+        "idx_end": 3639
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Herbert A. Simon: AI and Decision Theory Pioneer\nHerbert Simon (1916\u20132001) impacted economics, sociology, and AI through \u201cbounded rationality\u201d and organizational theory, receiving the Nobel Prize and Turing Award.",
+        "text_original": "Herbert Simon (1916\u20132001) impacted economics, sociology, and AI through \u201cbounded rationality\u201d and organizational theory, receiving the Nobel Prize and Turing Award",
+        "idx_start": 3695,
+        "idx_end": 3858
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Jacek Karpi\u0144ski: Polish Computing Innovator\nJacek Karpi\u0144ski (1927\u20132010) advanced Polish computing with AKAT-1 and K-202, facing political hurdles and complexity in his legacy.",
+        "text_original": "Jacek Karpi\u0144ski (1927\u20132010) advanced Polish computing with AKAT-1 and K-202, facing political hurdles and complexity in his legacy",
+        "idx_start": 3909,
+        "idx_end": 4039
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Per Brinch Hansen: Operating Systems and Language Design\nPer Brinch Hansen pioneered operating systems, concurrent programming, and language design, earning the IEEE Computer Pioneer Award.",
+        "text_original": "Per Brinch Hansen pioneered operating systems, concurrent programming, and language design, earning the IEEE Computer Pioneer Award",
+        "idx_start": 4103,
+        "idx_end": 4234
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Federico Faggin: Microprocessor and Consciousness Pioneer\nFederico Faggin invented silicon-gate MOS technology and the Intel 4004 microprocessor, driving affordable computing. His work extended to Zilog, Synaptics, Foveon, and consciousness research.",
+        "text_original": "Federico Faggin invented silicon-gate MOS technology and the Intel 4004 microprocessor, driving affordable computing. His work extended to Zilog, Synaptics, Foveon, and consciousness research",
+        "idx_start": 4299,
+        "idx_end": 4490
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Engineering, Mathematics, Artificial Intelligence, and Computing\n## Grace Hopper: Computer Science Innovator, Advocate, and Mentor\nGrace Hopper (1906\u20131992) was a trailblazing mathematician, computer scientist, and Navy rear admiral. She contributed to the Harvard Mark I, developed compilers and COBOL, and advocated for user-friendly, distributed computing and mentorship. Hopper's global legacy includes major awards, conferences, and memorials, advancing diversity and technological progress.\nThis summary encapsulates the enduring contributions of key figures in engineering, mathematics, logic, artificial intelligence, programming, and computing, highlighting foundational innovations and their lasting impact on technology and society.",
+        "text_original": "Grace Hopper (1906\u20131992) was a trailblazing mathematician, computer scientist, and Navy rear admiral. She contributed to the Harvard Mark I, developed compilers and COBOL, and advocated for user-friendly, distributed computing and mentorship. Hopper's global legacy includes major awards, conferences, and memorials, advancing diversity and technological progress.\n\n---\n\nThis summary encapsulates the enduring contributions of key figures in engineering, mathematics, logic, artificial intelligence, programming, and computing, highlighting foundational innovations and their lasting impact on technology and society",
+        "idx_start": 4560,
+        "idx_end": 5176
+    }
+]

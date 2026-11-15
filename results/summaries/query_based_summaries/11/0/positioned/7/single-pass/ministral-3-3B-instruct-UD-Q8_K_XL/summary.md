@@ -1,0 +1,7 @@
+A **Generative Adversarial Network (GAN)** is a deep learning framework consisting of two neural networks—**a generator** and a **discriminator**—that compete in a zero-sum game. The generator creates synthetic data from a latent space, while the discriminator evaluates whether the generated data is real or fake. The adversarial interaction aims to make the generator produce data indistinguishable from real data, while the discriminator improves its ability to distinguish between real and generated samples.
+
+The core idea is to train these networks in tandem:
+- The **generator** is optimized to minimize the discriminator’s ability to distinguish its outputs from real data.
+- The **discriminator** is optimized to maximize its accuracy in distinguishing real data from generated data.
+
+This adversarial process drives the generator to learn a distribution over the data space, enabling it to generate realistic samples. GANs are widely used for tasks like image synthesis, style transfer, and data augmentation, though they often suffer from challenges such as **mode collapse** (where the generator fails to produce diverse outputs) and **vanishing gradients** during training. Variants like **Wasserstein GANs** and **conditional GANs** address some of these issues by altering the loss functions or incorporating additional constraints.

@@ -1,0 +1,1 @@
+François Gernelle (born December 20, 1944) is a French engineer, computer scientist and entrepreneur famous for inventing the first micro-computer using a micro-processor, the Micral N.

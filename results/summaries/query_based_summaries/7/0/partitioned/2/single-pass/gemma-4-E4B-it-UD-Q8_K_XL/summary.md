@@ -1,0 +1,5 @@
+## Education in Greece Summary
+
+The Greek education system is structured with compulsory education covering primary and lower secondary levels, followed by non-compulsory upper secondary education. Preschool, which is compulsory for two years, includes one year of Pre-kindergarten and one year of Kindergarten. Primary school (Dimotiko scholeio) is compulsory for six years, with students progressing automatically to the Gymnasium.
+
+Lower secondary education, the Gymnasium, is compulsory until age 15, lasting three academic years. Following this, upper secondary education in the Lyceum (Lykeio) is non-compulsory and lasts three years, with graduates earning a Lyceum Apolytirio, which is required for entry into Higher Education Institutes (HEIs). A dual-diploma pathway exists through the Vocational High School (EPAL), which allows students to earn both a High School Diploma and a Diploma of Vocational Education and Training, with the possibility of upgrading to Level 5 via a Post-High School Year Apprenticeship Class.

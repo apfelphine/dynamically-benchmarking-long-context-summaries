@@ -1,0 +1,5 @@
+## Ra.One Summary
+
+*Ra.One* centers on a technologically advanced game where a protagonist, G. One (played by Shah Rukh Khan, who also plays the programmer Shekhar Subramaniam), battles a powerful antagonist, Ra. One (played by Arjun Rampal). Ra. One is imbibed with a self-learning AI and possesses superior abilities, including shapeshifting and mind reading, while G. One and Ra. One are given powers via a H.A.R.T. system.
+
+The conflict escalates when Ra. One, unable to conclude his turn, uses new wireless technology to break free from the digital world and enter reality, hunting Lucifer (Prateek Subramaniam). G. One eventually manages to enter the real world through Jenny Nair's computer. After a protracted battle, G. One defeats Ra. One by destroying his H.A.R.T., and G. One subsequently absorbs Ra. One's remains, transporting himself back to the digital world. Months later, Prateek and Sonia return to London, where Prateek restores G. One to the real world.

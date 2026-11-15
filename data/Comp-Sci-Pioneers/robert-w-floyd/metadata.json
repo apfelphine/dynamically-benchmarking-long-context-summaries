@@ -1,0 +1,29 @@
+{
+  "id": 301900,
+  "title": "Robert W. Floyd",
+  "url": "https://en.wikipedia.org/wiki/Robert_W._Floyd",
+  "path": "Comp-Sci-Pioneers\\robert-w-floyd",
+  "summary": {
+    "chars": 815,
+    "tokens": 171
+  },
+  "document": {
+    "chars": 4795,
+    "tokens": 1110
+  },
+  "infobox": {
+    "title": "Robert W. Floyd",
+    "data": {
+      "Born": "Robert Willoughby Floyd \u00b7 June 8, 1936 \u00b7 New York City, New York, U.S.",
+      "Died": "September 25, 2001 (aged 65) \u00b7 Stanford, California, U.S.",
+      "Education": "University of Chicago (BA, BS)",
+      "Known for": "Floyd\u2013Warshall algorithm \u00b7 Floyd\u2013Steinberg dithering \u00b7 Floyd's cycle-finding algorithm \u00b7 Floyd's triangle \u00b7 ALGOL",
+      "Spouse(s)": "Jana M. Mason; Christiane Floyd (n\u00e9e Riedl)",
+      "Children": "4",
+      "Awards": "Turing Award (1978) \u00b7 Computer Pioneer Award (1991)",
+      "Fields": "Computer science",
+      "Institutions": "Illinois Institute of Technology \u00b7 Carnegie Mellon University \u00b7 Stanford University",
+      "Doctoral students": "- Jay Earley - Zohar Manna - David Plaisted - Ron Rivest - Robert Tarjan"
+    }
+  }
+}

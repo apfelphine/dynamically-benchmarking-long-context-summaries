@@ -1,0 +1,11 @@
+In Greece, **education is structured into three main stages**: preschool, primary, and secondary education, with upper secondary education further divided into vocational and general tracks.
+
+**Preschool (Pre-Kindergarten and Kindergarten)** is compulsory for 2 years, covering ages 4–6. Students begin learning English in kindergarten, with a focus on early development through play-based activities.
+
+**Primary Education** (Δημοτικό Σχολείο, *Dimotiko Scholeio*) is compulsory for 6 years, from ages 6–12. Students receive an "Απολυτήριο Δημοτικού" (Apolytirio Dimotikou) upon completion, granting automatic admission to the next stage, **Gymnasium (Lower Secondary Education)**. Grading starts from Year 3, with a 1–20 scale (A=20) introduced in secondary schools.
+
+**Lower Secondary Education (Gymnasium)** is compulsory for 3 years (ages 12–15). Students must have completed primary education. The curriculum includes core subjects like Modern Greek, Mathematics, and foreign languages (English, French, or German). The gymnasium-leaving certificate ("Απολυτήριο Γυμνασίου") qualifies students for upper secondary education.
+
+**Upper Secondary Education** is non-compulsory and lasts 3 years (ages 15–18). It includes **General High Schools (Λύκειο, *Lykeio*)**, which offer a broad academic curriculum, and **Vocational High Schools (Επαγγελματικό Λύκειο, *EPAL*)**, which focus on specialized vocational training. Students take standardized national exams ("Πανελλαδικές Εξετάσεις") for university admission, with a 20-point grading system. The **General High School Certificate ("Απολυτήριο Λυκείου")** is equivalent to the GCE Advanced Level and required for higher education.
+
+**Vocational High Schools (EPAL)** provide dual-diploma education, combining general education with vocational specialization. Students choose an orientation group (e.g., Agriculture, Business, Engineering) in Grade 2 and a specialty in Grade 3, earning both a high school diploma and a vocational qualification at HQF Level 4. Graduates can pursue further vocational training or higher education.

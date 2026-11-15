@@ -1,0 +1,26 @@
+{
+  "id": 427776,
+  "title": "Whitfield Diffie",
+  "url": "https://en.wikipedia.org/wiki/Whitfield_Diffie",
+  "path": "Comp-Sci-Pioneers\\whitfield-diffie",
+  "summary": {
+    "chars": 1077,
+    "tokens": 219
+  },
+  "document": {
+    "chars": 8604,
+    "tokens": 1774
+  },
+  "infobox": {
+    "title": "Whitfield Diffie",
+    "data": {
+      "Born": "Bailey Whitfield Diffie \u00b7 June 5, 1944 \u00b7 Washington, D.C., U.S.",
+      "Education": "Massachusetts Institute of Technology (BS)",
+      "Known for": "Diffie\u2013Hellman key exchange",
+      "Awards": "- Kanellakis Award (1996) - Marconi Prize (2000) - IEEE Hamming Medal (2010) - Computer History Museum Fellow (2011) - Turing Award (2015) - ForMemRS (2015)",
+      "Fields": "Cryptography",
+      "Institutions": "Stanford University \u00b7 Sun Microsystems \u00b7 ICANN \u00b7 Zhejiang University \u00b7 Royal Holloway (ISG)",
+      "Website": "cisac.fsi.stanford.edu/people/whitfield_diffie"
+    }
+  }
+}

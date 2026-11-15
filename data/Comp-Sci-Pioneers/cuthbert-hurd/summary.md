@@ -1,0 +1,1 @@
+Cuthbert Corwin Hurd (April 5, 1911 – May 22, 1996) was an American computer scientist and entrepreneur, who was instrumental in helping the International Business Machines Corporation develop its first general-purpose computers.

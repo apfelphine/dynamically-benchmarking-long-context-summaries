@@ -1,0 +1,19 @@
+**Education in Pakistan**  
+
+Pakistan's education system is structured into primary, secondary, and tertiary levels, inspired by the English system. Primary education spans grades 1–8, with pre-school (ages 3–5) and a focus on core subjects including arts, computer studies, science, modern languages, mathematics, religious education, and social studies. Students are required to pass national exams at the end of grades 9 and 10 (SSC-I and SSC-II), leading to a Secondary School Certificate (SSC). Secondary education includes a three-year intermediate phase (HSSC), with students choosing from pre-medical, pre-engineering, humanities, or commerce streams.  
+
+Tertiary education includes a variety of programs: professional degrees (e.g., MBBS, BDS, BSc in engineering) and academic degrees (e.g., BA, BSc, BBA). The system emphasizes pass or honors degrees, with honors degrees requiring four years of study. Teacher education includes pathways such as 12 years of schooling followed by a bachelor’s in education, and master’s or PhD programs.  
+
+The system faces significant challenges, including gender disparity—where female enrollment and performance lag behind males—due to patriarchal norms, cultural barriers, and lack of infrastructure. Female students often face lower literacy rates and limited access to education, especially in rural areas. The government has implemented policies to improve gender parity, such as free education for girls up to class 10, but progress remains uneven.  
+
+Quality of education is declining due to outdated curricula, poor teacher training, and inadequate infrastructure. There is a shortage of qualified teachers, outdated laboratories, and a lack of relevance in content. The curriculum is heavily focused on rote memorization, and students lack practical or professional skills.  
+
+Non-formal education includes vocational training, apprenticeships, and community-based programs. Madrassas, which are religious seminaries, are prevalent, especially among poorer families, and often provide free meals and shelter. However, they are criticized for promoting rigid religious ideologies and limiting access to modern education.  
+
+The literacy rate has improved significantly, reaching 60.65% in 2023, up from 46.56% in 1998. However, youth literacy remains below average, and rural areas face significant challenges.  
+
+Pakistan’s education system is underfunded, with public expenditure at only 2% of GDP. The government has set a target of increasing spending to 7% of GDP, though this remains a political challenge.  
+
+Notable achievements include prominent alumni such as Abdus Salam (Nobel laureate in physics), Atta-ur-Rahman (natural product chemistry), and Nergis Mavalvala (gravitational waves).  
+
+The system is undergoing reforms to improve quality, including curriculum modernization, teacher training, and increased focus on science, technology, and vocational education. However, deep-rooted social, cultural, and economic barriers continue to hinder equitable and effective education for all.

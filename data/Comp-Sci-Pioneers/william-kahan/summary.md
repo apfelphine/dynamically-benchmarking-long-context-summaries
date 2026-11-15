@@ -1,0 +1,1 @@
+William "Velvel" Morton Kahan (born June 5, 1933) is a Canadian mathematician and computer scientist, who is a professor emeritus at University of California, Berkeley. He received the Turing Award in 1989 for "his fundamental contributions to numerical analysis."

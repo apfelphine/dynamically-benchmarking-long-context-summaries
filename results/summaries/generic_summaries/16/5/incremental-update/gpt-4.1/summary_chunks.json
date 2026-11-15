@@ -1,0 +1,100 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\nImperial College London, founded in 1907, is a premier UK research university noted for interdisciplinary collaboration, innovation, financial strength, and distinguished faculties in Engineering, Medicine, Natural Sciences, and Business. It boasts competitive admissions, a vibrant campus life, global partnerships, impactful technology transfer, multiple laureates, and influential alumni.",
+        "text_original": "Imperial College London, founded in 1907, is a premier UK research university noted for interdisciplinary collaboration, innovation, financial strength, and distinguished faculties in Engineering, Medicine, Natural Sciences, and Business. It boasts competitive admissions, a vibrant campus life, global partnerships, impactful technology transfer, multiple laureates, and influential alumni",
+        "idx_start": 28,
+        "idx_end": 418
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\nEstablished in 1668, Lund University is Sweden\u2019s top comprehensive institution, excelling in neurology, nanotechnology, and climate change. It promotes gender equality, international cooperation, diverse academic offerings, and strong student and alumni engagement.",
+        "text_original": "Established in 1668, Lund University is Sweden\u2019s top comprehensive institution, excelling in neurology, nanotechnology, and climate change. It promotes gender equality, international cooperation, diverse academic offerings, and strong student and alumni engagement",
+        "idx_start": 441,
+        "idx_end": 705
+    },
+    {
+        "document_idx": null,
+        "text": "# Western University (University of Western Ontario)\nWestern University, Canada, comprises eleven faculties and affiliated colleges with strengths in sustainability, inclusion, life sciences, neuroscience, and environmental sciences. Globally ranked in the top 1%, it emphasizes campus safety and international outreach.",
+        "text_original": "Western University, Canada, comprises eleven faculties and affiliated colleges with strengths in sustainability, inclusion, life sciences, neuroscience, and environmental sciences. Globally ranked in the top 1%, it emphasizes campus safety and international outreach",
+        "idx_start": 763,
+        "idx_end": 1029
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\nFounded in 1962, the University of Jordan is known for innovative blended learning and prominent research in water, environment, agriculture, Islamic studies, and photonics. It features a major hospital, strategic partnerships, and strong student and alumni networks.",
+        "text_original": "Founded in 1962, the University of Jordan is known for innovative blended learning and prominent research in water, environment, agriculture, Islamic studies, and photonics. It features a major hospital, strategic partnerships, and strong student and alumni networks",
+        "idx_start": 1057,
+        "idx_end": 1323
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\nUnicamp, in S\u00e3o Paulo, offers tuition-free education and robust support for minorities and low-income students. It excels in healthcare, biosciences, technology, advanced research, community engagement, athletics, and social welfare.",
+        "text_original": "Unicamp, in S\u00e3o Paulo, offers tuition-free education and robust support for minorities and low-income students. It excels in healthcare, biosciences, technology, advanced research, community engagement, athletics, and social welfare",
+        "idx_start": 1369,
+        "idx_end": 1601
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\nFounded in 1863, Boston College is a Jesuit institution recognized for financial stability, campus expansion, the \u201cSoaring Higher\u201d campaign, selective admissions, NCAA athletics, active diversity initiatives, and prominent alumni like John F. Kerry.",
+        "text_original": "Founded in 1863, Boston College is a Jesuit institution recognized for financial stability, campus expansion, the \u201cSoaring Higher\u201d campaign, selective admissions, NCAA athletics, active diversity initiatives, and prominent alumni like John F. Kerry",
+        "idx_start": 1623,
+        "idx_end": 1871
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\nA global leader since 2004, the University of Manchester is renowned for life sciences, engineering, humanities, and social sciences. Its notable campus features major libraries, museums, the UK\u2019s largest Students\u2019 Union, varied accommodations, and 26 Nobel laureates.",
+        "text_original": "A global leader since 2004, the University of Manchester is renowned for life sciences, engineering, humanities, and social sciences. Its notable campus features major libraries, museums, the UK\u2019s largest Students\u2019 Union, varied accommodations, and 26 Nobel laureates",
+        "idx_start": 1903,
+        "idx_end": 2170
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\nFounded in 1636, Harvard University is a leading global institution with 12 schools, the largest academic library, a legacy of activism, top sports, influential alumni and faculty, substantial endowment, innovation, diversity, and strong governance.",
+        "text_original": "Founded in 1636, Harvard University is a leading global institution with 12 schools, the largest academic library, a legacy of activism, top sports, influential alumni and faculty, substantial endowment, innovation, diversity, and strong governance",
+        "idx_start": 2196,
+        "idx_end": 2444
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\nFounded in 1883, the University of Auckland is New Zealand\u2019s leading university, recognized for entrepreneurship, sustainability, inclusivity, advanced facilities, and prominent alumni, while addressing campus protests and labor disputes.",
+        "text_original": "Founded in 1883, the University of Auckland is New Zealand\u2019s leading university, recognized for entrepreneurship, sustainability, inclusivity, advanced facilities, and prominent alumni, while addressing campus protests and labor disputes",
+        "idx_start": 2474,
+        "idx_end": 2711
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University (PKU)\nFounded in 1898, Peking University is a top Chinese institution impacting politics, science, humanities, business, and sports. It is known for historic architecture, Asia\u2019s largest university library, academic freedom, societal influence, international engagement, and robust exchange programs.",
+        "text_original": "Founded in 1898, Peking University is a top Chinese institution impacting politics, science, humanities, business, and sports. It is known for historic architecture, Asia\u2019s largest university library, academic freedom, societal influence, international engagement, and robust exchange programs",
+        "idx_start": 2742,
+        "idx_end": 3035
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\nEstablished in 1850 as Australia\u2019s first public, secular university, Sydney is a leader in equal opportunity, academic excellence, research, and social change. It enjoys world-class rankings, high graduate success, strong Indigenous achievement, extensive facilities, and faces some governance and student satisfaction challenges.",
+        "text_original": "Established in 1850 as Australia\u2019s first public, secular university, Sydney is a leader in equal opportunity, academic excellence, research, and social change. It enjoys world-class rankings, high graduate success, strong Indigenous achievement, extensive facilities, and faces some governance and student satisfaction challenges",
+        "idx_start": 3063,
+        "idx_end": 3392
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\nFounded in 1887, RMIT is a leading Melbourne university with international campuses and partnerships, ranked #125 by QS for 2026. It offers Higher Education and Vocational divisions, over 50 research centers, and is noted for applied research in design, technology, and sustainability. Graduates are highly employable among 280,000 alumni worldwide. The campus features excellent amenities, active student life, inclusive spiritual spaces, and the graduation parade to Docklands Stadium.",
+        "text_original": "Founded in 1887, RMIT is a leading Melbourne university with international campuses and partnerships, ranked #125 by QS for 2026. It offers Higher Education and Vocational divisions, over 50 research centers, and is noted for applied research in design, technology, and sustainability. Graduates are highly employable among 280,000 alumni worldwide. The campus features excellent amenities, active student life, inclusive spiritual spaces, and the graduation parade to Docklands Stadium",
+        "idx_start": 3446,
+        "idx_end": 3932
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\nEstablished in 1948, the University of the Andes, Colombia\u2019s first nonsectarian, politically neutral university, models American institutions, emphasizing autonomy, pluralism, diversity, academic excellence, and social commitment. It features interdisciplinary programs, high-achieving students, international partnerships, modern facilities, and prominent alumni.",
+        "text_original": "Established in 1948, the University of the Andes, Colombia\u2019s first nonsectarian, politically neutral university, models American institutions, emphasizing autonomy, pluralism, diversity, academic excellence, and social commitment. It features interdisciplinary programs, high-achieving students, international partnerships, modern facilities, and prominent alumni",
+        "idx_start": 3974,
+        "idx_end": 4337
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\nFounded in 1976 and named after journalist J\u00falio de Mesquita Filho, S\u00e3o Paulo State University (UNESP) is a top Brazilian and Latin American university, recognized by THE, QS, ARWU, and Webometrics for its academic excellence, particularly as a young institution. With 23 campuses and 33 institutes, UNESP offers extensive undergraduate and postgraduate programs, supported by 1,900 laboratories, 30 libraries, teaching hospitals, experimental farms, and specialized clinics. Governance is led by a rector appointed by the governor from internally nominated candidates. Admissions rely on a competitive state-wide exam (vestibular) and specialized tests for arts subjects. Internationally active, UNESP maintains over 140 exchange agreements in 52 countries and hosts global students. Despite economic challenges, it steadily contributes to Brazil\u2019s higher education expansion. The university\u2019s research is centrally organized, focusing on bioenergy, biotechnology, climate change, nanotechnology, pharmaceuticals, public policy, sea sciences, and stem cell research, producing 8% of Brazil\u2019s scientific output as noted by UNESCO. Distinguished alumni and faculty include renowned artists, scientists, journalists, and academics, highlighting UNESP\u2019s broad societal influence.",
+        "text_original": "Founded in 1976 and named after journalist J\u00falio de Mesquita Filho, S\u00e3o Paulo State University (UNESP) is a top Brazilian and Latin American university, recognized by THE, QS, ARWU, and Webometrics for its academic excellence, particularly as a young institution. With 23 campuses and 33 institutes, UNESP offers extensive undergraduate and postgraduate programs, supported by 1,900 laboratories, 30 libraries, teaching hospitals, experimental farms, and specialized clinics. Governance is led by a rector appointed by the governor from internally nominated candidates. Admissions rely on a competitive state-wide exam (vestibular) and specialized tests for arts subjects. Internationally active, UNESP maintains over 140 exchange agreements in 52 countries and hosts global students. Despite economic challenges, it steadily contributes to Brazil\u2019s higher education expansion. The university\u2019s research is centrally organized, focusing on bioenergy, biotechnology, climate change, nanotechnology, pharmaceuticals, public policy, sea sciences, and stem cell research, producing 8% of Brazil\u2019s scientific output as noted by UNESCO. Distinguished alumni and faculty include renowned artists, scientists, journalists, and academics, highlighting UNESP\u2019s broad societal influence",
+        "idx_start": 4379,
+        "idx_end": 5654
+    }
+]

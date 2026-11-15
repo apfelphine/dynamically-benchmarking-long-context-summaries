@@ -1,0 +1,121 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\nA 12th-century engineer and inventor from Upper Mesopotamia, al-Jazari served as chief engineer at the Artuqlu Palace. His *Book of Knowledge of Ingenious Mechanical Devices* details over 50 devices, including water-raising pumps, automated fountains, and musical automata. He pioneered mechanisms like the crankshaft, camshaft, and escapement, influencing later engineering. His work combined craftsmanship with practical innovation, and devices such as the peacock fountain and water clocks demonstrated early automation. He emphasized hands-on design, using paper models and trial-and-error methods.",
+        "text_original": "A 12th-century engineer and inventor from Upper Mesopotamia, al-Jazari served as chief engineer at the Artuqlu Palace. His *Book of Knowledge of Ingenious Mechanical Devices* details over 50 devices, including water-raising pumps, automated fountains, and musical automata. He pioneered mechanisms like the crankshaft, camshaft, and escapement, influencing later engineering. His work combined craftsmanship with practical innovation, and devices such as the peacock fountain and water clocks demonstrated early automation. He emphasized hands-on design, using paper models and trial-and-error methods",
+        "idx_start": 25,
+        "idx_end": 626
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\nA 20th-century logician, G\u00f6del made groundbreaking contributions to mathematical logic. His incompleteness theorems proved that any formal system powerful enough to describe arithmetic cannot be both complete and consistent. He also demonstrated the consistency of the axiom of choice and the generalized continuum hypothesis. A philosopher and mathematician, G\u00f6del held rationalistic, idealistic views on religion and believed in an afterlife. He developed a formal ontological proof of God's existence. His work fundamentally reshaped modern logic and mathematics.",
+        "text_original": "A 20th-century logician, G\u00f6del made groundbreaking contributions to mathematical logic. His incompleteness theorems proved that any formal system powerful enough to describe arithmetic cannot be both complete and consistent. He also demonstrated the consistency of the axiom of choice and the generalized continuum hypothesis. A philosopher and mathematician, G\u00f6del held rationalistic, idealistic views on religion and believed in an afterlife. He developed a formal ontological proof of God's existence. His work fundamentally reshaped modern logic and mathematics",
+        "idx_start": 648,
+        "idx_end": 1213
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\nA cognitive scientist and AI pioneer, Hinton revolutionized neural networks with the invention of backpropagation and the development of capsule networks. He co-founded DNNresearch Inc. and played a key role in advancing deep learning. Hinton later expressed concerns about AI's risks, including job displacement and existential threats from artificial general intelligence (AGI). He advocates for government regulation and ethical AI development. His work has profoundly influenced machine learning and AI research.",
+        "text_original": "A cognitive scientist and AI pioneer, Hinton revolutionized neural networks with the invention of backpropagation and the development of capsule networks. He co-founded DNNresearch Inc. and played a key role in advancing deep learning. Hinton later expressed concerns about AI's risks, including job displacement and existential threats from artificial general intelligence (AGI). He advocates for government regulation and ethical AI development. His work has profoundly influenced machine learning and AI research",
+        "idx_start": 1240,
+        "idx_end": 1755
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\nA computer engineer and pioneer in VLSI design, Conway developed the Mead\u2013Conway VLSI methodology, which revolutionized chip design and established the foundry model. She co-invented the MOSIS system, enabling rapid prototyping. A trailblazer for women in tech, Conway advocated for gender equality and was a key figure in transgender rights activism. She received numerous awards, including the IEEE Medal of Honor, and is celebrated for her contributions to engineering and social justice.",
+        "text_original": "A computer engineer and pioneer in VLSI design, Conway developed the Mead\u2013Conway VLSI methodology, which revolutionized chip design and established the foundry model. She co-invented the MOSIS system, enabling rapid prototyping. A trailblazer for women in tech, Conway advocated for gender equality and was a key figure in transgender rights activism. She received numerous awards, including the IEEE Medal of Honor, and is celebrated for her contributions to engineering and social justice",
+        "idx_start": 1778,
+        "idx_end": 2268
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\nA composer and inventor, Antheil created *Ballet M\u00e9canique* , a groundbreaking work that combined music and mechanical devices. He developed a system of synchronized player pianos and introduced the concept of frequency hopping in radio technology, which later influenced modern wireless communication. His work in music and technology reflected a fusion of art and innovation, and he was known for his avant-garde style and experimental approach.",
+        "text_original": "A composer and inventor, Antheil created *Ballet M\u00e9canique*, a groundbreaking work that combined music and mechanical devices. He developed a system of synchronized player pianos and introduced the concept of frequency hopping in radio technology, which later influenced modern wireless communication. His work in music and technology reflected a fusion of art and innovation, and he was known for his avant-garde style and experimental approach",
+        "idx_start": 2294,
+        "idx_end": 2739
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\nA computer scientist and mathematician, Knuth authored *The Art of Computer Programming* , a foundational text in computer science. He developed TeX and Metafont for digital typesetting and pioneered literate programming, emphasizing the importance of writing programs as works of literature. His work on information theory and algorithms laid the groundwork for modern computing. Knuth is also known for his humor, wit, and dedication to precision and clarity in his writings.",
+        "text_original": "A computer scientist and mathematician, Knuth authored *The Art of Computer Programming*, a foundational text in computer science. He developed TeX and Metafont for digital typesetting and pioneered literate programming, emphasizing the importance of writing programs as works of literature. His work on information theory and algorithms laid the groundwork for modern computing. Knuth is also known for his humor, wit, and dedication to precision and clarity in his writings",
+        "idx_start": 2763,
+        "idx_end": 3238
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\nA 13th-century philosopher and logician, Llull developed *Llull\u2019s Art* , a combinatorial system to prove theological and philosophical truths. His work emphasized logical reasoning, using diagrams and principles to derive knowledge. He wrote dialogues and proverbs to make complex ideas accessible. Llull\u2019s ideas influenced later thinkers, including Gottfried Leibniz, and are seen as precursors to modern logic and information theory.",
+        "text_original": "A 13th-century philosopher and logician, Llull developed *Llull\u2019s Art*, a combinatorial system to prove theological and philosophical truths. His work emphasized logical reasoning, using diagrams and principles to derive knowledge. He wrote dialogues and proverbs to make complex ideas accessible. Llull\u2019s ideas influenced later thinkers, including Gottfried Leibniz, and are seen as precursors to modern logic and information theory",
+        "idx_start": 3261,
+        "idx_end": 3694
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\nA pioneer in information theory, Shannon introduced the concept of entropy as a measure of information content. His work laid the foundation for digital communication, cryptography, and modern computing. He invented the switching circuit theory, which underpins digital electronics. Shannon also designed early AI systems like *Theseus* , a learning machine that used trial-and-error to solve problems. His contributions are considered foundational to the digital age.",
+        "text_original": "A pioneer in information theory, Shannon introduced the concept of entropy as a measure of information content. His work laid the foundation for digital communication, cryptography, and modern computing. He invented the switching circuit theory, which underpins digital electronics. Shannon also designed early AI systems like *Theseus*, a learning machine that used trial-and-error to solve problems. His contributions are considered foundational to the digital age",
+        "idx_start": 3720,
+        "idx_end": 4186
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\nA 19th-century mathematician, Boole developed Boolean algebra, a system of logic using binary values (true/false). His work on symbolic logic and probability influenced modern computer science. Boolean algebra is the foundation of digital circuit design and computer programming. Boole\u2019s ideas were later applied by Claude Shannon in the development of digital computers.",
+        "text_original": "A 19th-century mathematician, Boole developed Boolean algebra, a system of logic using binary values (true/false). His work on symbolic logic and probability influenced modern computer science. Boolean algebra is the foundation of digital circuit design and computer programming. Boole\u2019s ideas were later applied by Claude Shannon in the development of digital computers",
+        "idx_start": 4210,
+        "idx_end": 4580
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\nA computer scientist known for his contributions to programming and algorithm design, Dijkstra introduced the concept of structured programming and the \"Go To statement considered harmful\" principle. He developed the shortest path algorithm (Dijkstra\u2019s algorithm), the monitor concept, and the Banker\u2019s algorithm for resource allocation. Dijkstra emphasized clarity, simplicity, and rigorous testing in software development.",
+        "text_original": "A computer scientist known for his contributions to programming and algorithm design, Dijkstra introduced the concept of structured programming and the \"Go To statement considered harmful\" principle. He developed the shortest path algorithm (Dijkstra\u2019s algorithm), the monitor concept, and the Banker\u2019s algorithm for resource allocation. Dijkstra emphasized clarity, simplicity, and rigorous testing in software development",
+        "idx_start": 4610,
+        "idx_end": 5033
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\nAn inventor and computer scientist, Iverson created APL, a programming language that used a concise, symbolic notation to simplify programming tasks. He developed the APL language and its syntax, which emphasized natural language-like expressions. His work influenced modern programming languages and contributed to the development of functional programming and data analysis tools.",
+        "text_original": "An inventor and computer scientist, Iverson created APL, a programming language that used a concise, symbolic notation to simplify programming tasks. He developed the APL language and its syntax, which emphasized natural language-like expressions. His work influenced modern programming languages and contributed to the development of functional programming and data analysis tools",
+        "idx_start": 5063,
+        "idx_end": 5444
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\nA cognitive scientist and economist, Simon introduced the concept of bounded rationality, arguing that humans make decisions based on limited information and cognitive capacity. He co-developed the Logic Theory Machine and the General Problem Solver, early AI systems that simulated human problem-solving. Simon's work in decision-making and AI laid the foundation for modern cognitive science and behavioral economics.",
+        "text_original": "A cognitive scientist and economist, Simon introduced the concept of bounded rationality, arguing that humans make decisions based on limited information and cognitive capacity. He co-developed the Logic Theory Machine and the General Problem Solver, early AI systems that simulated human problem-solving. Simon's work in decision-making and AI laid the foundation for modern cognitive science and behavioral economics",
+        "idx_start": 5472,
+        "idx_end": 5890
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\nA Polish engineer and computer pioneer, Karpi\u0144ski developed early computers such as the AKAT-1 and KAR-65, which used transistors and advanced memory systems. He designed the K-202 minicomputer, which was innovative in its architecture and performance. Karpi\u0144ski was also a resistance fighter during WWII and worked on advanced computing systems. His work is recognized as a significant contribution to early computer science in Eastern Europe.",
+        "text_original": "A Polish engineer and computer pioneer, Karpi\u0144ski developed early computers such as the AKAT-1 and KAR-65, which used transistors and advanced memory systems. He designed the K-202 minicomputer, which was innovative in its architecture and performance. Karpi\u0144ski was also a resistance fighter during WWII and worked on advanced computing systems. His work is recognized as a significant contribution to early computer science in Eastern Europe",
+        "idx_start": 5917,
+        "idx_end": 6360
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\nA computer architect, Brinch Hansen developed the monitor concept and contributed to operating system design. He created Concurrent Pascal, a language for concurrent programming, and developed the RC 4000 multiprogramming system. His work influenced modern operating systems and distributed computing, and he authored foundational textbooks on operating systems and concurrent programming.",
+        "text_original": "A computer architect, Brinch Hansen developed the monitor concept and contributed to operating system design. He created Concurrent Pascal, a language for concurrent programming, and developed the RC 4000 multiprogramming system. His work influenced modern operating systems and distributed computing, and he authored foundational textbooks on operating systems and concurrent programming",
+        "idx_start": 6389,
+        "idx_end": 6777
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\nA 9th-century Persian mathematician, astronomer, and geographer, Al-Khwarizmi introduced algebra through his *Al-Jabr* , a foundational text in mathematics. He systematized Hindu-Arabic numerals, spreading them throughout the Islamic world and Europe. His work in astronomy and geography, including *Kitab surat al-ard* , improved the accuracy of maps and geographic data. Al-Khwarizmi's contributions laid the groundwork for modern algebra and computational science.",
+        "text_original": "A 9th-century Persian mathematician, astronomer, and geographer, Al-Khwarizmi introduced algebra through his *Al-Jabr*, a foundational text in mathematics. He systematized Hindu-Arabic numerals, spreading them throughout the Islamic world and Europe. His work in astronomy and geography, including *Kitab surat al-ard*, improved the accuracy of maps and geographic data. Al-Khwarizmi's contributions laid the groundwork for modern algebra and computational science",
+        "idx_start": 6801,
+        "idx_end": 7265
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\nA pioneering computer scientist and Navy officer, Hopper developed the first compiler, a tool that translated high-level programming languages into machine code. She advocated for the use of English-like programming languages, leading to the creation of COBOL. Hopper promoted standards in programming and was instrumental in advancing computer accessibility. She is remembered for her leadership, humor, and the \"debugging\" term, which originated from a moth found in a computer.",
+        "text_original": "A pioneering computer scientist and Navy officer, Hopper developed the first compiler, a tool that translated high-level programming languages into machine code. She advocated for the use of English-like programming languages, leading to the creation of COBOL. Hopper promoted standards in programming and was instrumental in advancing computer accessibility. She is remembered for her leadership, humor, and the \"debugging\" term, which originated from a moth found in a computer",
+        "idx_start": 7289,
+        "idx_end": 7768
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\nA 19th-century logician and philosopher, Frege developed formal logic and introduced the distinction between sense and reference. His work laid the foundation for modern logic, influencing Russell, Whitehead, and G\u00f6del. Frege's *Begriffsschrift* introduced symbolic logic and axiomatic systems, and his logicism aimed to show that arithmetic is a branch of logic. His contributions are central to analytic philosophy and mathematical logic.",
+        "text_original": "A 19th-century logician and philosopher, Frege developed formal logic and introduced the distinction between sense and reference. His work laid the foundation for modern logic, influencing Russell, Whitehead, and G\u00f6del. Frege's *Begriffsschrift* introduced symbolic logic and axiomatic systems, and his logicism aimed to show that arithmetic is a branch of logic. His contributions are central to analytic philosophy and mathematical logic",
+        "idx_start": 7793,
+        "idx_end": 8232
+    }
+]

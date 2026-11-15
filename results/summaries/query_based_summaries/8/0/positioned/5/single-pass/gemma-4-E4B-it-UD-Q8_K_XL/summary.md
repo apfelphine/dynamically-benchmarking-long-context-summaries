@@ -1,0 +1,7 @@
+The provided text exclusively details "Education in the United States."
+
+**K-12 Education Structure and History:**
+Formal education in the U.S. is structured into stages, generally beginning around ages five or six, with education being mandatory until age 16 (or 18 in some states). The system is divided into elementary school (K/1–6) and secondary school (9/10–12). Historically, New England encouraged tax-funded public schools, and in the mid-19th century, states began passing laws mandating compulsory schooling. The US Office of Education was created during Reconstruction to standardize reforms but lacked enforcement power. Over time, educational aims broadened, leading to recommendations for a 12-year instruction period.
+
+**Funding, Inequality, and Higher Education:**
+The U.S. system is a mix of public and private schooling, with 85% of students entering public schooling. While spending per student in public schools is high, funding disparities exist, and rural schools face challenges. Standardized testing, such as NAEP, has been used to hold schools and teachers accountable, though critics argue these tests can reflect systemic inequities based on race, socioeconomic status, and geography. Higher education is highly valued, but disparities exist, with the gap in graduation rates between wealthy and low-income students widening. Post-secondary education is largely deregulated, with numerous private and public institutions, and student loan debt is a significant national issue.

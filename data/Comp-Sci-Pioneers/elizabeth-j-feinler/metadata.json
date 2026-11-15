@@ -1,0 +1,25 @@
+{
+  "id": 31419527,
+  "title": "Elizabeth J. Feinler",
+  "url": "https://en.wikipedia.org/wiki/Elizabeth_J._Feinler",
+  "path": "Comp-Sci-Pioneers\\elizabeth-j-feinler",
+  "summary": {
+    "chars": 368,
+    "tokens": 85
+  },
+  "document": {
+    "chars": 6246,
+    "tokens": 1319
+  },
+  "infobox": {
+    "title": "Elizabeth \"Jake\" Feinler",
+    "data": {
+      "Born": "Elizabeth Jocelyn Feinler \u00b7 March 2, 1931 \u00b7 Wheeling, West Virginia, U.S.",
+      "Citizenship": "American",
+      "Alma mater": "West Liberty State College and Purdue University",
+      "Known for": "Running the original ARPANET NIC at SRI",
+      "Fields": "Computer science",
+      "Institutions": "SRI, NASA Ames, Computer History Museum"
+    }
+  }
+}

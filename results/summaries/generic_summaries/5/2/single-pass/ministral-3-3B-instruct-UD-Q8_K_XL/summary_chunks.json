@@ -1,0 +1,303 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Early Life and Education\nAlan Turing, born on **23 June 1912** , in Maida Vale, London, was the son of a British civil servant and a Protestant Anglo-Irish gentry family. His early education included primary school at St Michael\u2019s, followed by Hazelhurst Preparatory School and Sherborne School, where he excelled in mathematics. His friendship with Christopher Morcom, who died of tuberculosis in 1930, deeply influenced his intellectual pursuits and later his philosophical views. Turing earned a scholarship to study at King\u2019s College, Cambridge, where he completed his undergraduate studies in 1934, earning first-class honors in mathematics. His dissertation, *On the Gaussian Error Function* , laid the groundwork for his later work in computability.",
+        "text_original": "Alan Turing, born on **23 June 1912**, in Maida Vale, London, was the son of a British civil servant and a Protestant Anglo-Irish gentry family. His early education included primary school at St Michael\u2019s, followed by Hazelhurst Preparatory School and Sherborne School, where he excelled in mathematics. His friendship with Christopher Morcom, who died of tuberculosis in 1930, deeply influenced his intellectual pursuits and later his philosophical views. Turing earned a scholarship to study at King\u2019s College, Cambridge, where he completed his undergraduate studies in 1934, earning first-class honors in mathematics. His dissertation, *On the Gaussian Error Function*, laid the groundwork for his later work in computability",
+        "idx_start": 53,
+        "idx_end": 781
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Mathematics and Computability\nTuring\u2019s groundbreaking work in **computability** began in the 1930s, particularly after his collaboration with Alonzo Church. His 1936 paper, *\"On Computable Numbers, with an Application to the Entscheidungsproblem\"* , introduced the concept of **Turing machines** , a theoretical model for computation that laid the foundation for modern computer science. This work proved that certain problems, such as the **halting problem** , are undecidable, establishing the limits of computation. Turing\u2019s contributions were so influential that his machines remain a cornerstone of theoretical computer science.",
+        "text_original": "Turing\u2019s groundbreaking work in **computability** began in the 1930s, particularly after his collaboration with Alonzo Church. His 1936 paper, *\"On Computable Numbers, with an Application to the Entscheidungsproblem\"*, introduced the concept of **Turing machines**, a theoretical model for computation that laid the foundation for modern computer science. This work proved that certain problems, such as the **halting problem**, are undecidable, establishing the limits of computation. Turing\u2019s contributions were so influential that his machines remain a cornerstone of theoretical computer science",
+        "idx_start": 822,
+        "idx_end": 1421
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## World War II and Cryptography\nDuring World War II, Turing played a pivotal role in breaking German codes at **Bletchley Park** . His work on the **bombe** , an electromechanical machine designed to decrypt Enigma cipher messages, significantly shortened the war by enabling Allied forces to intercept and decipher enemy communications. Turing\u2019s innovations in statistical analysis and cryptography were instrumental in the Allied victory. His reputation for eccentricity, including his use of a gas mask to avoid hay fever and his long-distance running, was well-known among his colleagues.",
+        "text_original": "During World War II, Turing played a pivotal role in breaking German codes at **Bletchley Park**. His work on the **bombe**, an electromechanical machine designed to decrypt Enigma cipher messages, significantly shortened the war by enabling Allied forces to intercept and decipher enemy communications. Turing\u2019s innovations in statistical analysis and cryptography were instrumental in the Allied victory. His reputation for eccentricity, including his use of a gas mask to avoid hay fever and his long-distance running, was well-known among his colleagues",
+        "idx_start": 1462,
+        "idx_end": 2019
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Post-War Contributions\nAfter the war, Turing returned to Cambridge and continued his research on early computers, contributing to the design of the **Automatic Computing Engine (ACE)** . He also explored **mathematical biology** , proposing the idea that chemical reactions could explain biological patterns, such as morphogenesis. His 1952 paper, *\"The Chemical Basis of Morphogenesis\"* , laid the groundwork for modern theories in developmental biology. Turing\u2019s work on **artificial intelligence** included the **Turing test** , a framework to determine whether a machine could be considered intelligent.",
+        "text_original": "After the war, Turing returned to Cambridge and continued his research on early computers, contributing to the design of the **Automatic Computing Engine (ACE)**. He also explored **mathematical biology**, proposing the idea that chemical reactions could explain biological patterns, such as morphogenesis. His 1952 paper, *\"The Chemical Basis of Morphogenesis\"*, laid the groundwork for modern theories in developmental biology. Turing\u2019s work on **artificial intelligence** included the **Turing test**, a framework to determine whether a machine could be considered intelligent",
+        "idx_start": 2053,
+        "idx_end": 2632
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Personal Life and Legal Struggles\nTuring\u2019s personal life was marked by both brilliance and tragedy. In 1951, he met Arnold Murray, and after a burglary incident, he was convicted of **gross indecency** under the Criminal Law Amendment Act of 1885. As a result, he was chemically castrated and lost his security clearance, effectively ending his career in cryptography. Despite this, he continued his research and advocacy for LGBTQ+ rights. His death in 1954, attributed to cyanide poisoning, remains a subject of debate.",
+        "text_original": "Turing\u2019s personal life was marked by both brilliance and tragedy. In 1951, he met Arnold Murray, and after a burglary incident, he was convicted of **gross indecency** under the Criminal Law Amendment Act of 1885. As a result, he was chemically castrated and lost his security clearance, effectively ending his career in cryptography. Despite this, he continued his research and advocacy for LGBTQ+ rights. His death in 1954, attributed to cyanide poisoning, remains a subject of debate",
+        "idx_start": 2677,
+        "idx_end": 3163
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Legacy and Recognition\nTuring\u2019s contributions to mathematics, computer science, and cryptography have cemented his legacy as one of the most influential figures of the 20th century. In 2009, the British government issued a formal apology for his conviction, and in 2012, he was posthumously pardoned. His name is synonymous with **computational theory** , and his work continues to inspire advancements in artificial intelligence, cryptography, and computational biology. Turing\u2019s story remains a powerful example of the intersection of science, ethics, and human rights.",
+        "text_original": "Turing\u2019s contributions to mathematics, computer science, and cryptography have cemented his legacy as one of the most influential figures of the 20th century. In 2009, the British government issued a formal apology for his conviction, and in 2012, he was posthumously pardoned. His name is synonymous with **computational theory**, and his work continues to inspire advancements in artificial intelligence, cryptography, and computational biology. Turing\u2019s story remains a powerful example of the intersection of science, ethics, and human rights",
+        "idx_start": 3197,
+        "idx_end": 3743
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Early Life and Education\nCharles Babbage, born on **26 December 1791** in Walworth, London, was the son of a banking partner. He showed an early aptitude for mathematics and was educated at King Edward VI Grammar School in Totnes before attending Trinity College, Cambridge. Despite his brilliance, his lack of interest in traditional academic pursuits led to his exclusion from the standard curriculum. Babbage\u2019s innovative mind led him to found the **Analytical Society** , a group dedicated to advancing mathematical and scientific thought.",
+        "text_original": "Charles Babbage, born on **26 December 1791** in Walworth, London, was the son of a banking partner. He showed an early aptitude for mathematics and was educated at King Edward VI Grammar School in Totnes before attending Trinity College, Cambridge. Despite his brilliance, his lack of interest in traditional academic pursuits led to his exclusion from the standard curriculum. Babbage\u2019s innovative mind led him to found the **Analytical Society**, a group dedicated to advancing mathematical and scientific thought",
+        "idx_start": 3808,
+        "idx_end": 4324
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Inventions and Computing Pioneer\nBabbage is widely regarded as the **father of the computer** . His most famous inventions include the **Difference Engine** (1822), a mechanical calculator designed to compute mathematical tables, and the **Analytical Engine** (1837), the first conceptual design of a programmable general-purpose computer. The Analytical Engine, which used punched cards for programming, was a precursor to modern computers. Babbage\u2019s work was ahead of its time, but funding and political opposition delayed its completion.",
+        "text_original": "Babbage is widely regarded as the **father of the computer**. His most famous inventions include the **Difference Engine** (1822), a mechanical calculator designed to compute mathematical tables, and the **Analytical Engine** (1837), the first conceptual design of a programmable general-purpose computer. The Analytical Engine, which used punched cards for programming, was a precursor to modern computers. Babbage\u2019s work was ahead of its time, but funding and political opposition delayed its completion",
+        "idx_start": 4368,
+        "idx_end": 4873
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Mathematics and Engineering\nBabbage made significant contributions to mathematics, including his work on **universal algebra** and his exploration of **functional equations** . He also pioneered the study of **statistics** and the application of mathematical principles to industrial efficiency. His book *On the Economy of Machinery and Manufactures* (1832) was influential in the development of **operational research** and industrial organization. Babbage\u2019s ideas on the **division of labor** and the **economy of machinery** had a lasting impact on industrial practices.",
+        "text_original": "Babbage made significant contributions to mathematics, including his work on **universal algebra** and his exploration of **functional equations**. He also pioneered the study of **statistics** and the application of mathematical principles to industrial efficiency. His book *On the Economy of Machinery and Manufactures* (1832) was influential in the development of **operational research** and industrial organization. Babbage\u2019s ideas on the **division of labor** and the **economy of machinery** had a lasting impact on industrial practices",
+        "idx_start": 4912,
+        "idx_end": 5456
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Philosophy and Public Engagement\nBabbage was a vocal advocate for scientific reform and the advancement of education. He founded the **Royal Astronomical Society** and was instrumental in the establishment of the **British Association for the Advancement of Science** . His philosophical writings, such as *The Decline of Science in England* (1830), critiqued the decline of scientific inquiry and advocated for a more inclusive and applied approach to education. Babbage\u2019s **scientific soir\u00e9es** were gathering places for prominent scientists, engineers, and intellectuals, fostering collaboration and innovation.",
+        "text_original": "Babbage was a vocal advocate for scientific reform and the advancement of education. He founded the **Royal Astronomical Society** and was instrumental in the establishment of the **British Association for the Advancement of Science**. His philosophical writings, such as *The Decline of Science in England* (1830), critiqued the decline of scientific inquiry and advocated for a more inclusive and applied approach to education. Babbage\u2019s **scientific soir\u00e9es** were gathering places for prominent scientists, engineers, and intellectuals, fostering collaboration and innovation",
+        "idx_start": 5500,
+        "idx_end": 6079
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Later Life and Legacy\nBabbage\u2019s later years were marked by financial struggles and personal challenges, including his resignation from the Lucasian Professorship at Cambridge due to conflicts with colleagues. Despite these setbacks, he continued to work on his inventions and contributed to the development of **railway engineering** and **metrology** . Babbage\u2019s legacy endures through his influence on computing, mathematics, and industrial innovation. His work inspired generations of scientists and engineers, and his name is synonymous with the **pioneering spirit of modern technology** .",
+        "text_original": "Babbage\u2019s later years were marked by financial struggles and personal challenges, including his resignation from the Lucasian Professorship at Cambridge due to conflicts with colleagues. Despite these setbacks, he continued to work on his inventions and contributed to the development of **railway engineering** and **metrology**. Babbage\u2019s legacy endures through his influence on computing, mathematics, and industrial innovation. His work inspired generations of scientists and engineers, and his name is synonymous with the **pioneering spirit of modern technology",
+        "idx_start": 6112,
+        "idx_end": 6679
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Early Life and Education\nLeonardo Torres Quevedo, born on **28 December 1852** in Santa Cruz de Igu\u00f1a, Cantabria, Spain, was the son of a civil engineer. He studied at the Official School of Road Engineers\u2019 Corps and later at the College of the Christian Brothers in Paris. Torres Quevedo\u2019s early life was marked by a deep curiosity for science and technology, which he pursued independently.",
+        "text_original": "Leonardo Torres Quevedo, born on **28 December 1852** in Santa Cruz de Igu\u00f1a, Cantabria, Spain, was the son of a civil engineer. He studied at the Official School of Road Engineers\u2019 Corps and later at the College of the Christian Brothers in Paris. Torres Quevedo\u2019s early life was marked by a deep curiosity for science and technology, which he pursued independently",
+        "idx_start": 6754,
+        "idx_end": 7120
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Inventions and Innovations\nTorres Quevedo was a prolific inventor, known for his contributions to **cableways, aerostatics, radio control, and computing** . His most notable inventions include the **cable car** and the **aerial ropeway** , which he designed and patented. He also developed the **Telekino** , an early form of radio-controlled vehicles, and the **Ajedrecista** , an electromechanical chess-playing automaton. His work in **analogue computing machines** and **aeronautics** was groundbreaking, and he was recognized for his contributions to the field of **automation** .",
+        "text_original": "Torres Quevedo was a prolific inventor, known for his contributions to **cableways, aerostatics, radio control, and computing**. His most notable inventions include the **cable car** and the **aerial ropeway**, which he designed and patented. He also developed the **Telekino**, an early form of radio-controlled vehicles, and the **Ajedrecista**, an electromechanical chess-playing automaton. His work in **analogue computing machines** and **aeronautics** was groundbreaking, and he was recognized for his contributions to the field of **automation",
+        "idx_start": 7158,
+        "idx_end": 7708
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Mathematical and Theoretical Contributions\nTorres Quevedo\u2019s theoretical work in **calculus and mechanics** was influential. He introduced the concept of **formal language** for mechanical drawings and proposed a **theory of automatic control** , which laid the groundwork for modern robotics and automation. His ideas on **automatics** and **mechanical computation** were ahead of their time, and his work continues to inspire advancements in computational theory.",
+        "text_original": "Torres Quevedo\u2019s theoretical work in **calculus and mechanics** was influential. He introduced the concept of **formal language** for mechanical drawings and proposed a **theory of automatic control**, which laid the groundwork for modern robotics and automation. His ideas on **automatics** and **mechanical computation** were ahead of their time, and his work continues to inspire advancements in computational theory",
+        "idx_start": 7764,
+        "idx_end": 8183
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Public Engagement and Legacy\nTorres Quevedo was a passionate advocate for scientific education and innovation. He played a key role in the establishment of the **Laboratory of Automation** in Spain and was a member of the **Junta para Ampliaci\u00f3n de Estudios** , a government body dedicated to promoting scientific research. His contributions to **engineering, aeronautics, and computing** have cemented his legacy as one of Spain\u2019s greatest inventors. Torres Quevedo\u2019s work remains a testament to the power of innovation and the importance of fostering scientific curiosity.",
+        "text_original": "Torres Quevedo was a passionate advocate for scientific education and innovation. He played a key role in the establishment of the **Laboratory of Automation** in Spain and was a member of the **Junta para Ampliaci\u00f3n de Estudios**, a government body dedicated to promoting scientific research. His contributions to **engineering, aeronautics, and computing** have cemented his legacy as one of Spain\u2019s greatest inventors. Torres Quevedo\u2019s work remains a testament to the power of innovation and the importance of fostering scientific curiosity",
+        "idx_start": 8223,
+        "idx_end": 8766
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## Early Life and Education\nVannevar Bush, born on **11 March 1890** in Everett, Massachusetts, was the son of a Universalist pastor. He attended Tufts College and later earned a master\u2019s degree in physics from MIT. Bush\u2019s early career involved working at General Electric and later at the National Research Council, where he began exploring the intersection of science and technology.",
+        "text_original": "Vannevar Bush, born on **11 March 1890** in Everett, Massachusetts, was the son of a Universalist pastor. He attended Tufts College and later earned a master\u2019s degree in physics from MIT. Bush\u2019s early career involved working at General Electric and later at the National Research Council, where he began exploring the intersection of science and technology",
+        "idx_start": 8829,
+        "idx_end": 9185
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## World War II and Scientific Leadership\nDuring World War II, Bush played a crucial role in guiding scientific research for the war effort. He founded the **National Defense Research Committee (NDRC)** and later the **Office of Scientific Research and Development (OSRD)** , which coordinated scientific efforts across the United States. Bush\u2019s leadership was instrumental in developing technologies such as **radar, proximity fuzes, and early computers** , which significantly impacted the war\u2019s outcome.",
+        "text_original": "During World War II, Bush played a crucial role in guiding scientific research for the war effort. He founded the **National Defense Research Committee (NDRC)** and later the **Office of Scientific Research and Development (OSRD)**, which coordinated scientific efforts across the United States. Bush\u2019s leadership was instrumental in developing technologies such as **radar, proximity fuzes, and early computers**, which significantly impacted the war\u2019s outcome",
+        "idx_start": 9235,
+        "idx_end": 9696
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## Memex and the Future of Information\nBush\u2019s most enduring contribution is his vision for the **future of information technology** . In his 1945 essay *\"As We May Think\"* , he introduced the concept of the **memex** , a hypothetical device that would allow users to store and retrieve information efficiently. His ideas laid the foundation for modern **search engines, databases, and digital libraries** . Bush\u2019s belief in the power of science to drive societal progress influenced the development of the **National Science Foundation (NSF)** and other scientific institutions.",
+        "text_original": "Bush\u2019s most enduring contribution is his vision for the **future of information technology**. In his 1945 essay *\"As We May Think\"*, he introduced the concept of the **memex**, a hypothetical device that would allow users to store and retrieve information efficiently. His ideas laid the foundation for modern **search engines, databases, and digital libraries**. Bush\u2019s belief in the power of science to drive societal progress influenced the development of the **National Science Foundation (NSF)** and other scientific institutions",
+        "idx_start": 9743,
+        "idx_end": 10277
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## Post-War Contributions and Legacy\nAfter the war, Bush continued to advocate for the integration of science and technology in society. He served as the president of the **Carnegie Institution of Washington** and later as a senior advisor to the **Office of Science and Technology Policy (OSTP)** . Bush\u2019s work in **science policy, education, and technology** has had a lasting impact on the scientific community and beyond. His ideas on the importance of **basic research** and the **public access to scientific knowledge** remain relevant today.",
+        "text_original": "After the war, Bush continued to advocate for the integration of science and technology in society. He served as the president of the **Carnegie Institution of Washington** and later as a senior advisor to the **Office of Science and Technology Policy (OSTP)**. Bush\u2019s work in **science policy, education, and technology** has had a lasting impact on the scientific community and beyond. His ideas on the importance of **basic research** and the **public access to scientific knowledge** remain relevant today",
+        "idx_start": 10322,
+        "idx_end": 10831
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Early Life and Education\nAlfred North Whitehead, born on **27 February 1861** in Ramsgate, England, was the son of a schoolmaster. He attended Sherborne School and later studied mathematics and physics at Trinity College, Cambridge. Whitehead\u2019s early career was marked by his work in **mathematics and physics** , but he later turned to philosophy, becoming one of the most influential thinkers of the 20th century.",
+        "text_original": "Alfred North Whitehead, born on **27 February 1861** in Ramsgate, England, was the son of a schoolmaster. He attended Sherborne School and later studied mathematics and physics at Trinity College, Cambridge. Whitehead\u2019s early career was marked by his work in **mathematics and physics**, but he later turned to philosophy, becoming one of the most influential thinkers of the 20th century",
+        "idx_start": 10903,
+        "idx_end": 11291
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Philosophy and Metaphysics\nWhitehead\u2019s philosophical contributions are centered around the concept of **process philosophy** , which rejects the traditional Cartesian dualism in favor of an **event-based ontology** . His work, *Process and Reality* (1929), explores the nature of reality as a dynamic process of becoming rather than a static set of objects. Whitehead\u2019s ideas on **experience, creativity, and the nature of God** have had a profound impact on philosophy, theology, and science.",
+        "text_original": "Whitehead\u2019s philosophical contributions are centered around the concept of **process philosophy**, which rejects the traditional Cartesian dualism in favor of an **event-based ontology**. His work, *Process and Reality* (1929), explores the nature of reality as a dynamic process of becoming rather than a static set of objects. Whitehead\u2019s ideas on **experience, creativity, and the nature of God** have had a profound impact on philosophy, theology, and science",
+        "idx_start": 11329,
+        "idx_end": 11792
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Mathematics and Logic\nWhitehead\u2019s work in **mathematics and logic** was also groundbreaking. He co-authored *Principia Mathematica* with Bertrand Russell, an attempt to derive all mathematical truths from basic axioms. His contributions to **universal algebra** and **ontology** have influenced modern computer science and philosophy of mathematics. Whitehead\u2019s theory of **prehension** , a concept that describes how entities perceive and interact with one another, remains a key idea in philosophical and scientific discourse.",
+        "text_original": "Whitehead\u2019s work in **mathematics and logic** was also groundbreaking. He co-authored *Principia Mathematica* with Bertrand Russell, an attempt to derive all mathematical truths from basic axioms. His contributions to **universal algebra** and **ontology** have influenced modern computer science and philosophy of mathematics. Whitehead\u2019s theory of **prehension**, a concept that describes how entities perceive and interact with one another, remains a key idea in philosophical and scientific discourse",
+        "idx_start": 11825,
+        "idx_end": 12329
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Education and Legacy\nWhitehead was a passionate advocate for **educational reform** and the importance of **critical thinking and imagination** in learning. His ideas on **education** continue to influence modern pedagogical practices. Whitehead\u2019s legacy endures through his influence on **process philosophy, theology, and science** . His work remains a cornerstone of philosophical thought, and his ideas continue to inspire new generations of thinkers.",
+        "text_original": "Whitehead was a passionate advocate for **educational reform** and the importance of **critical thinking and imagination** in learning. His ideas on **education** continue to influence modern pedagogical practices. Whitehead\u2019s legacy endures through his influence on **process philosophy, theology, and science**. His work remains a cornerstone of philosophical thought, and his ideas continue to inspire new generations of thinkers",
+        "idx_start": 12361,
+        "idx_end": 12793
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Early Life and Education\nPhilip Rubin, born on **22 May 1949** in Newark, New Jersey, earned his BA in psychology and linguistics from Brandeis University and his PhD in experimental psychology from the University of Connecticut. His early career involved research in **speech perception, articulatory synthesis, and signal processing** , with a focus on the biological bases of speech and language.",
+        "text_original": "Philip Rubin, born on **22 May 1949** in Newark, New Jersey, earned his BA in psychology and linguistics from Brandeis University and his PhD in experimental psychology from the University of Connecticut. His early career involved research in **speech perception, articulatory synthesis, and signal processing**, with a focus on the biological bases of speech and language",
+        "idx_start": 12855,
+        "idx_end": 13227
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Research and Theoretical Contributions\nRubin\u2019s research spans multiple disciplines, including **computational modeling, speech production, and perceptual organization** . His work on **articulatory synthesis** and **sinewave speech** has been instrumental in advancing our understanding of how speech is produced and perceived. He developed the **ASY** and **SWS** systems, which are foundational in the study of speech technology. Rubin\u2019s theoretical contributions include his exploration of **embodied cognition** , **gestural computation** , and the **inverse problem** in speech production.",
+        "text_original": "Rubin\u2019s research spans multiple disciplines, including **computational modeling, speech production, and perceptual organization**. His work on **articulatory synthesis** and **sinewave speech** has been instrumental in advancing our understanding of how speech is produced and perceived. He developed the **ASY** and **SWS** systems, which are foundational in the study of speech technology. Rubin\u2019s theoretical contributions include his exploration of **embodied cognition**, **gestural computation**, and the **inverse problem** in speech production",
+        "idx_start": 13277,
+        "idx_end": 13828
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Science Policy and Advocacy\nRubin has played a significant role in **science policy and advocacy** , serving as the Director of the **Division of Behavioral and Cognitive Sciences (BCS)** at the National Science Foundation (NSF) and later as a senior advisor at the **Office of Science and Technology Policy (OSTP)** . His work has focused on **human subjects research, neuroscience, and the intersection of cognitive science with policy** . Rubin has been involved in shaping policies related to **ethical issues in research, technology, and public engagement with science** .",
+        "text_original": "Rubin has played a significant role in **science policy and advocacy**, serving as the Director of the **Division of Behavioral and Cognitive Sciences (BCS)** at the National Science Foundation (NSF) and later as a senior advisor at the **Office of Science and Technology Policy (OSTP)**. His work has focused on **human subjects research, neuroscience, and the intersection of cognitive science with policy**. Rubin has been involved in shaping policies related to **ethical issues in research, technology, and public engagement with science",
+        "idx_start": 13867,
+        "idx_end": 14409
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Legacy and Honors\nRubin\u2019s contributions to **speech technology, cognitive science, and science policy** have earned him numerous honors, including fellowships from the **Acoustical Society of America, American Association for the Advancement of Science, and Association for Psychological Science** . His work continues to influence the fields of **speech perception, robotics, and artificial intelligence** , and his advocacy for **ethical and inclusive science** remains a key focus of his career.",
+        "text_original": "Rubin\u2019s contributions to **speech technology, cognitive science, and science policy** have earned him numerous honors, including fellowships from the **Acoustical Society of America, American Association for the Advancement of Science, and Association for Psychological Science**. His work continues to influence the fields of **speech perception, robotics, and artificial intelligence**, and his advocacy for **ethical and inclusive science** remains a key focus of his career",
+        "idx_start": 14440,
+        "idx_end": 14917
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Early Life and Education\nRichard Stallman, born on **16 March 1953** in New York City, was raised in a Jewish family. He attended Columbia University and later earned a degree in physics from Harvard. Stallman\u2019s early interest in computers led him to work at the **MIT Artificial Intelligence Laboratory** , where he developed software like **TECO and Emacs** .",
+        "text_original": "Richard Stallman, born on **16 March 1953** in New York City, was raised in a Jewish family. He attended Columbia University and later earned a degree in physics from Harvard. Stallman\u2019s early interest in computers led him to work at the **MIT Artificial Intelligence Laboratory**, where he developed software like **TECO and Emacs",
+        "idx_start": 14983,
+        "idx_end": 15314
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## GNU Project and Free Software Movement\nStallman\u2019s most famous contribution is the **GNU Project** , which aims to create a **free and open-source operating system** compatible with Unix. He founded the **Free Software Foundation (FSF)** to support the free software movement and promote the principles of **software freedom** . Stallman\u2019s advocacy for **copyleft licensing** and the **right to modify and redistribute software** has had a profound impact on the tech industry. His work has led to the development of **GNU Emacs, GCC, and other essential software tools** .",
+        "text_original": "Stallman\u2019s most famous contribution is the **GNU Project**, which aims to create a **free and open-source operating system** compatible with Unix. He founded the **Free Software Foundation (FSF)** to support the free software movement and promote the principles of **software freedom**. Stallman\u2019s advocacy for **copyleft licensing** and the **right to modify and redistribute software** has had a profound impact on the tech industry. His work has led to the development of **GNU Emacs, GCC, and other essential software tools",
+        "idx_start": 15366,
+        "idx_end": 15893
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Activism and Ethical Philosophy\nStallman is a vocal advocate for **software freedom, ethical technology, and user rights** . He has been involved in campaigns against **software patents, digital rights management (DRM), and proprietary software** . His ethical philosophy emphasizes the importance of **user autonomy, transparency, and the right to modify and share software** . Stallman\u2019s ideas have influenced the **open-source movement** and the broader debate on **technology ethics** .",
+        "text_original": "Stallman is a vocal advocate for **software freedom, ethical technology, and user rights**. He has been involved in campaigns against **software patents, digital rights management (DRM), and proprietary software**. His ethical philosophy emphasizes the importance of **user autonomy, transparency, and the right to modify and share software**. Stallman\u2019s ideas have influenced the **open-source movement** and the broader debate on **technology ethics",
+        "idx_start": 15938,
+        "idx_end": 16389
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Legacy and Honors\nStallman\u2019s contributions to the **free software movement** have earned him numerous honors, including the **MacArthur Fellowship (Genius Grant)** , the **Grace Murray Hopper Award** , and the **National Medal of Technology** . His work continues to inspire advocates for **open-source technology, digital rights, and ethical innovation** . Stallman\u2019s legacy is a testament to the power of **activism, philosophy, and technology** in shaping a more open and equitable digital world.",
+        "text_original": "Stallman\u2019s contributions to the **free software movement** have earned him numerous honors, including the **MacArthur Fellowship (Genius Grant)**, the **Grace Murray Hopper Award**, and the **National Medal of Technology**. His work continues to inspire advocates for **open-source technology, digital rights, and ethical innovation**. Stallman\u2019s legacy is a testament to the power of **activism, philosophy, and technology** in shaping a more open and equitable digital world",
+        "idx_start": 16420,
+        "idx_end": 16896
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Early Life and Education\nAda Lovelace, born on **10 December 1815** in London, was the daughter of the Romantic poet Lord Byron and his wife Anne Isabella Milbanke. Despite her father\u2019s disapproval of her intellectual pursuits, Ada was educated in mathematics and science by her mother and later by **Mary Somerville** and **Charles Babbage** . Her early interest in mathematics and technology set the stage for her groundbreaking contributions to computing.",
+        "text_original": "Ada Lovelace, born on **10 December 1815** in London, was the daughter of the Romantic poet Lord Byron and his wife Anne Isabella Milbanke. Despite her father\u2019s disapproval of her intellectual pursuits, Ada was educated in mathematics and science by her mother and later by **Mary Somerville** and **Charles Babbage**. Her early interest in mathematics and technology set the stage for her groundbreaking contributions to computing",
+        "idx_start": 16958,
+        "idx_end": 17389
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Work with Charles Babbage\nLovelace\u2019s most famous contribution is her work with **Charles Babbage** on the **Analytical Engine** , the first conceptual design of a programmable computer. Her notes, published in 1843, included the first **published computer program** , an algorithm to calculate Bernoulli numbers. Lovelace\u2019s insights into the potential of computing extended beyond mere number crunching, recognizing that computers could manipulate **symbols and solve complex problems** . Her work laid the foundation for modern **computer science and artificial intelligence** .",
+        "text_original": "Lovelace\u2019s most famous contribution is her work with **Charles Babbage** on the **Analytical Engine**, the first conceptual design of a programmable computer. Her notes, published in 1843, included the first **published computer program**, an algorithm to calculate Bernoulli numbers. Lovelace\u2019s insights into the potential of computing extended beyond mere number crunching, recognizing that computers could manipulate **symbols and solve complex problems**. Her work laid the foundation for modern **computer science and artificial intelligence",
+        "idx_start": 17426,
+        "idx_end": 17972
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Legacy and Commemoration\nLovelace\u2019s legacy endures through her influence on **computer science, mathematics, and women in STEM** . The **Ada Lovelace Award** and the **Ada Lovelace Medal** are awarded to recognize outstanding contributions in computing. Her name is synonymous with **programming, innovation, and the pursuit of knowledge** . Lovelace\u2019s story remains a powerful example of the intersection of **mathematics, technology, and women\u2019s contributions to science** .",
+        "text_original": "Lovelace\u2019s legacy endures through her influence on **computer science, mathematics, and women in STEM**. The **Ada Lovelace Award** and the **Ada Lovelace Medal** are awarded to recognize outstanding contributions in computing. Her name is synonymous with **programming, innovation, and the pursuit of knowledge**. Lovelace\u2019s story remains a powerful example of the intersection of **mathematics, technology, and women\u2019s contributions to science",
+        "idx_start": 18010,
+        "idx_end": 18455
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Early Life and Education\nBlaise Pascal, born on **19 June 1623** in Clermont-Ferrand, France, was the son of a mathematician and judge. His early interest in mathematics and science was evident from a young age, and he began exploring **geometry and conic sections** at the age of 16. Pascal\u2019s father, \u00c9tienne Pascal, encouraged his son\u2019s intellectual pursuits, though he initially discouraged his study of mathematics.",
+        "text_original": "Blaise Pascal, born on **19 June 1623** in Clermont-Ferrand, France, was the son of a mathematician and judge. His early interest in mathematics and science was evident from a young age, and he began exploring **geometry and conic sections** at the age of 16. Pascal\u2019s father, \u00c9tienne Pascal, encouraged his son\u2019s intellectual pursuits, though he initially discouraged his study of mathematics",
+        "idx_start": 18520,
+        "idx_end": 18913
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Mathematical Contributions\nPascal\u2019s most famous contributions include his work on **probability theory** , which he developed in collaboration with **Pierre de Fermat** . His correspondence with Fermat laid the foundation for modern probability theory. Pascal also made significant contributions to **combinatorics** , including his exploration of **Pascal\u2019s triangle** and the **arithmetical triangle** . His work on **calculus of variations** and **hydrostatics** was also groundbreaking.",
+        "text_original": "Pascal\u2019s most famous contributions include his work on **probability theory**, which he developed in collaboration with **Pierre de Fermat**. His correspondence with Fermat laid the foundation for modern probability theory. Pascal also made significant contributions to **combinatorics**, including his exploration of **Pascal\u2019s triangle** and the **arithmetical triangle**. His work on **calculus of variations** and **hydrostatics** was also groundbreaking",
+        "idx_start": 18951,
+        "idx_end": 19409
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Physics and Inventions\nPascal\u2019s work in **physics** included his exploration of **fluid dynamics** and the **principle of hydrostatic pressure** , which he demonstrated through his famous **barrel experiment** . He also invented the **Pascaline** , an early mechanical calculator, which he presented to Queen Christina of Sweden. Pascal\u2019s contributions to **fluid mechanics and pressure** have had a lasting impact on engineering and physics.",
+        "text_original": "Pascal\u2019s work in **physics** included his exploration of **fluid dynamics** and the **principle of hydrostatic pressure**, which he demonstrated through his famous **barrel experiment**. He also invented the **Pascaline**, an early mechanical calculator, which he presented to Queen Christina of Sweden. Pascal\u2019s contributions to **fluid mechanics and pressure** have had a lasting impact on engineering and physics",
+        "idx_start": 19443,
+        "idx_end": 19858
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Philosophy and Religion\nPascal\u2019s philosophical and religious writings are equally influential. His **Pens\u00e9es** (Thoughts) is considered one of the greatest works of French philosophy, exploring themes of **faith, doubt, and the nature of God** . Pascal\u2019s **Pens\u00e9e 62** famously argues that faith is a rational choice, and his **Pens\u00e9e 309** introduces the concept of the **Pens\u00e9e de Pascal** , a probabilistic argument for belief in God. His work on **religion and metaphysics** has had a profound impact on Western thought.",
+        "text_original": "Pascal\u2019s philosophical and religious writings are equally influential. His **Pens\u00e9es** (Thoughts) is considered one of the greatest works of French philosophy, exploring themes of **faith, doubt, and the nature of God**. Pascal\u2019s **Pens\u00e9e 62** famously argues that faith is a rational choice, and his **Pens\u00e9e 309** introduces the concept of the **Pens\u00e9e de Pascal**, a probabilistic argument for belief in God. His work on **religion and metaphysics** has had a profound impact on Western thought",
+        "idx_start": 19893,
+        "idx_end": 20390
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Legacy and Honors\nPascal\u2019s legacy endures through his contributions to **mathematics, physics, and philosophy** . His name is synonymous with **probability theory, fluid mechanics, and the Pascaline** . The **Pascal unit** of pressure and the **Pascaline** are both named in his honor. Pascal\u2019s ideas continue to influence scientific and philosophical discourse, and his work remains a cornerstone of **modern mathematics and physics** .",
+        "text_original": "Pascal\u2019s legacy endures through his contributions to **mathematics, physics, and philosophy**. His name is synonymous with **probability theory, fluid mechanics, and the Pascaline**. The **Pascal unit** of pressure and the **Pascaline** are both named in his honor. Pascal\u2019s ideas continue to influence scientific and philosophical discourse, and his work remains a cornerstone of **modern mathematics and physics",
+        "idx_start": 20419,
+        "idx_end": 20832
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## Early Life and Education\nHedy Lamarr, born **Hedwig Eva Maria Kiesler** on **16 November 1914** in Vienna, Austria, was the daughter of a Jewish banker and a pianist. She showed an early interest in **acting and technology** , which she pursued independently. Lamarr\u2019s early career in Europe was marked by her beauty and talent, but she faced challenges due to her controversial personal life.",
+        "text_original": "Hedy Lamarr, born **Hedwig Eva Maria Kiesler** on **16 November 1914** in Vienna, Austria, was the daughter of a Jewish banker and a pianist. She showed an early interest in **acting and technology**, which she pursued independently. Lamarr\u2019s early career in Europe was marked by her beauty and talent, but she faced challenges due to her controversial personal life",
+        "idx_start": 20895,
+        "idx_end": 21261
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## Hollywood Career\nLamarr\u2019s Hollywood career began in the late 1930s, where she was cast in a series of films that emphasized her **glamour and sensuality** . Her most iconic roles included **Tondelayo in White Cargo (1942)** and **Delilah in Samson and Delilah (1950)** , which earned her critical acclaim and a nomination for an Oscar. Lamarr\u2019s off-screen life was equally fascinating, marked by her **intellectual curiosity, inventiveness, and advocacy for women\u2019s rights** .",
+        "text_original": "Lamarr\u2019s Hollywood career began in the late 1930s, where she was cast in a series of films that emphasized her **glamour and sensuality**. Her most iconic roles included **Tondelayo in White Cargo (1942)** and **Delilah in Samson and Delilah (1950)**, which earned her critical acclaim and a nomination for an Oscar. Lamarr\u2019s off-screen life was equally fascinating, marked by her **intellectual curiosity, inventiveness, and advocacy for women\u2019s rights",
+        "idx_start": 21289,
+        "idx_end": 21742
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## Inventing Career\nLamarr\u2019s most significant contribution was her work on **frequency-hopping spread spectrum technology** , a method for secure communication that she developed in collaboration with composer **George Antheil** . This invention was later used in **wireless technology, including military and satellite communications** . Lamarr\u2019s patent for this technology was granted in 1942, making her one of the first women to receive a major patent for a technological innovation.",
+        "text_original": "Lamarr\u2019s most significant contribution was her work on **frequency-hopping spread spectrum technology**, a method for secure communication that she developed in collaboration with composer **George Antheil**. This invention was later used in **wireless technology, including military and satellite communications**. Lamarr\u2019s patent for this technology was granted in 1942, making her one of the first women to receive a major patent for a technological innovation",
+        "idx_start": 21772,
+        "idx_end": 22235
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## Later Years and Legacy\nLamarr\u2019s later years were marked by **seclusion and personal struggles** , but she remained active in her advocacy for **women\u2019s rights and scientific innovation** . She was posthumously honored with the **National Inventors Hall of Fame** and the **Electronic Frontier Foundation\u2019s Pioneer Award** . Lamarr\u2019s story remains a testament to the power of **innovation, perseverance, and the intersection of art and science** .\nThis summary captures the essence of each individual\u2019s contributions, highlighting their key achievements, challenges, and lasting legacies.",
+        "text_original": "Lamarr\u2019s later years were marked by **seclusion and personal struggles**, but she remained active in her advocacy for **women\u2019s rights and scientific innovation**. She was posthumously honored with the **National Inventors Hall of Fame** and the **Electronic Frontier Foundation\u2019s Pioneer Award**. Lamarr\u2019s story remains a testament to the power of **innovation, perseverance, and the intersection of art and science**.\n\n---\n\nThis summary captures the essence of each individual\u2019s contributions, highlighting their key achievements, challenges, and lasting legacies",
+        "idx_start": 22269,
+        "idx_end": 22834
+    }
+]

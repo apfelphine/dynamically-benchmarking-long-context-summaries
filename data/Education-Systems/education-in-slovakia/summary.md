@@ -1,0 +1,1 @@
+Education in Slovakia is characterized by a free education system with ten years of compulsory school attendance.  The majority of schools, particularly universities, are state-owned, although private and church-owned institutions have emerged since the 1990s.

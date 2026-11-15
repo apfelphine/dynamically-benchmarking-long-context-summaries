@@ -1,0 +1,1 @@
+The National Level Common Entrance Examination (NLCEE) is a non-profit scholarship and talent identification examination conducted in India. It provides opportunities for academically gifted students, particularly from underprivileged backgrounds, by offering scholarships, career guidance, and exposure visits to prestigious institutions like IITs and ISRO.

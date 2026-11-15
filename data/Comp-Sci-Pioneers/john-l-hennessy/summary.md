@@ -1,0 +1,2 @@
+John Leroy Hennessy (born 22 September, 1952) is an American computer scientist and chairman of Alphabet Inc. Hennessy is one of the founders of MIPS Technologies and Atheros, serving as 10th president of Stanford University from 2000 to 2016. He was succeeded as president by Marc Tessier-Lavigne. Marc Andreessen called him "the godfather of Silicon Valley."
+Along with David Patterson, Hennessy was a recipient of the 2017 Turing Award for their work in developing the reduced instruction set computer (RISC) architecture, which is now used in 99% of new computer chips.

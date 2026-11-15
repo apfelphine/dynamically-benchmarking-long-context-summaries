@@ -1,0 +1,30 @@
+{
+  "id": 21888796,
+  "title": "Michael Stonebraker",
+  "url": "https://en.wikipedia.org/wiki/Michael_Stonebraker",
+  "path": "Comp-Sci-Pioneers\\michael-stonebraker",
+  "summary": {
+    "chars": 1197,
+    "tokens": 246
+  },
+  "document": {
+    "chars": 9858,
+    "tokens": 2129
+  },
+  "infobox": {
+    "title": "Michael Stonebraker",
+    "data": {
+      "Born": "October 11, 1943 \u00b7 Newburyport, Massachusetts, U.S.",
+      "Education": "Princeton University (BS) \u00b7 University of Michigan (MS, PhD)",
+      "Known for": "Ingres, Postgres, Vertica, Streambase, Illustra, VoltDB, SciDB",
+      "Spouse": "Beth",
+      "Awards": "IEEE John von Neumann Medal (2005) \u00b7 ACM Turing Award (2014)",
+      "Fields": "Computer science",
+      "Institutions": "University of California, Berkeley \u00b7 University of Michigan \u00b7 Massachusetts Institute of Technology",
+      "Thesis": "The Reduction of Large Scale Markov Models for Random Chains",
+      "Doctoral advisor": "Arch Waugh Naylor",
+      "Notable students": "Joseph M. Hellerstein \u00b7 Andy Pavlo \u00b7 Clifford A. Lynch \u00b7 Margo Seltzer \u00b7 Dale Skeen \u00b7 Marti Hearst \u00b7 Leilani Battle",
+      "Website": "csail.mit.edu/user/1547"
+    }
+  }
+}

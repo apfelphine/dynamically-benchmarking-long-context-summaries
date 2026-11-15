@@ -1,0 +1,48 @@
+# Probabilistic neural network
+
+## Layers
+PNN is often used in classification problems. When an input is present, the first layer computes the distance from the input vector to the training input vectors. This produces a vector where its elements indicate how close the input is to the training input. The second layer sums the contribution for each class of inputs and produces its net output as a vector of probabilities. Finally, a compete transfer function on the output of the second layer picks the maximum of these probabilities, and produces a 1 (positive identification) for that class and a 0 (negative identification) for non-targeted classes.
+
+
+### Input layer
+Each neuron in the input layer represents a predictor variable. In categorical variables, N-1 neurons are used when there are N number of categories. It standardizes the range of the values by subtracting the median and dividing by the interquartile range. Then the input neurons feed the values to each of the neurons in the hidden layer.
+
+
+### Pattern layer
+This layer contains one neuron for each case in the training data set. It stores the values of the predictor variables for the case along with the target value. A hidden neuron computes the Euclidean distance of the test case from the neuron's center point and then applies the radial basis function kernel using the sigma values.
+
+
+### Summation layer
+For PNN there is one pattern neuron for each category of the target variable. The actual target category of each training case is stored with each hidden neuron; the weighted value coming out of a hidden neuron is fed only to the pattern neuron that corresponds to the hidden neuron's category. The pattern neurons add the values for the class they represent.
+
+
+### Output layer
+The output layer compares the weighted votes for each target category accumulated in the pattern layer and uses the largest vote to predict the target category.
+
+
+## Advantages
+There are several advantages and disadvantages using PNN instead of multilayer perceptron.
+
+- PNNs are much faster than multilayer perceptron networks.
+- PNNs can be more accurate than multilayer perceptron networks.
+- PNN networks are relatively insensitive to outliers.
+- PNN networks generate accurate predicted target probability scores.
+- PNNs approach Bayes optimal classification.
+
+
+
+## Disadvantages
+- PNN are slower than multilayer perceptron networks at classifying new cases.
+- PNN require more memory space to store the model.
+
+
+
+## Applications based on PNN
+- probabilistic neural networks in modelling structural deterioration of stormwater pipes.[9]
+- probabilistic neural networks method to gastric endoscope samples diagnosis based on FTIR spectroscopy.[10]
+- Application of probabilistic neural networks to population pharmacokineties.[11]
+- Probabilistic Neural Networks to the Class Prediction of Leukemia and Embryonal Tumor of Central Nervous System.[12]
+- Ship Identification Using Probabilistic Neural Networks.[13]
+- Probabilistic Neural Network-Based sensor configuration management in a wireless ad hoc network.[14]
+- Probabilistic Neural Network in character recognizing.
+- Remote-sensing Image Classification.[15]

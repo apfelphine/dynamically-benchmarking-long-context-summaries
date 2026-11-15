@@ -1,0 +1,28 @@
+{
+  "id": 49731,
+  "title": "Alonzo Church",
+  "url": "https://en.wikipedia.org/wiki/Alonzo_Church",
+  "path": "Comp-Sci-Pioneers\\alonzo-church",
+  "summary": {
+    "chars": 536,
+    "tokens": 115
+  },
+  "document": {
+    "chars": 6427,
+    "tokens": 1365
+  },
+  "infobox": {
+    "title": "Alonzo Church",
+    "data": {
+      "Born": "June 14, 1903 \u00b7 Washington, D.C., U.S.",
+      "Died": "August 11, 1995 (aged 92) \u00b7 Hudson, Ohio, U.S.",
+      "Alma mater": "Princeton University (BS, PhD)",
+      "Known for": "Lambda calculus \u00b7 Simply typed lambda calculus \u00b7 Church encoding \u00b7 Church's theorem \u00b7 Church\u2013Kleene ordinal \u00b7 Church\u2013Turing thesis \u00b7 Frege\u2013Church ontology \u00b7 Church\u2013Rosser theorem \u00b7 Intensional logic",
+      "Fields": "Computer science, Mathematics, Logic",
+      "Institutions": "Princeton University (1929\u201367) \u00b7 UCLA (1967\u201395)",
+      "Thesis": "Alternatives to Zermelo's Assumption (1927)",
+      "Doctoral advisor": "Oswald Veblen",
+      "Doctoral students": "C. Anthony Anderson, 1977 \u00b7 Peter Andrews, 1964 \u00b7 George Alfred Barnard, 1936 \u00b7 William W. Boone, 1952 \u00b7 Martin Davis, 1950 \u00b7 William Easton, 1964 \u00b7 Alfred Foster, 1930 \u00b7 Leon Henkin, 1947 \u00b7 John George Kemeny, 1949 \u00b7 Stephen Cole Kleene, 1934 \u00b7 Simon B. Kochen, 1959 \u00b7 Maurice L'Abb\u00e9, 1951 \u00b7 Isaac Malitz, 1976 \u00b7 Gary R. Mar, 1985 \u00b7 Michael O. Rabin, 1957 \u00b7 Nicholas Rescher, 1951 \u00b7 Hartley Rogers, Jr, 1952 \u00b7 J. Barkley Rosser, 1934 \u00b7 Dana Scott, 1958 \u00b7 Norman Shapiro, 1955 \u00b7 Raymond Smullyan, 1959 \u00b7 Alan Turing, 1938"
+    }
+  }
+}

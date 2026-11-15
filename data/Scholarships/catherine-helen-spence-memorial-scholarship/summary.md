@@ -1,0 +1,2 @@
+Catherine Helen Spence Memorial Scholarships are travelling scholarships founded by the South Australian Government in 1911 in recognition of the pioneering social worker and feminist Catherine Helen Spence.
+The scholarships are administered by the Catherine Helen Spence Memorial Scholarship Committee, and granted to selected applicants, who must be female and between the ages of 20 and 46. Membership of the scholarship committee is voluntary and appointed  by the Minister of Education and Child Development on recommendation by the committee.

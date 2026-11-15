@@ -1,0 +1,33 @@
+{
+  "id": 374544,
+  "title": "Moscow State University",
+  "url": "https://en.wikipedia.org/wiki/Moscow_State_University",
+  "path": "Universities\\moscow-state-university",
+  "summary": {
+    "chars": 452,
+    "tokens": 96
+  },
+  "document": {
+    "chars": 16891,
+    "tokens": 3606
+  },
+  "infobox": {
+    "title": "M. V. Lomonosov \u00b7 Moscow State University",
+    "data": {
+      "Former name": "Imperial Moscow University",
+      "Motto": "\u041d\u0430\u0443\u043a\u0430 \u0435\u0441\u0442\u044c \u044f\u0441\u043d\u043e\u0435 \u043f\u043e\u0437\u043d\u0430\u043d\u0438\u0435 \u0438\u0441\u0442\u0438\u043d\u044b, \u043f\u0440\u043e\u0441\u0432\u0435\u0449\u0435\u043d\u0438\u0435 \u0440\u0430\u0437\u0443\u043c\u0430",
+      "Motto in English": "Science is clear knowledge of the truth, enlightenment of the mind \u00b7 Scientia est clara cognitio veritatis, illustratio mentis (Latin)",
+      "Type": "Public research university",
+      "Established": "23 January 1755",
+      "Founder": "Mikhail Vasilyevich Lomonosov and Ivan Shuvalov",
+      "Rector": "Viktor Sadovnichiy",
+      "Academic staff": "5,000",
+      "Students": "39,282",
+      "Location": "Moscow, Russia \u00b7 55\u00b042\u203214\u2033N 37\u00b031\u203243\u2033E\ufeff / \ufeff55.7039\u00b0N 37.5286\u00b0E",
+      "Campus": "Urban",
+      "Language": "Russian",
+      "Affiliations": "Association of Professional Schools of International Affairs (cancelled in 2022) \u00b7 Institutional Network of the Universities from the Capitals of Europe (suspended in 2022) \u00b7 International Forum of Public Universities",
+      "Website": "msu.ru/en"
+    }
+  }
+}

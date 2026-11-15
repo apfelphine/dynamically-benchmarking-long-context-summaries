@@ -1,0 +1,3 @@
+The Charles W. Holtzer Fellowship (known as the 'Holtzer Fellowship') funds one German student every year at Harvard University. Established in 1929, it is one of the oldest scholarships in the world and among the highest-paying scholarships in Germany.
+The Holtzer Fellowships are administered according to the will of German-American businessman and philanthropist Charles W. Holtzer. The fellowships are awarded each year by Harvard University upon recommendation of the German Academic Exchange Service.
+For the 2023/24 Holtzer Fellowships, the award covers full tuition, health insurance, €1,500 travel expenses, and a €18,000 maintenance grant (slightly lower than the comparable Kennedy Scholarship maximum means-tested grant of $27,250).

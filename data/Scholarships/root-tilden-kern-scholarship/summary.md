@@ -1,0 +1,1 @@
+The Root-Tilden-Kern Scholarship is a full-tuition public service scholarship for students at New York University School of Law. It is widely considered to be the most prestigious public interest scholarship for law students in the United States.

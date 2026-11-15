@@ -1,0 +1,44 @@
+[
+    {
+        "document_idx": null,
+        "text": "# John von Neumann\nJohn von Neumann (1903\u20131957) was a Hungarian-born polymath who revolutionized mathematics, physics, computer science, economics, and military technology. He pioneered game theory, quantum mechanics, functional analysis, computational methods, and introduced the stored-program computer architecture. His impact also spanned weather prediction, climate change study, military strategy, and nuclear weapons development, earning recognition across scientific and academic institutions.",
+        "text_original": "John von Neumann (1903\u20131957) was a Hungarian-born polymath who revolutionized mathematics, physics, computer science, economics, and military technology. He pioneered game theory, quantum mechanics, functional analysis, computational methods, and introduced the stored-program computer architecture. His impact also spanned weather prediction, climate change study, military strategy, and nuclear weapons development, earning recognition across scientific and academic institutions",
+        "idx_start": 21,
+        "idx_end": 502
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottfried Wilhelm Leibniz\nGottfried Wilhelm Leibniz (1646\u20131716) was a German polymath central to mathematics, logic, philosophy, and engineering. He independently developed calculus, invented the binary number system, contributed to determinants, and designed early mechanical calculators\u2014anticipating modern computing. His philosophical theories on identity, possible worlds, and the nature of reality remain influential, with renewed interest evident through prominent 20th-century scholarship.",
+        "text_original": "Gottfried Wilhelm Leibniz (1646\u20131716) was a German polymath central to mathematics, logic, philosophy, and engineering. He independently developed calculus, invented the binary number system, contributed to determinants, and designed early mechanical calculators\u2014anticipating modern computing. His philosophical theories on identity, possible worlds, and the nature of reality remain influential, with renewed interest evident through prominent 20th-century scholarship",
+        "idx_start": 535,
+        "idx_end": 1004
+    },
+    {
+        "document_idx": null,
+        "text": "# Noam Chomsky\nNoam Chomsky is a prominent figure in linguistics, cognitive science, and philosophy, known for generative grammar and theories of innate mental structures. As a political dissident, he has critically analyzed U.S. foreign policy, capitalism, and media while advocating for anarcho-syndicalism and free speech. Chomsky\u2019s work continues to inspire scholarly debate and public discourse.",
+        "text_original": "Noam Chomsky is a prominent figure in linguistics, cognitive science, and philosophy, known for generative grammar and theories of innate mental structures. As a political dissident, he has critically analyzed U.S. foreign policy, capitalism, and media while advocating for anarcho-syndicalism and free speech. Chomsky\u2019s work continues to inspire scholarly debate and public discourse",
+        "idx_start": 1024,
+        "idx_end": 1408
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Sanders Peirce\nCharles Sanders Peirce was a foundational American philosopher who advanced pragmatism, semiotics, and scientific methodology. He introduced universal categories, a unique typology of signs, and emphasized abduction, deduction, and induction as core scientific methods, laying groundwork for later philosophical and scientific inquiry.",
+        "text_original": "Charles Sanders Peirce was a foundational American philosopher who advanced pragmatism, semiotics, and scientific methodology. He introduced universal categories, a unique typology of signs, and emphasized abduction, deduction, and induction as core scientific methods, laying groundwork for later philosophical and scientific inquiry",
+        "idx_start": 1438,
+        "idx_end": 1772
+    },
+    {
+        "document_idx": null,
+        "text": "# Bertrand Russell\nBertrand Russell was a distinguished British philosopher, mathematician, and writer whose seminal works, including *Principia Mathematica* and *A History of Western Philosophy* , established analytic philosophy and modern logic. Renowned for his skepticism, advocacy of scientific inquiry, agnosticism, personal liberty, educational reform, and peace activism, Russell authored over sixty books, earned the Nobel Prize in Literature, and remains celebrated for his intellectual legacy and tireless public engagement.",
+        "text_original": "Bertrand Russell was a distinguished British philosopher, mathematician, and writer whose seminal works, including *Principia Mathematica* and *A History of Western Philosophy*, established analytic philosophy and modern logic. Renowned for his skepticism, advocacy of scientific inquiry, agnosticism, personal liberty, educational reform, and peace activism, Russell authored over sixty books, earned the Nobel Prize in Literature, and remains celebrated for his intellectual legacy and tireless public engagement",
+        "idx_start": 1796,
+        "idx_end": 2310
+    },
+    {
+        "document_idx": null,
+        "text": "# Garry Kasparov\nGarry Kasparov is one of the greatest chess grandmasters, noted for his aggressive style, dominance from 1984 to 2005, contributions to opening theory, and integration of computer analysis in chess, particularly through matches against IBM\u2019s Deep Blue. Beyond chess, Kasparov is a leading critic of Russian authoritarianism, founding the United Civil Front and chairing the Human Rights Foundation. His writings span chess, decision-making, and technology, and he continues to shape discussions on democracy and artificial intelligence while residing in New York City.",
+        "text_original": "Garry Kasparov is one of the greatest chess grandmasters, noted for his aggressive style, dominance from 1984 to 2005, contributions to opening theory, and integration of computer analysis in chess, particularly through matches against IBM\u2019s Deep Blue. Beyond chess, Kasparov is a leading critic of Russian authoritarianism, founding the United Civil Front and chairing the Human Rights Foundation. His writings span chess, decision-making, and technology, and he continues to shape discussions on democracy and artificial intelligence while residing in New York City",
+        "idx_start": 2332,
+        "idx_end": 2899
+    }
+]

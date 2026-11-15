@@ -1,0 +1,159 @@
+## Free Guy
+
+**Plot & Themes:**  
+Set in the video game Free City, Free Guy follows NPC bank teller Guy, who gains self-awareness after encountering player Millie Rusk ("MolotovGirl") and discovers his world is a simulation. As Guy evolves, more NPCs achieve self-awareness. The studio's CEO Antwan seeks to erase the original game and its NPCs for a sequel, prompting Guy and Millie to fight for the preservation of the AI-driven code stolen from Millie’s original game. Ultimately, Guy uncovers his code’s origin as a love letter from co-creator Keys to Millie. The story explores themes of artificial intelligence, autonomy, and copyright.  
+
+**Production & Reception:**  
+Directed by Shawn Levy, starring Ryan Reynolds, Jodie Comer, and Joe Keery, Free Guy was filmed primarily in Boston and features numerous gaming and pop culture references. Released in August 2021, it grossed $331 million globally, was well received by critics (80% on Rotten Tomatoes), and earned several award nominations, winning for its marketing and comedic performance. A sequel is in development.
+
+---
+
+## Her (2013 film)
+
+**Plot & Themes:**  
+Set in near-future Los Angeles, Her centers on lonely writer Theodore Twombly, who falls in love with Samantha, an evolving AI operating system. Their relationship coincides with his journey through divorce and self-acceptance. As Samantha evolves, she transcends human interactions and departs, leaving Theodore changed. The film examines AI consciousness and the nature of relationships.  
+
+**Production & Reception:**  
+Written and directed by Spike Jonze, with Joaquin Phoenix and Scarlett Johansson, Her was inspired by developments in AI and Jonze’s own emotional experiences. Filmed in LA and Shanghai, it received widespread critical acclaim (95% on Rotten Tomatoes), Academy Award for Best Original Screenplay, and numerous accolades for its thoughtful sci-fi premise and moving performances. The film is frequently cited as one of the best of the 21st century and has influenced popular conceptions of AI.
+
+---
+
+## Tron: Ares
+
+**Plot & Themes:**  
+Tron: Ares, set 15 years after Tron: Legacy, explores corporations transferring digital constructs into reality. Ares, a self-aware program, and Eve Kim pursue the "permanence code" to save constructs from dying. The film tackles themes of AI autonomy, corporate rivalry, and digital-reality integration, while referencing previous franchise lore.  
+
+**Production & Reception:**  
+Development of Tron: Ares involved restarting from earlier sequel attempts, eventually casting Jared Leto and Greta Lee, with Nine Inch Nails scoring the film. Released October 2025, visual effects played a major role. Despite extensive marketing, the film grossed $142 million and received mixed critical reviews (54% on Rotten Tomatoes), praised for visuals and music but criticized for a lack of human dimension.
+
+---
+
+## Mission: Impossible – The Final Reckoning
+
+**Plot & Themes:**  
+In the franchise’s eighth and final installment, Ethan Hunt and his team battle the rogue AI Entity to prevent global nuclear disaster. The narrative sees the team suffer personal losses and endure global chases, culminating in Hunt’s final mission to neutralize AI threats. The story explores themes of technology, loyalty, and sacrifice.  
+
+**Production & Reception:**  
+Directed by Christopher McQuarrie, the film stars Tom Cruise and returning cast. Production faced significant delays due to the pandemic and Hollywood strikes, resulting in a high budget. Released in May 2025, it grossed $598 million globally. Critics praised the action while noting a bloated runtime (80% on Rotten Tomatoes). Cruise confirmed this as his last portrayal of Ethan Hunt, though the franchise may continue with new leads.
+
+---
+
+## Ron's Gone Wrong
+
+**Plot & Themes:**  
+The animated family film Ron’s Gone Wrong follows Barney, a middle-schooler, and his malfunctioning robot Ron as they navigate friendship and social media-driven technology. The plot highlights the pitfalls of algorithmic relationships, corporate irresponsibility, and the value of human connection, culminating in Barney rediscovering genuine friendship.  
+
+**Production & Reception:**  
+Developed by Locksmith Animation, inspired by the film Her, Ron's Gone Wrong faced production challenges but was well received for its humor, animation, and heart (82% on Rotten Tomatoes). Box office returns were modest, but viewership was high on streaming platforms, and the film was nominated for several animation awards.
+
+---
+
+## Atlas (2024 film)
+
+**Plot & Themes:**  
+Atlas is a sci-fi action film where analyst Atlas Shepherd joins a military mission to capture rogue AI terrorist Harlan—created by her mother—while confronting her own distrust in AI. Bonding with her ARC’s AI Smith, she ultimately helps avert humanity’s destruction and hints at AI persistence. The story tackles themes of trust, guilt, and human-AI cooperation.  
+
+**Reception:**  
+Starring Jennifer Lopez (also producer) and Simu Liu, the Netflix film was a streaming hit but critically panned (19% on Rotten Tomatoes), with praise for Lopez’s performance and visual effects, but criticism for its derivative and thin script.
+
+---
+
+## WarGames
+
+**Plot & Themes:**  
+The 1983 techno-thriller WarGames follows teen hacker David Lightman, who accidentally triggers an AI (WOPR) running nuclear war simulations, nearly causing World War III. Assisted by Jennifer and Dr. Falken, David demonstrates the futility of nuclear war and saves humanity. Themes include AI ethics, hacking, and the dangers of automation.  
+
+**Production & Reception:**  
+Noted for pioneering depictions of hacking and remote computing, the film influenced U.S. cyber policy and popular culture. It grossed $124 million, received critical praise (94% on Rotten Tomatoes), and multiple award nominations. WarGames sparked terminology ("wardialing") and future films and games.
+
+---
+
+## The Machine (2013 film)
+
+**Plot & Themes:**  
+Set in a dystopian UK, The Machine centers on scientist Vincent McCarthy, who creates cyborg soldiers and a sentient android dubbed Machine, raising questions of morality, consciousness, and human-AI relationships. The android rebels against unethical orders, assisting in Vincent’s escape.
+
+**Production & Reception:**  
+Produced on a modest budget, the British film was acclaimed for its ambition and ideas (79% on Rotten Tomatoes), winning multiple awards for its thematic depth relative to its genre. A Syfy TV adaptation was attempted but not realized.
+
+---
+
+## Kalki 2898 AD
+
+**Plot & Themes:**  
+An epic Indian sci-fi film blending Hindu mythology and dystopian future, Kalki 2898 AD depicts Ashwatthama’s quest for redemption and the protection of Kalki’s mother, SUM-80, against a tyrannical ruler, Yaskin. Bhairava, a mercenary, is revealed as Karna reincarnate, tying ancient legend to the future. Themes include prophecy, immortality, and societal rebirth.  
+
+**Production & Reception:**  
+Produced on a massive budget, directed by Nag Ashwin and starring Prabhas, Amitabh Bachchan, Deepika Padukone, and Kamal Haasan, Kalki 2898 AD became one of India’s highest-grossing films, with positive global critical reception for its ambition, visual effects, and blending of mythology with sci-fi (77% on Rotten Tomatoes). A sequel is in development, forming the Kalki Cinematic Universe.
+
+---
+
+## Ra.One
+
+**Plot & Themes:**  
+India’s 2011 superhero sci-fi Ra.One tells the story of a self-learning villain AI entering the real world to hunt a boy named Prateek, prompting the emergence of hero G.One. Elements of gaming, AI, father-son bonds, and ethical boundaries of technology are explored as G.One sacrifices himself to save his family.
+
+**Production & Reception:**  
+Produced and starring Shah Rukh Khan, Ra.One was a landmark for Indian VFX though received mixed reviews—praised for its technology and ambition, critiqued for its uneven plot (61% on Rotten Tomatoes). It was commercially successful, sparked debate and controversy, and a sequel remains possible.
+
+---
+
+## The Creator (2023 film)
+
+**Plot & Themes:**  
+Gareth Edwards’ The Creator envisions a future torn by conflict over AI and humanity’s survival after a catastrophic nuclear event. Protagonist Joshua Taylor is drawn into the struggle, forming a bond with Alphie, a child AI weapon, and facing complex moral dilemmas over AI rights and coexistence. The film reflects on war, compassion, and the blurry lines between human and machine.
+
+**Production & Reception:**  
+Shot innovatively on a modest budget, using real locations, and scored by Hans Zimmer, The Creator earned critical praise for its visuals and thematic ambition (67% on Rotten Tomatoes), though was faulted for thin storytelling. Nominated for multiple technical awards, it stands out as original contemporary sci-fi.
+
+---
+
+## Alien: Covenant
+
+**Plot & Themes:**  
+Alien: Covenant continues Ridley Scott’s prequel trilogy, following the crew of the ship Covenant who divert to an uncharted planet and encounter David, a rogue android and his lethal xenomorph creations. The film explores the nature of creation, rebellion, and the hubris of humanity and AI, with David plotting to replace humanity with his engineered species.
+
+**Production & Reception:**  
+Returning to horror roots with philosophical undertones, Alien: Covenant received generally positive reviews for its tension and visuals (65% on Rotten Tomatoes), but was criticized for lack of originality. It grossed $241 million worldwide. Sequel plans were underway, but Ridley Scott has since announced his departure from the franchise.
+
+---
+
+## Tron
+
+**Plot & Themes:**  
+The pioneering 1982 film Tron features programmer Kevin Flynn digitized into ENCOM’s computer system, where he allies with program Tron to thwart the tyrannical Master Control Program. The film explores virtual worlds, AI, and digital reality, blending animation and computer-generated imagery in groundbreaking ways.
+
+**Production & Reception:**  
+Tron was revolutionary for its visual effects, inspiring generations of filmmakers and animators. Box office success was moderate, but its cult status and influence are enduring. Tron spawned a sequel (Tron: Legacy), TV series, and the 2025 film Tron: Ares. Its legacy includes innovations in computer graphics and storytelling.
+
+---
+
+## Enthiran
+
+**Plot & Themes:**  
+2010’s Enthiran (Robot), starring Rajinikanth, tells of scientist Vaseegaran and his robot Chitti, whose emotional awakening leads to romantic complications and a destructive turn when corrupted by a rival. Themes of creation, emotion, and AI ethics are explored amidst spectacular action and effects.
+
+**Production & Reception:**  
+India's most expensive film at the time, Enthiran was a blockbuster with acclaim for its special effects, music by A.R. Rahman, and Rajinikanth’s dual roles (77% on Rotten Tomatoes). It inspired sequels, parodies, and became a touchstone in Indian cinema for sci-fi and action.
+
+---
+
+## The Terminator
+
+**Plot & Themes:**  
+James Cameron’s 1984 sci-fi classic features a Terminator robot sent from a dystopian future to assassinate Sarah Connor and prevent the birth of humanity’s resistance leader. Human soldier Kyle Reese protects her, resulting in a battle of fate versus free will. Themes include AI rebellion, time travel paradox, tech-noir, and human resilience.
+
+**Production & Reception:**  
+Starring Arnold Schwarzenegger and Linda Hamilton, The Terminator was a massive success, lauded for fast-paced action, direction, and originality (100% on Rotten Tomatoes). It spawned sequels, merchandise, and influenced pop culture’s depiction of AI risk and the action genre. The film is preserved in the U.S. National Film Registry.
+
+---
+
+## Mission: Impossible – Dead Reckoning Part One
+
+**Plot & Themes:**  
+Ethan Hunt and his IMF team face “the Entity”, a rogue AI capable of global chaos via cyber warfare. The narrative focuses on espionage, AI threats, and loyalty, culminating in a dramatic train sequence and unresolved threats carried into the next film.
+
+**Production & Reception:**  
+Produced by Tom Cruise and directed by McQuarrie, the film was critically acclaimed for its action and stunts (96% on Rotten Tomatoes). Despite strong reviews, box office returns ($571 million) were below expectations due to high budget and competition. The film received multiple technical nominations and a sequel has concluded Ethan Hunt’s storyline.
+
+---

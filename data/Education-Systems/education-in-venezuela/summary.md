@@ -1,0 +1,2 @@
+Education in Venezuela is regulated by the Venezuelan Ministry of Education. Nine years of education are compulsory. The school year starts in mid/late September or early-October and ends in late-June or early-July.
+Under the social programs of the Bolivarian Revolution, a number of Bolivarian Missions focus on education, including Mission Robinson (primary education including literacy), Mission Ribas (secondary education) and Mission Sucre (higher education).

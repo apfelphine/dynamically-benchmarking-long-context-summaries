@@ -1,0 +1,24 @@
+{
+  "id": 2963921,
+  "title": "Jean E. Sammet",
+  "url": "https://en.wikipedia.org/wiki/Jean_E._Sammet",
+  "path": "Comp-Sci-Pioneers\\jean-e-sammet",
+  "summary": {
+    "chars": 1384,
+    "tokens": 311
+  },
+  "document": {
+    "chars": 8544,
+    "tokens": 1860
+  },
+  "infobox": {
+    "title": "Jean E. Sammet",
+    "data": {
+      "Born": "March 23, 1928 \u00b7 New York City",
+      "Died": "May 20, 2017 (aged 89) \u00b7 Silver Spring, Maryland",
+      "Alma mater": "Mount Holyoke College (B.A.) \u00b7 University of Illinois at Urbana Champaign (M.A.) \u00b7 Columbia University",
+      "Awards": "Ada Lovelace Award (1989) \u00b7 Computer Pioneer Award(2009) \u00b7 NCWIT Pioneer Award (2013)",
+      "Fields": "Computer science"
+    }
+  }
+}

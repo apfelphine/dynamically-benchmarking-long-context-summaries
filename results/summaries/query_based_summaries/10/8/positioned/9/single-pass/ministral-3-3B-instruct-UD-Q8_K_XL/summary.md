@@ -1,0 +1,11 @@
+Education in Nigeria spans a structured system from primary through tertiary education, with a strong emphasis on compulsory and free education at the basic level.
+
+**Primary Education** begins around age 5, lasting six years, and is compulsory and free. Students study core subjects like Mathematics, English, and indigenous languages, with a Common Entrance Examination determining admission to secondary schools. The Universal Basic Education (UBE) program, introduced in 1999, ensures free, compulsory, and universal basic education, covering kindergarten through junior secondary school.
+
+**Secondary Education** follows primary education, divided into Junior Secondary School (JSS) and Senior Secondary School (SSS). Students take the Senior Secondary School Certificate Examination (SSSC) after three years of JSS and three years of SSS. The system includes federal, state, and private schools, with federal schools often considered elite due to merit-based admissions. Teacher qualifications vary, with many state schools facing shortages and understaffing.
+
+**Promotional Examinations** include the Senior Secondary School Certificate Examination (SSSC) and the General Certificate of Education (GCE), administered by bodies like the West African Examination Council (WAEC). Students can also pursue vocational education through technical colleges or apprenticeships.
+
+**Tertiary Education** includes universities, polytechnics, and colleges of education. Universities are divided into generations based on establishment, with public universities offering free education but facing high competition. Private universities and polytechnics are also available, with admission requirements including SSCE/GCE credits and JAMB (Joint Admissions and Matriculation Board) scores. Vocational education and training (TVET) programs are offered through various institutions, though challenges like teacher shortages and outdated curricula persist.
+
+**Challenges** include high dropout rates, particularly in rural areas, disparities in funding and infrastructure, and the reliance on private tutoring. Efforts to improve literacy and vocational training are ongoing, with initiatives like the Free, Compulsory, and Universal Basic Education (FCUBE) program aimed at enhancing access and quality.

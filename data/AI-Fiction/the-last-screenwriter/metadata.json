@@ -1,0 +1,33 @@
+{
+  "id": 77183728,
+  "title": "The Last Screenwriter",
+  "url": "https://en.wikipedia.org/wiki/The_Last_Screenwriter",
+  "path": "AI-Fiction\\the-last-screenwriter",
+  "summary": {
+    "chars": 550,
+    "tokens": 114
+  },
+  "document": {
+    "chars": 5314,
+    "tokens": 1097
+  },
+  "infobox": {
+    "title": "The Last Screenwriter",
+    "data": {
+      "Directed by": "Peter Luisi",
+      "Written by": "ChatGPT 4o",
+      "Produced by": "- David Luisi - Peter Luisi",
+      "Starring": "- Nicholas Pople - Bonnie Milnes - Anna Arthur - Christian Vaccaro - Phil Cardwell - Marek Antoszewski",
+      "Cinematography": "Rafael Kistler",
+      "Edited by": "Peter Luisi",
+      "Music by": "Martin Villiger",
+      "Production \u00b7 companies": "- Spotlight Media Productions - Z\u00fcrcher Filmstiftung - SRG SSR - Federal Office of Culture",
+      "Distributed by": "Spotlight Media Productions",
+      "Release date": "- 5 July 2024",
+      "Running time": "72 minutes",
+      "Country": "Switzerland",
+      "Language": "English",
+      "Budget": "$850,000"
+    }
+  }
+}

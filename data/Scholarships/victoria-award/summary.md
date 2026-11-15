@@ -1,0 +1,1 @@
+The Victoria Award (Swedish: Victoriapriset), earlier called the Victoria Scholarship (Swedish: Victoriastipendiet) is awarded to a Swedish athlete (or pair of athletes) every year since 1979, on Öland, on the 14 July, the birthday of Victoria, Crown Princess of Sweden.

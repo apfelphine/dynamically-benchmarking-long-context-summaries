@@ -1,0 +1,1 @@
+The provided text does not contain any information about the "University of Jordan." The document focuses exclusively on other institutions such as the University of Manchester, University of Auckland, and others.

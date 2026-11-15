@@ -1,0 +1,21 @@
+{
+  "id": 123427,
+  "title": "Education in the United States",
+  "url": "https://en.wikipedia.org/wiki/Education_in_the_United_States",
+  "path": "Education-Systems\\education-in-the-united-states",
+  "summary": {
+    "chars": 4052,
+    "tokens": 833
+  },
+  "document": {
+    "chars": 89166,
+    "tokens": 17453
+  },
+  "infobox": {
+    "title": "Education in the United States of America",
+    "data": {
+      "Budget": "$222.1 billion (0.8% of GDP)",
+      "Per student": "More than $11,000 (2005)"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1594929,
+  "title": "Demon Seed",
+  "url": "https://en.wikipedia.org/wiki/Demon_Seed",
+  "path": "AI-Fiction\\demon-seed",
+  "summary": {
+    "chars": 445,
+    "tokens": 99
+  },
+  "document": {
+    "chars": 11208,
+    "tokens": 2418
+  },
+  "infobox": {
+    "title": "Demon Seed",
+    "data": {
+      "Directed by": "Donald Cammell",
+      "Screenplay by": "Robert Jaffe \u00b7 Roger O. Hirson",
+      "Based on": "Demon Seed \u00b7 by Dean Koontz",
+      "Produced by": "Herb Jaffe",
+      "Starring": "- Julie Christie - Fritz Weaver",
+      "Cinematography": "Bill Butler",
+      "Edited by": "Francisco Mazzola",
+      "Music by": "Jerry Fielding",
+      "Production \u00b7 companies": "- Metro-Goldwyn-Mayer - Herb Jaffe Productions",
+      "Distributed by": "United Artists",
+      "Release dates": "- April 1, 1977 (Los Angeles) - April 8, 1977 (U.S.)",
+      "Running time": "94 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Box office": "$2 million"
+    }
+  }
+}

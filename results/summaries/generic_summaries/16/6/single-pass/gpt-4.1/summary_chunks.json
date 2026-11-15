@@ -1,0 +1,443 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## History & Campus:\nLund University traces its roots to 1425 as Scandinavia\u2019s oldest institution of higher education, formally established in 1666 after Sweden acquired Scania from Denmark. Developed to integrate the region into Sweden, the university grew steadily, notably expanding faculties and hosting notable lecturers. It played a key role in Sweden\u2019s cultural and educational history and is now a vibrant, multi-campus institution spread across Lund, Malm\u00f6, Helsingborg, and other locations, with significant facilities for the arts, sciences, medicine, and aviation.",
+        "text_original": "Lund University traces its roots to 1425 as Scandinavia\u2019s oldest institution of higher education, formally established in 1666 after Sweden acquired Scania from Denmark. Developed to integrate the region into Sweden, the university grew steadily, notably expanding faculties and hosting notable lecturers. It played a key role in Sweden\u2019s cultural and educational history and is now a vibrant, multi-campus institution spread across Lund, Malm\u00f6, Helsingborg, and other locations, with significant facilities for the arts, sciences, medicine, and aviation",
+        "idx_start": 44,
+        "idx_end": 598
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Academics & Research:\nWith nine faculties and hundreds of programs, Lund is among Scandinavia\u2019s largest research universities. It is highly ranked globally, especially in subjects like finance, geography, law, and environmental sciences. Lund is a major recipient of EU research grants and recognized for numerous innovations, including medical ultrasound, the artificial kidney, and Bluetooth technology.",
+        "text_original": "With nine faculties and hundreds of programs, Lund is among Scandinavia\u2019s largest research universities. It is highly ranked globally, especially in subjects like finance, geography, law, and environmental sciences. Lund is a major recipient of EU research grants and recognized for numerous innovations, including medical ultrasound, the artificial kidney, and Bluetooth technology",
+        "idx_start": 629,
+        "idx_end": 1011
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Student Life:\nStudent life revolves around historic \u2018nations\u2019 (social clubs), unions, and the Academic Society, fostering wide-ranging cultural, recreational, and housing activities. The university boasts a strong tradition of student engagement, including theatre, radio, and major events like Lundakarnevalen.",
+        "text_original": "Student life revolves around historic \u2018nations\u2019 (social clubs), unions, and the Academic Society, fostering wide-ranging cultural, recreational, and housing activities. The university boasts a strong tradition of student engagement, including theatre, radio, and major events like Lundakarnevalen",
+        "idx_start": 1034,
+        "idx_end": 1330
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Notable People & Partnerships:\nLund alumni and faculty include Nobel laureates, leaders in science and humanities, and influential figures in business and politics. The university collaborates extensively worldwide, participating in major research and exchange programs.",
+        "text_original": "Lund alumni and faculty include Nobel laureates, leaders in science and humanities, and influential figures in business and politics. The university collaborates extensively worldwide, participating in major research and exchange programs",
+        "idx_start": 1370,
+        "idx_end": 1608
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\n## History & Campus:\nFounded in Amman in 1962, the University of Jordan emerged to address a national need for higher education, expanding rapidly amid political changes and economic growth. It now has campuses in Amman and Aqaba, with substantial infrastructure, academic buildings, and student facilities.",
+        "text_original": "Founded in Amman in 1962, the University of Jordan emerged to address a national need for higher education, expanding rapidly amid political changes and economic growth. It now has campuses in Amman and Aqaba, with substantial infrastructure, academic buildings, and student facilities",
+        "idx_start": 1665,
+        "idx_end": 1950
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\n## Academics & Research:\nThe university offers 78 undergraduate and 143 postgraduate programs across scientific, humanitarian, and medical faculties, with an emphasis on research, publishing notable journals, and maintaining valuable scientific collections. Its teaching hospital and affiliated research centers are regionally significant, especially for medical education and research.",
+        "text_original": "The university offers 78 undergraduate and 143 postgraduate programs across scientific, humanitarian, and medical faculties, with an emphasis on research, publishing notable journals, and maintaining valuable scientific collections. Its teaching hospital and affiliated research centers are regionally significant, especially for medical education and research",
+        "idx_start": 1981,
+        "idx_end": 2341
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\n## Rankings & International Ties:\nThe University of Jordan consistently ranks as the top university in Jordan and among the leading institutions in the Arab world. It sustains extensive international partnerships for research and student exchange and is affiliated with major global educational organizations.",
+        "text_original": "The University of Jordan consistently ranks as the top university in Jordan and among the leading institutions in the Arab world. It sustains extensive international partnerships for research and student exchange and is affiliated with major global educational organizations",
+        "idx_start": 2381,
+        "idx_end": 2655
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\n## Student Life & Notable Alumni:\nThe student union is central to governance and activism. Alumni include national leaders, ministers, diplomats, scientists, artists, and influential figures in academia and industry.",
+        "text_original": "The student union is central to governance and activism. Alumni include national leaders, ministers, diplomats, scientists, artists, and influential figures in academia and industry",
+        "idx_start": 2695,
+        "idx_end": 2876
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## History & Campuses:\nImperial, established in 1907, represents the union of several 19th-century institutions, notably in science and medicine. The main campus in South Kensington is prominent in London\u2019s cultural district, complemented by research hubs at White City and Silwood Park.",
+        "text_original": "Imperial, established in 1907, represents the union of several 19th-century institutions, notably in science and medicine. The main campus in South Kensington is prominent in London\u2019s cultural district, complemented by research hubs at White City and Silwood Park",
+        "idx_start": 2938,
+        "idx_end": 3201
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Organization & Academics:\nImperial operates four faculties: Engineering, Medicine, Natural Sciences, and Business. It maintains specialized interdisciplinary centers and national partnerships. The college is known for world-leading research, robust commercialization efforts, and fostering innovation, especially through strategic alliances like with MIT.",
+        "text_original": "Imperial operates four faculties: Engineering, Medicine, Natural Sciences, and Business. It maintains specialized interdisciplinary centers and national partnerships. The college is known for world-leading research, robust commercialization efforts, and fostering innovation, especially through strategic alliances like with MIT",
+        "idx_start": 3236,
+        "idx_end": 3564
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Rankings & Reputation:\nImperial is internationally ranked in the top 10, known for its unique blend of science, engineering, business, and medicine. It excels in employability, entrepreneurship, and collaborations, with a highly selective admissions process and a diverse student body.",
+        "text_original": "Imperial is internationally ranked in the top 10, known for its unique blend of science, engineering, business, and medicine. It excels in employability, entrepreneurship, and collaborations, with a highly selective admissions process and a diverse student body",
+        "idx_start": 3596,
+        "idx_end": 3857
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Student Life & Alumni:\nStudent life features hundreds of societies, sports clubs, and traditions unique to Imperial, such as mascotry and exclusive social clubs. Alumni include numerous Nobel and Fields medalists, influential scientists, business leaders, and global policymakers.",
+        "text_original": "Student life features hundreds of societies, sports clubs, and traditions unique to Imperial, such as mascotry and exclusive social clubs. Alumni include numerous Nobel and Fields medalists, influential scientists, business leaders, and global policymakers",
+        "idx_start": 3889,
+        "idx_end": 4145
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## History & Growth:\nFounded in 1863 as a Jesuit institution serving Boston\u2019s Irish Catholic immigrant community, Boston College has grown from a small urban college to a major university in Chestnut Hill. It became coeducational in 1970 and expanded campuses, academic programs, and its endowment, weathering financial crises and social movements.",
+        "text_original": "Founded in 1863 as a Jesuit institution serving Boston\u2019s Irish Catholic immigrant community, Boston College has grown from a small urban college to a major university in Chestnut Hill. It became coeducational in 1970 and expanded campuses, academic programs, and its endowment, weathering financial crises and social movements",
+        "idx_start": 4196,
+        "idx_end": 4522
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Academics & Reputation:\nComprising nine schools, BC offers a wide spectrum of programs and is nationally recognized for business, law, and education. It ranks among the top U.S. universities and maintains an active research profile. Notable traditions include the Order of the Cross and Crown honor society.",
+        "text_original": "Comprising nine schools, BC offers a wide spectrum of programs and is nationally recognized for business, law, and education. It ranks among the top U.S. universities and maintains an active research profile. Notable traditions include the Order of the Cross and Crown honor society",
+        "idx_start": 4555,
+        "idx_end": 4837
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Student Life & Athletics:\nBC is committed to diversity, with specific support for AHANA students. Student media, performing arts, and religious life are vibrant. Athletics, especially in hockey and football, play a central role, with prominent facilities and traditions.",
+        "text_original": "BC is committed to diversity, with specific support for AHANA students. Student media, performing arts, and religious life are vibrant. Athletics, especially in hockey and football, play a central role, with prominent facilities and traditions",
+        "idx_start": 4872,
+        "idx_end": 5115
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Controversies & Alumni:\nBC has faced protests around tuition, racism, and LGBT inclusion, leading to reforms. Alumni are prominent in politics, arts, and public service, including senators, governors, and entertainment figures.",
+        "text_original": "BC has faced protests around tuition, racism, and LGBT inclusion, leading to reforms. Alumni are prominent in politics, arts, and public service, including senators, governors, and entertainment figures",
+        "idx_start": 5148,
+        "idx_end": 5350
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## History & Campus:\nEstablished in 1878, Western has evolved from a denominational college into one of Canada\u2019s leading research universities, with a sprawling campus in London, Ontario, Collegiate Gothic architecture, and multiple research parks.",
+        "text_original": "Established in 1878, Western has evolved from a denominational college into one of Canada\u2019s leading research universities, with a sprawling campus in London, Ontario, Collegiate Gothic architecture, and multiple research parks",
+        "idx_start": 5416,
+        "idx_end": 5642
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Academics & Research:\nWestern offers a comprehensive range of undergraduate and graduate programs across 11 faculties, with significant strengths in brain sciences, medicine, and business. It is highly ranked for research impact and graduate employability.",
+        "text_original": "Western offers a comprehensive range of undergraduate and graduate programs across 11 faculties, with significant strengths in brain sciences, medicine, and business. It is highly ranked for research impact and graduate employability",
+        "idx_start": 5673,
+        "idx_end": 5906
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Student Life & Athletics:\nUnion-led student governance coordinates hundreds of clubs and services. The Western Mustangs are notable in Canadian athletics, and the campus hosts extensive facilities for sports and the arts. Student media includes historic newspapers and radio.",
+        "text_original": "Union-led student governance coordinates hundreds of clubs and services. The Western Mustangs are notable in Canadian athletics, and the campus hosts extensive facilities for sports and the arts. Student media includes historic newspapers and radio",
+        "idx_start": 5941,
+        "idx_end": 6189
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Notable Alumni:\nWestern alumni include Nobel laureates, astronauts, political leaders, and business innovators, with a strong global alumni network.",
+        "text_original": "Western alumni include Nobel laureates, astronauts, political leaders, and business innovators, with a strong global alumni network",
+        "idx_start": 6214,
+        "idx_end": 6345
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n## History & Campuses:\nFounded in 1636, Harvard is the oldest U.S. university and a global symbol of academic prestige. Its main campus is in Cambridge, Massachusetts, with teaching hospitals and research centers in Boston and beyond.",
+        "text_original": "Founded in 1636, Harvard is the oldest U.S. university and a global symbol of academic prestige. Its main campus is in Cambridge, Massachusetts, with teaching hospitals and research centers in Boston and beyond",
+        "idx_start": 6402,
+        "idx_end": 6612
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n## Organization & Academics:\nWith the world\u2019s largest endowment and robust governance, Harvard comprises multiple schools (e.g., Law, Medicine, Business) and excels in liberal arts, sciences, and professional education. Its library is the largest academic collection globally.",
+        "text_original": "With the world\u2019s largest endowment and robust governance, Harvard comprises multiple schools (e.g., Law, Medicine, Business) and excels in liberal arts, sciences, and professional education. Its library is the largest academic collection globally",
+        "idx_start": 6647,
+        "idx_end": 6893
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n## Research & Influence:\nA founding member of the AAU, Harvard leads in biomedical research and produces a significant global impact. Notable centers and museums contribute to its intellectual and cultural environment.",
+        "text_original": "A founding member of the AAU, Harvard leads in biomedical research and produces a significant global impact. Notable centers and museums contribute to its intellectual and cultural environment",
+        "idx_start": 6924,
+        "idx_end": 7116
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n## Rankings & Reputation:\nHarvard regularly ranks first worldwide across major university rankings. Its alumni are dominant among global leaders in government, science, business, and the arts.",
+        "text_original": "Harvard regularly ranks first worldwide across major university rankings. Its alumni are dominant among global leaders in government, science, business, and the arts",
+        "idx_start": 7148,
+        "idx_end": 7313
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n## Student Life & Athletics:\nStudent organizations, media, and athletic teams (Ivy League) are integral, with storied rivalries and traditions. Campuses offer diverse housing, facilities, and historic architecture.",
+        "text_original": "Student organizations, media, and athletic teams (Ivy League) are integral, with storied rivalries and traditions. Campuses offer diverse housing, facilities, and historic architecture",
+        "idx_start": 7348,
+        "idx_end": 7532
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n## Controversies:\nHarvard has faced political tensions, especially over government intervention and free speech, most recently during the Gaza war protests.",
+        "text_original": "Harvard has faced political tensions, especially over government intervention and free speech, most recently during the Gaza war protests",
+        "idx_start": 7556,
+        "idx_end": 7693
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## History & Organization:\nFounded in the 1960s, Unicamp in S\u00e3o Paulo state is a top Brazilian public university, growing rapidly through research and innovation, even amid political crises and funding challenges.",
+        "text_original": "Founded in the 1960s, Unicamp in S\u00e3o Paulo state is a top Brazilian public university, growing rapidly through research and innovation, even amid political crises and funding challenges",
+        "idx_start": 7774,
+        "idx_end": 7959
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Campuses & Facilities:\nThe main campus in Bar\u00e3o Geraldo is circular and collaborative, with teaching hospitals, technical schools, and high-tech labs like the Synchrotron Light Laboratory.",
+        "text_original": "The main campus in Bar\u00e3o Geraldo is circular and collaborative, with teaching hospitals, technical schools, and high-tech labs like the Synchrotron Light Laboratory",
+        "idx_start": 7991,
+        "idx_end": 8155
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Academic Profile & Admissions:\nUnicamp is organized into a system of institutes and schools, offering 70 undergraduate and 153 graduate programs, admitting students through a highly competitive vestibular exam. It is recognized for research, community outreach, and open extension programs.",
+        "text_original": "Unicamp is organized into a system of institutes and schools, offering 70 undergraduate and 153 graduate programs, admitting students through a highly competitive vestibular exam. It is recognized for research, community outreach, and open extension programs",
+        "idx_start": 8195,
+        "idx_end": 8453
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Student Life:\nMost students live off-campus in \u2018rep\u00fablicas\u2019. The university fosters a strong social and athletic culture run primarily by students.",
+        "text_original": "Most students live off-campus in \u2018rep\u00fablicas\u2019. The university fosters a strong social and athletic culture run primarily by students",
+        "idx_start": 8476,
+        "idx_end": 8608
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Rankings & Notable People:\nUnicamp appears among the top Latin American universities, is highly ranked in global research, and counts leading scientists, business figures, and artists among its alumni and staff.",
+        "text_original": "Unicamp appears among the top Latin American universities, is highly ranked in global research, and counts leading scientists, business figures, and artists among its alumni and staff",
+        "idx_start": 8644,
+        "idx_end": 8827
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## History & Campus:\nFounded in 1898 in Beijing, Peking University is China\u2019s oldest national university and renowned for academic freedom and political influence, including a major role in the May Fourth Movement.",
+        "text_original": "Founded in 1898 in Beijing, Peking University is China\u2019s oldest national university and renowned for academic freedom and political influence, including a major role in the May Fourth Movement",
+        "idx_start": 8881,
+        "idx_end": 9073
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## Academics & Research:\nPeking comprises 55 schools and 137 undergraduate majors, with top rankings across arts, science, medicine, engineering, and social sciences. It is a leader in high-impact research and home to Asia\u2019s largest university library.",
+        "text_original": "Peking comprises 55 schools and 137 undergraduate majors, with top rankings across arts, science, medicine, engineering, and social sciences. It is a leader in high-impact research and home to Asia\u2019s largest university library",
+        "idx_start": 9104,
+        "idx_end": 9330
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## International Ties:\nThe university maintains extensive international partnerships and exchange programs with global leaders like Waseda, Yale, Stanford, and others.",
+        "text_original": "The university maintains extensive international partnerships and exchange programs with global leaders like Waseda, Yale, Stanford, and others",
+        "idx_start": 9359,
+        "idx_end": 9502
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## Student Life & Notable People:\nThe campus, on former imperial gardens, hosts a diverse, international body. Alumni include state leaders, Nobel laureates, and cultural icons, and the faculty includes prominent intellectuals.",
+        "text_original": "The campus, on former imperial gardens, hosts a diverse, international body. Alumni include state leaders, Nobel laureates, and cultural icons, and the faculty includes prominent intellectuals",
+        "idx_start": 9542,
+        "idx_end": 9734
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\n## History & Campus:\nManchester emerged from 19th-century industrial and scientific roots, merging Owens College and UMIST into a major civic university in 2004. The campus is urban, historic, and integrated into Manchester city.",
+        "text_original": "Manchester emerged from 19th-century industrial and scientific roots, merging Owens College and UMIST into a major civic university in 2004. The campus is urban, historic, and integrated into Manchester city",
+        "idx_start": 9795,
+        "idx_end": 10002
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\n## Organization & Academics:\nIt is divided into three faculties: biology, medicine & health; science & engineering; and humanities. Manchester is a member of the UK\u2019s Russell Group, a research-intensive collective, and has strong industry ties.",
+        "text_original": "It is divided into three faculties: biology, medicine & health; science & engineering; and humanities. Manchester is a member of the UK\u2019s Russell Group, a research-intensive collective, and has strong industry ties",
+        "idx_start": 10037,
+        "idx_end": 10251
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\n## Rankings & Reputation:\nManchester ranks highly globally, top in the UK for employability, and is recognized for research excellence and innovation, including the invention of the stored-program computer.",
+        "text_original": "Manchester ranks highly globally, top in the UK for employability, and is recognized for research excellence and innovation, including the invention of the stored-program computer",
+        "idx_start": 10283,
+        "idx_end": 10462
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\n## Student Life & Housing:\nStudent unions and athletic clubs are prominent, as is legendary performance in University Challenge. Accommodation includes both halls and residential colleges.",
+        "text_original": "Student unions and athletic clubs are prominent, as is legendary performance in University Challenge. Accommodation includes both halls and residential colleges",
+        "idx_start": 10495,
+        "idx_end": 10655
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\n## Notable Alumni:\nManchester has produced 26 Nobel laureates and influential figures in science, politics, literature, and the arts.",
+        "text_original": "Manchester has produced 26 Nobel laureates and influential figures in science, politics, literature, and the arts",
+        "idx_start": 10680,
+        "idx_end": 10793
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## History & Campuses:\nFounded in 1887 as a technical college, RMIT grew rapidly as a provider of vocational and higher education, gaining royal patronage in 1954 and becoming a public university in 1992. It operates urban, suburban, and international campuses, including in Vietnam and Spain.",
+        "text_original": "Founded in 1887 as a technical college, RMIT grew rapidly as a provider of vocational and higher education, gaining royal patronage in 1954 and becoming a public university in 1992. It operates urban, suburban, and international campuses, including in Vietnam and Spain",
+        "idx_start": 10878,
+        "idx_end": 11147
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Organization & Academics:\nRMIT runs higher education and vocational divisions, encompassing business, STEM, design, and social science colleges. It is governed by a council and academic board.",
+        "text_original": "RMIT runs higher education and vocational divisions, encompassing business, STEM, design, and social science colleges. It is governed by a council and academic board",
+        "idx_start": 11182,
+        "idx_end": 11347
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Research & Rankings:\nThe university ranks in the top 200 globally, focusing on applied research and maintaining strong partnerships with industry and government. Graduate employability is high.",
+        "text_original": "The university ranks in the top 200 globally, focusing on applied research and maintaining strong partnerships with industry and government. Graduate employability is high",
+        "idx_start": 11377,
+        "idx_end": 11548
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Student Life:\nStudent unions (RUSU), campus collectives, and media outlets are robust. RMIT\u2019s city campus is integrated into Melbourne\u2019s CBD, and students enjoy vibrant arts and sports communities.",
+        "text_original": "Student unions (RUSU), campus collectives, and media outlets are robust. RMIT\u2019s city campus is integrated into Melbourne\u2019s CBD, and students enjoy vibrant arts and sports communities",
+        "idx_start": 11571,
+        "idx_end": 11753
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Notable Alumni:\nRMIT graduates excel in business, creative industries, sports, and science, with a global alumni network.",
+        "text_original": "RMIT graduates excel in business, creative industries, sports, and science, with a global alumni network",
+        "idx_start": 11778,
+        "idx_end": 11882
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## History & Expansion:\nEstablished in 1883, the University of Auckland has grown through mergers and infrastructural investments to become New Zealand\u2019s largest and most diverse university, with multiple campuses and leading research institutes.",
+        "text_original": "Established in 1883, the University of Auckland has grown through mergers and infrastructural investments to become New Zealand\u2019s largest and most diverse university, with multiple campuses and leading research institutes",
+        "idx_start": 11944,
+        "idx_end": 12165
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Academic Profile:\nAuckland houses six faculties, offers comprehensive academic programs, and excels in entrepreneurship via dedicated innovation centers. It consistently ranks as New Zealand\u2019s top university, within the top 100 globally.",
+        "text_original": "Auckland houses six faculties, offers comprehensive academic programs, and excels in entrepreneurship via dedicated innovation centers. It consistently ranks as New Zealand\u2019s top university, within the top 100 globally",
+        "idx_start": 12192,
+        "idx_end": 12410
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Student Life & Facilities:\nThe university operates major campus spaces in Auckland, student accommodations, sports and recreation centers, and a significant art collection. The student association (AUSA) is active in representation and media.",
+        "text_original": "The university operates major campus spaces in Auckland, student accommodations, sports and recreation centers, and a significant art collection. The student association (AUSA) is active in representation and media",
+        "idx_start": 12446,
+        "idx_end": 12660
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Controversies:\nAuckland has faced disputes over campus closures, divestment, restructuring, accommodation fees, and academic freedom. Steps toward sustainability and inclusion are notable.",
+        "text_original": "Auckland has faced disputes over campus closures, divestment, restructuring, accommodation fees, and academic freedom. Steps toward sustainability and inclusion are notable",
+        "idx_start": 12684,
+        "idx_end": 12856
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Notable Alumni:\nAuckland\u2019s alumni and faculty include leading figures in academia, science, business, politics, and the arts, recognized through prestigious awards and programs.",
+        "text_original": "Auckland\u2019s alumni and faculty include leading figures in academia, science, business, politics, and the arts, recognized through prestigious awards and programs",
+        "idx_start": 12881,
+        "idx_end": 13041
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## History & Organization:\nUnesp was founded in 1976 as a multi-campus public university in S\u00e3o Paulo state, modeled on the University of California system, bringing together several older state institutes.",
+        "text_original": "Unesp was founded in 1976 as a multi-campus public university in S\u00e3o Paulo state, modeled on the University of California system, bringing together several older state institutes",
+        "idx_start": 13118,
+        "idx_end": 13296
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Campuses & Academics:\nWith 23 campuses and over 33 institutes, Unesp offers 171 undergraduate options and over 100 graduate programs, serving over 45,000 students. It operates research centers and teaching hospitals.",
+        "text_original": "With 23 campuses and over 33 institutes, Unesp offers 171 undergraduate options and over 100 graduate programs, serving over 45,000 students. It operates research centers and teaching hospitals",
+        "idx_start": 13327,
+        "idx_end": 13520
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Research & Rankings:\nThe university is a major contributor to scientific production in Brazil, focusing on biotechnology, climate science, and nanotechnology. Unesp is consistently ranked among the top Latin American universities.",
+        "text_original": "The university is a major contributor to scientific production in Brazil, focusing on biotechnology, climate science, and nanotechnology. Unesp is consistently ranked among the top Latin American universities",
+        "idx_start": 13550,
+        "idx_end": 13758
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Admissions & Exchange:\nAdmission is via a competitive state-wide vestibular exam. Unesp maintains over 140 international exchange agreements.",
+        "text_original": "Admission is via a competitive state-wide vestibular exam. Unesp maintains over 140 international exchange agreements",
+        "idx_start": 13790,
+        "idx_end": 13907
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Notable Alumni:\nUnesp alumni and faculty include renowned figures in arts, journalism, science, music, and politics.",
+        "text_original": "Unesp alumni and faculty include renowned figures in arts, journalism, science, music, and politics",
+        "idx_start": 13932,
+        "idx_end": 14031
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## History & Campus:\nFounded in 1850 as Australia\u2019s first university, Sydney is noted for historic architecture, academic leadership, and progressive admission policies. Its main campus is iconic, with notable satellite facilities.",
+        "text_original": "Founded in 1850 as Australia\u2019s first university, Sydney is noted for historic architecture, academic leadership, and progressive admission policies. Its main campus is iconic, with notable satellite facilities",
+        "idx_start": 14088,
+        "idx_end": 14297
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Academics & Rankings:\nSydney offers comprehensive degrees through eight faculties, supporting major research centers and libraries. It is ranked in the top 25\u201372 globally, excelling in student outcomes, research, and graduate employment.",
+        "text_original": "Sydney offers comprehensive degrees through eight faculties, supporting major research centers and libraries. It is ranked in the top 25\u201372 globally, excelling in student outcomes, research, and graduate employment",
+        "idx_start": 14328,
+        "idx_end": 14542
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Student Life:\nStudent unions, clubs, and traditions like the Charles Perkins Oration are central. Cultural, artistic, and sporting activities are vibrant.",
+        "text_original": "Student unions, clubs, and traditions like the Charles Perkins Oration are central. Cultural, artistic, and sporting activities are vibrant",
+        "idx_start": 14565,
+        "idx_end": 14704
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Controversies & Notable Alumni:\nSydney has faced issues concerning sexual harassment, staff underpayment, environmental concerns, and student satisfaction. Its alumni include Nobel laureates, prime ministers, innovators, and cultural leaders.",
+        "text_original": "Sydney has faced issues concerning sexual harassment, staff underpayment, environmental concerns, and student satisfaction. Its alumni include Nobel laureates, prime ministers, innovators, and cultural leaders",
+        "idx_start": 14745,
+        "idx_end": 14954
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## History & Mission:\nFounded in 1948 in Bogot\u00e1 as Colombia\u2019s first nonsectarian, non-political university, Uniandes was modeled on the American system, prioritizing academic freedom and social responsibility during periods of national turmoil.",
+        "text_original": "Founded in 1948 in Bogot\u00e1 as Colombia\u2019s first nonsectarian, non-political university, Uniandes was modeled on the American system, prioritizing academic freedom and social responsibility during periods of national turmoil",
+        "idx_start": 15026,
+        "idx_end": 15247
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Academics & Campus:\nUniandes supports interdisciplinary programs via cycles covering core and professional subjects, with extensive research, international exchange, and a well-equipped urban campus. It admits top students nationally and fosters faculty with global credentials.",
+        "text_original": "Uniandes supports interdisciplinary programs via cycles covering core and professional subjects, with extensive research, international exchange, and a well-equipped urban campus. It admits top students nationally and fosters faculty with global credentials",
+        "idx_start": 15276,
+        "idx_end": 15533
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Governance & Reputation:\nOperated as an independent, nonprofit institution, Uniandes is known for political neutrality, rigorous academics, and innovation.",
+        "text_original": "Operated as an independent, nonprofit institution, Uniandes is known for political neutrality, rigorous academics, and innovation",
+        "idx_start": 15567,
+        "idx_end": 15696
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Notable Alumni:\nAlumni have attained national prominence in government, science, the arts, and education, exemplifying the university\u2019s mission of excellence and leadership. Its mascot, a goat named Seneca, symbolizes tradition and community.",
+        "text_original": "Alumni have attained national prominence in government, science, the arts, and education, exemplifying the university\u2019s mission of excellence and leadership. Its mascot, a goat named Seneca, symbolizes tradition and community",
+        "idx_start": 15721,
+        "idx_end": 15946
+    }
+]

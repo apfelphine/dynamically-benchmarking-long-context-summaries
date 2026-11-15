@@ -1,0 +1,28 @@
+{
+  "id": 161875,
+  "title": "Dana Scott",
+  "url": "https://en.wikipedia.org/wiki/Dana_Scott",
+  "path": "Comp-Sci-Pioneers\\dana-scott",
+  "summary": {
+    "chars": 539,
+    "tokens": 112
+  },
+  "document": {
+    "chars": 6225,
+    "tokens": 1299
+  },
+  "infobox": {
+    "title": "Dana Stewart Scott",
+    "data": {
+      "Born": "October 11, 1932 \u00b7 Berkeley, California",
+      "Education": "University of California, Berkeley (BA) \u00b7 Princeton University (MA, PhD)",
+      "Known for": "- Automata theory - Cartesian monoid - Logic of Computable Functions - Semantics of programming languages - Modal \u03bc-calculus - Nondeterministic finite automaton - Scott domain - Scott encoding - Scott information system - Scott topology - Scott's trick - Scott-Montague semantics - Scott\u2013Potter set theory - Scott\u2013Strachey semantics - Rabin\u2013Scott powerset construction",
+      "Awards": "- Leroy P. Steele Prize (1972) - Turing Award (1976) - Tarski Lectures (1989) - Harold Pender Award (1990) - G\u00f6del Lecture (1991) - Rolf Schock Prize (Logic and Philosophy) (1997)",
+      "Fields": "- Computer science - Mathematics - Philosophy",
+      "Institutions": "- University of Chicago - University of California, Berkeley - Stanford - Merton College, Oxford - Carnegie Mellon University",
+      "Thesis": "Convergent Sequences of Complete Theories (1958)",
+      "Doctoral advisor": "Alonzo Church",
+      "Doctoral students": "- Jack Copeland - Michael Fourman - Kenneth Kunen - Angus Macintyre - Peter Mosses - Roy Dyckhoff - Ketan Mulmuley - Marko Petkov\u0161ek - Fred S. Roberts - Krister Segerberg - David Turner - Martin Davies"
+    }
+  }
+}

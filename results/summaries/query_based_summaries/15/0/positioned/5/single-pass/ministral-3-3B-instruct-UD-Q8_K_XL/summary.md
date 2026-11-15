@@ -1,0 +1,9 @@
+The **University of Melbourne** was established in 1853, initially founded by the Victorian government to provide higher education in arts, medicine, law, and music. Originally located in Parkville, the university expanded significantly in the late 19th and early 20th centuries, driven by the wealth from Victoria’s gold rush, and became a leader in Australian research and education.
+
+By the 1980s, the university underwent major restructuring, including the amalgamation of tertiary colleges and the introduction of the **"Melbourne Model"** in 2008, which replaced traditional undergraduate degrees with a two-degree structure (general bachelor’s followed by a specialized graduate degree). This model was influenced by North American academic practices and the Bologna Process.
+
+The university operates across three main campuses: **Parkville** (the historic core), **Southbank** (for arts and music), and **Werribee** (for veterinary science), along with regional campuses in **Burnley, Creswick, Dookie, and Shepparton**. It is a leading research institution in Australia, with a strong emphasis on interdisciplinary studies and innovation. The university is known for its academic rigor, global rankings (e.g., #19 in the 2026 QS World University Rankings), and contributions to fields such as medicine, engineering, and humanities.
+
+The University of Melbourne has faced challenges, including controversies over staff underpayment, student protests, and governance reforms under former Vice-Chancellor Glyn Davis. Recent leadership transitions, including the appointment of Emma Johnston as the first female Vice-Chancellor in 2025, reflect ongoing efforts to modernize and address institutional issues.
+
+The university is renowned for its research output, international student body (44% of students), and partnerships with industry and research institutions. It is also recognized for its commitment to sustainability, entrepreneurship, and community engagement.

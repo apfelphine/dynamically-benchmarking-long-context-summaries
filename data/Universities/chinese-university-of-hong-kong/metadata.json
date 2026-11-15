@@ -1,0 +1,39 @@
+{
+  "id": 268964,
+  "title": "Chinese University of Hong Kong",
+  "url": "https://en.wikipedia.org/wiki/Chinese_University_of_Hong_Kong",
+  "path": "Universities\\chinese-university-of-hong-kong",
+  "summary": {
+    "chars": 894,
+    "tokens": 178
+  },
+  "document": {
+    "chars": 26780,
+    "tokens": 5479
+  },
+  "infobox": {
+    "title": "Chinese University of Hong Kong",
+    "data": {
+      "Motto": "\u535a\u6587\u7d04\u79ae",
+      "Motto in English": "Through learning and temperance to virtue",
+      "Type": "Public",
+      "Established": "17 October 1963",
+      "Chairman": "John Chai",
+      "Chancellor": "John Lee Ka-chiu",
+      "Vice-Chancellor": "Dennis Lo",
+      "Provost": "Poon Wai-yin, Isabella",
+      "Pro-Vice-Chancellors": "Poon Wai-yin \u00b7 Sham Mai-har \u00b7 Anthony T.C. Chan \u00b7 Irwin King Kuo-chin \u00b7 Kenneth Chen Wei-on",
+      "Academic staff": "1,729 (2023)",
+      "Students": "21,110 (2023)",
+      "Undergraduates": "17,780 (2023)",
+      "Postgraduates": "4,241 (2023)",
+      "Location": "Shatin, New Territories, Hong Kong \u00b7 22\u00b025\u203211\u2033N 114\u00b012\u203224.45\u2033E\ufeff / \ufeff22.41972\u00b0N 114.2067917\u00b0E",
+      "Campus": "Rural \u00b7 137.3 hectares (1.373 km2)",
+      "Language": "Chinese, English",
+      "Colours": "Purple & gold",
+      "Affiliations": "ACU ACUCA ASAIHL BHUA GHMUA Heads of Universities Committee JQRC JUPAS MISA UGC",
+      "Mascot": "Chinese phoenix",
+      "Website": "cuhk.edu.hk"
+    }
+  }
+}

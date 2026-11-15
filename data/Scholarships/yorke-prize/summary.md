@@ -1,0 +1,2 @@
+The Yorke Prize is awarded annually by the Faculty of Law at the University of Cambridge for an essay of between 30,000 and 100,000 words on a legal subject, including the history, analysis, administration and reform of law, "of exceptional quality, which makes a substantial contribution to its relevant field of legal knowledge."
+The prize, awarded from the Yorke Fund, is open to any graduate of, or any person who is or has been registered as a graduate student of, the university.

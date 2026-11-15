@@ -1,0 +1,40 @@
+[project]
+name = "dynamically-benchmarking-long-context-summarization"
+version = "0.1.0"
+description = ""
+requires-python = ">=3.10"
+dependencies = [
+    "aiofiles>=25.1.0",
+    "beautifulsoup4>=4.13.5",
+    "bert-score>=0.3.13",
+    "black>=25.9.0",
+    "colorama>=0.4.6",
+    "docling==2.63.0",
+    "google-genai>=1.45.0",
+    "hf-xet>=1.1.9",
+    "ipython>=8.37.0",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
+    "langchain-core>=0.3.75",
+    "langchain-docling>=1.0.0",
+    "langchain-ollama>=0.3.7",
+    "langgraph>=0.6.7",
+    "latexminted>=0.6.0",
+    "matplotlib>=3.10.6",
+    "mwparserfromhell>=0.7.2",
+    "mwparserfromhtml>=2.0.0",
+    "natsort>=8.4.0",
+    "nltk>=3.9.1",
+    "openai>=2.5.0",
+    "pandas-stubs==2.3.2.250827",
+    "pip>=25.3",
+    "pyarrow>=22.0.0",
+    "rouge-score>=0.1.2",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "spacy>=3.8.7",
+    "thefuzz>=0.22.1",
+    "tiktoken>=0.11.0",
+    "transformers>=4.56.1",
+    "wikipedia-api>=0.8.1",
+]

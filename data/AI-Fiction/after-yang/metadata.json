@@ -1,0 +1,35 @@
+{
+  "id": 60512158,
+  "title": "After Yang",
+  "url": "https://en.wikipedia.org/wiki/After_Yang",
+  "path": "AI-Fiction\\after-yang",
+  "summary": {
+    "chars": 841,
+    "tokens": 203
+  },
+  "document": {
+    "chars": 7853,
+    "tokens": 1731
+  },
+  "infobox": {
+    "title": "After Yang",
+    "data": {
+      "Directed by": "Kogonada",
+      "Written by": "Kogonada",
+      "Based on": "\"Saying Goodbye to Yang\" \u00b7 by Alexander Weinstein",
+      "Produced by": "- Theresa Park - Andrew Goldman - Caroline Kaplan - Paul Mezey",
+      "Starring": "- Colin Farrell - Jodie Turner-Smith - Justin H. Min - Malea Emma Tjandrawidjaja - Haley Lu Richardson",
+      "Cinematography": "Benjamin Loeb",
+      "Edited by": "Kogonada",
+      "Music by": "- Aska Matsumiya - Ryuichi Sakamoto",
+      "Production \u00b7 companies": "- A24 - Cinereach - Per Capita Productions",
+      "Distributed by": "- A24 - Showtime",
+      "Release dates": "- July 8, 2021 (Cannes) - March 4, 2022 (United States)",
+      "Running time": "96 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$9\u201320 million",
+      "Box office": "$729,254"
+    }
+  }
+}

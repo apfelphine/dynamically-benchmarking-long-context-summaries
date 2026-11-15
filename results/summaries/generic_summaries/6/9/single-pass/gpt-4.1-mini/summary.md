@@ -1,0 +1,53 @@
+# Jacek Karpiński
+Jacek Karpiński (1927–2010) was a pioneering Polish engineer and computer scientist who developed early computing devices such as the transistor-based differential equations analyzer (AKAT-1) and innovative minicomputers like the KAR-65 and K-202. Despite technical successes and international recognition—including a UNESCO scholarship in the USA—his projects faced political opposition and censorship in communist Poland, hindering mass production and commercial impact. His later life included work in Switzerland and attempts at entrepreneurship, but also controversies regarding cooperation with intelligence agencies.
+
+# Kenneth E. Iverson
+Ken Iverson (1920–2004) was a Canadian computer scientist known for developing the programming language APL and its successor J. After earning a Ph.D. from Harvard, he pioneered notation systems for data processing and contributed to formal descriptions of computing systems such as IBM's System/360. He worked at IBM, I.P. Sharp Associates, and later founded Jsoftware, extensively advancing symmetric and array programming languages. Iverson received numerous awards including the Turing Award (1979).
+
+# Federico Faggin
+Federico Faggin, an Italian physicist and engineer, is renowned for inventing the MOS silicon-gate technology and leading the development of the Intel 4004, the world’s first single-chip microprocessor. He worked at Olivetti, Fairchild, Intel, and co-founded Zilog, where he designed the influential Z80 microprocessor. Faggin's innovations laid the foundation for modern microelectronics and personal computing. Later ventures included Synaptics and research on consciousness. He has received numerous prestigious awards, including the National Medal of Technology and Innovation.
+
+# George Boole
+George Boole (1815–1864) was an English mathematician and logician who founded Boolean algebra, a fundamental system underpinning digital circuit design and computer science. Largely self-taught, Boole combined logic and algebra to formalize logical operations, influencing the development of mathematical logic. His work inspired figures like Claude Shannon and paved the way for the information age. Boole was a professor at Queen’s College, Cork, married Mary Everest, and his legacy includes the profound integration of algebra and logic.
+
+# Grace Hopper
+Grace Hopper (1906–1992) was a pioneering American computer scientist and U.S. Navy rear admiral known for developing early compilers and contributing to the creation of COBOL, a widely used business programming language. She worked on the Harvard Mark I computer during WWII, advocated for programming language standardization, and promoted the democratization of programming via English-like code. Hopper served over 40 years in the Navy, retired as one of its oldest active officers, and post-retirement acted as a consultant. She popularized terms like "debugging" and received numerous awards, including a posthumous Presidential Medal of Freedom.
+
+# Ramon Llull
+Ramon Llull (c.1232–1316) was a Majorcan philosopher, logician, and missionary who developed a combinatorial system of universal logic called "the Art" to prove theological concepts and aid religious conversion. His works blend logic, philosophy, and dialogue, using diagrammatic trees and algebraic methods. Llull promoted linguistic study for missionary work and remained dedicated to education and interfaith discourse. Though not embraced by contemporary academia, his system influenced later thinkers and is considered an ancestor of computation theory. He was beatified in 1847.
+
+# Gottlob Frege
+Gottlob Frege (1848–1925) was a German mathematician and logician who created modern predicate logic and attempted to ground arithmetic in logic (logicism). His Begriffsschrift introduced quantified variables and formalized functions, overcoming prior logical limitations. Despite his foundational work, Russell’s paradox exposed flaws in his system. Frege also contributed to philosophy of language, notably distinguishing between sense and reference. Late in life, he expressed extremist, antisemitic views. His work profoundly influenced analytic philosophy, logic, and mathematics.
+
+# George Antheil
+George Antheil (1900–1959) was an American avant-garde composer and inventor, noted for his mechanistic and rhythmic musical style exemplified in works like *Ballet Mécanique*. He pursued musical innovation in Europe, faced mixed receptions, and later worked in Hollywood scoring films. During WWII, with actress Hedy Lamarr, he co-invented a frequency-hopping spread spectrum system for secure radio communication, foundational for modern wireless tech. Antheil was also a writer and critic, blending technology, art, and science.
+
+# Al-Khwarizmi
+Muḥammad ibn Mūsā al-Khwārizmī (c.780–850) was a Persian polymath whose works in mathematics, astronomy, and geography laid foundations for algebra and arithmetic. His treatise *Al-Jabr* formalized solving linear and quadratic equations, introducing methods of balancing and reduction that defined algebra. He popularized Hindu–Arabic numerals, influencing European mathematics. Al-Khwarizmi contributed to trigonometry, produced corrected maps, astronomical tables, and wrote on mechanical devices. His name is the root of the term "algorithm."
+
+# Geoffrey Hinton
+Geoffrey Hinton (born 1947) is a British-Canadian cognitive psychologist and computer scientist, acclaimed as a pioneer of deep learning and neural networks. With foundational work on backpropagation and Boltzmann machines, he influenced modern AI and machine learning. Hinton held positions at multiple institutions and industry, received the Turing Award (2018), and the Nobel Prize in Physics (2024) for work enabling machine learning. Recently, he has expressed concerns over AI risks and resigned from Google to speak freely on these issues.
+
+# Per Brinch Hansen
+Per Brinch Hansen (1938–2007) was a Danish computer scientist known for seminal contributions to operating systems, concurrent programming, and parallel computing. He developed the RC 4000 multiprogramming system, introduced the monitor concept for concurrency, and created Concurrent Pascal, the first concurrent programming language. His textbooks on operating systems and concurrent programming have been influential worldwide. He advanced remote procedure calls and parallel computing languages and received the IEEE Computer Pioneer Award.
+
+# Ismail al-Jazari
+Ismail al-Jazari (1136–1206) was a medieval Islamic inventor and engineer noted for his book *The Book of Knowledge of Ingenious Mechanical Devices*. He invented and described early mechanical innovations such as the crankshaft, segmental gears, and escapement mechanisms. Al-Jazari created complex automata, water-raising machines including chain pumps and suction pumps, and sophisticated water clocks. His mechanical designs influenced later engineering and robotics, blending artistry with practical applications in water management and automata.
+
+# Herbert A. Simon
+Herbert A. Simon (1916–2001) was an American economist, political scientist, psychologist, and computer scientist awarded the Nobel Prize in Economics (1978) for research on decision-making within organizations. He developed theories of bounded rationality and satisficing, pioneering cognitive science and artificial intelligence alongside Allen Newell. His work on administrative behavior, organizational decision processes, and AI programs like Logic Theory Machine and General Problem Solver influenced multiple disciplines. Simon authored numerous seminal books and papers.
+
+# Kurt Gödel
+Kurt Gödel (1906–1978) was an Austrian-American logician and mathematician celebrated for his incompleteness theorems, proving limits of formal axiomatic systems. He developed the completeness theorem for first-order logic and introduced advanced concepts in set theory, such as the constructible universe. Gödel contributed to philosophy and theoretical physics, including solutions in general relativity permitting closed timelike curves. He had a close friendship with Einstein, obtained U.S. citizenship, and his work deeply influenced logic, mathematics, and philosophy.
+
+# Edsger W. Dijkstra
+Edsger W. Dijkstra (1930–2002) was a Dutch computer scientist renowned for foundational work in algorithms, structured programming, and operating systems. He developed Dijkstra's algorithm for shortest paths, the semaphore concept for concurrency, and advocated for disciplined programming styles (including the famous "Go To Statement Considered Harmful" letter). He contributed to the design of the THE operating system and promoted clarity and simplicity in programming. Dijkstra published over 1,300 works (EWD reports) and received the Turing Award.
+
+# Lynn Conway
+Lynn Conway (1938–2024) was an American computer scientist and transgender activist known for pioneering developments in computer architecture and VLSI chip design. At IBM, she contributed to the Advanced Computing Systems project; at Xerox PARC, she co-developed scalable VLSI design methodologies that revolutionized chip design and manufacturing, fundamentally impacting the microelectronics industry. Conway was a leading activist for transgender rights, publicly transitioning in the 1990s after early career setbacks, and received multiple awards including the IEEE Computer Pioneer Award.
+
+# Claude Shannon
+Claude Shannon (1916–2001) was an American mathematician and electrical engineer who founded information theory, fundamentally shaping the digital age. His master’s thesis demonstrated that Boolean algebra could optimize switching circuits, laying groundwork for digital circuit design. In 1948, he published *A Mathematical Theory of Communication*, introducing concepts of information entropy and data encoding. Shannon also contributed to cryptography, digital circuit design, and artificial intelligence, inventing devices like a mechanical maze-solving mouse and co-developing the first wearable computer.
+
+# Donald Knuth
+Donald Knuth (born 1938) is an American computer scientist, mathematician, and professor emeritus at Stanford University. He is best known for *The Art of Computer Programming*, a comprehensive multi-volume work on algorithms, and for creating the TeX typesetting system. Knuth pioneered literate programming and made substantial contributions to algorithm analysis, digital typography, and computer science education. He has received numerous honors including the Turing Award, National Medal of Science, and Kyoto Prize. Knuth is also noted for his wit and devotion to mathematical rigor.

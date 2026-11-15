@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding the "Edmund S. Muskie Internship Program." The text details biographical and political information about Edmund Sixtus Muskie, as well as information on various other scholarships and programs.

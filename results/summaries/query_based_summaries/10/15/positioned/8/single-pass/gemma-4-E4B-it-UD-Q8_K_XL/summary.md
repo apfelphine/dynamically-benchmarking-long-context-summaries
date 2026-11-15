@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding "Education in Norway."

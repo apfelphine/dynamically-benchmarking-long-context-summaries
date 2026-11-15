@@ -1,0 +1,21 @@
+{
+  "id": 43395,
+  "title": "Alfred North Whitehead",
+  "url": "https://en.wikipedia.org/wiki/Alfred_North_Whitehead",
+  "path": "Comp-Sci-Pioneers\\alfred-north-whitehead",
+  "summary": {
+    "chars": 1857,
+    "tokens": 360
+  },
+  "document": {
+    "chars": 63896,
+    "tokens": 12987
+  },
+  "infobox": {
+    "title": "Alfred North WhiteheadOM FRS FBA",
+    "data": {
+      "Born": "15 February 1861 \u00b7 Ramsgate, Kent, England",
+      "Died": "30 December 1947 (aged 86) \u00b7 Cambridge, Massachusetts, U.S."
+    }
+  }
+}

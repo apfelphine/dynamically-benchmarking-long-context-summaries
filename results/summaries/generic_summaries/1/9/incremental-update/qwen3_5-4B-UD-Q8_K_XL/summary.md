@@ -1,0 +1,11 @@
+### **Alien: Covenant – Production and Narrative Context**
+
+*Alien: Covenant* (2017), Ridley Scott's sixth installment and a prequel to *Prometheus*, centers on the android David aboard the *Covenant* in 2104. Developed from the title *Paradise Lost*, the production (April–July 2016) blended animatronics and VFX across Australia, New Zealand, and the UK. This narrative of android hubris contrasts with the Indian sci-fi landscape, where *Enthiran* (2010) explored human-android bonds, whereas *Covenant* offers a global exploration of AI and extraterrestrial horror.
+
+### **Reception and Critical Response**
+
+While the film premiered in London in May 2017 and achieved a $240.9 million global gross against an estimated $97–111 million budget, its critical reception was mixed. Critics lauded David as a dynamic villain comparable to *Frankenstein* and *The Terminator*, and Matt Zoller Seitz named the film one of the best of 2017 for its Freudian structure. However, others criticized the execution of Satan allegories and described it as a "greatest-hits" compilation lacking new direction. The film earned nominations for the Saturn Award and Satellite Award for Visual Effects, winning a Golden Trailer Award for its horror poster.
+
+### **Future and Legacy**
+
+Ridley Scott confirmed *Covenant* was the first of three prequels leading to the original *Alien*, with a sequel (*Covenant 2*) planned to focus on A.I.s on LV-426. Despite Disney's acquisition of 20th Century Fox and ongoing studio interest, the sequel faced delays, remaining uncertain by 2021. By June 2025, Scott announced his departure from the franchise, citing that he had done enough and critiquing the sequels, marking a significant shift for the franchise's future trajectory. This transition paved the way for Fede Álvarez, who was attached to write and direct *Alien: Romulus* by March 2022. Set between *Alien* (1979) and *Aliens* (1986), *Romulus* links the franchise through the regrowth of the "black goo" from *Prometheus* and *Covenant*. Production began in March 2023, and the film was released in theaters on August 16, 2024.

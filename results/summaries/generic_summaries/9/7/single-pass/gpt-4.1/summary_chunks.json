@@ -1,0 +1,310 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Saudi Arabia\n### Historical and Structural Context:\nEducation in Saudi Arabia has deep Islamic roots, with a significant emphasis on religious education. The system was formalized in the 20th century, expanding to include schools for girls and the establishment of universities. Education is supervised by the Ministry of Education and various other authorities, with oversight from the Supreme Committee for Educational Policy. Public education is free, with substantial government spending and ten-year strategic development plans targeting early childhood education, inclusivity, teacher quality, ICT infrastructure, and lifelong learning.",
+        "text_original": "Education in Saudi Arabia has deep Islamic roots, with a significant emphasis on religious education. The system was formalized in the 20th century, expanding to include schools for girls and the establishment of universities. Education is supervised by the Ministry of Education and various other authorities, with oversight from the Supreme Committee for Educational Policy. Public education is free, with substantial government spending and ten-year strategic development plans targeting early childhood education, inclusivity, teacher quality, ICT infrastructure, and lifelong learning",
+        "idx_start": 103,
+        "idx_end": 692
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Saudi Arabia\n### School and University Levels:\nPre-primary education is available but not compulsory. Primary education is mandatory and lasts six years, followed by three years each of intermediate and secondary education. Secondary education offers general and technical programs. Higher education has grown rapidly, with government and private universities, significant female participation (women comprise over half of tertiary students), and scholarship programs for study abroad.",
+        "text_original": "Pre-primary education is available but not compulsory. Primary education is mandatory and lasts six years, followed by three years each of intermediate and secondary education. Secondary education offers general and technical programs. Higher education has grown rapidly, with government and private universities, significant female participation (women comprise over half of tertiary students), and scholarship programs for study abroad",
+        "idx_start": 731,
+        "idx_end": 1168
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Saudi Arabia\n### Women and Special Needs Education:\nWomen\u2019s education has expanded considerably, with women now forming 60% of university students, though labor force participation remains low. Special education services exist, with ongoing challenges around teacher training and school inclusivity. Gifted education is growing through enrichment programs, although curricular differentiation remains limited.",
+        "text_original": "Women\u2019s education has expanded considerably, with women now forming 60% of university students, though labor force participation remains low. Special education services exist, with ongoing challenges around teacher training and school inclusivity. Gifted education is growing through enrichment programs, although curricular differentiation remains limited",
+        "idx_start": 1212,
+        "idx_end": 1568
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Saudi Arabia\n### Private and International Education:\nPrivate schools serve all levels and receive government support. International schools mainly cater to expatriate communities; many follow foreign curricula.",
+        "text_original": "Private schools serve all levels and receive government support. International schools mainly cater to expatriate communities; many follow foreign curricula",
+        "idx_start": 1614,
+        "idx_end": 1770
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Saudi Arabia\n### Challenges and Reforms:\nCriticisms include over-reliance on religious content, rote learning, and insufficient focus on critical thinking and technical skills. Efforts are underway to modernize curricula, remove intolerance, and improve English instruction through initiatives like the King Abdullah Project and the Tatweer reform program.",
+        "text_original": "Criticisms include over-reliance on religious content, rote learning, and insufficient focus on critical thinking and technical skills. Efforts are underway to modernize curricula, remove intolerance, and improve English instruction through initiatives like the King Abdullah Project and the Tatweer reform program",
+        "idx_start": 1803,
+        "idx_end": 2117
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Bangladesh\n### System and Structure:\nEducation in Bangladesh consists of pre-primary, primary, secondary, and tertiary stages, with both Bengali and English as mediums of instruction. The curriculum is centrally developed, with little subject choice before class 9. Examinations play a significant role in assessment.",
+        "text_original": "Education in Bangladesh consists of pre-primary, primary, secondary, and tertiary stages, with both Bengali and English as mediums of instruction. The curriculum is centrally developed, with little subject choice before class 9. Examinations play a significant role in assessment",
+        "idx_start": 2168,
+        "idx_end": 2447
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Bangladesh\n### Institution Types:\nThe country offers diverse schooling options including government, private, cadet (military-administered), international, and madrasa (religious) schools. There are multiple boards overseeing different types of education, including technical/vocational and religious tracks.",
+        "text_original": "The country offers diverse schooling options including government, private, cadet (military-administered), international, and madrasa (religious) schools. There are multiple boards overseeing different types of education, including technical/vocational and religious tracks",
+        "idx_start": 2475,
+        "idx_end": 2748
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Bangladesh\n### Management and Social Factors:\nOversight involves several ministries and boards, with significant efforts aimed at inclusion (girls\u2019 education, stipends, free textbooks) and literacy improvement. The government has promoted compulsory education and distributed millions of textbooks. School attendance and achievement gaps are challenges, especially in rural areas.",
+        "text_original": "Oversight involves several ministries and boards, with significant efforts aimed at inclusion (girls\u2019 education, stipends, free textbooks) and literacy improvement. The government has promoted compulsory education and distributed millions of textbooks. School attendance and achievement gaps are challenges, especially in rural areas",
+        "idx_start": 2788,
+        "idx_end": 3121
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Bangladesh\n### Tertiary and Vocational Education:\nBangladesh has a mix of public and private universities, and technical/vocational education, which is increasingly promoted. University admissions are competitive, and the system struggles with gaps in quality, resources, and relevance to industry needs.",
+        "text_original": "Bangladesh has a mix of public and private universities, and technical/vocational education, which is increasingly promoted. University admissions are competitive, and the system struggles with gaps in quality, resources, and relevance to industry needs",
+        "idx_start": 3165,
+        "idx_end": 3418
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Bangladesh\n### Current Issues:\nMajor challenges include low education expenditure (around 2% of GDP), poverty, gender disparity (improving but still evident), and educator absenteeism. Literacy rates have improved but remain behind regional peers.",
+        "text_original": "Major challenges include low education expenditure (around 2% of GDP), poverty, gender disparity (improving but still evident), and educator absenteeism. Literacy rates have improved but remain behind regional peers",
+        "idx_start": 3443,
+        "idx_end": 3658
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## New Zealand\n### System and Structure:\nNew Zealand provides free, secular, and compulsory education from age 6 to 16, with most students starting at age 5. Schooling includes 13 year levels, with a national curriculum for English and M\u0101ori-medium schools. The country recognizes diverse school types: state, state-integrated (mainly faith-based), and private.",
+        "text_original": "New Zealand provides free, secular, and compulsory education from age 6 to 16, with most students starting at age 5. Schooling includes 13 year levels, with a national curriculum for English and M\u0101ori-medium schools. The country recognizes diverse school types: state, state-integrated (mainly faith-based), and private",
+        "idx_start": 3710,
+        "idx_end": 4029
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## New Zealand\n### Curriculum:\nThe curriculum covers broad learning areas, with increasing subject choice and national qualifications (NCEA) at senior levels. Alternative qualifications (Cambridge, IB) are also available. M\u0101ori language education is actively supported across school types.",
+        "text_original": "The curriculum covers broad learning areas, with increasing subject choice and national qualifications (NCEA) at senior levels. Alternative qualifications (Cambridge, IB) are also available. M\u0101ori language education is actively supported across school types",
+        "idx_start": 4050,
+        "idx_end": 4307
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## New Zealand\n### Tertiary Education:\nTertiary education includes universities, vocational training, and informal learning, all regulated under the New Zealand Qualifications Framework. Student funding is provided through loans and allowances. University entrance is competitive.",
+        "text_original": "Tertiary education includes universities, vocational training, and informal learning, all regulated under the New Zealand Qualifications Framework. Student funding is provided through loans and allowances. University entrance is competitive",
+        "idx_start": 4336,
+        "idx_end": 4576
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## New Zealand\n### Funding and Challenges:\nSchools are funded by the government, with additional parent contributions. New Zealand faces ongoing challenges in raising academic achievement, particularly in mathematics and among M\u0101ori and Pacific Island students, as well as tackling issues like bullying.",
+        "text_original": "Schools are funded by the government, with additional parent contributions. New Zealand faces ongoing challenges in raising academic achievement, particularly in mathematics and among M\u0101ori and Pacific Island students, as well as tackling issues like bullying",
+        "idx_start": 4609,
+        "idx_end": 4868
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Canada\n### Structure and Management:\nEducation is a provincial responsibility, resulting in diverse approaches. Most students attend co-educational public schools, with universally available English/French schooling. Education is compulsory from ages 5\u20137 (varying by province) until 16\u201318.",
+        "text_original": "Education is a provincial responsibility, resulting in diverse approaches. Most students attend co-educational public schools, with universally available English/French schooling. Education is compulsory from ages 5\u20137 (varying by province) until",
+        "idx_start": 4919,
+        "idx_end": 5164
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Canada\n### Levels and Institutions:\nThe system includes early childhood, elementary, intermediate, secondary, and tertiary (universities and vocational colleges). Vocational education and apprenticeships are available alongside traditional university paths.",
+        "text_original": "The system includes early childhood, elementary, intermediate, secondary, and tertiary (universities and vocational colleges). Vocational education and apprenticeships are available alongside traditional university paths",
+        "idx_start": 5204,
+        "idx_end": 5424
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Canada\n### Funding and Quality:\nCanada invests heavily in education (around 5.2% of GDP), with high rates of tertiary qualification. Private schools exist but serve a small segment. Academic achievement is high, with rigorous standards in provinces like Alberta.",
+        "text_original": "Canada invests heavily in education (around 5.2% of GDP), with high rates of tertiary qualification. Private schools exist but serve a small segment. Academic achievement is high, with rigorous standards in provinces like Alberta",
+        "idx_start": 5454,
+        "idx_end": 5683
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Canada\n### Social Factors:\nIssues of equity persist, with targeted data collection for marginalized populations, debate over religious and language rights in schooling, and discussions about academic rigor and grade inflation. French and Indigenous education are integrated throughout.",
+        "text_original": "Issues of equity persist, with targeted data collection for marginalized populations, debate over religious and language rights in schooling, and discussions about academic rigor and grade inflation. French and Indigenous education are integrated throughout",
+        "idx_start": 5708,
+        "idx_end": 5965
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Mexico\n### System and History:\nMexico's education system is divided into primary (grades 1\u20136), junior high (secundaria, grades 7\u20139), and high school (preparatoria, grades 10\u201312), with higher education following a U.S./Bologna style (bachelor, master, doctorate). Education has deep historical roots, with significant reform since independence, emphasizing secular, compulsory schooling.",
+        "text_original": "Mexico's education system is divided into primary (grades 1\u20136), junior high (secundaria, grades 7\u20139), and high school (preparatoria, grades 10\u201312), with higher education following a U.S./Bologna style (bachelor, master, doctorate). Education has deep historical roots, with significant reform since independence, emphasizing secular, compulsory schooling",
+        "idx_start": 6010,
+        "idx_end": 6364
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Mexico\n### Quality and Inclusion:\nChallenges include low retention after primary school, lack of rural infrastructure, and historic influence from the teachers\u2019 union. Intercultural universities and integration of indigenous populations are recent priorities. Education for students with special needs is supported, though integration efforts face obstacles.",
+        "text_original": "Challenges include low retention after primary school, lack of rural infrastructure, and historic influence from the teachers\u2019 union. Intercultural universities and integration of indigenous populations are recent priorities. Education for students with special needs is supported, though integration efforts face obstacles",
+        "idx_start": 6396,
+        "idx_end": 6719
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Mexico\n### Higher Education and International Schools:\nPublic and private universities coexist, with international benchmarking and programs attracting global attention. International schools serve expatriate communities, and there is increasing focus on English-medium instruction.",
+        "text_original": "Public and private universities coexist, with international benchmarking and programs attracting global attention. International schools serve expatriate communities, and there is increasing focus on English-medium instruction",
+        "idx_start": 6772,
+        "idx_end": 6998
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Czech Republic\n### System Structure:\nCompulsory education comprises nine years of elementary schooling (split into two stages), followed by various secondary education options: vocational schools, professional schools/lyceums, and grammar schools, culminating in the maturita exam for university entrance.",
+        "text_original": "Compulsory education comprises nine years of elementary schooling (split into two stages), followed by various secondary education options: vocational schools, professional schools/lyceums, and grammar schools, culminating in the maturita exam for university entrance",
+        "idx_start": 7049,
+        "idx_end": 7316
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Czech Republic\n### Tertiary Education:\nTertiary options include higher professional schools and universities offering bachelor\u2019s, master\u2019s, and doctoral degrees, mostly state-funded for Czech-language studies. Private institutions exist but are less prominent.",
+        "text_original": "Tertiary options include higher professional schools and universities offering bachelor\u2019s, master\u2019s, and doctoral degrees, mostly state-funded for Czech-language studies. Private institutions exist but are less prominent",
+        "idx_start": 7345,
+        "idx_end": 7565
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Czech Republic\n### Special Needs:\nSpecial and practical schools and integrated education options are available for disabled and underperforming students.",
+        "text_original": "Special and practical schools and integrated education options are available for disabled and underperforming students",
+        "idx_start": 7589,
+        "idx_end": 7707
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Japan\n### Historical Context and Structure:\nFrom Buddhist and Confucian origins, Japan has developed a highly structured, exam-driven system. Education is compulsory for 9 years (elementary and lower secondary), with upper secondary and university entrance highly competitive.",
+        "text_original": "From Buddhist and Confucian origins, Japan has developed a highly structured, exam-driven system. Education is compulsory for 9 years (elementary and lower secondary), with upper secondary and university entrance highly competitive",
+        "idx_start": 7765,
+        "idx_end": 7996
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Japan\n### Curriculum and Assessment:\nEmphasis is placed on standardized content, memorization, and regular grading. Special needs and inclusive education have advanced in recent decades. Extracurricular and shadow education (cram schools) are widespread due to intense university entrance competition.",
+        "text_original": "Emphasis is placed on standardized content, memorization, and regular grading. Special needs and inclusive education have advanced in recent decades. Extracurricular and shadow education (cram schools) are widespread due to intense university entrance competition",
+        "idx_start": 8032,
+        "idx_end": 8295
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Japan\n### Criticism:\nThe system faces criticism for pressure and stress, insufficient creativity and critical thinking, bullying, and limited international perspectives, though recent reforms aim to address some issues.",
+        "text_original": "The system faces criticism for pressure and stress, insufficient creativity and critical thinking, bullying, and limited international perspectives, though recent reforms aim to address some issues",
+        "idx_start": 8315,
+        "idx_end": 8512
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Poland\n### System Structure:\nCompulsory education begins with eight years of primary (recently reformed from six years plus separate middle school), followed by general, technical, or vocational upper secondary school ending with the matura. Tertiary education follows the Bologna scheme (bachelor/master/doctorate).",
+        "text_original": "Compulsory education begins with eight years of primary (recently reformed from six years plus separate middle school), followed by general, technical, or vocational upper secondary school ending with the matura. Tertiary education follows the Bologna scheme (bachelor/master/doctorate",
+        "idx_start": 8555,
+        "idx_end": 8840
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Poland\n### Historical Influence and Language:\nPoland pioneered early state education and universal literacy, with continued reform and strong emphasis on foreign languages. Issues include social disparity and periodically revised curricula.",
+        "text_original": "Poland pioneered early state education and universal literacy, with continued reform and strong emphasis on foreign languages. Issues include social disparity and periodically revised curricula",
+        "idx_start": 8885,
+        "idx_end": 9078
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Netherlands\n### System Structure:\nCompulsory education begins at age five (typically starts at four), proceeding through eight years of elementary school and then branching into three secondary education paths: VMBO (vocational), HAVO (general), or VWO (pre-university). Each path leads to further vocational, applied, or research university study.",
+        "text_original": "Compulsory education begins at age five (typically starts at four), proceeding through eight years of elementary school and then branching into three secondary education paths: VMBO (vocational), HAVO (general), or VWO (pre-university). Each path leads to further vocational, applied, or research university study",
+        "idx_start": 9126,
+        "idx_end": 9439
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Netherlands\n### School Types:\nSchools can be public, denominational, or general-neutral, all government-funded and subject to national inspection. Assessment and progression are determined by teacher evaluation and standardized tests.",
+        "text_original": "Schools can be public, denominational, or general-neutral, all government-funded and subject to national inspection. Assessment and progression are determined by teacher evaluation and standardized tests",
+        "idx_start": 9462,
+        "idx_end": 9665
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Netherlands\n### Higher Education:\nHigher education is binary, with \"hogescholen\" (universities of applied sciences) and \"universiteiten\" (research universities), both following Bologna degrees (bachelor, master, PhD).",
+        "text_original": "Higher education is binary, with \"hogescholen\" (universities of applied sciences) and \"universiteiten\" (research universities), both following Bologna degrees (bachelor, master, PhD",
+        "idx_start": 9692,
+        "idx_end": 9873
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Netherlands\n### Criticism:\nEarly selection into tracks can restrict opportunities for gifted students and those from lower-income families; academic performance in international rankings has been declining.",
+        "text_original": "Early selection into tracks can restrict opportunities for gifted students and those from lower-income families; academic performance in international rankings has been declining",
+        "idx_start": 9894,
+        "idx_end": 10072
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Pakistan\n### System Structure:\nEducation follows stages: pre-primary, primary, middle, secondary (matriculation), higher secondary (intermediate), and tertiary (university). Education is heavily exam-oriented, with alternative tracks in technical/vocational and religious (madrassa) schools.",
+        "text_original": "Education follows stages: pre-primary, primary, middle, secondary (matriculation), higher secondary (intermediate), and tertiary (university). Education is heavily exam-oriented, with alternative tracks in technical/vocational and religious (madrassa) schools",
+        "idx_start": 10117,
+        "idx_end": 10376
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Pakistan\n### Quality and Access:\nDespite policy efforts, literacy and completion rates remain low. Barriers include underfunding (approx. 2% of GDP), gender disparity, outdated curriculum, and poor infrastructure. Female enrollment has increased, but disparities persist, and cultural challenges hinder progress.",
+        "text_original": "Despite policy efforts, literacy and completion rates remain low. Barriers include underfunding (approx. 2% of GDP), gender disparity, outdated curriculum, and poor infrastructure. Female enrollment has increased, but disparities persist, and cultural challenges hinder progress",
+        "idx_start": 10405,
+        "idx_end": 10683
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Pakistan\n### Tertiary and Distance Education:\nUniversities offer bachelor's and higher degrees; distance learning and digital education are expanding, especially in remote areas. International schools are present, and many students study abroad.",
+        "text_original": "Universities offer bachelor's and higher degrees; distance learning and digital education are expanding, especially in remote areas. International schools are present, and many students study abroad",
+        "idx_start": 10725,
+        "idx_end": 10923
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Pakistan\n### Religion and Education:\nState and religious education intersect, with madrasas catering to underprivileged populations. Curricula face criticism for promoting intolerance and outdated views.",
+        "text_original": "State and religious education intersect, with madrasas catering to underprivileged populations. Curricula face criticism for promoting intolerance and outdated views",
+        "idx_start": 10956,
+        "idx_end": 11121
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## South Korea\n### System and Reforms:\nSouth Korea\u2019s education system is highly competitive, starting with elementary school and continuing through middle/high school tracks (general or vocational), with university entrance heavily reliant on standardized exams (CSAT). Vocational tracks are being modernized through Meister schools.",
+        "text_original": "South Korea\u2019s education system is highly competitive, starting with elementary school and continuing through middle/high school tracks (general or vocational), with university entrance heavily reliant on standardized exams (CSAT). Vocational tracks are being modernized through Meister schools",
+        "idx_start": 11171,
+        "idx_end": 11464
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## South Korea\n### Societal Context:\nEducation is historically influenced by Confucian values, resulting in high educational attainment and intense societal pressure. Education expenditure is high, but issues include social inequality, job-education mismatch, and excessive reliance on private tutoring.",
+        "text_original": "Education is historically influenced by Confucian values, resulting in high educational attainment and intense societal pressure. Education expenditure is high, but issues include social inequality, job-education mismatch, and excessive reliance on private tutoring",
+        "idx_start": 11491,
+        "idx_end": 11756
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## South Korea\n### English and International Education:\nStrong emphasis on English proficiency drives high expenditures on private lessons and overseas study. International schools and curriculum variations exist.",
+        "text_original": "Strong emphasis on English proficiency drives high expenditures on private lessons and overseas study. International schools and curriculum variations exist",
+        "idx_start": 11802,
+        "idx_end": 11958
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## South Korea\n### Criticism:\nSystemic problems include extreme examination pressure, student health concerns, neglect of non-academic skills, bullying, and the undervaluing of vocational education despite recent reforms.",
+        "text_original": "Systemic problems include extreme examination pressure, student health concerns, neglect of non-academic skills, bullying, and the undervaluing of vocational education despite recent reforms",
+        "idx_start": 11978,
+        "idx_end": 12168
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Russia\n### Structure and Levels:\nRussian education consists of pre-school, primary, basic, and secondary general education, with an option for vocational/technical training after basic education. Tertiary education offers bachelor\u2019s, specialist, master\u2019s, and postgraduate degrees. Reforms are aligning with the Bologna process.",
+        "text_original": "Russian education consists of pre-school, primary, basic, and secondary general education, with an option for vocational/technical training after basic education. Tertiary education offers bachelor\u2019s, specialist, master\u2019s, and postgraduate degrees. Reforms are aligning with the Bologna process",
+        "idx_start": 12215,
+        "idx_end": 12509
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Russia\n### Special and Inclusive Education:\nSpecialized provisions exist for physical and mental disabilities, though integration and resources remain variable.",
+        "text_original": "Specialized provisions exist for physical and mental disabilities, though integration and resources remain variable",
+        "idx_start": 12551,
+        "idx_end": 12666
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Overview of Education Systems\n## Russia\n### Quality, Outreach, and Policy:\nRussia boasts high literacy and tertiary attainment; however, issues such as diploma mills, outdated universities, and government censorship/propaganda in curricula are challenges. Education in minority languages is supported, but integration for foreigners is increasingly restrictive.\n*This summary synthesizes core structures, reforms, strengths, challenges, and social issues from the education systems of a range of nations, providing a comparative global perspective.*",
+        "text_original": "Russia boasts high literacy and tertiary attainment; however, issues such as diploma mills, outdated universities, and government censorship/propaganda in curricula are challenges. Education in minority languages is supported, but integration for foreigners is increasingly restrictive.\n\n---\n\n*This summary synthesizes core structures, reforms, strengths, challenges, and social issues from the education systems of a range of nations, providing a comparative global perspective",
+        "idx_start": 12706,
+        "idx_end": 13184
+    }
+]

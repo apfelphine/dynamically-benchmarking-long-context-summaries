@@ -1,0 +1,34 @@
+{
+  "id": 54250500,
+  "title": "Upgrade (film)",
+  "url": "https://en.wikipedia.org/wiki/Upgrade_(film)",
+  "path": "AI-Fiction\\upgrade-film",
+  "summary": {
+    "chars": 781,
+    "tokens": 175
+  },
+  "document": {
+    "chars": 11162,
+    "tokens": 2438
+  },
+  "infobox": {
+    "title": "Upgrade",
+    "data": {
+      "Directed by": "Leigh Whannell",
+      "Written by": "Leigh Whannell",
+      "Produced by": "- Jason Blum - Kylie Du Fresne - Brian Kavanaugh-Jones",
+      "Starring": "- Logan Marshall-Green - Betty Gabriel - Harrison Gilbertson",
+      "Cinematography": "Stefan Duscio",
+      "Edited by": "Andy Canny",
+      "Music by": "Jed Palmer",
+      "Production \u00b7 companies": "- Blumhouse Productions - Goalpost Pictures - Nervous Tick Productions - Film Victoria - Automatik",
+      "Distributed by": "- OTL Releasing - BH Tilt (International) - Madman Entertainment (Australia)",
+      "Release dates": "- 10 March 2018 (SXSW) - 1 June 2018 (United States) - 14 June 2018 (Australia)",
+      "Running time": "100 minutes",
+      "Countries": "- Australia - United States",
+      "Language": "English",
+      "Budget": "$3 million",
+      "Box office": "$17 million"
+    }
+  }
+}

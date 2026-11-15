@@ -1,0 +1,8 @@
+**Education in Norway**  
+Norway's education system is structured into three levels: elementary (barneskole, ages 6–12), lower secondary (ungdomsskole, ages 13–16), and upper secondary (videregående skole, ages 16–19). Compulsory education spans ages 6–16, with students transitioning between levels. Primary and lower secondary schools emphasize foundational skills, including reading, mathematics, science, and social studies, with no formal grades until lower secondary. Students are graded on a scale from 1 to 6, with 2–6 considered passing.  
+
+Upper secondary education offers both general and vocational tracks, with a focus on practical and theoretical studies. Students may choose electives, and the "2+2 model" allows vocational students to complete two years of training followed by a two-year apprenticeship. Graduates earn a diploma (russ), and students are assessed through a combination of teacher evaluations and standardized exams.  
+
+Higher education includes universities, university colleges, and private institutions, offering bachelor’s, master’s, and doctoral degrees. The system emphasizes inclusivity, with a strong focus on equal access and support for students with special needs. Public funding supports most institutions, and the grading system aligns with European standards. The system is known for its high-quality education, strong student outcomes, and equitable access.  
+
+Norway's education system is characterized by a balance between academic rigor and student well-being, with a strong emphasis on social equity, teacher development, and inclusive practices.

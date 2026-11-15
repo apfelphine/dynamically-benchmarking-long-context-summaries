@@ -1,0 +1,29 @@
+{
+  "id": 23534873,
+  "title": "Yann LeCun",
+  "url": "https://en.wikipedia.org/wiki/Yann_LeCun",
+  "path": "Comp-Sci-Pioneers\\yann-lecun",
+  "summary": {
+    "chars": 928,
+    "tokens": 221
+  },
+  "document": {
+    "chars": 5653,
+    "tokens": 1317
+  },
+  "infobox": {
+    "title": "Yann LeCun",
+    "data": {
+      "Born": "8 July 1960 \u00b7 Soisy-sous-Montmorency, France",
+      "Citizenship": "- United States - France",
+      "Education": "- ESIEE Paris (DipIng) - Pierre and Marie Curie University (PhD)",
+      "Known for": "Deep learning",
+      "Awards": "- Turing Award (2018) - AAAI Fellow (2019) - Legion of Honour (2023) - VinFuture Prize (2024) - Queen Elizabeth Prize for Engineering (2025)",
+      "Fields": "Computer science",
+      "Institutions": "- Bell Labs (1988\u20131996) - New York University - Meta",
+      "Thesis": "Modeles connexionnistes de l'apprentissage (connectionist learning models) (1987)",
+      "Doctoral advisor": "Maurice Milgram",
+      "Website": "yann.lecun.com"
+    }
+  }
+}

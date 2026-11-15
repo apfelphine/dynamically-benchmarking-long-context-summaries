@@ -1,0 +1,48 @@
+# ELVIS Act
+
+## Origin and advocacy
+The inception of the ELVIS Act has been attributed to Gebre Waddell, founder of Sound Credit, who initially conceptualized a framework in 2023 that later evolved into the legislation. Representative Justin J. Pearson acknowledged Waddell's pivotal role during the March 4 House Floor Session on the bill.  The act's development was a community-driven response, reflecting the collective initiative of the music industry to confront and address the challenges posed by rapid technological advancements.  Tennessee Governor Bill Lee endorsed it as a Governor's Bill, and it was introduced in the Tennessee Legislature as House Bill 2091 by William Lamberth (R-44) and Senate Bill 2096 by Jack Johnson (R-27).
+
+The ELVIS Act is an amendment to a 1984 law that was the result of the Elvis Presley estate litigation for controlling how his likeness could be used after death.
+
+
+## Lobbying from the recording industry
+The legislative journey of the ELVIS Act included a broad coalition of music industry stakeholders, including:
+
+- Recording Academy/GRAMMYs
+- Recording Industry Association of America (RIAA)
+- American Association of Independent Music (A2IM)
+- Artist Rights Alliance
+- Black Music Action Coalition
+- Music Artists Coalition
+- Nashville Songwriters Association International (NSAI)
+- Nashville Music Publishers’ Association (NMPA)
+- SAG-AFTRA
+- Songwriters of North America (SONA)[9]
+
+
+These organizations, led by the Recording Academy and the RIAA, played roles in drafting the legislation, advocating for passage, and rallying support among the industry and legislators.
+
+The act gained momentum through discussions that bridged industry concerns with legislative action. This collaborative process led to a proposal that specifically targets the use of AI to create unauthorized reproductions of artists' voices and images.
+
+
+## Opposition
+The ELVIS Act saw industry opposition from the Motion Picture Association, including testimony in the House Banking & Consumer Affairs Subcommittee, including remarks that the law risks "interference with our member’s ability to portray real people and events".  TechNet, representing companies such as OpenAI, Google and Amazon, expressed their opposition in the hearing to the bill as drafted, asserting that the language was too broadly written and could have unintended consequences.  Other concerns included its potential application to cover bands, but lawmakers assured people that this was not the intention.
+
+The bill passed the Tennessee House and Senate with a unanimous, bi-partisan vote including 93 ayes and 0 Noes in the House, and 30 ayes and 0 noes in the Senate.
+
+
+## Passage
+By explicitly addressing AI impersonation, the ELVIS Act originated a legal approach to safeguarding personal rights, in the context of digital and technological advancements. It extends protections to an artist's voice and likeness, areas vulnerable to exploitation with the proliferation of AI technologies that occurred in 2023.
+
+The legislation received widespread support from the music industry, signaling a significant step forward in the ongoing effort to balance innovation with the protection of individual rights and creative integrity. It was reported as underscoring Tennessee's commitment to its musical heritage and showed the state as a leader in adapting copyright and privacy protections to the modern technological landscape.
+
+Artists including Chris Janson and Luke Bryan appeared at the signing ceremony hosted at Robert's Western World to support the new law and commemorate its passing.
+
+
+## Legal precedent
+The ELVIS Act was reported as representing a development in the discourse surrounding AI, intellectual property, and personal rights.  It was hoped by proponents to set a precedent for future legislative efforts both within and beyond Tennessee, offering a model for how states and potentially the federal government could address similar challenges. As AI technology continues to evolve, the act represents a foundational framework for protecting the authenticity and rights of artists, ensuring contributions remain protected.
+
+The act prohibits usage of AI to clone the voice of an artist without consent and can be criminally enforced as a Class A misdemeanor.
+
+This legislation's success was hoped by its supporters to inspire similar actions in other states, contributing to a unified approach to copyright and privacy in the digital age. Such a national response would reinforce the importance of safeguarding artists' rights against unauthorized use of their voices and likenesses.

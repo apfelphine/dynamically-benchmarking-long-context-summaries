@@ -1,0 +1,25 @@
+{
+  "id": 36910868,
+  "title": "Roux Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Roux_Scholarship",
+  "path": "Scholarships\\roux-scholarship",
+  "summary": {
+    "chars": 376,
+    "tokens": 85
+  },
+  "document": {
+    "chars": 7342,
+    "tokens": 1743
+  },
+  "infobox": {
+    "title": "Roux Scholarship",
+    "data": {
+      "Awarded for": "To find new talent in the catering industry.",
+      "Country": "United Kingdom",
+      "Presented by": "Alain Roux and Michel Roux Jr",
+      "Reward": "Three months at a three Michelin star restaurant",
+      "First award": "1984",
+      "Website": "Official website"
+    }
+  }
+}

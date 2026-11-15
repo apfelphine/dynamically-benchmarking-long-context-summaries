@@ -1,0 +1,7 @@
+## University Profiles Overview
+
+### Ivy League Institutions
+Ivy League institutions include the University of Pennsylvania (Penn), founded in 1740, which operates under a "One University Policy" with specialized schools like Wharton, and Yale University, established in 1701, which maintains a residential college system based on a liberal arts curriculum. Princeton University, established in 1741, is also a selective research institution known for its cooperative culture and strong undergraduate focus, housing over 98% of its undergraduates. Both Penn and Princeton feature strong athletic programs, while Yale emphasizes collegiate Gothic architecture and inclusion efforts.
+
+### Global and Research Universities
+Leading global research institutions include the University of Cambridge, structured around 31 self-governing colleges affiliated with Faculties and Departments, which drives the "Cambridge Phenomenon" in high-tech growth. The University of Edinburgh, founded in 1583, is a Russell Group institution with strong scientific research and extensive international partnerships. University College London (UCL) is another top global institution, highly ranked across multiple subjects, and is committed to sustainability targets.

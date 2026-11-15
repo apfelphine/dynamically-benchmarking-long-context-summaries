@@ -1,0 +1,10 @@
+## Autoencoder: Concise Summary
+
+An **autoencoder** is a neural network architecture composed of two main functions: an encoder, which maps high-dimensional input data to a lower-dimensional latent space, and a decoder, which reconstructs the input data from this latent representation. The typical structure uses multilayer perceptrons, and is trained by minimizing a reconstruction loss—commonly the mean squared error—between the original input and the reconstructed output. Autoencoders are often designed to be **undercomplete**, meaning the latent space has fewer dimensions than the input, encouraging the network to learn compressed, informative representations rather than simply copying data. Training involves optimizing the encoder and decoder parameters to reduce reconstruction error across a reference dataset.
+
+Over time, many **variations** have emerged: 
+- **Variational autoencoders (VAE)** employ probabilistic frameworks for generative modeling, encoding inputs as distributions rather than fixed vectors.
+- **Sparse autoencoders (SAE)** encourage sparse activations via k-sparsity or regularization.
+- **Denoising autoencoders (DAE)** train on corrupted inputs to robustly reconstruct clean outputs.
+- **Contractive autoencoders (CAE)** add a loss term to promote robustness to small perturbations.
+- Other types include minimum description length autoencoders, concrete autoencoders for discrete feature selection, and deep autoencoders (built from many layers) for improved compression and representation. **Autoencoders** are widely used for dimensionality reduction, feature learning, anomaly detection, image processing, and more, with early work revealing strong ties to principal component analysis and dimensionality reduction techniques. Modern applications also include semantic hashing, medical imaging, communication systems, and as components in larger AI systems.

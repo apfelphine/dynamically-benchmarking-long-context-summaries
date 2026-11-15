@@ -1,0 +1,9 @@
+Education in Norway is organized into three main levels: elementary (barneskole, ages 6–12), lower secondary (ungdomsskole, ages 13–16), and upper secondary (videregående skole, ages 16–19). The system is compulsory and free for all children, with a strong emphasis on inclusivity and quality. 
+
+Elementary and lower secondary education are mandatory and focus on foundational subjects such as mathematics, English, science, and social studies. Students receive grades from year 6 onward, with a grading system based on A–E, and a student's total score used for university admissions. The curriculum emphasizes active learning and student engagement, with a shift toward experiential and project-based learning.
+
+Upper secondary education offers students a choice between general studies (studieforberedelse) and vocational studies (yrkesfag), with a new "Kunnskapsløftet" reform aiming to ensure all students have a broad academic foundation. Students complete a diploma project in their final year, which is not included in their academic merit score.
+
+Private schools are permitted under the Independent Schools Act of 2003, but must follow an internationally recognized or alternative curriculum and are heavily grant-aided. They cannot select students based on subjectivity, and only a small number exist compared to public schools.
+
+Higher education in Norway is primarily public and free, with a broad range of academic and vocational programs. Institutions are required to meet quality standards set by the Norwegian Agency for Quality Assurance in Education (NOKUT). The education system is structured to promote equity and access, with a focus on lifelong learning and inclusive practices.

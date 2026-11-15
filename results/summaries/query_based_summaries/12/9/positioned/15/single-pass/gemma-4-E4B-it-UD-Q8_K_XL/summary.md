@@ -1,0 +1,7 @@
+The provided text does not contain any information regarding the "Studienstiftung" other than a detailed section dedicated to it.
+
+The **Studienstiftung des deutschen Volkes** was initially founded in Dresden in 1925 as a department of the Deutsche Studentenschaft, but it was dissolved during National Socialism and later re-established as a registered association in Cologne in 1948.
+
+The Studienstiftung offers a general scholarship providing both financial and academic support for bachelor's and master's studies, which also extends to doctoral candidates. Eligibility is determined by the principles of "excellence, initiative and responsibility." Admission channels are diverse, including nomination by a school, nomination by professors, nomination by an examination board, recognition as a winner of a national or federal competition, or by taking an assessment test since February 2010.
+
+Financial support includes a monthly allowance (€300) and health/long-term care insurance subsidies. For PhD scholars, the monthly award is €1,550. The program also offers academic support such as summer schools, research groups, and mentoring. In 2023, the Studienstiftung approved 2,179 scholarships and 301 doctoral scholarships.

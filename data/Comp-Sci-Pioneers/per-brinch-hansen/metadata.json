@@ -1,0 +1,29 @@
+{
+  "id": 863750,
+  "title": "Per Brinch Hansen",
+  "url": "https://en.wikipedia.org/wiki/Per_Brinch_Hansen",
+  "path": "Comp-Sci-Pioneers\\per-brinch-hansen",
+  "summary": {
+    "chars": 196,
+    "tokens": 40
+  },
+  "document": {
+    "chars": 24389,
+    "tokens": 5394
+  },
+  "infobox": {
+    "title": "Per Brinch Hansen",
+    "data": {
+      "Born": "13 November 1938 \u00b7 Frederiksberg, Denmark",
+      "Died": "31 July 2007 (aged 68) \u00b7 Syracuse, New York",
+      "Alma mater": "Technical University of Denmark",
+      "Known for": "- RC 4000 multiprogramming system - Operating systems kernels, microkernels - Monitors - Concurrent programming - Concurrent Pascal - Distributed Processes - Parallel computing - Distributed computing",
+      "Spouse": "Milena",
+      "Children": "2",
+      "Awards": "- IEEE Computer Pioneer Award (2002)",
+      "Fields": "Computer science",
+      "Institutions": "- Regnecentralen - Carnegie Mellon University - California Institute of Technology - University of Southern California - University of Copenhagen - Syracuse University",
+      "Website": "brinch-hansen.net"
+    }
+  }
+}

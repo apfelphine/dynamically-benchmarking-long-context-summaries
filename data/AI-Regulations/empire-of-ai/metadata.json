@@ -1,0 +1,29 @@
+{
+  "id": 80025082,
+  "title": "Empire of AI",
+  "url": "https://en.wikipedia.org/wiki/Empire_of_AI",
+  "path": "AI-Regulations\\empire-of-ai",
+  "summary": {
+    "chars": 393,
+    "tokens": 89
+  },
+  "document": {
+    "chars": 1604,
+    "tokens": 410
+  },
+  "infobox": {
+    "title": "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI",
+    "data": {
+      "Author": "Karen Hao",
+      "Cover artist": "Daniel Lagin",
+      "Language": "English",
+      "Genre": "Biography",
+      "Publisher": "Penguin Press (U.S.)",
+      "Publication date": "May 20, 2025",
+      "Publication place": "United States",
+      "Media type": "E-book, print (hardback), and audiobook",
+      "Pages": "496 pp.",
+      "ISBN": "978-0593657508"
+    }
+  }
+}

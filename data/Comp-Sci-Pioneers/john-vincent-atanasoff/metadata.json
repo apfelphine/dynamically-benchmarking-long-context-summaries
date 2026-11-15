@@ -1,0 +1,26 @@
+{
+  "id": 95618,
+  "title": "John Vincent Atanasoff",
+  "url": "https://en.wikipedia.org/wiki/John_Vincent_Atanasoff",
+  "path": "Comp-Sci-Pioneers\\john-vincent-atanasoff",
+  "summary": {
+    "chars": 515,
+    "tokens": 116
+  },
+  "document": {
+    "chars": 10425,
+    "tokens": 2351
+  },
+  "infobox": {
+    "title": "John Vincent AtanasoffOCM",
+    "data": {
+      "Born": "October 4, 1903 \u00b7 Hamilton, New York, U.S.",
+      "Died": "June 15, 1995 (aged 91) \u00b7 Frederick, Maryland, U.S.",
+      "Alma mater": "University of Florida \u00b7 Iowa State University \u00b7 University of Wisconsin\u2013Madison",
+      "Known for": "Atanasoff\u2013Berry Computer",
+      "Awards": "Order of Saints Cyril and Methodius, First Class",
+      "Fields": "Physics",
+      "Doctoral advisor": "J. H. V. Vleck"
+    }
+  }
+}

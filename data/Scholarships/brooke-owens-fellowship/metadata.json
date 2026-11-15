@@ -1,0 +1,24 @@
+{
+  "id": 55022274,
+  "title": "Brooke Owens Fellowship",
+  "url": "https://en.wikipedia.org/wiki/Brooke_Owens_Fellowship",
+  "path": "Scholarships\\brooke-owens-fellowship",
+  "summary": {
+    "chars": 336,
+    "tokens": 63
+  },
+  "document": {
+    "chars": 4013,
+    "tokens": 918
+  },
+  "infobox": {
+    "title": "Brooke Owens Fellowship",
+    "data": {
+      "Awarded for": "Exceptional undergraduate women and gender minority students in aerospace",
+      "Country": "United States",
+      "First award": "2017",
+      "Final award": "2024",
+      "Website": "brookeowensfellowship.org"
+    }
+  }
+}

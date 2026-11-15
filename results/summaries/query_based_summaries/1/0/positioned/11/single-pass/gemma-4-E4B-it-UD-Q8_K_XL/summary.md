@@ -1,0 +1,7 @@
+# Ra.One Summary
+
+*Ra.One* features a technologically advanced London-based company, Barron Industries, which introduces a new technology enabling digital worlds to enter reality via wireless transmissions. The game protagonist, G.One (played by Shah Rukh Khan), is programmed to be the hero, while the antagonist, Ra.One (played by Arjun Rampal), is a faceless entity imbued with a self-learning AI and substantially greater powers, including mind reading and shapeshifting.
+
+When the game is launched, the self-aware Ra.One breaks free into the real world, leading to violent conflict. G.One and Prateek (the protagonist's son) fight Ra.One, ultimately defeating him after tricking him into attacking G.One without his H.A.R.T. G.One subsequently transports himself back to the digital world. Several months later, Prateek manages to restore G.One to the real world.
+
+The film received mixed critical responses, with praise for its technical aspects and action sequences, while some critics found the plot's gaming concept far-fetched. It was a major commercial success in India, breaking records for a Hindi film's opening weekend and setting a new record for pre-release revenue for Bollywood films.

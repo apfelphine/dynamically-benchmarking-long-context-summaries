@@ -1,0 +1,289 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Ghana\n### History and Development:\nGhana's education evolved from informal pre-colonial learning, through European castle schools, to missionary-led formal education in the 19th century. British colonial influence expanded education but limited it to the elite. Post-independence, Ghana implemented free compulsory primary education and underwent multiple reforms to balance quality and access, with significant international and private sector support.",
+        "text_original": "Ghana's education evolved from informal pre-colonial learning, through European castle schools, to missionary-led formal education in the 19th century. British colonial influence expanded education but limited it to the elite. Post-independence, Ghana implemented free compulsory primary education and underwent multiple reforms to balance quality and access, with significant international and private sector support",
+        "idx_start": 112,
+        "idx_end": 529
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Ghana\n### Structure and Governance:\nFormal education comprises basic (kindergarten through junior high), secondary (senior high/vocational), and tertiary levels. English is the medium of instruction. Governance is centralized under the Ministry of Education, supported by regional and district offices. Funding comes mainly from the state, supplemented by international donors and private entities.",
+        "text_original": "Formal education comprises basic (kindergarten through junior high), secondary (senior high/vocational), and tertiary levels. English is the medium of instruction. Governance is centralized under the Ministry of Education, supported by regional and district offices. Funding comes mainly from the state, supplemented by international donors and private entities",
+        "idx_start": 564,
+        "idx_end": 925
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Ghana\n### Recent Trends:\nEnrollment has risen steadily but challenges remain in teacher quality, curriculum standards, and vocational training prestige. Literacy rates and gender parity have improved, but socioeconomic and gender disparities persist, especially in tertiary education. ICT integration and teacher training are ongoing priorities.",
+        "text_original": "Enrollment has risen steadily but challenges remain in teacher quality, curriculum standards, and vocational training prestige. Literacy rates and gender parity have improved, but socioeconomic and gender disparities persist, especially in tertiary education. ICT integration and teacher training are ongoing priorities",
+        "idx_start": 949,
+        "idx_end": 1268
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## England\n### Historical Overview:\nEducation transitioned from religious- to state-run provision, with compulsory schooling from age 5 to 18. The system includes public, academy, community, faith, and private schools, plus specialized technical colleges.",
+        "text_original": "Education transitioned from religious- to state-run provision, with compulsory schooling from age 5 to 18. The system includes public, academy, community, faith, and private schools, plus specialized technical colleges",
+        "idx_start": 1315,
+        "idx_end": 1533
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## England\n### Structure:\nEducation is organized into early years, primary, secondary, and post-16 further/higher education, governed by a national curriculum. State-funded schools dominate, each subject to regular Ofsted inspections. Private schools follow their own curricula.",
+        "text_original": "Education is organized into early years, primary, secondary, and post-16 further/higher education, governed by a national curriculum. State-funded schools dominate, each subject to regular Ofsted inspections. Private schools follow their own curricula",
+        "idx_start": 1553,
+        "idx_end": 1804
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## England\n### Higher Education:\nUniversities and colleges offer a range of undergraduate and postgraduate degrees, with a fee-based system and extensive student support. England has a highly-ranked university sector and strong league tables.",
+        "text_original": "Universities and colleges offer a range of undergraduate and postgraduate degrees, with a fee-based system and extensive student support. England has a highly-ranked university sector and strong league tables",
+        "idx_start": 1831,
+        "idx_end": 2039
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## England\n### Quality and Funding:\nEngland achieves strong international test results (PISA, PIRLS) and improves disadvantaged student participation via funding reforms and outreach. School autonomy and variable curricula aim to foster innovation and high standards.",
+        "text_original": "England achieves strong international test results (PISA, PIRLS) and improves disadvantaged student participation via funding reforms and outreach. School autonomy and variable curricula aim to foster innovation and high standards",
+        "idx_start": 2069,
+        "idx_end": 2299
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Hong Kong\n### History and Reforms:\nEducation started with Chinese village schools and evolved through British colonial policy to a bilingual, exam-focused system. Recent political changes have led to curriculum reforms emphasizing national security and patriotism.",
+        "text_original": "Education started with Chinese village schools and evolved through British colonial policy to a bilingual, exam-focused system. Recent political changes have led to curriculum reforms emphasizing national security and patriotism",
+        "idx_start": 2348,
+        "idx_end": 2576
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Hong Kong\n### Structure:\nPre-school is partially subsidized, followed by 6 years each of primary and secondary education. Secondary education culminates in the HKDSE or IB. Medium of instruction varies between Cantonese, English, and increasingly Mandarin.",
+        "text_original": "Pre-school is partially subsidized, followed by 6 years each of primary and secondary education. Secondary education culminates in the HKDSE or IB. Medium of instruction varies between Cantonese, English, and increasingly Mandarin",
+        "idx_start": 2596,
+        "idx_end": 2826
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Hong Kong\n### Higher Education:\nHong Kong hosts world-ranked public and private universities, with academic programs taught largely in English. Vocational education is promoted through dedicated councils and partnerships with mainland China.",
+        "text_original": "Hong Kong hosts world-ranked public and private universities, with academic programs taught largely in English. Vocational education is promoted through dedicated councils and partnerships with mainland China",
+        "idx_start": 2853,
+        "idx_end": 3061
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Hong Kong\n### Trends:\nEmphasis is on experiential learning, international curricula, and technology adoption. Enrollment in international schools has risen, alongside a trend of student and teacher emigration following recent legislation.",
+        "text_original": "Emphasis is on experiential learning, international curricula, and technology adoption. Enrollment in international schools has risen, alongside a trend of student and teacher emigration following recent legislation",
+        "idx_start": 3078,
+        "idx_end": 3293
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## France\n### Historical Context:\nUniversal, secular, and compulsory education was established in the late 19th century. The Ministry of National Education oversees a unified national curriculum.",
+        "text_original": "Universal, secular, and compulsory education was established in the late 19th century. The Ministry of National Education oversees a unified national curriculum",
+        "idx_start": 3338,
+        "idx_end": 3498
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## France\n### Structure:\nEducation includes pre-primary, primary, coll\u00e8ge (middle), lyc\u00e9e (high), and tertiary levels. Prep classes (CPGE) funnel students into elite grandes \u00e9coles.",
+        "text_original": "Education includes pre-primary, primary, coll\u00e8ge (middle), lyc\u00e9e (high), and tertiary levels. Prep classes (CPGE) funnel students into elite grandes \u00e9coles",
+        "idx_start": 3518,
+        "idx_end": 3673
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## France\n### Higher Education:\nDegrees align with the European Bologna Process. Public universities are state-funded and low-cost, while private and elite business/engineering schools charge higher fees. CPGE and part-time teaching are key features.",
+        "text_original": "Degrees align with the European Bologna Process. Public universities are state-funded and low-cost, while private and elite business/engineering schools charge higher fees. CPGE and part-time teaching are key features",
+        "idx_start": 3700,
+        "idx_end": 3917
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## France\n### Challenges and Trends:\nFrench education emphasizes national identity through literature and history. Secularism is strictly enforced. Reforms address institutional autonomy, quality assurance, and adaptation to a diversifying student population.",
+        "text_original": "French education emphasizes national identity through literature and history. Secularism is strictly enforced. Reforms address institutional autonomy, quality assurance, and adaptation to a diversifying student population",
+        "idx_start": 3949,
+        "idx_end": 4170
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Sweden\n### History and Structure:\nCompulsory schooling began in 1842. Today, education spans pre-school, nine-year compulsory school, upper secondary (vocational and academic programs), and higher education (universities and vocational colleges) compatible with the Bologna Process.",
+        "text_original": "Compulsory schooling began in 1842. Today, education spans pre-school, nine-year compulsory school, upper secondary (vocational and academic programs), and higher education (universities and vocational colleges) compatible with the Bologna Process",
+        "idx_start": 4218,
+        "idx_end": 4465
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Sweden\n### Educational Innovation:\nPrivately operated, publicly funded \"friskolor\" exist alongside public schools, allowing for pedagogical diversity. Debate continues regarding profit motives and educational quality.",
+        "text_original": "Privately operated, publicly funded \"friskolor\" exist alongside public schools, allowing for pedagogical diversity. Debate continues regarding profit motives and educational quality",
+        "idx_start": 4498,
+        "idx_end": 4679
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Sweden\n### Trends:\nEnrollment is high; quality fluctuates, with recent improvements after a drop in international rankings. Inclusivity and anti-discrimination are emphasized. Preschool is widely accessible and supports working parents.",
+        "text_original": "Enrollment is high; quality fluctuates, with recent improvements after a drop in international rankings. Inclusivity and anti-discrimination are emphasized. Preschool is widely accessible and supports working parents",
+        "idx_start": 4696,
+        "idx_end": 4912
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Turkey\n### History and Structure:\nEducation is state-administered and secularized post-Republic. Compulsory schooling comprises 4+4+4 years (primary, middle, and secondary/high), with diverse vocational and religious tracks.",
+        "text_original": "Education is state-administered and secularized post-Republic. Compulsory schooling comprises 4+4+4 years (primary, middle, and secondary/high), with diverse vocational and religious tracks",
+        "idx_start": 4960,
+        "idx_end": 5149
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Turkey\n### Higher Education:\nUniversities, both public and private, offer undergraduate and postgraduate degrees, with technical universities highly regarded. Admission is through national exams and increasing efforts to attract foreign students.",
+        "text_original": "Universities, both public and private, offer undergraduate and postgraduate degrees, with technical universities highly regarded. Admission is through national exams and increasing efforts to attract foreign students",
+        "idx_start": 5176,
+        "idx_end": 5392
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Turkey\n### Challenges:\nFrequent systemic changes, religious education debates, textbook censorship, and regional inequalities mark ongoing issues. There is a significant focus on nationalistic indoctrination within curricula.",
+        "text_original": "Frequent systemic changes, religious education debates, textbook censorship, and regional inequalities mark ongoing issues. There is a significant focus on nationalistic indoctrination within curricula",
+        "idx_start": 5413,
+        "idx_end": 5614
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Norway\n### History and Structure:\nCompulsory education includes elementary, lower, and upper secondary school, with a strong system of vocational and general pathways. Higher education institutions are mostly public and require general university admissions.",
+        "text_original": "Compulsory education includes elementary, lower, and upper secondary school, with a strong system of vocational and general pathways. Higher education institutions are mostly public and require general university admissions",
+        "idx_start": 5662,
+        "idx_end": 5885
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Norway\n### Governance and Inclusion:\nEducation is highly decentralized but regulated, with universal access and inclusive special education policies. Grading systems have shifted toward European standards.",
+        "text_original": "Education is highly decentralized but regulated, with universal access and inclusive special education policies. Grading systems have shifted toward European standards",
+        "idx_start": 5920,
+        "idx_end": 6087
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Iran\n### History and Structure:\nEducation has deep historical roots, from religious academies to modern centralized systems. Today, compulsory elementary and lower secondary education covers ages 6\u201315, with competitive upper secondary and higher education.",
+        "text_original": "Education has deep historical roots, from religious academies to modern centralized systems. Today, compulsory elementary and lower secondary education covers ages 6\u201315, with competitive upper secondary and higher education",
+        "idx_start": 6133,
+        "idx_end": 6356
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Iran\n### Trends and Challenges:\nAccess has grown, but significant teacher shortages, privatization, and quality concerns persist. The system is highly centralized, and ideological control influences curricula and university admissions. Women\u2019s participation in higher education is high.",
+        "text_original": "Access has grown, but significant teacher shortages, privatization, and quality concerns persist. The system is highly centralized, and ideological control influences curricula and university admissions. Women\u2019s participation in higher education is high",
+        "idx_start": 6388,
+        "idx_end": 6641
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Armenia\n### History and Structure:\nBased on the Soviet model, Armenian education is free and compulsory at primary and secondary levels. The system encompasses primary, middle, and high school, followed by specialized or general higher education.",
+        "text_original": "Based on the Soviet model, Armenian education is free and compulsory at primary and secondary levels. The system encompasses primary, middle, and high school, followed by specialized or general higher education",
+        "idx_start": 6690,
+        "idx_end": 6900
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Armenia\n### Trends:\nReforms emphasize European standards, international cooperation, and language diversity. Dropout rates and absenteeism are linked to child labor and quality challenges. Higher education partnerships and ECTS adoption are notable.",
+        "text_original": "Reforms emphasize European standards, international cooperation, and language diversity. Dropout rates and absenteeism are linked to child labor and quality challenges. Higher education partnerships and ECTS adoption are notable",
+        "idx_start": 6917,
+        "idx_end": 7145
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Taiwan\n### History and Structure:\nEducation underwent several reforms under successive regimes, leading to a compulsory twelve-year system (elementary, junior high, senior high/vocational). Public and private schools coexist, with rigorous exam-based progression.",
+        "text_original": "Education underwent several reforms under successive regimes, leading to a compulsory twelve-year system (elementary, junior high, senior high/vocational). Public and private schools coexist, with rigorous exam-based progression",
+        "idx_start": 7193,
+        "idx_end": 7421
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Taiwan\n### Higher and Vocational Education:\nUniversities offer a range of degrees, with extensive options in engineering and technology. Vocational education is promoted through a network of colleges. Cram schools supplement formal education.",
+        "text_original": "Universities offer a range of degrees, with extensive options in engineering and technology. Vocational education is promoted through a network of colleges. Cram schools supplement formal education",
+        "idx_start": 7463,
+        "idx_end": 7660
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Indonesia\n### History and Structure:\nEducation includes a history of colonial, religious, and secular institutions. The national system mandates twelve years of compulsory schooling (primary, middle, high) with public and private providers.",
+        "text_original": "Education includes a history of colonial, religious, and secular institutions. The national system mandates twelve years of compulsory schooling (primary, middle, high) with public and private providers",
+        "idx_start": 7711,
+        "idx_end": 7913
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Indonesia\n### Challenges and Reform:\nAccess has expanded, but disparities in quality, teacher training, and rural provision persist. Vocational and religious schooling are significant, with accelerated growth in Islamic schools.",
+        "text_original": "Access has expanded, but disparities in quality, teacher training, and rural provision persist. Vocational and religious schooling are significant, with accelerated growth in Islamic schools",
+        "idx_start": 7945,
+        "idx_end": 8135
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Nigeria\n### History and Structure:\nA large and diverse education system, Nigeria mandates six years of primary, three of junior secondary, and three of senior secondary education. Tertiary education includes universities, polytechnics, and colleges.",
+        "text_original": "A large and diverse education system, Nigeria mandates six years of primary, three of junior secondary, and three of senior secondary education. Tertiary education includes universities, polytechnics, and colleges",
+        "idx_start": 8184,
+        "idx_end": 8397
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Nigeria\n### Challenges and Trends:\nLiteracy rates are low, with significant regional and gender disparities. Government policies emphasize universal access, but funding, infrastructure, and teacher qualifications remain concerns. International and advanced-level programs supplement university entry.",
+        "text_original": "Literacy rates are low, with significant regional and gender disparities. Government policies emphasize universal access, but funding, infrastructure, and teacher qualifications remain concerns. International and advanced-level programs supplement university entry",
+        "idx_start": 8429,
+        "idx_end": 8693
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Egypt\n### History and Structure:\nWith ancient roots, modern reforms established a centralized system comprising nine years of compulsory basic education (kindergarten, primary, preparatory). Secondary education is divided into general or technical tracks, leading to tertiary education.",
+        "text_original": "With ancient roots, modern reforms established a centralized system comprising nine years of compulsory basic education (kindergarten, primary, preparatory). Secondary education is divided into general or technical tracks, leading to tertiary education",
+        "idx_start": 8740,
+        "idx_end": 8992
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Egypt\n### Challenges and Progress:\nAccess has broadened but quality issues persist, including overcrowding, teacher status, and reliance on private tutoring. Higher education is extensive but faces resource constraints. Special systems (Al-Azhar, agricultural schools) run in parallel to the public sector.",
+        "text_original": "Access has broadened but quality issues persist, including overcrowding, teacher status, and reliance on private tutoring. Higher education is extensive but faces resource constraints. Special systems (Al-Azhar, agricultural schools) run in parallel to the public sector",
+        "idx_start": 9026,
+        "idx_end": 9296
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Republic of Ireland\n### Structure and Funding:\nEducation is compulsory from ages 6 to 16, encompassing primary, junior and senior secondary cycles. Historically dominated by religious institutions, recent reforms increase multidenominational options. The state funds both primary and secondary schools.",
+        "text_original": "Education is compulsory from ages 6 to 16, encompassing primary, junior and senior secondary cycles. Historically dominated by religious institutions, recent reforms increase multidenominational options. The state funds both primary and secondary schools",
+        "idx_start": 9357,
+        "idx_end": 9611
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Republic of Ireland\n### Curriculum and Assessment:\nStudents progress through standardized exams (Junior Certificate, Leaving Certificate) and often undertake a transition year. Special needs and disadvantaged area support programs are in place. Tertiary education is prominent and attracts international students.",
+        "text_original": "Students progress through standardized exams (Junior Certificate, Leaving Certificate) and often undertake a transition year. Special needs and disadvantaged area support programs are in place. Tertiary education is prominent and attracts international students",
+        "idx_start": 9647,
+        "idx_end": 9908
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Sri Lanka\n### Governance and History:\nA legacy of ancient Buddhist schools and colonial influence, Sri Lanka has a centralized education system overseen by multiple ministries. Education is free and compulsory up to grade 9, with rigorous national exams filtering students through secondary and collegiate levels.",
+        "text_original": "A legacy of ancient Buddhist schools and colonial influence, Sri Lanka has a centralized education system overseen by multiple ministries. Education is free and compulsory up to grade 9, with rigorous national exams filtering students through secondary and collegiate levels",
+        "idx_start": 9960,
+        "idx_end": 10234
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Sri Lanka\n### Higher and Vocational Education:\nTertiary education is highly competitive and limited; fewer than a fifth of qualified students gain university admission. Vocational and private higher education exist but are less regulated.",
+        "text_original": "Tertiary education is highly competitive and limited; fewer than a fifth of qualified students gain university admission. Vocational and private higher education exist but are less regulated",
+        "idx_start": 10276,
+        "idx_end": 10466
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Israel\n### Structure:\nThe system includes primary, middle, and high school, with compulsory education and multiple tracks (state-secular, religious, Haredi, Arab). Matriculation (bagrut) is vital for university entry, and post-secondary education is both diverse and internationally ranked.",
+        "text_original": "The system includes primary, middle, and high school, with compulsory education and multiple tracks (state-secular, religious, Haredi, Arab). Matriculation (bagrut) is vital for university entry, and post-secondary education is both diverse and internationally ranked",
+        "idx_start": 10502,
+        "idx_end": 10769
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary of Education Systems in Selected Countries\n## Israel\n### Challenges:\nResource allocation, disparities between Jewish and Arab sectors, teacher status, and curricular politics are ongoing concerns. Higher education is highly valued culturally and economically, driving technological innovation but facing inclusivity and quality debates.",
+        "text_original": "Resource allocation, disparities between Jewish and Arab sectors, teacher status, and curricular politics are ongoing concerns. Higher education is highly valued culturally and economically, driving technological innovation but facing inclusivity and quality debates",
+        "idx_start": 10790,
+        "idx_end": 11056
+    }
+]

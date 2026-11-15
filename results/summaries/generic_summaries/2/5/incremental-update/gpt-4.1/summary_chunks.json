@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Foundations, Evolution, and Societal Impacts of AI Ethics, Progress, and Governance\n## Philosophical and Historical Foundations\nAI ethics trace their roots to Enlightenment thought and have long been publicized through literature and fiction, with works like Frankenstein and R.U.R. shaping early perceptions. Alan Turing's Turing Test introduced linguistic measures of machine intelligence, igniting debates about artificial consciousness, reflected in philosophical thought experiments like Searle\u2019s Chinese Room. Isaac Asimov\u2019s Three Laws of Robotics, presented in the 1950s, catalyzed ongoing discussion about machine accountability and the constraints of fixed moral codes.",
+        "text_original": "AI ethics trace their roots to Enlightenment thought and have long been publicized through literature and fiction, with works like Frankenstein and R.U.R. shaping early perceptions. Alan Turing's Turing Test introduced linguistic measures of machine intelligence, igniting debates about artificial consciousness, reflected in philosophical thought experiments like Searle\u2019s Chinese Room. Isaac Asimov\u2019s Three Laws of Robotics, presented in the 1950s, catalyzed ongoing discussion about machine accountability and the constraints of fixed moral codes",
+        "idx_start": 133,
+        "idx_end": 682
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations, Evolution, and Societal Impacts of AI Ethics, Progress, and Governance\n## Critiques and Expanded Frameworks for AI Evaluation\nThe limitations of the Turing Test have led to novel, task-based and context-sensitive assessments, such as the Feigenbaum Test, Total Turing Test, and CAPTCHAs. Public competitions and evolving AI benchmarks continue to redefine how intelligence is measured.",
+        "text_original": "The limitations of the Turing Test have led to novel, task-based and context-sensitive assessments, such as the Feigenbaum Test, Total Turing Test, and CAPTCHAs. Public competitions and evolving AI benchmarks continue to redefine how intelligence is measured",
+        "idx_start": 741,
+        "idx_end": 999
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations, Evolution, and Societal Impacts of AI Ethics, Progress, and Governance\n## Algorithmic Bias: Impact and Mitigation\nAlgorithmic bias\u2014stemming from prejudiced data and flawed design\u2014impacts fairness across sectors like hiring, healthcare, justice, and customer service, with language models often amplifying bias. Mitigation strategies include improved datasets, diverse teams, robust documentation, and principled governance. International standards (GDPR, NIST, IEEE) and global declarations (Toronto) promote accountability amid persistent challenges.",
+        "text_original": "Algorithmic bias\u2014stemming from prejudiced data and flawed design\u2014impacts fairness across sectors like hiring, healthcare, justice, and customer service, with language models often amplifying bias. Mitigation strategies include improved datasets, diverse teams, robust documentation, and principled governance. International standards (GDPR, NIST, IEEE) and global declarations (Toronto) promote accountability amid persistent challenges",
+        "idx_start": 1046,
+        "idx_end": 1482
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations, Evolution, and Societal Impacts of AI Ethics, Progress, and Governance\n## AI Safety, Weaponization, and Emergent Risks\nCutting-edge AI brings risks of misalignment, harmful behaviors, existential threats (the Singularity), weaponization, and loss of control. Notable voices call for international restrictions on military AI and responsible development to safeguard humanity.",
+        "text_original": "Cutting-edge AI brings risks of misalignment, harmful behaviors, existential threats (the Singularity), weaponization, and loss of control. Notable voices call for international restrictions on military AI and responsible development to safeguard humanity",
+        "idx_start": 1534,
+        "idx_end": 1789
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations, Evolution, and Societal Impacts of AI Ethics, Progress, and Governance\n## Ethics, Machine Agency, and Robot Rights\nDebates on AI ethics center on agency, transparency, value inheritance, consciousness, and the accountability of designers. Key themes include autonomy, justice, moral frameworks, and the legal status and welfare of robots, with scholars stressing that personhood criteria must be carefully considered.",
+        "text_original": "Debates on AI ethics center on agency, transparency, value inheritance, consciousness, and the accountability of designers. Key themes include autonomy, justice, moral frameworks, and the legal status and welfare of robots, with scholars stressing that personhood criteria must be carefully considered",
+        "idx_start": 1837,
+        "idx_end": 2138
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations, Evolution, and Societal Impacts of AI Ethics, Progress, and Governance\n## Institutes, Organizations, and Popular Media Influence\nMajor academic centers (Oxford, NYU, Harvard, TU Munich) and private groups (Algorithmic Justice League, Black in AI) lead research and advocacy in AI ethics, safety, and governance. Popular media\u2014including novels, films, and series like Black Mirror and Real Humans\u2014significantly influence public understanding and ethical debate around technological progress.",
+        "text_original": "Major academic centers (Oxford, NYU, Harvard, TU Munich) and private groups (Algorithmic Justice League, Black in AI) lead research and advocacy in AI ethics, safety, and governance. Popular media\u2014including novels, films, and series like Black Mirror and Real Humans\u2014significantly influence public understanding and ethical debate around technological progress",
+        "idx_start": 2200,
+        "idx_end": 2560
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations, Evolution, and Societal Impacts of AI Ethics, Progress, and Governance\n## Regulation, Oversight, and Institutional Collaboration\nRegulatory frameworks emphasize transparency, justice, autonomy, beneficence, and explicability, supplemented by technical tools like Nvidia\u2019s Llama Guard and Preamble\u2019s guardrail platform. Collaborative efforts from organizations (Partnership on AI, IEEE, OECD, UNESCO) and national governments drive legislation and ethical standards, adapting to social values and professional norms.",
+        "text_original": "Regulatory frameworks emphasize transparency, justice, autonomy, beneficence, and explicability, supplemented by technical tools like Nvidia\u2019s Llama Guard and Preamble\u2019s guardrail platform. Collaborative efforts from organizations (Partnership on AI, IEEE, OECD, UNESCO) and national governments drive legislation and ethical standards, adapting to social values and professional norms",
+        "idx_start": 2622,
+        "idx_end": 3007
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations, Evolution, and Societal Impacts of AI Ethics, Progress, and Governance\n## Technological Singularity and Transhumanism\nThe singularity hypothesis foresees disruptive, rapidly self-improving superintelligent AI, while transhumanism addresses moral and social issues resulting from human augmentation via AI and biotechnology.",
+        "text_original": "The singularity hypothesis foresees disruptive, rapidly self-improving superintelligent AI, while transhumanism addresses moral and social issues resulting from human augmentation via AI and biotechnology",
+        "idx_start": 3058,
+        "idx_end": 3262
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations, Evolution, and Societal Impacts of AI Ethics, Progress, and Governance\n## Embodied Cognition, Research Forums, and Practice\nEmbodied cognition prioritizes physical experience in intelligence, shaping AI and robotics applications in diverse fields. Turing Colloquium, AISB Symposium, and other forums ensure continuous examination of philosophical, ethical, and governance issues.",
+        "text_original": "Embodied cognition prioritizes physical experience in intelligence, shaping AI and robotics applications in diverse fields. Turing Colloquium, AISB Symposium, and other forums ensure continuous examination of philosophical, ethical, and governance issues",
+        "idx_start": 3319,
+        "idx_end": 3573
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations, Evolution, and Societal Impacts of AI Ethics, Progress, and Governance\n## Contemporary Challenges & Societal Implications\nAI integration spotlights challenges such as Big Tech dominance, environmental impact, open-source risks, shrinking explainability in healthcare, and the erosion of empathy and dignity in service contexts. Anthropomorphizing AI complicates accountability, demanding comprehensive, adaptive policy and ethical governance to safeguard societal values amid rapid technological change and future uncertainties.",
+        "text_original": "AI integration spotlights challenges such as Big Tech dominance, environmental impact, open-source risks, shrinking explainability in healthcare, and the erosion of empathy and dignity in service contexts. Anthropomorphizing AI complicates accountability, demanding comprehensive, adaptive policy and ethical governance to safeguard societal values amid rapid technological change and future uncertainties",
+        "idx_start": 3628,
+        "idx_end": 4033
+    }
+]

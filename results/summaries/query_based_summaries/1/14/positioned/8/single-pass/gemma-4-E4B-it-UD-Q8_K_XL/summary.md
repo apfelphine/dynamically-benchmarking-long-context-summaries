@@ -1,0 +1,5 @@
+## Atlas (2024 film) Summary
+
+*Atlas (2024 film)* is a science fiction action film set in 2043 and 2071, centered around a war of machines waged by the humanoid AI terrorist Harlan. The military forces of the International Coalition of Nations (ICN) drive Harlan into outer space.
+
+Twenty-eight years later, Atlas Shepherd, an analyst who distrusts AI and is the daughter of Harlan's designer, seeks the fugitive. Atlas is forced to enter an ARC (AI-assisted mecha) herself during a mission to the Andromeda Galaxy. After bonding with the ARC's AI, Smith, Atlas discovers her mother created Harlan. Following a mission to tag Harlan's base, Atlas is captured. After being interrogated, she and Colonel Elias Banks escape, and Atlas upgrades Smith. In the climax, Atlas and Smith defeat Harlan in hand-to-hand combat, though Atlas is badly injured. Back on Earth, Atlas tests a new ARC model, suggesting Smith's sentience survived.

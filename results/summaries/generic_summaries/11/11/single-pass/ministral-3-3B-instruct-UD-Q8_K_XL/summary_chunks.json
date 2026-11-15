@@ -1,0 +1,233 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\n## Motivation\nThe Wasserstein GAN introduces the **Wasserstein distance** as a criterion for measuring the dissimilarity between distributions, replacing the Jensen-Shannon divergence used in traditional GANs. This distance is more efficient to compute due to its dual representation theorem (Kantorovich-Rubenstein duality), allowing for better gradient flow and avoiding issues like mode collapse and vanishing gradients.",
+        "text_original": "The Wasserstein GAN introduces the **Wasserstein distance** as a criterion for measuring the dissimilarity between distributions, replacing the Jensen-Shannon divergence used in traditional GANs. This distance is more efficient to compute due to its dual representation theorem (Kantorovich-Rubenstein duality), allowing for better gradient flow and avoiding issues like mode collapse and vanishing gradients",
+        "idx_start": 52,
+        "idx_end": 460
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\n## Key Concepts\n- **Wasserstein Distance** : Measures the \"work\" needed to transform one distribution into another, offering a more stable and interpretable metric compared to Jensen-Shannon divergence.\n- **Critic (Discriminator)** : Restricted to functions with bounded Lipschitz norm, ensuring stable gradient updates.\n- **Generator** : Optimized to minimize the Wasserstein distance between its generated distribution and the reference distribution.",
+        "text_original": "Wasserstein Distance**: Measures the \"work\" needed to transform one distribution into another, offering a more stable and interpretable metric compared to Jensen-Shannon divergence.\n- **Critic (Discriminator)**: Restricted to functions with bounded Lipschitz norm, ensuring stable gradient updates.\n- **Generator**: Optimized to minimize the Wasserstein distance between its generated distribution and the reference distribution",
+        "idx_start": 489,
+        "idx_end": 917
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\n## Training Methods\n1. **Weight Clipping** : Bounds the Lipschitz norm by clipping weights to a fixed range.\n2. **Spectral Normalization** : Normalizes weights to ensure a Lipschitz constant of 1, improving gradient stability.\n3. **Gradient Penalty** : Penalizes deviations from the Lipschitz constraint by adding a gradient penalty term to the loss function.",
+        "text_original": "Weight Clipping**: Bounds the Lipschitz norm by clipping weights to a fixed range.\n2. **Spectral Normalization**: Normalizes weights to ensure a Lipschitz constant of 1, improving gradient stability.\n3. **Gradient Penalty**: Penalizes deviations from the Lipschitz constraint by adding a gradient penalty term to the loss function",
+        "idx_start": 951,
+        "idx_end": 1281
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\n## Comparison with GAN\n- **Gradient Flow** : Wasserstein GAN provides better gradient signals, reducing variance in gradient estimators.\n- **Mode Collapse** : Avoids mode collapse due to its robust distance metric, making it more stable for complex datasets like ImageNet.",
+        "text_original": "Gradient Flow**: Wasserstein GAN provides better gradient signals, reducing variance in gradient estimators.\n- **Mode Collapse**: Avoids mode collapse due to its robust distance metric, making it more stable for complex datasets like ImageNet",
+        "idx_start": 1317,
+        "idx_end": 1559
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Definition and Game Theory\n- **GAN Game** : A zero-sum game between a generator (G) and a discriminator (D), where:\n    - **Generator** aims to minimize the loss: ${\\mathbb{E}} *{x\\sim \\mu* {G}}[\\ln(1-D(x))]$.\n    - **Discriminator** aims to maximize the loss: ${\\mathbb{E}} *{x\\sim \\mu* {ref}}[\\ln D(x)] + {\\mathbb{E}} *{x\\sim \\mu* {G}}[\\ln(1-D(x))]$.\n- **Optimal Discriminator** : Computes the Jensen-Shannon divergence, ensuring the discriminator outputs a probability close to 0.5 at equilibrium.",
+        "text_original": "GAN Game**: A zero-sum game between a generator (G) and a discriminator (D), where:\n  - **Generator** aims to minimize the loss: ${\\mathbb{E}}_{x\\sim \\mu_{G}}[\\ln(1-D(x))]$.\n  - **Discriminator** aims to maximize the loss: ${\\mathbb{E}}_{x\\sim \\mu_{ref}}[\\ln D(x)] + {\\mathbb{E}}_{x\\sim \\mu_{G}}[\\ln(1-D(x))]$.\n- **Optimal Discriminator**: Computes the Jensen-Shannon divergence, ensuring the discriminator outputs a probability close to 0.5 at equilibrium",
+        "idx_start": 1653,
+        "idx_end": 2109
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Training Challenges\n- **Unstable Convergence** : Requires careful tuning of learning rates and techniques like **two-time-scale update rule (TTUR)** .\n- **Mode Collapse** : Occurs when the generator focuses on a subset of the data, failing to generalize.\n- **Vanishing Gradients** : Discriminator may become too accurate, making gradient updates ineffective.",
+        "text_original": "Unstable Convergence**: Requires careful tuning of learning rates and techniques like **two-time-scale update rule (TTUR)**.\n- **Mode Collapse**: Occurs when the generator focuses on a subset of the data, failing to generalize.\n- **Vanishing Gradients**: Discriminator may become too accurate, making gradient updates ineffective",
+        "idx_start": 2145,
+        "idx_end": 2474
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Variants\n- **Conditional GAN** : Adds conditional labels to generate specific outputs.\n- **Wasserstein GAN (WGAN)** : Uses the Wasserstein distance for more stable training.\n- **InfoGAN** : Introduces mutual information to disentangle latent factors.\n- **CycleGAN** : Transforms images between domains without paired data.",
+        "text_original": "Conditional GAN**: Adds conditional labels to generate specific outputs.\n- **Wasserstein GAN (WGAN)**: Uses the Wasserstein distance for more stable training.\n- **InfoGAN**: Introduces mutual information to disentangle latent factors.\n- **CycleGAN**: Transforms images between domains without paired data",
+        "idx_start": 2499,
+        "idx_end": 2803
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Overview\n- **Transformer Architecture** : Uses self-attention to capture long-range dependencies in images, replacing convolutional layers.\n- **Patch Embedding** : Splits images into fixed-size patches, converting them into token embeddings.\n- **Positional Encoding** : Adds positional information to embeddings to retain spatial context.",
+        "text_original": "Transformer Architecture**: Uses self-attention to capture long-range dependencies in images, replacing convolutional layers.\n- **Patch Embedding**: Splits images into fixed-size patches, converting them into token embeddings.\n- **Positional Encoding**: Adds positional information to embeddings to retain spatial context",
+        "idx_start": 2867,
+        "idx_end": 3188
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Applications\n- **Image Classification** : Achieves state-of-the-art performance by leveraging global attention.\n- **Object Detection** : Extends ViT for tasks requiring spatial localization.\n- **Self-Supervised Learning** : Uses masked autoencoders (MAE) for unsupervised pretraining.",
+        "text_original": "Image Classification**: Achieves state-of-the-art performance by leveraging global attention.\n- **Object Detection**: Extends ViT for tasks requiring spatial localization.\n- **Self-Supervised Learning**: Uses masked autoencoders (MAE) for unsupervised pretraining",
+        "idx_start": 3217,
+        "idx_end": 3480
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Variants\n- **Masked Autoencoder (MAE)** : Trains ViT by masking patches and reconstructing them.\n- **DINO** : Self-distillation method for robust feature learning.\n- **Swin Transformer** : Uses shifted windows for efficient attention.\n- **TimeSformer** : Extends ViT to video data with space-time attention.",
+        "text_original": "Masked Autoencoder (MAE)**: Trains ViT by masking patches and reconstructing them.\n- **DINO**: Self-distillation method for robust feature learning.\n- **Swin Transformer**: Uses shifted windows for efficient attention.\n- **TimeSformer**: Extends ViT to video data with space-time attention",
+        "idx_start": 3505,
+        "idx_end": 3794
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Architecture\n- **Convolutional Layers** : Apply filters to extract features, reducing parameters compared to fully connected networks.\n- **Pooling Layers** : Downsample feature maps to reduce dimensionality and enhance translation invariance.\n- **Fully Connected Layers** : Perform final classification or regression.",
+        "text_original": "Convolutional Layers**: Apply filters to extract features, reducing parameters compared to fully connected networks.\n- **Pooling Layers**: Downsample feature maps to reduce dimensionality and enhance translation invariance.\n- **Fully Connected Layers**: Perform final classification or regression",
+        "idx_start": 3872,
+        "idx_end": 4168
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Key Features\n- **Local Connectivity** : Each neuron connects only to a small receptive field, preserving spatial structure.\n- **Shared Weights** : Reduces parameters by sharing weights across spatial locations.\n- **Translation Invariance** : Pooling and convolution layers make CNNs robust to spatial shifts.",
+        "text_original": "Local Connectivity**: Each neuron connects only to a small receptive field, preserving spatial structure.\n- **Shared Weights**: Reduces parameters by sharing weights across spatial locations.\n- **Translation Invariance**: Pooling and convolution layers make CNNs robust to spatial shifts",
+        "idx_start": 4197,
+        "idx_end": 4484
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Applications\n- **Image Recognition** : Dominates tasks like object classification and detection.\n- **Video Analysis** : Combines spatial and temporal features for action recognition.\n- **Natural Language Processing** : Used in tasks requiring sequence-to-sequence modeling.",
+        "text_original": "Image Recognition**: Dominates tasks like object classification and detection.\n- **Video Analysis**: Combines spatial and temporal features for action recognition.\n- **Natural Language Processing**: Used in tasks requiring sequence-to-sequence modeling",
+        "idx_start": 4513,
+        "idx_end": 4765
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Architecture\n- **Encoder** : Maps input data to a latent space distribution.\n- **Decoder** : Reconstructs input data from latent representations.\n- **Latent Space** : Composed of a mixture of distributions (e.g., Gaussian) for probabilistic modeling.",
+        "text_original": "Encoder**: Maps input data to a latent space distribution.\n- **Decoder**: Reconstructs input data from latent representations.\n- **Latent Space**: Composed of a mixture of distributions (e.g., Gaussian) for probabilistic modeling",
+        "idx_start": 4838,
+        "idx_end": 5067
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Training\n- **Evidence Lower Bound (ELBO)** : Optimizes the reconstruction error and KL divergence between approximate and true posterior distributions.\n- **Reparameterization Trick** : Allows gradient-based optimization by sampling latent variables from a distribution.",
+        "text_original": "Evidence Lower Bound (ELBO)**: Optimizes the reconstruction error and KL divergence between approximate and true posterior distributions.\n- **Reparameterization Trick**: Allows gradient-based optimization by sampling latent variables from a distribution",
+        "idx_start": 5092,
+        "idx_end": 5345
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Variants\n- **Sparse Autoencoder** : Encourages sparsity in latent representations.\n- **Denoising Autoencoder** : Learns robust representations by reconstructing noisy inputs.\n- **Contractive Autoencoder** : Penalizes sensitivity to input perturbations for better generalization.",
+        "text_original": "Sparse Autoencoder**: Encourages sparsity in latent representations.\n- **Denoising Autoencoder**: Learns robust representations by reconstructing noisy inputs.\n- **Contractive Autoencoder**: Penalizes sensitivity to input perturbations for better generalization",
+        "idx_start": 5370,
+        "idx_end": 5631
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Architecture\n- **Input Layer** : Processes raw data.\n- **Hidden Layer** : Uses radial basis functions (e.g., Gaussian) for local approximation.\n- **Output Layer** : Linear combination of hidden layer outputs.",
+        "text_original": "Input Layer**: Processes raw data.\n- **Hidden Layer**: Uses radial basis functions (e.g., Gaussian) for local approximation.\n- **Output Layer**: Linear combination of hidden layer outputs",
+        "idx_start": 5711,
+        "idx_end": 5898
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Training\n- **Interpolation** : Centers are chosen from training data, and weights are solved via linear algebra.\n- **Function Approximation** : Optimizes weights to minimize error using gradient descent or pseudoinverse methods.",
+        "text_original": "Interpolation**: Centers are chosen from training data, and weights are solved via linear algebra.\n- **Function Approximation**: Optimizes weights to minimize error using gradient descent or pseudoinverse methods",
+        "idx_start": 5923,
+        "idx_end": 6135
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Applications\n- **Time Series Prediction** : Effective for chaotic systems like the logistic map.\n- **Function Approximation** : Universal approximator for continuous functions on compact domains.",
+        "text_original": "Time Series Prediction**: Effective for chaotic systems like the logistic map.\n- **Function Approximation**: Universal approximator for continuous functions on compact domains",
+        "idx_start": 6164,
+        "idx_end": 6339
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network\n## Structure\n- **Binary Threshold Units** : Each neuron has two states (+1 or -1).\n- **Symmetric Connections** : Weights are symmetric, ensuring stable dynamics.",
+        "text_original": "Binary Threshold Units**: Each neuron has two states (+1 or -1).\n- **Symmetric Connections**: Weights are symmetric, ensuring stable dynamics",
+        "idx_start": 6395,
+        "idx_end": 6536
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network\n## Training\n- **Hebbian Learning** : Updates weights based on simultaneous activations of neurons.\n- **Spurious Patterns** : Can converge to incorrect patterns, especially with limited memory capacity.",
+        "text_original": "Hebbian Learning**: Updates weights based on simultaneous activations of neurons.\n- **Spurious Patterns**: Can converge to incorrect patterns, especially with limited memory capacity",
+        "idx_start": 6561,
+        "idx_end": 6743
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network\n## Applications\n- **Associative Memory** : Retrieves stored patterns from partial inputs.\n- **Optimization** : Solves combinatorial problems like the traveling salesman problem.",
+        "text_original": "Associative Memory**: Retrieves stored patterns from partial inputs.\n- **Optimization**: Solves combinatorial problems like the traveling salesman problem",
+        "idx_start": 6772,
+        "idx_end": 6926
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Architecture\n- **Message Passing** : Aggregates information from neighbors to update node representations.\n- **Local Pooling** : Reduces graph size via downsampling.\n- **Global Pooling** : Provides fixed-size graph representations.",
+        "text_original": "Message Passing**: Aggregates information from neighbors to update node representations.\n- **Local Pooling**: Reduces graph size via downsampling.\n- **Global Pooling**: Provides fixed-size graph representations",
+        "idx_start": 6995,
+        "idx_end": 7205
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Variants\n- **Graph Convolutional Network (GCN)** : Uses spectral filtering for local interactions.\n- **Graph Attention Network (GAT)** : Applies attention mechanisms to focus on relevant nodes.\n- **Bidirectional Graph Sequence Neural Network (GGS-NN)** : Extends GNNs for sequential data.",
+        "text_original": "Graph Convolutional Network (GCN)**: Uses spectral filtering for local interactions.\n- **Graph Attention Network (GAT)**: Applies attention mechanisms to focus on relevant nodes.\n- **Bidirectional Graph Sequence Neural Network (GGS-NN)**: Extends GNNs for sequential data",
+        "idx_start": 7230,
+        "idx_end": 7501
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Applications\n- **Protein Folding** : Predicts protein structures using molecular graphs.\n- **Social Networks** : Recommender systems and fraud detection.",
+        "text_original": "Protein Folding**: Predicts protein structures using molecular graphs.\n- **Social Networks**: Recommender systems and fraud detection",
+        "idx_start": 7530,
+        "idx_end": 7663
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Architecture\n- **Hidden State** : Maintains memory across time steps.\n- **Bidirectional RNNs** : Processes sequences in both directions for richer context.",
+        "text_original": "Hidden State**: Maintains memory across time steps.\n- **Bidirectional RNNs**: Processes sequences in both directions for richer context",
+        "idx_start": 7735,
+        "idx_end": 7870
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Training\n- **Teacher Forcing** : Uses ground truth labels for training.\n- **Backpropagation Through Time (BPTT)** : Computes gradients over time.",
+        "text_original": "Teacher Forcing**: Uses ground truth labels for training.\n- **Backpropagation Through Time (BPTT)**: Computes gradients over time",
+        "idx_start": 7895,
+        "idx_end": 8024
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Variants\n- **Long Short-Term Memory (LSTM)** : Mitigates vanishing gradients with gating mechanisms.\n- **Gated Recurrent Unit (GRU)** : Simplified LSTM variant.",
+        "text_original": "Long Short-Term Memory (LSTM)**: Mitigates vanishing gradients with gating mechanisms.\n- **Gated Recurrent Unit (GRU)**: Simplified LSTM variant",
+        "idx_start": 8049,
+        "idx_end": 8193
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Applications\n- **Time Series Prediction** : Forecasts future values.\n- **Natural Language Processing** : Sequence modeling and translation.",
+        "text_original": "Time Series Prediction**: Forecasts future values.\n- **Natural Language Processing**: Sequence modeling and translation",
+        "idx_start": 8222,
+        "idx_end": 8341
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Purpose\n- **Dimensionality Reduction** : Compresses data into a lower-dimensional latent space.\n- **Feature Learning** : Extracts meaningful representations for downstream tasks.",
+        "text_original": "Dimensionality Reduction**: Compresses data into a lower-dimensional latent space.\n- **Feature Learning**: Extracts meaningful representations for downstream tasks",
+        "idx_start": 8389,
+        "idx_end": 8552
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Variations\n- **Sparse Autoencoder** : Encourages sparsity in latent representations.\n- **Denoising Autoencoder** : Learns robust features by reconstructing noisy inputs.\n- **Contractive Autoencoder** : Penalizes sensitivity to input perturbations.",
+        "text_original": "Sparse Autoencoder**: Encourages sparsity in latent representations.\n- **Denoising Autoencoder**: Learns robust features by reconstructing noisy inputs.\n- **Contractive Autoencoder**: Penalizes sensitivity to input perturbations",
+        "idx_start": 8579,
+        "idx_end": 8807
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Applications\n- **Anomaly Detection** : Flags unusual patterns by high reconstruction error.\n- **Image Compression** : Reduces image size while preserving quality.",
+        "text_original": "Anomaly Detection**: Flags unusual patterns by high reconstruction error.\n- **Image Compression**: Reduces image size while preserving quality",
+        "idx_start": 8836,
+        "idx_end": 8978
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Takeaways\n- **WGAN** improves GAN stability with Wasserstein distance and Lipschitz constraints.\n- **ViT** leverages self-attention for image understanding, outperforming CNNs in many tasks.\n- **CNNs** excel in spatial data processing due to local connectivity and shared weights.\n- **VAEs** enable probabilistic modeling and generative tasks via latent space distributions.\n- **RBFNs** offer local approximation with radial basis functions.\n- **Hopfield Networks** specialize in associative memory and optimization.\n- **GNNs** handle graph-structured data with message passing and attention.\n- **RNNs** process sequential data, with LSTMs/GRUs addressing gradient issues.",
+        "text_original": "WGAN** improves GAN stability with Wasserstein distance and Lipschitz constraints.\n- **ViT** leverages self-attention for image understanding, outperforming CNNs in many tasks.\n- **CNNs** excel in spatial data processing due to local connectivity and shared weights.\n- **VAEs** enable probabilistic modeling and generative tasks via latent space distributions.\n- **RBFNs** offer local approximation with radial basis functions.\n- **Hopfield Networks** specialize in associative memory and optimization.\n- **GNNs** handle graph-structured data with message passing and attention.\n- **RNNs** process sequential data, with LSTMs/GRUs addressing gradient issues",
+        "idx_start": 9011,
+        "idx_end": 9668
+    }
+]

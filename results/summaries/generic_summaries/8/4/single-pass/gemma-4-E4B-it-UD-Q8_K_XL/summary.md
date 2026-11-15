@@ -1,0 +1,23 @@
+## Education Systems Overview
+
+Education systems across various nations are complex, varying significantly in their structure, funding, and cultural priorities. **Australia** features a national curriculum framework underpinned by the Australian Qualifications Framework, with primary and secondary education provided by government and non-government (Catholic or private) schools. **Portugal** has historically seen rapid improvements in literacy, with its education divided into a university-focused system and a more practical polytechnic system, having adopted the Bologna Process for higher education. **Romania** operates a compulsory education system that has evolved to 14 years, resembling the French model, while **South Africa** utilizes distinct General Education and Training (GET) and Further Education and Training (FET) bands, with its structure significantly shaped by its apartheid history.
+
+In contrast, **Finland** champions a highly equitable system where comprehensive schooling (grades 1–9) is mandatory and municipal-funded, emphasizing play-based learning and autonomy for teachers. **The Philippines** transitioned to a K-12 system (13 years), which is free for public schools, while **Malaysia** maintains a national curriculum alongside vernacular schools, facing ongoing debates over language policy. The **United States** is characterized by a decentralized governance model where states hold primary control, with significant disparities linked to socioeconomic status, and it is noted for the prevalence of student loan debt.
+
+## K-12 and Early Childhood Education
+
+Preschool provisions vary widely. In **Australia**, federal government encourages early childhood enrolment under a nationally approved framework. **Finland** provides free universal daycare and preschool, focusing on child development through play. In **South Africa**, Grade R (reception) is compulsory. **The Philippines** adopted a K-12 system, where Kindergarten is mandatory. **Malaysia** offers preschool education mainly through private providers, with the majority of primary schooling being Malay-medium.
+
+School structures differ in length and compulsory nature. **Australia** introduced compulsory education progressively across states between 1871 and 1916. **Romania**'s compulsory education has fluctuated but is currently 14 years. **The US** mandates education until age 16 (or 18 in some states), typically spanning 12 grades. **India**’s educational structure is not detailed in the provided text snippets.
+
+## Higher Education and Professional Training
+
+Higher education systems show diverse approaches to specialization and access. **Australia** utilizes a subsidised student loan program (HECS) and features a national Qualifications Framework. **Portugal** distinguishes between research-oriented universities and practical polytechnics. **Malaysia** heavily subsidizes tertiary education, with many private universities offering international partnerships or branch campuses. **Finland** integrates vocational and academic tracks in its upper secondary and tertiary education.
+
+Access and qualifications are regulated differently globally. **The US** relies on varied admissions criteria (GPA, SAT/ACT, essays), leading to issues like credential inflation and high student debt. **Romania** and **Portugal** both follow the Bologna Process, which structures degrees into Bachelor's, Master's, and Doctoral levels. In **South Africa**, universities are autonomous institutions regulated by the National Qualifications Framework (NQF).
+
+## Key Issues and Social Concerns
+
+Various countries face specific challenges within their education sectors. **South Africa** grapples with profound educational disparities rooted in apartheid, impacting resource allocation. **The US** faces issues related to racial achievement gaps, the high cost of education, and the impact of standardized testing. **The Philippines** struggles with policy implementation and infrastructure deficits, compounded by the K-12 transition. **Romania** contends with low public investment and the controversy surrounding religious education.
+
+Globally, **school violence** is a persistent issue, reported in Queensland (Australia) and across both public and private schools in Portugal. **Teacher quality** is a concern in the Philippines (low LET passing rates) and the US (teacher burnout and low compensation). **Digital transformation**, spurred by COVID-19, is an ongoing priority in **South Africa** but is hampered by infrastructure gaps.

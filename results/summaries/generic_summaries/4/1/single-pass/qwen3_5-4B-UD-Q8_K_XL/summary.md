@@ -1,0 +1,26 @@
+# Summary of Biographies: Leibniz, Peirce, von Neumann, Kasparov, and Chomsky
+
+### **Gottfried Wilhelm Leibniz**
+Born in 1646, Leibniz was a polymath who made profound contributions to mathematics, philosophy, and law. His early education, enabled by access to his father's library, fostered an early mastery of Latin and advanced philosophical concepts. After leaving Leipzig, he worked in Nuremberg and Paris, where he developed the differential and integral calculus, the stepped reckoner, and the theory of monads. In Hanover, he served as a librarian and advisor to the House of Brunswick, engaging in diplomatic efforts regarding European geopolitics and the British succession while publishing works in logic and metaphysics.
+
+Leibniz's philosophy was characterized by seven fundamental principles, including the identity of indiscernibles, sufficient reason, and pre-established harmony. He viewed the universe as composed of simple substances (monads) that interact via a pre-programmed harmony rather than direct causal force. His work on formal logic anticipated modern symbolic logic and computer science, while his views on space and time (relationalism) were decades ahead of Newton. Although he died in 1716 with little contemporary recognition, his ideas on calculus, logic, and optimism have been revived and are central to modern analytic philosophy and computer science.
+
+### **Charles Sanders Peirce**
+Peirce was a multifaceted American thinker born in 1839, renowned for his work in logic, semiotics, and pragmatism. Educated at Harvard and working intermittently with the U.S. Coast Survey, he faced personal and professional isolation, including a divorce and financial hardship. Despite this, he became a leading figure in the philosophy of science, developing the concept of "pragmatism" to clarify the meaning of ideas through their practical consequences. He founded the Metaphysical Club, which influenced William James and Oliver Wendell Holmes Jr.
+
+Peirce's intellectual legacy rests on his theory of signs (semiotics), his classification of inquiry into abduction, deduction, and induction, and his theory of categories (Firstness, Secondness, Thirdness). He is considered a foundational figure for process philosophy and the development of modern statistics and topology. Though largely unrecognized during his lifetime, Peirce's influence grew significantly in the 20th century, impacting logical positivism, existentialism, and contemporary debates on truth and reality.
+
+### **John von Neumann**
+Born in Hungary in 1903, John von Neumann was a child prodigy who became one of the most influential mathematicians and scientists of the 20th century. He held a unique polymathic ability, contributing significantly to set theory, functional analysis, quantum mechanics, game theory, and computer science. His doctoral thesis axiomatized set theory, resolving paradoxes, and his 1932 work, *Mathematical Foundations of Quantum Mechanics*, established the rigorous framework for quantum theory using Hilbert spaces.
+
+Von Neumann's work extended into applied mathematics and engineering. He invented the theory of games and economic behavior, formulated the minimax theorem, and developed the von Neumann architecture, the basis for modern stored-program computers. His contributions to fluid dynamics, including the study of shock waves and the hydrogen bomb design, were pivotal during World War II. He also worked on early weather prediction models and climate change research.
+
+### **Garry Kasparov**
+Garry Kasparov, born in Baku in 1963, is widely regarded as the greatest chess player of all time. Rising through the Soviet youth system, he became the youngest world champion at age 22 in 1985, holding the top rating for over two decades. His rivalry with Anatoly Karpov defined an era of chess, and his aggressive, dynamic playing style revolutionized opening theory.
+
+Beyond the board, Kasparov became a prominent political dissident. He broke away from FIDE in 1993, founded the Grandmasters Association, and later campaigned for the Russian presidency, criticizing Vladimir Putin's authoritarian regime. He has remained a vocal advocate for democracy and human rights, even while living in exile, and has engaged in debates on international affairs ranging from the Israeli-Palestinian conflict to the war in Ukraine.
+
+### **Noam Chomsky**
+Noam Chomsky, born in 1928, is a towering figure in linguistics and a prominent political dissident. He founded the field of generative grammar and the "cognitive revolution," arguing for an innate "language acquisition device" that explains how humans learn language. His work challenged behaviorist psychology and established linguistics as a formal science.
+
+Chomsky is equally famous for his critical analysis of mass media, U.S. foreign policy, and authoritarianism. He is a lifelong advocate for peace, anti-war activism, and the rights of the Palestinian people and Kurds. His critique of corporate media and imperialism has made him a central figure in the anti-imperialist movement, though his views have also drawn significant controversy regarding his stance on Israel and Holocaust denial. He has maintained a lifelong commitment to free speech and critical thinking.

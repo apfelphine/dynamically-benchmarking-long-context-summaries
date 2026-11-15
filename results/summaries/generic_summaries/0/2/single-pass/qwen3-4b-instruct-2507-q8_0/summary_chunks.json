@@ -1,0 +1,58 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Avengers: Age of Ultron\nA sequel to *The Avengers* , the film follows the team as they confront Ultron, an AI created by Tony Stark and Bruce Banner. After Ultron\u2019s initial attack and the death of his creators, the team forms a plan to stop him. The story includes the creation of the new android Vision, a conflict between the Avengers and the Maximoffs, and a climactic battle in Sokovia. The film ends with the team establishing a new base and a new generation of Avengers being trained.",
+        "text_original": "A sequel to *The Avengers*, the film follows the team as they confront Ultron, an AI created by Tony Stark and Bruce Banner. After Ultron\u2019s initial attack and the death of his creators, the team forms a plan to stop him. The story includes the creation of the new android Vision, a conflict between the Avengers and the Maximoffs, and a climactic battle in Sokovia. The film ends with the team establishing a new base and a new generation of Avengers being trained",
+        "idx_start": 30,
+        "idx_end": 494
+    },
+    {
+        "document_idx": null,
+        "text": "# RoboCop\nSet in a dystopian future, the film follows a cyborg police officer, RoboCop, created from the corpse of a murdered officer. As he fights crime and corruption, he grapples with his identity and humanity. The film explores themes of corporate power, the loss of individuality, and the struggle between man and machine. It features a powerful, controversial ending where RoboCop becomes a symbol of human resilience.",
+        "text_original": "Set in a dystopian future, the film follows a cyborg police officer, RoboCop, created from the corpse of a murdered officer. As he fights crime and corruption, he grapples with his identity and humanity. The film explores themes of corporate power, the loss of individuality, and the struggle between man and machine. It features a powerful, controversial ending where RoboCop becomes a symbol of human resilience",
+        "idx_start": 511,
+        "idx_end": 924
+    },
+    {
+        "document_idx": null,
+        "text": "# 2001: A Space Odyssey\nA visionary sci-fi film about human evolution, the story follows a mission to Jupiter to investigate a mysterious radio signal from a monolith. The film features groundbreaking visuals and a non-verbal narrative style, emphasizing the vastness of space and the mysteries of the universe. The film\u2019s ending, where a human becomes a new form of life, has been widely interpreted as a metaphor for human evolution and transcendence.",
+        "text_original": "A visionary sci-fi film about human evolution, the story follows a mission to Jupiter to investigate a mysterious radio signal from a monolith. The film features groundbreaking visuals and a non-verbal narrative style, emphasizing the vastness of space and the mysteries of the universe. The film\u2019s ending, where a human becomes a new form of life, has been widely interpreted as a metaphor for human evolution and transcendence",
+        "idx_start": 955,
+        "idx_end": 1383
+    },
+    {
+        "document_idx": null,
+        "text": "# The Hitchhiker's Guide to the Galaxy\nA humorous, satirical science fiction series about a man named Arthur Dent who survives the destruction of Earth and embarks on a journey through space. The story explores themes of existentialism, absurdity, and the search for meaning. The franchise includes novels, radio series, TV episodes, films, and games, with a central theme of the absurdity of life and the importance of curiosity.",
+        "text_original": "A humorous, satirical science fiction series about a man named Arthur Dent who survives the destruction of Earth and embarks on a journey through space. The story explores themes of existentialism, absurdity, and the search for meaning. The franchise includes novels, radio series, TV episodes, films, and games, with a central theme of the absurdity of life and the importance of curiosity",
+        "idx_start": 1429,
+        "idx_end": 1819
+    },
+    {
+        "document_idx": null,
+        "text": "# Star Trek: The Motion Picture\nA science fiction film about a starship crew encountering a sentient machine, V'Ger, that threatens Earth. The story explores themes of artificial intelligence, human evolution, and the limits of technology. The film is notable for its groundbreaking visual effects and its influence on the sci-fi genre.",
+        "text_original": "A science fiction film about a starship crew encountering a sentient machine, V'Ger, that threatens Earth. The story explores themes of artificial intelligence, human evolution, and the limits of technology. The film is notable for its groundbreaking visual effects and its influence on the sci-fi genre",
+        "idx_start": 1858,
+        "idx_end": 2161
+    },
+    {
+        "document_idx": null,
+        "text": "# Blade Runner 2049\nA sequel to *Blade Runner* , the film follows a replicant named K as he searches for his identity and purpose. The story explores themes of love, memory, and the nature of humanity. The film features stunning visuals and a haunting atmosphere, with a philosophical ending that questions the boundaries between human and machine.",
+        "text_original": "A sequel to *Blade Runner*, the film follows a replicant named K as he searches for his identity and purpose. The story explores themes of love, memory, and the nature of humanity. The film features stunning visuals and a haunting atmosphere, with a philosophical ending that questions the boundaries between human and machine",
+        "idx_start": 2188,
+        "idx_end": 2514
+    },
+    {
+        "document_idx": null,
+        "text": "# Frankenstein\nA gothic novel about Victor Frankenstein, a scientist who creates a living being from dead body parts. The creature, rejected by society, seeks revenge and becomes a symbol of the consequences of playing God. The story explores themes of isolation, guilt, and the nature of creation. The novel is considered a foundational work of science fiction and Gothic literature.",
+        "text_original": "A gothic novel about Victor Frankenstein, a scientist who creates a living being from dead body parts. The creature, rejected by society, seeks revenge and becomes a symbol of the consequences of playing God. The story explores themes of isolation, guilt, and the nature of creation. The novel is considered a foundational work of science fiction and Gothic literature",
+        "idx_start": 2536,
+        "idx_end": 2904
+    },
+    {
+        "document_idx": null,
+        "text": "# A.I. Artificial Intelligence\nA film about a robot child named David who seeks to become human through love and desire. The story blends elements of science fiction, fantasy, and emotional drama, exploring themes of identity, love, and the nature of humanity. The film is a unique blend of Kubrick's cold, analytical style and Spielberg's warm, emotional sensibility.",
+        "text_original": "A film about a robot child named David who seeks to become human through love and desire. The story blends elements of science fiction, fantasy, and emotional drama, exploring themes of identity, love, and the nature of humanity. The film is a unique blend of Kubrick's cold, analytical style and Spielberg's warm, emotional sensibility",
+        "idx_start": 2942,
+        "idx_end": 3278
+    }
+]

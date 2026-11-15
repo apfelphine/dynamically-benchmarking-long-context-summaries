@@ -1,0 +1,22 @@
+{
+  "id": 649861,
+  "title": "Al-Khwarizmi",
+  "url": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+  "path": "Comp-Sci-Pioneers\\al-khwarizmi",
+  "summary": {
+    "chars": 2360,
+    "tokens": 529
+  },
+  "document": {
+    "chars": 20384,
+    "tokens": 5229
+  },
+  "infobox": {
+    "title": "Mu\u1e25ammad ibn M\u016bs\u0101 al-Khw\u0101rizm\u012b",
+    "data": {
+      "Born": "c. 780",
+      "Died": "c. 850",
+      "Occupation(s)": "House of Wisdom in Baghdad (appt. c. 820)"
+    }
+  }
+}

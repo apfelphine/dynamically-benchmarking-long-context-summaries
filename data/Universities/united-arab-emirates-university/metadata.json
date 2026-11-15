@@ -1,0 +1,29 @@
+{
+  "id": 1658874,
+  "title": "United Arab Emirates University",
+  "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates_University",
+  "path": "Universities\\united-arab-emirates-university",
+  "summary": {
+    "chars": 355,
+    "tokens": 91
+  },
+  "document": {
+    "chars": 6112,
+    "tokens": 1275
+  },
+  "infobox": {
+    "title": "United Arab Emirates University",
+    "data": {
+      "Type": "Public research university",
+      "Established": "7 July 1976",
+      "Chancellor": "Zaki Nusseibeh",
+      "Vice-Chancellor": "Ahmed Ali Alraeesi",
+      "Provost": "Mohsen Sherif",
+      "Undergraduates": "18000",
+      "Postgraduates": "1800",
+      "Location": "Al Ain, United Arab Emirates \u00b7 24\u00b012\u20321\u2033N 55\u00b040\u203234\u2033E\ufeff / \ufeff24.20028\u00b0N 55.67611\u00b0E",
+      "Campus": "Midsize city, 296 acres (120 ha).",
+      "Website": "uaeu.ac.ae"
+    }
+  }
+}

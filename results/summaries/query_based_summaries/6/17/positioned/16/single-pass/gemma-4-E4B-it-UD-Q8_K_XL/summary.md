@@ -1,0 +1,5 @@
+## Lynn Conway
+
+Lynn Conway was an electronics technician in the early 1960s who joined IBM Research on the Advanced Computing Systems (ACS) project. While working there, she was involved in inventing multiple-issue out-of-order dynamic instruction scheduling, and the Computer History Museum noted the ACS architecture appeared to be the first "superscalar" design.
+
+After revealing her intention to transition in 1968, Conway was fired by IBM. Following her gender transition, she continued her career in stealth-mode, working as a digital system designer at Memorex. In 1973, she joined Xerox PARC, where she led the "LSI Systems" group and co-authored *Introduction to VLSI Systems* with Ivan Sutherland and Carver Mead. Her contributions included founding the multiproject wafers (MPW) technology and co-authoring a groundbreaking VLSI design methodology, which became foundational to chip design. She further developed dimensionless, scalable design rules and the Metal Oxide Semiconductor Implementation Service (MOSIS) system in 1981.

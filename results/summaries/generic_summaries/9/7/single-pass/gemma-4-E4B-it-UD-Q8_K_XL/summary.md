@@ -1,0 +1,72 @@
+# Global Education System Overviews
+
+## Saudi Arabia
+*   **Educational History and Goals:** Education in Saudi Arabia traces its roots to Islam, initially provided through mosque-connected 'Kuttabs.' The government established the first Department of Education in 1926, and the first university in 1957. The system aims to reduce illiteracy and educate students on social, economic, and Islamic norms, though it is heavily noted for its religious content.
+*   **System Structure and Reforms:** Education is free at all levels, overseen by the Ministry of Education and the TVTC. While the system faced criticism in the 1980s and 90s regarding teacher training and scientific instruction, recent reforms emphasize diverse fields alongside Islam. The 2030 Vision is driving changes to support gifted youth and innovation.
+*   **Levels of Education:** Primary education is compulsory for six years. Secondary education consists of three years, offering general and specialized tracks. Post-secondary education is offered by 24 government universities, with women comprising nearly two-thirds of graduates.
+*   **Women's Education & Gifted Education:** Girls' education progressed from private schools to state operation, with women now comprising 60% of university students. Gifted education, formalized since 1969, is heavily supported by Mawhiba, focusing on enrichment programs, while special education integrates students with less severe disabilities into regular schools.
+
+## Bangladesh
+*   **Structure and Curriculum:** The system spans pre-primary to tertiary levels. Students can study in English or Bengali, and the National Curriculum and Textbook Board (NCTB) manages textbooks. Education requires 12 years up to class 12.
+*   **Education Types:** The system includes national curriculum schools, international schools, and religiously affiliated Madrasahs (Qawmi and Alia).
+*   **System Operation:** Primary education is managed by the Ministry of Primary and Mass Education (MOPME). Tertiary education is regulated by the University Grants Commission, featuring public, private, and international universities.
+*   **Current Challenges:** Despite governmental efforts for universal access, the system faces challenges related to rote learning in universities and the need to enhance industry-oriented, critical thinking skills.
+
+## New Zealand
+*   **Historical Development:** Education evolved from traditional Māori knowledge transfer to formal European-style schooling in 1815. A free, compulsory, and secular national system was established in 1878, modeled partly on the Canterbury system.
+*   **Levels and Curriculum:** Primary and secondary schooling runs from age 5 to 18, with a 13-year structure. The curriculum adheres to either the New Zealand Curriculum (NZC) or Te Marautanga o Aotearoa (TMoA).
+*   **School Types and Funding:** There are state schools (government-funded), state-integrated schools (state-funded but retaining a special character), and private schools. Funding for state/integrated schools is per-student, though supplementary fees or "attendance dues" can be required.
+*   **Special Topics:** Māori language education has seen a revival, with Māori-medium schools achieving better academic outcomes than mainstream settings. The system faces criticism regarding high rates of school bullying.
+
+## Canada
+*   **Governance and Compulsion:** Education is primarily a provincial matter, leading to variations across the country. Compulsory education timelines vary by province, generally covering K-12.
+*   **Levels and Structure:** Programs range from early childhood education to tertiary education, which is offered by universities (research and undergraduate) and vocational institutions (community/career colleges).
+*   **Funding and Diversity:** Funding is provincial, with the federal government having limited roles. The Constitution protects rights for publicly funded religious-based and language-based separate schools.
+*   **Curriculum and Assessment:** While core subjects like math and science are emphasized, academic rigor is a topic of debate. Identity-based data collection is used in some boards to address achievement gaps among racialized students.
+
+## Mexico
+*   **Structure and Stages:** Basic education is divided into primary (grades 1–6, compulsory), junior high (grades 7–9, compulsory), and high school (grades 10–12, recently made compulsory).
+*   **Levels of Study:** Higher education follows a US model, requiring a 4-year Bachelor's degree (Licenciatura) and subsequent Master's (Maestría) and Doctoral degrees.
+*   **Integration and Challenges:** Formal integration of students with special needs into regular classrooms is mandated, supported by specialist services (USAER), but challenges remain concerning professional preparation and accessibility.
+*   **Historical Context:** Education history reflects a prolonged conflict between liberal secularism and the Catholic Church's influence.
+
+## Pakistan
+*   **System Structure:** Formal education follows a primary system (years 1–5/6) followed by middle school (years 6–8), and secondary education (years 9–12).
+*   **Quality and Funding:** Public expenditure is low relative to GDP (around 2%), contributing to poor infrastructure and outdated curricula, leading to a declining quality trend.
+*   **Challenges:** Profound gender disparity persists, with far lower female enrollment and literacy rates. The system is deeply intertwined with religious influence, with Madrassas serving as vital educational alternatives for poor families.
+*   **Literacy:** The national literacy rate is 60.65% (2023), showing significant regional disparities.
+
+## South Korea
+*   **Historical Evolution:** Education has historically been influenced by Confucian values, emphasizing meritocracy and intense preparation for competitive examinations. The system was shaped by Japanese occupation and post-war democratization.
+*   **Levels and Competition:** The system emphasizes fierce competition, leading to an "education fever." While vocational education exists, it suffers from a significant social stigma compared to university tracks.
+*   **Higher Education:** Higher education is highly prestigious, with university entrance heavily dependent on the College Scholastic Ability Test (CSAT).
+*   **Criticism:** The intense academic pressure leads to significant student stress, high suicide rates, and concerns that the focus on exams stifles critical thinking and holistic development.
+
+## Russia
+*   **System Structure:** Russian education is divided into general and professional tracks. General education includes preschool, primary (4 years), basic (5 years), and secondary (2 years).
+*   **Higher Education:** Traditionally, tertiary education was a single, long-cycle "Specialist" diploma, but Russia is moving toward the Bologna Process (Bachelor's/Master's).
+*   **Governance and Control:** The state maintains tight control, though the Unified State Examination (USE) was introduced to standardize admissions and curb bribery.
+*   **Special Topics:** There is a notable focus on "outreach activity" (scientific dissemination) and increasing government emphasis on "patriotic education" following geopolitical events.
+
+## Japan
+*   **Historical Trajectory:** Formal education began in the 6th century with Chinese influence. The Meiji Restoration adopted Western models, establishing compulsory education.
+*   **Structure and Levels:** The system comprises six years of compulsory primary, three years of lower secondary (junior high), and three years of upper secondary (high school).
+*   **Competition and Culture:** Japanese education is characterized by immense pressure, driven by high-stakes university entrance exams. This leads to pervasive "shadow education" (juku), which is a vital part of the economy.
+*   **Challenges:** Criticisms include the immense psychological strain on students, leading to suicide and academic burnout, and a tendency to neglect fostering independent critical thinkers.
+
+## Poland
+*   **Structural Reforms:** The system underwent major changes, notably the abolition of the 3-year *gimnazjum* and the extension of primary schooling to eight years starting in 2017.
+*   **Levels:** Upper secondary education leads to the *Matura* qualification, granting access to university. Vocational paths are offered through technical schools (*technikum*).
+*   **Tertiary Education:** Poland adheres to the Bologna scheme (3-year Bachelor's followed by a 2-year Master's).
+*   **Other Aspects:** The system mandates two foreign languages in lower secondary school. Violence in schools has prompted "zero tolerance" reforms.
+
+## Netherlands
+*   **Structure and Compulsion:** Compulsory education starts at age five, with partial compulsion until age 16. The system is characterized by its differentiation around age 12.
+*   **Levels and Pathways:** Students choose between VMBO (pre-vocational), HAVO (higher general), and VWO (preparatory scientific) streams. Higher education is tiered: MBO (applied), HBO (applied sciences), and WO (research universities).
+*   **Assessment and Criticism:** Annual assessment, often via the Cito test, guides stream selection. Critics note that the early stratification system can lead to gifted students being mistakenly placed in lower tracks and a general decline in international academic rankings.
+
+## Comparative Summary of Key Trends
+*   **Emphasis on Tradition vs. Modernity:** Many nations (Saudi Arabia, Pakistan, Japan, South Korea) maintain strong influence from religious or traditional cultural values, which often clash with the need for modern, globally marketable skills.
+*   **Competition vs. Equity:** Systems like South Korea and Japan are defined by extreme academic competition, while others (Saudi Arabia, Pakistan) struggle with systemic inequity related to poverty and gender.
+*   **Curriculum Control:** Control ranges from highly centralized (Russia, Bangladesh) to decentralized provincial governance (Canada, New Zealand).
+*   **Global Alignment:** Many nations (Poland, Netherlands, Russia) are actively adopting the Bologna Process to align with Western European tertiary education standards.

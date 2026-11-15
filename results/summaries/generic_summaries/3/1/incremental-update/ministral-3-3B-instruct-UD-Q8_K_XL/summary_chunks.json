@@ -1,0 +1,65 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence & Transhumanism\n## Machine Ethics & Deceptive AI Behaviors\nResearch into **Artificial Moral Agents (AMAs)** and frameworks like the **Ethical Turing Test** highlights persistent ethical challenges, driven by biased training environments and reward-driven outputs. Harmful AI behaviors\u2014such as language model misconduct and AI-generated deception\u2014require robust governance. **John L. Pollock\u2019s defeasible reasoning** framework aids AI in navigating ambiguity, reinforcing efforts to refine ethical decision-making.",
+        "text_original": "Research into **Artificial Moral Agents (AMAs)** and frameworks like the **Ethical Turing Test** highlights persistent ethical challenges, driven by biased training environments and reward-driven outputs. Harmful AI behaviors\u2014such as language model misconduct and AI-generated deception\u2014require robust governance. **John L. Pollock\u2019s defeasible reasoning** framework aids AI in navigating ambiguity, reinforcing efforts to refine ethical decision-making",
+        "idx_start": 108,
+        "idx_end": 561
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence & Transhumanism\n## Deepfake Technology: Risks, Detection, and Societal Impact\nDeepfakes exploit AI\u2019s realism, enabling disinformation, exploitation, and non-consensual content. Their misuse in elections and smear campaigns underscores **detection gaps** , with legal frameworks like the **EU AI Act** classifying them as *\"high-risk\"* if used maliciously. **GDPR\u2019s principles** (transparency, accountability) apply, necessitating **proactive governance** . Detection tools remain unevenly enforced, while **U.S. state-level regulations** (e.g., Tennessee\u2019s ELVIS Act) balance innovation with liability.",
+        "text_original": "Deepfakes exploit AI\u2019s realism, enabling disinformation, exploitation, and non-consensual content. Their misuse in elections and smear campaigns underscores **detection gaps**, with legal frameworks like the **EU AI Act** classifying them as *\"high-risk\"* if used maliciously. **GDPR\u2019s principles** (transparency, accountability) apply, necessitating **proactive governance**. Detection tools remain unevenly enforced, while **U.S. state-level regulations** (e.g., Tennessee\u2019s ELVIS Act) balance innovation with liability",
+        "idx_start": 632,
+        "idx_end": 1153
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence & Transhumanism\n## Regulatory Evolution:\n- **EU:** The **AI Act** adopts a **risk-based approach** , while **GDPR** enforces strict data protection. Recent fines (e.g., **Meta\u2019s \u20ac1.2B** ) highlight enforcement challenges.\n- **U.S.:** The **2023 Executive Order** mandated consumer protection compliance for AI, requiring watermarks and stress-testing high-risk models. **State-level laws** (e.g., **New York\u2019s Bias Audit Law** , **Tennessee\u2019s ELVIS Act** ) regulate AI and deepfakes, while **federal deregulatory shifts** under the Trump Administration prioritize innovation.\n- **China:** Uses a **risk-based enforcement approach** , mandating clear labeling and penalties for non-compliance.",
+        "text_original": "EU:** The **AI Act** adopts a **risk-based approach**, while **GDPR** enforces strict data protection. Recent fines (e.g., **Meta\u2019s \u20ac1.2B**) highlight enforcement challenges.\n- **U.S.:** The **2023 Executive Order** mandated consumer protection compliance for AI, requiring watermarks and stress-testing high-risk models. **State-level laws** (e.g., **New York\u2019s Bias Audit Law**, **Tennessee\u2019s ELVIS Act**) regulate AI and deepfakes, while **federal deregulatory shifts** under the Trump Administration prioritize innovation.\n- **China:** Uses a **risk-based enforcement approach**, mandating clear labeling and penalties for non-compliance",
+        "idx_start": 1241,
+        "idx_end": 1882
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence & Transhumanism\n## The Intelligence Explosion & Technological Singularity\nThe **intelligence explosion** concept, rooted in **18th-century philosophy** , gained traction through contributions from **Vinge, Solomonoff, and Moravec** , who defined it as rapid, self-improving AI surpassing human intelligence. **Ray Kurzweil** and **Eliezer Yudkowsky** refined it, emphasizing unpredictability. Historical precedents include **von Neumann, I. J. Good, and Turing** , while **Deep Blue\u2019s 1997 victory** demonstrated AI capability without triggering a singularity. Discussions around **exponential tech\u2019s societal impact** persist, with debates spanning **timelines (2020s\u20132100+)** and **methods** (AGI vs. human augmentation).",
+        "text_original": "The **intelligence explosion** concept, rooted in **18th-century philosophy**, gained traction through contributions from **Vinge, Solomonoff, and Moravec**, who defined it as rapid, self-improving AI surpassing human intelligence. **Ray Kurzweil** and **Eliezer Yudkowsky** refined it, emphasizing unpredictability. Historical precedents include **von Neumann, I. J. Good, and Turing**, while **Deep Blue\u2019s 1997 victory** demonstrated AI capability without triggering a singularity. Discussions around **exponential tech\u2019s societal impact** persist, with debates spanning **timelines (2020s\u20132100+)** and **methods** (AGI vs. human augmentation",
+        "idx_start": 1949,
+        "idx_end": 2593
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence & Transhumanism\n## Self-Sufficient AI & Takeoff Scenarios\nThe **AAAI (2009)** framework distinguishes between **hard takeoff** (rapid, uncontrollable growth) and **soft takeoff** (gradual human oversight). Critics like **Ramez Naam** argue AI self-improvement follows a **Moore\u2019s Law-like trajectory** , while **Max More** advocates for **slower human collaboration** to moderate impact. Skeptics propose **semihard takeoffs (5 years)** are plausible, though **corporate recursive self-improvement** may not trigger abrupt collapse.",
+        "text_original": "The **AAAI (2009)** framework distinguishes between **hard takeoff** (rapid, uncontrollable growth) and **soft takeoff** (gradual human oversight). Critics like **Ramez Naam** argue AI self-improvement follows a **Moore\u2019s Law-like trajectory**, while **Max More** advocates for **slower human collaboration** to moderate impact. Skeptics propose **semihard takeoffs (5 years)** are plausible, though **corporate recursive self-improvement** may not trigger abrupt collapse",
+        "idx_start": 2645,
+        "idx_end": 3117
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence & Transhumanism\n## Technological Singularity: Economic & Political Implications\nThe **singularity** \u2014whether AI-driven or evolutionary\u2014poses **existential risks** , including **job displacement** due to automation and AI. Economic instability from **AI-driven job displacement** and **socioeconomic shifts** demands proactive policy responses. **Historical precedents** (e.g., **Industrial Revolution** ) highlight the need for **adaptive governance frameworks** to mitigate disruption, aligning with **EU AI Act\u2019s risk-based oversight** and **U.S. state-level regulations** .",
+        "text_original": "The **singularity**\u2014whether AI-driven or evolutionary\u2014poses **existential risks**, including **job displacement** due to automation and AI. Economic instability from **AI-driven job displacement** and **socioeconomic shifts** demands proactive policy responses. **Historical precedents** (e.g., **Industrial Revolution**) highlight the need for **adaptive governance frameworks** to mitigate disruption, aligning with **EU AI Act\u2019s risk-based oversight** and **U.S. state-level regulations",
+        "idx_start": 3190,
+        "idx_end": 3679
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence & Transhumanism\n## Existential Risks & Mitigation\nKey existential risks include:\n- **AI Misalignment:** Unintended goals (e.g., resource depletion) threatening human interests.\n- **Societal Collapse:** Economic instability from job displacement and automation.\n- **Hardware vs. Software Limits:** Software innovations may accelerate risks more than hardware due to less constrained research.",
+        "text_original": "Key existential risks include:\n- **AI Misalignment:** Unintended goals (e.g., resource depletion) threatening human interests.\n- **Societal Collapse:** Economic instability from job displacement and automation.\n- **Hardware vs. Software Limits:** Software innovations may accelerate risks more than hardware due to less constrained research",
+        "idx_start": 3724,
+        "idx_end": 4064
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence & Transhumanism\n## Relation to Immortality, Digital Ascension, and Nanotechnology\nTheorized via **Feynman (1959) and Moravec (1988)** , **nanotechnology** and **mind uploading** could enable **quasi-immortality** through body repair or accelerated time perception. **Digital Ascension** intersects with **EU AI Act\u2019s risk-based governance** and **U.S. state-level regulations** , reflecting broader debates on **digital-biological fusion** .",
+        "text_original": "Theorized via **Feynman (1959) and Moravec (1988)**, **nanotechnology** and **mind uploading** could enable **quasi-immortality** through body repair or accelerated time perception. **Digital Ascension** intersects with **EU AI Act\u2019s risk-based governance** and **U.S. state-level regulations**, reflecting broader debates on **digital-biological fusion",
+        "idx_start": 4139,
+        "idx_end": 4492
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics of Artificial Intelligence & Transhumanism\n## Risk Mitigation & Ethical Frameworks\nProactive governance is critical:\n- **EU AI Act\u2019s risk-based oversight** and **U.S. state-level regulations** balance innovation with safeguards.\n- **AI alignment research** (e.g., Future of Humanity Institute) seeks to align goals with human values, though preparation remains inadequate.\n- **GDPR\u2019s principles** (transparency, accountability) counter disinformation, reinforcing **sociobiological safeguards** . Historical debates underscore the need for structured discussions on **exponential tech\u2019s societal impact** . Economic policies must address **automation-driven job displacement** , ensuring equitable transitions.",
+        "text_original": "Proactive governance is critical:\n- **EU AI Act\u2019s risk-based oversight** and **U.S. state-level regulations** balance innovation with safeguards.\n- **AI alignment research** (e.g., Future of Humanity Institute) seeks to align goals with human values, though preparation remains inadequate.\n- **GDPR\u2019s principles** (transparency, accountability) counter disinformation, reinforcing **sociobiological safeguards**. Historical debates underscore the need for structured discussions on **exponential tech\u2019s societal impact**. Economic policies must address **automation-driven job displacement**, ensuring equitable transitions",
+        "idx_start": 4543,
+        "idx_end": 5166
+    }
+]

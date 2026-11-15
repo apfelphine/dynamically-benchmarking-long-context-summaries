@@ -1,0 +1,29 @@
+{
+  "id": 287300,
+  "title": "Allen Newell",
+  "url": "https://en.wikipedia.org/wiki/Allen_Newell",
+  "path": "Comp-Sci-Pioneers\\allen-newell",
+  "summary": {
+    "chars": 611,
+    "tokens": 132
+  },
+  "document": {
+    "chars": 5923,
+    "tokens": 1213
+  },
+  "infobox": {
+    "title": "Allen Newell",
+    "data": {
+      "Born": "March 19, 1927 \u00b7 San Francisco, California",
+      "Died": "July 19, 1992 (aged 65) \u00b7 Pittsburgh, Pennsylvania",
+      "Education": "Stanford University (BS) \u00b7 Princeton University \u00b7 Carnegie Mellon University (MS, PhD)",
+      "Known for": "Information Processing Language \u00b7 Logic Theorist \u00b7 General Problem Solver \u00b7 Soar \u00b7 Unified Theories of Cognition",
+      "Spouse": "Noel McKenna \u200b(m. 1947)\u200b",
+      "Awards": "A.M. Turing Award (1975) \u00b7 IJCAI Award for Research Excellence (1989) \u00b7 IEEE Emanuel R. Piore Award (1990) \u00b7 National Medal of Science (1992) \u00b7 Louis E. Levy Medal (1992)",
+      "Fields": "Computer science \u00b7 Cognitive psychology",
+      "Institutions": "Carnegie Mellon University",
+      "Doctoral advisor": "Herbert A. Simon",
+      "Doctoral students": "Hans Berliner \u00b7 Stuart Card \u00b7 John E. Laird \u00b7 Frank Ritter \u00b7 Milind Tambe"
+    }
+  }
+}

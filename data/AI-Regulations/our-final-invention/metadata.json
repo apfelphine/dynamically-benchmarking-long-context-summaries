@@ -1,0 +1,27 @@
+{
+  "id": 40930229,
+  "title": "Our Final Invention",
+  "url": "https://en.wikipedia.org/wiki/Our_Final_Invention",
+  "path": "AI-Regulations\\our-final-invention",
+  "summary": {
+    "chars": 327,
+    "tokens": 66
+  },
+  "document": {
+    "chars": 1880,
+    "tokens": 385
+  },
+  "infobox": {
+    "title": "Our Final Invention: Artificial Intelligence and the End of the Human Era",
+    "data": {
+      "Author": "James Barrat",
+      "Language": "English",
+      "Publisher": "Thomas Dunne Books",
+      "Publication date": "October 1, 2013",
+      "Publication place": "United States",
+      "Media type": "Print (hardback)",
+      "Pages": "336",
+      "ISBN": "978-0-312-62237-4"
+    }
+  }
+}

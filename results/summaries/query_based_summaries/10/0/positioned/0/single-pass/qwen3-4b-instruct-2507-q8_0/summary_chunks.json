@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\nSweden's education system is structured into several levels, from preschool through higher education, with a strong emphasis on equity, inclusivity, and comprehensive curricula.",
+        "text_original": "Sweden's education system is structured into several levels, from preschool through higher education, with a strong emphasis on equity, inclusivity, and comprehensive curricula",
+        "idx_start": 25,
+        "idx_end": 201
+    },
+    {
+        "document_idx": null,
+        "text": "# Preschool and Primary Education\nPreschool (F\u00f6rskoleklass) is available for children aged 6\u20137, offering free access to all children, with fees based on income for those under 3. The compulsory primary education (Grundskola) spans grades 1\u20139 and includes core subjects such as Swedish, mathematics, physical education, English, and religious education. The curriculum is standardized, with a focus on foundational skills, and students receive an Individual Development Plan (IUP) from grades 1\u20136, which tracks progress and sets goals for improvement.",
+        "text_original": "Preschool (F\u00f6rskoleklass) is available for children aged 6\u20137, offering free access to all children, with fees based on income for those under 3. The compulsory primary education (Grundskola) spans grades 1\u20139 and includes core subjects such as Swedish, mathematics, physical education, English, and religious education. The curriculum is standardized, with a focus on foundational skills, and students receive an Individual Development Plan (IUP) from grades 1\u20136, which tracks progress and sets goals for improvement",
+        "idx_start": 243,
+        "idx_end": 758
+    },
+    {
+        "document_idx": null,
+        "text": "# Secondary Education\nUpper secondary education (Gymnasium) is elective and lasts three years, with 99% enrollment. Students choose from 18 national programs, including preparatory and vocational tracks. The preparatory programs prepare students for university, while vocational programs offer practical training. Students must pass 8\u201312 subjects to qualify, with core subjects in mathematics, Swedish, and English. A diploma project is required in all programs, focusing on research and reflection, though it is not included in the student's academic score.",
+        "text_original": "Upper secondary education (Gymnasium) is elective and lasts three years, with 99% enrollment. Students choose from 18 national programs, including preparatory and vocational tracks. The preparatory programs prepare students for university, while vocational programs offer practical training. Students must pass 8\u201312 subjects to qualify, with core subjects in mathematics, Swedish, and English. A diploma project is required in all programs, focusing on research and reflection, though it is not included in the student's academic score",
+        "idx_start": 787,
+        "idx_end": 1322
+    },
+    {
+        "document_idx": null,
+        "text": "# Higher Education\nHigher education is organized under the Bologna Process, with degrees divided into three cycles: bachelor's, master's, and doctoral. Public universities and university colleges offer academic programs, while vocational education exists separately. Entry to higher education requires a national exam (SweSAT) or equivalent, and students must demonstrate proficiency in Swedish and English. Financial aid is available through the National Board of Student Aid (CSN), with tuition free for Swedish, EU/EEA, and Swiss citizens.\n**Key Features**\n- **Inclusivity** : Preschool is free and accessible to all, with support for immigrant and special needs children.\n- **Grading** : A letter-based system (A\u2013F) is used in compulsory and upper secondary education, with a focus on development and improvement.\n- **National Tests** : Standardized assessments are administered in grades 3, 6, and 9 to ensure equitable evaluation.\n- **Anti-Discrimination** : All institutions must have anti-discrimination policies and guidelines, with oversight from the equality ombudsman.\n- **Schools** : A mix of public and private schools exists, with independent schools (friskolor) receiving public funding and offering diverse pedagogical approaches.\nThe system emphasizes student well-being, active learning, and social development, with ongoing reforms to improve access, equity, and quality.",
+        "text_original": "Higher education is organized under the Bologna Process, with degrees divided into three cycles: bachelor's, master's, and doctoral. Public universities and university colleges offer academic programs, while vocational education exists separately. Entry to higher education requires a national exam (SweSAT) or equivalent, and students must demonstrate proficiency in Swedish and English. Financial aid is available through the National Board of Student Aid (CSN), with tuition free for Swedish, EU/EEA, and Swiss citizens.\n\n**Key Features**  \n- **Inclusivity**: Preschool is free and accessible to all, with support for immigrant and special needs children.  \n- **Grading**: A letter-based system (A\u2013F) is used in compulsory and upper secondary education, with a focus on development and improvement.  \n- **National Tests**: Standardized assessments are administered in grades 3, 6, and 9 to ensure equitable evaluation.  \n- **Anti-Discrimination**: All institutions must have anti-discrimination policies and guidelines, with oversight from the equality ombudsman.  \n- **Schools**: A mix of public and private schools exists, with independent schools (friskolor) receiving public funding and offering diverse pedagogical approaches.  \n\nThe system emphasizes student well-being, active learning, and social development, with ongoing reforms to improve access, equity, and quality",
+        "idx_start": 1348,
+        "idx_end": 2728
+    }
+]

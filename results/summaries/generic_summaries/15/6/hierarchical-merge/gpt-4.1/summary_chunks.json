@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## National University of Singapore (NUS)\nEstablished in 1905, NUS is Singapore's top global university, ranked among the world's best. It offers a modular, interdisciplinary curriculum and excels in research, notably in biomedical sciences and engineering, while fostering entrepreneurship and innovation. NUS maintains a distinguished alumni network\u2014including national leaders\u2014and is nearing its 120th anniversary, which highlights its legacy of academic excellence.",
+        "text_original": "Established in 1905, NUS is Singapore's top global university, ranked among the world's best. It offers a modular, interdisciplinary curriculum and excels in research, notably in biomedical sciences and engineering, while fostering entrepreneurship and innovation. NUS maintains a distinguished alumni network\u2014including national leaders\u2014and is nearing its 120th anniversary, which highlights its legacy of academic excellence",
+        "idx_start": 75,
+        "idx_end": 500
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## University of Hong Kong (HKU)\nFounded in 1911, HKU is Asia\u2019s leading university, globally ranked in the top 15, bridging British and Chinese educational traditions. Known for its international outlook, diverse and inclusive student body, and academic freedom, HKU instructs primarily in English and is recognized for landmark research and influential alumni across politics and science.",
+        "text_original": "Founded in 1911, HKU is Asia\u2019s leading university, globally ranked in the top 15, bridging British and Chinese educational traditions. Known for its international outlook, diverse and inclusive student body, and academic freedom, HKU instructs primarily in English and is recognized for landmark research and influential alumni across politics and science",
+        "idx_start": 537,
+        "idx_end": 892
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## Cornell University\nCornell is a preeminent U.S. research university, powered by a $10.7 billion endowment and a global alumni network including 62 Nobel laureates. It upholds academic excellence across disciplines, comprehensive student support, robust financial aid, and international presence, with stable leadership under interim president Michael Kotlikoff.",
+        "text_original": "Cornell is a preeminent U.S. research university, powered by a $10.7 billion endowment and a global alumni network including 62 Nobel laureates. It upholds academic excellence across disciplines, comprehensive student support, robust financial aid, and international presence, with stable leadership under interim president Michael Kotlikoff",
+        "idx_start": 918,
+        "idx_end": 1259
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## University of New South Wales (UNSW)\nUNSW, founded in 1949 in Sydney, is highly regarded for research in engineering, medicine, and sciences, notable alumni, and vibrant student life. Recent years have brought challenges\u2014campus safety incidents, privacy breaches, media pressure, research misconduct scrutiny, and substantial remediation for staff underpayments\u2014yet its innovative projects and global collaborations continue to set industry standards.",
+        "text_original": "UNSW, founded in 1949 in Sydney, is highly regarded for research in engineering, medicine, and sciences, notable alumni, and vibrant student life. Recent years have brought challenges\u2014campus safety incidents, privacy breaches, media pressure, research misconduct scrutiny, and substantial remediation for staff underpayments\u2014yet its innovative projects and global collaborations continue to set industry standards",
+        "idx_start": 1303,
+        "idx_end": 1716
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## Federal University of Rio de Janeiro (UFRJ)\nUFRJ, established in 1920, is a leading Brazilian university renowned for competitive admissions, affirmative action, and student activism. Its diverse infrastructure, including research centers and museums, supports pioneering technological and renewable energy innovations, strengthening its vital role in Brazil\u2019s academic and industrial advancement.",
+        "text_original": "UFRJ, established in 1920, is a leading Brazilian university renowned for competitive admissions, affirmative action, and student activism. Its diverse infrastructure, including research centers and museums, supports pioneering technological and renewable energy innovations, strengthening its vital role in Brazil\u2019s academic and industrial advancement",
+        "idx_start": 1767,
+        "idx_end": 2119
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## National Autonomous University of Mexico (UNAM)\nUNAM is Latin America's largest and most influential university, central to Mexico\u2019s educational and political life. Renowned for its autonomy and vibrant student movements, its UNESCO-listed campus and distinguished alumni\u2014including Nobel winners\u2014underscore its commitment to inclusivity, gender equality, and social impact.",
+        "text_original": "UNAM is Latin America's largest and most influential university, central to Mexico\u2019s educational and political life. Renowned for its autonomy and vibrant student movements, its UNESCO-listed campus and distinguished alumni\u2014including Nobel winners\u2014underscore its commitment to inclusivity, gender equality, and social impact",
+        "idx_start": 2174,
+        "idx_end": 2498
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## University of Toronto\nA top Canadian institution, the University of Toronto is recognized for its academic prestige, groundbreaking research (notably insulin discovery), and decentralized collegiate system. Producing Nobel laureates and national leaders, it fosters cultural richness and strong student support, remaining influential both nationally and globally.",
+        "text_original": "A top Canadian institution, the University of Toronto is recognized for its academic prestige, groundbreaking research (notably insulin discovery), and decentralized collegiate system. Producing Nobel laureates and national leaders, it fosters cultural richness and strong student support, remaining influential both nationally and globally",
+        "idx_start": 2527,
+        "idx_end": 2867
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## University of Melbourne\nFounded in 1853, the University of Melbourne is Australia\u2019s leading university, shaped by the innovative Melbourne Model and strong graduate-entry programs. With major investments in infrastructure, active student organizations, and notable reforms in response to COVID-19, Melbourne combines rich history\u2014reflected by Nobel laureate alumni\u2014with ongoing commitment to workplace culture and student engagement. Leadership now features Chancellor Jane Hansen and incoming Vice-Chancellor Emma Johnston.",
+        "text_original": "Founded in 1853, the University of Melbourne is Australia\u2019s leading university, shaped by the innovative Melbourne Model and strong graduate-entry programs. With major investments in infrastructure, active student organizations, and notable reforms in response to COVID-19, Melbourne combines rich history\u2014reflected by Nobel laureate alumni\u2014with ongoing commitment to workplace culture and student engagement. Leadership now features Chancellor Jane Hansen and incoming Vice-Chancellor Emma Johnston",
+        "idx_start": 2898,
+        "idx_end": 3397
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## University of Oxford\nDating back to 1096, Oxford stands as an icon of academic excellence, with a unique collegiate system and vast resources including historic libraries and museums. It has competitive admissions increasingly favoring diversity, and is supported by the world\u2019s largest university press. Oxford\u2019s alumni include numerous Nobel laureates and global leaders, exemplifying its enduring influence.",
+        "text_original": "Dating back to 1096, Oxford stands as an icon of academic excellence, with a unique collegiate system and vast resources including historic libraries and museums. It has competitive admissions increasingly favoring diversity, and is supported by the world\u2019s largest university press. Oxford\u2019s alumni include numerous Nobel laureates and global leaders, exemplifying its enduring influence",
+        "idx_start": 3425,
+        "idx_end": 3813
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## University of British Columbia (UBC)\nFounded in 1908, UBC is a globally ranked Canadian research university with major campuses deeply engaged with local Indigenous communities. UBC offers diverse academic programs, strong international ties, and robust student life including major events and sustainability initiatives. With Canada's second-largest library system and accomplished alumni, UBC plays a prominent role nationally and internationally.",
+        "text_original": "Founded in 1908, UBC is a globally ranked Canadian research university with major campuses deeply engaged with local Indigenous communities. UBC offers diverse academic programs, strong international ties, and robust student life including major events and sustainability initiatives. With Canada's second-largest library system and accomplished alumni, UBC plays a prominent role nationally and internationally",
+        "idx_start": 3857,
+        "idx_end": 4268
+    }
+]

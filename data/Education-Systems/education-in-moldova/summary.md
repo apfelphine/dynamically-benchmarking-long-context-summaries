@@ -1,0 +1,1 @@
+Education in Moldova is currently the responsibility of the Ministry of Education, Culture and Research.

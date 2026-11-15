@@ -1,0 +1,240 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Early Life and Education\nRichard Stallman, born **March 16, 1953** , in New York City, grew up in a troubled household with Jewish heritage. His early fascination with computers began at a young age, influenced by his father, an engineer, and his exposure to IBM systems. He attended Columbia University\u2019s Saturday program and later studied at Harvard, where he excelled in mathematics. Stallman left Harvard to pursue graduate studies in physics at MIT, but his focus shifted to programming and computer science.",
+        "text_original": "Richard Stallman, born **March 16, 1953**, in New York City, grew up in a troubled household with Jewish heritage. His early fascination with computers began at a young age, influenced by his father, an engineer, and his exposure to IBM systems. He attended Columbia University\u2019s Saturday program and later studied at Harvard, where he excelled in mathematics. Stallman left Harvard to pursue graduate studies in physics at MIT, but his focus shifted to programming and computer science",
+        "idx_start": 58,
+        "idx_end": 544
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## MIT and the Hacker Culture\nAt MIT, Stallman became a central figure in the hacker community, known by his initials, **RMS** . He worked on projects like **TECO** and **Emacs** , and became a vocal critic of restricted computer access, particularly in the AI Lab\u2019s funding by DARPA. His 1977 paper on **dependency-directed backtracking** laid foundational work in artificial intelligence.",
+        "text_original": "At MIT, Stallman became a central figure in the hacker community, known by his initials, **RMS**. He worked on projects like **TECO** and **Emacs**, and became a vocal critic of restricted computer access, particularly in the AI Lab\u2019s funding by DARPA. His 1977 paper on **dependency-directed backtracking** laid foundational work in artificial intelligence",
+        "idx_start": 582,
+        "idx_end": 939
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## GNU Project and Free Software Movement\nIn **1983** , Stallman announced the **GNU Project** , aiming to create a free, Unix-compatible operating system. He founded the **Free Software Foundation (FSF)** in 1985 to promote free software, advocating for **copyleft** \u2014a legal mechanism to protect software freedom. His **GNU Manifesto (1985)** and **GNU General Public License (GPL, 1989)** became cornerstones of the open-source movement.",
+        "text_original": "In **1983**, Stallman announced the **GNU Project**, aiming to create a free, Unix-compatible operating system. He founded the **Free Software Foundation (FSF)** in 1985 to promote free software, advocating for **copyleft**\u2014a legal mechanism to protect software freedom. His **GNU Manifesto (1985)** and **GNU General Public License (GPL, 1989)** became cornerstones of the open-source movement",
+        "idx_start": 989,
+        "idx_end": 1383
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Key Contributions\nStallman developed foundational tools like **GNU Emacs** , **GCC** , and **GNU Make** , though the **GNU Hurd** kernel remained unfinished. His influence extended to **POSIX** and the **Emacs editor war** , shaping modern computing culture. He also championed **surveillance resistance** , advocating for privacy and free software in digital spaces.",
+        "text_original": "Stallman developed foundational tools like **GNU Emacs**, **GCC**, and **GNU Make**, though the **GNU Hurd** kernel remained unfinished. His influence extended to **POSIX** and the **Emacs editor war**, shaping modern computing culture. He also championed **surveillance resistance**, advocating for privacy and free software in digital spaces",
+        "idx_start": 1412,
+        "idx_end": 1755
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Activism and Controversies\nStallman was a vocal advocate for **free software** , opposing proprietary software and digital rights management (DRM). His **copyright reduction** proposals included advocating for a **10-year copyright limit** and a **tax-based system** for supporting authors. However, his **2019 resignation** from MIT and FSF due to controversies over his past writings (including skepticism toward child pornography laws) sparked backlash.",
+        "text_original": "Stallman was a vocal advocate for **free software**, opposing proprietary software and digital rights management (DRM). His **copyright reduction** proposals included advocating for a **10-year copyright limit** and a **tax-based system** for supporting authors. However, his **2019 resignation** from MIT and FSF due to controversies over his past writings (including skepticism toward child pornography laws) sparked backlash",
+        "idx_start": 1793,
+        "idx_end": 2220
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Legacy\nStallman remains a defining figure in the **free software movement** , influencing computing ethics, open-source philosophy, and digital rights. His work continues to inspire advocacy for **software freedom, privacy, and technological autonomy** .",
+        "text_original": "Stallman remains a defining figure in the **free software movement**, influencing computing ethics, open-source philosophy, and digital rights. His work continues to inspire advocacy for **software freedom, privacy, and technological autonomy",
+        "idx_start": 2238,
+        "idx_end": 2480
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Early Life and Education\nAlfred North Whitehead (1861\u20131947) was born in Ramsgate, England, into a family of educators. His father, a clergyman, and his grandfather, a schoolmaster, shaped his intellectual curiosity. Whitehead attended **Sherborne School** , excelling in mathematics and sports, before studying at **Trinity College, Cambridge** , where he earned a B.A. in mathematics.",
+        "text_original": "Alfred North Whitehead (1861\u20131947) was born in Ramsgate, England, into a family of educators. His father, a clergyman, and his grandfather, a schoolmaster, shaped his intellectual curiosity. Whitehead attended **Sherborne School**, excelling in mathematics and sports, before studying at **Trinity College, Cambridge**, where he earned a B.A. in mathematics",
+        "idx_start": 2554,
+        "idx_end": 2911
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Career and Philosophical Contributions\nWhitehead\u2019s academic career included teaching at Cambridge and collaborating with **Bertrand Russell** on *Principia Mathematica* (1910\u20131913), a landmark in mathematical logic. His work on **universal algebra** and **process philosophy** challenged classical materialism, advocating for an **event-based ontology** where reality is composed of dynamic processes rather than static entities.",
+        "text_original": "Whitehead\u2019s academic career included teaching at Cambridge and collaborating with **Bertrand Russell** on *Principia Mathematica* (1910\u20131913), a landmark in mathematical logic. His work on **universal algebra** and **process philosophy** challenged classical materialism, advocating for an **event-based ontology** where reality is composed of dynamic processes rather than static entities",
+        "idx_start": 2961,
+        "idx_end": 3350
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Education and Philosophy\nWhitehead\u2019s philosophy of **process** emphasized **creativity, relations, and experience** over rigid essences. His book *Process and Reality* (1929) introduced **process philosophy** , influencing fields like **evolutionary biology, ecology, and education** . He argued that **matter is an abstraction** and that **reality is relational** , with **God** as the ultimate source of order and novelty.",
+        "text_original": "Whitehead\u2019s philosophy of **process** emphasized **creativity, relations, and experience** over rigid essences. His book *Process and Reality* (1929) introduced **process philosophy**, influencing fields like **evolutionary biology, ecology, and education**. He argued that **matter is an abstraction** and that **reality is relational**, with **God** as the ultimate source of order and novelty",
+        "idx_start": 3386,
+        "idx_end": 3781
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Legacy and Influence\nWhitehead\u2019s ideas shaped **process theology** , **ecological thought** , and **education reform** . His work on **morphogenesis** (pattern formation in biological systems) remains influential in **biology and physics** . Though his philosophy was initially misunderstood, it has inspired thinkers across disciplines, including **ecologists, educators, and theologians** .",
+        "text_original": "Whitehead\u2019s ideas shaped **process theology**, **ecological thought**, and **education reform**. His work on **morphogenesis** (pattern formation in biological systems) remains influential in **biology and physics**. Though his philosophy was initially misunderstood, it has inspired thinkers across disciplines, including **ecologists, educators, and theologians",
+        "idx_start": 3813,
+        "idx_end": 4176
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Early Life and Scientific Contributions\nBlaise Pascal (1623\u20131662) was born in Clermont-Ferrand, France, and lost his mother at age three. His father, an amateur mathematician, encouraged his early interest in science. Pascal\u2019s **Pascaline** (1642), the first mechanical calculator, revolutionized computation, though it was commercially unsuccessful.",
+        "text_original": "Blaise Pascal (1623\u20131662) was born in Clermont-Ferrand, France, and lost his mother at age three. His father, an amateur mathematician, encouraged his early interest in science. Pascal\u2019s **Pascaline** (1642), the first mechanical calculator, revolutionized computation, though it was commercially unsuccessful",
+        "idx_start": 4256,
+        "idx_end": 4565
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Mathematics and Probability\nPascal\u2019s work in **probability theory** (1954) with **Pierre de Fermat** laid the foundation for modern statistics. His **Pascal\u2019s Triangle** (1654) and **Pascal\u2019s Wager** (1663) explored the philosophical implications of belief in God. His **treatise on conic sections** (1639) and **hydrostatics** (1647) advanced physics.",
+        "text_original": "Pascal\u2019s work in **probability theory** (1954) with **Pierre de Fermat** laid the foundation for modern statistics. His **Pascal\u2019s Triangle** (1654) and **Pascal\u2019s Wager** (1663) explored the philosophical implications of belief in God. His **treatise on conic sections** (1639) and **hydrostatics** (1647) advanced physics",
+        "idx_start": 4604,
+        "idx_end": 4927
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Religion and Legacy\nPascal\u2019s **Provincial Letters** (1656\u20131657) critiqued moral laxity and religious hypocrisy, earning him a posthumous reputation as a **philosopher of faith** . His **Pens\u00e9es** (posthumous, 1670) remain a masterpiece of French prose, blending **mathematics, religion, and existential thought** .",
+        "text_original": "Pascal\u2019s **Provincial Letters** (1656\u20131657) critiqued moral laxity and religious hypocrisy, earning him a posthumous reputation as a **philosopher of faith**. His **Pens\u00e9es** (posthumous, 1670) remain a masterpiece of French prose, blending **mathematics, religion, and existential thought",
+        "idx_start": 4958,
+        "idx_end": 5247
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Innovations and Death\nPascal\u2019s **public transportation system** (1669) and **barometric experiments** (1648) demonstrated his ingenuity. He died in 1662, leaving behind a legacy as a **genius of mathematics, physics, and philosophy** , whose ideas continue to influence science and religion.",
+        "text_original": "Pascal\u2019s **public transportation system** (1669) and **barometric experiments** (1648) demonstrated his ingenuity. He died in 1662, leaving behind a legacy as a **genius of mathematics, physics, and philosophy**, whose ideas continue to influence science and religion",
+        "idx_start": 5282,
+        "idx_end": 5549
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Early Life and Education\nLeonardo Torres Quevedo (1852\u20131936) was born in **Santa Cruz de Igu\u00f1a, Spain** , to a family of engineers. He studied at **Bilbao\u2019s Official School of Engineers** and later traveled to **Paris** , where he was exposed to French scientific culture. His early experiments in **cableways** (1885) laid the groundwork for his later innovations.",
+        "text_original": "Leonardo Torres Quevedo (1852\u20131936) was born in **Santa Cruz de Igu\u00f1a, Spain**, to a family of engineers. He studied at **Bilbao\u2019s Official School of Engineers** and later traveled to **Paris**, where he was exposed to French scientific culture. His early experiments in **cableways** (1885) laid the groundwork for his later innovations",
+        "idx_start": 5622,
+        "idx_end": 5959
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Inventions and Engineering\nTorres Quevedo\u2019s **cable cars** (1887) and **aerial ropeways** (1907) revolutionized transportation. His **analogue calculating machines** (1900) and **radio-controlled systems** (1903), including the **Telekino** , were groundbreaking in **automation and remote control** . He also designed **aerostats** (1902) and **multi-hull ships** (1916).",
+        "text_original": "Torres Quevedo\u2019s **cable cars** (1887) and **aerial ropeways** (1907) revolutionized transportation. His **analogue calculating machines** (1900) and **radio-controlled systems** (1903), including the **Telekino**, were groundbreaking in **automation and remote control**. He also designed **aerostats** (1902) and **multi-hull ships",
+        "idx_start": 5997,
+        "idx_end": 6330
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Scientific Advocacy and Legacy\nTorres Quevedo\u2019s **formal language for mechanical drawings** (1907) and **laboratory of automation** (1907) advanced scientific research. His **chess automaton, El Ajedrecista** (1914), was considered a precursor to modern computing. Despite his **political exile** during the Spanish Civil War, his work remains a cornerstone of **engineering and automation history** .",
+        "text_original": "Torres Quevedo\u2019s **formal language for mechanical drawings** (1907) and **laboratory of automation** (1907) advanced scientific research. His **chess automaton, El Ajedrecista** (1914), was considered a precursor to modern computing. Despite his **political exile** during the Spanish Civil War, his work remains a cornerstone of **engineering and automation history",
+        "idx_start": 6381,
+        "idx_end": 6747
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## Early Life and Hollywood Career\nHedy Lamarr (1914\u20132000) was born **Hedwig Eva Maria Kiesler** in Vienna, Austria. Her early acting career in Europe included roles in films like *Ecstasy* (1933), which made her infamous for her provocative scenes. She fled Nazi Germany in 1937 and signed with **MGM** , becoming one of Hollywood\u2019s most glamorous stars.",
+        "text_original": "Hedy Lamarr (1914\u20132000) was born **Hedwig Eva Maria Kiesler** in Vienna, Austria. Her early acting career in Europe included roles in films like *Ecstasy* (1933), which made her infamous for her provocative scenes. She fled Nazi Germany in 1937 and signed with **MGM**, becoming one of Hollywood\u2019s most glamorous stars",
+        "idx_start": 6817,
+        "idx_end": 7135
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## Inventing and Legacy\nLamarr\u2019s **frequency-hopping spread-spectrum technology** (1942), patented with **George Antheil** , was a precursor to modern **wireless communication and GPS** . Despite her fame, she was often typecast as a **seductress** and struggled with creative limitations. Her later years were marked by **seclusion and financial struggles** , but she remained a pioneer in **invention and women\u2019s rights** .",
+        "text_original": "Lamarr\u2019s **frequency-hopping spread-spectrum technology** (1942), patented with **George Antheil**, was a precursor to modern **wireless communication and GPS**. Despite her fame, she was often typecast as a **seductress** and struggled with creative limitations. Her later years were marked by **seclusion and financial struggles**, but she remained a pioneer in **invention and women\u2019s rights",
+        "idx_start": 7167,
+        "idx_end": 7561
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Early Life and Mathematical Contributions\nAlan Turing (1912\u20131954) was born in **London** , the son of an Indian civil servant. His early fascination with mathematics led him to **Cambridge** , where he studied under **John von Neumann** . His work on **computability** (1936) introduced the **Turing machine** , a foundational concept in **computer science** .",
+        "text_original": "Alan Turing (1912\u20131954) was born in **London**, the son of an Indian civil servant. His early fascination with mathematics led him to **Cambridge**, where he studied under **John von Neumann**. His work on **computability** (1936) introduced the **Turing machine**, a foundational concept in **computer science",
+        "idx_start": 7641,
+        "idx_end": 7951
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Cryptanalysis and Computing Pioneer\nDuring **World War II** , Turing played a crucial role at **Bletchley Park** , where he helped break the **Enigma cipher** , shortening the war by **two years** . His **bombe machine** (1940) was a key tool in codebreaking. After the war, he designed the **ACE (Automatic Computing Engine)** , a precursor to modern computers.",
+        "text_original": "During **World War II**, Turing played a crucial role at **Bletchley Park**, where he helped break the **Enigma cipher**, shortening the war by **two years**. His **bombe machine** (1940) was a key tool in codebreaking. After the war, he designed the **ACE (Automatic Computing Engine)**, a precursor to modern computers",
+        "idx_start": 8000,
+        "idx_end": 8320
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Mathematical Biology and Legacy\nTuring\u2019s **1952 paper on morphogenesis** proposed that **chemical reactions** could explain biological patterns. His **Turing test** (1950) remains a defining concept in **artificial intelligence** . Despite his **homosexuality conviction (1952)** , which led to his **chemical castration** , he was posthumously pardoned in **2013** . His contributions to **computing, cryptography, and biology** cement his status as a **pioneer of modern science** .",
+        "text_original": "Turing\u2019s **1952 paper on morphogenesis** proposed that **chemical reactions** could explain biological patterns. His **Turing test** (1950) remains a defining concept in **artificial intelligence**. Despite his **homosexuality conviction (1952)**, which led to his **chemical castration**, he was posthumously pardoned in **2013**. His contributions to **computing, cryptography, and biology** cement his status as a **pioneer of modern science",
+        "idx_start": 8363,
+        "idx_end": 8807
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Early Life and Education\nAda Lovelace (1815\u20131852), born **Ada Augusta Byron** , was the daughter of **Lord Byron** and his wife, **Anne Isabella Milbanke** . Despite her father\u2019s disapproval, she was educated in **mathematics and science** by **Mary Somerville** and **Charles Babbage** . Her **precocious intellect** led her to work on **Babbage\u2019s Analytical Engine** , often called the first **computer program** .",
+        "text_original": "Ada Lovelace (1815\u20131852), born **Ada Augusta Byron**, was the daughter of **Lord Byron** and his wife, **Anne Isabella Milbanke**. Despite her father\u2019s disapproval, she was educated in **mathematics and science** by **Mary Somerville** and **Charles Babbage**. Her **precocious intellect** led her to work on **Babbage\u2019s Analytical Engine**, often called the first **computer program",
+        "idx_start": 8871,
+        "idx_end": 9254
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Work on the Analytical Engine\nLovelace\u2019s **1843 notes** described an algorithm to compute **Bernoulli numbers** , a task that would have required the Analytical Engine. Though Babbage initially credited himself, Lovelace\u2019s contributions are now widely recognized. She also explored **mathematical biology** , proposing that **mechanical systems** could model complex natural phenomena.",
+        "text_original": "Lovelace\u2019s **1843 notes** described an algorithm to compute **Bernoulli numbers**, a task that would have required the Analytical Engine. Though Babbage initially credited himself, Lovelace\u2019s contributions are now widely recognized. She also explored **mathematical biology**, proposing that **mechanical systems** could model complex natural phenomena",
+        "idx_start": 9297,
+        "idx_end": 9649
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Legacy and Commemoration\nLovelace\u2019s work inspired the creation of the **Ada programming language** (1980) and the **Ada Lovelace Award** for women in computing. Her **bicentenary (2015)** celebrations highlighted her role as a **visionary in computing and science** . Today, she is celebrated as a **trailblazer for women in STEM** .",
+        "text_original": "Lovelace\u2019s work inspired the creation of the **Ada programming language** (1980) and the **Ada Lovelace Award** for women in computing. Her **bicentenary (2015)** celebrations highlighted her role as a **visionary in computing and science**. Today, she is celebrated as a **trailblazer for women in STEM",
+        "idx_start": 9685,
+        "idx_end": 9988
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Early Life and Education\nCharles Babbage (1792\u20131871) was born in **London** , the son of a banker. His early interest in **mathematics and engineering** led him to **Cambridge** , where he studied under **John Herschel** and **George Peacock** . His **difference engine** (1822) was a precursor to modern computers.",
+        "text_original": "Charles Babbage (1792\u20131871) was born in **London**, the son of a banker. His early interest in **mathematics and engineering** led him to **Cambridge**, where he studied under **John Herschel** and **George Peacock**. His **difference engine** (1822) was a precursor to modern computers",
+        "idx_start": 10055,
+        "idx_end": 10341
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Inventions and Computing Pioneer\nBabbage\u2019s **Analytical Engine** (1837) was the first **general-purpose computer** , using **punched cards** to store programs. His **cryptographic work** (1845) and **metrology programs** advanced scientific measurement. Despite his **financial struggles** , he remained a visionary in **computing and industrial organization** .",
+        "text_original": "Babbage\u2019s **Analytical Engine** (1837) was the first **general-purpose computer**, using **punched cards** to store programs. His **cryptographic work** (1845) and **metrology programs** advanced scientific measurement. Despite his **financial struggles**, he remained a visionary in **computing and industrial organization",
+        "idx_start": 10385,
+        "idx_end": 10708
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Legacy and Influence\nBabbage\u2019s ideas on **mechanical computation** and **factories** influenced **industrialization and automation** . His **difference engines** and **analytical engines** remain studied as **early computing prototypes** . Today, he is remembered as a **foundational figure in computer science** .",
+        "text_original": "Babbage\u2019s ideas on **mechanical computation** and **factories** influenced **industrialization and automation**. His **difference engines** and **analytical engines** remain studied as **early computing prototypes**. Today, he is remembered as a **foundational figure in computer science",
+        "idx_start": 10742,
+        "idx_end": 11029
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Early Life and Education\nPhilip Rubin (1949\u2013) earned his **Ph.D. in experimental psychology** from the **University of Connecticut** in 1975. His research focused on **speech synthesis, articulatory dynamics, and perceptual organization** , blending **computational, linguistic, and physiological approaches** .",
+        "text_original": "Philip Rubin (1949\u2013) earned his **Ph.D. in experimental psychology** from the **University of Connecticut** in 1975. His research focused on **speech synthesis, articulatory dynamics, and perceptual organization**, blending **computational, linguistic, and physiological approaches",
+        "idx_start": 11093,
+        "idx_end": 11374
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Key Contributions\nRubin\u2019s work on **articulatory synthesis** (ASY) and **sinewave synthesis** (SWS) advanced **speech technology** . His **gestural-computational models** and **task-dynamic approaches** to speech production influenced **robotics and AI** . He also contributed to **human subjects research ethics** and **science policy** .",
+        "text_original": "Rubin\u2019s work on **articulatory synthesis** (ASY) and **sinewave synthesis** (SWS) advanced **speech technology**. His **gestural-computational models** and **task-dynamic approaches** to speech production influenced **robotics and AI**. He also contributed to **human subjects research ethics** and **science policy",
+        "idx_start": 11405,
+        "idx_end": 11720
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Science Policy and Advocacy\nRubin served as **Director of the National Science Foundation\u2019s Behavioral and Cognitive Sciences Division** (2000\u20132003) and later as a **senior advisor at the White House Office of Science and Technology Policy (OSTP)** . His advocacy for **open science, neuroscience, and ethical AI** continues to shape **research policy** .",
+        "text_original": "Rubin served as **Director of the National Science Foundation\u2019s Behavioral and Cognitive Sciences Division** (2000\u20132003) and later as a **senior advisor at the White House Office of Science and Technology Policy (OSTP)**. His advocacy for **open science, neuroscience, and ethical AI** continues to shape **research policy",
+        "idx_start": 11761,
+        "idx_end": 12083
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## Early Life and Education\nVannevar Bush (1890\u20131974) was born in **Everett, Massachusetts** , and graduated from **Tufts College** (1913). His early career included work at **General Electric** and **Massachusetts Institute of Technology (MIT)** , where he developed the **differential analyzer** (1927).",
+        "text_original": "Vannevar Bush (1890\u20131974) was born in **Everett, Massachusetts**, and graduated from **Tufts College** (1913). His early career included work at **General Electric** and **Massachusetts Institute of Technology (MIT)**, where he developed the **differential analyzer",
+        "idx_start": 12148,
+        "idx_end": 12413
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## World War II and Scientific Leadership\nBush played a pivotal role in **World War II** , founding the **National Defense Research Committee (NDRC)** and later the **Office of Scientific Research and Development (OSRD)** . His **proximity fuze** (1942) and **atomic bomb project** (1941) were critical to Allied victory. He also introduced the **memex concept** (1945), a precursor to the **World Wide Web** .",
+        "text_original": "Bush played a pivotal role in **World War II**, founding the **National Defense Research Committee (NDRC)** and later the **Office of Scientific Research and Development (OSRD)**. His **proximity fuze** (1942) and **atomic bomb project** (1941) were critical to Allied victory. He also introduced the **memex concept** (1945), a precursor to the **World Wide Web",
+        "idx_start": 12472,
+        "idx_end": 12834
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## Post-War Influence and Legacy\nAfter the war, Bush advocated for a **National Science Foundation** to fund **basic research** . His **Science, The Endless Frontier (1945)** became a blueprint for **U.S. science policy** . Despite his **retirement in 1955** , his ideas on **technology, science, and governance** remain foundational in modern **research and innovation** .\nThis summary distills the key themes, contributions, and legacies of each individual while maintaining coherence and conciseness.",
+        "text_original": "After the war, Bush advocated for a **National Science Foundation** to fund **basic research**. His **Science, The Endless Frontier (1945)** became a blueprint for **U.S. science policy**. Despite his **retirement in 1955**, his ideas on **technology, science, and governance** remain foundational in modern **research and innovation**.\n\n---\nThis summary distills the key themes, contributions, and legacies of each individual while maintaining coherence and conciseness",
+        "idx_start": 12877,
+        "idx_end": 13347
+    }
+]

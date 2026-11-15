@@ -1,0 +1,1 @@
+The Chevening Scholarship is an international scholarship, funded by the British Foreign, Commonwealth and Development Office and partner organizations, that enables foreign students to study at universities in the United Kingdom. Chevening Scholarship is highly competitive with acceptance rate around two percent from tens of thousands of applicants from all over the world.

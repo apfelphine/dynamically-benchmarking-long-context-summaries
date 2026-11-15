@@ -1,0 +1,86 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Poland\nPoland's education structure consists of compulsory primary education (8 years), followed by upper secondary education (general, vocational, or technical), and tertiary education aligned to the Bologna process (bachelor's, master's, PhD). School reforms in 2017 extended primary school and removed middle school (gimnazjum). Foreign language learning is widespread, and historical reforms have shaped curriculum focus. Challenges include occasional school violence.",
+        "text_original": "Poland's education structure consists of compulsory primary education (8 years), followed by upper secondary education (general, vocational, or technical), and tertiary education aligned to the Bologna process (bachelor's, master's, PhD). School reforms in 2017 extended primary school and removed middle school (gimnazjum). Foreign language learning is widespread, and historical reforms have shaped curriculum focus. Challenges include occasional school violence",
+        "idx_start": 48,
+        "idx_end": 512
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Pakistan\nEducation in Pakistan is organized into primary, secondary, tertiary, and non-formal sectors, regulated by federal and provincial boards. Barriers include low public investment (~2% GDP), gender disparity, access issues, outdated curricula, and quality shortcomings. Recent initiatives address teacher training, technical/vocational education, and distance learning. Literacy rates (2023: ~61%) vary by region and gender, with urban centers outperforming rural areas. Religious and madrassa schools play a significant role, particularly among the poor.",
+        "text_original": "Education in Pakistan is organized into primary, secondary, tertiary, and non-formal sectors, regulated by federal and provincial boards. Barriers include low public investment (~2% GDP), gender disparity, access issues, outdated curricula, and quality shortcomings. Recent initiatives address teacher training, technical/vocational education, and distance learning. Literacy rates (2023: ~61%) vary by region and gender, with urban centers outperforming rural areas. Religious and madrassa schools play a significant role, particularly among the poor",
+        "idx_start": 527,
+        "idx_end": 1078
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Czech Republic\nThe Czech system features nine years of elementary education, followed by selective secondary options (grammar, professional, vocational schools). Secondary school graduation requires the maturita exam, needed for university entry. Higher education consists of public, private, and state universities offering bachelor\u2019s, master\u2019s, and doctoral degrees. University study in Czech is free for first-time students; private institutions charge tuition.",
+        "text_original": "The Czech system features nine years of elementary education, followed by selective secondary options (grammar, professional, vocational schools). Secondary school graduation requires the maturita exam, needed for university entry. Higher education consists of public, private, and state universities offering bachelor\u2019s, master\u2019s, and doctoral degrees. University study in Czech is free for first-time students; private institutions charge tuition",
+        "idx_start": 1099,
+        "idx_end": 1547
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Russia\nRussia's education is divided into general (preschool, primary, basic, and secondary) and professional (vocational, higher, postgraduate) levels. Schooling spans 11 years, with compulsory nine-year education. Post-secondary includes vocational colleges and universities, with degrees ranging from bachelor's to advanced doctorates (post-Soviet Candidate/Doctor of Sciences). Government and religious influences shape curriculum and language policies, with recent efforts to introduce patriotic and outreach education.",
+        "text_original": "Russia's education is divided into general (preschool, primary, basic, and secondary) and professional (vocational, higher, postgraduate) levels. Schooling spans 11 years, with compulsory nine-year education. Post-secondary includes vocational colleges and universities, with degrees ranging from bachelor's to advanced doctorates (post-Soviet Candidate/Doctor of Sciences). Government and religious influences shape curriculum and language policies, with recent efforts to introduce patriotic and outreach education",
+        "idx_start": 1560,
+        "idx_end": 2076
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Canada\nEducation in Canada is mainly provincial jurisdiction, with compulsory schooling generally from ages 5/6 to 16/18 and 13 grade levels. Schools vary by language (English, French) and public vs. private funding. Post-secondary education includes universities and vocational colleges, with Canada having high tertiary enrolment rates. Educational divisions by religion and language are constitutionally protected. Challenges remain for Indigenous and marginalized students, with ongoing equity initiatives.",
+        "text_original": "Education in Canada is mainly provincial jurisdiction, with compulsory schooling generally from ages 5/6 to 16/18 and 13 grade levels. Schools vary by language (English, French) and public vs. private funding. Post-secondary education includes universities and vocational colleges, with Canada having high tertiary enrolment rates. Educational divisions by religion and language are constitutionally protected. Challenges remain for Indigenous and marginalized students, with ongoing equity initiatives",
+        "idx_start": 2089,
+        "idx_end": 2591
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## South Korea\nSouth Korea\u2019s system, historically shaped by Confucian values, is highly competitive and exam-focused. It comprises six years of primary, three of middle school, three of high school, and tertiary education (universities, vocational colleges). Vocational education is being modernized (Meister schools) to counter university entrance bias. English education, private tutoring, and societal pressure contribute to high student stress. Reforms address inclusivity, curriculum, and vocational pathways.",
+        "text_original": "South Korea\u2019s system, historically shaped by Confucian values, is highly competitive and exam-focused. It comprises six years of primary, three of middle school, three of high school, and tertiary education (universities, vocational colleges). Vocational education is being modernized (Meister schools) to counter university entrance bias. English education, private tutoring, and societal pressure contribute to high student stress. Reforms address inclusivity, curriculum, and vocational pathways",
+        "idx_start": 2609,
+        "idx_end": 3107
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Bangladesh\nBangladesh has primary, secondary, and tertiary education, delivered in Bengali and English. National curriculum is standardized and centralized, with separate Islamic and international school systems for religious and minority groups. Education faces funding constraints, high teacher absenteeism, rural-urban disparities, and rote-based learning. Gender parity is improving, but access and quality issues persist. Literacy rates have increased to ~75% (2022), but drop-out rates remain high in rural areas.",
+        "text_original": "Bangladesh has primary, secondary, and tertiary education, delivered in Bengali and English. National curriculum is standardized and centralized, with separate Islamic and international school systems for religious and minority groups. Education faces funding constraints, high teacher absenteeism, rural-urban disparities, and rote-based learning. Gender parity is improving, but access and quality issues persist. Literacy rates have increased to ~75% (2022), but drop-out rates remain high in rural areas",
+        "idx_start": 3124,
+        "idx_end": 3631
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Netherlands\nDutch education begins with eight years of elementary, followed by selective secondary tracks (VMBO, HAVO, VWO), then tertiary routes (MBO, HBO, WO). Compulsory education runs from age 5 to 16/18. Schools are publicly managed but may have religious or pedagogical philosophies. Criticisms include early tracking potentially disadvantaging gifted or lower-income children, and declining international test scores in basic skills. Higher education follows the Bologna cycle of bachelor's, master's, and PhD.",
+        "text_original": "Dutch education begins with eight years of elementary, followed by selective secondary tracks (VMBO, HAVO, VWO), then tertiary routes (MBO, HBO, WO). Compulsory education runs from age 5 to 16/18. Schools are publicly managed but may have religious or pedagogical philosophies. Criticisms include early tracking potentially disadvantaging gifted or lower-income children, and declining international test scores in basic skills. Higher education follows the Bologna cycle of bachelor's, master's, and PhD",
+        "idx_start": 3649,
+        "idx_end": 4153
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Saudi Arabia\nSaudi Arabia\u2019s education system is state-funded and oversees both secular and Islamic-oriented curricula. Primary, intermediate, and secondary education are followed by higher education (universities and vocational institutes). Women\u2019s participation in higher education exceeds men\u2019s enrollment. Reforms focus on improving educational quality, inclusivity (special and gifted education), and revising curricula to remove extremist content. Literacy rates for youth approach 98%, yet regional disparities and employment issues remain.",
+        "text_original": "Saudi Arabia\u2019s education system is state-funded and oversees both secular and Islamic-oriented curricula. Primary, intermediate, and secondary education are followed by higher education (universities and vocational institutes). Women\u2019s participation in higher education exceeds men\u2019s enrollment. Reforms focus on improving educational quality, inclusivity (special and gifted education), and revising curricula to remove extremist content. Literacy rates for youth approach 98%, yet regional disparities and employment issues remain",
+        "idx_start": 4172,
+        "idx_end": 4704
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Japan\nJapan\u2019s highly centralized system includes six years of primary, three of lower secondary, three of upper secondary, and tertiary education (universities, colleges). Academic achievement is intensely exam-driven, resulting in widespread cram schools (juku) and significant student stress. Reforms emphasize holistic education, inclusion for disabilities, and reduction of rote learning. Bullying and youth mental health are major concerns. International schools operate but are legally \u201cmiscellaneous schools\u201d.",
+        "text_original": "Japan\u2019s highly centralized system includes six years of primary, three of lower secondary, three of upper secondary, and tertiary education (universities, colleges). Academic achievement is intensely exam-driven, resulting in widespread cram schools (juku) and significant student stress. Reforms emphasize holistic education, inclusion for disabilities, and reduction of rote learning. Bullying and youth mental health are major concerns. International schools operate but are legally \u201cmiscellaneous schools",
+        "idx_start": 4716,
+        "idx_end": 5224
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## New Zealand\nNew Zealand\u2019s education system features early childhood, 13 years of primary/secondary, and tertiary education (universities, polytechnics, w\u0101nanga). State, state-integrated (religious/special-ethos), and private schools coexist, with funding based on enrollment and school decile ratings. The curriculum prioritizes both academic and cultural knowledge, including revitalization of M\u0101ori-language education. National assessment is through NCEA, with alternatives (IB, CIE). Issues include bullying, achievement gaps for M\u0101ori/Pacific students, and declining numeracy standards.",
+        "text_original": "New Zealand\u2019s education system features early childhood, 13 years of primary/secondary, and tertiary education (universities, polytechnics, w\u0101nanga). State, state-integrated (religious/special-ethos), and private schools coexist, with funding based on enrollment and school decile ratings. The curriculum prioritizes both academic and cultural knowledge, including revitalization of M\u0101ori-language education. National assessment is through NCEA, with alternatives (IB, CIE). Issues include bullying, achievement gaps for M\u0101ori/Pacific students, and declining numeracy standards",
+        "idx_start": 5243,
+        "idx_end": 5820
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Mexico\nMexico\u2019s basic education is divided into primaria (grades 1\u20136), secundaria (grades 7\u20139), and preparatoria (grades 10\u201312), with recent reforms making all compulsory. Integration of special needs students faces infrastructure and training challenges. Higher education institutions are public or private, following a structure similar to the US/Europe. Education faces low completion rates, teacher union influence, and disparities in rural areas. Literacy has improved to over 94%, and access to international and intercultural universities is expanding.\n**Key Issues Across Countries:**\n- **Access and Equity:** Gender, regional, and socioeconomic disparities persist.\n- **Quality and Curriculum:** Rote learning, outmoded curricula, and infrastructure deficits present challenges.\n- **Vocational vs. Academic:** Bias toward academic tracks over vocational education remains strong in many nations.\n- **Reforms and Inclusivity:** Ongoing reforms focus on improving teacher education, inclusivity (special needs/gifted), and aligning educational content with job market and global standards.\n- **Internationalization:** Most systems recognize international and bilingual (English) schools as supplemental educational pathways.",
+        "text_original": "Mexico\u2019s basic education is divided into primaria (grades 1\u20136), secundaria (grades 7\u20139), and preparatoria (grades 10\u201312), with recent reforms making all compulsory. Integration of special needs students faces infrastructure and training challenges. Higher education institutions are public or private, following a structure similar to the US/Europe. Education faces low completion rates, teacher union influence, and disparities in rural areas. Literacy has improved to over 94%, and access to international and intercultural universities is expanding.\n\n---\n\n**Key Issues Across Countries:**  \n- **Access and Equity:** Gender, regional, and socioeconomic disparities persist.\n- **Quality and Curriculum:** Rote learning, outmoded curricula, and infrastructure deficits present challenges.\n- **Vocational vs. Academic:** Bias toward academic tracks over vocational education remains strong in many nations.\n- **Reforms and Inclusivity:** Ongoing reforms focus on improving teacher education, inclusivity (special needs/gifted), and aligning educational content with job market and global standards.  \n- **Internationalization:** Most systems recognize international and bilingual (English) schools as supplemental educational pathways",
+        "idx_start": 5833,
+        "idx_end": 7066
+    }
+]

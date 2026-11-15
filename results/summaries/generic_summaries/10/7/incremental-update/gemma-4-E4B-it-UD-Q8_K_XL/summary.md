@@ -1,0 +1,11 @@
+**Global Educational Systems Comparison: Overview and National Structures**
+
+**National System Overviews & Structure:**
+*   **Country Models:** Systems vary widely, ranging from centralized, secular models (like France's 6-12 compulsory education) to decentralized approaches (Ghana). Countries like Sweden operate a comprehensive mandatory nine-year system (*grundskola*), while Norway structures education across elementary, lower, and upper secondary tiers, with the first two being compulsory.
+*   **Curriculum & Focus:** Systems are influenced by local culture and governance; for example, Armenia integrates Armenian culture, Hong Kong emphasizes exams under strict discipline, and Turkey blends secular education with increasing religious instruction. Indonesia incorporates religious diversity through various Islamic institutions, and Israel actively manages resource gaps across different sectors.
+*   **Systemic Challenges:** A consistent global issue is the reliance on private tutoring, often contrasting with state ideals. Other challenges include wealth disparities (Egypt), poverty/insecurity affecting access (Nigeria), and debates over profit motives within publicly funded independent schools (Sweden).
+
+**Higher Education and General Trends:**
+*   **Higher Education Structure:** Global pathways are diverse. Sweden features a tiered, free system (Basic, Advanced, Doctoral) using ECTS. In Norway, higher education is segmented into **Universities** (theoretical, offering Bachelor/Master/PhD) and **University Colleges** (*høgskole*) (broader vocational/academic options), with access to competitive programs sometimes necessitating re-sitting high school exams.
+*   **Inclusivity and Standards:** There is a growing trend toward integrating special education into mainstream schools, supported by services designed to foster inclusive learning environments. Grading scales vary, such as Norway's use of a 1-6 scale in lower levels and a historical 1.0 to 6.0 scale in its old university system.
+*   **Academic Calendar:** The standard academic year often spans two semesters (August-December and January-June), complemented by various national and seasonal holidays.

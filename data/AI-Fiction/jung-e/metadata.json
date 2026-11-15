@@ -1,0 +1,35 @@
+{
+  "id": 70329654,
+  "title": "Jung E",
+  "url": "https://en.wikipedia.org/wiki/Jung_E",
+  "path": "AI-Fiction\\jung-e",
+  "summary": {
+    "chars": 370,
+    "tokens": 107
+  },
+  "document": {
+    "chars": 5243,
+    "tokens": 1223
+  },
+  "infobox": {
+    "title": "Jung_E",
+    "data": {
+      "Hangul": "\uc815\uc774",
+      "RR": "Jeongi",
+      "MR": "Ch\u014fngi",
+      "Directed by": "Yeon Sang-ho",
+      "Written by": "Yeon Sang-ho",
+      "Produced by": "Byun Seung-min",
+      "Starring": "- Kang Soo-yeon - Kim Hyun-joo - Ryu Kyung-soo",
+      "Edited by": "Yang Jin-mo",
+      "Music by": "Kim Dong-wook",
+      "Production \u00b7 companies": "Climax Studio \u00b7 Dexter Studio",
+      "Distributed by": "Netflix",
+      "Release date": "- January 20, 2023",
+      "Running time": "99 minutes",
+      "Country": "South Korea",
+      "Language": "Korean",
+      "Budget": "- KRW20 billion - (est. $16.3 million)"
+    }
+  }
+}

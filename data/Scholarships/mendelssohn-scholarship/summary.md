@@ -1,0 +1,1 @@
+The Mendelssohn Scholarship (German: Mendelssohn-Stipendium) refers to two scholarships awarded in Germany and in the United Kingdom. Both commemorate the composer Felix Mendelssohn, and are awarded to promising young musicians to enable them to continue their development.

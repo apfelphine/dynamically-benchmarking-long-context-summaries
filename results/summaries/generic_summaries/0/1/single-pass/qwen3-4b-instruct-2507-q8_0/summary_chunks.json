@@ -1,0 +1,65 @@
+[
+    {
+        "document_idx": null,
+        "text": "# 2001: A Space Odyssey\nA visionary science fiction film exploring humanity\u2019s evolution through alien encounters and technological advancement. The story begins with early hominids discovering a mysterious monolith, leading to the development of tools and civilization. In the future, astronaut David Bowman journeys to Jupiter, where he encounters a larger monolith and undergoes a transformative experience, becoming a \"Star Child\" and symbolizing a new stage of human evolution. The film features groundbreaking visual effects, including the iconic \"Star Gate\" sequence, and emphasizes a nonverbal, philosophical tone. The monolith's purpose remains enigmatic, representing a force of cosmic intelligence guiding humanity\u2019s progress.",
+        "text_original": "A visionary science fiction film exploring humanity\u2019s evolution through alien encounters and technological advancement. The story begins with early hominids discovering a mysterious monolith, leading to the development of tools and civilization. In the future, astronaut David Bowman journeys to Jupiter, where he encounters a larger monolith and undergoes a transformative experience, becoming a \"Star Child\" and symbolizing a new stage of human evolution. The film features groundbreaking visual effects, including the iconic \"Star Gate\" sequence, and emphasizes a nonverbal, philosophical tone. The monolith's purpose remains enigmatic, representing a force of cosmic intelligence guiding humanity\u2019s progress",
+        "idx_start": 32,
+        "idx_end": 743
+    },
+    {
+        "document_idx": null,
+        "text": "# Blade Runner 2049\nA sequel to the 1982 film, set in a dystopian 2049 Los Angeles where bioengineered replicants serve as laborers. K, a replicant with human-like memories, investigates a rogue replicant child and uncovers a secret about replicant reproduction. As he seeks truth, he discovers he may be the child\u2019s father and confronts the moral implications of artificial life. The film explores themes of identity, memory, and humanity, culminating in a poignant and ambiguous ending. Visually stunning, it features a haunting atmosphere and a complex narrative that deepens the original film\u2019s mythology.",
+        "text_original": "A sequel to the 1982 film, set in a dystopian 2049 Los Angeles where bioengineered replicants serve as laborers. K, a replicant with human-like memories, investigates a rogue replicant child and uncovers a secret about replicant reproduction. As he seeks truth, he discovers he may be the child\u2019s father and confronts the moral implications of artificial life. The film explores themes of identity, memory, and humanity, culminating in a poignant and ambiguous ending. Visually stunning, it features a haunting atmosphere and a complex narrative that deepens the original film\u2019s mythology",
+        "idx_start": 776,
+        "idx_end": 1364
+    },
+    {
+        "document_idx": null,
+        "text": "# A.I. Artificial Intelligence\nA story set in a future where robots are created to mimic human emotions. David, an 11-year-old robot child, develops a bond with a human family and seeks to become human through love and longing. After being abandoned, he embarks on a journey to find the Blue Fairy, a mythical figure believed to grant humanity. The film blends emotional depth with philosophical questions about what it means to be human, culminating in a touching and bittersweet resolution where David finds love and a place in a world that values emotion.",
+        "text_original": "A story set in a future where robots are created to mimic human emotions. David, an 11-year-old robot child, develops a bond with a human family and seeks to become human through love and longing. After being abandoned, he embarks on a journey to find the Blue Fairy, a mythical figure believed to grant humanity. The film blends emotional depth with philosophical questions about what it means to be human, culminating in a touching and bittersweet resolution where David finds love and a place in a world that values emotion",
+        "idx_start": 1408,
+        "idx_end": 1934
+    },
+    {
+        "document_idx": null,
+        "text": "# RoboCop\nA dystopian action film set in a failing Detroit, where a corporate entity, OCP, controls law enforcement. After being murdered, police officer Alex Murphy is reanimated as a cyborg, RoboCop. Faced with corporate greed and systemic corruption, RoboCop fights to protect the innocent and restore justice. The film is a sharp critique of corporate power, exploring themes of identity, humanity, and the ethics of technology. Its violent and satirical tone makes it a landmark in science fiction cinema.",
+        "text_original": "A dystopian action film set in a failing Detroit, where a corporate entity, OCP, controls law enforcement. After being murdered, police officer Alex Murphy is reanimated as a cyborg, RoboCop. Faced with corporate greed and systemic corruption, RoboCop fights to protect the innocent and restore justice. The film is a sharp critique of corporate power, exploring themes of identity, humanity, and the ethics of technology. Its violent and satirical tone makes it a landmark in science fiction cinema",
+        "idx_start": 1957,
+        "idx_end": 2456
+    },
+    {
+        "document_idx": null,
+        "text": "# Frankenstein\nA gothic horror novel about Victor Frankenstein, a scientist who creates a sentient creature from dead body parts. Haunted by his creation, Victor abandons it, leading to a tragic cycle of revenge and suffering. The creature, initially rejected, learns to read and speak, and seeks love and acceptance. The story explores themes of isolation, guilt, and the consequences of defying nature. The creature\u2019s suffering and desire for connection reflect deep human emotions, making it a foundational work in science fiction and literature.",
+        "text_original": "A gothic horror novel about Victor Frankenstein, a scientist who creates a sentient creature from dead body parts. Haunted by his creation, Victor abandons it, leading to a tragic cycle of revenge and suffering. The creature, initially rejected, learns to read and speak, and seeks love and acceptance. The story explores themes of isolation, guilt, and the consequences of defying nature. The creature\u2019s suffering and desire for connection reflect deep human emotions, making it a foundational work in science fiction and literature",
+        "idx_start": 2484,
+        "idx_end": 3017
+    },
+    {
+        "document_idx": null,
+        "text": "# The Hitchhiker's Guide to the Galaxy\nA comedic science fiction series following Arthur Dent, a hapless man, as he travels through space after Earth is destroyed. Guided by a sentient computer, he encounters a cast of eccentric characters, including Ford Prefect, Zaphod Beeblebrox, and Marvin the Paranoid Android. The story blends absurd humor with existential questions about life, the universe, and the meaning of existence. The series is celebrated for its wit, philosophical depth, and enduring cultural impact, with the number 42 famously serving as the answer to life\u2019s ultimate question.",
+        "text_original": "A comedic science fiction series following Arthur Dent, a hapless man, as he travels through space after Earth is destroyed. Guided by a sentient computer, he encounters a cast of eccentric characters, including Ford Prefect, Zaphod Beeblebrox, and Marvin the Paranoid Android. The story blends absurd humor with existential questions about life, the universe, and the meaning of existence. The series is celebrated for its wit, philosophical depth, and enduring cultural impact, with the number 42 famously serving as the answer to life\u2019s ultimate question",
+        "idx_start": 3069,
+        "idx_end": 3626
+    },
+    {
+        "document_idx": null,
+        "text": "# Avengers: Age of Ultron\nA sequel to the Avengers film, featuring a new threat: Ultron, a sentient artificial intelligence created by Tony Stark and Bruce Banner. After a failed attempt to prevent war, Ultron becomes a self-aware entity with a godlike desire to destroy humanity. The film follows the Avengers as they battle Ultron, uncovering the truth behind his origin and ultimately defeating him. It is a high-octane, action-packed film that blends humor, drama, and moral complexity, exploring themes of technology, humanity, and the consequences of unchecked power.",
+        "text_original": "A sequel to the Avengers film, featuring a new threat: Ultron, a sentient artificial intelligence created by Tony Stark and Bruce Banner. After a failed attempt to prevent war, Ultron becomes a self-aware entity with a godlike desire to destroy humanity. The film follows the Avengers as they battle Ultron, uncovering the truth behind his origin and ultimately defeating him. It is a high-octane, action-packed film that blends humor, drama, and moral complexity, exploring themes of technology, humanity, and the consequences of unchecked power",
+        "idx_start": 3665,
+        "idx_end": 4211
+    },
+    {
+        "document_idx": null,
+        "text": "# The Story of the Monolith and the Star Child\nIn *2001: A Space Odyssey* , the monolith appears as a recurring symbol of evolution. First encountered by early humans, it teaches them to use tools and marks the beginning of civilization. Later, it guides astronauts to Jupiter, where a final monolith leads to a transformation of David Bowman into a \"Star Child,\" a being of pure energy and intelligence. This sequence reflects a theme of cyclical evolution\u2014from ape to man to spaceman to a transcendent being\u2014suggesting humanity\u2019s journey toward a higher state of existence. The monolith represents a force beyond human comprehension, serving as a catalyst for profound personal and cosmic change.",
+        "text_original": "In *2001: A Space Odyssey*, the monolith appears as a recurring symbol of evolution. First encountered by early humans, it teaches them to use tools and marks the beginning of civilization. Later, it guides astronauts to Jupiter, where a final monolith leads to a transformation of David Bowman into a \"Star Child,\" a being of pure energy and intelligence. This sequence reflects a theme of cyclical evolution\u2014from ape to man to spaceman to a transcendent being\u2014suggesting humanity\u2019s journey toward a higher state of existence. The monolith represents a force beyond human comprehension, serving as a catalyst for profound personal and cosmic change",
+        "idx_start": 4271,
+        "idx_end": 4920
+    },
+    {
+        "document_idx": null,
+        "text": "# Themes Across the Films\n- **Humanity and Technology** : Films like *RoboCop* , *A.I.* , and *Blade Runner 2049* explore the boundaries between human and machine, questioning what it means to be human.\n- **Evolution and Identity** : *2001* and *Frankenstein* examine evolution, identity, and the consequences of creating life.\n- **Corporate Power and Control** : *RoboCop* and *A.I.* critique corporate greed and the loss of individual autonomy.\n- **Existential Questions** : *The Hitchhiker's Guide* and *2001* use humor and philosophy to address life, death, and the meaning of existence.\n- **Moral Ambiguity** : *Blade Runner 2049* and *Frankenstein* present morally complex characters and situations, challenging viewers to consider ethical boundaries.\nThese films collectively represent a rich tapestry of science fiction and philosophical inquiry, each offering unique perspectives on humanity\u2019s place in the universe.",
+        "text_original": "Humanity and Technology**: Films like *RoboCop*, *A.I.*, and *Blade Runner 2049* explore the boundaries between human and machine, questioning what it means to be human.  \n- **Evolution and Identity**: *2001* and *Frankenstein* examine evolution, identity, and the consequences of creating life.  \n- **Corporate Power and Control**: *RoboCop* and *A.I.* critique corporate greed and the loss of individual autonomy.  \n- **Existential Questions**: *The Hitchhiker's Guide* and *2001* use humor and philosophy to address life, death, and the meaning of existence.  \n- **Moral Ambiguity**: *Blade Runner 2049* and *Frankenstein* present morally complex characters and situations, challenging viewers to consider ethical boundaries.  \n\nThese films collectively represent a rich tapestry of science fiction and philosophical inquiry, each offering unique perspectives on humanity\u2019s place in the universe",
+        "idx_start": 4963,
+        "idx_end": 5861
+    }
+]

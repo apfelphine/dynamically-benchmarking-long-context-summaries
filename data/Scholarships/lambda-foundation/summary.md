@@ -1,0 +1,2 @@
+The Lambda Foundation (French: Fondation lambda), officially the Lambda Scholarship Foundation Canada, is a registered Canadian charity with the mission of creating scholarships, awards, and bursaries in support of 2SLGBTQ+ studies, and education and awareness, in advancement of equality and human rights.
+Lambda Foundation is governed by a national Board of Directors.

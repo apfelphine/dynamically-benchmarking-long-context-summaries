@@ -1,0 +1,24 @@
+## Transhumanism
+Transhumanism is a philosophical movement exploring the possibility and desirability of fundamentally improving the human condition through applied science and technology to overcome biological limitations like aging. Its intellectual lineage traces back through historical quests for immortality, ancient philosophy, and early scientific figures like Francis Bacon and René Descartes. Key early advancements included J. B. S. Haldane's 1923 essay predicting benefits from advanced biology, and Julian Huxley's 1957 article, which popularized the term and framed human potential for transcendence.
+
+The movement has evolved significantly, moving from early futurist concepts to formalized doctrines in the late 20th century. Modern transhumanism is defined as philosophies aiming toward a posthuman condition, differing from humanism by anticipating radical life alterations via science. While some advocate for technological immortality, others focus on enhancement, and various currents exist, including Abolitionism, Immortalism, and Singularitarianism. Ethically, there is debate over issues such as social stratification from unequal access and whether self-enhancement constitutes a denial of natural constraints.
+
+## Accelerationism
+Accelerationism encompasses varied concepts, historically divided into French post-Marxist waves (1960s/70s) and later iterations. Its core premise is that certain forces—often capitalist growth—should be actively encouraged to destabilize existing structures. Influences include Nietzsche's exaltation of the Übermensch and Deleuze and Guattari's concept of desiring-production.
+
+The movement splits into distinct variants: Right-wing accelerationism champions unregulated capitalism for exponential growth, while Left-wing accelerationism seeks to accelerate past capitalism by democratizing productive technologies. A key concept is Prometheanism, which champions technology to surpass natural limits. Furthermore, the theory of Hyperstition posits that chosen future beliefs can causally shape present realities, as seen in cyber-fiction.
+
+## Legal and Ethical Frameworks (GDPR & AI Ethics)
+The General Data Protection Regulation (GDPR) is a comprehensive EU law establishing stringent rules for processing personal data. It mandates principles like lawfulness, purpose limitation, and data minimisation, grants data subjects rights such as access and erasure (the "right to be forgotten" evolved into the right of erasure), and requires data controllers to implement "data protection by design and by default."
+
+In Artificial Intelligence ethics, research addresses designing Artificial Moral Agents (AMAs), where tests like the Ethical Turing Test are proposed. Debates cover robot ethics—how humans treat robots—and robot rights, with scholars debating whether rights should be based on observed capacities or precautionary principles. Major concerns include algorithmic biases (e.g., in facial and voice recognition), the environmental impact of large AI models, and issues of transparency (the "black-box" problem).
+
+## Technological Future Concepts (Singularity & Transhumanism)
+The concepts of the Technological Singularity and Transhumanism are interconnected, both revolving around radical human and technological transformation. The Singularity posits a point where self-improving AI causes an "intelligence explosion," leading to incomprehensible, post-human change. Predictions for this event vary widely, with figures like Ray Kurzweil forecasting a singularity around 2045.
+
+Transhumanism shares this vision, focusing on using technology to enhance human capacities—including through bioengineering, mind uploading, and advanced AI. While advocates see this as desirable progress, critics raise profound ethical concerns, including the risk of existential threats from uncontrolled superintelligence, the loss of human identity, and the creation of a two-tiered "genetic divide."
+
+## Emerging Technologies and Threats (Deepfakes & Cybernetics)
+Deepfake technology, which uses neural networks (autoencoders and GANs) to fabricate highly realistic media, presents major societal threats. Applications range from entertainment and art to fraud and political disinformation, with its increasing realism making it an "epistemic threat" to shared knowledge.
+
+Countermeasures involve technical detection methods (analyzing video artifacts) and societal responses, such as media literacy education. In the context of cybernetics and AI, there are discussions around liability for autonomous vehicles and the ethical implications of weaponization, with calls from some experts to ban dangerous AI weaponry.

@@ -1,0 +1,10 @@
+# Neural Network Architectures Overview
+
+### Vision, Sequence, and Relational Processing
+Neural networks utilize distinct architectures for different data types. Convolutional Neural Networks (CNNs) process visual data via local connectivity and weight sharing. Vision Transformers (ViTs) treat images as patches, employing self-attention to capture long-range dependencies, contrasting with CNNs. For sequential data, while RNNs (like LSTMs/GRUs) mitigate vanishing gradients, the Transformer architecture enables parallel processing using attention mechanisms. Graph Neural Networks (GNNs) analyze structured, relational data through message passing.
+
+### Generative Models and Dimensionality Reduction
+Generative modeling techniques include Variational Autoencoders (VAEs), which model latent space as a probability distribution, and Generative Adversarial Networks (GANs). GANs operate as a minimax game between a Generator and a Discriminator to synthesize data, with variants like WGANs improving training stability by using the Wasserstein distance to counter issues like mode collapse. Autoencoders (AEs) are used for dimensionality reduction, while specialized models like Radial Basis Function (RBF) Networks act as universal function approximators.
+
+### Transformer Evolution and Specialized Models
+The Transformer architecture, central to modern NLP and multimodality, employs an Encoder-Decoder structure featuring Scaled Dot-Product Attention. Variations, including Encoder-only (BERT), Decoder-only (GPT), and Encoder-Decoder (T5), exist. To enhance efficiency, research focuses on techniques like FlashAttention to address the inherent quadratic complexity. Interpretability in complex models is supported by methods such as Grad-CAM, which visualizes feature contributions to a prediction.

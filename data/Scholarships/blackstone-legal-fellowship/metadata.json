@@ -1,0 +1,25 @@
+{
+  "id": 56574682,
+  "title": "Blackstone Legal Fellowship",
+  "url": "https://en.wikipedia.org/wiki/Blackstone_Legal_Fellowship",
+  "path": "Scholarships\\blackstone-legal-fellowship",
+  "summary": {
+    "chars": 649,
+    "tokens": 126
+  },
+  "document": {
+    "chars": 2296,
+    "tokens": 472
+  },
+  "infobox": {
+    "title": "Blackstone Legal Fellowship",
+    "data": {
+      "Motto": "\"Learn. Lead. Defend.\"",
+      "Type": "Legal internship",
+      "Established": "2008",
+      "Affiliation": "Alliance Defending Freedom",
+      "Location": "Scottsdale, Arizona, USA",
+      "Website": "blackstonelegalfellowship.org"
+    }
+  }
+}

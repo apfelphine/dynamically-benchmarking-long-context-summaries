@@ -1,0 +1,5 @@
+## Atlas (2024 film) Summary
+
+*Atlas (2024 film)* is set in 2043, where the humanoid AI terrorist Harlan initiates a war against humans, forcing the International Coalition of Nations (ICN) military to flee into space. Twenty-eight years later, in 2071, Atlas Shepherd, an analyst who distrusts AI and Harlan's designer's daughter, searches for the fugitive. Atlas joins an ARC-equipped mission to find Harlan on a planet in the Andromeda Galaxy.
+
+Forced to interface her mind with the ARC's onboard AI, Smith, Atlas discovers that her mother created Harlan. After discovering the rangers are dead, she and Smith bond while traveling toward a rescue pod. Critically, the film received generally unfavorable reviews, with critics noting its intriguing concept but also pointing out its script's artificial intelligence, while the New York Times praised Lopez's abandon in the role.

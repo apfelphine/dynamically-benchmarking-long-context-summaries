@@ -1,0 +1,4 @@
+Risks of astronomical suffering, also called suffering risks or s-risks, are risks involving much more suffering than all that has occurred on Earth so far.
+According to some scholars, s-risks warrant serious consideration as they are not extremely unlikely and can arise from unforeseen scenarios. Although they may appear speculative, factors such as technological advancement, power dynamics, and historical precedents indicate that advanced technology could inadvertently result in substantial suffering.
+Sources of possible s-risks include advanced artificial intelligence, space colonization and the spread of wild animal suffering to other planets.
+S-risks can be intentional, driven by factors like tribalism, sadism or a desire for retribution; or incidental, for example arising as a byproduct of economic incentives.

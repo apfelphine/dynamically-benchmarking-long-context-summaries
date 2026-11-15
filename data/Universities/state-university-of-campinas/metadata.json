@@ -1,0 +1,36 @@
+{
+  "id": 514199,
+  "title": "State University of Campinas",
+  "url": "https://en.wikipedia.org/wiki/State_University_of_Campinas",
+  "path": "Universities\\state-university-of-campinas",
+  "summary": {
+    "chars": 1660,
+    "tokens": 324
+  },
+  "document": {
+    "chars": 36866,
+    "tokens": 7553
+  },
+  "infobox": {
+    "title": "University of Campinas",
+    "data": {
+      "Other name": "Unicamp",
+      "Type": "Public research university",
+      "Established": "December 28, 1962",
+      "Founder": "Zeferino Vaz",
+      "Affiliation": "Washington University in St. Louis McDonnell International Scholars Academy",
+      "Budget": "R$2.954 billion",
+      "Rector": "Paulo Cesar Montagner",
+      "Academic staff": "1,795",
+      "Administrative staff": "8,527",
+      "Students": "34,616",
+      "Undergraduates": "18,698",
+      "Postgraduates": "15,918",
+      "Location": "Campinas, S\u00e3o Paulo, Brazil \u00b7 22\u00b049\u203202\u2033S 47\u00b004\u203210\u2033W\ufeff / \ufeff22.81722\u00b0S 47.06944\u00b0W",
+      "Campus": "Suburban",
+      "Language": "Portuguese",
+      "Colors": "Red & Black",
+      "Website": "www.unicamp.br"
+    }
+  }
+}

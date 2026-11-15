@@ -1,0 +1,32 @@
+{
+  "id": 529373,
+  "title": "Steve Furber",
+  "url": "https://en.wikipedia.org/wiki/Steve_Furber",
+  "path": "Comp-Sci-Pioneers\\steve-furber",
+  "summary": {
+    "chars": 925,
+    "tokens": 186
+  },
+  "document": {
+    "chars": 6709,
+    "tokens": 1352
+  },
+  "infobox": {
+    "title": "Steve FurberCBE FRS FREng",
+    "data": {
+      "Born": "Stephen Byram Furber \u00b7 21 March 1953 \u00b7 Manchester, England",
+      "Education": "Manchester Grammar School",
+      "Alma mater": "University of Cambridge (BA, MMath, PhD)",
+      "Known for": "- Acorn Computers - ARM architecture - BBC Micro - SpiNNaker - Human Brain Project - ARM System\u2013on\u2013Chip Architecture",
+      "Spouse": "Valerie Margaret Elliott \u200b (m. 1977)\u200b",
+      "Awards": "- Charles Stark Draper Prize (2022) - Mullard Award (2016) - DFBCS (2014) - Lovelace Medal (2014) - Pinkerton Lecture (2010) - Millennium Technology Prize (2010) - Faraday Medal (2007) - Royal Society Wolfson Research Merit Award (2004)",
+      "Fields": "- Neural Networks - Networks on Chip - Microprocessors",
+      "Institutions": "- University of Manchester - University of Cambridge - Acorn Computers",
+      "Thesis": "Is the Weis-Fogh principle exploitable in turbomachines? (1979)",
+      "Doctoral advisor": "John Ffowcs Williams",
+      "Doctoral students": "Nigel Paver, Shiv Sikand, Craig Farnsworth, David Jackson",
+      "Other notable students": "Simon Segars",
+      "Website": "apt.cs.manchester.ac.uk/people/sfurber \u00b7 manchester.ac.uk/research/steve.furber"
+    }
+  }
+}

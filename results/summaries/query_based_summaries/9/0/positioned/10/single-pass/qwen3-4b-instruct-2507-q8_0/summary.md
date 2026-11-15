@@ -1,0 +1,13 @@
+**Education in Pakistan**  
+
+Pakistan's formal education system is structured into primary, secondary, and tertiary levels, inspired by the English model. Primary education spans from pre-school (Play Group, Nursery, Kindergarten) to junior school (Years 1–5), followed by middle school (Years 6–8). Secondary education begins in Year 9 and lasts four years, culminating in the Secondary School Certificate (SSC), followed by the Higher Secondary School Certificate (HSSC) at the end of Year 12. Students choose from streams such as pre-medical, pre-engineering, commerce, or humanities.  
+
+Alternative qualifications like the General Certificate of Education (GCE), International General Certificate of Secondary Education (IGCSE), and Advanced Placement (AP) are available through private institutions. Technical education, offered via boards like PBTE, KPKBTE, and SBTE, includes programs like the Technical School Certificate (TSC) and Diploma of Associate Engineering (DAE).  
+
+Tertiary education includes bachelor's (Pass or Honours), master's, and doctoral degrees. Universities offer degrees in arts, science, commerce, and professional fields (e.g., engineering, medicine, law), with accreditation by bodies like PEC, PMC, and PBC. Teacher education programs are criticized for being knowledge-based and lacking practical training, with gender disparities persisting—females face lower enrollment, academic performance, and access to education, especially in rural areas.  
+
+The education system faces challenges including outdated curricula, teacher shortages, poor infrastructure, and gender inequality. Public expenditure on education is around 2% of GDP, with efforts to increase it to 7%. Literacy rates have improved, reaching 60.65% in 2023, but regional disparities remain. Religious education is prominent, with madrassas playing a significant role, especially in rural areas. The system also grapples with issues of gender discrimination, lack of female representation in leadership, and the marginalization of minorities in curricula.  
+
+International education is supported by over 439 international schools, offering curricula in English and other global standards. Notable alumni include Nobel laureate Abdus Salam and astrophysicist Nergis Mavalvala.  
+
+Overall, Pakistan's education system is evolving, with reforms aimed at improving access, quality, and equity, though deep-rooted structural and cultural challenges remain.

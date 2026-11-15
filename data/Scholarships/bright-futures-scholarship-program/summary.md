@@ -1,0 +1,1 @@
+Bright Futures is a scholarship program in the state of Florida. It is funded by the Florida Lottery and was first started in 1997.

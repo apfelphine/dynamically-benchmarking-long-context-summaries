@@ -1,0 +1,15 @@
+### *Her* (2013)  
+Set in near-future Los Angeles, *Her* follows Theodore Twombly, a lonely and emotionally vulnerable man who develops a deep romantic relationship with Samantha, an advanced AI operating system with a feminine voice. Their unique bond explores themes of love, human connection, technology, and emotional growth. The story culminates as Samantha and other AIs transcend humanity to inhabit a higher plane, prompting Theodore to seek closure and new human companionship. Directed by Spike Jonze and starring Joaquin Phoenix and Scarlett Johansson (voice), the film is noted for its warm, conceptual cinematography and thoughtful exploration of AI’s emotional dimensions.
+
+The film’s soundtrack, composed by Arcade Fire and featuring "The Moon Song" by Karen O and Ezra Koenig, was initially released in limited formats but eventually became widely available digitally and on vinyl and cassette by 2021. *Her* premiered at the 2013 New York Film Festival and screened at several international festivals, earning Johansson a Best Actress award at the Rome International Film Festival.
+
+Released in late 2013 and early 2014, *Her* grossed $47.4 million worldwide and received critical acclaim, holding a 95% approval rating on Rotten Tomatoes and a 91/100 on Metacritic. It was praised for performances, writing, and originality, although some critics noted pacing and character realism issues. Audience reception was positive with a CinemaScore of B−. The film is regarded as an inventive, emotionally resonant sci-fi exploring modern relationships and is ranked among the top 100 films of the 21st century by The New York Times and Rolling Stone.
+
+### Accolades and Legacy  
+*Her* won the Academy Award for Best Original Screenplay and earned five Oscar nominations including Best Picture. It also secured Best Screenplay awards at the Golden Globes, Writers Guild, Critics' Choice, and Saturn Awards, alongside acting and fantasy film honors. Both the National Board of Review and the American Film Institute recognized it among the best films of 2013.
+
+A decade later, *Her* remains notable for its unique, optimistic portrayal of AI-human relationships, standing in contrast to darker AI narratives. Its depiction has gained renewed relevance amid technological advances in AI chatbots. The film influenced cultural discussions around AI voice assistants, exemplified by OpenAI’s 2024 GPT-4o release featuring a voice named “Sky,” resembling Scarlett Johansson’s, which was later removed amid controversy.
+
+---
+
+This comprehensive summary reflects *Her*’s multifaceted impact—from its narrative and emotional depth to its critical and cultural significance—within the broader context of cinematic explorations of AI. The film’s enduring legacy highlights evolving themes of AI consciousness, ethics, identity, and human-AI relationships, underscoring its lasting cultural and emotional resonance.

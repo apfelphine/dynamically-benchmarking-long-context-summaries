@@ -1,0 +1,2 @@
+Humans have been observed performing violence against robots. Also referred to as anti-robot attacks and robot abuse.
+Brščić et al. define robot abuse as "Persistent offensive action, either verbal or non-verbal, or physical violence that violates the robot's role or its human-like (or animal-like) nature".

@@ -1,0 +1,13 @@
+**Comparative Analysis of Education Systems: China, Germany, India, and Greece**
+
+**System Overviews:**
+*   **China** features a centralized, mandatory nine-year K-12 system focused on STEM and CCP ideology, characterized by high academic pressure and increasing higher education autonomy amid systemic segregation.
+*   **Germany** uses a decentralized K-16 structure across 16 states, distinguished by its comprehensive Dual Education System for vocational training. Public and *Fachhochschulen* typically offer free tuition under the Bologna framework, though tracking equity remains a concern.
+*   **India's** "10+2" system struggles with underfunded public schools and high teacher absenteeism (25%); while primary enrollment is high (93%) and free until age 14, NEP 2020 seeks a "5+3+3+4" structure incorporating mother tongue instruction despite implementation hurdles.
+*   **Greece** employs a K-12 system with distinct secondary tracks (*Gymnasium* and *Lyceum*), using Pan-Hellenic Examinations for tertiary entry and planning IB Diploma integration.
+
+**Greek Education Frameworks and Qualifications:**
+Greek education offers varied specialized and vocational pathways, including the 2-year **EPAS Apprenticeship**, **PEPAS** for adults, and the 1-year **EPAL Post-lyceum Apprenticeship** linked to Level 6 undergraduate study. The **National Skills Competition** supports skilled public vocational students (aged 18-25). Higher education is provided by autonomous, often tuition-free Public HEIs and private entities, with some public options offering English-taught courses. Qualifications are standardized via the **Hellenic Qualification Framework (HQF)**, which aligns with EQF and ISCED levels, where Level 6 is the minimum for a legal "Degree."
+
+**Non-formal Learning and System Challenges:**
+Greece supports non-formal and lifelong learning through initiatives like the Greek Academic Network (GUnet) and specialized training from platforms such as the Citizens' Digital Academy, aligning with the UN Sustainable Development Goals. However, the Greek system faces severe criticisms, including widespread corruption in public schools, reports of criminal misconduct by educators (such as fraud and sexual abuse), and pervasive student abuse and bullying. Furthermore, historical corporal punishment (banned in 1998/2005) and constitutional violations regarding tuition fees in some HEIs are noted issues.

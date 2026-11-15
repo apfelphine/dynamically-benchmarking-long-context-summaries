@@ -1,0 +1,11 @@
+### Rankings, International Reach, and Student Demographics
+UBC remains a top-ranked Canadian research institution, consistently placing in the top 40 globally and top 5 in Canada, with a student body exceeding 72,000 (28% international) and a mean admission average of 89–91%. Established in 2014 to foster global engagement, the university offers diverse pathways like dual-degree programs with Sciences Po.
+
+### Research, Indigenous Support, and Financial Structure
+As Canada's second-largest spender on sponsored research, UBC manages critical hubs such as TRIUMF and the Stewart Blusson Quantum Matter Institute while supporting Indigenous communities through the Longhouse and specialized diplomas. The university maintains a balanced budget exceeding $3.8 billion in 2024–25. However, significant disparities in tuition costs between international and domestic students—where international fees rose over 60% in four years despite caps on domestic fees—have historically fueled student activism.
+
+### Campus Life, Facilities, and Student Culture
+Student life is vibrant and diverse, managed through student representation bodies like the Alma Mater Society (AMS) and Graduate Student Society (GSS), whose representatives serve on the board of governors and academic senate. The campus features extensive facilities, including the "Nest" Student Union Building, unique residence halls like Brock Commons Tallwood House, and a rich cultural calendar featuring Olympic-medal-winning Thunderbirds athletics, Greek organizations, and traditions such as "Storm the Wall." Beyond formal structures, students engage in faculty-organized events, charity runs like the Undie Run, and large-scale conferences like WorldMUN 2012. While engineering students are known for notable pranks, the university does not officially condone them.
+
+### Legacy and Impact
+UBC boasts an impressive legacy of notable alumni and faculty across diverse fields, including four Canadian Prime Ministers, eight Nobel laureates, and prominent figures in arts, science, technology, and academia. This distinguished history reflects the university's significant impact on global leadership and innovation.

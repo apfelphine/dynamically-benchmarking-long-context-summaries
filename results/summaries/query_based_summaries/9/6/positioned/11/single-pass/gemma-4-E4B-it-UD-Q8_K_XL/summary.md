@@ -1,0 +1,10 @@
+## Education in New Zealand
+
+**Historical and System Overview:**
+Before European arrival, Māori education, known as *wānanga*, was run by elders (*tohunga*) to transmit traditional knowledge to the chiefly class. Formal European-style schooling began in 1815. Following the abolition of the provinces in 1876, New Zealand established a free, compulsory, and secular national state education system from 1878, largely modeled on the Canterbury system. The education system operates with 13 year levels, where primary education spans Years 1–8 (with Years 7 and 8 being intermediate), and secondary education covers Years 9–13.
+
+**Curriculum and Access:**
+All citizens entitled to reside indefinitely are entitled to free primary and secondary schooling from age five until the end of the year following their 19th birthday, with compulsory education occurring between ages 6 and 16. State and state-integrated schools follow the national curriculum, which is The New Zealand Curriculum (NZC) for English-medium schools and Te Marautanga o Aotearoa (TMoA) for Māori-medium schools. While the majority attend state schools, there are state-integrated schools (retaining special character) and private schools. Early childhood education can be centre-based, teacher-led, or home-based, and all licensed services must adhere to the *Te Whāriki* curriculum framework.
+
+**Language and Standards:**
+While English is dominant, efforts are ongoing to increase Māori language education. The system utilizes different levels of Māori immersion: Māori Medium (taught $\ge 51\%$ of the time), Māori Language in English Medium ($\le 50\%$ of the time), and No Māori Language in Education. Students in Years 11 onwards generally work toward the National Certificate of Educational Achievement (NCEA), although some schools also offer Cambridge International Examinations (CIE) or the International Baccalaureate (IB). The system has faced criticism regarding student performance in mathematics, with recent TIMSS surveys showing low international rankings for some age groups.

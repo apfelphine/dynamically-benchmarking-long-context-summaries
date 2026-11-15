@@ -1,0 +1,23 @@
+{
+  "id": 1006389,
+  "title": "Marshall Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Marshall_Scholarship",
+  "path": "Scholarships\\marshall-scholarship",
+  "summary": {
+    "chars": 2349,
+    "tokens": 459
+  },
+  "document": {
+    "chars": 56307,
+    "tokens": 8194
+  },
+  "infobox": {
+    "title": "Marshall Scholarship",
+    "data": {
+      "Awarded for": "Americans to study for a graduate degree in the United Kingdom",
+      "Sponsored by": "Marshall Aid Commemoration Commission",
+      "Established": "1953 by Parliament of the United Kingdom",
+      "Website": "marshallscholarship.org"
+    }
+  }
+}

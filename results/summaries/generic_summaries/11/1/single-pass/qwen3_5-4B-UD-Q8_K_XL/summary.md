@@ -1,0 +1,107 @@
+# Transformer
+
+## History and Evolution
+The Transformer architecture emerged in 2017 with the publication of "Attention Is All You Need," introducing a mechanism to process all tokens in a sequence in parallel rather than sequentially, as traditional Recurrent Neural Networks (RNNs) did. While early seq2seq models used LSTMs or GRUs with fixed-size state vectors, the introduction of self-attention allowed models to capture long-distance dependencies efficiently. Early variants like the RNN search model utilized attention to emulate searching through source sentences, but the original Transformer removed recurrence entirely, relying on multi-head attention mechanisms to maintain performance while enabling massive parallelization on GPUs. This shift marked the beginning of an AI boom, leading to the development of decoder-only models like GPT (used in ChatGPT) and encoder-only models like BERT, which revolutionized language modeling, search, and various downstream tasks.
+
+## Architecture and Training
+Transformers consist of tokenizers, embedding layers, stacked transformer layers (comprising self-attention and feedforward networks), and un-embedding layers. The core mechanism is the scaled dot-product attention, which computes relevance between tokens via query, key, and value matrices. To handle sequence order, positional encodings are added to embeddings, allowing the model to understand relative positions. Training typically follows a pretrain-finetune paradigm, where models are first trained on large unlabeled corpora using masked or autoregressive tasks before being fine-tuned on specific domains. Variants include encoder-only architectures (BERT), decoder-only models (GPT), and encoder-decoder hybrids (T5), with adaptations like prefix language models and mixed architectures (transformer-encoder, RNN-decoder) also existing for specific use cases.
+
+## Subsequent Work and Applications
+Subsequent research has focused on improving efficiency and capabilities. To address the quadratic computational cost of attention over long sequences, methods like FlashAttention, multi-query attention (MQA), and sub-quadratic architectures (e.g., Reformer, BigBird) have been developed. Positional encodings have also evolved from fixed sinusoidal functions to learnable embeddings or relative encodings like RoPE and ALiBi. Beyond text, Vision Transformers (ViT) have adapted the architecture for computer vision by treating images as sequences of patches, achieving state-of-the-art results in classification and object detection. Transformers are now foundational in multimodal applications, including image generation (DALL-E, Stable Diffusion), speech recognition, robotics, and scientific modeling.
+
+# Convolutional Neural Network
+
+## Architecture and Principles
+A Convolutional Neural Network (CNN) is designed to exploit the strong spatial correlations present in grid-topology data like images. Unlike fully connected networks, which suffer from the curse of dimensionality, CNNs utilize local connectivity, shared weights, and pooling to reduce parameter count and computational complexity. The architecture typically stacks convolutional layers, which apply learnable filters to extract local features, followed by pooling layers that reduce spatial dimensions and provide translation invariance. Fully connected layers are often reserved for the final classification stage after the feature maps have been flattened. Key properties include 3D volumes of neurons, local receptive fields that grow deeper in the network, and parameter sharing that grants translational equivariance.
+
+## History and Building Blocks
+The concept of convolutional layers traces back to early attempts by Fukushima and Neocognitron, but the modern CNN architecture was solidified by Yann LeCun's work in the late 1980s and early 1990s on shift-invariant pattern recognition and the LeNet-5 system for digit recognition. The breakthrough came in 2012 with AlexNet, a GPU-accelerated CNN that won the ImageNet challenge, catalyzing the deep learning revolution. Common building blocks include convolutional layers with varying kernel sizes and strides, max and average pooling layers, ReLU activation functions to introduce non-linearity, and fully connected layers for output. Advanced techniques like dilated convolutions expand receptive fields without increasing depth, while depthwise separable convolutions improve efficiency.
+
+## Variants and Applications
+CNNs have evolved into specialized architectures for specific tasks, such as ResNet with residual connections to train deeper networks, Inception with multi-scale convolutions, and EfficientNet with compound scaling. In image generation, deconvolutional (transposed convolution) layers and unpooling layers are used to reconstruct images. Regularization techniques like dropout and weight decay are crucial for preventing overfitting. Applications span computer vision benchmarks (ImageNet), facial recognition, object detection, and video analysis. Beyond vision, CNNs are applied in natural language processing for semantic parsing and time series forecasting, as well as in drug discovery for analyzing molecular structures and anomaly detection in various domains.
+
+# Generative Adversarial Network
+
+## Definition and Game Theory
+A Generative Adversarial Network (GAN) is a generative model based on a zero-sum game between two neural networks: a generator and a discriminator. The generator attempts to produce synthetic data that mimics a reference distribution, while the discriminator tries to distinguish between real data and the generator's fakes. Mathematically, this is formulated as a minimax game where the generator minimizes a loss function involving the discriminator's output, and the discriminator maximizes it. The theoretical foundation relies on measure-theoretic concepts, where the optimal discriminator computes the likelihood ratio between the generated and reference distributions, effectively estimating the Jensen-Shannon divergence.
+
+## Training Challenges and Variants
+Training GANs is notoriously difficult due to issues like mode collapse (where the generator produces limited variety) and vanishing gradients (when the discriminator becomes too good). To address these, various strategies and variants have been developed. The Wasserstein GAN (WGAN) replaces the original loss with the Wasserstein distance and constrains the discriminator's Lipschitz norm to ensure stable gradients. Conditional GANs allow generation based on labels, while InfoGAN attempts to learn disentangled representations by maximizing mutual information. Other architectures include CycleGAN for unpaired image-to-image translation and StyleGAN, which uses progressive growth and style modulation to generate high-resolution images with fine-grained control.
+
+## Applications and Ethics
+GANs have found widespread use in creating synthetic data for training, enhancing image quality, and generating art and music. They are applied in scientific simulations, medical imaging for privacy preservation, and forensic facial reconstruction. However, their power to generate realistic human faces and videos has raised significant ethical concerns regarding deepfakes, misinformation, and the creation of fake pornography. Consequently, legislative efforts in various jurisdictions, such as California's AB-602, have been enacted to regulate the use of synthetic media technologies.
+
+# Hopfield Network
+
+## Associative Memory and Structure
+The Hopfield network is a recurrent neural network designed to function as a content-addressable memory system, capable of recalling complete patterns from partial or noisy inputs. It consists of binary threshold units connected symmetrically, where the interaction weights are learned via Hebbian learning rules. The network operates by updating neuron states asynchronously until it converges to a stable state, known as an attractor. This energy function ensures that the network dynamics always move towards a local minimum, making it robust against perturbations. While originally limited by small memory capacity, modern Hopfield networks (Dense Associative Memories) have been generalized to achieve exponential storage capacity through higher-order interactions and continuous variables.
+
+## Dynamics and Optimization
+Hopfield networks are often utilized for solving optimization problems by embedding the cost function into the network's energy landscape. By minimizing the energy function, the network finds solutions to problems like the traveling-salesman problem or combinatorial optimization tasks. The network can store multiple patterns, though "spurious patterns" (unintended attractors) may arise, limiting capacity. Training involves lowering the energy of desired states, and while the thresholds are fixed, weights are updated based on input patterns. The model is biologically inspired, linking neuronal activity to associative learning and recall, and has been shown to account for phenomena like rapid forgetting and contextual drift in human memory.
+
+# Wasserstein GAN
+
+## Motivation and Mathematical Foundation
+The Wasserstein GAN (WGAN) was developed to address the instability and lack of informative gradients in standard GANs. The core motivation lies in replacing the Jensen-Shannon divergence with the Wasserstein distance (Earth Mover's Distance), which provides a meaningful metric even when the generated and reference distributions have disjoint support. Based on the Kantorovich-Rubenstein duality, the WGAN objective is defined as the difference in expected values of a discriminator function with a bounded Lipschitz norm. This ensures that the discriminator acts as a reliable critic, providing consistent gradient signals to the generator regardless of the distribution's overlap.
+
+## Implementation Strategies
+To enforce the Lipschitz constraint on the discriminator, several methods are employed. Weight clipping involves limiting the magnitude of the weights in the discriminator's network. Spectral normalization dynamically scales the weight matrices to control the operator norm, offering a more efficient and continuous approach. Additionally, a gradient penalty term can be added to the loss function to penalize deviations in the gradient norm, effectively regularizing the discriminator's output. These techniques collectively stabilize training, prevent mode collapse, and allow for better convergence compared to the original GAN formulation.
+
+# Recurrent Neural Network
+
+## History and Architectures
+Recurrent Neural Networks (RNNs) are designed to model sequences by maintaining a hidden state that captures information from previous time steps. Early models like the Elman and Jordan networks introduced context units to allow feedback, solving the limitation of static weights in feedforward networks. The Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) architectures, introduced in the mid-1990s and 2014 respectively, solved the vanishing gradient problem, enabling RNNs to learn long-term dependencies. Modern applications include stacked RNNs, bidirectional RNNs (BiRNNs) that process sequences in both directions, and encoder-decoder setups that revolutionized machine translation before the rise of Transformers.
+
+## Training and Variants
+Training RNNs typically involves "backpropagation through time" (BPTT), which unrolls the network across time steps to compute gradients. Challenges include the vanishing and exploding gradient problems, which are mitigated by LSTM gates and alternative architectures like Independently Recurrent Neural Networks (IndRNN). Specialized loss functions like Connectionist Temporal Classification (CTC) handle variable-length sequences. Variants include Echo State Networks (ESN) with random hidden layers, Neural Turing Machines with external memory, and continuous-time RNNs modeled by differential equations. These architectures are foundational for time series prediction, speech recognition, and natural language processing.
+
+# Vision Transformer
+
+## Overview and History
+The Vision Transformer (ViT) adapts the Transformer architecture for computer vision by treating an image as a sequence of fixed-size patches. Introduced in 2020, ViT replaced convolutional kernels with self-attention mechanisms, achieving state-of-the-art results in image classification and surpassing the long-standing dominance of Convolutional Neural Networks (CNNs). The input image is split into patches, linearly projected into embeddings, and combined with positional encodings to feed into a standard Transformer encoder. This approach allows the model to capture global context and long-range dependencies more effectively than CNNs, though it requires significant computational resources and large datasets.
+
+## Variants and Derivatives
+Since its inception, ViT has spawned numerous variants aimed at improving efficiency, accuracy, and applicability. The Swin Transformer introduced shifted window attention to reduce computational complexity, while the Masked Autoencoder (MAE) utilized self-supervised learning to pretrain on large datasets. DINO (Self-Distillation with No Labels) and DINOv2/v3 focus on self-supervised training using teacher-student distillation, with DINOv3 introducing image-text alignment. Other adaptations include TimeSformer for video understanding and CoAtNet, which hybridizes CNN and Transformer layers. These developments have led to the use of Transformers in object detection, segmentation, and image generation.
+
+# Radial Basis Function Network
+
+## Architecture and Theory
+A Radial Basis Function (RBF) network typically consists of three layers: an input layer, a hidden layer with non-linear RBF activation functions, and a linear output layer. The hidden neurons act as local feature detectors, with their activation depending on the distance between the input and the neuron's center vector. Commonly, Gaussian basis functions are used, which decay smoothly away from the center. The network is a universal approximator, meaning it can approximate any continuous function on a compact subset given enough hidden neurons. The parameters are often determined in two steps: first, the centers are chosen (often via clustering), and second, the output weights are fitted using linear regression or least squares.
+
+## Training and Applications
+Training RBF networks involves an unsupervised step to determine the center vectors and a supervised step to optimize the output weights. Normalization techniques can be applied to ensure the basis functions sum to one, improving stability. RBF networks are particularly effective for function approximation, time series prediction, and control of chaotic systems, such as the logistic map. They offer advantages over multi-layer perceptrons in terms of computational efficiency and interpretability, as the hidden units correspond to specific regions of the input space. Applications include pattern recognition, interpolation, and modeling complex dynamic systems where local linearity is a desirable property.
+
+# Class Activation Mapping
+
+## Background and Methods
+Class Activation Mapping (CAM) techniques are used to interpret and visualize the regions in an image that a Convolutional Neural Network (CNN) uses to make a classification decision. The foundational approach, introduced by Simonyan et al., synthesizes an idealized input image that maximizes the class score by backpropagating gradients. A more practical method, Saliency Maps, computes the gradient of the class score with respect to the input pixels to highlight influential regions. These methods provide insights into model behavior, helping to understand and debug deep learning systems.
+
+## Evolved Versions
+Grad-CAM (Gradient-weighted Class Activation Mapping) generalized CAM by computing gradients with respect to feature maps rather than raw inputs, making it model-agnostic and applicable to any CNN architecture without retraining. It produces heatmaps by weighting feature maps with global-average-pooled gradients. Further refinements include Guided Grad-CAM, which combines Grad-CAM with Guided Backpropagation for higher resolution; Grad-CAM++, which uses pixel-wise gradients to handle multiple objects better; Score-CAM, which is gradient-free and uses model confidence scores; and Layer-CAM, which aggregates gradients from multiple layers to improve localization. These tools are essential for Explainable AI (XAI) in critical domains like medical imaging and autonomous driving.
+
+# Autoencoder
+
+## Mathematical Principles
+An autoencoder is a neural network architecture designed to learn a compressed representation of input data by encoding it into a lower-dimensional latent space and then decoding it back to the original space. The goal is to minimize the reconstruction error, typically measured by L2 loss. To prevent trivial solutions (where the network simply copies the input), the latent space is often constrained to be smaller than the input space (undercomplete). The encoder maps the input to the code, and the decoder reconstructs the message. This architecture is fundamental for dimensionality reduction, feature learning, and unsupervised representation learning.
+
+## Variations and Applications
+Various modifications enhance the capabilities of autoencoders. Variational Autoencoders (VAEs) introduce probabilistic latent spaces for generative modeling. Sparse Autoencoders enforce sparsity in the latent code to improve interpretability. Denoising Autoencoders (DAEs) are trained on corrupted inputs to learn robust representations. Contractive Autoencoders add regularization to ensure invariance to small input perturbations. Minimum Description Length Autoencoders optimize for total description length. Applications include image compression, anomaly detection (by flagging high reconstruction error), dimensionality reduction, and drug discovery for generating novel molecules.
+
+# Variational Autoencoder
+
+## Overview and Formulation
+A Variational Autoencoder (VAE) is a generative model that combines an autoencoder with probabilistic inference. Instead of learning a fixed latent vector, it learns a probability distribution (the posterior) over the latent space. The model is trained to maximize the Evidence Lower Bound (ELBO), which balances two terms: the reconstruction error (ensuring the decoder can recreate the input) and the Kullback-Leibler (KL) divergence (ensuring the learned latent distribution matches a prior, usually a standard Gaussian). This allows for smooth interpolation between samples and the generation of new, coherent data points.
+
+## Reparameterization and Variants
+To enable gradient-based optimization, the VAE uses the reparameterization trick, where the latent variable is constructed by adding noise to the mean and scaling it by the standard deviation, both of which are outputs of the encoder. This allows gradients to flow through the stochastic sampling process. Variants include $\beta$-VAE, which controls the strength of the KL penalty to discover disentangled latent factors, and Conditional VAEs, which incorporate label information. Statistical distance VAEs replace the KL divergence with other metrics like Wasserstein or Maximum Mean Discrepancy to improve performance on specific tasks.
+
+# Graph Neural Network
+
+## Architecture and Message Passing
+Graph Neural Networks (GNNs) are designed to process data with graph structures, where nodes and edges represent relationships. The core mechanism is message passing, where node representations are updated by aggregating information from their neighbors. This process is permutation-equivariant, meaning the output representation order matches the input node order. A standard layer involves a message function that computes interactions between a node and its neighbors, followed by an aggregation function (e.g., sum, mean) and an update function. Stacking these layers allows nodes to communicate across the graph, expanding the receptive field up to the graph diameter.
+
+## Variants and Challenges
+Specific GNN architectures include Graph Convolutional Networks (GCNs), which use spectral filters, and Graph Attention Networks (GATs), which learn attention coefficients to weigh neighbor importance. GNNs face challenges like oversmoothing (where node representations become indistinguishable after many layers) and oversquashing (where long-range dependencies are lost). To address these, techniques like skip connections, gated updates, and modifying the final layer to consider the graph as complete are used. GNNs are limited in expressiveness compared to the Weisfeiler–Leman test but have proven highly effective for tasks like node classification, link prediction, and graph generation.
+
+## Applications
+GNNs have found extensive applications across diverse domains. In protein folding, they are the backbone of AlphaFold for predicting 3D structures. In social networks, they power recommender systems by modeling user-item interactions. They are used in combinatorial optimization for routing and scheduling, cyber security for anomaly detection in network graphs, and computer vision by representing images as graphs of patches. They also enhance Natural Language Processing tasks by capturing semantic relationships between words and entities.

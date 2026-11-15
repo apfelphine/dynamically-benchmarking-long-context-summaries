@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function (RBF) Networks\nRBF networks consist of three layers: input, hidden (with radial basis functions), and output. The hidden layer uses non-linear RBF activation functions, typically Gaussian, which are symmetric around a center vector. The output is a weighted sum of these functions. RBF networks are universal approximators and can be trained using two-step methods: first, selecting centers (e.g., via k-means), then optimizing weights. Normalized versions use normalized basis functions for better stability. Local linear models extend the architecture to include linear terms. Applications include function approximation, interpolation, and time series prediction.",
+        "text_original": "RBF networks consist of three layers: input, hidden (with radial basis functions), and output. The hidden layer uses non-linear RBF activation functions, typically Gaussian, which are symmetric around a center vector. The output is a weighted sum of these functions. RBF networks are universal approximators and can be trained using two-step methods: first, selecting centers (e.g., via k-means), then optimizing weights. Normalized versions use normalized basis functions for better stability. Local linear models extend the architecture to include linear terms. Applications include function approximation, interpolation, and time series prediction",
+        "idx_start": 41,
+        "idx_end": 691
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoders\nAutoencoders compress data into a latent space and reconstruct it. They consist of an encoder and decoder, trained to minimize reconstruction error. Variants include Variational Autoencoders (VAEs), which use probabilistic modeling with KL divergence, and sparse autoencoders, which enforce sparsity in latent codes. Denoising autoencoders use corrupted inputs to improve robustness. Contractive autoencoders add regularization to prevent overfitting. Applications span dimensionality reduction, anomaly detection, and image processing.",
+        "text_original": "Autoencoders compress data into a latent space and reconstruct it. They consist of an encoder and decoder, trained to minimize reconstruction error. Variants include Variational Autoencoders (VAEs), which use probabilistic modeling with KL divergence, and sparse autoencoders, which enforce sparsity in latent codes. Denoising autoencoders use corrupted inputs to improve robustness. Contractive autoencoders add regularization to prevent overfitting. Applications span dimensionality reduction, anomaly detection, and image processing",
+        "idx_start": 711,
+        "idx_end": 1246
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Networks (RNNs)\nRNNs process sequential data using feedback loops. Key architectures include Elman and Jordan networks, Long Short-Term Memory (LSTM), and Gated Recurrent Units (GRU). RNNs are trained using backpropagation through time (BPTT) or gradient descent. Applications include time series prediction, speech recognition, and machine translation. Bidirectional RNNs process sequences in both directions. Applications include language modeling and control.",
+        "text_original": "RNNs process sequential data using feedback loops. Key architectures include Elman and Jordan networks, Long Short-Term Memory (LSTM), and Gated Recurrent Units (GRU). RNNs are trained using backpropagation through time (BPTT) or gradient descent. Applications include time series prediction, speech recognition, and machine translation. Bidirectional RNNs process sequences in both directions. Applications include language modeling and control",
+        "idx_start": 1286,
+        "idx_end": 1731
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Networks (GNNs)\nGNNs process graph-structured data using message passing between nodes. They consist of message passing layers, local pooling, and global pooling. GATs use attention mechanisms to focus on important nodes. Applications include social networks, protein folding, and cybersecurity.",
+        "text_original": "GNNs process graph-structured data using message passing between nodes. They consist of message passing layers, local pooling, and global pooling. GATs use attention mechanisms to focus on important nodes. Applications include social networks, protein folding, and cybersecurity",
+        "idx_start": 1767,
+        "idx_end": 2045
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Networks\nHopfield networks are associative memory systems with binary neurons and symmetric weights. They store patterns via Hebbian learning and converge to stable states. Modern versions use continuous dynamics and higher-order interactions for larger memory capacity. Applications include optimization and content-based retrieval.",
+        "text_original": "Hopfield networks are associative memory systems with binary neurons and symmetric weights. They store patterns via Hebbian learning and converge to stable states. Modern versions use continuous dynamics and higher-order interactions for larger memory capacity. Applications include optimization and content-based retrieval",
+        "idx_start": 2070,
+        "idx_end": 2393
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoders (VAEs)\nVAEs generate data by learning a latent distribution. They use a variational inference approach to approximate posterior distributions. The evidence lower bound (ELBO) is maximized to balance reconstruction and KL divergence. Variants include \u03b2-VAE (for disentangled representations) and conditional VAEs. Applications include image generation and anomaly detection.",
+        "text_original": "VAEs generate data by learning a latent distribution. They use a variational inference approach to approximate posterior distributions. The evidence lower bound (ELBO) is maximized to balance reconstruction and KL divergence. Variants include \u03b2-VAE (for disentangled representations) and conditional VAEs. Applications include image generation and anomaly detection",
+        "idx_start": 2432,
+        "idx_end": 2797
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Networks (CNNs)\nCNNs process grid-like data (e.g., images) using convolutional layers, pooling, and fully connected layers. They exploit spatial locality and shared weights. Applications include image classification, object detection, and video analysis. Architectures like ResNet and ViT extend CNNs to deeper and more complex tasks.",
+        "text_original": "CNNs process grid-like data (e.g., images) using convolutional layers, pooling, and fully connected layers. They exploit spatial locality and shared weights. Applications include image classification, object detection, and video analysis. Architectures like ResNet and ViT extend CNNs to deeper and more complex tasks",
+        "idx_start": 2841,
+        "idx_end": 3158
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM)\nCAM and Grad-CAM generate heatmaps to highlight regions of an image that contribute to a classification decision. CAM uses global average pooling, while Grad-CAM computes gradients of class scores with respect to feature maps. These methods provide interpretability in CNNs.",
+        "text_original": "CAM and Grad-CAM generate heatmaps to highlight regions of an image that contribute to a classification decision. CAM uses global average pooling, while Grad-CAM computes gradients of class scores with respect to feature maps. These methods provide interpretability in CNNs",
+        "idx_start": 3196,
+        "idx_end": 3469
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformers\nTransformers use self-attention mechanisms to process sequences in parallel. They consist of encoder-decoder blocks with multi-head attention and feedforward layers. Applications include natural language processing, speech recognition, and vision tasks. Vision Transformers (ViTs) apply attention to image patches. Variants include Swin, TimeSformer, and DINO.",
+        "text_original": "Transformers use self-attention mechanisms to process sequences in parallel. They consist of encoder-decoder blocks with multi-head attention and feedforward layers. Applications include natural language processing, speech recognition, and vision tasks. Vision Transformers (ViTs) apply attention to image patches. Variants include Swin, TimeSformer, and DINO",
+        "idx_start": 3489,
+        "idx_end": 3848
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs)\nGANs involve a generator and discriminator in a zero-sum game. The generator creates data, and the discriminator evaluates it. Training is stable with Wasserstein GAN (WGAN), which uses Wasserstein distance. Applications include image generation, medical imaging, and scientific modeling. Variants include conditional GANs, StyleGAN, and CycleGAN.",
+        "text_original": "GANs involve a generator and discriminator in a zero-sum game. The generator creates data, and the discriminator evaluates it. Training is stable with Wasserstein GAN (WGAN), which uses Wasserstein distance. Applications include image generation, medical imaging, and scientific modeling. Variants include conditional GANs, StyleGAN, and CycleGAN",
+        "idx_start": 3894,
+        "idx_end": 4240
+    }
+]

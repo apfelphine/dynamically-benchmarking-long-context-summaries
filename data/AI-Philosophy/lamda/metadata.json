@@ -1,0 +1,24 @@
+{
+  "id": 70993391,
+  "title": "LaMDA",
+  "url": "https://en.wikipedia.org/wiki/LaMDA",
+  "path": "AI-Philosophy\\lamda",
+  "summary": {
+    "chars": 804,
+    "tokens": 167
+  },
+  "document": {
+    "chars": 8102,
+    "tokens": 1741
+  },
+  "infobox": {
+    "title": "LaMDA",
+    "data": {
+      "Developer": "Google Brain",
+      "Successor": "PaLM",
+      "Available in": "English",
+      "Type": "Large language model",
+      "License": "Proprietary"
+    }
+  }
+}

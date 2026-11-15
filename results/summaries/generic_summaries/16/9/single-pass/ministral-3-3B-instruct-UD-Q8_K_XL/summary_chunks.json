@@ -1,0 +1,457 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n## History\nHarvard, founded in 1636, traces its roots to Puritan ideals, initially training clergy and offering classical education. Its early curriculum was shaped by Puritanism, though it later embraced Enlightenment ideas. The university\u2019s governance evolved from the Harvard Corporation, with notable figures like Charles W. Eliot (21st president) promoting secularization. In the 20th century, Harvard expanded its graduate schools and diversified its student body, including Radcliffe College, which merged with Harvard in 1999. Recent controversies include political protests, unionization efforts, and controversies over antisemitism and funding restrictions.",
+        "text_original": "Harvard, founded in 1636, traces its roots to Puritan ideals, initially training clergy and offering classical education. Its early curriculum was shaped by Puritanism, though it later embraced Enlightenment ideas. The university\u2019s governance evolved from the Harvard Corporation, with notable figures like Charles W. Eliot (21st president) promoting secularization. In the 20th century, Harvard expanded its graduate schools and diversified its student body, including Radcliffe College, which merged with Harvard in 1999. Recent controversies include political protests, unionization efforts, and controversies over antisemitism and funding restrictions",
+        "idx_start": 39,
+        "idx_end": 694
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n## Campuses\n- **Cambridge** : The main 209-acre campus includes Harvard Yard, libraries (Houghton, Lamont, Pusey, Widener), and academic buildings like Massachusetts Hall and Memorial Church. It also houses schools like Law, Divinity, and Engineering.\n- **Allston** : Home to Harvard Business School, Innovation Labs, and athletics facilities, with ongoing expansions.\n- **Longwood** : Medical, dental, and public health schools are located here.\n- **Other** : Offices in D.C., research centers in China, and the Arnold Arboretum in Boston.",
+        "text_original": "Cambridge**: The main 209-acre campus includes Harvard Yard, libraries (Houghton, Lamont, Pusey, Widener), and academic buildings like Massachusetts Hall and Memorial Church. It also houses schools like Law, Divinity, and Engineering.\n- **Allston**: Home to Harvard Business School, Innovation Labs, and athletics facilities, with ongoing expansions.\n- **Longwood**: Medical, dental, and public health schools are located here.\n- **Other**: Offices in D.C., research centers in China, and the Arnold Arboretum in Boston",
+        "idx_start": 714,
+        "idx_end": 1233
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n## Organization and Administration\nHarvard operates under a dual governance system: the Harvard Corporation (students, faculty, and alumni) and the Board of Overseers. It has the world\u2019s largest endowment (~$50.7 billion), funding degree programs and financial aid. The university has faced criticism over governance transparency and academic senates. Divestment campaigns have targeted controversial investments, including fossil fuels and apartheid-era holdings.",
+        "text_original": "Harvard operates under a dual governance system: the Harvard Corporation (students, faculty, and alumni) and the Board of Overseers. It has the world\u2019s largest endowment (~$50.7 billion), funding degree programs and financial aid. The university has faced criticism over governance transparency and academic senates. Divestment campaigns have targeted controversial investments, including fossil fuels and apartheid-era holdings",
+        "idx_start": 1272,
+        "idx_end": 1700
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n## Academics\nHarvard offers 50 undergraduate majors, 134 graduate degrees, and 32 professional degrees. The Faculty of Arts and Sciences is the largest, with interdisciplinary programs. Notable schools include Medicine, Law, and Business. Research spans biomedical sciences, engineering, and social sciences, with strong ties to MIT and other institutions. The university\u2019s libraries, including Widener and Houghton, hold over 20 million items. The McMullen Museum of Art and Harvard Art Museums feature works by Winslow Homer and Pablo Picasso.",
+        "text_original": "Harvard offers 50 undergraduate majors, 134 graduate degrees, and 32 professional degrees. The Faculty of Arts and Sciences is the largest, with interdisciplinary programs. Notable schools include Medicine, Law, and Business. Research spans biomedical sciences, engineering, and social sciences, with strong ties to MIT and other institutions. The university\u2019s libraries, including Widener and Houghton, hold over 20 million items. The McMullen Museum of Art and Harvard Art Museums feature works by Winslow Homer and Pablo Picasso",
+        "idx_start": 1717,
+        "idx_end": 2248
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n## Reputation and Rankings\nHarvard is consistently ranked among the top universities globally, with a strong reputation in STEM, law, and business. It is known for its rigorous admissions, high employment rates, and elite alumni network. The university\u2019s interdisciplinary approach and emphasis on innovation have cemented its status as a leader in higher education.",
+        "text_original": "Harvard is consistently ranked among the top universities globally, with a strong reputation in STEM, law, and business. It is known for its rigorous admissions, high employment rates, and elite alumni network. The university\u2019s interdisciplinary approach and emphasis on innovation have cemented its status as a leader in higher education",
+        "idx_start": 2279,
+        "idx_end": 2617
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## History\nPeking University, established in 1898 under the Hundred Days\u2019 Reform, was the first modern university in China. Founded as the Imperial University of Peking, it later became the National University of Peking. The university expanded under Cai Yuanpei, a German-educated scholar, who introduced academic freedom and modernized its curriculum. It played a key role in the May Fourth Movement and later in China\u2019s post-war reconstruction. In the 21st century, Peking University has grown into a global research powerhouse, with collaborations in art, science, and technology.",
+        "text_original": "Peking University, established in 1898 under the Hundred Days\u2019 Reform, was the first modern university in China. Founded as the Imperial University of Peking, it later became the National University of Peking. The university expanded under Cai Yuanpei, a German-educated scholar, who introduced academic freedom and modernized its curriculum. It played a key role in the May Fourth Movement and later in China\u2019s post-war reconstruction. In the 21st century, Peking University has grown into a global research powerhouse, with collaborations in art, science, and technology",
+        "idx_start": 2663,
+        "idx_end": 3235
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## Campuses\n- **Main Campus** : Located in Beijing\u2019s former imperial gardens, the campus features traditional Chinese-style landscaping, including pagodas, gardens, and historical buildings. Notable structures include the West Gate, Weiming Lake, and the Chau Chak Wing Museum.\n- **Aqaba** : A branch campus in Jordan, focusing on research and student life.\n- **Other** : Shenzhen Graduate School, Dumbarton Oaks (Washington, D.C.), and the Villa I Tatti (Florence, Italy).",
+        "text_original": "Main Campus**: Located in Beijing\u2019s former imperial gardens, the campus features traditional Chinese-style landscaping, including pagodas, gardens, and historical buildings. Notable structures include the West Gate, Weiming Lake, and the Chau Chak Wing Museum.\n- **Aqaba**: A branch campus in Jordan, focusing on research and student life.\n- **Other**: Shenzhen Graduate School, Dumbarton Oaks (Washington, D.C.), and the Villa I Tatti (Florence, Italy",
+        "idx_start": 3255,
+        "idx_end": 3707
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## Organization and Administration\nPeking University is governed by a Board of Trustees and a President, with faculties and research centers overseeing academic operations. The university has a strong focus on applied and interdisciplinary research, with over 420 research institutions. It is known for its extensive library system, which holds over 8 million items, and its global excellence strategy, aiming to enhance international cooperation.",
+        "text_original": "Peking University is governed by a Board of Trustees and a President, with faculties and research centers overseeing academic operations. The university has a strong focus on applied and interdisciplinary research, with over 420 research institutions. It is known for its extensive library system, which holds over 8 million items, and its global excellence strategy, aiming to enhance international cooperation",
+        "idx_start": 3747,
+        "idx_end": 4158
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## Academics\nPeking University offers 137 undergraduate majors, 59 master\u2019s programs, and 59 doctoral programs. It is renowned for its strengths in engineering, medicine, and humanities. The university\u2019s research spans fields like biotechnology, climate science, and social policy, with partnerships with institutions worldwide. Its libraries, including the Chau Chak Wing Museum, house significant collections in East Asian studies and natural history.",
+        "text_original": "Peking University offers 137 undergraduate majors, 59 master\u2019s programs, and 59 doctoral programs. It is renowned for its strengths in engineering, medicine, and humanities. The university\u2019s research spans fields like biotechnology, climate science, and social policy, with partnerships with institutions worldwide. Its libraries, including the Chau Chak Wing Museum, house significant collections in East Asian studies and natural history",
+        "idx_start": 4175,
+        "idx_end": 4614
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## Reputation and Rankings\nPeking University is consistently ranked among the top universities in Asia and globally. It is recognized for its research output, particularly in STEM fields, and its commitment to sustainability and innovation. The university\u2019s interdisciplinary approach and strong ties to industry have solidified its reputation as a leader in higher education.",
+        "text_original": "Peking University is consistently ranked among the top universities in Asia and globally. It is recognized for its research output, particularly in STEM fields, and its commitment to sustainability and innovation. The university\u2019s interdisciplinary approach and strong ties to industry have solidified its reputation as a leader in higher education",
+        "idx_start": 4645,
+        "idx_end": 4993
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## History\nBoston College, founded in 1857 by Jesuits, initially focused on educating Irish Catholic immigrants. It later expanded to include co-education and professional schools like Law and Business. The university faced financial challenges in the 1970s but grew under J. Donald Monan\u2019s leadership. In the 21st century, Boston College has focused on academic excellence, social responsibility, and innovation, with plans to merge with Weston Jesuit School of Theology.",
+        "text_original": "Boston College, founded in 1857 by Jesuits, initially focused on educating Irish Catholic immigrants. It later expanded to include co-education and professional schools like Law and Business. The university faced financial challenges in the 1970s but grew under J. Donald Monan\u2019s leadership. In the 21st century, Boston College has focused on academic excellence, social responsibility, and innovation, with plans to merge with Weston Jesuit School of Theology",
+        "idx_start": 5036,
+        "idx_end": 5496
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Campuses\n- **Chestnut Hill** : The main campus includes 175 acres with over 120 buildings, including Gasson Hall, the main administrative building. It houses schools like Law, Business, and Theology.\n- **Newton** : Houses the Law School and freshman dormitories.\n- **Brighton** : Features the School of Theology and Design facilities.\n- **Brookline** : Home to Messina College, offering associate degrees.",
+        "text_original": "Chestnut Hill**: The main campus includes 175 acres with over 120 buildings, including Gasson Hall, the main administrative building. It houses schools like Law, Business, and Theology.\n- **Newton**: Houses the Law School and freshman dormitories.\n- **Brighton**: Features the School of Theology and Design facilities.\n- **Brookline**: Home to Messina College, offering associate degrees",
+        "idx_start": 5516,
+        "idx_end": 5903
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Organization and Administration\nBoston College operates under a Jesuit governance model, with a chancellor, president, and faculty-led administration. It is known for its strong Catholic and Jesuit values, though it has become increasingly secular. The university has faced controversies over student protests, racial issues, and LGBTQ+ rights.",
+        "text_original": "Boston College operates under a Jesuit governance model, with a chancellor, president, and faculty-led administration. It is known for its strong Catholic and Jesuit values, though it has become increasingly secular. The university has faced controversies over student protests, racial issues, and LGBTQ+ rights",
+        "idx_start": 5942,
+        "idx_end": 6253
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Academics\nBoston College offers 9 constituent colleges and schools, including the Carroll School of Management and the Lynch School of Education. It is ranked among the top universities in the U.S. for business and education. The university\u2019s research spans fields like theology, social work, and engineering. Its libraries, including the McMullen Museum of Art, hold significant collections in Jesuitana and Irish literature.",
+        "text_original": "Boston College offers 9 constituent colleges and schools, including the Carroll School of Management and the Lynch School of Education. It is ranked among the top universities in the U.S. for business and education. The university\u2019s research spans fields like theology, social work, and engineering. Its libraries, including the McMullen Museum of Art, hold significant collections in Jesuitana and Irish literature",
+        "idx_start": 6270,
+        "idx_end": 6685
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Reputation and Rankings\nBoston College is recognized for its strong business and education programs, with a focus on Catholic values and social responsibility. It is consistently ranked among the top universities in the U.S., particularly in the fields of business and law.",
+        "text_original": "Boston College is recognized for its strong business and education programs, with a focus on Catholic values and social responsibility. It is consistently ranked among the top universities in the U.S., particularly in the fields of business and law",
+        "idx_start": 6716,
+        "idx_end": 6964
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## History\nRMIT traces its origins to the Working Men\u2019s College of Melbourne, founded in 1887. It became the Royal Melbourne Technical College in 1954 and later the Royal Melbourne Institute of Technology in 1960. The university has expanded globally, with campuses in Vietnam, Spain, and Australia. It is known for its focus on applied research and vocational education.",
+        "text_original": "RMIT traces its origins to the Working Men\u2019s College of Melbourne, founded in 1887. It became the Royal Melbourne Technical College in 1954 and later the Royal Melbourne Institute of Technology in 1960. The university has expanded globally, with campuses in Vietnam, Spain, and Australia. It is known for its focus on applied research and vocational education",
+        "idx_start": 7039,
+        "idx_end": 7398
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Campuses\n- **Melbourne City** : The largest campus, featuring historic and modern buildings, including the Swanston Library and the Design Hub.\n- **Bundoora** : Offers programs in aerospace engineering, electrical engineering, and medical sciences.\n- **Brunswick** : Focuses on design, fashion, and textiles.\n- **Other** : Flight training programs at RAAF Williams, research sites in Hamilton and Hamilton, and international campuses in Vietnam and Spain.",
+        "text_original": "Melbourne City**: The largest campus, featuring historic and modern buildings, including the Swanston Library and the Design Hub.\n- **Bundoora**: Offers programs in aerospace engineering, electrical engineering, and medical sciences.\n- **Brunswick**: Focuses on design, fashion, and textiles.\n- **Other**: Flight training programs at RAAF Williams, research sites in Hamilton and Hamilton, and international campuses in Vietnam and Spain",
+        "idx_start": 7418,
+        "idx_end": 7855
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Organization and Administration\nRMIT is governed by a Council and Vice-Chancellor, with faculties and research centers overseeing academic operations. The university operates under two divisions: Higher Education and Vocational Education and Training (VET). It is known for its strong industry connections and focus on innovation.",
+        "text_original": "RMIT is governed by a Council and Vice-Chancellor, with faculties and research centers overseeing academic operations. The university operates under two divisions: Higher Education and Vocational Education and Training (VET). It is known for its strong industry connections and focus on innovation",
+        "idx_start": 7894,
+        "idx_end": 8191
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Academics\nRMIT offers over 171 undergraduate programs and 118 postgraduate programs. It is ranked among the top universities in Australia and globally for its research in design, technology, and health sciences. The university\u2019s libraries, including the Swanston Library, hold significant collections in art and design.",
+        "text_original": "RMIT offers over 171 undergraduate programs and 118 postgraduate programs. It is ranked among the top universities in Australia and globally for its research in design, technology, and health sciences. The university\u2019s libraries, including the Swanston Library, hold significant collections in art and design",
+        "idx_start": 8208,
+        "idx_end": 8516
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Reputation and Rankings\nRMIT is recognized for its strong vocational and applied research programs, particularly in engineering, design, and health sciences. It is consistently ranked among the top universities in Australia and has a strong reputation for employability.",
+        "text_original": "RMIT is recognized for its strong vocational and applied research programs, particularly in engineering, design, and health sciences. It is consistently ranked among the top universities in Australia and has a strong reputation for employability",
+        "idx_start": 8547,
+        "idx_end": 8792
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\n## History\nThe University of Jordan was founded in 1962 as a national university to provide higher education in Jordan. It was established under the leadership of King Hussein and the Ministry of Education. The university has expanded over the years, with new faculties and research centers. It has faced political and economic challenges but has grown into a leading institution in the Middle East.",
+        "text_original": "The University of Jordan was founded in 1962 as a national university to provide higher education in Jordan. It was established under the leadership of King Hussein and the Ministry of Education. The university has expanded over the years, with new faculties and research centers. It has faced political and economic challenges but has grown into a leading institution in the Middle East",
+        "idx_start": 8841,
+        "idx_end": 9228
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\n## Campuses\n- **Amman** : The main campus, located in the Jubaiha area, includes 1,200 dunums of land with 12 gates and modern academic buildings.\n- **Aqaba** : A branch campus in Jordan\u2019s southern region, focusing on research and student life.",
+        "text_original": "Amman**: The main campus, located in the Jubaiha area, includes 1,200 dunums of land with 12 gates and modern academic buildings.\n- **Aqaba**: A branch campus in Jordan\u2019s southern region, focusing on research and student life",
+        "idx_start": 9248,
+        "idx_end": 9473
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\n## Organization and Administration\nThe University of Jordan is governed by a Board of Trustees and a President. It operates under a decentralized structure with faculties and research centers. The university has faced challenges in funding and political stability but has maintained its academic reputation.",
+        "text_original": "The University of Jordan is governed by a Board of Trustees and a President. It operates under a decentralized structure with faculties and research centers. The university has faced challenges in funding and political stability but has maintained its academic reputation",
+        "idx_start": 9512,
+        "idx_end": 9783
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\n## Academics\nThe university offers 78 undergraduate programs and 143 postgraduate programs, including faculties in science, humanities, and medicine. It is known for its research in fields like archaeology, engineering, and social sciences. The university\u2019s library, the University of Jordan Library, holds over one million items and serves as a depository for international documents.",
+        "text_original": "The university offers 78 undergraduate programs and 143 postgraduate programs, including faculties in science, humanities, and medicine. It is known for its research in fields like archaeology, engineering, and social sciences. The university\u2019s library, the University of Jordan Library, holds over one million items and serves as a depository for international documents",
+        "idx_start": 9800,
+        "idx_end": 10171
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\n## Reputation and Rankings\nThe University of Jordan is ranked among the top universities in Jordan and the Arab world. It is recognized for its research output and academic programs, particularly in science and engineering.",
+        "text_original": "The University of Jordan is ranked among the top universities in Jordan and the Arab world. It is recognized for its research output and academic programs, particularly in science and engineering",
+        "idx_start": 10202,
+        "idx_end": 10397
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## History\nUnesp was founded in 1976 as a response to the need for a state university in S\u00e3o Paulo. It was inspired by the University of California\u2019s multi-campus system and has grown into one of Brazil\u2019s leading public universities. Unesp has faced challenges related to funding and economic crises but has maintained its academic reputation.",
+        "text_original": "Unesp was founded in 1976 as a response to the need for a state university in S\u00e3o Paulo. It was inspired by the University of California\u2019s multi-campus system and has grown into one of Brazil\u2019s leading public universities. Unesp has faced challenges related to funding and economic crises but has maintained its academic reputation",
+        "idx_start": 10460,
+        "idx_end": 10791
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Campuses\nUnesp has 23 campuses and 33 institutes, including Ara\u00e7atuba, Araraquara, Botucatu, and S\u00e3o Paulo. The university also operates a satellite campus in Limeira and a research station in Botucatu.",
+        "text_original": "Unesp has 23 campuses and 33 institutes, including Ara\u00e7atuba, Araraquara, Botucatu, and S\u00e3o Paulo. The university also operates a satellite campus in Limeira and a research station in Botucatu",
+        "idx_start": 10807,
+        "idx_end": 10999
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Organization and Administration\nUnesp is governed by a rector, appointed by the state governor. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to funding and academic governance but has maintained its academic reputation.",
+        "text_original": "Unesp is governed by a rector, appointed by the state governor. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to funding and academic governance but has maintained its academic reputation",
+        "idx_start": 11038,
+        "idx_end": 11304
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Academics\nUnesp offers 171 undergraduate programs and 118 postgraduate programs. It is known for its research in agriculture, medicine, and engineering. The university\u2019s libraries hold over 900,000 books and provide support for research and teaching.",
+        "text_original": "Unesp offers 171 undergraduate programs and 118 postgraduate programs. It is known for its research in agriculture, medicine, and engineering. The university\u2019s libraries hold over 900,000 books and provide support for research and teaching",
+        "idx_start": 11321,
+        "idx_end": 11560
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Reputation and Rankings\nUnesp is ranked among the top universities in Brazil and Latin America. It is recognized for its research in agriculture, medicine, and engineering, and its commitment to public education.",
+        "text_original": "Unesp is ranked among the top universities in Brazil and Latin America. It is recognized for its research in agriculture, medicine, and engineering, and its commitment to public education",
+        "idx_start": 11591,
+        "idx_end": 11778
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## History\nLund University was founded in 1666 as a means of making Scania Swedish. It is one of Scandinavia\u2019s oldest and largest universities, with a rich history in research and education. The university has faced challenges related to political and social changes but has maintained its academic reputation.",
+        "text_original": "Lund University was founded in 1666 as a means of making Scania Swedish. It is one of Scandinavia\u2019s oldest and largest universities, with a rich history in research and education. The university has faced challenges related to political and social changes but has maintained its academic reputation",
+        "idx_start": 11822,
+        "idx_end": 12120
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Campuses\n- **Lund** : The main campus, located in the city of Lund, includes historic buildings like the Main Building and the Historical Museum.\n- **Malm\u00f6** : A satellite campus for the Faculty of Fine and Performing Arts.\n- **Helsingborg** : A campus for the School of Aviation.",
+        "text_original": "Lund**: The main campus, located in the city of Lund, includes historic buildings like the Main Building and the Historical Museum.\n- **Malm\u00f6**: A satellite campus for the Faculty of Fine and Performing Arts.\n- **Helsingborg**: A campus for the School of Aviation",
+        "idx_start": 12140,
+        "idx_end": 12403
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Organization and Administration\nLund University is governed by a University Board and a Vice-Chancellor. It operates under a decentralized structure with faculties and research centers. The university is known for its strong research output and international collaborations.",
+        "text_original": "Lund University is governed by a University Board and a Vice-Chancellor. It operates under a decentralized structure with faculties and research centers. The university is known for its strong research output and international collaborations",
+        "idx_start": 12442,
+        "idx_end": 12683
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Academics\nLund University offers over 275 educational programs and 1,400 courses. It is known for its strengths in medicine, engineering, and humanities. The university\u2019s research spans fields like neurology, nanotechnology, and climate science. Its libraries, including the Helgonabacken Library, hold significant collections in science and humanities.",
+        "text_original": "Lund University offers over 275 educational programs and 1,400 courses. It is known for its strengths in medicine, engineering, and humanities. The university\u2019s research spans fields like neurology, nanotechnology, and climate science. Its libraries, including the Helgonabacken Library, hold significant collections in science and humanities",
+        "idx_start": 12700,
+        "idx_end": 13042
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Reputation and Rankings\nLund University is consistently ranked among the top universities in Scandinavia and globally. It is recognized for its research output, particularly in medicine and engineering, and its commitment to sustainability and innovation.",
+        "text_original": "Lund University is consistently ranked among the top universities in Scandinavia and globally. It is recognized for its research output, particularly in medicine and engineering, and its commitment to sustainability and innovation",
+        "idx_start": 13073,
+        "idx_end": 13303
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## History\nThe University of the Andes was founded in 1949 as a non-sectarian and non-politically affiliated university. It was created to provide Colombia with professionals who could contribute to the country\u2019s development. The university has faced political and social challenges but has maintained its academic reputation.",
+        "text_original": "The University of the Andes was founded in 1949 as a non-sectarian and non-politically affiliated university. It was created to provide Colombia with professionals who could contribute to the country\u2019s development. The university has faced political and social challenges but has maintained its academic reputation",
+        "idx_start": 13366,
+        "idx_end": 13680
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Campuses\nThe University of the Andes is located in Bogot\u00e1\u2019s historical center, featuring a mix of renovated industrial and religious buildings. It includes a central cafeteria, gym, and health services.",
+        "text_original": "The University of the Andes is located in Bogot\u00e1\u2019s historical center, featuring a mix of renovated industrial and religious buildings. It includes a central cafeteria, gym, and health services",
+        "idx_start": 13696,
+        "idx_end": 13888
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Organization and Administration\nThe university is governed by a Board of Trustees and a President. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to political instability but has maintained its academic reputation.",
+        "text_original": "The university is governed by a Board of Trustees and a President. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to political instability but has maintained its academic reputation",
+        "idx_start": 13927,
+        "idx_end": 14186
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Academics\nThe university offers 78 undergraduate programs and 143 postgraduate programs. It is known for its research in engineering, medicine, and humanities. The university\u2019s library system includes a central library and satellite libraries, holding over 445,000 books.",
+        "text_original": "The university offers 78 undergraduate programs and 143 postgraduate programs. It is known for its research in engineering, medicine, and humanities. The university\u2019s library system includes a central library and satellite libraries, holding over 445,000 books",
+        "idx_start": 14203,
+        "idx_end": 14463
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Reputation and Rankings\nThe University of the Andes is ranked among the top universities in Colombia and Latin America. It is recognized for its research output and academic programs, particularly in engineering and medicine.",
+        "text_original": "The University of the Andes is ranked among the top universities in Colombia and Latin America. It is recognized for its research output and academic programs, particularly in engineering and medicine",
+        "idx_start": 14494,
+        "idx_end": 14694
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## History\nImperial College was founded in 1907 as the Imperial College of Science and Technology. It merged with St Mary\u2019s Hospital Medical School in 1988 and became a fully independent university in 2003. The university is known for its focus on science, engineering, and medicine.",
+        "text_original": "Imperial College was founded in 1907 as the Imperial College of Science and Technology. It merged with St Mary\u2019s Hospital Medical School in 1988 and became a fully independent university in 2003. The university is known for its focus on science, engineering, and medicine",
+        "idx_start": 14746,
+        "idx_end": 15017
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Campuses\n- **South Kensington** : The main campus, featuring the Royal School of Mines, Royal College of Science, and the Imperial Institute.\n- **White City** : A second major campus for innovation and entrepreneurship.\n- **Silwood Park** : A postgraduate campus for ecology and conservation.",
+        "text_original": "South Kensington**: The main campus, featuring the Royal School of Mines, Royal College of Science, and the Imperial Institute.\n- **White City**: A second major campus for innovation and entrepreneurship.\n- **Silwood Park**: A postgraduate campus for ecology and conservation",
+        "idx_start": 15037,
+        "idx_end": 15312
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Organization and Administration\nImperial College is governed by a Council and a President. It operates under a decentralized structure with faculties and research centers. The university is known for its strong industry connections and focus on innovation.",
+        "text_original": "Imperial College is governed by a Council and a President. It operates under a decentralized structure with faculties and research centers. The university is known for its strong industry connections and focus on innovation",
+        "idx_start": 15351,
+        "idx_end": 15574
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Academics\nImperial College offers over 100 undergraduate and postgraduate programs. It is known for its strengths in engineering, medicine, and business. The university\u2019s research spans fields like cancer, climate science, and technology. Its libraries, including the Fleming Library, hold significant collections in science and medicine.",
+        "text_original": "Imperial College offers over 100 undergraduate and postgraduate programs. It is known for its strengths in engineering, medicine, and business. The university\u2019s research spans fields like cancer, climate science, and technology. Its libraries, including the Fleming Library, hold significant collections in science and medicine",
+        "idx_start": 15591,
+        "idx_end": 15918
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Reputation and Rankings\nImperial College is consistently ranked among the top universities in the UK and globally. It is recognized for its research output, particularly in engineering and medicine, and its commitment to innovation and entrepreneurship.",
+        "text_original": "Imperial College is consistently ranked among the top universities in the UK and globally. It is recognized for its research output, particularly in engineering and medicine, and its commitment to innovation and entrepreneurship",
+        "idx_start": 15949,
+        "idx_end": 16177
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## History\nThe University of Sydney was founded in 1850 as Australia\u2019s first public, non-denominational university. It has faced challenges related to political and social changes but has maintained its academic reputation. The university has faced controversies related to student protests, staff underpayment, and environmental issues.",
+        "text_original": "The University of Sydney was founded in 1850 as Australia\u2019s first public, non-denominational university. It has faced challenges related to political and social changes but has maintained its academic reputation. The university has faced controversies related to student protests, staff underpayment, and environmental issues",
+        "idx_start": 16226,
+        "idx_end": 16551
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Campuses\n- **Camperdown/Darlington** : The main campus, featuring historic buildings like the Main Building and the Great Hall.\n- **City Campus** : Includes the Sydney Law School and the Sydney Conservatorium of Music.\n- **Other** : Dental Hospital, Conservatorium of Music, and satellite campuses in Camden and Sydney CBD.",
+        "text_original": "Camperdown/Darlington**: The main campus, featuring historic buildings like the Main Building and the Great Hall.\n- **City Campus**: Includes the Sydney Law School and the Sydney Conservatorium of Music.\n- **Other**: Dental Hospital, Conservatorium of Music, and satellite campuses in Camden and Sydney CBD",
+        "idx_start": 16571,
+        "idx_end": 16877
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Organization and Administration\nThe University of Sydney is governed by a Chancellor and a Vice-Chancellor. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to funding and governance but has maintained its academic reputation.",
+        "text_original": "The University of Sydney is governed by a Chancellor and a Vice-Chancellor. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to funding and governance but has maintained its academic reputation",
+        "idx_start": 16916,
+        "idx_end": 17185
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Academics\nThe university offers over 100 undergraduate and postgraduate programs. It is known for its strengths in law, medicine, and engineering. The university\u2019s libraries, including the Fisher Library, hold significant collections in science and humanities. The Chau Chak Wing Museum showcases the university\u2019s art, natural history, and antiquities collections.",
+        "text_original": "The university offers over 100 undergraduate and postgraduate programs. It is known for its strengths in law, medicine, and engineering. The university\u2019s libraries, including the Fisher Library, hold significant collections in science and humanities. The Chau Chak Wing Museum showcases the university\u2019s art, natural history, and antiquities collections",
+        "idx_start": 17202,
+        "idx_end": 17555
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Reputation and Rankings\nThe University of Sydney is consistently ranked among the top universities in Australia and globally. It is recognized for its research output, particularly in law, medicine, and engineering, and its commitment to public education.",
+        "text_original": "The University of Sydney is consistently ranked among the top universities in Australia and globally. It is recognized for its research output, particularly in law, medicine, and engineering, and its commitment to public education",
+        "idx_start": 17586,
+        "idx_end": 17816
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## History\nThe University of Western Ontario was founded in 1878 as the Western University of London, Ontario. It has faced challenges related to political and social changes but has maintained its academic reputation. The university has merged with Brescia University College and King\u2019s University College.",
+        "text_original": "The University of Western Ontario was founded in 1878 as the Western University of London, Ontario. It has faced challenges related to political and social changes but has maintained its academic reputation. The university has merged with Brescia University College and King\u2019s University College",
+        "idx_start": 17874,
+        "idx_end": 18169
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Campuses\n- **London** : The main campus, featuring historic buildings like University College and the Physics and Astronomy Building.\n- **Discovery Park** : A research park for industry and academic collaboration.\n- **Advanced Manufacturing Park** : A research park for advanced manufacturing and technology.",
+        "text_original": "London**: The main campus, featuring historic buildings like University College and the Physics and Astronomy Building.\n- **Discovery Park**: A research park for industry and academic collaboration.\n- **Advanced Manufacturing Park**: A research park for advanced manufacturing and technology",
+        "idx_start": 18189,
+        "idx_end": 18480
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Organization and Administration\nThe university is governed by a Board of Governors and a Senate. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to funding and governance but has maintained its academic reputation.",
+        "text_original": "The university is governed by a Board of Governors and a Senate. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to funding and governance but has maintained its academic reputation",
+        "idx_start": 18519,
+        "idx_end": 18777
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Academics\nThe university offers over 300 undergraduate and postgraduate programs. It is known for its strengths in engineering, medicine, and humanities. The university\u2019s research spans fields like neuroscience, space exploration, and business. Its libraries, including the Allyn and Betty Taylor Library, hold significant collections in science and humanities.",
+        "text_original": "The university offers over 300 undergraduate and postgraduate programs. It is known for its strengths in engineering, medicine, and humanities. The university\u2019s research spans fields like neuroscience, space exploration, and business. Its libraries, including the Allyn and Betty Taylor Library, hold significant collections in science and humanities",
+        "idx_start": 18794,
+        "idx_end": 19144
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Reputation and Rankings\nThe University of Western Ontario is consistently ranked among the top universities in Canada and globally. It is recognized for its research output, particularly in engineering and medicine, and its commitment to public education.",
+        "text_original": "The University of Western Ontario is consistently ranked among the top universities in Canada and globally. It is recognized for its research output, particularly in engineering and medicine, and its commitment to public education",
+        "idx_start": 19175,
+        "idx_end": 19405
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## History\nThe University of Auckland was founded in 1883 as Auckland University College. It has faced challenges related to political and social changes but has maintained its academic reputation. The university has expanded significantly over the years, with new campuses and research centers.",
+        "text_original": "The University of Auckland was founded in 1883 as Auckland University College. It has faced challenges related to political and social changes but has maintained its academic reputation. The university has expanded significantly over the years, with new campuses and research centers",
+        "idx_start": 19456,
+        "idx_end": 19739
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Campuses\n- **City Campus** : The main campus, featuring historic buildings like the Old Quadrangle and the Science Centre.\n- **Grafton Campus** : Home to the School of Medical and Health Sciences.\n- **Newmarket Campus** : Focuses on engineering and science.\n- **Other** : Tai Tokerau Campus in Whang\u0101rei, Leigh Marine Laboratory, and Goldie Estate in Waiheke Island.",
+        "text_original": "City Campus**: The main campus, featuring historic buildings like the Old Quadrangle and the Science Centre.\n- **Grafton Campus**: Home to the School of Medical and Health Sciences.\n- **Newmarket Campus**: Focuses on engineering and science.\n- **Other**: Tai Tokerau Campus in Whang\u0101rei, Leigh Marine Laboratory, and Goldie Estate in Waiheke Island",
+        "idx_start": 19759,
+        "idx_end": 20107
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Organization and Administration\nThe university is governed by a Chancellor and a Vice-Chancellor. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to funding and governance but has maintained its academic reputation.",
+        "text_original": "The university is governed by a Chancellor and a Vice-Chancellor. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to funding and governance but has maintained its academic reputation",
+        "idx_start": 20146,
+        "idx_end": 20405
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Academics\nThe university offers over 100 undergraduate and postgraduate programs. It is known for its strengths in medicine, engineering, and humanities. The university\u2019s research spans fields like biotechnology, climate science, and social policy. Its libraries, including the General Library, hold significant collections in science and humanities.",
+        "text_original": "The university offers over 100 undergraduate and postgraduate programs. It is known for its strengths in medicine, engineering, and humanities. The university\u2019s research spans fields like biotechnology, climate science, and social policy. Its libraries, including the General Library, hold significant collections in science and humanities",
+        "idx_start": 20422,
+        "idx_end": 20761
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Reputation and Rankings\nThe University of Auckland is consistently ranked among the top universities in New Zealand and globally. It is recognized for its research output, particularly in medicine and engineering, and its commitment to public education.",
+        "text_original": "The University of Auckland is consistently ranked among the top universities in New Zealand and globally. It is recognized for its research output, particularly in medicine and engineering, and its commitment to public education",
+        "idx_start": 20792,
+        "idx_end": 21020
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## History\nUnicamp was founded in 1962 as a response to the need for a new research center in S\u00e3o Paulo. It has faced challenges related to political and economic changes but has maintained its academic reputation. The university has expanded significantly over the years, with new campuses and research centers.",
+        "text_original": "Unicamp was founded in 1962 as a response to the need for a new research center in S\u00e3o Paulo. It has faced challenges related to political and economic changes but has maintained its academic reputation. The university has expanded significantly over the years, with new campuses and research centers",
+        "idx_start": 21087,
+        "idx_end": 21387
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Campuses\n- **Main Campus** : Located in Bar\u00e3o Geraldo, featuring historic buildings like the Institute of Biology and the Hospital das Cl\u00ednicas.\n- **Limeira** : Offers programs in technology and applied sciences.\n- **Piracicaba** : Focuses on dentistry and odontology.\n- **Paul\u00ednia** : A research center for biosciences.",
+        "text_original": "Main Campus**: Located in Bar\u00e3o Geraldo, featuring historic buildings like the Institute of Biology and the Hospital das Cl\u00ednicas.\n- **Limeira**: Offers programs in technology and applied sciences.\n- **Piracicaba**: Focuses on dentistry and odontology.\n- **Paul\u00ednia**: A research center for biosciences",
+        "idx_start": 21407,
+        "idx_end": 21709
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Organization and Administration\nUnicamp is governed by a University Council and a Rector. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to funding and governance but has maintained its academic reputation.",
+        "text_original": "Unicamp is governed by a University Council and a Rector. It operates under a decentralized structure with faculties and research centers. The university has faced challenges related to funding and governance but has maintained its academic reputation",
+        "idx_start": 21748,
+        "idx_end": 21999
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Academics\nUnicamp offers over 70 undergraduate programs and 153 postgraduate programs. It is known for its strengths in engineering, medicine, and humanities. The university\u2019s research spans fields like biotechnology, agriculture, and social sciences. Its libraries, including the C\u00e9sar Lattes Library, hold significant collections in science and humanities.",
+        "text_original": "Unicamp offers over 70 undergraduate programs and 153 postgraduate programs. It is known for its strengths in engineering, medicine, and humanities. The university\u2019s research spans fields like biotechnology, agriculture, and social sciences. Its libraries, including the C\u00e9sar Lattes Library, hold significant collections in science and humanities",
+        "idx_start": 22016,
+        "idx_end": 22363
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Reputation and Rankings\nUnicamp is consistently ranked among the top universities in Brazil and Latin America. It is recognized for its research output, particularly in engineering and medicine, and its commitment to public education.",
+        "text_original": "Unicamp is consistently ranked among the top universities in Brazil and Latin America. It is recognized for its research output, particularly in engineering and medicine, and its commitment to public education",
+        "idx_start": 22394,
+        "idx_end": 22603
+    }
+]

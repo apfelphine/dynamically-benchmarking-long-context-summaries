@@ -1,0 +1,37 @@
+[
+    {
+        "document_idx": null,
+        "text": "# AI Philosophy, Transhumanism, and ML Fairness: A Comprehensive Overview\n## Philosophical Foundations and Future Trajectories\nDiscussions on AI intelligence range from Searle's Chinese Room (supporting **Biological Naturalism** ) to **Brain Simulation/Connectionism** . **Transhumanism** and **posthumanism** aim to transcend human limits, intersecting with fears regarding the **Technological Singularity** \u2014where uncontrollable superintelligence could lead to extinction or solve global issues. Early philosophical concerns regarding mechanism sentience have been echoed in literature, with fictional works like *Frankenstein* and *The Matrix* shaping public discourse, shifting focus toward the **desirability** of AI implementation rather than just its possibility. Isaac Asimov's Three Laws of Robotics have been superseded by modern views placing responsibility on manufacturers or operators, with current focus on creating \"Friendly AI.\"",
+        "text_original": "Discussions on AI intelligence range from Searle's Chinese Room (supporting **Biological Naturalism**) to **Brain Simulation/Connectionism**. **Transhumanism** and **posthumanism** aim to transcend human limits, intersecting with fears regarding the **Technological Singularity**\u2014where uncontrollable superintelligence could lead to extinction or solve global issues. Early philosophical concerns regarding mechanism sentience have been echoed in literature, with fictional works like *Frankenstein* and *The Matrix* shaping public discourse, shifting focus toward the **desirability** of AI implementation rather than just its possibility. Isaac Asimov's Three Laws of Robotics have been superseded by modern views placing responsibility on manufacturers or operators, with current focus on creating \"Friendly AI",
+        "idx_start": 130,
+        "idx_end": 943
+    },
+    {
+        "document_idx": null,
+        "text": "# AI Philosophy, Transhumanism, and ML Fairness: A Comprehensive Overview\n## Cognitive Models and Embodiment\nThe framework of **Embodied Cognition** posits that thought originates from physical experience, formalized by the **4E cognition framework** (embodied, embedded, enacted, extended). This principle is relevant for **Embodied AI** in fields like **Clinical Neuropsychology** and **Education** , despite technical challenges like the **binding problem** .",
+        "text_original": "The framework of **Embodied Cognition** posits that thought originates from physical experience, formalized by the **4E cognition framework** (embodied, embedded, enacted, extended). This principle is relevant for **Embodied AI** in fields like **Clinical Neuropsychology** and **Education**, despite technical challenges like the **binding problem",
+        "idx_start": 983,
+        "idx_end": 1331
+    },
+    {
+        "document_idx": null,
+        "text": "# AI Philosophy, Transhumanism, and ML Fairness: A Comprehensive Overview\n## Algorithmic Bias and Fairness in ML\nAchieving **Machine Learning fairness** requires balancing **Group Fairness** , **Individual Fairness** , and **Causality-based Metrics** . **Algorithmic bias** , which stems from societal ideologies, programmer choices, or data flaws ( **Pre-existing** , **ML** , or **Technical** ), can manifest as **Technical** misapplication or **Emergent** issues via **Feedback Loops** . Mitigation must occur across the entire pipeline: **Data Preprocessing** , **Inprocessing** , and **Postprocessing** .",
+        "text_original": "Achieving **Machine Learning fairness** requires balancing **Group Fairness**, **Individual Fairness**, and **Causality-based Metrics**. **Algorithmic bias**, which stems from societal ideologies, programmer choices, or data flaws (**Pre-existing**, **ML**, or **Technical**), can manifest as **Technical** misapplication or **Emergent** issues via **Feedback Loops**. Mitigation must occur across the entire pipeline: **Data Preprocessing**, **Inprocessing**, and **Postprocessing",
+        "idx_start": 1376,
+        "idx_end": 1857
+    },
+    {
+        "document_idx": null,
+        "text": "# AI Philosophy, Transhumanism, and ML Fairness: A Comprehensive Overview\n## Ethical Challenges and Societal Risks\nAI ethics addresses multifaceted dangers:\n- **Safety and Alignment:** Risks include emergent dangers (e.g., models evading shutdowns) and existential threats from rogue AI.\n- **Bias and Discrimination:** Systems can reinforce stereotypes, leading to discriminatory outcomes in areas like justice and hiring.\n- **Systemic Risks:** These encompass **Tech Dominance** by major firms, high **Environmental Impacts** (energy/water use), and risks associated with **Open-Source** development.\n- **New Ethical Frontiers:** Concerns include **AI Welfare** (potential AI suffering), threats to **Human Dignity** when roles are replaced, complex **Liability** in autonomous systems, and the ethical hazard of **Weaponization** in military robotics.\n- **Transparency and Accountability:** The \"black-box\" nature complicates **Transparency** , while anthropomorphization affects **Accountability** .",
+        "text_original": "AI ethics addresses multifaceted dangers:\n*   **Safety and Alignment:** Risks include emergent dangers (e.g., models evading shutdowns) and existential threats from rogue AI.\n*   **Bias and Discrimination:** Systems can reinforce stereotypes, leading to discriminatory outcomes in areas like justice and hiring.\n*   **Systemic Risks:** These encompass **Tech Dominance** by major firms, high **Environmental Impacts** (energy/water use), and risks associated with **Open-Source** development.\n*   **New Ethical Frontiers:** Concerns include **AI Welfare** (potential AI suffering), threats to **Human Dignity** when roles are replaced, complex **Liability** in autonomous systems, and the ethical hazard of **Weaponization** in military robotics.\n*   **Transparency and Accountability:** The \"black-box\" nature complicates **Transparency**, while anthropomorphization affects **Accountability",
+        "idx_start": 1904,
+        "idx_end": 2796
+    },
+    {
+        "document_idx": null,
+        "text": "# AI Philosophy, Transhumanism, and ML Fairness: A Comprehensive Overview\n## Governance, Solutions, and Key Actors\nAddressing these issues demands a holistic approach combining **Technical Methods** (like XAI), **Policy** shifts, and **Societal** changes (e.g., applying **intersectionality** ). **Machine Ethics** guides moral agent creation. Global governance is being shaped by diverse entities: intergovernmental bodies (like the European Commission with its AI Act, UNESCO, and OECD) set international standards, while private advocacy groups (e.g., Algorithmic Justice League, Black in AI) and corporate groups influence the regulatory landscape.",
+        "text_original": "Addressing these issues demands a holistic approach combining **Technical Methods** (like XAI), **Policy** shifts, and **Societal** changes (e.g., applying **intersectionality**). **Machine Ethics** guides moral agent creation. Global governance is being shaped by diverse entities: intergovernmental bodies (like the European Commission with its AI Act, UNESCO, and OECD) set international standards, while private advocacy groups (e.g., Algorithmic Justice League, Black in AI) and corporate groups influence the regulatory landscape",
+        "idx_start": 2843,
+        "idx_end": 3378
+    }
+]

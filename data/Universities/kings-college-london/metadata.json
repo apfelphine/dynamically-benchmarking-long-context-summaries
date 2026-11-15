@@ -1,0 +1,41 @@
+{
+  "id": 158483,
+  "title": "King's College London",
+  "url": "https://en.wikipedia.org/wiki/King%27s_College_London",
+  "path": "Universities\\kings-college-london",
+  "summary": {
+    "chars": 2785,
+    "tokens": 579
+  },
+  "document": {
+    "chars": 67333,
+    "tokens": 14019
+  },
+  "infobox": {
+    "title": "King's College London",
+    "data": {
+      "Motto": "Latin: Sancte et Sapienter",
+      "Motto in English": "With Holiness and Wisdom",
+      "Type": "Public research university",
+      "Established": "1829 (earliest recorded teaching in medical school 1561)",
+      "Endowment": "\u00a3324.8 million (2024)",
+      "Budget": "\u00a31.271 billion (2023/24)",
+      "Chair": "Lord Geidt",
+      "Visitor": "Vacant",
+      "Chancellor": "Anne, Princess Royal \u00b7 (as Chancellor of the University of London)",
+      "Vice-Chancellor and President": "Shitij Kapur",
+      "Academic staff": "6,200 (2023/24)",
+      "Administrative staff": "4,775 (2023/24)",
+      "Students": "39,435 (2023/24) \u00b7 33,955 FTE (2023/24)",
+      "Undergraduates": "22,985 (2023/24)",
+      "Postgraduates": "16,450 (2023/24)",
+      "Location": "London, England \u00b7 51\u00b030\u203243\u2033N 0\u00b006\u203258\u2033W\ufeff / \ufeff51.51194\u00b0N 0.11611\u00b0W",
+      "Campus": "Urban",
+      "Patron": "Charles III",
+      "Colours": "Blue & King's red",
+      "Affiliations": "ACU EUA The Guild PLuS Alliance Russell Group SES UNICA University of London Universities UK",
+      "Mascot": "Reggie the Lion",
+      "Website": "kcl.ac.uk"
+    }
+  }
+}

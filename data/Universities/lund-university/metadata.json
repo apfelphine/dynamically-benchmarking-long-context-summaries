@@ -1,0 +1,35 @@
+{
+  "id": 17843,
+  "title": "Lund University",
+  "url": "https://en.wikipedia.org/wiki/Lund_University",
+  "path": "Universities\\lund-university",
+  "summary": {
+    "chars": 1577,
+    "tokens": 315
+  },
+  "document": {
+    "chars": 32333,
+    "tokens": 7300
+  },
+  "infobox": {
+    "title": "Lund University",
+    "data": {
+      "Former name": "Royal Caroline Academy \u00b7 Latin: Regia Academia Carolina",
+      "Motto": "Ad utrumque",
+      "Motto in English": "Prepared for both[Note a]",
+      "Type": "Public research university",
+      "Established": "1666",
+      "Budget": "SEK 10.4 billion",
+      "Vice Chancellor": "Erik Renstr\u00f6m",
+      "Academic staff": "5,050 (2023)",
+      "Administrative staff": "3,000 (2023)",
+      "Students": "47,000 (27,000 FTE)",
+      "Location": "Lund, Scania, Sweden",
+      "Campus": "Urban",
+      "Colors": "Dark blue and bronze",
+      "Nickname": "LU",
+      "Affiliations": "Universitas 21 \u00b7 LERU \u00b7 EUA \u00b7 ASAIHL",
+      "Website": "https://www.lu.se https://www.lunduniversity.lu.se"
+    }
+  }
+}

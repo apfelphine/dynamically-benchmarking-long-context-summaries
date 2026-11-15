@@ -1,0 +1,42 @@
+{
+  "id": 18879,
+  "title": "Massachusetts Institute of Technology",
+  "url": "https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology",
+  "path": "Universities\\massachusetts-institute-of-technology",
+  "summary": {
+    "chars": 2051,
+    "tokens": 386
+  },
+  "document": {
+    "chars": 67646,
+    "tokens": 13908
+  },
+  "infobox": {
+    "title": "Massachusetts Institute of Technology",
+    "data": {
+      "Motto": "Mens et Manus (Latin)",
+      "Motto in English": "\"Mind and Hand\"",
+      "Type": "Private land-grant research university",
+      "Established": "April 10, 1861",
+      "Founder": "William Barton Rogers",
+      "Accreditation": "NECHE",
+      "Academic affiliations": "AAU AITU COFHE NAICU UARC URA Sea grant Space grant",
+      "Endowment": "$27.4 billion (2025)",
+      "Chancellor": "Melissa Nobles",
+      "President": "Sally Kornbluth",
+      "Provost": "Anantha P. Chandrakasan",
+      "Academic staff": "1,090",
+      "Students": "11,886 (2024\u201325)",
+      "Undergraduates": "4,535 (2024\u201325)",
+      "Postgraduates": "7,351 (2024\u201325)",
+      "Location": "Cambridge, Massachusetts, United States \u00b7 42\u00b021\u203235\u2033N 71\u00b05\u203231\u2033W\ufeff / \ufeff42.35972\u00b0N 71.09194\u00b0W",
+      "Campus": "Midsize city, 166 acres (67.2 ha)",
+      "Newspaper": "The Tech",
+      "Colors": "Cardinal red and steel gray",
+      "Nickname": "Engineers",
+      "Sporting affiliations": "NCAA Division III \u2013 NEWMAC NEISA CWPA UVC EARC EAWRC",
+      "Mascot": "Tim the Beaver",
+      "Website": "web.mit.edu"
+    }
+  }
+}

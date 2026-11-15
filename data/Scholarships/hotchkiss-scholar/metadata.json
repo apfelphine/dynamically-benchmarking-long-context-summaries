@@ -1,0 +1,26 @@
+{
+  "id": 32958892,
+  "title": "Hotchkiss Scholar",
+  "url": "https://en.wikipedia.org/wiki/Lake_Forest_Graduate_School_of_Management",
+  "path": "Scholarships\\hotchkiss-scholar",
+  "summary": {
+    "chars": 754,
+    "tokens": 133
+  },
+  "document": {
+    "chars": 1710,
+    "tokens": 333
+  },
+  "infobox": {
+    "title": "Lake Forest Graduate School of Management",
+    "data": {
+      "Type": "Private business school",
+      "Established": "1946",
+      "President": "Carrie G. Buchwald",
+      "Postgraduates": "252 (Fall 2012)",
+      "Location": "Lake Forest, Illinois, United States",
+      "Colors": "Red, and White",
+      "Website": "www.lfgsm.edu"
+    }
+  }
+}

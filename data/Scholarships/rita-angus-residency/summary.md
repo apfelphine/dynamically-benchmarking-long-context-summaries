@@ -1,0 +1,1 @@
+The Rita Angus Residency in Wellington, New Zealand, is an opportunity for artists to live in the former home of Rita Angus, one of New Zealand’s best-known painters, while creating a body of new work.

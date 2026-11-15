@@ -1,0 +1,10 @@
+## Computational History, Theory, and Philosophy
+
+**Foundational Mathematics and Early Computation:**
+Computation's origins trace to 9th-century Persian scholar Al-Khwarizmi, who established algebra in *Kitāb al-jabr wal-muqābala*, introduced the "algorithm" via Hindu-Arabic numerals, and advanced astronomy. Formal logic was significantly advanced by Gottlob Frege in 1879 with *Begriffsschrift*, rigorously axiomatizing arithmetic and introducing concepts of sense and reference.
+
+**The Evolution of Computing and AI:**
+The field developed from ancient automata, shaped by Shannon's Information Theory. Key technical contributors include Grace Hopper (compiler development), Kenneth E. Iverson (APL notation), and Donald Knuth (*The Art of Computer Programming*). Hardware advancements involved Lynn Conway (VLSI design) and Federico Faggin (MOS/Silicon Gate Technology), leading to devices like the Intel 4004. In AI and cognitive science, Herbert A. Simon co-developed the General Problem Solver (GPS) with Allen Newell, proposing "bounded rationality" to explain human decision-making.
+
+**Operating Systems, Concurrency, and Paradigms:**
+Per Brinch Hansen is a pivotal figure in operating systems, concurrent, and distributed computing, influencing the field over five decades. His work includes developing the monitor concept with Hoare and introducing the modern OS kernel concept by separating mechanism from policy in the RC 4000. Hansen authored *The Architecture of Concurrent Programs* (1977), the first of its kind, and explored reusable parallel structures (programming paradigms). His contributions also include developing Concurrent Pascal and the Solo operating system, proposing remote procedure calls in 1978, and authoring influential languages like Edison and Joyce. Edsger W. Dijkstra was central to structured programming, known for the "THE" operating system and the Banker's algorithm concerning concurrency and program correctness.

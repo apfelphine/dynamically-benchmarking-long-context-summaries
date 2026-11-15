@@ -1,0 +1,37 @@
+{
+  "id": 25587444,
+  "title": "City University of Hong Kong",
+  "url": "https://en.wikipedia.org/wiki/City_University_of_Hong_Kong",
+  "path": "Universities\\city-university-of-hong-kong",
+  "summary": {
+    "chars": 531,
+    "tokens": 115
+  },
+  "document": {
+    "chars": 26979,
+    "tokens": 5474
+  },
+  "infobox": {
+    "title": "City University of Hong Kong",
+    "data": {
+      "Other name": "CityUHK, CityU",
+      "Motto": "Officium et Civitas (Latin) \u00b7 \u656c\u696d\u6a02\u7fa4 (Chinese)",
+      "Type": "Public",
+      "Established": "1 January 1984 (as City Polytechnic of Hong Kong) \u00b7 1994 (as City University of Hong Kong)",
+      "Academic affiliations": "- IAU - ASAIHL - AACSB - EQUIS - UGC - BHUA - GHMUA",
+      "Chairman": "Professor Michael Ngai",
+      "Chancellor": "John Lee Ka-chiu",
+      "President": "Freddy Boey",
+      "Provost": "Chun-Sing Lee",
+      "Academic staff": "845",
+      "Undergraduates": "12,309",
+      "Postgraduates": "4,929",
+      "Location": "Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong \u00b7 22\u00b020\u203211.12\u2033N 114\u00b010\u203222.76\u2033E\ufeff / \ufeff22.3364222\u00b0N 114.1729889\u00b0E",
+      "Campus": "Urban, 15.6 hectares (39 acres)",
+      "Language": "English",
+      "Colours": "Orange Burgundy",
+      "Sporting affiliations": "USFHK",
+      "Website": "cityu.edu.hk \u00b7 cityu.hk"
+    }
+  }
+}

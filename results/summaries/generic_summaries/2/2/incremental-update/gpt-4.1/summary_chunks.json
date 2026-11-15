@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias and AI Ethics: Origins, Manifestations, Societal Impact, and Solutions\nAlgorithmic bias in AI arises from flawed data, design oversights, and embedded social prejudices, leading to significant and sometimes discriminatory impacts in law, healthcare, education, hiring, and criminal justice. These biases often manifest as misclassification and discrimination through risk assessments, facial recognition, and automated hiring systems, exacerbated by technical limitations and insufficient fairness initiatives within tech firms.",
+        "text_original": "Algorithmic bias in AI arises from flawed data, design oversights, and embedded social prejudices, leading to significant and sometimes discriminatory impacts in law, healthcare, education, hiring, and criminal justice. These biases often manifest as misclassification and discrimination through risk assessments, facial recognition, and automated hiring systems, exacerbated by technical limitations and insufficient fairness initiatives within tech firms",
+        "idx_start": 92,
+        "idx_end": 548
+    },
+    {
+        "document_idx": null,
+        "text": "# Strategies for Bias Mitigation in Machine Learning\nBias mitigation in machine learning employs strategies throughout the ML pipeline. **Preprocessing** techniques like reweighing dataset samples help neutralize bias related to protected groups before training. **Inprocessing** incorporates fairness constraints into the learning objective\u2014such as balancing false positive/negative rates across groups\u2014or leverages adversarial debiasing to inhibit inference of sensitive attributes. **Postprocessing** adjusts output predictions, employing group-specific thresholds or \u201creject option classification\u201d for uncertain cases, all aiming to improve fairness while navigating trade-offs between effectiveness, flexibility, and accuracy.",
+        "text_original": "Bias mitigation in machine learning employs strategies throughout the ML pipeline. **Preprocessing** techniques like reweighing dataset samples help neutralize bias related to protected groups before training. **Inprocessing** incorporates fairness constraints into the learning objective\u2014such as balancing false positive/negative rates across groups\u2014or leverages adversarial debiasing to inhibit inference of sensitive attributes. **Postprocessing** adjusts output predictions, employing group-specific thresholds or \u201creject option classification\u201d for uncertain cases, all aiming to improve fairness while navigating trade-offs between effectiveness, flexibility, and accuracy",
+        "idx_start": 606,
+        "idx_end": 1283
+    },
+    {
+        "document_idx": null,
+        "text": "# Fairness Concepts in Machine Learning\nFairness encompasses group-centric metrics based on confusion matrices (independence, separation, sufficiency) to ensure statistical parity among social groups, social welfare frameworks to enhance outcomes for disadvantaged populations, and **individual fairness** principles (\"fairness through unawareness\" vs. \"awareness\" via similarity metrics). **Causality-based fairness** probes counterfactual scenarios related to sensitive attributes for nuanced group and individual assessment.",
+        "text_original": "Fairness encompasses group-centric metrics based on confusion matrices (independence, separation, sufficiency) to ensure statistical parity among social groups, social welfare frameworks to enhance outcomes for disadvantaged populations, and **individual fairness** principles (\"fairness through unawareness\" vs. \"awareness\" via similarity metrics). **Causality-based fairness** probes counterfactual scenarios related to sensitive attributes for nuanced group and individual assessment",
+        "idx_start": 1328,
+        "idx_end": 1814
+    },
+    {
+        "document_idx": null,
+        "text": "# Fairness, Ethics, Regulation, and Accountability\nOperationalizing fairness faces challenges from ambiguous metrics, unclear discrimination boundaries, and persistent human bias. Effective AI governance demands transparent regulatory frameworks\u2014like the EU AI Act\u2014to foster trust, risk management, and harm mitigation.",
+        "text_original": "Operationalizing fairness faces challenges from ambiguous metrics, unclear discrimination boundaries, and persistent human bias. Effective AI governance demands transparent regulatory frameworks\u2014like the EU AI Act\u2014to foster trust, risk management, and harm mitigation",
+        "idx_start": 1870,
+        "idx_end": 2137
+    },
+    {
+        "document_idx": null,
+        "text": "# Philosophical Debates: Mind, Consciousness, and Machine Rights\nDebates about machine understanding and digital consciousness (e.g., Searle\u2019s Chinese Room) probe AI autonomy, agency, and the moral status or possible rights of digital entities.",
+        "text_original": "Debates about machine understanding and digital consciousness (e.g., Searle\u2019s Chinese Room) probe AI autonomy, agency, and the moral status or possible rights of digital entities",
+        "idx_start": 2207,
+        "idx_end": 2385
+    },
+    {
+        "document_idx": null,
+        "text": "# Turing Test: History, Critiques, and Alternatives\nThe Turing Test, based on linguistic interaction, historically assessed AI intelligence and inspired systems like ELIZA and PARRY. Criticisms have yielded specialized testing variants and reverse Turing Tests now common in AI evaluation.",
+        "text_original": "The Turing Test, based on linguistic interaction, historically assessed AI intelligence and inspired systems like ELIZA and PARRY. Criticisms have yielded specialized testing variants and reverse Turing Tests now common in AI evaluation",
+        "idx_start": 2442,
+        "idx_end": 2678
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition: Foundations, Applications, and Challenges\nEmbodied cognition posits intelligence as emerging from mind\u2013body\u2013environment interaction, influencing approaches in robotics and medical fields while prompting ongoing methodological debate.",
+        "text_original": "Embodied cognition posits intelligence as emerging from mind\u2013body\u2013environment interaction, influencing approaches in robotics and medical fields while prompting ongoing methodological debate",
+        "idx_start": 2747,
+        "idx_end": 2937
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism, AI Welfare, and Human Dignity\nTranshumanism explores ethical dilemmas\u2014including autonomy, equity, and identity\u2014related to augmentation technologies, raising questions on AI welfare, the dignity of enhanced beings, and justice.",
+        "text_original": "Transhumanism explores ethical dilemmas\u2014including autonomy, equity, and identity\u2014related to augmentation technologies, raising questions on AI welfare, the dignity of enhanced beings, and justice",
+        "idx_start": 2989,
+        "idx_end": 3184
+    },
+    {
+        "document_idx": null,
+        "text": "# Liability, Weaponization, and Governance\nAI autonomy in transport and weaponry presents risks and complex liability issues, spurring evolving legal and regulatory frameworks.",
+        "text_original": "AI autonomy in transport and weaponry presents risks and complex liability issues, spurring evolving legal and regulatory frameworks",
+        "idx_start": 3232,
+        "idx_end": 3364
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity: Concepts, Predictions, and Critiques\nThe technological singularity envisions a future of self-improving AI surpassing human control\u2014with radical social implications, amplified intelligence, and urgent questions of alignment and governance. While some advocate feasibility, critics cite technical limitations. Ongoing digital innovation continues to reshape the labor market, society, and ethical paradigms.",
+        "text_original": "The technological singularity envisions a future of self-improving AI surpassing human control\u2014with radical social implications, amplified intelligence, and urgent questions of alignment and governance. While some advocate feasibility, critics cite technical limitations. Ongoing digital innovation continues to reshape the labor market, society, and ethical paradigms",
+        "idx_start": 3435,
+        "idx_end": 3803
+    }
+]

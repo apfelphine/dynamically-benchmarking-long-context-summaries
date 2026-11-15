@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Global Education System Comparisons\n## Diverse National Models and Structures\nInternational education systems show vast diversity in structure and philosophy. Some nations employ comprehensive, public models, such as Norway's inclusive system, while others feature centralized approaches like Egypt's, which often necessitates reliance on private tutoring due to public deficiencies. Examples of specific structures include Sweden's nine-year *grundskola* , Taiwan's 12-year mandate incorporating military education, and England's Year 13 National Curriculum.",
+        "text_original": "International education systems show vast diversity in structure and philosophy. Some nations employ comprehensive, public models, such as Norway's inclusive system, while others feature centralized approaches like Egypt's, which often necessitates reliance on private tutoring due to public deficiencies. Examples of specific structures include Sweden's nine-year *grundskola*, Taiwan's 12-year mandate incorporating military education, and England's Year 13 National Curriculum",
+        "idx_start": 81,
+        "idx_end": 560
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education System Comparisons\n## Challenges, Inequality, and Pathways\nMany countries grapple with shared systemic issues, including funding gaps and inequality. Regional hurdles vary, such as Nigeria's infrastructure and security concerns or Indonesia's struggle for teacher equity. Furthermore, tertiary access and equity are addressed differently: Ireland utilizes the DEIS scheme to support disadvantaged schools, while France channels students through selective *pr\u00e9pas* toward elite *grandes \u00e9coles* .",
+        "text_original": "Many countries grapple with shared systemic issues, including funding gaps and inequality. Regional hurdles vary, such as Nigeria's infrastructure and security concerns or Indonesia's struggle for teacher equity. Furthermore, tertiary access and equity are addressed differently: Ireland utilizes the DEIS scheme to support disadvantaged schools, while France channels students through selective *pr\u00e9pas* toward elite *grandes \u00e9coles",
+        "idx_start": 603,
+        "idx_end": 1036
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education System Comparisons\n## Varied Approaches to Curriculum and Mandates\nNational curricula range from mandatory structures like Turkey\u2019s \"4+4+4\" system, which offers general, vocational, or technical tracks, to Ghana's 12 years of free basic education. Philosophies differ significantly; for instance, France strictly enforces *La\u00efcit\u00e9* (secularism) in its schools, whereas other systems integrate nationalism or focus on specific competencies.",
+        "text_original": "National curricula range from mandatory structures like Turkey\u2019s \"4+4+4\" system, which offers general, vocational, or technical tracks, to Ghana's 12 years of free basic education. Philosophies differ significantly; for instance, France strictly enforces *La\u00efcit\u00e9* (secularism) in its schools, whereas other systems integrate nationalism or focus on specific competencies",
+        "idx_start": 1088,
+        "idx_end": 1459
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education System Comparisons\n## Systemic Issues and Reforms\nBeyond structure, nations face specific operational challenges. Israel displays internal disparities within its K-12 system, while Iran manages a centralized system with high female enrollment despite teacher shortages. Other nations, like Hong Kong, employ rigorous, bilingual tertiary management via JUPAS, illustrating varied paths to higher education across the globe.",
+        "text_original": "Beyond structure, nations face specific operational challenges. Israel displays internal disparities within its K-12 system, while Iran manages a centralized system with high female enrollment despite teacher shortages. Other nations, like Hong Kong, employ rigorous, bilingual tertiary management via JUPAS, illustrating varied paths to higher education across the globe",
+        "idx_start": 1493,
+        "idx_end": 1864
+    }
+]

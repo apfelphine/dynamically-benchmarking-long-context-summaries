@@ -1,0 +1,1 @@
+Percy Edwin Ludgate (2 August 1883 – 16 October 1922) was an Irish amateur scientist who designed the second analytical engine (general-purpose Turing-complete computer) in history.

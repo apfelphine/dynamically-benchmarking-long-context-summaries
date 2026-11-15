@@ -1,0 +1,23 @@
+{
+  "id": 6017312,
+  "title": "Harry S. Truman Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Harry_S._Truman_Scholarship",
+  "path": "Scholarships\\harry-s-truman-scholarship",
+  "summary": {
+    "chars": 1382,
+    "tokens": 253
+  },
+  "document": {
+    "chars": 6878,
+    "tokens": 1430
+  },
+  "infobox": {
+    "title": "Harry S. Truman Scholarship",
+    "data": {
+      "Awarded for": "Graduate study in the United States for public service leadership",
+      "Sponsored by": "Harry S. Truman Scholarship Foundation",
+      "Established": "1975",
+      "Website": "www.truman.gov"
+    }
+  }
+}

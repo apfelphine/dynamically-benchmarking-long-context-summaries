@@ -1,0 +1,1 @@
+In artificial intelligence, a differentiable neural computer (DNC) is a memory augmented neural network architecture (MANN), which is typically (but not by definition) recurrent in its implementation. The model was published in 2016 by Alex Graves et al. of DeepMind.

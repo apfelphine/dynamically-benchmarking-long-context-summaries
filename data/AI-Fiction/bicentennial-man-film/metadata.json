@@ -1,0 +1,35 @@
+{
+  "id": 4288473,
+  "title": "Bicentennial Man (film)",
+  "url": "https://en.wikipedia.org/wiki/Bicentennial_Man_(film)",
+  "path": "AI-Fiction\\bicentennial-man-film",
+  "summary": {
+    "chars": 673,
+    "tokens": 157
+  },
+  "document": {
+    "chars": 9402,
+    "tokens": 2009
+  },
+  "infobox": {
+    "title": "Bicentennial Man",
+    "data": {
+      "Directed by": "Chris Columbus",
+      "Screenplay by": "Nicholas Kazan",
+      "Based on": "- The Bicentennial Man \u00b7 by Isaac Asimov - The Positronic Man \u00b7 by Isaac Asimov \u00b7 Robert Silverberg",
+      "Produced by": "- Wolfgang Petersen - Gail Katz - Laurence Mark - Neal Miller - Chris Columbus - Mark Radcliffe - Michael Barnathan",
+      "Starring": "- Robin Williams - Sam Neill - Embeth Davidtz - Wendy Crewson - Oliver Platt",
+      "Cinematography": "Phil M\u00e9heux",
+      "Edited by": "Neil Travis",
+      "Music by": "James Horner",
+      "Production \u00b7 companies": "- Touchstone Pictures - Columbia Pictures - 1492 Pictures - Laurence Mark Productions - Radiant Productions",
+      "Distributed by": "- Buena Vista Pictures Distribution \u00b7 (North America) - Columbia TriStar Film Distributors International (International)",
+      "Release date": "- December 17, 1999 (United States)",
+      "Running time": "132 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$90-100 million",
+      "Box office": "$87.4 million"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+# Global University Profiles
+
+Several elite global universities showcase diverse strengths. Harvard University (USA) is a large biomedical research powerhouse with 12 specialized schools. Other highly-regarded institutions include Imperial College London, an elite UK specialist in science, engineering, and medicine, and Lund University, which is recognized for pioneering technology (like Bluetooth) and high sustainability rankings.
+
+Other notable institutions include the University of Manchester, a Russell Group member known for its research and Nobel laureate history. Regional examples include the University of Sydney (Australia), which pioneers merit-based education despite facing operational challenges, and RMIT University (Australia). Other institutions mentioned include Peking University (PKU), the University of the Andes (Colombia), and Western University, which specializes in cognitive neuroscience research.

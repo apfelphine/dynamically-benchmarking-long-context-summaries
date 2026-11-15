@@ -1,0 +1,100 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## Overview\nThe provided text details the history, structure, and key characteristics of ten major universities across different continents: Universidad de los Andes (Colombia), University of Sydney, S\u00e3o Paulo State University (Unesp), University of Auckland, Royal Melbourne Institute of Technology (RMIT), University of Manchester, Peking University, State University of Campinas (Unicamp), Harvard University, and University of Western Ontario. These institutions represent a diverse array of academic models, from the secular, research-focused universities of the West and East to the historically significant and religiously affiliated institutions in Europe and North America.",
+        "text_original": "The provided text details the history, structure, and key characteristics of ten major universities across different continents: Universidad de los Andes (Colombia), University of Sydney, S\u00e3o Paulo State University (Unesp), University of Auckland, Royal Melbourne Institute of Technology (RMIT), University of Manchester, Peking University, State University of Campinas (Unicamp), Harvard University, and University of Western Ontario. These institutions represent a diverse array of academic models, from the secular, research-focused universities of the West and East to the historically significant and religiously affiliated institutions in Europe and North America",
+        "idx_start": 50,
+        "idx_end": 719
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## North American and Asian Institutions\n### Harvard University\nFounded in 1636, Harvard is the oldest institution of higher education in the United States and boasts the largest university endowment in the world. Historically rooted in Puritanism and the English model, it evolved into a secular research powerhouse under presidents like Charles William Eliot. It is renowned for its massive library system, medical research dominance, and influential alumni, including eight U.S. Presidents and numerous Nobel laureates. Recent years have seen significant debates regarding student protests, government funding threats under the Trump administration, and the university's governance structure.",
+        "text_original": "Founded in 1636, Harvard is the oldest institution of higher education in the United States and boasts the largest university endowment in the world. Historically rooted in Puritanism and the English model, it evolved into a secular research powerhouse under presidents like Charles William Eliot. It is renowned for its massive library system, medical research dominance, and influential alumni, including eight U.S. Presidents and numerous Nobel laureates. Recent years have seen significant debates regarding student protests, government funding threats under the Trump administration, and the university's governance structure",
+        "idx_start": 795,
+        "idx_end": 1425
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## North American and Asian Institutions\n### Peking University\nEstablished in 1898 during the Hundred Days' Reform, Peking University (PKU) transformed under President Cai Yuanpei into a model of academic freedom and intellectual diversity. It is currently one of the top universities in Asia, ranking #1 in QS Asia University Rankings in 2025. PKU is known for its traditional campus design, extensive international collaborations (notably with Waseda University), and distinguished alumni who have shaped Chinese politics, science, and business. It maintains a strong focus on basic research and has recently expanded its engineering and informatics faculties.",
+        "text_original": "Established in 1898 during the Hundred Days' Reform, Peking University (PKU) transformed under President Cai Yuanpei into a model of academic freedom and intellectual diversity. It is currently one of the top universities in Asia, ranking #1 in QS Asia University Rankings in 2025. PKU is known for its traditional campus design, extensive international collaborations (notably with Waseda University), and distinguished alumni who have shaped Chinese politics, science, and business. It maintains a strong focus on basic research and has recently expanded its engineering and informatics faculties",
+        "idx_start": 1454,
+        "idx_end": 2052
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## North American and Asian Institutions\n### University of Western Ontario\nFounded in 1878, Western University is a prominent public research university in London, Ontario, Canada. It is known for its Collegiate Gothic architecture, strong business school (Ivey), and significant contributions to medical research, particularly in HIV/AIDS vaccine development. The university operates affiliated colleges (Huron, King's, and formerly Brescia) and is a member of the Association of Universities and Colleges of Canada. It has faced recent controversies regarding sexual violence on campus and party culture rankings.",
+        "text_original": "Founded in 1878, Western University is a prominent public research university in London, Ontario, Canada. It is known for its Collegiate Gothic architecture, strong business school (Ivey), and significant contributions to medical research, particularly in HIV/AIDS vaccine development. The university operates affiliated colleges (Huron, King's, and formerly Brescia) and is a member of the Association of Universities and Colleges of Canada. It has faced recent controversies regarding sexual violence on campus and party culture rankings",
+        "idx_start": 2093,
+        "idx_end": 2632
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## North American and Asian Institutions\n### State University of Campinas (Unicamp)\nEstablished in 1966, Unicamp is a leading public university in the state of S\u00e3o Paulo, Brazil, known for its unique radial campus design and focus on technology and industry. It has a history of academic autonomy and democratic governance, often navigating political tensions with the state government. The university is recognized for its strong research output, extensive extension programs, and high-quality engineering and medical faculties.",
+        "text_original": "Established in 1966, Unicamp is a leading public university in the state of S\u00e3o Paulo, Brazil, known for its unique radial campus design and focus on technology and industry. It has a history of academic autonomy and democratic governance, often navigating political tensions with the state government. The university is recognized for its strong research output, extensive extension programs, and high-quality engineering and medical faculties",
+        "idx_start": 2682,
+        "idx_end": 3126
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## North American and Asian Institutions\n### University of Auckland\nFounded in 1883 as Auckland University College, it became the first university in New Zealand to be granted its own charter in 1961. The university is highly international, with a significant Asian student population, and is a leader in innovation and entrepreneurship, hosting a co-working space for startups. It has undergone recent restructuring to consolidate campuses and has faced controversies regarding student accommodation costs and the use of fossil fuels in its investment portfolio.",
+        "text_original": "Founded in 1883 as Auckland University College, it became the first university in New Zealand to be granted its own charter in 1961. The university is highly international, with a significant Asian student population, and is a leader in innovation and entrepreneurship, hosting a co-working space for startups. It has undergone recent restructuring to consolidate campuses and has faced controversies regarding student accommodation costs and the use of fossil fuels in its investment portfolio",
+        "idx_start": 3160,
+        "idx_end": 3654
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## North American and Asian Institutions\n### Royal Melbourne Institute of Technology (RMIT)\nOriginally a Working Men's College founded in 1887, RMIT is Australia's only institution with \"Royal\" status. It is a unique dual-sector university offering both general higher education and vocational training (VET). RMIT has a global footprint with campuses in Vietnam, China, and Spain, and is known for its strong design, engineering, and technology programs, as well as its entrepreneurial culture.",
+        "text_original": "Originally a Working Men's College founded in 1887, RMIT is Australia's only institution with \"Royal\" status. It is a unique dual-sector university offering both general higher education and vocational training (VET). RMIT has a global footprint with campuses in Vietnam, China, and Spain, and is known for its strong design, engineering, and technology programs, as well as its entrepreneurial culture",
+        "idx_start": 3712,
+        "idx_end": 4114
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## North American and Asian Institutions\n### University of Sydney\nEstablished in 1850, it is Australia's first public, non-denominational, and secular university. It has a rich history of admitting women early and has expanded significantly through amalgamations in the late 20th century. The university is renowned for its historic Gothic architecture and strong medical and law schools. Recent years have seen challenges regarding student satisfaction ratings, financial sustainability, and issues related to sexual harassment and staff underpayment.",
+        "text_original": "Established in 1850, it is Australia's first public, non-denominational, and secular university. It has a rich history of admitting women early and has expanded significantly through amalgamations in the late 20th century. The university is renowned for its historic Gothic architecture and strong medical and law schools. Recent years have seen challenges regarding student satisfaction ratings, financial sustainability, and issues related to sexual harassment and staff underpayment",
+        "idx_start": 4146,
+        "idx_end": 4631
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## North American and Asian Institutions\n### University of Manchester\nTracing its roots to the Mechanics' Institution (1824) and Owens College (1851), the University of Manchester merged with UMIST in 2004 to become a top-tier research university. It is a member of the Russell Group and is historically significant for discoveries in physics and chemistry, including the work of Ernest Rutherford. The university is known for its strong engineering, life sciences, and humanities, and has faced recent student protests regarding rent increases.",
+        "text_original": "Tracing its roots to the Mechanics' Institution (1824) and Owens College (1851), the University of Manchester merged with UMIST in 2004 to become a top-tier research university. It is a member of the Russell Group and is historically significant for discoveries in physics and chemistry, including the work of Ernest Rutherford. The university is known for its strong engineering, life sciences, and humanities, and has faced recent student protests regarding rent increases",
+        "idx_start": 4667,
+        "idx_end": 5141
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## European Institutions\n### Lund University\nFounded in 1666 in Scania, Sweden, Lund is the oldest institution of higher education in Scandinavia. It is a comprehensive research university known for its \"student nations\" system, which organizes student life geographically, and the Academic Society (AF). The university has produced numerous Nobel laureates and is famous for inventions such as Bluetooth technology, the artificial kidney, and medical ultrasound. It operates satellite campuses in Malm\u00f6 and Helsingborg.",
+        "text_original": "Founded in 1666 in Scania, Sweden, Lund is the oldest institution of higher education in Scandinavia. It is a comprehensive research university known for its \"student nations\" system, which organizes student life geographically, and the Academic Society (AF). The university has produced numerous Nobel laureates and is famous for inventions such as Bluetooth technology, the artificial kidney, and medical ultrasound. It operates satellite campuses in Malm\u00f6 and Helsingborg",
+        "idx_start": 5198,
+        "idx_end": 5672
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## European Institutions\n### Imperial College London\nEstablished in 1907, Imperial College is one of the UK's elite universities, specializing in science, technology, medicine, and business. It is a constituent college of the University of London until 2007, when it became fully independent. Imperial is renowned for its research power, particularly in engineering and medicine, and has a high rate of student commercialization and spin-out companies. It operates multiple campuses in London and Silwood Park.",
+        "text_original": "Established in 1907, Imperial College is one of the UK's elite universities, specializing in science, technology, medicine, and business. It is a constituent college of the University of London until 2007, when it became fully independent. Imperial is renowned for its research power, particularly in engineering and medicine, and has a high rate of student commercialization and spin-out companies. It operates multiple campuses in London and Silwood Park",
+        "idx_start": 5707,
+        "idx_end": 6163
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## European Institutions\n### University of Jordan\nFounded in 1962, the University of Jordan is the first university in the country, established with British aid. It has expanded to include an Aqaba campus and is recognized for its high admission scores and research output relative to population. The university is a member of the Association of Arab Universities and has a strong focus on Islamic studies, international relations, and engineering.",
+        "text_original": "Founded in 1962, the University of Jordan is the first university in the country, established with British aid. It has expanded to include an Aqaba campus and is recognized for its high admission scores and research output relative to population. The university is a member of the Association of Arab Universities and has a strong focus on Islamic studies, international relations, and engineering",
+        "idx_start": 6195,
+        "idx_end": 6592
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## South American Institutions\n### Universidad de los Andes (Colombia)\nFounded in 1948 by Mario Laserna Pinz\u00f3n, this is Colombia's first non-sectarian and non-political university. Modeled after the American system, it emphasizes liberal education alongside technical training. The university is located in Bogot\u00e1's historical center, has a strong international presence, and is known for its neutral stance in political violence, ensuring good relations with various administrations.",
+        "text_original": "Founded in 1948 by Mario Laserna Pinz\u00f3n, this is Colombia's first non-sectarian and non-political university. Modeled after the American system, it emphasizes liberal education alongside technical training. The university is located in Bogot\u00e1's historical center, has a strong international presence, and is known for its neutral stance in political violence, ensuring good relations with various administrations",
+        "idx_start": 6675,
+        "idx_end": 7087
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of University Profiles\n## South American Institutions\n### S\u00e3o Paulo State University (Unesp)\nCreated in 1976, Unesp is one of the six public higher education institutions in S\u00e3o Paulo state. Inspired by the University of California's multi-campus system, it operates numerous campuses across the state. The university focuses on applied research in areas like bioenergy and nanotechnology and has a growing reputation for scientific production in Brazil.",
+        "text_original": "Created in 1976, Unesp is one of the six public higher education institutions in S\u00e3o Paulo state. Inspired by the University of California's multi-campus system, it operates numerous campuses across the state. The university focuses on applied research in areas like bioenergy and nanotechnology and has a growing reputation for scientific production in Brazil",
+        "idx_start": 7133,
+        "idx_end": 7493
+    }
+]

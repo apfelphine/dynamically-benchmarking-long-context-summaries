@@ -1,0 +1,8 @@
+**Education in Sweden**  
+Sweden's education system is structured into nine years of compulsory primary and lower secondary education (grundskola), followed by three years of upper secondary education (gymnasieskola). The primary curriculum includes core subjects like Swedish, mathematics, physical education, English, and social studies, with students receiving individual development plans (IUP) and grades from year 6. National tests are administered in grades 3, 6, and 9.  
+
+Upper secondary education offers 18 national programs, divided into preparatory and vocational tracks, with all students required to complete a diploma project. Admission is based on performance in compulsory education, and students may enter a preparatory or vocational path.  
+
+Higher education includes university and university college programs, with degrees aligned to the Bologna Process. Public universities offer bachelor’s, master’s, and doctoral degrees, while vocational education is independent and non-Bologna compatible. Independent schools (friskolor) are publicly funded and offer alternative pedagogies, though concerns over quality and inequality have led to investigations.  
+
+The system emphasizes equity, with free preschool for children aged 1–6 and strong support for students with special needs. The grading system uses a five-grade scale (A–E), with a focus on student development and holistic learning. Sweden ranks highly in international assessments, with strong performance in PISA and early childhood education.

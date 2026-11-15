@@ -1,0 +1,5 @@
+## Donald Knuth
+
+Donald Knuth was born in Milwaukee, Wisconsin, and received a scholarship to the Case Institute of Technology. Initially studying physics, he later switched to mathematics, earning a Bachelor of Science and a Master of Science from Case in 1960. He continued his advanced studies at the California Institute of Technology, where he earned his PhD in mathematics in 1963.
+
+Knuth's significant contributions include the development of the fundamental theory of computer programming, culminating in his monumental work, *The Art of Computer Programming* (TAOCP). He is also credited with creating the digital typesetting system TeX and Metafont. Furthermore, he pioneered the methodology of literate programming, which conceptualizes programs as works of literature. He has received numerous accolades, including the Turing Award, the National Medal of Science, and the Kyoto Prize.

@@ -1,0 +1,11 @@
+## Pioneers in Computing, Science, and Technology
+
+Charles Babbage and Ada Lovelace laid the foundation for modern computing. Babbage's Difference and Analytical Engines revolutionized computation, impacting fields like meteorology and cryptography. Lovelace, regarded as the first computer programmer, envisioned computing's creative potential beyond calculation. Their collaborative breakthroughs inspired future innovators, notably Alan Turing, whose concepts in artificial intelligence, codebreaking, and logic further transformed technology and led to lasting legal and societal reforms.
+
+Hedy Lamarr, celebrated both as an actress and inventor, co-developed a pioneering frequency-hopping system for secure communications, forming the basis for today’s wireless technology and earning influential recognition. Richard Stallman’s advocacy for free software shaped digital rights enormously—his GNU Project, Free Software Foundation, and GNU General Public License, along with tools like Emacs and GCC, define much of today’s software landscape. Blaise Pascal revolutionized mathematics, physics, and computing, pioneering probability theory and inventing the Pascaline calculator, with a legacy extending into literature, theology, and programming.
+
+## Innovators in Science Policy, Philosophy, and Engineering
+
+Vannevar Bush’s leadership during and after WWII redefined science policy, establishing federal support for civilian-led research and guiding the creation of the National Science Foundation. Leonardo Torres Quevedo transformed engineering and automation—advancing computational machines, remote control, and educational technologies, with lasting contributions to infrastructure and scientific communication.
+
+Alfred North Whitehead reshaped philosophy and logic, moving focus to dynamic processes and interconnectedness in works like *Process and Reality*. The ongoing Whitehead Research Project illuminates his philosophical influence through new critical editions and academic resources. Philip Rubin's pioneering work in cognitive science and speech synthesis bridged linguistics with policy, fostering interdisciplinary research, open science, and connections to music and popular culture.

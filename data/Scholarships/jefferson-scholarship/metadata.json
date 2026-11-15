@@ -1,0 +1,26 @@
+{
+  "id": 70558674,
+  "title": "Jefferson Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Jefferson_Scholarship",
+  "path": "Scholarships\\jefferson-scholarship",
+  "summary": {
+    "chars": 623,
+    "tokens": 116
+  },
+  "document": {
+    "chars": 3686,
+    "tokens": 755
+  },
+  "infobox": {
+    "title": "Jefferson Scholarship",
+    "data": {
+      "Awarded for": "Merit-based to high school seniors",
+      "Description": "full scholarship to attend the University of Virginia",
+      "Sponsored by": "Jefferson Scholars Foundation",
+      "Location": "Charlottesville, Virginia, US",
+      "Post-nominals": "JS",
+      "Established": "1981",
+      "Website": "jeffersonscholars.org"
+    }
+  }
+}

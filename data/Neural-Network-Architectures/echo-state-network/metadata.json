@@ -1,0 +1,15 @@
+{
+  "id": 8887731,
+  "title": "Echo state network",
+  "url": "https://en.wikipedia.org/wiki/Echo_state_network",
+  "path": "Neural-Network-Architectures\\echo-state-network",
+  "summary": {
+    "chars": 1476,
+    "tokens": 289
+  },
+  "document": {
+    "chars": 5880,
+    "tokens": 1118
+  },
+  "infobox": null
+}

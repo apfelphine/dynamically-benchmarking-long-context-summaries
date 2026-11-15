@@ -1,0 +1,41 @@
+{
+  "id": 268075,
+  "title": "University of Hong Kong",
+  "url": "https://en.wikipedia.org/wiki/University_of_Hong_Kong",
+  "path": "Universities\\university-of-hong-kong",
+  "summary": {
+    "chars": 1393,
+    "tokens": 278
+  },
+  "document": {
+    "chars": 40312,
+    "tokens": 8278
+  },
+  "infobox": {
+    "title": "The University of Hong Kong",
+    "data": {
+      "Motto": "Sapientia et Virtus (Latin) \u00b7 \u660e\u5fb7\u683c\u7269 (Classical Chinese)",
+      "Motto in English": "Wisdom and Virtue",
+      "Type": "Public",
+      "Established": "1 October 1887 (as Hong Kong College of Medicine for Chinese) \u00b7 30 March 1911 (as the University of Hong Kong)",
+      "Academic affiliation": "ASAIHL APRU BHUA GHMUA Universitas 21",
+      "Chancellor": "John Lee Ka-chiu",
+      "President": "Xiang Zhang",
+      "Vice-president": "Gong Peng \u00b7 Ian Holliday \u00b7 Max Shen",
+      "Provost": "Richard Wong",
+      "Pro-chancellor": "David Li",
+      "Academic staff": "9,288 (2023)",
+      "Administrative staff": "4,427 (2023)",
+      "Students": "39,166 (2023)",
+      "Undergraduates": "18,491 (47.2%) (2023)",
+      "Postgraduates": "20,675 (52.8%) (2023)",
+      "Location": "Pok Fu Lam, Hong Kong \u00b7 22\u00b017\u203203\u2033N 114\u00b008\u203216\u2033E\ufeff / \ufeff22.28417\u00b0N 114.13778\u00b0E",
+      "Campus": "Urban, 17.7 hectares (0.177 km2) (Main campus) \u00b7 70.1 hectares (0.701 km2) (Total)",
+      "Newspaper": "Undergrad HKUSU (Chinese)",
+      "Colours": "Dark green",
+      "Affiliations": "ACU Heads of Universities Committee JQRC JUPAS MISA UGC",
+      "Mascot": "Lion",
+      "Website": "hku.hk"
+    }
+  }
+}

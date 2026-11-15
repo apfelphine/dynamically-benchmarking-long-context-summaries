@@ -1,0 +1,36 @@
+{
+  "id": 2599076,
+  "title": "University of Jordan",
+  "url": "https://en.wikipedia.org/wiki/University_of_Jordan",
+  "path": "Universities\\university-of-jordan",
+  "summary": {
+    "chars": 1544,
+    "tokens": 334
+  },
+  "document": {
+    "chars": 33668,
+    "tokens": 7068
+  },
+  "infobox": {
+    "title": "University of Jordan",
+    "data": {
+      "Motto": "Arabic: \u0648\u064a\u0639\u0644\u0645\u0643\u0645 \u0627\u0644\u0643\u062a\u0627\u0628 \u0648\u0627\u0644\u062d\u0643\u0645\u0629",
+      "Motto in English": "And he teaches you the book and wisdom",
+      "Type": "Public",
+      "Established": "2 September 1962",
+      "Endowment": "4,800,000 JOD ($6.77 million USD) (2015)",
+      "Chairman": "Adnan Badran",
+      "President": "Nathir Obeidat",
+      "Academic staff": "1,485 (2019/2020)",
+      "Administrative staff": "2,415 (2019/2020)",
+      "Students": "46,951 (2020/2021)",
+      "Undergraduates": "40,142 (2020/2021)",
+      "Postgraduates": "6,765 (2020/2021)",
+      "Location": "Amman, Jordan \u00b7 32\u00b00\u203250\u2033N 35\u00b052\u203222\u2033E\ufeff / \ufeff32.01389\u00b0N 35.87278\u00b0E",
+      "Campus": "Urban \u00b7 1.2 square kilometres (300 acres)",
+      "Colors": "Royal yellow and Green [a]",
+      "Affiliations": "IAU, FUIW, UNIMED, AArU",
+      "Website": "ju.edu.jo"
+    }
+  }
+}

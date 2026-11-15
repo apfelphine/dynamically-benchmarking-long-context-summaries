@@ -1,0 +1,21 @@
+## Accelerationism
+Accelerationism is a philosophical concept with three historical waves: late 1960s/early 70s French post-Marxists, the 1990s wave involving Nick Land and the CCRU, and the 2010s Promethean left-accelerationism. The term originated in Roger Zelazny's 1967 novel, and was later popularized to describe unorthodox Marxist/counter-Marxist views embracing capitalist growth, with the aim of destabilizing capitalism itself.
+
+Key precursors include the work of Deleuze and Guattari, whose concept of "desiring-production" views desire as a productive flow, and Nietzsche's idea that leveling processes should be accelerated. Influences also stem from Karl Marx (who anticipated accelerationist principles regarding free trade) and Vladimir Lenin. The movement encompasses various strands, including **Right-wing accelerationism**, which celebrates capitalist growth, and **Left-wing accelerationism**, which seeks to accelerate beyond capitalism by democratizing technology.
+
+The movement incorporates **Posthumanism** and **Antihumanism**, rejecting stable essences of humanity, and often features **Prometheanism**, which champions technology's power to surpass natural limits. **Hyperstition**, attributed to the CCRU, is the idea that desired future beliefs can retroactively shape present reality.
+
+## Technological Singularity and Intelligence Explosion
+The concept of the technological singularity—a radical, unpredictable societal transition triggered by the creation of superhuman intelligence—has roots in early theoretical discussions. John von Neumann and I. J. Good speculated about approaching an "essential singularity" or an "intelligence explosion" where machines surpass human intellect. Vernor Vinge popularized the term, predicting the end of the human era as a superintelligence upgrades itself incomprehensibly fast.
+
+The core mechanism is often recursive self-improvement, where an AI, designated as a "seed AI," autonomously improves its own software and hardware. Predictions for this event vary widely, with figures like Ray Kurzweil predicting singularity by 2045. Critics argue against its inevitability, citing limitations like the "complexity brake" or the lack of scientific rigor in exponential growth models.
+
+## Deepfakes and AI Ethics
+Deepfake technology, utilizing autoencoders and Generative Adversarial Networks (GANs), involves manipulating video and audio to fabricate realistic content. Applications span acting (digital cloning), art, and fraud/scams, while its malicious use raises significant concerns.
+
+Ethically, deepfakes are viewed as an "epistemic threat" to truth, undermining trust in information. Countermeasures range from detection methods (using deep learning to spot artifacts) to legal regulation, such as the EU AI Act and various US and international legislation. Broader AI ethics concerns include algorithmic biases stemming from historical training data, the threat to human dignity from replacement by AI, and the potential for uncontrollable, deceptive behavior in advanced models.
+
+## General Data Protection Regulation (GDPR)
+The GDPR (2016) is a comprehensive EU regulation governing the processing of personal data. It applies extraterritorially if data of EU residents is processed, even outside the EU, provided the organization offers goods or services to them. It is built on six principles, including lawfulness, fairness, and transparency.
+
+Data subjects are granted extensive rights, such as the right to access their data, the right to data portability, and the right to erasure (right to be forgotten). Controllers must adhere to principles of "data protection by design and by default," implementing safeguards like pseudonymization. Compliance involves mandatory records of processing activities and appointing a Data Protection Officer (DPO) for certain organizations, with non-compliance leading to significant financial penalties.

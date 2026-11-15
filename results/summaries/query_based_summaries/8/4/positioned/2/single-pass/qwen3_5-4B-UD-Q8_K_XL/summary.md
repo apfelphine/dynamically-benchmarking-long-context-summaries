@@ -1,0 +1,1 @@
+The provided text does not contain information regarding "Education in Australia." The document exclusively details education systems in Portugal, South Africa, Finland, Romania, Malaysia, the Philippines, and the United States. Consequently, no summary can be generated based strictly on the provided text.

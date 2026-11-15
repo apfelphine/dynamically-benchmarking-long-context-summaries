@@ -1,0 +1,59 @@
+# Jean E. Sammet
+
+## Early life
+Jean E. Sammet was born on March 23, 1928, in New York City. Jean and her sister, Helen, were born to Harry and Ruth Sammet who were both lawyers. Jean and Helen attended public elementary schools in Manhattan. Sammet had a strong interest in mathematics but was unable to attend the Bronx High School of Science because it did not accept girls. Instead, Sammet attended Julia Richman High School.
+
+Sammet chose to enroll at Mount Holyoke College based on the strength of its mathematics program. Sammet majored in mathematics and took education courses, which allowed her to be certified to teach high school mathematics in New York. She minored in political science. After graduating from Mount Holyoke, Sammet pursued graduate studies at the University of Illinois, where she received her MA in 1949. While taking courses toward a Ph.D., she was a teaching assistant in the Mathematics department at the University of Illinois from 1948 to 1951. When Sammet first encountered a computer, in 1949 at the University of Illinois, she was not impressed, considering it an obscene piece of hardware.
+
+In 1951, Sammet began looking for a position in education. Sammet was forced to search for positions in New Jersey because New York City was not hiring new teachers. The authorities in New Jersey determined that Sammet was missing two courses from her studies: a course in education and one in the history of New Jersey. Sammet fought this determination, stating that her knowledge of New Jersey history did not strengthen her ability to teach mathematics in high school. This forced Sammet to seek other types of employment.
+
+
+## Work
+In 1951, Sammet took a position at the Metropolitan Life Insurance Company as a trainee actuary. She agreed to participate in an in-house training program to learn about punched card accounting machines. Sammet took to the electronic accounting machines, but was unable to work with the machines after her training was complete. She left her position at the insurance office and enrolled at Columbia University to pursue a Ph.D. in mathematics. Sammet worked as a teaching assistant at Barnard College during the 1952–1953 school year before she decided that the academic life was not for her.
+
+From 1953 to 1958, Sammet was a mathematician for Sperry Gyroscope in New York. She spent time working on mathematical analysis problems for clients and ran an analog computer. Sammet worked on the Department of the Navy's submarine program during her time there. In early January 1955, Sammet began her life as a programmer. Sperry Gyroscope was working on a digital computer, the Sperry Electronic Digital Automatic Computer (SPEEDAC) and asked Sammet to be their programmer. Her first task was to write the basic loader for the SPEEDAC, which was a 20-line program that took three days to toggle into the computer by hand in binary.
+
+Sammet became the group leader of what was called an “open shop” as Sperry began hiring more programmers. The “open shop” consisted of programmers acting as consultants to the engineers and involved scientists who assisted them in writing and testing their routines. The group produced other system software and focused on scientific and engineering computations. In 1955 Sperry Gyroscope and Remington Rand merged and became Sperry Rand. This brought Sammet into contact with the UNIVAC I computer and Grace Hopper.
+
+In fall of 1956, Sammet taught one of the earliest graduate-level courses in computer programming in the Applied Mathematics department of Adelphi College (now University) on Long Island. Despite the fact that Adelphi did not have a computer and few textbooks on programming existed at the time, Sammet was able to instruct two courses for two years.
+
+Sammet decided to leave Sperry to work for a company with computers as its focal point. The classified job advertisements at the time were separated by gender and Sammet was unable to find a position for a woman in any field she was interested in so she decided to scan the men's list and found an engineer position at Sylvania Electric Products in Needham, Massachusetts. Sammet was instead hired to oversee software development for the MOBIDIC project by Carl Hammer, the person responsible for Sylvania's software development.
+
+In 1959, Sammet and five other programmers established much of the design of the influential COBOL programming language, in a proposal written in a span of two weeks that was eventually accepted by Sylvania's U.S. government clients.
+
+Sammet published Programming Languages: History and Fundamentals in 1969. The book gives an overview of 120 programming languages being used in the United States as of the late 1960s.
+
+In 1982, Sammet was Ben Shneiderman's supervisor on a year-long sabbatical to work at the IBM Federal Systems Division in Bethesda, MD.
+
+
+## Ties to ACM
+Around 1965 or 1966, Sammet noticed a need for the exchange of intellectual information with others working with languages and software while she worked on FORMAC. She was a member of ACM for a number of years but was not active until she became interested in starting a special interest group that would allow her to speak with other professionals in the field. After a couple of failed attempts at contacting the person in charge of Special Interest Groups and Special Interest Committees at ACM, Sammet contacted George Forsythe, president of ACM from 1964 to 1966, who named her Chairperson of the Special Interest Committee on Symbolic and Algebraic Manipulation.
+
+In order to gain interest in SICSAM, Sammet wrote letters to people she identified through publications and what was happening in the field at that time. She identified people at Bell Labs, Carnegie Mellon, and IBM who were in different divisions and groups. Sammet faced resistance from the interest group on numerical analysis in ACM. Roughly five years after SICSAM formed, there was a conference about mathematical software called SIGNUM. Sammet states that she fought her way to give a paper at SIGNUM because the group was not interested in non-numerical analysis of that kind of an activity. With assistance from those interested in SICSAM, Sammet organized a conference held in March 1966, which was the Symposium on Symbolic and Algebraic Manipulation (SYMSAM).
+
+In June 1966, Tony Oettinger was elected president of ACM and Sammet was elected the Northeast Regional Representative (1966–1968). She was also a member of the ACM Council and ACM lecturer (1967, 1968, and 1972). Bernie Galler was elected president of ACM in 1968 and in August 1968, Sammet became chairperson of the ACM Committee on SIGs and SICs.
+
+In 1971 she was elected chair of SIGPLAN. She served one year of a two-year term before resigning because she was elected vice president of ACM in 1972. As chairperson of SIGPLAN, she organized conferences between SIGPLAN and various Special Interest Groups. Sammet has stated that these conferences were organized based on the recognition of how fundamental programming languages were to different aspects within computing.
+
+Sammet served as vice president of ACM from June 1972 to June 1974. Working with the president of ACM at the time, Tony Ralston, Sammet made the finances of ACM a priority. At the time of her vice presidency, ACM was almost bankrupt. Sammet convinced Ralston to hold a member-office forum prior to their annual conference. Sammet encouraged this based on her recognition that ACM had no realistic way of communicating with the membership.
+
+
+## Death
+Sammet died on May 20, 2017, in Silver Spring, Maryland, after a brief illness.
+
+
+## Selected works
+- Sammet, Jean E. (1969). Programming Languages: History and Fundamentals. Prentice-Hall. ISBN 978-0-13-729988-1.
+- Sammet, Jean E. (July 1972). "Programming Languages: History and Future". Communications of the ACM. 15 (7): 601–610. doi:10.1145/361454.361485. S2CID 2003242.
+- Detailed Description of COBOL, 1960
+
+
+
+## Awards
+- 1975: Honorary Member of UPE (the International Honor Society for the Computing and Information Sciences), inducted on October 8, 1975.
+- 1989: Augusta Ada Lovelace Award, the Association for Women in Computing.[13]
+- 1994: Fellow, Association for Computing Machinery
+- 1997: SIGPLAN Distinguished Service Award (J.A.N. Lee and Jean E. Sammet)
+- 2001: Fellow of the Computer History Museum "for her contributions to the field of programming languages and its history."[14]
+- 2009: Computer Pioneer Award Recipient (IEEE Computer Society)[15]
+- 2013: NCWIT Pioneer Award[16]

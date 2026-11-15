@@ -1,0 +1,24 @@
+{
+  "id": 18184222,
+  "title": "David Caminer",
+  "url": "https://en.wikipedia.org/wiki/David_Caminer",
+  "path": "Comp-Sci-Pioneers\\david-caminer",
+  "summary": {
+    "chars": 459,
+    "tokens": 98
+  },
+  "document": {
+    "chars": 2066,
+    "tokens": 394
+  },
+  "infobox": {
+    "title": "David Caminer",
+    "data": {
+      "Born": "26 June 1915 \u00b7 London, England",
+      "Died": "19 June 2008 (aged 92)",
+      "Other names": "David Treisman",
+      "Occupation": "Systems analyst",
+      "Employer": "J. Lyons and Co."
+    }
+  }
+}

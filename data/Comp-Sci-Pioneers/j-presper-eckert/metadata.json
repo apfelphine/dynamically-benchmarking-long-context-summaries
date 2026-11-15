@@ -1,0 +1,26 @@
+{
+  "id": 74685,
+  "title": "J. Presper Eckert",
+  "url": "https://en.wikipedia.org/wiki/J._Presper_Eckert",
+  "path": "Comp-Sci-Pioneers\\j-presper-eckert",
+  "summary": {
+    "chars": 483,
+    "tokens": 111
+  },
+  "document": {
+    "chars": 4785,
+    "tokens": 1003
+  },
+  "infobox": {
+    "title": "J. Presper Eckert",
+    "data": {
+      "Born": "John Adam Presper Eckert Jr. \u00b7 April 9, 1919 \u00b7 Philadelphia, Pennsylvania, US",
+      "Died": "June 3, 1995 (aged 76) \u00b7 Bryn Mawr, Pennsylvania, US",
+      "Other names": "\"Pres\"",
+      "Alma mater": "University of Pennsylvania",
+      "Occupation": "Electrical engineer",
+      "Known for": "ENIAC UNIVAC I",
+      "Awards": "Harry H. Goode Memorial Award (1966) \u00b7 National Medal of Science (1968) \u00b7 Harold Pender Award (1973) \u00b7 IEEE Emanuel R. Piore Award (1978)"
+    }
+  }
+}

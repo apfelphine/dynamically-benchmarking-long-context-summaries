@@ -1,0 +1,1 @@
+Garfield Weston Merit Scholarships for Colleges (GWMSC) was a scholarship program that recognize exemplary college students who were passionate about their field of study and were interested in helping their communities. The program ran from 1998 to 2012.

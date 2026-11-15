@@ -1,0 +1,71 @@
+# Artificial Intelligence Act
+
+## Provisions
+
+### Risk categories
+There are different risk categories depending on the type of application, with a specific category dedicated to general-purpose generative AI:
+
+- Unacceptable risk – AI applications in this category are banned, except for specific exemptions.[16] When no exemption applies, this includes AI applications that manipulate human behaviour, those that use real-time remote biometric identification (such as facial recognition) in public spaces, and those used for social scoring (ranking individuals based on their personal characteristics, socio-economic status, or behaviour).[10][17]
+- High-risk – AI applications that are expected to pose significant threats to health, safety, or the fundamental rights of persons. Notably, AI systems used in health, education, recruitment, critical infrastructure management, law enforcement or justice. They are subject to quality, transparency, human oversight and safety obligations, and in some cases require a Fundamental Rights Impact Assessment before deployment.[18][19] A Fundamental Rights Impact Assessment (FRIA) is an ex ante review to identify and mitigate potential impacts on fundamental rights before an AI system is deployed.[18] They must be evaluated both before they are placed on the market and throughout their life cycle. The list of high-risk applications can be expanded over time, without the need to modify the AI Act itself.[7] Citizens also have a right to submit complaints about AI systems and to receive explanations of decisions made by high-risk AI that affect their rights.[20]
+- General-purpose AI – Added in 2023, this category includes foundation models (for example, ChatGPT) that can perform a wide range of tasks. If a model's weights and design are made open source, developers must publish a training data summary and a copyright policy; closed-source models must meet broader transparency requirements. High-impact models that pose systemic risks (require more than 1025 floating-point operations to train)[21] must undergo extra evaluation.[6][10] A General-Purpose AI Code of Practice, published on 10 July 2025, outlines three main chapters on transparency, copyright, and safety and security to help providers demonstrate compliance with the AI Act. Participation in the code is voluntary.[22]
+- Limited risk – AI systems in this category have transparency obligations, ensuring users are informed that they are interacting with an AI system and allowing them to make informed choices. This category includes, for example, AI applications that make it possible to generate or manipulate images, sound, or videos (like deepfakes).[10]
+- Minimal risk – This category includes, for example, AI systems used for video games or spam filters. Most AI applications are expected to fall into this category.[23] These systems are not regulated, and Member States cannot impose additional regulations due to maximum harmonisation rules. Existing national laws regarding the design or use of such systems are overridden. However, a voluntary code of conduct is suggested.[24]
+
+
+
+### Exemptions
+Articles 2.3 and 2.6 exempt AI systems used for military or national security purposes or pure scientific research and development from the AI Act. In particular, the Regulation does not apply where AI systems are used exclusively for military, defence or national security purposes, or to systems developed and put into service solely for scientific research and development; if such systems are later used for other purposes (for example, civilian or law-enforcement uses), the Act applies.
+
+Article 5.2 bans algorithmic video surveillance of people ("The use of 'real-time' remote biometric identification systems in publicly accessible spaces") only if it is conducted in real time. Exceptions allowing real-time algorithmic video surveillance include policing aims including "a real and present or real and foreseeable threat of terrorist attack".
+
+Recital 31 of the act states that it aims to prohibit "AI systems providing social scoring of natural persons by public or private actors," but allows for "lawful evaluation practices of natural persons that are carried out for a specific purpose in accordance with Union and national law." La Quadrature du Net interprets this exemption as permitting sector-specific social scoring systems, such as the suspicion score used by the French family payments agency Caisse d'allocations familiales.
+
+
+### Governance
+The AI Act establishes various new bodies in Article 64 and the following articles. These bodies are tasked with implementing and enforcing the Act. The approach combines EU-level coordination with national implementation, involving both public authorities and private sector participation.
+
+The following new bodies will be established:
+
+1. AI Office: attached to the European Commission, this authority will coordinate the implementation of the AI Act in all Member States and oversee the compliance of general-purpose AI providers. It can also request information or open investigations when serious issues are suspected.[6]
+2. European Artificial Intelligence Board: composed of one representative from each Member State, the Board will advise and assist the Commission and Member States to facilitate the consistent and effective application of the AI Act. Its tasks include gathering and sharing technical and regulatory expertise, providing recommendations, written opinions, and other advice.
+3. Advisory Forum: established to advise and provide technical expertise to the Board and the Commission, this forum will represent a balanced selection of stakeholders, including industry, start-ups, small and medium-sized enterprises, civil society, and academia, ensuring that a broad spectrum of opinions is represented during the implementation and application process.
+4. Scientific Panel of Independent Experts: this panel will provide technical advice and input to the AI Office and national authorities, enforce rules for general-purpose AI models (notably by launching qualified alerts of possible risks to the AI Office), and ensure that the rules and implementations of the AI Act correspond to the latest scientific findings.
+
+
+While the establishment of new bodies is planned at the EU level, Member States will have to designate "national competent authorities." These authorities will be responsible for ensuring the application and implementation of the AI Act, and for conducting "market surveillance." They will verify that AI systems comply with the regulations, notably by checking the proper performance of conformity assessments and by appointing third-parties to carry out external conformity assessments.
+
+Once harmonised standards for the AI Act are published in the Official Journal, compliant products are presumed to conform with the regulation; these standards are being drafted by CEN/CENELEC Joint Technical Committee 21 (JTC 21).
+
+
+### Enforcement
+The Act regulates entry to the EU internal market using the New Legislative Framework. It contains essential requirements that all AI systems must meet to access the EU market. These essential requirements are passed on to European Standardisation Organisations, which develop technical standards that further detail these requirements. These standards are developed by CEN/CENELEC JTC 21.
+
+The Act mandates that member states establish their own notifying bodies. Conformity assessments are conducted to verify whether AI systems comply with the standards set out in the AI Act. This assessment can be done in two ways: either through self-assessment, where the AI system provider checks conformity, or through third-party conformity assessment, where the notifying body conducts the assessment. Notifying bodies also have the authority to carry out audits to ensure proper conformity assessments.
+
+Each EU Member State must also designate a national supervisory authority to monitor compliance, handle complaints, and share information with the European AI Office, which coordinates enforcement across the Union.
+
+Criticism has arisen regarding the fact that many high-risk AI systems do not require third-party conformity assessments. Some commentators argue that independent third-party assessments are necessary for high-risk AI systems to ensure safety before deployment. Legal scholars have suggested that AI systems capable of generating deepfakes for political misinformation or creating non-consensual intimate imagery should be classified as high-risk and subjected to stricter regulation. However, the Act does not explicitly mandate specific deepfake detection mechanisms, nor does it comprehensively address the broader human rights implications stemming from the proliferation of such synthetic media.
+
+
+#### Penalties
+Non-compliance with the prohibitions in Article 5 is subject to administrative fines of up to EUR 35,000,000 or, if the offender is an undertaking, up to 7% of its total worldwide annual turnover, whichever is higher. Other operator obligations may be sanctioned with fines of up to EUR 15,000,000 or 3% of worldwide annual turnover, whichever is higher; providing incorrect, incomplete or misleading information may be fined up to EUR 7,500,000 or 1% of worldwide annual turnover. For SMEs, including start-ups, the applicable cap is the lower of the relevant percentage or the fixed amount. For providers of general-purpose AI models, the Commission may impose separate fines up to EUR 15,000,000 or 3% of worldwide annual turnover in the specific cases listed in Article 101.
+
+
+### Regulatory sandboxes
+The act provides for "regulatory sandboxes", i.e., controlled testing environments run by national competent authorities, where developers can trial AI systems under supervision before placing them on the market, to support innovation while maintaining safeguards. Member States are encouraged to set up such sandboxes under coordinated EU rules, and small and medium-sized enterprises (SMEs) and start-ups may receive priority access to test systems in a compliant setting.
+
+
+## Legislative procedure
+In February 2020, the European Commission published "White Paper on Artificial Intelligence – A European approach to excellence and trust". In October 2020, debates between EU leaders took place in the European Council. On 21 April 2021, the AI Act was officially proposed by the Commission. On 6 December 2022, the European Council adopted the general orientation, allowing negotiations to begin with the European Parliament. On 9 December 2023, after three days of "marathon" talks, the EU Council and Parliament concluded an agreement.
+
+The law was passed in the European Parliament on 13 March 2024, when MEPs adopted the final text in plenary session by a vote of 523 for, 46 against, and 49 abstaining. It was approved by the EU Council on 21 May 2024. It entered into force on 1 August 2024, 20 days after being published in the Official Journal on 12 July 2024. After coming into force, there will be a delay before it becomes applicable, which depends on the type of application. This delay is 6 months for bans on "unacceptable risk" AI systems, 9 months for codes of practice, 12 months for general-purpose AI systems, 36 months for some obligations related to "high-risk" AI systems, and 24 months for everything else.
+
+
+## Reactions
+Experts have argued that though the jurisdiction of the law is European, it could have far-ranging implications for international companies that plan to expand to Europe. Anu Bradford at Columbia has argued that the law provides significant momentum to the world-wide movement to regulate AI technologies.
+
+Amnesty International criticized the AI Act for not completely banning real-time facial recognition, which they said could damage "human rights, civil space and rule of law" in the European Union. It also criticized the absence of ban on exporting AI technologies that can harm human rights.
+
+Some tech watchdogs have argued that there were major loopholes in the law that would allow large tech monopolies to entrench their advantage in AI, or to lobby to weaken rules. Some startups welcomed the clarification the act provides, while others argued the additional regulation would make European startups uncompetitive compared to American and Chinese startups. La Quadrature du Net (LQDN) described the AI Act as "tailor-made for the tech industry, European police forces as well as other large bureaucracies eager to automate social control." LQDN described the role of self-regulation and exemptions in the act to render it "largely incapable of standing in the way of the social, political and environmental damage linked to the proliferation of AI." Academic commentary has described the Act as a "medley" of product-safety and fundamental-rights frameworks and has also cautioned that its product-safety approach relies heavily on provider self-assessment, raising concerns about effective enforcement.
+
+Building on these critiques, scholars have raised concerns in particular about the Act's approach to regulating the secondary uses of trained AI models, which may have significant societal impacts. They argue that the Act's narrow focus on deployment contexts and reliance on providers to self-declare intended purposes creates opportunities for misinterpretation and insufficient oversight. Additionally, the Act often exempts open-source models and neglects critical lifecycle phases, such as the reuse of trained models. Trained models store decision-mappings as parameters that approximate patterns from the training data. This "model data" is distinct from the original training data and is typically classified as non-personal, as it often cannot be traced back to individual data subjects. Consequently, it falls outside the scope of other regulations like the GDPR. Some scholars also criticize the AI Act for not sufficiently regulating the reuse of model data, warning of potentially harmful consequences for individual privacy, social equity, and democratic processes.

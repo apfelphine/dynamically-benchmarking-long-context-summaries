@@ -1,0 +1,3 @@
+37°17′08″N 121°56′39″W﻿ / ﻿37.285476°N 121.944084°W
+The Future of Life Institute (FLI) is a nonprofit organization which aims to steer transformative technology towards benefiting life and away from large-scale risks, with a focus on existential risk from advanced artificial intelligence (AI). FLI's work includes grantmaking, educational outreach, and advocacy within the United Nations, United States government, and European Union institutions.
+The founders of the Institute include MIT cosmologist Max Tegmark, UCSC cosmologist Anthony Aguirre, and Skype co-founder Jaan Tallinn; among the institute's advisors is entrepreneur Elon Musk.

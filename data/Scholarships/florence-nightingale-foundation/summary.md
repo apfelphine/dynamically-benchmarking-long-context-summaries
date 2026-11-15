@@ -1,0 +1,1 @@
+The Florence Nightingale Foundation (FNF) is a charity organization in the United Kingdom that provides scholarships to nurses, midwives, and other health professionals. The foundation was named after, and inspired by the work of, Florence Nightingale.

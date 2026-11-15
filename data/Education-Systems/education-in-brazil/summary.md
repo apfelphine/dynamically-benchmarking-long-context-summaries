@@ -1,0 +1,4 @@
+Education in Brazil underwent multiple phases: it first began with Jesuit missions, that controlled education for a long time; then, two hundred years after their arrival, the Jesuits' powers were limited by the Marquis of Pombal; shortly after that, the Brazilian government took over education, which is now run by the government through the Ministry of Education.
+Issues in education are now seen through PISA, the Programme for International Student Assessment, and the Idep assessment now used by the Ministry. They have historically tested below average on all topics but are improving in mathematics.
+Brazil uses both public and private school systems. They have the traditional primary, secondary, tertiary and technical school levels.
+The Human Rights Measurement Initiative finds that Brazil is doing 86.8% of what should be possible at its level of income for the right to education.

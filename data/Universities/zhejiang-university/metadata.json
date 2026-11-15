@@ -1,0 +1,38 @@
+{
+  "id": 340391,
+  "title": "Zhejiang University",
+  "url": "https://en.wikipedia.org/wiki/Zhejiang_University",
+  "path": "Universities\\zhejiang-university",
+  "summary": {
+    "chars": 1395,
+    "tokens": 313
+  },
+  "document": {
+    "chars": 49948,
+    "tokens": 10414
+  },
+  "infobox": {
+    "title": "Zhejiang University",
+    "data": {
+      "Other name": "ZJU or Zheda",
+      "Former name": "Chekiang University (1902\u20131903) \u00b7 Chekiang Higher Institutes (1903\u20131914) \u00b7 National Third Chungshan University (1927\u20131928) \u00b7 Chekiang University (1928) \u00b7 National Chekiang University (1928\u20131950) \u00b7 Chekiang University (1950 \u2013 mid-1980s)",
+      "Motto": "\u6c42\u662f\u521b\u65b0",
+      "Motto in English": "Seeking Truth and Pursuing Innovation",
+      "Type": "Public",
+      "Established": "as a university in 1928",
+      "Academic affiliations": "C9, APRU, IAU, GUNi, YDUA, BRICS Universities League",
+      "Budget": "CN\u00a5 26.1 billion (2022)",
+      "Party Secretary": "Ren Shaobo",
+      "Academic staff": "4,628",
+      "Students": "78,497 (2024)",
+      "Undergraduates": "28,960 (2024)",
+      "Postgraduates": "49,537 (2024)",
+      "Location": "Hangzhou, China \u00b7 30\u00b015\u203249\u2033N 120\u00b007\u203215\u2033E\ufeff / \ufeff30.26361\u00b0N 120.12083\u00b0E",
+      "Campus": "622 hectares (1,540 acres)",
+      "Academic term": "Semester",
+      "Colors": "Blue",
+      "Mascot": "Qiushi Eagle \u6c42\u662f\u9e70",
+      "Website": "www.zju.edu.cn/english"
+    }
+  }
+}

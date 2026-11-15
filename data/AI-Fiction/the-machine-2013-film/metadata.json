@@ -1,0 +1,34 @@
+{
+  "id": 42498886,
+  "title": "The Machine (2013 film)",
+  "url": "https://en.wikipedia.org/wiki/The_Machine_(2013_film)",
+  "path": "AI-Fiction\\the-machine-2013-film",
+  "summary": {
+    "chars": 226,
+    "tokens": 45
+  },
+  "document": {
+    "chars": 7236,
+    "tokens": 1576
+  },
+  "infobox": {
+    "title": "The Machine",
+    "data": {
+      "Directed by": "Caradog W. James",
+      "Written by": "Caradog W. James",
+      "Produced by": "John Giwa-Amu",
+      "Starring": "- Caity Lotz - Sam Hazeldine - Toby Stephens - Pooneh Hajimohammadi - Denis Lawson",
+      "Cinematography": "Nicolai Br\u00fcel",
+      "Edited by": "Matt Platts-Mills",
+      "Music by": "Tom Raybould",
+      "Production \u00b7 companies": "Red & Black Films",
+      "Distributed by": "Content Media",
+      "Release date": "- 20 April 2013 (Tribeca)",
+      "Running time": "91 minutes",
+      "Country": "United Kingdom",
+      "Language": "English",
+      "Budget": "$1.5 million",
+      "Box office": "$314,131 (Home Market Performance)"
+    }
+  }
+}

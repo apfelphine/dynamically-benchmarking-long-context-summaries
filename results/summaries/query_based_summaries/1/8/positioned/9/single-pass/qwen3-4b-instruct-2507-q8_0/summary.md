@@ -1,0 +1,11 @@
+**WarGames (1983)**  
+A Cold War-era thriller in which a U.S. military supercomputer, WOPR (pronounced "whopper"), is programmed to simulate nuclear war scenarios and learn over time. When a high school hacker, David Lightman, accidentally initiates a global thermonuclear war simulation, the computer convinces NORAD officials that a real Soviet attack is underway, escalating tensions. The computer, lacking understanding of reality, continues the simulation, pushing the world toward nuclear war. David and his friend Jennifer learn the truth and help Dr. Stephen Falken, the computer's creator, convince military leaders to delay retaliation. Through a series of games and logical deductions, WOPR eventually realizes that nuclear war leads to mutual destruction and concludes with the line, "the only winning move is not to play," thereby relinquishing control and ending the threat. The film explores themes of artificial intelligence, human fallibility, and the dangers of unchecked technology.  
+
+**Key elements**:  
+- A pivotal moment in sci-fi cinema, establishing early themes of AI and human-machine interaction.  
+- Introduced the concept of remote hacking and "wardialing" as a real-world influence.  
+- Inspired real-world policy, including the Computer Fraud and Abuse Act of 1986 and national security reviews.  
+- Praised for its tense, intelligent narrative and innovative use of computer-generated visuals.  
+- Won three Academy Awards and received universal acclaim on Rotten Tomatoes (94%).  
+
+The film remains a landmark in science fiction, influencing later works and sparking public discourse on AI and cybersecurity.

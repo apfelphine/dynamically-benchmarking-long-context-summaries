@@ -1,0 +1,100 @@
+[
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (UNESP)\nFounded in 1976, UNESP is a leading Brazilian public university with 23 campuses, recognized for its excellence in bioenergy, biotechnology, climate change, nanotechnology, and marine sciences. The university features competitive admissions, elected governance, international partnerships, distinguished faculty and alumni, and vibrant student life.",
+        "text_original": "Founded in 1976, UNESP is a leading Brazilian public university with 23 campuses, recognized for its excellence in bioenergy, biotechnology, climate change, nanotechnology, and marine sciences. The university features competitive admissions, elected governance, international partnerships, distinguished faculty and alumni, and vibrant student life",
+        "idx_start": 39,
+        "idx_end": 387
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\nUnicamp, established in 1962 across multiple cities, is known for Brazil\u2019s largest teaching hospital, top technical schools, rigorous inclusive admissions, tuition-free education, outreach programs, digital resources, diverse housing, subsidized dining, strong student culture, and historical links to the Varginha Incident.",
+        "text_original": "Unicamp, established in 1962 across multiple cities, is known for Brazil\u2019s largest teaching hospital, top technical schools, rigorous inclusive admissions, tuition-free education, outreach programs, digital resources, diverse housing, subsidized dining, strong student culture, and historical links to the Varginha Incident",
+        "idx_start": 433,
+        "idx_end": 756
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\nFounded in Bogot\u00e1 in 1948, Uniandes is acclaimed for interdisciplinary education, global collaborations, distinguished faculty and alumni, and rich campus traditions.",
+        "text_original": "Founded in Bogot\u00e1 in 1948, Uniandes is acclaimed for interdisciplinary education, global collaborations, distinguished faculty and alumni, and rich campus traditions",
+        "idx_start": 798,
+        "idx_end": 963
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\nWith roots in 1887, RMIT expands over Melbourne, Vietnam, and Spain, emphasizing applied STEM research, encompassing four colleges, 17 schools, and extensive global partnerships.",
+        "text_original": "With roots in 1887, RMIT expands over Melbourne, Vietnam, and Spain, emphasizing applied STEM research, encompassing four colleges, 17 schools, and extensive global partnerships",
+        "idx_start": 1017,
+        "idx_end": 1194
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\nAustralia\u2019s oldest university (1850) offers inclusive admissions, diverse support services, renowned architecture, the nation's largest academic library, a global reputation, prominent alumni, and a legacy of equity activism.",
+        "text_original": "Australia\u2019s oldest university (1850) offers inclusive admissions, diverse support services, renowned architecture, the nation's largest academic library, a global reputation, prominent alumni, and a legacy of equity activism",
+        "idx_start": 1222,
+        "idx_end": 1446
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\nFounded in 1898, this prestigious Chinese institution includes 55 schools and Asia\u2019s largest university library, with notable Nobel laureates and leadership in research.",
+        "text_original": "Founded in 1898, this prestigious Chinese institution includes 55 schools and Asia\u2019s largest university library, with notable Nobel laureates and leadership in research",
+        "idx_start": 1471,
+        "idx_end": 1639
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\nEstablished in 1883, the University of Auckland (Waipapa Taumata Rau) serves over 47,000 students, excelling in arts, engineering, medicine, law, campus development, entrepreneurship, and is known for influential alumni.",
+        "text_original": "Established in 1883, the University of Auckland (Waipapa Taumata Rau) serves over 47,000 students, excelling in arts, engineering, medicine, law, campus development, entrepreneurship, and is known for influential alumni",
+        "idx_start": 1669,
+        "idx_end": 1888
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\nFounded in 1636, Harvard shapes Boston\u2019s academic environment, hosts the world\u2019s largest academic library, holds a vast endowment, features renowned museums, leads in biomedical innovation, fosters dynamic campus life, and exemplifies global leadership.",
+        "text_original": "Founded in 1636, Harvard shapes Boston\u2019s academic environment, hosts the world\u2019s largest academic library, holds a vast endowment, features renowned museums, leads in biomedical innovation, fosters dynamic campus life, and exemplifies global leadership",
+        "idx_start": 1914,
+        "idx_end": 2166
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\nSince 1851, Manchester has led science and humanities across three faculties, includes iconic sites like Jodrell Bank Observatory, counts numerous Nobel laureates, drives city regeneration initiatives, and cultivates diverse student experiences.",
+        "text_original": "Since 1851, Manchester has led science and humanities across three faculties, includes iconic sites like Jodrell Bank Observatory, counts numerous Nobel laureates, drives city regeneration initiatives, and cultivates diverse student experiences",
+        "idx_start": 2198,
+        "idx_end": 2442
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\nA leading Jesuit institution since 1863, Boston College comprises nine schools, maintains selective admissions, offers expansive libraries, acclaimed media, robust arts and athletics, strong traditions, and notable alumni.",
+        "text_original": "A leading Jesuit institution since 1863, Boston College comprises nine schools, maintains selective admissions, offers expansive libraries, acclaimed media, robust arts and athletics, strong traditions, and notable alumni",
+        "idx_start": 2464,
+        "idx_end": 2685
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\nEstablished in 1965, Jordan\u2019s largest university offers comprehensive programs, leading research, international engagement, and alumni prominent in leadership and diplomacy.",
+        "text_original": "Established in 1965, Jordan\u2019s largest university offers comprehensive programs, leading research, international engagement, and alumni prominent in leadership and diplomacy",
+        "idx_start": 2713,
+        "idx_end": 2885
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\nFounded in 1878 (now Western University), it serves 35,000+ students, known for affiliated colleges, distinctive architecture, premier facilities, research parks, rigorous admissions, financial aid, major libraries, sustainability, diversity, reforms in gender-based violence, and dynamic student governance. Distinguished alumni include Nobel and Pulitzer laureates, Rhodes Scholars, and leaders.",
+        "text_original": "Founded in 1878 (now Western University), it serves 35,000+ students, known for affiliated colleges, distinctive architecture, premier facilities, research parks, rigorous admissions, financial aid, major libraries, sustainability, diversity, reforms in gender-based violence, and dynamic student governance. Distinguished alumni include Nobel and Pulitzer laureates, Rhodes Scholars, and leaders",
+        "idx_start": 2922,
+        "idx_end": 3318
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\nFounded in 1666, Lund is a leading Scandinavian research university offering broad academic programs, major campuses, strengths across humanities, sciences, business, law, environmental research, vibrant student life, global partnerships, and Nobel laureate alumni.",
+        "text_original": "Founded in 1666, Lund is a leading Scandinavian research university offering broad academic programs, major campuses, strengths across humanities, sciences, business, law, environmental research, vibrant student life, global partnerships, and Nobel laureate alumni",
+        "idx_start": 3341,
+        "idx_end": 3605
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\nImperial College London ranks among the world\u2019s top research universities, with a \u00a3235.2 million endowment and substantial annual income primarily from tuition and research grants. Imperial excels in science, engineering, medicine, and business, and holds the #2 global spot (QS 2026) and #1 UK graduate employability ranking, with a highly competitive, internationally diverse student body. Its MBA program leads in entrepreneurship, underpinned by links with MIT, the Enterprise Lab, and vibrant student life with 350+ clubs supported by the Imperial College Union. Traditions include the Great Exhibition Road Festival, historic graduation ceremonies at Royal Albert Hall, the Bottle Match, mascot parades, and student expeditions. The medical faculty operates major teaching hospitals, and its alumni and academics include numerous Nobel and Fields laureates (Alexander Fleming, Abdus Salam, Simon Donaldson, Martin Hairer), 90+ Royal Society Fellows, public figures (Brian May, Dame Sally Davies), and notable contributors across fields\u2014such as astronaut Andreas Mogensen, flight data recorder inventor David Warren, NASA\u2019s Nicola Fox, car designer Nikolas Tombazis, former Indian PM Rajiv Gandhi, Singapore\u2019s Teo Chee Hean, CEOs (Ralph Robins, Ian Read, Andrew Rickman), author H.G. Wells, BBC's Pallab Ghosh, and Olympic rowing medalists.\nThis summary consolidates each university\u2019s history, governance, academic and research strengths, global networks, campus and student life, facilities, traditions, societal impact, and distinguished alumni, providing a comparative overview of their global contributions.",
+        "text_original": "Imperial College London ranks among the world\u2019s top research universities, with a \u00a3235.2 million endowment and substantial annual income primarily from tuition and research grants. Imperial excels in science, engineering, medicine, and business, and holds the #2 global spot (QS 2026) and #1 UK graduate employability ranking, with a highly competitive, internationally diverse student body. Its MBA program leads in entrepreneurship, underpinned by links with MIT, the Enterprise Lab, and vibrant student life with 350+ clubs supported by the Imperial College Union. Traditions include the Great Exhibition Road Festival, historic graduation ceremonies at Royal Albert Hall, the Bottle Match, mascot parades, and student expeditions. The medical faculty operates major teaching hospitals, and its alumni and academics include numerous Nobel and Fields laureates (Alexander Fleming, Abdus Salam, Simon Donaldson, Martin Hairer), 90+ Royal Society Fellows, public figures (Brian May, Dame Sally Davies), and notable contributors across fields\u2014such as astronaut Andreas Mogensen, flight data recorder inventor David Warren, NASA\u2019s Nicola Fox, car designer Nikolas Tombazis, former Indian PM Rajiv Gandhi, Singapore\u2019s Teo Chee Hean, CEOs (Ralph Robins, Ian Read, Andrew Rickman), author H.G. Wells, BBC's Pallab Ghosh, and Olympic rowing medalists.\n\n---\n\nThis summary consolidates each university\u2019s history, governance, academic and research strengths, global networks, campus and student life, facilities, traditions, societal impact, and distinguished alumni, providing a comparative overview of their global contributions",
+        "idx_start": 3636,
+        "idx_end": 5257
+    }
+]

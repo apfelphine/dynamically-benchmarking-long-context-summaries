@@ -1,0 +1,33 @@
+{
+  "id": 477714,
+  "title": "University of Buenos Aires",
+  "url": "https://en.wikipedia.org/wiki/University_of_Buenos_Aires",
+  "path": "Universities\\university-of-buenos-aires",
+  "summary": {
+    "chars": 1593,
+    "tokens": 309
+  },
+  "document": {
+    "chars": 25491,
+    "tokens": 5430
+  },
+  "infobox": {
+    "title": "University of Buenos Aires",
+    "data": {
+      "Motto": "Argentum virtus robur et studium (Latin)",
+      "Motto in English": "Argentine virtue is strength and study",
+      "Type": "Public",
+      "Established": "1821",
+      "Budget": "AR$ 541,780 million (US$451 million; 2024)",
+      "Rector": "Ricardo Gelpi",
+      "Vice Rector": "Emiliano Yacobitti",
+      "Academic staff": "30,850 (2024)",
+      "Students": "350,000 (2024)",
+      "Undergraduates": "297,639 (2004)",
+      "Postgraduates": "30,000 (2018)",
+      "Location": "Buenos Aires, Argentina",
+      "Campus": "Urban",
+      "Website": "uba.ar"
+    }
+  }
+}

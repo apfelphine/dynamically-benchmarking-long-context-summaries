@@ -1,0 +1,429 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n## Early Life and Education\nGrace Hopper was born in New York City in 1895 to Scottish and Dutch parents. She was a curious child, dismantling alarm clocks as a young girl, and later embraced a backward-running clock as a symbol of her resistance to tradition. She attended Vassar College, where she earned a bachelor\u2019s degree in mathematics and physics in 1928, and later earned a master\u2019s degree from Yale University in 1930. She married Vincent Foster Hopper in 1930, but their marriage ended in divorce in 1945.",
+        "text_original": "Grace Hopper was born in New York City in 1895 to Scottish and Dutch parents. She was a curious child, dismantling alarm clocks as a young girl, and later embraced a backward-running clock as a symbol of her resistance to tradition. She attended Vassar College, where she earned a bachelor\u2019s degree in mathematics and physics in 1928, and later earned a master\u2019s degree from Yale University in 1930. She married Vincent Foster Hopper in 1930, but their marriage ended in divorce in",
+        "idx_start": 56,
+        "idx_end": 537
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n## World War II and Early Career\nDuring World War II, Hopper faced rejection from the Navy due to her age and weight, despite her qualifications as a mathematician. She joined the WAVES (Women Accepted for Volunteer Emergency Service) and served in the Navy Reserve, contributing to the Mark I computer at Harvard University. Her work on the Mark I led to her recognition for pioneering contributions to early computing.",
+        "text_original": "During World War II, Hopper faced rejection from the Navy due to her age and weight, despite her qualifications as a mathematician. She joined the WAVES (Women Accepted for Volunteer Emergency Service) and served in the Navy Reserve, contributing to the Mark I computer at Harvard University. Her work on the Mark I led to her recognition for pioneering contributions to early computing",
+        "idx_start": 584,
+        "idx_end": 970
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n## UNIVAC and COBOL\nHopper became an employee of Eckert\u2013Mauchly Computer Corporation in 1949, where she worked on the development of the UNIVAC I, the first large-scale electronic computer. She advocated for the creation of a new programming language that would use English words, leading to the development of COBOL (Common Business-Oriented Language). Her work on compilers and automatic programming was foundational to modern data processing languages.",
+        "text_original": "Hopper became an employee of Eckert\u2013Mauchly Computer Corporation in 1949, where she worked on the development of the UNIVAC I, the first large-scale electronic computer. She advocated for the creation of a new programming language that would use English words, leading to the development of COBOL (Common Business-Oriented Language). Her work on compilers and automatic programming was foundational to modern data processing languages",
+        "idx_start": 999,
+        "idx_end": 1433
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n## COBOL and Standards\nHopper played a key role in the creation of COBOL, which became the most widely used business language. She also contributed to the standardization of programming languages, advocating for the Defense Department to adopt distributed systems and developing validation software for COBOL. Her efforts in standardization significantly influenced the development of programming language dialects among major computer vendors.",
+        "text_original": "Hopper played a key role in the creation of COBOL, which became the most widely used business language. She also contributed to the standardization of programming languages, advocating for the Defense Department to adopt distributed systems and developing validation software for COBOL. Her efforts in standardization significantly influenced the development of programming language dialects among major computer vendors",
+        "idx_start": 1465,
+        "idx_end": 1885
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n## Retirement and Legacy\nHopper retired from the Navy in 1966 and later worked as a senior consultant at Digital Equipment Corporation (DEC). She was awarded the Defense Distinguished Service Medal at her retirement ceremony in 1986. Throughout her career, Hopper was recognized for her groundbreaking work in computing, including the invention of the term \"debugging\" after discovering a moth in a computer. She received numerous awards, including the Presidential Medal of Freedom posthumously in 2016.",
+        "text_original": "Hopper retired from the Navy in 1966 and later worked as a senior consultant at Digital Equipment Corporation (DEC). She was awarded the Defense Distinguished Service Medal at her retirement ceremony in 1986. Throughout her career, Hopper was recognized for her groundbreaking work in computing, including the invention of the term \"debugging\" after discovering a moth in a computer. She received numerous awards, including the Presidential Medal of Freedom posthumously in",
+        "idx_start": 1919,
+        "idx_end": 2392
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n## Early Life and Education\nFederico Faggin was born in Vicenza, Italy, in 1940. He studied physics at the University of Padua, earning a laurea degree summa cum laude. His early career included work at Olivetti, where he co-designed and led the implementation of a digital transistor computer and the first programmable electronic calculator.",
+        "text_original": "Federico Faggin was born in Vicenza, Italy, in 1940. He studied physics at the University of Padua, earning a laurea degree summa cum laude. His early career included work at Olivetti, where he co-designed and led the implementation of a digital transistor computer and the first programmable electronic calculator",
+        "idx_start": 2464,
+        "idx_end": 2778
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n## Silicon Valley Career\nFaggin joined SGS-Fairchild in 1967, where he pioneered the MOS metal-gate process technology and designed the first commercial MOS integrated circuits. He moved to Fairchild Semiconductor in 1968, where he led the development of silicon-gate technology (SGT), which revolutionized microelectronics. His contributions included the design of the Fairchild 3708, the first commercial integrated circuit using silicon-gate technology.",
+        "text_original": "Faggin joined SGS-Fairchild in 1967, where he pioneered the MOS metal-gate process technology and designed the first commercial MOS integrated circuits. He moved to Fairchild Semiconductor in 1968, where he led the development of silicon-gate technology (SGT), which revolutionized microelectronics. His contributions included the design of the Fairchild 3708, the first commercial integrated circuit using silicon-gate technology",
+        "idx_start": 2812,
+        "idx_end": 3242
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n## Intel and Beyond\nFaggin joined Intel in 1970, where he designed the Intel 4004, the world\u2019s first single-chip microprocessor. His work on the MCS-4 family of microprocessors, including the 4004, 4001, 4002, and 4003, was pivotal. He also contributed to the development of the Z80 microprocessor at Zilog, which became a cornerstone of early personal computers.",
+        "text_original": "Faggin joined Intel in 1970, where he designed the Intel 4004, the world\u2019s first single-chip microprocessor. His work on the MCS-4 family of microprocessors, including the 4004, 4001, 4002, and 4003, was pivotal. He also contributed to the development of the Z80 microprocessor at Zilog, which became a cornerstone of early personal computers",
+        "idx_start": 3271,
+        "idx_end": 3613
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n## Later Innovations\nFaggin co-founded Synaptics in 1986, where he introduced the touchpad and optical character recognizer. He later founded Foveon, where he revitalized the company with innovative image sensors. Additionally, he founded the Federico and Elvia Faggin Foundation, focusing on the scientific study of consciousness.",
+        "text_original": "Faggin co-founded Synaptics in 1986, where he introduced the touchpad and optical character recognizer. He later founded Foveon, where he revitalized the company with innovative image sensors. Additionally, he founded the Federico and Elvia Faggin Foundation, focusing on the scientific study of consciousness",
+        "idx_start": 3643,
+        "idx_end": 3952
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n## Theory of Consciousness\nFaggin proposed a theory of consciousness based on quantum physics, suggesting that consciousness is a purely quantum phenomenon unique to each individual. His work on artificial neural networks and consciousness studies has influenced modern discussions on the nature of intelligence and consciousness.",
+        "text_original": "Faggin proposed a theory of consciousness based on quantum physics, suggesting that consciousness is a purely quantum phenomenon unique to each individual. His work on artificial neural networks and consciousness studies has influenced modern discussions on the nature of intelligence and consciousness",
+        "idx_start": 3988,
+        "idx_end": 4290
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\n## Early Life and Education\nFrege was born in 1848 in Wismar, Germany. His father was a teacher, and his mother was a descendant of Philipp Melanchthon. Frege studied mathematics and philosophy at the University of Jena and later at G\u00f6ttingen, where he was influenced by Ernst Karl Abbe and other prominent mathematicians and philosophers.",
+        "text_original": "Frege was born in 1848 in Wismar, Germany. His father was a teacher, and his mother was a descendant of Philipp Melanchthon. Frege studied mathematics and philosophy at the University of Jena and later at G\u00f6ttingen, where he was influenced by Ernst Karl Abbe and other prominent mathematicians and philosophers",
+        "idx_start": 4355,
+        "idx_end": 4665
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\n## Work as a Logician\nFrege\u2019s *Begriffsschrift* (1879) revolutionized logic by introducing quantified variables and axiomatic predicate logic, laying the foundation for modern mathematical logic. His work in logic and the foundations of arithmetic, including *Die Grundlagen der Arithmetik* (1884) and *Grundgesetze der Arithmetik* (1893), was foundational for Bertrand Russell\u2019s *Principia Mathematica* and other foundational works in mathematics.",
+        "text_original": "Frege\u2019s *Begriffsschrift* (1879) revolutionized logic by introducing quantified variables and axiomatic predicate logic, laying the foundation for modern mathematical logic. His work in logic and the foundations of arithmetic, including *Die Grundlagen der Arithmetik* (1884) and *Grundgesetze der Arithmetik* (1893), was foundational for Bertrand Russell\u2019s *Principia Mathematica* and other foundational works in mathematics",
+        "idx_start": 4696,
+        "idx_end": 5121
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\n## Philosophical Contributions\nFrege introduced the distinction between sense ( *Sinn* ) and reference ( *Bedeutung* ), a key concept in the philosophy of language. His contributions to the philosophy of mathematics and logic were instrumental in shaping analytic philosophy and the linguistic turn in philosophy.",
+        "text_original": "Frege introduced the distinction between sense (*Sinn*) and reference (*Bedeutung*), a key concept in the philosophy of language. His contributions to the philosophy of mathematics and logic were instrumental in shaping analytic philosophy and the linguistic turn in philosophy",
+        "idx_start": 5161,
+        "idx_end": 5438
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\n## Political Views and Legacy\nFrege\u2019s later life was marked by antisemitism, as revealed in his diary entries from 1924. Despite this, his work remains influential in logic, philosophy, and computer science. Frege is remembered for his rigorous approach to logic and his foundational contributions to the field of mathematics.",
+        "text_original": "Frege\u2019s later life was marked by antisemitism, as revealed in his diary entries from 1924. Despite this, his work remains influential in logic, philosophy, and computer science. Frege is remembered for his rigorous approach to logic and his foundational contributions to the field of mathematics",
+        "idx_start": 5477,
+        "idx_end": 5772
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n## Family and Early Life\nJacek Karpi\u0144ski was born in 1927 in Turin, Italy, into a family of Polish intellectuals and alpinists. His father, Adam Karpi\u0144ski, was an aeronautic engineer and inventor, and his mother, Wanda Czarnocka-Karpi\u0144ska, was a physician and dean of the University of Physical Education in Warsaw.",
+        "text_original": "Jacek Karpi\u0144ski was born in 1927 in Turin, Italy, into a family of Polish intellectuals and alpinists. His father, Adam Karpi\u0144ski, was an aeronautic engineer and inventor, and his mother, Wanda Czarnocka-Karpi\u0144ska, was a physician and dean of the University of Physical Education in Warsaw",
+        "idx_start": 5836,
+        "idx_end": 6125
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n## Wartime and Post-War Career\nKarpi\u0144ski\u2019s life was profoundly impacted by World War II, including the death of his father during an expedition in the Himalayas. He joined the Home Army and participated in numerous operations, including the Warsaw Uprising. After the war, he attended university in Radomsko and later in \u0141\u00f3d\u017a, where he graduated in 1951.",
+        "text_original": "Karpi\u0144ski\u2019s life was profoundly impacted by World War II, including the death of his father during an expedition in the Himalayas. He joined the Home Army and participated in numerous operations, including the Warsaw Uprising. After the war, he attended university in Radomsko and later in \u0141\u00f3d\u017a, where he graduated in",
+        "idx_start": 6165,
+        "idx_end": 6482
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n## Technological Innovations\nKarpi\u0144ski\u2019s early work included the development of the AAH (Analytical Analyzer of Harmonics), a computer based on vacuum tubes, which improved weather forecasting precision. His most significant achievement was the AKAT-1, the world\u2019s first differential equations analyzer based on transistors, which was recognized for its innovative design and aesthetic appeal.",
+        "text_original": "Karpi\u0144ski\u2019s early work included the development of the AAH (Analytical Analyzer of Harmonics), a computer based on vacuum tubes, which improved weather forecasting precision. His most significant achievement was the AKAT-1, the world\u2019s first differential equations analyzer based on transistors, which was recognized for its innovative design and aesthetic appeal",
+        "idx_start": 6525,
+        "idx_end": 6888
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n## UNESCO Scholarship and Later Work\nKarpi\u0144ski was awarded a UNESCO scholarship in 1960, allowing him to study in the United States. He later developed the perceptron, the first known artificial neural network in the Communist Bloc. His work on the KAR-65 computer, a mathematical machine for data analysis, was another major contribution, though its development was hindered by censorship and political pressures.",
+        "text_original": "Karpi\u0144ski was awarded a UNESCO scholarship in 1960, allowing him to study in the United States. He later developed the perceptron, the first known artificial neural network in the Communist Bloc. His work on the KAR-65 computer, a mathematical machine for data analysis, was another major contribution, though its development was hindered by censorship and political pressures",
+        "idx_start": 6934,
+        "idx_end": 7310
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n## Controversies and Legacy\nKarpi\u0144ski worked as a secret informant for the S\u0142u\u017cba Bezpiecze\u0144stwa (Polish secret police) from 1961, providing technological data to the intelligence services. Despite controversies surrounding his cooperation, he was recognized for his pioneering work in computer science and engineering. He was posthumously awarded the Officer\u2019s Cross of Polonia Restituta in 2009.",
+        "text_original": "Karpi\u0144ski worked as a secret informant for the S\u0142u\u017cba Bezpiecze\u0144stwa (Polish secret police) from 1961, providing technological data to the intelligence services. Despite controversies surrounding his cooperation, he was recognized for his pioneering work in computer science and engineering. He was posthumously awarded the Officer\u2019s Cross of Polonia Restituta in",
+        "idx_start": 7347,
+        "idx_end": 7710
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\n## Life and Contributions\nAl-Khwarizmi (c. 780\u2013c. 850) was a Persian mathematician and astronomer who lived during the Islamic Golden Age. He is best known for his work in algebra and arithmetic, which introduced the Hindu\u2013Arabic numeral system to the Western world. His book *Al-Jabr wa'l-Muqabala* (The Compendious Book on Calculation by Completion and Balancing) laid the foundation for modern algebra.",
+        "text_original": "Al-Khwarizmi (c. 780\u2013c. 850) was a Persian mathematician and astronomer who lived during the Islamic Golden Age. He is best known for his work in algebra and arithmetic, which introduced the Hindu\u2013Arabic numeral system to the Western world. His book *Al-Jabr wa'l-Muqabala* (The Compendious Book on Calculation by Completion and Balancing) laid the foundation for modern algebra",
+        "idx_start": 7777,
+        "idx_end": 8155
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\n## Mathematical and Astronomical Work\nAl-Khwarizmi systematized the solution of linear and quadratic equations, introducing the term \"algebra\" from his book. His work on arithmetic, including the *Kitab al-Hisab al-Hind\u012b* , introduced the decimal numeral system to Europe. He also contributed significantly to astronomy, geography, and cartography, including the *Z\u012bj as-Sindhind* , which provided astronomical tables and improved geographical data.",
+        "text_original": "Al-Khwarizmi systematized the solution of linear and quadratic equations, introducing the term \"algebra\" from his book. His work on arithmetic, including the *Kitab al-Hisab al-Hind\u012b*, introduced the decimal numeral system to Europe. He also contributed significantly to astronomy, geography, and cartography, including the *Z\u012bj as-Sindhind*, which provided astronomical tables and improved geographical data",
+        "idx_start": 8202,
+        "idx_end": 8610
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\n## Legacy\nAl-Khwarizmi\u2019s work had a profound impact on the development of mathematics and science in the Islamic world and Europe. His contributions to algebra and arithmetic are foundational to modern mathematical practices. He is also honored with a lunar crater and an asteroid named after him.",
+        "text_original": "Al-Khwarizmi\u2019s work had a profound impact on the development of mathematics and science in the Islamic world and Europe. His contributions to algebra and arithmetic are foundational to modern mathematical practices. He is also honored with a lunar crater and an asteroid named after him",
+        "idx_start": 8629,
+        "idx_end": 8915
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\n## Early Life and Education\nKenneth Iverson was born in 1920 in Camrose, Alberta, Canada. He served in the Canadian Army and Royal Canadian Air Force during World War II and later earned a B.A. from Queen\u2019s University and M.Sc. and Ph.D. degrees from Harvard University.",
+        "text_original": "Kenneth Iverson was born in 1920 in Camrose, Alberta, Canada. He served in the Canadian Army and Royal Canadian Air Force during World War II and later earned a B.A. from Queen\u2019s University and M.Sc. and Ph.D. degrees from Harvard University",
+        "idx_start": 8985,
+        "idx_end": 9226
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\n## Career and Contributions\nIverson\u2019s work focused on developing a notation for describing and analyzing data processing, leading to the creation of APL (A Programming Language). His contributions included the development of the IBM System/360 and the implementation of APL, which became a standard language for data processing. Iverson also made significant contributions to education, using APL to teach programming and mathematical concepts.",
+        "text_original": "Iverson\u2019s work focused on developing a notation for describing and analyzing data processing, leading to the creation of APL (A Programming Language). His contributions included the development of the IBM System/360 and the implementation of APL, which became a standard language for data processing. Iverson also made significant contributions to education, using APL to teach programming and mathematical concepts",
+        "idx_start": 9263,
+        "idx_end": 9678
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\n## Later Work and Legacy\nAfter leaving IBM, Iverson worked at I.P. Sharp Associates and later founded Jsoftware, where he developed the J language. Iverson was awarded the Turing Award in 1979 for his pioneering work in programming languages and their applications. His work laid the foundation for modern data processing and programming languages.",
+        "text_original": "After leaving IBM, Iverson worked at I.P. Sharp Associates and later founded Jsoftware, where he developed the J language. Iverson was awarded the Turing Award in 1979 for his pioneering work in programming languages and their applications. His work laid the foundation for modern data processing and programming languages",
+        "idx_start": 9712,
+        "idx_end": 10034
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\n## Early Life and Education\nPer Brinch Hansen was born in 1935 in Frederiksberg, Denmark. His father was a civil engineer, and his mother was a hairdresser. Brinch Hansen studied electrical engineering at the Technical University of Denmark and later moved to the United States to pursue his career in computer science.",
+        "text_original": "Per Brinch Hansen was born in 1935 in Frederiksberg, Denmark. His father was a civil engineer, and his mother was a hairdresser. Brinch Hansen studied electrical engineering at the Technical University of Denmark and later moved to the United States to pursue his career in computer science",
+        "idx_start": 10103,
+        "idx_end": 10393
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\n## Career and Contributions\nBrinch Hansen\u2019s work in operating systems and concurrent programming was groundbreaking. He introduced the concept of a microkernel and developed Concurrent Pascal, a language for concurrent programming. His book *Operating System Principles* (1973) became a foundational text in the field of operating systems.",
+        "text_original": "Brinch Hansen\u2019s work in operating systems and concurrent programming was groundbreaking. He introduced the concept of a microkernel and developed Concurrent Pascal, a language for concurrent programming. His book *Operating System Principles* (1973) became a foundational text in the field of operating systems",
+        "idx_start": 10430,
+        "idx_end": 10740
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\n## Distributed Computing and Legacy\nBrinch Hansen also contributed to the development of distributed computing and remote procedure calls. He was awarded the IEEE Computer Pioneer Award in 2002 for his pioneering work in operating systems and concurrent programming. His contributions have significantly influenced the development of modern operating systems and concurrent programming languages.",
+        "text_original": "Brinch Hansen also contributed to the development of distributed computing and remote procedure calls. He was awarded the IEEE Computer Pioneer Award in 2002 for his pioneering work in operating systems and concurrent programming. His contributions have significantly influenced the development of modern operating systems and concurrent programming languages",
+        "idx_start": 10785,
+        "idx_end": 11144
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\n## Early Life and Education\nGeorge Boole was born in 1815 in Lincoln, England. He was self-taught in mathematics and logic, influenced by his father, a shoemaker, and his interest in the German language. Boole taught mathematics and later became a professor of mathematics at Queen\u2019s College, Cork.",
+        "text_original": "George Boole was born in 1815 in Lincoln, England. He was self-taught in mathematics and logic, influenced by his father, a shoemaker, and his interest in the German language. Boole taught mathematics and later became a professor of mathematics at Queen\u2019s College, Cork",
+        "idx_start": 11208,
+        "idx_end": 11477
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\n## Mathematical and Logical Contributions\nBoole\u2019s work on symbolic logic, particularly his *Mathematical Analysis of Logic* (1847), introduced the concept of Boolean algebra, which forms the basis for modern digital computing. His contributions to logic and probability theory were foundational for the development of computer science and artificial intelligence.",
+        "text_original": "Boole\u2019s work on symbolic logic, particularly his *Mathematical Analysis of Logic* (1847), introduced the concept of Boolean algebra, which forms the basis for modern digital computing. His contributions to logic and probability theory were foundational for the development of computer science and artificial intelligence",
+        "idx_start": 11528,
+        "idx_end": 11848
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\n## Legacy\nBoole\u2019s work on Boolean algebra has had a profound impact on the field of computer science. He is remembered for his pioneering contributions to logic and mathematics, and his influence extends to modern digital circuits and computing systems. His name is associated with the Boolean data type in many programming languages.",
+        "text_original": "Boole\u2019s work on Boolean algebra has had a profound impact on the field of computer science. He is remembered for his pioneering contributions to logic and mathematics, and his influence extends to modern digital circuits and computing systems. His name is associated with the Boolean data type in many programming languages",
+        "idx_start": 11867,
+        "idx_end": 12190
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\n## Early Life and Education\nHerbert Simon was born in 1916 in Milwaukee, Wisconsin. His parents were Jewish immigrants from Germany, and he attended Milwaukee Public Schools. Simon studied political science and economics at the University of Chicago, where he earned his B.A. and Ph.D.",
+        "text_original": "Herbert Simon was born in 1916 in Milwaukee, Wisconsin. His parents were Jewish immigrants from Germany, and he attended Milwaukee Public Schools. Simon studied political science and economics at the University of Chicago, where he earned his B.A. and Ph.D",
+        "idx_start": 12258,
+        "idx_end": 12514
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\n## Career and Contributions\nSimon\u2019s work in organizational decision-making and behavioral economics was groundbreaking. His book *Administrative Behavior* (1947) introduced the concept of bounded rationality, which has significantly influenced the fields of economics and management. Simon was awarded the Nobel Memorial Prize in Economics in 1978 for his pioneering research in decision-making processes within economic organizations.",
+        "text_original": "Simon\u2019s work in organizational decision-making and behavioral economics was groundbreaking. His book *Administrative Behavior* (1947) introduced the concept of bounded rationality, which has significantly influenced the fields of economics and management. Simon was awarded the Nobel Memorial Prize in Economics in 1978 for his pioneering research in decision-making processes within economic organizations",
+        "idx_start": 12551,
+        "idx_end": 12957
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\n## Artificial Intelligence and Legacy\nSimon was also a pioneer in artificial intelligence, collaborating with Allen Newell to develop the Logic Theory Machine and the General Problem Solver. His work on problem-solving and cognitive psychology has had a lasting impact on the field of artificial intelligence. Simon\u2019s contributions to economics, psychology, and artificial intelligence have made him one of the most influential social scientists of the 20th century.",
+        "text_original": "Simon was also a pioneer in artificial intelligence, collaborating with Allen Newell to develop the Logic Theory Machine and the General Problem Solver. His work on problem-solving and cognitive psychology has had a lasting impact on the field of artificial intelligence. Simon\u2019s contributions to economics, psychology, and artificial intelligence have made him one of the most influential social scientists of the 20th century",
+        "idx_start": 13004,
+        "idx_end": 13431
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\n## Early Life and Education\nRamon Llull was born in 1232 or 1233 in Palma, Majorca. He was the son of a wealthy family of Barcelona patricians and was educated in the Latin tradition. Llull\u2019s early life was marked by a religious calling, influenced by visions and a desire to convert Muslims and heretical Christians.",
+        "text_original": "Ramon Llull was born in 1232 or 1233 in Palma, Majorca. He was the son of a wealthy family of Barcelona patricians and was educated in the Latin tradition. Llull\u2019s early life was marked by a religious calling, influenced by visions and a desire to convert Muslims and heretical Christians",
+        "idx_start": 13494,
+        "idx_end": 13782
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\n## Art and Missionary Work\nLlull\u2019s *Ars* (Art) was a system of universal logic based on a set of general principles activated in a combinatorial process. His work on the *Ars inventiva veritatis* and *Ars amativa* introduced a new approach to logic and knowledge, which he applied to convert Muslims and promote theological humanism. Llull\u2019s writings on the *Ars* and his dialogues, such as *The Book of the Gentile and the Three Wise Men* , were influential in medieval thought.",
+        "text_original": "Llull\u2019s *Ars* (Art) was a system of universal logic based on a set of general principles activated in a combinatorial process. His work on the *Ars inventiva veritatis* and *Ars amativa* introduced a new approach to logic and knowledge, which he applied to convert Muslims and promote theological humanism. Llull\u2019s writings on the *Ars* and his dialogues, such as *The Book of the Gentile and the Three Wise Men*, were influential in medieval thought",
+        "idx_start": 13818,
+        "idx_end": 14268
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\n## Legacy\nLlull\u2019s contributions to logic and theology have had a lasting impact on intellectual history. His work on the *Ars* and his missionary efforts laid the foundation for modern combinatorial logic and the study of knowledge. Llull was beatified in 1847 by Pope Pius IX.",
+        "text_original": "Llull\u2019s contributions to logic and theology have had a lasting impact on intellectual history. His work on the *Ars* and his missionary efforts laid the foundation for modern combinatorial logic and the study of knowledge. Llull was beatified in 1847 by Pope Pius IX",
+        "idx_start": 14287,
+        "idx_end": 14553
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\n## Early Life and Education\nEdsger Dijkstra was born in 1930 in Rotterdam, Netherlands. He studied mathematics and physics at the University of Leiden and later moved to the Netherlands to work in computer science. Dijkstra\u2019s early work focused on the design of compilers and the development of structured programming.",
+        "text_original": "Edsger Dijkstra was born in 1930 in Rotterdam, Netherlands. He studied mathematics and physics at the University of Leiden and later moved to the Netherlands to work in computer science. Dijkstra\u2019s early work focused on the design of compilers and the development of structured programming",
+        "idx_start": 14623,
+        "idx_end": 14912
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\n## Career and Contributions\nDijkstra\u2019s most significant contributions include the development of Dijkstra\u2019s algorithm for finding the shortest path in a network, the Shunting yard algorithm for parsing, and the Banker\u2019s algorithm for resource allocation. He is also known for his advocacy of structured programming, which has become a standard approach in computer science.",
+        "text_original": "Dijkstra\u2019s most significant contributions include the development of Dijkstra\u2019s algorithm for finding the shortest path in a network, the Shunting yard algorithm for parsing, and the Banker\u2019s algorithm for resource allocation. He is also known for his advocacy of structured programming, which has become a standard approach in computer science",
+        "idx_start": 14949,
+        "idx_end": 15293
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\n## Legacy\nDijkstra\u2019s work on algorithms, structured programming, and operating systems has had a profound impact on the field of computer science. His contributions to the development of modern programming languages and algorithms have made him one of the most influential computer scientists of the 20th century. Dijkstra\u2019s algorithm is widely taught in undergraduate computer science courses.",
+        "text_original": "Dijkstra\u2019s work on algorithms, structured programming, and operating systems has had a profound impact on the field of computer science. His contributions to the development of modern programming languages and algorithms have made him one of the most influential computer scientists of the 20th century. Dijkstra\u2019s algorithm is widely taught in undergraduate computer science courses",
+        "idx_start": 15312,
+        "idx_end": 15695
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\n## Early Life and Education\nGeorge Antheil was born in 1900 in Trenton, New Jersey. His father was a shoemaker, and Antheil was raised bilingually, writing music and poetry from an early age. He studied the piano and later traveled to Europe to study with Constantine von Sternberg.",
+        "text_original": "George Antheil was born in 1900 in Trenton, New Jersey. His father was a shoemaker, and Antheil was raised bilingually, writing music and poetry from an early age. He studied the piano and later traveled to Europe to study with Constantine von Sternberg",
+        "idx_start": 15761,
+        "idx_end": 16014
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\n## Career and Innovations\nAntheil\u2019s most famous work is *Ballet M\u00e9canique* , a composition that incorporated technology and mechanical elements. His innovative use of player pianos and mechanical instruments set him apart from traditional composers. Antheil also composed symphonies, operas, and film scores, contributing to the development of modernist music.",
+        "text_original": "Antheil\u2019s most famous work is *Ballet M\u00e9canique*, a composition that incorporated technology and mechanical elements. His innovative use of player pianos and mechanical instruments set him apart from traditional composers. Antheil also composed symphonies, operas, and film scores, contributing to the development of modernist music",
+        "idx_start": 16049,
+        "idx_end": 16381
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\n## Legacy\nAntheil\u2019s work on mechanical music and his contributions to modernist music have had a lasting impact on the field of composition. His innovative use of technology and mechanical elements laid the foundation for future developments in electronic music.",
+        "text_original": "Antheil\u2019s work on mechanical music and his contributions to modernist music have had a lasting impact on the field of composition. His innovative use of technology and mechanical elements laid the foundation for future developments in electronic music",
+        "idx_start": 16400,
+        "idx_end": 16651
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\n## Early Life and Education\nClaude Shannon was born in 1916 in Gaylord, Michigan. He studied electrical engineering and mathematics at the University of Michigan and later earned his Ph.D. from MIT. Shannon\u2019s early work focused on switching circuits and the development of Boolean algebra.",
+        "text_original": "Claude Shannon was born in 1916 in Gaylord, Michigan. He studied electrical engineering and mathematics at the University of Michigan and later earned his Ph.D. from MIT. Shannon\u2019s early work focused on switching circuits and the development of Boolean algebra",
+        "idx_start": 16717,
+        "idx_end": 16977
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\n## Career and Contributions\nShannon\u2019s most significant contributions include the development of information theory, which laid the foundation for modern communication systems. His work on the mathematical theory of communication introduced the concept of information entropy, which has had a profound impact on the fields of computer science and information theory. Shannon also made significant contributions to artificial intelligence and cryptography.",
+        "text_original": "Shannon\u2019s most significant contributions include the development of information theory, which laid the foundation for modern communication systems. His work on the mathematical theory of communication introduced the concept of information entropy, which has had a profound impact on the fields of computer science and information theory. Shannon also made significant contributions to artificial intelligence and cryptography",
+        "idx_start": 17014,
+        "idx_end": 17439
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\n## Legacy\nShannon\u2019s work on information theory and Boolean algebra has had a lasting impact on the development of modern computing and communication systems. His contributions to artificial intelligence and cryptography have made him one of the most influential scientists of the 20th century. Shannon\u2019s name is associated with the Shannon number, a measure of the complexity of the game of chess.",
+        "text_original": "Shannon\u2019s work on information theory and Boolean algebra has had a lasting impact on the development of modern computing and communication systems. His contributions to artificial intelligence and cryptography have made him one of the most influential scientists of the 20th century. Shannon\u2019s name is associated with the Shannon number, a measure of the complexity of the game of chess",
+        "idx_start": 17458,
+        "idx_end": 17844
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\n## Early Life and Education\nGeoffrey Hinton was born in 1947 in Wimbledon, England. He studied experimental psychology at King\u2019s College, Cambridge, and later earned his Ph.D. in artificial intelligence from the University of Edinburgh.",
+        "text_original": "Geoffrey Hinton was born in 1947 in Wimbledon, England. He studied experimental psychology at King\u2019s College, Cambridge, and later earned his Ph.D. in artificial intelligence from the University of Edinburgh",
+        "idx_start": 17911,
+        "idx_end": 18118
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\n## Career and Contributions\nHinton\u2019s work in neural networks and machine learning has had a profound impact on the field of artificial intelligence. His contributions include the development of Boltzmann machines, backpropagation, and the use of neural networks for machine learning. Hinton\u2019s work on unsupervised learning and deep learning has been instrumental in the development of modern AI systems.",
+        "text_original": "Hinton\u2019s work in neural networks and machine learning has had a profound impact on the field of artificial intelligence. His contributions include the development of Boltzmann machines, backpropagation, and the use of neural networks for machine learning. Hinton\u2019s work on unsupervised learning and deep learning has been instrumental in the development of modern AI systems",
+        "idx_start": 18155,
+        "idx_end": 18529
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\n## Legacy\nHinton\u2019s contributions to neural networks and machine learning have made him one of the most influential figures in the field of artificial intelligence. His work on deep learning has led to significant advancements in natural language processing, computer vision, and other areas of AI.",
+        "text_original": "Hinton\u2019s contributions to neural networks and machine learning have made him one of the most influential figures in the field of artificial intelligence. His work on deep learning has led to significant advancements in natural language processing, computer vision, and other areas of AI",
+        "idx_start": 18548,
+        "idx_end": 18834
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\n## Early Life and Education\nDonald Knuth was born in 1938 in Milwaukee, Wisconsin. He studied physics at Case Institute of Technology and later switched to mathematics, earning his Ph.D. from the California Institute of Technology.",
+        "text_original": "Donald Knuth was born in 1938 in Milwaukee, Wisconsin. He studied physics at Case Institute of Technology and later switched to mathematics, earning his Ph.D. from the California Institute of Technology",
+        "idx_start": 18898,
+        "idx_end": 19100
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\n## Career and Contributions\nKnuth is best known for his work on the *Art of Computer Programming* , a series of books that provide a comprehensive treatment of algorithms and computer science. His contributions to the development of programming languages, compiler design, and the theory of algorithms have had a lasting impact on the field of computer science.",
+        "text_original": "Knuth is best known for his work on the *Art of Computer Programming*, a series of books that provide a comprehensive treatment of algorithms and computer science. His contributions to the development of programming languages, compiler design, and the theory of algorithms have had a lasting impact on the field of computer science",
+        "idx_start": 19137,
+        "idx_end": 19468
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\n## Legacy\nKnuth\u2019s work on algorithms and programming languages has made him one of the most influential figures in computer science. His contributions to the development of modern programming languages and algorithms have made him a key figure in the field of computer science.",
+        "text_original": "Knuth\u2019s work on algorithms and programming languages has made him one of the most influential figures in computer science. His contributions to the development of modern programming languages and algorithms have made him a key figure in the field of computer science",
+        "idx_start": 19487,
+        "idx_end": 19753
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\n## Early Life and Education\nIsmail al-Jazari was born in 1136 in Upper Mesopotamia. He served as a chief engineer at the Artuklu Palace and was known for his innovative mechanical devices and automata.",
+        "text_original": "Ismail al-Jazari was born in 1136 in Upper Mesopotamia. He served as a chief engineer at the Artuklu Palace and was known for his innovative mechanical devices and automata",
+        "idx_start": 19821,
+        "idx_end": 19993
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\n## Inventions and Contributions\nAl-Jazari\u2019s work included the development of water-raising machines, automata, and water clocks. His inventions, such as the crankshaft and crank-slider mechanism, were groundbreaking for their time. His book *Kitab al-Hiyal* (Book of Knowledge of Ingenious Mechanical Devices) is considered a foundational text in the history of mechanical engineering.",
+        "text_original": "Al-Jazari\u2019s work included the development of water-raising machines, automata, and water clocks. His inventions, such as the crankshaft and crank-slider mechanism, were groundbreaking for their time. His book *Kitab al-Hiyal* (Book of Knowledge of Ingenious Mechanical Devices) is considered a foundational text in the history of mechanical engineering",
+        "idx_start": 20034,
+        "idx_end": 20386
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\n## Legacy\nAl-Jazari\u2019s contributions to mechanical engineering and automata have had a lasting impact on the development of modern engineering and robotics. His work laid the foundation for future advancements in mechanical systems and automation.",
+        "text_original": "Al-Jazari\u2019s contributions to mechanical engineering and automata have had a lasting impact on the development of modern engineering and robotics. His work laid the foundation for future advancements in mechanical systems and automation",
+        "idx_start": 20405,
+        "idx_end": 20640
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\n## Early Life and Education\nLynn Conway was born in 1938 in Mount Vernon, New York. She studied electrical engineering at Columbia University and later transitioned professionally after her gender transition.",
+        "text_original": "Lynn Conway was born in 1938 in Mount Vernon, New York. She studied electrical engineering at Columbia University and later transitioned professionally after her gender transition",
+        "idx_start": 20703,
+        "idx_end": 20882
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\n## Career and Contributions\nConway\u2019s work in very-large-scale integration (VLSI) design and computer architecture was groundbreaking. She co-authored *Introduction to VLSI Systems* with Carver Mead, which became a standard textbook in chip design. Her contributions to the development of the MOSIS system and VLSI design methodologies have had a significant impact on the field of computer engineering.",
+        "text_original": "Conway\u2019s work in very-large-scale integration (VLSI) design and computer architecture was groundbreaking. She co-authored *Introduction to VLSI Systems* with Carver Mead, which became a standard textbook in chip design. Her contributions to the development of the MOSIS system and VLSI design methodologies have had a significant impact on the field of computer engineering",
+        "idx_start": 20919,
+        "idx_end": 21292
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\n## Legacy\nConway\u2019s work in VLSI design and her advocacy for transgender rights have made her a key figure in both computer science and transgender rights activism. Her contributions to the field of computer engineering have been recognized with numerous awards and honors.",
+        "text_original": "Conway\u2019s work in VLSI design and her advocacy for transgender rights have made her a key figure in both computer science and transgender rights activism. Her contributions to the field of computer engineering have been recognized with numerous awards and honors",
+        "idx_start": 21311,
+        "idx_end": 21572
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\n## Early Life and Education\nKurt G\u00f6del was born in 1906 in Br\u00fcnn, Austria-Hungary. He studied mathematics and philosophy at the University of Vienna and later earned his Ph.D. under Hans Hahn\u2019s supervision.",
+        "text_original": "Kurt G\u00f6del was born in 1906 in Br\u00fcnn, Austria-Hungary. He studied mathematics and philosophy at the University of Vienna and later earned his Ph.D. under Hans Hahn\u2019s supervision",
+        "idx_start": 21634,
+        "idx_end": 21811
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\n## Career and Contributions\nG\u00f6del\u2019s most significant contributions include the incompleteness theorems, which proved that any consistent formal system capable of describing the natural numbers must contain undecidable propositions. His work on computability and recursive functions laid the foundation for modern computer science and logic.",
+        "text_original": "G\u00f6del\u2019s most significant contributions include the incompleteness theorems, which proved that any consistent formal system capable of describing the natural numbers must contain undecidable propositions. His work on computability and recursive functions laid the foundation for modern computer science and logic",
+        "idx_start": 21848,
+        "idx_end": 22159
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\n## Legacy\nG\u00f6del\u2019s incompleteness theorems have had a profound impact on the fields of mathematics, logic, and computer science. His contributions to the development of modern logic and computability theory have made him one of the most influential mathematicians of the 20th century. His work on the ontological argument for God\u2019s existence has also been influential in philosophy.",
+        "text_original": "G\u00f6del\u2019s incompleteness theorems have had a profound impact on the fields of mathematics, logic, and computer science. His contributions to the development of modern logic and computability theory have made him one of the most influential mathematicians of the 20th century. His work on the ontological argument for God\u2019s existence has also been influential in philosophy",
+        "idx_start": 22178,
+        "idx_end": 22548
+    }
+]

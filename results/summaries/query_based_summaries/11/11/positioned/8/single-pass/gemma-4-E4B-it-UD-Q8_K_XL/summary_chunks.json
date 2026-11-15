@@ -1,0 +1,9 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN\nWasserstein GAN (WGAN) is a modification of the original Generative Adversarial Network (GAN) designed to improve training stability and address issues like mode collapse. The original GAN game is a zero-sum game where the discriminator maximizes an objective based on Jensen\u2013Shannon divergence, while the generator minimizes it.",
+        "text_original": "Wasserstein GAN (WGAN) is a modification of the original Generative Adversarial Network (GAN) designed to improve training stability and address issues like mode collapse. The original GAN game is a zero-sum game where the discriminator maximizes an objective based on Jensen\u2013Shannon divergence, while the generator minimizes it",
+        "idx_start": 20,
+        "idx_end": 348
+    }
+]

@@ -1,0 +1,29 @@
+{
+  "id": 300462,
+  "title": "Alan Perlis",
+  "url": "https://en.wikipedia.org/wiki/Alan_Perlis",
+  "path": "Comp-Sci-Pioneers\\alan-perlis",
+  "summary": {
+    "chars": 284,
+    "tokens": 60
+  },
+  "document": {
+    "chars": 3443,
+    "tokens": 853
+  },
+  "infobox": {
+    "title": "Alan J. Perlis",
+    "data": {
+      "Born": "April 1, 1922 \u00b7 Pittsburgh, Pennsylvania, U.S.",
+      "Died": "February 7, 1990 (aged 67) \u00b7 New Haven, Connecticut, U.S.",
+      "Education": "- Carnegie Mellon University (BS) - Massachusetts Institute of Technology (MS, PhD)",
+      "Known for": "- IT - ALGOL - APL",
+      "Awards": "- Turing Award, 1966 - Computer Pioneer Award, 1985",
+      "Fields": "Computer science",
+      "Institutions": "- Association for Computing Machinery - Carnegie Mellon University - Purdue University - Yale University",
+      "Thesis": "On Integral Equations, Their Solution by Iteration and Analytic Continuation (1950)",
+      "Doctoral advisor": "Philip Franklin",
+      "Doctoral students": "- Gary Lindstrom - Zohar Manna - David Parnas - John R. Levine"
+    }
+  }
+}

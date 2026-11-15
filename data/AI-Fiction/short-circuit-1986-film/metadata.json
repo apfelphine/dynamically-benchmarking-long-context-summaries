@@ -1,0 +1,34 @@
+{
+  "id": 736266,
+  "title": "Short Circuit (1986 film)",
+  "url": "https://en.wikipedia.org/wiki/Short_Circuit_(1986_film)",
+  "path": "AI-Fiction\\short-circuit-1986-film",
+  "summary": {
+    "chars": 923,
+    "tokens": 208
+  },
+  "document": {
+    "chars": 17569,
+    "tokens": 4000
+  },
+  "infobox": {
+    "title": "Short Circuit",
+    "data": {
+      "Directed by": "John Badham",
+      "Written by": "- S. S. Wilson - Brent Maddock",
+      "Produced by": "- David Foster - Lawrence Turman",
+      "Starring": "- Ally Sheedy - Steve Guttenberg - Fisher Stevens - Austin Pendleton - G. W. Bailey",
+      "Cinematography": "Nick McLean",
+      "Edited by": "Frank Morriss",
+      "Music by": "David Shire",
+      "Production \u00b7 companies": "- Producers Sales Organization - The Turman-Foster Company",
+      "Distributed by": "Tri-Star Pictures",
+      "Release date": "- May 9, 1986",
+      "Running time": "98 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$15 million",
+      "Box office": "$40.7 million"
+    }
+  }
+}

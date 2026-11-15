@@ -1,0 +1,37 @@
+{
+  "id": 61116,
+  "title": "Imperial College London",
+  "url": "https://en.wikipedia.org/wiki/Imperial_College_London",
+  "path": "Universities\\imperial-college-london",
+  "summary": {
+    "chars": 1581,
+    "tokens": 291
+  },
+  "document": {
+    "chars": 35992,
+    "tokens": 7377
+  },
+  "infobox": {
+    "title": "Imperial College London",
+    "data": {
+      "Motto": "Scientia, imperii decus et tutamen (Latin)",
+      "Motto in English": "Scientific knowledge, the crowning glory and the safeguard of the empire",
+      "Type": "Public research university",
+      "Established": "8 July 1907",
+      "Endowment": "\u00a3235.2 million (2024)",
+      "Budget": "\u00a31.309 billion (2023/24)",
+      "President": "Hugh Brady",
+      "Provost": "Ian Walmsley",
+      "Academic staff": "4,540 (2023/24)",
+      "Administrative staff": "4,385 (2023/24)",
+      "Students": "22,420 (2023/24) \u00b7 21,265 FTE (2023/24)",
+      "Undergraduates": "12,150 (2023/24)",
+      "Postgraduates": "10,265 (2023/24)",
+      "Location": "London, England",
+      "Colours": "Blue",
+      "Affiliations": "ACU EUA Global Alliance of Technological Universities LERU Russell Group SES Universities UK",
+      "Mascot": "Lion",
+      "Website": "imperial.ac.uk"
+    }
+  }
+}

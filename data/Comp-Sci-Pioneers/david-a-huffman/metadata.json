@@ -1,0 +1,27 @@
+{
+  "id": 32317463,
+  "title": "David A. Huffman",
+  "url": "https://en.wikipedia.org/wiki/David_A._Huffman",
+  "path": "Comp-Sci-Pioneers\\david-a-huffman",
+  "summary": {
+    "chars": 200,
+    "tokens": 49
+  },
+  "document": {
+    "chars": 1785,
+    "tokens": 397
+  },
+  "infobox": {
+    "title": "David A. Huffman",
+    "data": {
+      "Born": "David Albert Huffman \u00b7 August 9, 1925 \u00b7 Alliance, Ohio, US",
+      "Died": "October 7, 1999 (aged 74) \u00b7 Santa Cruz, California, US",
+      "Education": "- Ohio State University (BS) - Massachusetts Institute of Technology (MS, DSc)",
+      "Known for": "Huffman coding",
+      "Awards": "IEEE Richard W. Hamming Medal (1999)",
+      "Fields": "Information theory, Coding theory",
+      "Thesis": "The Synthesis of Sequential Switching Circuits (1953)",
+      "Doctoral advisor": "Samuel H. Caldwell"
+    }
+  }
+}

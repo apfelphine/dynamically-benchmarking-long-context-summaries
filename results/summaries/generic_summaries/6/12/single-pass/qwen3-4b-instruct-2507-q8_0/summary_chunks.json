@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\n- **Life** : Born in Majorca in 1232, Llull came from a wealthy family. He experienced visions in 1263, leading to a religious calling and a lifelong mission to convert Muslims and schismatics to Christianity. He sold his possessions, studied Arabic, and founded the hermitage of Miramar in 1270.\n- **Religious Calling & Missionary Work** : After visions, Llull dedicated his life to converting Muslims. He traveled to North Africa, founded missionary schools, and advocated for linguistic education. In 1311, the Council of Vienne established chairs in Arabic, Hebrew, and Aramaic at major universities.\n- **Death** : Died in 1314 in Tunis; his tomb is in Palma, Majorca.\n- **Veneration** : Beatified in 1847 by Pope Pius IX.\n- **Works** : Developed \"Llull\u2019s Art,\" a system of universal logic using combinatorial principles and diagrams. Key works include the *Ars demonstrativa* and *Ars inventiva veritatis* . He also wrote dialogues (e.g., *Book of the Gentile and the Three Wise Men* ), tree diagrams, proverbs, and novels to spread his ideas.",
+        "text_original": "Life**: Born in Majorca in 1232, Llull came from a wealthy family. He experienced visions in 1263, leading to a religious calling and a lifelong mission to convert Muslims and schismatics to Christianity. He sold his possessions, studied Arabic, and founded the hermitage of Miramar in 1270.\n- **Religious Calling & Missionary Work**: After visions, Llull dedicated his life to converting Muslims. He traveled to North Africa, founded missionary schools, and advocated for linguistic education. In 1311, the Council of Vienne established chairs in Arabic, Hebrew, and Aramaic at major universities.\n- **Death**: Died in 1314 in Tunis; his tomb is in Palma, Majorca.\n- **Veneration**: Beatified in 1847 by Pope Pius IX.\n- **Works**: Developed \"Llull\u2019s Art,\" a system of universal logic using combinatorial principles and diagrams. Key works include the *Ars demonstrativa* and *Ars inventiva veritatis*. He also wrote dialogues (e.g., *Book of the Gentile and the Three Wise Men*), tree diagrams, proverbs, and novels to spread his ideas",
+        "idx_start": 24,
+        "idx_end": 1060
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\n- **Early Life** : Born in Trenton, NJ, Antheil studied piano and composition, influenced by Dadaism and modernist music. He began performing and composing in his teens.\n- **Paris & Career** : Moved to Paris in 1922, where he gained notoriety for his \"bad boy\" persona. His best-known work, *Ballet M\u00e9canique* , used mechanical sounds and was controversial, leading to riots at performances. He later worked in Hollywood, composing for films and writing scores for directors like Cecil B. DeMille.\n- **Inventions** : Co-invented frequency-hopping radio with Hedy Lamarr during WWII, a precursor to modern spread-spectrum technology.\n- **Later Life** : Retired from Hollywood, wrote a memoir, and remained active in music and cultural commentary. Died in 1979.",
+        "text_original": "Early Life**: Born in Trenton, NJ, Antheil studied piano and composition, influenced by Dadaism and modernist music. He began performing and composing in his teens.\n- **Paris & Career**: Moved to Paris in 1922, where he gained notoriety for his \"bad boy\" persona. His best-known work, *Ballet M\u00e9canique*, used mechanical sounds and was controversial, leading to riots at performances. He later worked in Hollywood, composing for films and writing scores for directors like Cecil B. DeMille.\n- **Inventions**: Co-invented frequency-hopping radio with Hedy Lamarr during WWII, a precursor to modern spread-spectrum technology.\n- **Later Life**: Retired from Hollywood, wrote a memoir, and remained active in music and cultural commentary. Died in",
+        "idx_start": 1090,
+        "idx_end": 1834
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\n- **Early Life** : Born in 1815 in Lincoln, England. Self-taught in mathematics and logic, he became a schoolteacher and later a professor at Queen\u2019s College, Cork.\n- **Contributions** : Developed Boolean algebra, a system of symbolic logic used in modern computing. His work laid the foundation for digital circuit design and computer science.\n- **Legacy** : Boolean algebra is fundamental to computer science. His work influenced Claude Shannon, who applied it to digital circuit design. Boole is honored in institutions and named after him in lunar craters and roads.",
+        "text_original": "Early Life**: Born in 1815 in Lincoln, England. Self-taught in mathematics and logic, he became a schoolteacher and later a professor at Queen\u2019s College, Cork.\n- **Contributions**: Developed Boolean algebra, a system of symbolic logic used in modern computing. His work laid the foundation for digital circuit design and computer science.\n- **Legacy**: Boolean algebra is fundamental to computer science. His work influenced Claude Shannon, who applied it to digital circuit design. Boole is honored in institutions and named after him in lunar craters and roads",
+        "idx_start": 1867,
+        "idx_end": 2429
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\n- **Early Life** : Born in 1947 in England, Hinton studied experimental psychology and artificial intelligence. He later became a leading figure in neural networks.\n- **Career** : Co-invented backpropagation and Boltzmann machines. Developed capsule networks and contributed to deep learning. Worked at the University of Toronto and Google.\n- **Views** : Raised concerns about AI\u2019s potential risks, including job displacement and existential threats. Advocated for AI safety and regulation.\n- **Legacy** : Won the 2018 Turing Award and is credited with helping create modern AI. His work continues to influence machine learning and AI ethics.",
+        "text_original": "Early Life**: Born in 1947 in England, Hinton studied experimental psychology and artificial intelligence. He later became a leading figure in neural networks.\n- **Career**: Co-invented backpropagation and Boltzmann machines. Developed capsule networks and contributed to deep learning. Worked at the University of Toronto and Google.\n- **Views**: Raised concerns about AI\u2019s potential risks, including job displacement and existential threats. Advocated for AI safety and regulation.\n- **Legacy**: Won the 2018 Turing Award and is credited with helping create modern AI. His work continues to influence machine learning and AI ethics",
+        "idx_start": 2460,
+        "idx_end": 3093
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\n- **Early Life** : Born in Alberta, Canada, Iverson studied at Queen\u2019s University and Harvard. Worked in computing and developed a formal notation for programming.\n- **Work** : Created the APL programming language, introducing a powerful, concise syntax. His work at IBM led to the development of APL systems and teaching tools.\n- **Legacy** : The APL language is still used in data analysis and scientific computing. He is honored with awards and a crater named after him.",
+        "text_original": "Early Life**: Born in Alberta, Canada, Iverson studied at Queen\u2019s University and Harvard. Worked in computing and developed a formal notation for programming.\n- **Work**: Created the APL programming language, introducing a powerful, concise syntax. His work at IBM led to the development of APL systems and teaching tools.\n- **Legacy**: The APL language is still used in data analysis and scientific computing. He is honored with awards and a crater named after him",
+        "idx_start": 3127,
+        "idx_end": 3592
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\n- **Life** : Born in 1136, al-Jazari served as chief engineer at the Artuqid court. His work is detailed in *The Book of Knowledge of Ingenious Mechanical Devices* .\n- **Inventions** : Designed water-raising machines (e.g., saqiya chain pumps), automata (e.g., hand-washing devices, musical robots), and water clocks. Introduced early mechanical controls and valves.\n- **Legacy** : His work influenced later automata and robotics. Al-Jazari is recognized as a pioneer in mechanical engineering and automation.",
+        "text_original": "Life**: Born in 1136, al-Jazari served as chief engineer at the Artuqid court. His work is detailed in *The Book of Knowledge of Ingenious Mechanical Devices*.\n- **Inventions**: Designed water-raising machines (e.g., saqiya chain pumps), automata (e.g., hand-washing devices, musical robots), and water clocks. Introduced early mechanical controls and valves.\n- **Legacy**: His work influenced later automata and robotics. Al-Jazari is recognized as a pioneer in mechanical engineering and automation",
+        "idx_start": 3624,
+        "idx_end": 4124
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n- **Early Life** : Born in 1927 in Italy, Karpi\u0144ski was a Polish intellectual and alpinist. His father died in the Himalayas during an expedition.\n- **Wartime Activities** : Joined the Home Army during WWII, participated in the Warsaw Uprising, and was awarded the Cross of Valour three times.\n- **Post-War Career** : Developed the AKAT-1 differential equations analyzer and the KAR-65 computer. Created the K-202 minicomputer, which was ahead of its time.\n- **Legacy** : Recognized as a pioneer in computer engineering. His work influenced the development of early digital systems and microcomputers.",
+        "text_original": "Early Life**: Born in 1927 in Italy, Karpi\u0144ski was a Polish intellectual and alpinist. His father died in the Himalayas during an expedition.\n- **Wartime Activities**: Joined the Home Army during WWII, participated in the Warsaw Uprising, and was awarded the Cross of Valour three times.\n- **Post-War Career**: Developed the AKAT-1 differential equations analyzer and the KAR-65 computer. Created the K-202 minicomputer, which was ahead of its time.\n- **Legacy**: Recognized as a pioneer in computer engineering. His work influenced the development of early digital systems and microcomputers",
+        "idx_start": 4155,
+        "idx_end": 4747
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\n- **Early Life** : Born in 1906 in Austria-Hungary, G\u00f6del showed early interest in mathematics and logic. He studied at the University of Vienna and later at Princeton.\n- **Work** : Proved the incompleteness theorems, showing that any formal system powerful enough to describe arithmetic contains true statements that cannot be proven within the system. Developed a proof of God's existence and contributed to logic and philosophy.\n- **Legacy** : His work revolutionized mathematical logic and influenced computer science, philosophy, and AI. He is considered one of the most important logicians in history.",
+        "text_original": "Early Life**: Born in 1906 in Austria-Hungary, G\u00f6del showed early interest in mathematics and logic. He studied at the University of Vienna and later at Princeton.\n- **Work**: Proved the incompleteness theorems, showing that any formal system powerful enough to describe arithmetic contains true statements that cannot be proven within the system. Developed a proof of God's existence and contributed to logic and philosophy.\n- **Legacy**: His work revolutionized mathematical logic and influenced computer science, philosophy, and AI. He is considered one of the most important logicians in history",
+        "idx_start": 4773,
+        "idx_end": 5372
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n- **Early Life** : Born in Italy, Faggin studied physics and worked at Olivetti and SGS-Fairchild. He developed silicon-gate technology, which became the foundation of modern microelectronics.\n- **Career** : Designed the first commercial integrated circuit using silicon-gate technology. Led the development of the Intel 4004 microprocessor and the Z80 microprocessor.\n- **Legacy** : Faggin is credited with enabling the development of modern microprocessors and computer chips. He also proposed a theory of consciousness based on quantum mechanics.",
+        "text_original": "Early Life**: Born in Italy, Faggin studied physics and worked at Olivetti and SGS-Fairchild. He developed silicon-gate technology, which became the foundation of modern microelectronics.\n- **Career**: Designed the first commercial integrated circuit using silicon-gate technology. Led the development of the Intel 4004 microprocessor and the Z80 microprocessor.\n- **Legacy**: Faggin is credited with enabling the development of modern microprocessors and computer chips. He also proposed a theory of consciousness based on quantum mechanics",
+        "idx_start": 5403,
+        "idx_end": 5944
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\n- **Early Life** : Born in New York, Conway faced gender dysphoria and transitioned in her 20s. She worked at IBM and later at Xerox PARC.\n- **Work** : Co-developed the Mead\u2013Conway VLSI design methodology, which revolutionized chip design. Founded the MOSIS system for rapid prototyping of chips.\n- **Legacy** : Pioneered the foundry model in semiconductor design. Recognized as a key figure in the development of modern computer chips and VLSI technology.",
+        "text_original": "Early Life**: Born in New York, Conway faced gender dysphoria and transitioned in her 20s. She worked at IBM and later at Xerox PARC.\n- **Work**: Co-developed the Mead\u2013Conway VLSI design methodology, which revolutionized chip design. Founded the MOSIS system for rapid prototyping of chips.\n- **Legacy**: Pioneered the foundry model in semiconductor design. Recognized as a key figure in the development of modern computer chips and VLSI technology",
+        "idx_start": 5971,
+        "idx_end": 6419
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n- **Early Life** : Born in New York, Hopper studied mathematics and physics. She joined the U.S. Navy during WWII and became a key figure in programming.\n- **Work** : Developed the first compiler for COBOL, a programming language used in data processing. Advocated for high-level programming languages and contributed to software standards.\n- **Legacy** : Hopper is known as the \"mother of COBOL.\" She is honored with numerous awards and has a U.S. Navy destroyer named after her. Her legacy continues in computing education and software development.",
+        "text_original": "Early Life**: Born in New York, Hopper studied mathematics and physics. She joined the U.S. Navy during WWII and became a key figure in programming.\n- **Work**: Developed the first compiler for COBOL, a programming language used in data processing. Advocated for high-level programming languages and contributed to software standards.\n- **Legacy**: Hopper is known as the \"mother of COBOL.\" She is honored with numerous awards and has a U.S. Navy destroyer named after her. Her legacy continues in computing education and software development",
+        "idx_start": 6447,
+        "idx_end": 6989
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\n- **Early Life** : Born in Milwaukee, Wisconsin, Knuth studied mathematics and computer science. He became known for his work in algorithms and programming.\n- **Work** : Authored *The Art of Computer Programming* , a foundational work in computer science. Developed TeX and Metafont for typesetting, and introduced the concept of literate programming.\n- **Legacy** : Knuth is considered one of the most influential computer scientists. His work in algorithms, typesetting, and programming has shaped modern computing.",
+        "text_original": "Early Life**: Born in Milwaukee, Wisconsin, Knuth studied mathematics and computer science. He became known for his work in algorithms and programming.\n- **Work**: Authored *The Art of Computer Programming*, a foundational work in computer science. Developed TeX and Metafont for typesetting, and introduced the concept of literate programming.\n- **Legacy**: Knuth is considered one of the most influential computer scientists. His work in algorithms, typesetting, and programming has shaped modern computing",
+        "idx_start": 7017,
+        "idx_end": 7525
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\n- **Early Life** : Born in 1848 in Wismar, Germany. Studied at the University of Jena and G\u00f6ttingen. His work in logic and philosophy laid the foundation for modern mathematical logic.\n- **Work** : Developed *Begriffsschrift* , a formal system of logic that introduced quantifiers and variables. Introduced the distinction between sense and reference in language.\n- **Legacy** : Frege is considered the father of modern logic. His work influenced Russell, Whitehead, and G\u00f6del. His ideas are foundational in philosophy of language and mathematics.",
+        "text_original": "Early Life**: Born in 1848 in Wismar, Germany. Studied at the University of Jena and G\u00f6ttingen. His work in logic and philosophy laid the foundation for modern mathematical logic.\n- **Work**: Developed *Begriffsschrift*, a formal system of logic that introduced quantifiers and variables. Introduced the distinction between sense and reference in language.\n- **Legacy**: Frege is considered the father of modern logic. His work influenced Russell, Whitehead, and G\u00f6del. His ideas are foundational in philosophy of language and mathematics",
+        "idx_start": 7554,
+        "idx_end": 8092
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\n- **Early Life** : Born in Michigan, Shannon showed early interest in mathematics and electronics. Studied at the University of Michigan and MIT.\n- **Work** : Developed information theory and the mathematical foundations of digital circuits. Introduced the concept of entropy and the idea that information can be measured.\n- **Legacy** : Shannon is known as the \"father of information theory.\" His work underpins modern digital communication, computing, and cryptography. He is celebrated with a Google Doodle and numerous honors.",
+        "text_original": "Early Life**: Born in Michigan, Shannon showed early interest in mathematics and electronics. Studied at the University of Michigan and MIT.\n- **Work**: Developed information theory and the mathematical foundations of digital circuits. Introduced the concept of entropy and the idea that information can be measured.\n- **Legacy**: Shannon is known as the \"father of information theory.\" His work underpins modern digital communication, computing, and cryptography. He is celebrated with a Google Doodle and numerous honors",
+        "idx_start": 8122,
+        "idx_end": 8644
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\n- **Life** : Born in Khwarazm (modern-day Uzbekistan), al-Khwarizmi was a Persian mathematician and astronomer.\n- **Contributions** : Wrote *Al-Jabr* , the foundational text of algebra. Introduced the Hindu-Arabic numeral system to the West, which evolved into the modern decimal system. His work in astronomy and geography influenced later scientific developments.\n- **Legacy** : Al-Khwarizmi is considered the father of algebra. The term \"algorithm\" derives from his name. His work laid the groundwork for modern mathematics and computing.",
+        "text_original": "Life**: Born in Khwarazm (modern-day Uzbekistan), al-Khwarizmi was a Persian mathematician and astronomer.\n- **Contributions**: Wrote *Al-Jabr*, the foundational text of algebra. Introduced the Hindu-Arabic numeral system to the West, which evolved into the modern decimal system. His work in astronomy and geography influenced later scientific developments.\n- **Legacy**: Al-Khwarizmi is considered the father of algebra. The term \"algorithm\" derives from his name. His work laid the groundwork for modern mathematics and computing",
+        "idx_start": 8672,
+        "idx_end": 9204
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\n- **Early Life** : Born in Rotterdam, Netherlands. Studied mathematics and physics, then transitioned to computer science.\n- **Work** : Developed the shortest path algorithm, the semaphore, and the concept of structured programming. Advocated for structured programming and wrote extensively on software design.\n- **Legacy** : Dijkstra is known for the \"Go To Statement Considered Harmful\" essay, which helped shape modern programming practices. He is honored with the Turing Award and numerous awards in computer science.",
+        "text_original": "Early Life**: Born in Rotterdam, Netherlands. Studied mathematics and physics, then transitioned to computer science.\n- **Work**: Developed the shortest path algorithm, the semaphore, and the concept of structured programming. Advocated for structured programming and wrote extensively on software design.\n- **Legacy**: Dijkstra is known for the \"Go To Statement Considered Harmful\" essay, which helped shape modern programming practices. He is honored with the Turing Award and numerous awards in computer science",
+        "idx_start": 9238,
+        "idx_end": 9752
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\n- **Early Life** : Born in Denmark, Brinch Hansen studied electrical engineering and worked at Regnecentralen, a Danish research institution.\n- **Work** : Developed the RC 4000 multiprogramming system, the monitor concept, and the Concurrent Pascal programming language. His work laid the foundation for modern operating systems and concurrent programming.\n- **Legacy** : Brinch Hansen is recognized as a pioneer in operating systems and concurrent programming. His books and systems are foundational in computer science education.",
+        "text_original": "Early Life**: Born in Denmark, Brinch Hansen studied electrical engineering and worked at Regnecentralen, a Danish research institution.\n- **Work**: Developed the RC 4000 multiprogramming system, the monitor concept, and the Concurrent Pascal programming language. His work laid the foundation for modern operating systems and concurrent programming.\n- **Legacy**: Brinch Hansen is recognized as a pioneer in operating systems and concurrent programming. His books and systems are foundational in computer science education",
+        "idx_start": 9785,
+        "idx_end": 10308
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\n- **Early Life** : Born in Milwaukee, Wisconsin, Simon studied political science and economics at the University of Chicago.\n- **Work** : Developed the theory of bounded rationality, arguing that humans make decisions based on limited information and cognitive capacity. Co-developed AI programs like the Logic Theory Machine and the General Problem Solver.\n- **Legacy** : Simon is known for his contributions to organizational decision-making, artificial intelligence, and cognitive psychology. He won the Nobel Prize in Economics and the Turing Award. His work continues to influence economics, AI, and education.",
+        "text_original": "Early Life**: Born in Milwaukee, Wisconsin, Simon studied political science and economics at the University of Chicago.\n- **Work**: Developed the theory of bounded rationality, arguing that humans make decisions based on limited information and cognitive capacity. Co-developed AI programs like the Logic Theory Machine and the General Problem Solver.\n- **Legacy**: Simon is known for his contributions to organizational decision-making, artificial intelligence, and cognitive psychology. He won the Nobel Prize in Economics and the Turing Award. His work continues to influence economics, AI, and education",
+        "idx_start": 10340,
+        "idx_end": 10947
+    }
+]

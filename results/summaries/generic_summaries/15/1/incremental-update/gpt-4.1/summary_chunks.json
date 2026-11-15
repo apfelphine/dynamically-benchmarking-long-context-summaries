@@ -1,0 +1,79 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University of British Columbia (UBC)\nFounded in 1908, UBC excels in sustainability, Indigenous engagement, research innovation, and global outreach. Spanning Vancouver and Okanagan campuses and operating with a $3.8 billion budget, it hosts Canada\u2019s second-largest academic library. Notable alumni include Nobel laureates and prime ministers. Student governance influences institutional policies and responds to challenges like COVID-19.",
+        "text_original": "Founded in 1908, UBC excels in sustainability, Indigenous engagement, research innovation, and global outreach. Spanning Vancouver and Okanagan campuses and operating with a $3.8 billion budget, it hosts Canada\u2019s second-largest academic library. Notable alumni include Nobel laureates and prime ministers. Student governance influences institutional policies and responds to challenges like COVID",
+        "idx_start": 53,
+        "idx_end": 449
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University of Oxford\nDating to the 12th century, Oxford consists of 39 colleges and 4 halls, with a \u00a38.7 billion endowment. Renowned for individualized tutorials, rich traditions, the Bodleian Library, and global leadership among alumni and Nobel laureates.",
+        "text_original": "Dating to the 12th century, Oxford consists of 39 colleges and 4 halls, with a \u00a38.7 billion endowment. Renowned for individualized tutorials, rich traditions, the Bodleian Library, and global leadership among alumni and Nobel laureates",
+        "idx_start": 480,
+        "idx_end": 715
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University of Melbourne\nFounded in 1853, Melbourne is recognized for research leadership and the \u201cMelbourne Model,\u201d emphasizing broad undergraduate studies prior to specialization. With 44% international students, it wields cultural influence but faces infrastructure and financial challenges.",
+        "text_original": "Founded in 1853, Melbourne is recognized for research leadership and the \u201cMelbourne Model,\u201d emphasizing broad undergraduate studies prior to specialization. With 44% international students, it wields cultural influence but faces infrastructure and financial challenges",
+        "idx_start": 746,
+        "idx_end": 1014
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University of Toronto\nEstablished in 1827, U of T spans three campuses, has a robust library network, and utilizes decentralized governance. Leading in AI and biotech, it enrolls 29% international students and its alumni play major roles in Canadian development.",
+        "text_original": "Established in 1827, U of T spans three campuses, has a robust library network, and utilizes decentralized governance. Leading in AI and biotech, it enrolls 29% international students and its alumni play major roles in Canadian development",
+        "idx_start": 1043,
+        "idx_end": 1282
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## National Autonomous University of Mexico (UNAM)\nFounded in 1910, UNAM is one of the largest universities globally, noted for diverse programs, distance learning, research prestige, and active student and alumni culture.",
+        "text_original": "Founded in 1910, UNAM is one of the largest universities globally, noted for diverse programs, distance learning, research prestige, and active student and alumni culture",
+        "idx_start": 1337,
+        "idx_end": 1507
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Federal University of Rio de Janeiro (UFRJ)\nFounded in 1920, UFRJ is central to Brazilian higher education, known for inclusive admissions, advanced research, leadership in institutes and museums, and commitment to diversity.",
+        "text_original": "Founded in 1920, UFRJ is central to Brazilian higher education, known for inclusive admissions, advanced research, leadership in institutes and museums, and commitment to diversity",
+        "idx_start": 1558,
+        "idx_end": 1738
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University of New South Wales (UNSW)\nEstablished in 1949, UNSW is a leader in renewable energy, robotics, and synthetic biology, with six faculties and flexible admissions. It emphasizes international exchange and student services but faces governance and ethical challenges.",
+        "text_original": "Established in 1949, UNSW is a leader in renewable energy, robotics, and synthetic biology, with six faculties and flexible admissions. It emphasizes international exchange and student services but faces governance and ethical challenges",
+        "idx_start": 1782,
+        "idx_end": 2019
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Cornell University\nSince 1865, Cornell has been highly selective, globally engaged, and maintains a $10.7 billion endowment with need-blind admissions for U.S. students. It combines top research, a leading library, vibrant student life, and influential alumni, and is active in diversity, governance, and social issues.",
+        "text_original": "Since 1865, Cornell has been highly selective, globally engaged, and maintains a $10.7 billion endowment with need-blind admissions for U.S. students. It combines top research, a leading library, vibrant student life, and influential alumni, and is active in diversity, governance, and social issues",
+        "idx_start": 2045,
+        "idx_end": 2344
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University of Hong Kong (HKU)\nFounded in 1911, HKU integrates British and Chinese academic traditions across ten faculties taught mainly in English. Highly ranked globally (#11 QS), it produces impactful research and alumni and navigates issues of autonomy and governance.",
+        "text_original": "Founded in 1911, HKU integrates British and Chinese academic traditions across ten faculties taught mainly in English. Highly ranked globally (#11 QS), it produces impactful research and alumni and navigates issues of autonomy and governance",
+        "idx_start": 2381,
+        "idx_end": 2622
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## National University of Singapore (NUS)\nEstablished in 1905, NUS is Singapore\u2019s premier university, consistently ranked among the world\u2019s best (QS #8, THE #17). It offers multidisciplinary programs, 17 faculties and schools, advanced research institutes, and major facilities such as University Town. NUS leads in engineering, sciences, law, business, humanities, and medicine, and was for decades Singapore\u2019s sole law school\u2014shaping the judiciary and legal sector. Campus life is supported by advanced IT, libraries, and diverse residential options integrating academic programs. NUS has driven entrepreneurship, global citizenship, and service exchange, celebrating milestones like its 120th anniversary. Its alumni include multiple Prime Ministers and Presidents of Singapore and Malaysia, key government ministers, judges, and globally recognized figures in academia and international organizations such as WHO and the UN Security Council.",
+        "text_original": "Established in 1905, NUS is Singapore\u2019s premier university, consistently ranked among the world\u2019s best (QS #8, THE #17). It offers multidisciplinary programs, 17 faculties and schools, advanced research institutes, and major facilities such as University Town. NUS leads in engineering, sciences, law, business, humanities, and medicine, and was for decades Singapore\u2019s sole law school\u2014shaping the judiciary and legal sector. Campus life is supported by advanced IT, libraries, and diverse residential options integrating academic programs. NUS has driven entrepreneurship, global citizenship, and service exchange, celebrating milestones like its 120th anniversary. Its alumni include multiple Prime Ministers and Presidents of Singapore and Malaysia, key government ministers, judges, and globally recognized figures in academia and international organizations such as WHO and the UN Security Council",
+        "idx_start": 2668,
+        "idx_end": 3570
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Key Controversies and Areas of Focus\nThese universities share commitments to academic excellence and international impact amid ongoing challenges in governance, funding, diversity, student welfare, activism, accountability, and societal pressures. Persistent areas of debate include privacy, discrimination, political interference, ethics, financial sustainability, and crisis management.",
+        "text_original": "These universities share commitments to academic excellence and international impact amid ongoing challenges in governance, funding, diversity, student welfare, activism, accountability, and societal pressures. Persistent areas of debate include privacy, discrimination, political interference, ethics, financial sustainability, and crisis management",
+        "idx_start": 3614,
+        "idx_end": 3964
+    }
+]

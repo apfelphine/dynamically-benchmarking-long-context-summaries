@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\nA foundational figure in information theory and digital computing, Shannon revolutionized engineering and communication through his work on Boolean algebra and switching circuits. His 1937 master's thesis introduced the use of electrical switches to implement logic, forming the basis for digital circuit design. He later developed the mathematical theory of communication in 1948, introducing information entropy and establishing information theory as a field. His work on cryptography, including the unbreakable one-time pad, and contributions to artificial intelligence (e.g., the \"Theseus\" learning machine) solidified his legacy. Recognized as a polymath, he influenced the digital age and is celebrated for creating the field of information theory.",
+        "text_original": "A foundational figure in information theory and digital computing, Shannon revolutionized engineering and communication through his work on Boolean algebra and switching circuits. His 1937 master's thesis introduced the use of electrical switches to implement logic, forming the basis for digital circuit design. He later developed the mathematical theory of communication in 1948, introducing information entropy and establishing information theory as a field. His work on cryptography, including the unbreakable one-time pad, and contributions to artificial intelligence (e.g., the \"Theseus\" learning machine) solidified his legacy. Recognized as a polymath, he influenced the digital age and is celebrated for creating the field of information theory",
+        "idx_start": 25,
+        "idx_end": 778
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\nA pioneering computer scientist, Dijkstra is best known for his work on structured programming and the development of the monitor concept. His 1968 paper \"Go To Statement Considered Harmful\" advocated for structured programming, a paradigm that became standard in modern software development. He authored the influential \"The Humble Programmer,\" emphasizing clarity and rigor in programming. His work on operating systems, including the THE operating system, and contributions to algorithms and concurrency, laid the groundwork for modern computing. Known for his elegant, concise writing and critical thinking, Dijkstra's legacy includes a profound influence on software engineering and computer science.",
+        "text_original": "A pioneering computer scientist, Dijkstra is best known for his work on structured programming and the development of the monitor concept. His 1968 paper \"Go To Statement Considered Harmful\" advocated for structured programming, a paradigm that became standard in modern software development. He authored the influential \"The Humble Programmer,\" emphasizing clarity and rigor in programming. His work on operating systems, including the THE operating system, and contributions to algorithms and concurrency, laid the groundwork for modern computing. Known for his elegant, concise writing and critical thinking, Dijkstra's legacy includes a profound influence on software engineering and computer science",
+        "idx_start": 810,
+        "idx_end": 1514
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\nA towering figure in computer science, Knuth is renowned for his monumental work *The Art of Computer Programming* , a multi-volume series that remains a foundational text. He developed TeX and Metafont, revolutionizing digital typesetting, and pioneered literate programming, where code is written as a narrative. Knuth's work on algorithms, combinatorics, and computer science education has shaped the field. He also contributed to recreational mathematics and authored *Surreal Numbers* , a mathematical novelette. His influence is evident in the digital revolution, and he is widely regarded as one of the most important computer scientists of the 20th century.",
+        "text_original": "A towering figure in computer science, Knuth is renowned for his monumental work *The Art of Computer Programming*, a multi-volume series that remains a foundational text. He developed TeX and Metafont, revolutionizing digital typesetting, and pioneered literate programming, where code is written as a narrative. Knuth's work on algorithms, combinatorics, and computer science education has shaped the field. He also contributed to recreational mathematics and authored *Surreal Numbers*, a mathematical novelette. His influence is evident in the digital revolution, and he is widely regarded as one of the most important computer scientists of the 20th century",
+        "idx_start": 1540,
+        "idx_end": 2202
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\nA key figure in organizational decision-making and artificial intelligence, Simon developed the theory of bounded rationality, arguing that humans make decisions under cognitive limitations, not perfect rationality. His work on administrative behavior introduced the concept of satisficing\u2014choosing adequate, rather than optimal, solutions. He co-created the Logic Theory Machine and the General Problem Solver, early AI systems. Simon's research in human cognition and decision-making, along with his contributions to economics and psychology, earned him the Nobel Memorial Prize in Economics. He is recognized for bridging psychology, economics, and computer science.",
+        "text_original": "A key figure in organizational decision-making and artificial intelligence, Simon developed the theory of bounded rationality, arguing that humans make decisions under cognitive limitations, not perfect rationality. His work on administrative behavior introduced the concept of satisficing\u2014choosing adequate, rather than optimal, solutions. He co-created the Logic Theory Machine and the General Problem Solver, early AI systems. Simon's research in human cognition and decision-making, along with his contributions to economics and psychology, earned him the Nobel Memorial Prize in Economics. He is recognized for bridging psychology, economics, and computer science",
+        "idx_start": 2232,
+        "idx_end": 2900
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\nA revolutionary in VLSI (Very-Large-Scale Integration) chip design, Conway co-authored *Introduction to VLSI Systems* with Carver Mead, a foundational text in chip design. She invented the MOSIS (Metal Oxide Semiconductor Implementation Service) system, enabling rapid prototyping of integrated circuits. Her work established the foundry model in semiconductor manufacturing and fostered innovation in the electronics industry. A trailblazer in gender equality, she was one of the first women in computer science and advocated for transgender rights and inclusion. Her legacy includes both technical and social impact.",
+        "text_original": "A revolutionary in VLSI (Very-Large-Scale Integration) chip design, Conway co-authored *Introduction to VLSI Systems* with Carver Mead, a foundational text in chip design. She invented the MOSIS (Metal Oxide Semiconductor Implementation Service) system, enabling rapid prototyping of integrated circuits. Her work established the foundry model in semiconductor manufacturing and fostered innovation in the electronics industry. A trailblazer in gender equality, she was one of the first women in computer science and advocated for transgender rights and inclusion. Her legacy includes both technical and social impact",
+        "idx_start": 2925,
+        "idx_end": 3542
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\nA key architect in operating systems and concurrent programming, Brinch Hansen developed the monitor concept with C.A.R. Hoare, enabling secure, high-level concurrency. His work on the RC 4000 multiprogramming system and the *Operating System Principles* textbook laid the foundation for modern operating systems. He authored *The Architecture of Concurrent Programs* , the first comprehensive book on concurrent programming. His contributions to distributed computing and programming languages, such as Concurrent Pascal, significantly influenced the evolution of software engineering and computer science.",
+        "text_original": "A key architect in operating systems and concurrent programming, Brinch Hansen developed the monitor concept with C.A.R. Hoare, enabling secure, high-level concurrency. His work on the RC 4000 multiprogramming system and the *Operating System Principles* textbook laid the foundation for modern operating systems. He authored *The Architecture of Concurrent Programs*, the first comprehensive book on concurrent programming. His contributions to distributed computing and programming languages, such as Concurrent Pascal, significantly influenced the evolution of software engineering and computer science",
+        "idx_start": 3573,
+        "idx_end": 4178
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\nA foundational figure in mathematical logic, G\u00f6del proved the incompleteness theorems, showing that any consistent formal system powerful enough to describe arithmetic contains true statements that cannot be proven within the system. His work challenged the foundations of mathematics and influenced logic, philosophy, and computer science. He also developed a formal proof of God's existence (G\u00f6del's ontological proof) and contributed to the philosophy of mathematics. His work remains central to understanding the limits of formal systems and computation.",
+        "text_original": "A foundational figure in mathematical logic, G\u00f6del proved the incompleteness theorems, showing that any consistent formal system powerful enough to describe arithmetic contains true statements that cannot be proven within the system. His work challenged the foundations of mathematics and influenced logic, philosophy, and computer science. He also developed a formal proof of God's existence (G\u00f6del's ontological proof) and contributed to the philosophy of mathematics. His work remains central to understanding the limits of formal systems and computation",
+        "idx_start": 4202,
+        "idx_end": 4759
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\nA 9th-century Persian mathematician, astronomer, and geographer, Al-Khwarizmi systematized Hindu-Arabic numerals and introduced algorithms, from which the term \"algorithm\" is derived. His work on algebra, particularly *Al-Jabr* , laid the foundation for modern algebra. He developed trigonometric tables, improved geographical data, and contributed to astronomy. His writings were instrumental in transmitting mathematical knowledge from India to Europe, catalyzing the European Renaissance and the development of modern mathematics.",
+        "text_original": "A 9th-century Persian mathematician, astronomer, and geographer, Al-Khwarizmi systematized Hindu-Arabic numerals and introduced algorithms, from which the term \"algorithm\" is derived. His work on algebra, particularly *Al-Jabr*, laid the foundation for modern algebra. He developed trigonometric tables, improved geographical data, and contributed to astronomy. His writings were instrumental in transmitting mathematical knowledge from India to Europe, catalyzing the European Renaissance and the development of modern mathematics",
+        "idx_start": 4785,
+        "idx_end": 5316
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\nA 13th-century Islamic engineer and inventor, al-Jazari designed numerous mechanical devices, including water-raising machines, automata, and clocks. His most notable works include the \"peacock fountain\" with automated servants and the \"water-clock of the drummers,\" which combined music and timekeeping. He pioneered the use of camshafts, crankshafts, and valves in mechanical systems. His work influenced later European inventors and is considered a precursor to modern robotics and automation.",
+        "text_original": "A 13th-century Islamic engineer and inventor, al-Jazari designed numerous mechanical devices, including water-raising machines, automata, and clocks. His most notable works include the \"peacock fountain\" with automated servants and the \"water-clock of the drummers,\" which combined music and timekeeping. He pioneered the use of camshafts, crankshafts, and valves in mechanical systems. His work influenced later European inventors and is considered a precursor to modern robotics and automation",
+        "idx_start": 5346,
+        "idx_end": 5841
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\nA German philosopher and logician, Frege is considered the father of modern logic. His *Begriffsschrift* introduced a formal system of predicate logic, enabling precise representation of mathematical and logical statements. He developed the distinction between sense and reference, a cornerstone of analytic philosophy. His work on the foundations of arithmetic and logic influenced Russell, Whitehead, and Turing. Frege's contributions laid the groundwork for modern logic, set theory, and the philosophy of mathematics.",
+        "text_original": "A German philosopher and logician, Frege is considered the father of modern logic. His *Begriffsschrift* introduced a formal system of predicate logic, enabling precise representation of mathematical and logical statements. He developed the distinction between sense and reference, a cornerstone of analytic philosophy. His work on the foundations of arithmetic and logic influenced Russell, Whitehead, and Turing. Frege's contributions laid the groundwork for modern logic, set theory, and the philosophy of mathematics",
+        "idx_start": 5868,
+        "idx_end": 6388
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\nA leading figure in artificial intelligence, Hinton is known for co-developing the backpropagation algorithm, a key method for training neural networks. He pioneered deep learning and contributed to the development of convolutional neural networks. His work on capsule networks and unsupervised learning has advanced AI capabilities. Hinton has expressed concerns about the risks of artificial general intelligence (AGI), advocating for ethical oversight and regulation. He is a Turing Award winner and a key figure in the development of modern AI systems.",
+        "text_original": "A leading figure in artificial intelligence, Hinton is known for co-developing the backpropagation algorithm, a key method for training neural networks. He pioneered deep learning and contributed to the development of convolutional neural networks. His work on capsule networks and unsupervised learning has advanced AI capabilities. Hinton has expressed concerns about the risks of artificial general intelligence (AGI), advocating for ethical oversight and regulation. He is a Turing Award winner and a key figure in the development of modern AI systems",
+        "idx_start": 6417,
+        "idx_end": 6972
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\nA pioneering computer scientist and naval officer, Hopper developed the first compiler, COBOL, a programming language designed for business applications. She championed the idea of programming in English, making software more accessible. Hopper was instrumental in standardizing programming languages and promoting computer science education. She is celebrated for her contributions to software engineering and for being a trailblazer for women in technology. Her legacy includes the Grace Hopper Celebration of Women in Computing and numerous awards and honors.",
+        "text_original": "A pioneering computer scientist and naval officer, Hopper developed the first compiler, COBOL, a programming language designed for business applications. She championed the idea of programming in English, making software more accessible. Hopper was instrumental in standardizing programming languages and promoting computer science education. She is celebrated for her contributions to software engineering and for being a trailblazer for women in technology. Her legacy includes the Grace Hopper Celebration of Women in Computing and numerous awards and honors",
+        "idx_start": 6998,
+        "idx_end": 7559
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\nA 20th-century composer and inventor, Antheil created *Ballet M\u00e9canique* , a pioneering work that combined music, film, and mechanical elements. He also developed frequency-hopping radio technology with Hedy Lamarr, a foundational concept in modern wireless communication (used in Bluetooth and Wi-Fi). His work in music and technology demonstrates the intersection of art and engineering. Antheil's legacy includes both artistic innovation and practical contributions to telecommunications.",
+        "text_original": "A 20th-century composer and inventor, Antheil created *Ballet M\u00e9canique*, a pioneering work that combined music, film, and mechanical elements. He also developed frequency-hopping radio technology with Hedy Lamarr, a foundational concept in modern wireless communication (used in Bluetooth and Wi-Fi). His work in music and technology demonstrates the intersection of art and engineering. Antheil's legacy includes both artistic innovation and practical contributions to telecommunications",
+        "idx_start": 7587,
+        "idx_end": 8076
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\nAn Italian engineer and computer pioneer, Faggin invented the silicon-gate technology, which became the foundation for modern microprocessors. He designed the Intel 4004, the world's first single-chip microprocessor. His work at Intel and Zilog led to the development of early microprocessors and microcontrollers. Faggin later explored consciousness theory, proposing that it is a quantum phenomenon. He received numerous awards, including the National Medal of Technology and the Kyoto Prize, and is recognized as a key figure in the development of modern computing.",
+        "text_original": "An Italian engineer and computer pioneer, Faggin invented the silicon-gate technology, which became the foundation for modern microprocessors. He designed the Intel 4004, the world's first single-chip microprocessor. His work at Intel and Zilog led to the development of early microprocessors and microcontrollers. Faggin later explored consciousness theory, proposing that it is a quantum phenomenon. He received numerous awards, including the National Medal of Technology and the Kyoto Prize, and is recognized as a key figure in the development of modern computing",
+        "idx_start": 8105,
+        "idx_end": 8672
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\nA 13th-century Catalan philosopher and logician, Llull developed *Llull's Art* , a combinatorial system for deriving truth through logical reasoning. His work influenced Renaissance thinkers, including Leibniz, and is considered a precursor to modern logic and computer science. Llull's dialogues and tree diagrams were used to teach logic and promote the idea of universal knowledge. He is venerated as a saint and is recognized for his contributions to the history of logic and cognitive systems.",
+        "text_original": "A 13th-century Catalan philosopher and logician, Llull developed *Llull's Art*, a combinatorial system for deriving truth through logical reasoning. His work influenced Renaissance thinkers, including Leibniz, and is considered a precursor to modern logic and computer science. Llull's dialogues and tree diagrams were used to teach logic and promote the idea of universal knowledge. He is venerated as a saint and is recognized for his contributions to the history of logic and cognitive systems",
+        "idx_start": 8697,
+        "idx_end": 9193
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\nA Polish engineer and computer scientist, Karpi\u0144ski made significant contributions to early computing in Poland. He designed the AKAT-1, the world's first transistor-based differential equations analyzer, and the KAR-65, one of the first Polish computers. He also developed the K-202, a minicomputer with innovative features, though it failed to reach mass production due to political and administrative challenges. Karpi\u0144ski worked as a resistance fighter during WWII and later contributed to scientific research and education. His legacy includes technical achievements and a complex history of political and personal challenges.",
+        "text_original": "A Polish engineer and computer scientist, Karpi\u0144ski made significant contributions to early computing in Poland. He designed the AKAT-1, the world's first transistor-based differential equations analyzer, and the KAR-65, one of the first Polish computers. He also developed the K-202, a minicomputer with innovative features, though it failed to reach mass production due to political and administrative challenges. Karpi\u0144ski worked as a resistance fighter during WWII and later contributed to scientific research and education. His legacy includes technical achievements and a complex history of political and personal challenges",
+        "idx_start": 9222,
+        "idx_end": 9852
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\nA 19th-century mathematician, Boole founded Boolean algebra, a system of logic used in digital circuits. His work on symbolic logic and probability laid the foundation for modern computer science. Shannon later applied Boole's algebra to digital circuit design, forming the basis of all modern electronic computers. Boole's influence is evident in programming languages, databases, and information theory. He is celebrated for his role in the development of the digital age and is recognized through institutions, awards, and public commemorations.",
+        "text_original": "A 19th-century mathematician, Boole founded Boolean algebra, a system of logic used in digital circuits. His work on symbolic logic and probability laid the foundation for modern computer science. Shannon later applied Boole's algebra to digital circuit design, forming the basis of all modern electronic computers. Boole's influence is evident in programming languages, databases, and information theory. He is celebrated for his role in the development of the digital age and is recognized through institutions, awards, and public commemorations",
+        "idx_start": 9878,
+        "idx_end": 10425
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\nA computer scientist and inventor, Iverson developed APL, a programming language known for its concise, symbolic notation. His work on formal descriptions of computer systems and the design of APL influenced programming language development. He created J, a language that simplified APL and made it accessible to a broader audience. Iverson's contributions to education and programming language design have had a lasting impact on computer science. He is remembered for his elegant, thought-provoking work and the enduring influence of APL and J on modern computing.",
+        "text_original": "A computer scientist and inventor, Iverson developed APL, a programming language known for its concise, symbolic notation. His work on formal descriptions of computer systems and the design of APL influenced programming language development. He created J, a language that simplified APL and made it accessible to a broader audience. Iverson's contributions to education and programming language design have had a lasting impact on computer science. He is remembered for his elegant, thought-provoking work and the enduring influence of APL and J on modern computing",
+        "idx_start": 10457,
+        "idx_end": 11022
+    }
+]

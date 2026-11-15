@@ -1,0 +1,36 @@
+{
+  "id": 45504,
+  "title": "UNCF",
+  "url": "https://en.wikipedia.org/wiki/UNCF",
+  "path": "Scholarships\\uncf",
+  "summary": {
+    "chars": 905,
+    "tokens": 198
+  },
+  "document": {
+    "chars": 16400,
+    "tokens": 3402
+  },
+  "infobox": {
+    "title": "United Negro College Fund",
+    "data": {
+      "Abbreviation": "UNCF",
+      "Founded": "April 25, 1944",
+      "Founder": "Frederick D. Patterson \u00b7 Mary McLeod Bethune",
+      "Type": "Educational",
+      "Tax ID no.": "13-1624241",
+      "Legal status": "501(c)(3)",
+      "Purpose": "UNCF\u2019s mission is to build a robust and nationally-recognized pipeline of under-represented students who, because of UNCF support, become highly-qualified college graduates and to ensure that our network of member institutions is a respected model of best practice in moving students to and through college.",
+      "Headquarters": "1805 7th Street NW \u00b7 Washington, D.C. 20001",
+      "Coordinates": "38\u00b054\u203251\u2033N 77\u00b001\u203217\u2033W\ufeff / \ufeff38.9143\u00b0N 77.0214\u00b0W",
+      "Area served": "United States",
+      "President, Chief Executive Officer": "Dr. Michael L. Lomax",
+      "Revenue": "$350 million (2023)",
+      "Expenses": "$171 million (2023)",
+      "Endowment": "$154 million (2023)",
+      "Employees": "281 (2017)",
+      "Volunteers": "2,584 (2017)",
+      "Website": "uncf.org"
+    }
+  }
+}

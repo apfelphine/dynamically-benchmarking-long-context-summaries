@@ -1,0 +1,4 @@
+The Science, Mathematics, And Research For Transformation (SMART) Defense Scholarship Program was tested as a program in 2005 under the Air 
+Force Office of Scientific Research.  SMART was fully established by the National Defense Authorization Act for fiscal year 2006, and was assigned to the Navy Postgraduate School (NPS) as the managing agency in late 2005-early 2006.
+The SMART Scholarship-for-Service Program is a Department of Defense (DoD) workforce development program created to address the growing gap between America and the rest of the world in the Science, Technology, Engineering and Mathematics (STEM) disciplines.  SMART facilitates this goal by recruiting and retaining some of the best and brightest STEM candidates in the nation.
+SMART is a DoD civilian scholarship-for-service program which is a part of the National Defense Education Program (NDEP).  Like other NDEP programs, SMART is funded through the Office of the Secretary of Defense.

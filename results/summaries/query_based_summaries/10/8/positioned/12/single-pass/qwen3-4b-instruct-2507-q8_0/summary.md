@@ -1,0 +1,1 @@
+The provided text does not contain any information about education in Nigeria. It only includes a section titled "Education in Nigeria" which appears to be a duplicate or misplaced entry, as it is not present in the main content. Therefore, based on the information provided, there is no accurate summary of education in Nigeria.

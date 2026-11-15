@@ -1,0 +1,1 @@
+No information regarding "Education in Pakistan" was found in the provided text.

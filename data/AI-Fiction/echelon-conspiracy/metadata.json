@@ -1,0 +1,34 @@
+{
+  "id": 19271127,
+  "title": "Echelon Conspiracy",
+  "url": "https://en.wikipedia.org/wiki/Echelon_Conspiracy",
+  "path": "AI-Fiction\\echelon-conspiracy",
+  "summary": {
+    "chars": 475,
+    "tokens": 117
+  },
+  "document": {
+    "chars": 5360,
+    "tokens": 1140
+  },
+  "infobox": {
+    "title": "Echelon Conspiracy",
+    "data": {
+      "Directed by": "Greg Marcks",
+      "Written by": "- Michael Nitsberg - Kevin Alyn Elders",
+      "Story by": "Michael Nitsberg",
+      "Produced by": "- Steve Richards - Alexander Leyviman - Roee Sharon",
+      "Starring": "- Shane West - Edward Burns - Ving Rhames - Jonathan Pryce - Tamara Feldman - Martin Sheen",
+      "Cinematography": "Lorenzo Senatore",
+      "Edited by": "- James Herbert - Joseph Gutowski",
+      "Music by": "Bobby Tahouri",
+      "Production \u00b7 companies": "- Dark Castle Entertainment - Mobicom Entertainment - Zinc Entertainment",
+      "Distributed by": "After Dark Films",
+      "Release date": "- February 27, 2009",
+      "Running time": "105 minutes",
+      "Country": "United States",
+      "Languages": "- English - Russian",
+      "Box office": "$2.1 million"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Our Final Invention: Artificial Intelligence and the End of the Human Era is a 2013 non-fiction book by the American author James Barrat. The book discusses the potential benefits and possible risks of human-level (AGI) or super-human (ASI) artificial intelligence. Those supposed risks include extermination of the human race.

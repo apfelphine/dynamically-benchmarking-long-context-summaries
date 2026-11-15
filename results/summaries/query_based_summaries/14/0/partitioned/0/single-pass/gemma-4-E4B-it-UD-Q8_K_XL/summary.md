@@ -1,0 +1,5 @@
+**King's College London** was founded in 1829, in response to the secular nature of London University. Its establishment represented a Tory response aiming to reaffirm established educational values. The college enjoys the patronage of the monarch and has the Archbishop of Canterbury as its visitor.
+
+Historically, King's opened in 1831 with a general course that led to the first qualification issued by the college, the Associate of King's College (AKC), in 1833. The institution was affiliated with the University of London, and its first University of London degrees were awarded to King's students in 1839. In 1840, King's opened its own hospital. The college gained independent degree-awarding powers in 2006, though it remains a constituent college of the University of London.
+
+King's operates across five central London campuses: the Strand Campus, Waterloo Campus, St. Thomas' Campus, Denmark Hill Campus, and Guy's Campus. The college comprises nine academic faculties, including Arts and Humanities, Law, and Life Sciences and Medicine. Notable academic achievements include crucial contributions to the discovery of the double helix structure of DNA in 1953.

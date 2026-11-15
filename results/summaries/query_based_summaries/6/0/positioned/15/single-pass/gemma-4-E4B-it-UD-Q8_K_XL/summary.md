@@ -1,0 +1,3 @@
+Donald Knuth is a computer scientist, writer, and mathematician, known for his foundational work in the field. He developed the concepts behind "analysis of algorithms" and wrote *The Art of Computer Programming*, which he expanded into a multi-volume series. Furthermore, Knuth pioneered digital typesetting by creating TeX and Metafont, and he invented the concept of "literate programming," where programs are written as works of literature.
+
+His work has earned him numerous accolades, including the Turing Award, the National Medal of Science, and the Kyoto Prize. Knuth also authored *Concrete Mathematics: A Foundation for Computer Science*, and he has contributed to mathematics and computer science as a writer, authoring works like *Surreal Numbers*.

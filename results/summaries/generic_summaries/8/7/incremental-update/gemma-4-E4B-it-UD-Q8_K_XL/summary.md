@@ -1,0 +1,13 @@
+## Global Education Systems Comparison: Diverse Models and Challenges
+
+### International System Diversity and Trends
+Global education systems exhibit wide diversity, with nations like **Finland** emphasizing student well-being and free early education, while **Portugal** promotes universal literacy through a dual University/Polytechnic structure. Other countries face distinct hurdles, such as socioeconomic disparities in the **US**, centralization challenges in **South Africa**, and underfunding in the **Philippines**. **Malaysia** grapples with linguistic politics, and **Australia** manages a federally funded, state-controlled system incorporating the Australian Curriculum and NAPLAN.
+
+### Romanian Educational Structure and Development
+**Romania** maintains a comprehensive 14-year public compulsory education system, similar to the French model, providing free early education. Students progress based on passing the national "Evaluarea Națională" exam after the 8th grade. High school is structured with various tracks (National Colleges, Theoretical, Vocational) covering STEM, Humanities, and commerce, culminating in the rigorous, centralized **Baccalaureate exam**.
+
+### Romanian System Challenges and Realities
+Despite nearly universal literacy (0.83% illiterate in 2021), the Romanian system faces considerable obstacles. **Rural education** is particularly troubled by high dropout rates after the 8th grade due to the scarcity of local high schools, and **secondary education** suffers from underfunding (though parental contributions to class funds are currently illegal). While student autonomy in decision-making is limited and grading standards vary, the system values academic contests. Furthermore, the rise in international study has fueled a trend of "brain drain."
+
+### Higher Education and International Integration
+Romanian universities, which gained autonomy post-1990, operate under the Bologna scheme (Bachelor's $\to$ Master's $\to$ Doctorate) and adhere to ECTS, with institutions managing their own curricula. The country actively engages with Europe through programs like Erasmus, and its diplomas are recognized internationally (e.g., by the Netherlands). In higher education, international programs are available, and the Romanian member association facilitates the granting of the European Engineer title via FEANI. The teaching of religion in Romanian schools is now voluntary, as mandated by a 2014 Constitutional Court ruling.

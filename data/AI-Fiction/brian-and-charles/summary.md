@@ -1,0 +1,2 @@
+Brian and Charles is a 2022 science fiction comedy drama film directed by Jim Archer, in his feature debut, from a screenplay by David Earl and Chris Hayward, who also star in the film. The film follows an eccentric loner who creates a robotic companion.
+A feature-length adaptation of the trio's 2017 short film of the same name, Brian and Charles premiered at the 2022 Sundance Film Festival. The film was released in the United States on 17 June 2022 and in the United Kingdom on 8 July 2022.

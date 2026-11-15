@@ -1,0 +1,33 @@
+# Education Systems Overview
+
+## South Asia: Bangladesh and Pakistan  
+Bangladesh has made significant strides in education, raising literacy from about 52% in 2011 to nearly 75% in 2022 and achieving near gender parity at primary and secondary levels. Public education spending increased to 2.2% of GDP by 2007. The system spans general, vocational, and religious schools, including a strong Madrasah presence, with over 140 universities. Challenges persist, such as teacher absenteeism, rural learning gaps, dropout rates, poverty-related barriers, rote learning, and curricula misaligned with market needs. Government initiatives include free textbooks, stipends for girls, and educational programs for Rohingya refugees.
+
+Pakistan’s British-influenced system ranges from pre-school to tertiary education, with about 60.65% national literacy and notable regional, urban-rural, and gender disparities. Issues include low funding (~2% of GDP), patriarchal norms, outdated curricula, and governance weaknesses. Madrasas provide education access for low-income families. Higher education features institutions like NUST and LUMS, and reforms promote compulsory free education and vocational training, though systemic improvements require increased investment.
+
+## East Asia: South Korea and Japan  
+South Korea’s education system, shaped by Confucian heritage, has achieved over 90% literacy since the 1980s and features diverse academic and vocational tracks, including Meister Schools modeled on German apprenticeships. English proficiency is heavily emphasized through private tutoring. Despite strong academic outcomes, the system faces intense student pressure, mental health issues, and socioeconomic inequalities. Recent reforms target competency-based curricula, private academy regulation, and expanding student choice to balance competitiveness and equity.
+
+Japan follows a 6-3-3-4 structure with nine years of compulsory schooling and mandatory English instruction. High-stakes entrance exams drive widespread use of cram schools (“juku”). Public upper secondary education is tuition-free since 2010, though private costs remain high. Inclusive education policies have enhanced disability support. Japan consistently ranks highly in global academic assessments but confronts challenges with bullying and student mental health.
+
+## Europe: Russia, Poland, Czech Republic, Netherlands  
+Russia offers centralized compulsory education through nine years, with a high completion rate (~96%) and over half the population holding tertiary degrees, surpassing OECD averages. Reforms aligned with the Bologna Process have modernized higher education, despite limited recognition of bachelor’s degrees. The system supports indigenous languages and inclusion of disabled students, alongside patriotic education initiatives emphasizing traditional values and Russian language for foreigners.
+
+Poland mandates 12 years of education through general, technical, and vocational tracks culminating in the Matura exam. Following Bologna standards, the system stresses foreign languages and has intensified nationalism in history curricula. Policies like “zero tolerance” on school violence have contributed to strong OECD performance in reading, science, and math.
+
+The Czech Republic’s nine-grade elementary education leads to secondary vocational, professional, or grammar schools and the maturita exam for university entrance. Public universities offer tuition-free education for Czech-speaking students, with private options available. Special education is integrated into mainstream settings.
+
+The Netherlands compels schooling from ages 5 to 18, starting with elementary education focused on literacy, numeracy, and early English. Secondary education branches into vocational, general, and academic tracks. Post-secondary options include vocational MBOs, academic HBO colleges, and WO universities aligned with Bologna standards. Early tracking raises socioeconomic concerns amid recent declines in literacy and numeracy results.
+
+## Americas: Canada and Mexico  
+Canada’s decentralized education varies provincially, with primary education starting around age 5 through Grade 12 (or Grade 11 plus CEGEP in Quebec). The system includes publicly funded religious and minority-language schools with funding disparities. Post-secondary education features universities and vocational institutions prioritizing equity for Indigenous and disadvantaged groups, while private schooling comprises about 6% enrollment.
+
+Mexico provides education from early childhood through compulsory preparatoria, incorporating bilingual, vocational, and distance learning tracks. While primary attendance is around 90%, secondary completion is lower (~45%). Mexican students score below OECD averages, prompting reforms aimed at reducing teacher union power since 2013. Free textbooks incorporate national cultural content. Higher education models reflect U.S. and European influences, promoting indigenous inclusion through intercultural universities. Regional inequalities and union challenges remain.
+
+## Middle East: Saudi Arabia  
+Saudi Arabia’s government-regulated system, grounded in Islamic tradition, spent about 5.1% of GDP on education in 2006. It offers free compulsory primary schooling and expanding higher education with over 24 universities and distance learning options. Female education has surged, now comprising two-thirds of university graduates, though labor participation remains low. Reforms focus on teacher training, curriculum modernization emphasizing critical thinking and English, and removing intolerant religious content. Gifted and special education programs exist but face resource constraints. Private and international schools operate under cultural norms, including gender segregation.
+
+## Oceania: New Zealand  
+New Zealand mandates schooling from ages 6 to 16, with free education through age 19 and an academic year spanning 13 levels. It features dual curricula: the English-medium New Zealand Curriculum and the Māori-medium Te Marautanga o Aotearoa, both emphasizing language and cultural learning. Māori language revitalization efforts include immersion schools, though over 60% of Māori students lack Māori language instruction. About 85% attend state schools, with state-integrated and private schools enrolling fewer students.
+
+Tertiary education involves public subsidies and student fees, with concerns over rising costs prompting graduate emigration. International assessments show mixed academic outcomes, with Māori and Pacific Island students trailing. Bullying remains a critical issue despite government initiatives, hindered by inconsistent school policies.

@@ -1,0 +1,7 @@
+## Education in Finland
+
+The history of education in Finland traces back to the Lutheranism connection to literacy, with the first university established in 1640. The system evolved significantly, moving from early forms under Swedish rule to the *kansakoulu* ("people's school") in the 19th century. Mandatory attendance for *kansakoulu* was established in 1921, and free school lunches became mandatory in 1948. The traditional system was phased out between 1972 and 1977 in favor of the modern structure, which mandates comprehensive education from grades 1 to 9. After age 15, students bifurcate into academic (*lukio*) and vocational tracks (*ammattioppilaitos*).
+
+Finnish early childhood education, lasting until age 7, emphasizes individuality and social skills development through play, rather than formal instruction in reading and mathematics. Access to free universal daycare (ages eight months to five years) has been in place since 1990. The compulsory educational system now extends to ages 7 to 18, incorporating upper secondary school or vocational school. Key aspects include small class sizes, the expectation for students to learn two languages besides the school language, and a relaxed, informal school atmosphere with minimal homework. Furthermore, both primary and secondary teachers must hold a master's degree.
+
+**Note:** Information regarding other countries (United States, Portugal, etc.) has been strictly excluded per the instructions.

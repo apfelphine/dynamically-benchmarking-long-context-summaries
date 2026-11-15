@@ -1,0 +1,1 @@
+The provided text does not contain information regarding education in Pakistan. The document exclusively covers educational systems in Canada, the Czech Republic, Bangladesh, Poland, Saudi Arabia, New Zealand, Russia, Mexico, South Korea, Japan, the Netherlands, and the United States. Consequently, no summary can be generated based strictly on the provided text.

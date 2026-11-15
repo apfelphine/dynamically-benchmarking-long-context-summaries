@@ -1,0 +1,21 @@
+{
+  "id": 48416,
+  "title": "Gottlob Frege",
+  "url": "https://en.wikipedia.org/wiki/Gottlob_Frege",
+  "path": "Comp-Sci-Pioneers\\gottlob-frege",
+  "summary": {
+    "chars": 1306,
+    "tokens": 305
+  },
+  "document": {
+    "chars": 21424,
+    "tokens": 5202
+  },
+  "infobox": {
+    "title": "Gottlob Frege",
+    "data": {
+      "Born": "8 November 1848 \u00b7 Wismar, Grand Duchy of Mecklenburg-Schwerin, German Confederation",
+      "Died": "26 July 1925 (aged 76) \u00b7 Bad Kleinen, Free State of Mecklenburg-Schwerin, German Reich"
+    }
+  }
+}

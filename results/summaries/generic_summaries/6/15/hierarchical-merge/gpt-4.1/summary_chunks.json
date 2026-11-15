@@ -1,0 +1,37 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Engineering, Logic, and Information Theory\nVisionary innovators including Ismail al-Jazari, George Antheil (with Hedy Lamarr), Lynn Conway, George Boole, Claude Shannon, Kurt G\u00f6del, and Federico Faggin have fundamentally shaped mechanical engineering, wireless technology, VLSI chip design, Boolean algebra, information theory, and microelectronics. Faggin\u2019s invention of silicon-gate technology and the first microprocessor, alongside advancements in touch and imaging technologies, echo the continued impact of foundational contributions in computing, electronics, and mathematical research.",
+        "text_original": "Visionary innovators including Ismail al-Jazari, George Antheil (with Hedy Lamarr), Lynn Conway, George Boole, Claude Shannon, Kurt G\u00f6del, and Federico Faggin have fundamentally shaped mechanical engineering, wireless technology, VLSI chip design, Boolean algebra, information theory, and microelectronics. Faggin\u2019s invention of silicon-gate technology and the first microprocessor, alongside advancements in touch and imaging technologies, echo the continued impact of foundational contributions in computing, electronics, and mathematical research",
+        "idx_start": 63,
+        "idx_end": 612
+    },
+    {
+        "document_idx": null,
+        "text": "# Founders and Pioneers in Programming and Systems Design\nDonald Knuth, Kenneth E. Iverson, Edsger W. Dijkstra, Per Brinch Hansen, and Grace Hopper established key principles for programming languages, software engineering, and operating systems. Knuth\u2019s work in algorithms, Iverson\u2019s language innovations, Dijkstra\u2019s advocacy for structured programming, Brinch Hansen\u2019s development of concurrent programming languages and remote procedure calls, and Hopper\u2019s invention of the compiler and COBOL collectively underpin modern software design, methodologies, and education, with their work widely recognized and commemorated.",
+        "text_original": "Donald Knuth, Kenneth E. Iverson, Edsger W. Dijkstra, Per Brinch Hansen, and Grace Hopper established key principles for programming languages, software engineering, and operating systems. Knuth\u2019s work in algorithms, Iverson\u2019s language innovations, Dijkstra\u2019s advocacy for structured programming, Brinch Hansen\u2019s development of concurrent programming languages and remote procedure calls, and Hopper\u2019s invention of the compiler and COBOL collectively underpin modern software design, methodologies, and education, with their work widely recognized and commemorated",
+        "idx_start": 675,
+        "idx_end": 1239
+    },
+    {
+        "document_idx": null,
+        "text": "# Innovators in Artificial Intelligence, Cognitive Science, and Logic\nGroundbreaking advances in AI and cognitive theory by Geoffrey Hinton and Herbert A. Simon have driven current deep learning methods and decision science, bridging computation with aspects of human reasoning. Gottlob Frege\u2019s foundational work in logic and the philosophy of mathematics deeply influenced analytic philosophy and formal logic, despite personal controversies. George Boole and Kurt G\u00f6del\u2019s contributions established the underpinnings of mathematical logic, formal systems, and the limits therein.",
+        "text_original": "Groundbreaking advances in AI and cognitive theory by Geoffrey Hinton and Herbert A. Simon have driven current deep learning methods and decision science, bridging computation with aspects of human reasoning. Gottlob Frege\u2019s foundational work in logic and the philosophy of mathematics deeply influenced analytic philosophy and formal logic, despite personal controversies. George Boole and Kurt G\u00f6del\u2019s contributions established the underpinnings of mathematical logic, formal systems, and the limits therein",
+        "idx_start": 1314,
+        "idx_end": 1823
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Mathematics, Philosophy, and Interdisciplinary Thought\nAl-Khwarizmi established algebra as a distinct discipline, advanced numerals, and made lasting contributions to astronomy and geography, shaping modern scientific vocabulary. Ramon Llull\u2019s combinatorial logic bridged philosophy and computer science, while Jacek Karpi\u0144ski engineered advanced computing systems in adverse conditions. These figures exemplify the intersections of philosophy, mathematics, and technology, continuing to influence both cultural and technical domains.",
+        "text_original": "Al-Khwarizmi established algebra as a distinct discipline, advanced numerals, and made lasting contributions to astronomy and geography, shaping modern scientific vocabulary. Ramon Llull\u2019s combinatorial logic bridged philosophy and computer science, while Jacek Karpi\u0144ski engineered advanced computing systems in adverse conditions. These figures exemplify the intersections of philosophy, mathematics, and technology, continuing to influence both cultural and technical domains",
+        "idx_start": 1897,
+        "idx_end": 2375
+    },
+    {
+        "document_idx": null,
+        "text": "# Legacy and Cultural Impact\nKey innovators such as Grace Hopper and Lynn Conway have promoted inclusion, mentorship, and readable programming, helping craft the culture of technology and expanding educational outreach. Their legacies endure through institutions, awards, and events dedicated to advancing diversity and innovation in STEM fields.",
+        "text_original": "Key innovators such as Grace Hopper and Lynn Conway have promoted inclusion, mentorship, and readable programming, helping craft the culture of technology and expanding educational outreach. Their legacies endure through institutions, awards, and events dedicated to advancing diversity and innovation in STEM fields",
+        "idx_start": 2409,
+        "idx_end": 2725
+    }
+]

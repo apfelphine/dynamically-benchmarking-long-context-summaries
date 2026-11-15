@@ -1,0 +1,1 @@
+Tau is a 2018 science fiction thriller film directed by Federico D'Alessandro from a screenplay by Noga Landau. A multinational collaborative project between the United States, Canada, Serbia, and the Czech Republic, the film stars Maika Monroe, Ed Skrein, and Gary Oldman in the main roles, and was released on June 28, 2018, by Netflix, to generally negative reviews.

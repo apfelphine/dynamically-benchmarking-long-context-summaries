@@ -1,0 +1,65 @@
+# General Data Protection Regulation (GDPR)
+
+## Scope and General Provisions
+The GDPR 2016 applies if the data controller, processor, or data subject is located within the EU, or in certain circumstances, if an organization outside the EU collects or processes data of EU individuals. It excludes purely personal or household activities. Personal data is defined as information relating to an identified or identifiable individual. The regulation establishes a unified set of rules across all EU member states, which each maintain an independent Supervisory Authority (SA). The European Data Protection Board (EDPB) coordinates these SAs, functioning as a "one-stop shop" for businesses operating across the EU.
+
+Article 48 restricts the recognition of judicial or administrative decisions from third countries compelling the disclosure of EU personal data unless based on an international agreement. Non-EU entities subject to the GDPR must appoint an EU-based representative (Article 27), unless their processing is occasional and low-risk. Transfers of personal data outside the EEA ("third countries") require appropriate safeguards or an adequacy decision by the European Commission.
+
+## Principles, Lawful Basis, and Subject Rights
+Article 5 mandates that data processing must be lawful, fair, transparent, purpose-limited, data-minimized, accurate, and confidential. Lawful processing requires a legal basis, which can include explicit consent, fulfilling contractual obligations, complying with legal duties, vital interests, public interest, or legitimate interests. Consent must be specific, freely given, and unambiguous, and data subjects can withdraw it easily.
+
+Data subjects possess several key rights: the right of access (Article 15) to see their data and processing details; the right to data portability (Article 20); the right to erasure (Article 17); and the right to object to processing for marketing purposes (Article 21). Controllers must ensure transparency in clear, accessible language (Article 12).
+
+## Controller and Processor Obligations
+Data controllers must clearly disclose data collection methods, the lawful basis, retention periods, and third-party sharing. They must implement "data protection by design and by default" (Article 25). Controllers must report data breaches to supervisory authorities within 72 hours if they pose an adverse risk to privacy (Article 33). Data processors are liable for breaches resulting from violating specific GDPR obligations or acting outside the controller’s lawful instructions.
+
+Records of processing activities (Article 30) must be maintained based on criteria such as company size or the risk involved in the processing. Pseudonymization, which transforms data so it cannot be linked back to an individual without separate information, is a recommended privacy-enhancing technology.
+
+## Remedies, Liability, and Enforcement
+Individuals who suffer material or non-material damage due to a GDPR infringement have the right to compensation (Article 82). Penalties for noncompliance are severe, ranging from a warning to fines of up to €20 million or 4% of global annual turnover, whichever is greater, depending on the nature of the violation.
+
+## Applicability Outside the EU and UK Status
+The GDPR has extraterritorial reach if non-EU entities offer goods/services to, or monitor the behavior of, EU individuals. In the UK, post-Brexit, the GDPR was transposed into the "UK GDPR," and the UK now acts as a third country under EU GDPR.
+
+***
+
+# Accelerationism & Transhumanism
+
+## Accelerationism
+Accelerationism is a multifaceted philosophy, historically divided into waves. Early influences include French post-Marxists like Deleuze and Guattari, whose concept of "desiring-production" views desire as a productive energy flow. Accelerationists advocate for riding or accelerating forces of capitalist production, with some embracing this as a path to destabilizing capitalism itself.
+
+The movement features variants: Right-wing accelerationism (espoused by Nick Land) champions unregulated, exponentially growing capitalism as an engine of exploration. Left-wing accelerationism (e.g., Srnicek and Williams) seeks to use and accelerate existing capitalist infrastructure to democratize productive technologies and move beyond capitalism. Concepts like "Prometheanism" celebrate technology's power to transcend human limits, while "hyperstition" suggests that future-oriented beliefs can causally shape present realities.
+
+## Transhumanism and Technological Singularity
+Transhumanism is a movement advocating for the fundamental improvement of the human condition through science and technology. It draws from precursors like Dante's *trasumanar* and the 1923 work of J. B. S. Haldane, with Julian Huxley widely regarded as its founder. Modern transhumanism, particularly via the World Transhumanist Association, defines itself as seeking a "posthuman condition" through directed evolution.
+
+The concept of the Technological Singularity—the hypothetical point where superintelligence emerges—was theorized by I. J. Good in 1965 and popularized by Vernor Vinge (1983). Proponents like Ray Kurzweil predict this event by 2045, based on the "law of accelerating returns." Critiques range from philosophical doubts about its inevitability (Pinker, Lanier) to concerns about ethical risks, such as uncontrollable AI goal structures leading to human extinction (Bostrom).
+
+## AI Ethics and Governance
+AI ethics encompasses Machine Ethics (designing morally behaving AI) and Robot Ethics (how humans construct and treat robots). Key debates include whether AI should have rights, which is often countered by arguments that rights require sentience. Ethical principles often cited include transparency, fairness, and non-maleficence.
+
+Regulatory responses are global: the EU's AI Act uses a risk-based approach, while the US has employed a series of executive orders and proposed acts to guide development. Societal risks include algorithmic biases (affecting race, gender, and political leanings due to flawed training data) and the environmental impact of massive AI data centers.
+
+***
+
+# Deepfakes and Digital Trust
+
+## Technology and Mechanics
+Deepfakes leverage neural networks, particularly autoencoders and Generative Adversarial Networks (GANs), to synthesize realistic media by mapping features from a source onto a target. This technology has evolved from early video manipulation to highly realistic audio and full-body synthetic generation.
+
+Deepfakes pose a profound "epistemic threat" by undermining the ability to verify reality, leading to concerns about the credibility of all digital media. Detection methods involve looking for subtle artifacts in video and audio signals, though this remains a "moving goal post" due to rapid technological advancement.
+
+## Societal and Malicious Applications
+The technology's applications span creative fields (acting, art, satire) to serious abuses. Malicious uses include large-scale financial fraud (estimated at $40 billion over three years), political disinformation campaigns, and the widespread creation of non-consensual intimate pornography, disproportionately targeting women and minorities.
+
+The proliferation of deepfakes has spurred legislative action globally, with jurisdictions like the EU (AI Act), the UK (Online Safety Act), and various US states passing laws to ban or regulate malicious use. Countermeasures involve social media platforms implementing flags and removal policies, alongside calls for enhanced media literacy and technological authentication (e.g., digital watermarking).
+
+***
+
+# Other Topics
+
+## John L. Pollock
+John L. Pollock was an epistemologist known for establishing the importance of **defeasible reasoning**—conditions that can admit exceptions—in philosophy, moving the mainstream conversation beyond strictly "justified true belief" models (like the Gettier problem). His work significantly impacted artificial intelligence, as he developed the **OSCAR** software prototype, an "interest-based" reasoner embodying his concepts of intention and strategic problem-solving. His research also delved into **Nomic Probability**, linking defeasible reasoning to statistical inference.
+
+## Terminator: Dark Fate
+The film *Terminator: Dark Fate* features a storyline where a futuristic soldier, Grace, protects the future resistance leader, Dani Ramos, from the advanced Terminator, Rev-9, sent by the rogue AI, Legion. The narrative features Arnold Schwarzenegger's T-800, Carl, who gains autonomy and conscience. The production involved major creative shifts, including the decision to kill the character John Connor early in the film, which drew mixed critical reception; while visually ambitious, the film was a box-office failure.

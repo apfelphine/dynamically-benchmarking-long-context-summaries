@@ -1,0 +1,5 @@
+## Education in Finland
+
+Finnish education historically developed from the basic "pedagogio" under Swedish rule into the *kansakoulu* ("people's school") in the 19th century. Literacy became a national priority, reaching 97.6% by 1880, and mandatory attendance in the *kansakoulu* was established in 1921. Free school lunches became mandatory in 1948.
+
+The modern system mandates nine years of compulsory education through a comprehensive school (*peruskoulu*), covering grades 1 to 9. After age 15, the system bifurcates into academic (*lukio*) or vocational (*ammattioppilaitos*) tracks at both secondary and tertiary levels. Education emphasizes holistic development, with early childhood education focusing on play-based learning to foster a "learn how to learn" culture. Teachers must hold a master's degree, and the system is highly decentralized, with municipalities funding and administering most schools. The national curriculum framework, introduced in 2016, mandates phenomenon-based learning alongside traditional instruction.

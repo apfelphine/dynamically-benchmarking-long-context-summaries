@@ -1,0 +1,28 @@
+{
+  "id": 10597563,
+  "title": "Edward J. McCluskey",
+  "url": "https://en.wikipedia.org/wiki/Edward_J._McCluskey",
+  "path": "Comp-Sci-Pioneers\\edward-j-mccluskey",
+  "summary": {
+    "chars": 159,
+    "tokens": 40
+  },
+  "document": {
+    "chars": 4326,
+    "tokens": 915
+  },
+  "infobox": {
+    "title": "Edward J. McCluskey",
+    "data": {
+      "Born": "October 16, 1929 \u00b7 New York City, New York, U.S.A.",
+      "Died": "February 13, 2016 (aged 86) \u00b7 Palo Alto, California, U.S.A.",
+      "Alma mater": "Massachusetts Institute of Technology",
+      "Known for": "Quine\u2013McCluskey algorithm",
+      "Children": "Rosemary McCluskey, Therese McCluskey, Joseph McCluskey, Kevin McCluskey, David McCluskey",
+      "Fields": "Electrical engineering",
+      "Thesis": "Algebraic Minimization and the Design of Two-Terminal Contact Networks (1956)",
+      "Doctoral advisor": "Samuel H. Caldwell",
+      "Notable students": "Alvy Ray Smith \u00b7 Janusz Brzozowski"
+    }
+  }
+}

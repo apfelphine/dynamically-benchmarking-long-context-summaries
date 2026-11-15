@@ -1,0 +1,36 @@
+{
+  "id": 1868369,
+  "title": "Hunters of Dune",
+  "url": "https://en.wikipedia.org/wiki/Hunters_of_Dune",
+  "path": "AI-Fiction\\hunters-of-dune",
+  "summary": {
+    "chars": 869,
+    "tokens": 191
+  },
+  "document": {
+    "chars": 7696,
+    "tokens": 1770
+  },
+  "infobox": {
+    "title": "Hunters of Dune",
+    "data": {
+      "Authors": "Brian Herbert \u00b7 Kevin J. Anderson",
+      "Audio read by": "Scott Brick",
+      "Cover artist": "Stephen Youll",
+      "Language": "English",
+      "Series": "Dune series",
+      "Genre": "Science fiction",
+      "Published": "2006",
+      "Publisher": "Tor Books",
+      "Publication place": "United States",
+      "Media type": "Print (hardcover & paperback)",
+      "Pages": "528",
+      "ISBN": "0-7653-1292-1",
+      "OCLC": "65538555",
+      "Dewey Decimal": "813.54",
+      "LC Class": "PS3558.E617 H86 2006",
+      "Preceded by": "Chapterhouse: Dune",
+      "Followed by": "Sandworms of Dune"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 194034,
+  "title": "Miss America",
+  "url": "https://en.wikipedia.org/wiki/Miss_America",
+  "path": "Scholarships\\miss-america",
+  "summary": {
+    "chars": 819,
+    "tokens": 183
+  },
+  "document": {
+    "chars": 32561,
+    "tokens": 7355
+  },
+  "infobox": {
+    "title": "Miss America",
+    "data": {
+      "Type": "Beauty pageant",
+      "Headquarters": "Wellington, Florida",
+      "Country represented": "United States",
+      "First edition": "1921",
+      "Most recent edition": "2026",
+      "Current titleholder": "Cassie Donegan \u00b7 New York",
+      "CEO": "Robin Ross-Fleming",
+      "Language": "English",
+      "Predecessor": "The Fall Frolic \u00b7 (held in September 25, 1920 in Atlantic City, New Jersey)",
+      "Website": "www.missamerica.org"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5698,
+  "title": "Charles Babbage",
+  "url": "https://en.wikipedia.org/wiki/Charles_Babbage",
+  "path": "Comp-Sci-Pioneers\\charles-babbage",
+  "summary": {
+    "chars": 1612,
+    "tokens": 335
+  },
+  "document": {
+    "chars": 44670,
+    "tokens": 9635
+  },
+  "infobox": {
+    "title": "Charles BabbageKH FRS",
+    "data": {
+      "Born": "26 December 1791 \u00b7 London, England",
+      "Died": "18 October 1871 (aged 79) \u00b7 Marylebone, London, England",
+      "Alma mater": "Peterhouse, Cambridge",
+      "Known for": "Analytical engine \u00b7 Difference engine",
+      "Spouse": "Georgiana Whitmore \u200b (m. 1814; died 1827)\u200b",
+      "Children": "8, including Benjamin Herschel Babbage and Henry Prevost Babbage",
+      "Relatives": "William Wolryche-Whitmore (brother-in-law)",
+      "Awards": "Gold Medal of the Royal Astronomical Society (1824)",
+      "Fields": "Mathematics, engineering, political economy, computer science",
+      "Institutions": "Trinity College, Cambridge, Peterhouse, Cambridge"
+    }
+  }
+}

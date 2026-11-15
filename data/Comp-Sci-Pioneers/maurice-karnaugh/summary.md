@@ -1,0 +1,1 @@
+Maurice Karnaugh (/ˈkɑːrnɔː/; October 4, 1924 – November 8, 2022) was an American physicist, mathematician, computer scientist, and inventor known for the Karnaugh map used in Boolean algebra.

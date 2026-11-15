@@ -1,0 +1,1 @@
+The Siebel Scholars program was established by the Thomas and Stacey Siebel Foundation in 2000 to recognize the most talented students at graduate schools of business, computer science, bioengineering, and energy science in the United States, China, France, Italy, and Japan.

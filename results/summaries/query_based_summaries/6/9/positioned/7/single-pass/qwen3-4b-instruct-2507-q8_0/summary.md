@@ -1,0 +1,15 @@
+Jacek Karpiński was a Polish computer engineer and alpinist born in 1927 in Turin, Italy. His father, Adam Karpiński, was a prominent aeronautic engineer and inventor, while his mother, Wanda Czarnocka-Karpińska, was a respected physician and later Dean of the University of Physical Education in Warsaw. The family moved to Warsaw in 1934, and Karpiński's father died in 1939 during an expedition to the Himalayas.
+
+During World War II, Karpiński joined the Gray Ranks, a Polish underground paramilitary organization, and participated in numerous field operations, including the Warsaw Uprising. He was awarded the Cross of Valour three times. After the war, he completed high school and earned a degree from the Warsaw University of Technology in 1951.
+
+Karpiński's career in computer science began with the development of the AAH — Analytical Analyzer of Harmonics, a device to calculate Fourier integrals, which improved weather forecasts by 10%. His breakthrough achievement was the construction of AKAT-1, the world's first differential equations analyzer based on transistors. The machine was praised for its aesthetic design and technical innovation, and its panel was designed by leading Polish artists.
+
+In 1960, Karpiński was awarded a UNESCO scholarship to study in the United States, where he visited major technological centers and met leading computer scientists. Inspired by his American experience, he later designed the perceptron, one of the first such devices in the world and the first known in the Communist bloc.
+
+In 1970, Karpiński founded the Microcomputers' Construction Plant (Zakład Budowy Mikrokomputerów) to develop the K-202, a minicomputer with original architecture. The K-202 was innovative in many aspects, including its use of memory segmentation with paging and floating point representation. Despite technical excellence, the project never reached mass production due to political and administrative obstacles, including resistance from established computer manufacturers and a lack of political will.
+
+After the failure of the K-202 project, Karpiński moved to Switzerland in 1981 to work on Nagra tape recorders. In the 1990s, he served as an advisor on computer science to Andrzej Olechowski and Leszek Balcerowicz. He was awarded the Officer's Cross of Polonia Restituta in 2009 and the Commander's Cross of Polonia Restituta in 2010.
+
+Karpiński faced controversy for working as a secret informant for the Służba Bezpieczeństwa (Polish security service) from 1961 onward, collecting technological data on American facilities. The scale and nature of his cooperation remain debated, with some historians claiming it was influenced by naivety and others suggesting it was a form of espionage.
+
+He died on 21 February 2010 in Wrocław, Poland. Karpiński is remembered as a pioneering figure in Polish computer engineering, known for his innovative contributions to early computing and his significant impact on the development of computer systems in Poland.

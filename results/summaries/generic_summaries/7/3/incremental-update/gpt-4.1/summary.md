@@ -1,0 +1,24 @@
+## Summary
+
+### Germany
+Germany’s education system offers multiple pathways—Gymnasium (university-preparatory), Realschule (intermediate), Hauptschule (vocational), Gesamtschule (comprehensive), and Sonderschule (special needs)—coordinated by federal and state authorities. Socioeconomic factors influence tracking and equity. The Duale Ausbildung model supports strong vocational training. Higher education is tuition-free and widely accessible, with extensive financial aid and international programs. Ongoing reforms target standardized assessment, inclusion, discipline, alternatives to traditional schooling, and equity for disadvantaged and immigrant students.
+
+### Greece
+Greek education features six years of primary school, followed by Gymnasium and Lykeio academic, vocational, and specialized tracks, plus vocational schools and apprenticeships. National standards are upheld via Pan-Hellenic Exams, with compulsory English instruction and EU grading. Reform is ongoing due to corruption, tuition debates, school closures, and disparities in access and quality.
+
+### China
+China mandates nine years of compulsory schooling, leading to academic or vocational senior secondary tracks after Zhongkao exams. Vocational education is expanding but faces dropout and funding challenges. Private and international schools are strictly regulated for equity. Higher education prioritizes global orientation and accessibility, tuition-free for most domestic students. Curriculum stresses entrepreneurship, Marxist theory, inclusion, and teacher development. Persistent gaps exist by region, gender, and ethnicity, with migrant and left-behind children at a disadvantage. Urban schools remain better resourced while policy efforts target equity and access. China records higher adult and youth literacy rates compared to India.
+
+### India
+India’s 10+2 system includes government, aided, and private institutions, overseen by central and state authorities. Government schools provide free education up to age 14, while private options often yield better outcomes, especially for the urban poor. Persistent challenges include teacher absenteeism, accountability issues, and educational disparities by gender, region, and caste. Female literacy, dropout rates, and rural education remain underfunded.
+
+Government programs—Saakshar Bharat Mission, Sarva Shiksha Abhiyan, minority schemes, and scholarships—focus on foundational literacy, nutrition, and access for marginalized groups. The 86th Amendment made education a right (ages 6–14), and NEP 2020 introduced the "5+3+3+4" structure, mother tongue emphasis, and an expansive vision from early childhood to vocational training. However, spending targets remain unmet and gaps between policy and practice persist.
+
+NEP 2020 further overhauls the system with graded exams, flexible multidisciplinary bachelor’s programs, multiple exit points, and activity-based curricula, advocating inclusion and progressive learning. Nonetheless, ambiguities in inclusive education, quality concerns, corruption, skills gaps, burdens of coaching institutes, and continued inequities challenge outcomes—indicated by international assessments and COVID-19 impacts. Oversight agencies (UGC, AICTE) support the third-largest higher education system globally, but variable quality and equity remain problematic.
+
+#### Literacy Rates
+India’s adult literacy rate is 73.4%, below the global average of 87.2%, and its youth literacy rate is 84.2%, also below the global 90.5%. Countries such as China, Russia, and Sri Lanka have higher rates, while Bangladesh and Sub-Saharan Africa remain lower, highlighting persistent international disparities.
+
+---
+
+This summary outlines education systems in key countries, ongoing reforms, challenges, and the global context of literacy disparities.

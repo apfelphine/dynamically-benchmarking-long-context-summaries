@@ -1,0 +1,23 @@
+{
+  "id": 21122914,
+  "title": "China Scholarship Council",
+  "url": "https://en.wikipedia.org/wiki/China_Scholarship_Council",
+  "path": "Scholarships\\china-scholarship-council",
+  "summary": {
+    "chars": 517,
+    "tokens": 94
+  },
+  "document": {
+    "chars": 2617,
+    "tokens": 474
+  },
+  "infobox": {
+    "title": "China Scholarship Council",
+    "data": {
+      "Formation": "1996",
+      "Headquarters": "Beijing",
+      "Parent organization": "Ministry of Education",
+      "Website": "www.csc.edu.cn"
+    }
+  }
+}

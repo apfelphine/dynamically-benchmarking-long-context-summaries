@@ -1,0 +1,16 @@
+**Neural Network Architectures: Function, Types, and Applications**
+
+**Generative Models and Discriminative Approaches**
+Generative models, such as **Generative Adversarial Networks (GANs)**, have evolved significantly since 2017. The core GAN framework pits a **generator** ($\mu_G$) against a **discriminator** ($\mu_D$) in a minimax game. Early GANs used Jensen-Shannon divergence but suffered from issues like **Mode Collapse** and **Vanishing Gradient**. To address stability, **Wasserstein GANs (WGANs)** utilize the Wasserstein metric ($W_1$), which provides superior gradient signals. Training WGANs requires the discriminator to have a bounded Lipschitz norm, enforced through methods like **weight clipping**, **spectral normalization**, using $\tanh$ activations with bounded derivatives, or by adding a **gradient penalty** term to the loss function. GAN variants include **Conditional GANs (cGANs)**, **InfoGAN**, **AAE**, **CycleGAN** (for unpaired translation), and **BigGAN** (for high-resolution synthesis). Other specialized models like **Bidirectional GANs (BiGANs)** and **SinGAN** exist, with evaluations often using FID and IS. GANs find applications across **science**, **medicine**, **art/fashion**, **3D reconstruction**, and deepfakes.
+
+**Transformers and Attention**
+The Transformer architecture relies on Scaled Dot-Product and Multihead Attention for parallel processing and comes in **Encoder-Only** (e.g., BERT), **Decoder-Only** (e.g., GPT), and **Encoder-Decoder** (e.g., T5) configurations. Efficiency improvements include **KV Caching**, **FlashAttention**, and advanced attention variants (MQA/GQA/MLA). Positional information is handled by mechanisms like **RoPE** and **ALiBi**, while $O(N^2)$ scaling is managed by techniques such as Reformer.
+
+**Vision and Spatial Processing (CNNs, ViT, and Generative Models)**
+In vision, **Convolutional Neural Networks (CNNs)** leverage local connectivity, whereas the **Vision Transformer (ViT)** employs self-attention across image patches for global context, often integrated with GANs and diffusion models. Advanced vision models include the **Swin Transformer** (using shifted window attention), **Masked Autoencoder (MAE)** for self-supervised learning, **DINO** (teacher-student distillation), and **TimeSformer** for video analysis.
+
+**Graph and Sequential Data Processing (GNNs and RNNs)**
+**Graph Neural Networks (GNNs)** are specialized for graph data, employing permutation-equivariant layers and skip connections to mitigate oversmoothing, notably in protein folding. For sequential data, **Recurrent Neural Networks (RNNs)**, such as LSTMs and GRUs, maintain context via internal hidden states.
+
+**Model Interpretability**
+Understanding model decisions is achieved through saliency mapping, which utilizes both gradient-based techniques (e.g., **CAM**, **Grad-CAM**) and non-gradient approaches (e.g., Guided Grad-CAM and Score-CAM).

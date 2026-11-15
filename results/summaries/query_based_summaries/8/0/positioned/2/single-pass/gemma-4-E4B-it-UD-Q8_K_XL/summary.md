@@ -1,0 +1,9 @@
+The provided text contains extensive information regarding Education in the Philippines, Education in the United States, Education in Malaysia, Education in Romania, Education in Finland, Education in Australia, and Education in South Africa. Since the task requires a summary focused *exclusively* on "Education in the United States," the following summary is generated from that source material.
+
+***
+
+**Education in the United States**
+
+The U.S. education system is governed by a shared power structure involving federal, state, and local governments, with states exercising the most control. Education is compulsory for all children, with mandatory age varying from 14 to 18 years old. Formal education generally encompasses elementary school (grades K/1–6) and secondary school (grades 9/10–12), with some students pursuing vocational or adult education. The system includes a diverse array of institutions, ranging from public schools to numerous private, religious, and for-profit universities.
+
+The system is marked by significant socioeconomic disparities, as the racial achievement gap persists, with Black and Hispanic students often scoring lower on standardized tests compared to Asian and Caucasian students. While the nation has seen an increase in college graduates, the high cost of education, coupled with rising student loan debt, presents a major issue. Furthermore, the reliance on standardized testing has drawn criticism for potentially reflecting systemic inequities rather than purely academic ability. The U.S. also grapples with teacher shortages, low teacher retention, and concerns over the impact of the COVID-19 pandemic on learning inequality.

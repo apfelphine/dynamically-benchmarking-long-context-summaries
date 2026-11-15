@@ -1,0 +1,9 @@
+**King's Scholar** has different meanings across various institutions:
+
+*   **Eton College:** A King's Scholar (also known as a "Colleger" or "tug") is a student who passes the College Election examination and is awarded a Foundation Scholarship, admitting them to the original house within the ancient college buildings. Historically, this was a full waiver of fees, though since the 1960s, the scholarship is increasingly subject to means testing, meaning fees may be partially or wholly waived based on financial circumstances. They are distinguished by wearing a black academic gown over the school uniform.
+*   **King's School, Ely:** King's Scholarships are awarded annually to twelve high-achieving boys and, since 1973, twelve high-achieving girls based on GCSE grades. Scholars participate in traditions like the annual "Hoop Trundle" and are admitted as members of the Cathedral foundation.
+*   **King's School, Canterbury:** Students are recognized as King's Scholars for taking the scholarship exam or achieving exceptional GCSE grades (usually more than 9 A\*). They have the right to wear a white gown during cathedral services and are admitted to the society.
+*   **King's School, Worcester:** This is the highest scholarship and is awarded for academic or musical attainment, often accompanying a reduction in school fees. Scholars are initiated into the Worcester Cathedral Foundation.
+*   **King's College Cambridge:** The term "King's Scholar" is also used for undergraduates who achieve first-class degrees, receiving a prize of £350 and attending a ceremony in the King's College Chapel.
+
+Historically, King Edward II established the first King's Scholars at the University of Cambridge on July 7, 1317.

@@ -1,0 +1,11 @@
+## King's College London: Overview
+
+King's College London, founded in 1829, is one of the UK's leading research universities with deep roots in the heart of London. Originally established in response to the secular founding of "London University" (now UCL), King's maintains strong links to the Church of England and enjoys royal patronage. Over time, the institution expanded and merged with several colleges and medical schools, evolving into a comprehensive university with a broad range of faculties.
+
+Today, King's is organized into nine academic faculties, including arts and humanities, natural and mathematical sciences, law, life sciences and medicine, dentistry, nursing, psychiatry, business, and social science and public policy. The university has five central London campuses: Strand, Guy's, Waterloo, St Thomas', and Denmark Hill, and boasts specialist facilities such as the Maughan Library and several museums, including the Gordon Museum of Pathology.
+
+## Academic Excellence and Student Life
+
+King's is highly ranked globally, typically placing within the top 40 universities in major world rankings. It is celebrated for its excellence in subjects like Health Studies, Dentistry, Law, Business, and the sciences. Research at King's is robust, with income reaching £256.9 million in 2023/24 and notable impacts in biomedical sciences and healthcare education. The university holds the fourth-largest endowment in the UK.
+
+Student life at King's is vibrant, with a wide range of societies, sports clubs, student media, and music ensembles. The Students' Union (KCLSU) organizes activities, while accommodation is provided in residences across London. King's alumni network includes 14 Nobel laureates, notable scientists (such as DNA structure pioneers Maurice Wilkins and Rosalind Franklin), writers (Virginia Woolf), and world leaders (such as Archbishop Desmond Tutu). King's is also recognized for traditions such as the Associateship of King's College (AKC) and the annual Duel Day commemoration.

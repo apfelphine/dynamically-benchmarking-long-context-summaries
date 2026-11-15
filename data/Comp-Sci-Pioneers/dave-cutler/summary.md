@@ -1,0 +1,1 @@
+David Neil Cutler Sr. (born March 13, 1942) is an American software engineer. He developed several computer operating systems, namely Microsoft Windows NT, and Digital Equipment Corporation's RSX-11M, VAXELN, VMS, and MICA.

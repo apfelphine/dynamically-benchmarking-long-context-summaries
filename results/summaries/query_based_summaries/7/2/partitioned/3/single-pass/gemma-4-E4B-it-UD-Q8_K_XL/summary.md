@@ -1,0 +1,5 @@
+## Education in China
+
+China's education system has undergone significant historical shifts, initially prioritizing mass literacy and social equality, particularly in the early years of the People's Republic of China. Since the end of the Cultural Revolution, the focus has shifted towards economic modernization, emphasizing the development of science and technology skills. The government implemented a "Nine Years – One Policy" establishing nine-year compulsory education, which integrates elementary and junior high school education with continuity and proximity principles.
+
+The system has evolved to include diverse educational models. Adult education is provided through various forms, such as television, correspondence, and evening universities, offering a path for workers and peasants to upgrade skills. Beyond compulsory and higher education, there are various types of schooling, alongside the development of online and network education. While the government prioritizes educational investment, intense competition, rote memorization, and regional inequalities remain critical challenges within the system.

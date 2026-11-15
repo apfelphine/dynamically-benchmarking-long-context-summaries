@@ -1,0 +1,268 @@
+[
+    {
+        "document_idx": null,
+        "text": "# John L. Pollock: Life, Work, and Legacy\n## Life and Career\nJohn L. Pollock, born in 1940, earned a triple-major in physics, mathematics, and philosophy at the University of Minnesota (1961). His doctoral dissertation, *Analyticity and Implication* , advised by Ernest Nagel, introduced foundational ideas in epistemology and defeasible reasoning. Pollock\u2019s career spanned academia, including roles at SUNY Buffalo, the University of Rochester, the University of Michigan, and the University of Arizona, where he co-founded the Cognitive Science Program. Beyond academia, he was an avid mountain biker and founded a riding club in Southern Arizona.",
+        "text_original": "John L. Pollock, born in 1940, earned a triple-major in physics, mathematics, and philosophy at the University of Minnesota (1961). His doctoral dissertation, *Analyticity and Implication*, advised by Ernest Nagel, introduced foundational ideas in epistemology and defeasible reasoning. Pollock\u2019s career spanned academia, including roles at SUNY Buffalo, the University of Rochester, the University of Michigan, and the University of Arizona, where he co-founded the Cognitive Science Program. Beyond academia, he was an avid mountain biker and founded a riding club in Southern Arizona",
+        "idx_start": 72,
+        "idx_end": 658
+    },
+    {
+        "document_idx": null,
+        "text": "# John L. Pollock: Life, Work, and Legacy\n## Philosophical Contributions\n### Knowledge and Justification\nPollock\u2019s magnum opus, *Knowledge and Justification* (1974), redefined epistemology by shifting focus away from rigid \"analytic criteria\" for knowledge. He championed **defeasible reasoning** , arguing that epistemic norms are probabilistic, allowing for exceptions. His work bridged epistemology and artificial intelligence, influencing scholars like Roderick Chisholm and Keith Lehrer. Pollock\u2019s approach was pivotal in mainstreaming defeasible reasoning in philosophy.",
+        "text_original": "Pollock\u2019s magnum opus, *Knowledge and Justification* (1974), redefined epistemology by shifting focus away from rigid \"analytic criteria\" for knowledge. He championed **defeasible reasoning**, arguing that epistemic norms are probabilistic, allowing for exceptions. His work bridged epistemology and artificial intelligence, influencing scholars like Roderick Chisholm and Keith Lehrer. Pollock\u2019s approach was pivotal in mainstreaming defeasible reasoning in philosophy",
+        "idx_start": 735,
+        "idx_end": 1204
+    },
+    {
+        "document_idx": null,
+        "text": "# John L. Pollock: Life, Work, and Legacy\n## Philosophical Contributions\n### Defeasible Reasoning\nOften called \"Mr. Defeasible Reasoning,\" Pollock\u2019s ideas revolutionized artificial intelligence (AI) and cognitive science. His 1987 paper *\"Defeasible Reasoning\"* and his work on **OSCAR** (an AI prototype) showcased his commitment to non-monotonic reasoning. Pollock traced the history of his ideas to his early epistemological writings, acknowledging influences from Ludwig Wittgenstein and Stephen Toulmin. His concepts\u2014 **undercutting defeat** , **rebutting defeat** , and **self-defeat** \u2014became foundational in AI and logic.",
+        "text_original": "Often called \"Mr. Defeasible Reasoning,\" Pollock\u2019s ideas revolutionized artificial intelligence (AI) and cognitive science. His 1987 paper *\"Defeasible Reasoning\"* and his work on **OSCAR** (an AI prototype) showcased his commitment to non-monotonic reasoning. Pollock traced the history of his ideas to his early epistemological writings, acknowledging influences from Ludwig Wittgenstein and Stephen Toulmin. His concepts\u2014**undercutting defeat**, **rebutting defeat**, and **self-defeat**\u2014became foundational in AI and logic",
+        "idx_start": 1237,
+        "idx_end": 1763
+    },
+    {
+        "document_idx": null,
+        "text": "# John L. Pollock: Life, Work, and Legacy\n## Philosophical Contributions\n### Nomic Probability and Induction\nIn *Nomic Probability and the Foundations of Induction* (1990), Pollock explored the relationship between defeasible reasoning and probability estimation. His work on **direct inference** from frequencies was compared to Henry E. Kyburg\u2019s theories, though Pollock believed his approach covered broader statistical inferences.",
+        "text_original": "In *Nomic Probability and the Foundations of Induction* (1990), Pollock explored the relationship between defeasible reasoning and probability estimation. His work on **direct inference** from frequencies was compared to Henry E. Kyburg\u2019s theories, though Pollock believed his approach covered broader statistical inferences",
+        "idx_start": 1807,
+        "idx_end": 2131
+    },
+    {
+        "document_idx": null,
+        "text": "# John L. Pollock: Life, Work, and Legacy\n## Publications\nPollock authored several influential books and papers, including:\n- *Knowledge and Justification* (1974)\n- *Subjunctive Reasoning* (1976)\n- *Language and Thought* (1982)\n- *The Foundations of Philosophical Semantics* (1984)\n- *How to Build a Person* (1989)\n- *Nomic Probability and the Foundations of Induction* (1990)\n- *Thinking about Acting: Logical Foundations for Rational Decision Making* (2006)\nHis selected papers span epistemology, logic, and AI, with notable works like *\"Defeasible Reasoning\"* (1987) and *\"A theory of direct inference\"* (1983).",
+        "text_original": "Pollock authored several influential books and papers, including:\n- *Knowledge and Justification* (1974)\n- *Subjunctive Reasoning* (1976)\n- *Language and Thought* (1982)\n- *The Foundations of Philosophical Semantics* (1984)\n- *How to Build a Person* (1989)\n- *Nomic Probability and the Foundations of Induction* (1990)\n- *Thinking about Acting: Logical Foundations for Rational Decision Making* (2006)\n\nHis selected papers span epistemology, logic, and AI, with notable works like *\"Defeasible Reasoning\"* (1987) and *\"A theory of direct inference",
+        "idx_start": 2155,
+        "idx_end": 2702
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## History and Development\nDeepfake technology emerged from early photo manipulation in the 19th century, evolving into digital video manipulation. Academic research began in the 1990s, with amateurs later adopting the technology for online communities. Industry adoption followed, driven by advancements in AI and machine learning.",
+        "text_original": "Deepfake technology emerged from early photo manipulation in the 19th century, evolving into digital video manipulation. Academic research began in the 1990s, with amateurs later adopting the technology for online communities. Industry adoption followed, driven by advancements in AI and machine learning",
+        "idx_start": 2810,
+        "idx_end": 3114
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## History and Development\n### Academic Research\nDeepfakes are studied through computer science (e.g., facial recognition and detection techniques) and humanities/social sciences (e.g., ethical, aesthetic, and disinformation implications). Research focuses on detection methods, user engagement, and regulatory frameworks. Concerns include **identity masking** , **fraud** , and **misinformation** , particularly in political contexts.",
+        "text_original": "Deepfakes are studied through computer science (e.g., facial recognition and detection techniques) and humanities/social sciences (e.g., ethical, aesthetic, and disinformation implications). Research focuses on detection methods, user engagement, and regulatory frameworks. Concerns include **identity masking**, **fraud**, and **misinformation**, particularly in political contexts",
+        "idx_start": 3144,
+        "idx_end": 3526
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## History and Development\n### Social Science and Humanities Approaches\nDeepfakes challenge traditional notions of truth, raising ethical questions about disinformation, pornography, and media representation. Scholars explore their role in cinema, art, and political discourse, often critiquing their potential to destabilize societal norms. Cultural responses vary globally, with China\u2019s **\"huanlian\"** (changing faces) term reflecting a different framing of the technology.",
+        "text_original": "Deepfakes challenge traditional notions of truth, raising ethical questions about disinformation, pornography, and media representation. Scholars explore their role in cinema, art, and political discourse, often critiquing their potential to destabilize societal norms. Cultural responses vary globally, with China\u2019s **\"huanlian\"** (changing faces) term reflecting a different framing of the technology",
+        "idx_start": 3579,
+        "idx_end": 3981
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## History and Development\n### Commercial and Amateur Development\nCommercial applications include deepfake avatars for corporate training (e.g., Synthesia) and entertainment (e.g., Zao app). Amateur deepfakes, often non-consensual, have proliferated on platforms like Reddit, leading to debates over consent and platform policies. The term \"deepfake\" originated in late 2017 from a Reddit user, sparking widespread discussions on misuse.",
+        "text_original": "Commercial applications include deepfake avatars for corporate training (e.g., Synthesia) and entertainment (e.g., Zao app). Amateur deepfakes, often non-consensual, have proliferated on platforms like Reddit, leading to debates over consent and platform policies. The term \"deepfake\" originated in late 2017 from a Reddit user, sparking widespread discussions on misuse",
+        "idx_start": 4028,
+        "idx_end": 4398
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## Techniques and Applications\nDeepfakes rely on **autoencoders** and **generative adversarial networks (GANs)** to manipulate images and videos. The autoencoder architecture encodes facial features into a latent space, while GANs enhance realism by training generators and discriminators. Techniques like **paired training** , **identity leakage** , and **temporal coherence** are critical for improving quality and realism.",
+        "text_original": "Deepfakes rely on **autoencoders** and **generative adversarial networks (GANs)** to manipulate images and videos. The autoencoder architecture encodes facial features into a latent space, while GANs enhance realism by training generators and discriminators. Techniques like **paired training**, **identity leakage**, and **temporal coherence** are critical for improving quality and realism",
+        "idx_start": 4437,
+        "idx_end": 4828
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## Techniques and Applications\n### Acting and Entertainment\nDeepfakes are used in film (e.g., Disney\u2019s high-resolution face-swapping technology) and virtual performances (e.g., Metaphysic AI\u2019s deepfake concerts). They enable de-aging and revival of deceased actors, though ethical debates persist over authenticity and consent.",
+        "text_original": "Deepfakes are used in film (e.g., Disney\u2019s high-resolution face-swapping technology) and virtual performances (e.g., Metaphysic AI\u2019s deepfake concerts). They enable de-aging and revival of deceased actors, though ethical debates persist over authenticity and consent",
+        "idx_start": 4865,
+        "idx_end": 5131
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## Techniques and Applications\n### Fraud and Scams\nDeepfakes are exploited for fraud, including **fake endorsements** , **voice cloning** , and **social engineering scams** . Celebrities and politicians warn users about deepfake scams, which have led to significant financial losses. The Better Business Bureau reports deepfake scams costing billions annually, with projections of $40 billion by 2023.",
+        "text_original": "Deepfakes are exploited for fraud, including **fake endorsements**, **voice cloning**, and **social engineering scams**. Celebrities and politicians warn users about deepfake scams, which have led to significant financial losses. The Better Business Bureau reports deepfake scams costing billions annually, with projections of $40 billion by",
+        "idx_start": 5159,
+        "idx_end": 5500
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## Techniques and Applications\n### Politics and Disinformation\nDeepfakes have been weaponized in political campaigns, often targeting public figures to spread misinformation. Examples include deepfake videos of politicians (e.g., Barack Obama, Donald Trump) and celebrities (e.g., Kim Kardashian\u2019s hologram). Scholars debate the effectiveness of deepfakes in influencing elections, with mixed findings on their impact.",
+        "text_original": "Deepfakes have been weaponized in political campaigns, often targeting public figures to spread misinformation. Examples include deepfake videos of politicians (e.g., Barack Obama, Donald Trump) and celebrities (e.g., Kim Kardashian\u2019s hologram). Scholars debate the effectiveness of deepfakes in influencing elections, with mixed findings on their impact",
+        "idx_start": 5545,
+        "idx_end": 5899
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## Techniques and Applications\n### Pornography and Exploitation\nNon-consensual deepfake pornography has surged, with 96% of deepfakes online being pornographic (Dutch cybersecurity report, 2019). Female celebrities are frequently targeted, raising concerns about consent and exploitation. Efforts to combat this include legal actions and platform policies.",
+        "text_original": "Non-consensual deepfake pornography has surged, with 96% of deepfakes online being pornographic (Dutch cybersecurity report, 2019). Female celebrities are frequently targeted, raising concerns about consent and exploitation. Efforts to combat this include legal actions and platform policies",
+        "idx_start": 5940,
+        "idx_end": 6231
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## Concerns and Countermeasures\nDeepfakes pose threats to **credibility** , **defamation** , and **detection** . Detection methods include **audio/video analysis** , **reflections in eyes** , and **blockchain verification** . Regulatory frameworks are evolving, with proposals for **AI detection tools** , **legal accountability** , and **global standards** . The EU\u2019s **Artificial Intelligence Act** and **Online Safety Act** are key examples of regulatory responses.",
+        "text_original": "Deepfakes pose threats to **credibility**, **defamation**, and **detection**. Detection methods include **audio/video analysis**, **reflections in eyes**, and **blockchain verification**. Regulatory frameworks are evolving, with proposals for **AI detection tools**, **legal accountability**, and **global standards**. The EU\u2019s **Artificial Intelligence Act** and **Online Safety Act** are key examples of regulatory responses",
+        "idx_start": 6271,
+        "idx_end": 6697
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## Concerns and Countermeasures\n### Media Literacy and Education\nMedia literacy programs aim to teach critical thinking about deepfakes, emphasizing skepticism and awareness. However, challenges remain in ensuring widespread adoption, particularly among younger users.",
+        "text_original": "Media literacy programs aim to teach critical thinking about deepfakes, emphasizing skepticism and awareness. However, challenges remain in ensuring widespread adoption, particularly among younger users",
+        "idx_start": 6738,
+        "idx_end": 6940
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake: History, Techniques, and Societal Impact\n## Concerns and Countermeasures\n### Controversies and Ethical Dilemmas\nControversies include **false claims of deepfake-related scandals** (e.g., Kate Middleton\u2019s cancer rumors) and debates over **autonomy in AI-generated content** . The intersection of deepfakes with **AI ethics** , **biotechnology** , and **transhumanism** continues to spark discussions on the future of human-machine interactions.",
+        "text_original": "Controversies include **false claims of deepfake-related scandals** (e.g., Kate Middleton\u2019s cancer rumors) and debates over **autonomy in AI-generated content**. The intersection of deepfakes with **AI ethics**, **biotechnology**, and **transhumanism** continues to spark discussions on the future of human-machine interactions",
+        "idx_start": 6987,
+        "idx_end": 7314
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity: Concepts, Predictions, and Criticisms\n## History and Origins\nThe concept of the **technological singularity** emerged from discussions on artificial intelligence and human intelligence. Key figures include Alan Turing, John von Neumann, I. J. Good, Vernor Vinge, and Ray Kurzweil. The term gained traction in the 1980s and 1990s, with Vinge and Kurzweil predicting rapid advancements in AI that could surpass human intelligence.",
+        "text_original": "The concept of the **technological singularity** emerged from discussions on artificial intelligence and human intelligence. Key figures include Alan Turing, John von Neumann, I. J. Good, Vernor Vinge, and Ray Kurzweil. The term gained traction in the 1980s and 1990s, with Vinge and Kurzweil predicting rapid advancements in AI that could surpass human intelligence",
+        "idx_start": 7423,
+        "idx_end": 7789
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity: Concepts, Predictions, and Criticisms\n## Intelligence Explosion and Superintelligence\nIf superintelligence is achieved through **artificial intelligence (AI)** or **human augmentation** , it could surpass human problem-solving capabilities. This **recursive self-improvement** could lead to exponential growth in intelligence, potentially surpassing human cognitive limits. The concept of **speed superintelligence** \u2014where AI functions faster than humans\u2014is also explored.",
+        "text_original": "If superintelligence is achieved through **artificial intelligence (AI)** or **human augmentation**, it could surpass human problem-solving capabilities. This **recursive self-improvement** could lead to exponential growth in intelligence, potentially surpassing human cognitive limits. The concept of **speed superintelligence**\u2014where AI functions faster than humans\u2014is also explored",
+        "idx_start": 7845,
+        "idx_end": 8229
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity: Concepts, Predictions, and Criticisms\n## Predictions and Plausibility\nPredictions for the singularity vary widely, with dates ranging from the 2020s to the 2040s. Prominent technologists and academics, such as Paul Allen, Jeff Hawkins, and Gordon Moore, question its plausibility. Critics argue that **Moore\u2019s Law** may be slowing, and **technological limitations** (e.g., hardware constraints, algorithmic complexity) could hinder rapid progress.",
+        "text_original": "Predictions for the singularity vary widely, with dates ranging from the 2020s to the 2040s. Prominent technologists and academics, such as Paul Allen, Jeff Hawkins, and Gordon Moore, question its plausibility. Critics argue that **Moore\u2019s Law** may be slowing, and **technological limitations** (e.g., hardware constraints, algorithmic complexity) could hinder rapid progress",
+        "idx_start": 8269,
+        "idx_end": 8645
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity: Concepts, Predictions, and Criticisms\n## Criticisms and Challenges\nCritics, including linguist Steven Pinker and philosopher Daniel Dennett, dismiss the singularity as speculative. They highlight the **lack of empirical evidence** and the **unpredictability of future technological advancements** . Concerns about **existential risks** , **moral alignment of AI** , and **socioeconomic impacts** also persist.",
+        "text_original": "Critics, including linguist Steven Pinker and philosopher Daniel Dennett, dismiss the singularity as speculative. They highlight the **lack of empirical evidence** and the **unpredictability of future technological advancements**. Concerns about **existential risks**, **moral alignment of AI**, and **socioeconomic impacts** also persist",
+        "idx_start": 8682,
+        "idx_end": 9020
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity: Concepts, Predictions, and Criticisms\n## Potential Impacts\nThe singularity could lead to **economic disruptions** , **job losses** , and **societal transformations** . It raises questions about **human dignity** , **autonomy** , and **the role of AI in governance** . Organizations like the **Future of Humanity Institute** and **Machine Intelligence Research Institute** are working on **AI safety** and **alignment** to mitigate risks.",
+        "text_original": "The singularity could lead to **economic disruptions**, **job losses**, and **societal transformations**. It raises questions about **human dignity**, **autonomy**, and **the role of AI in governance**. Organizations like the **Future of Humanity Institute** and **Machine Intelligence Research Institute** are working on **AI safety** and **alignment** to mitigate risks",
+        "idx_start": 9049,
+        "idx_end": 9420
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism: Philosophy, Ethics, and Practice\n## History and Precursors\nTranshumanism emerged from philosophical and scientific traditions, including **Aristotle\u2019s philosophy** , **Roger Bacon\u2019s scientific vision** , and **Julian Huxley\u2019s 1957 article** . Early transhumanist thinkers like **J. B. S. Haldane** and **William Godwin** explored the potential of **genetics, eugenics, and biotechnology** to enhance human life.",
+        "text_original": "Transhumanism emerged from philosophical and scientific traditions, including **Aristotle\u2019s philosophy**, **Roger Bacon\u2019s scientific vision**, and **Julian Huxley\u2019s 1957 article**. Early transhumanist thinkers like **J. B. S. Haldane** and **William Godwin** explored the potential of **genetics, eugenics, and biotechnology** to enhance human life",
+        "idx_start": 9515,
+        "idx_end": 9863
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism: Philosophy, Ethics, and Practice\n## Core Principles and Aims\nTranshumanism advocates for **human enhancement** through technology, aiming to overcome biological limitations. Key aims include **longevity** , **intelligence augmentation** , and **posthuman evolution** . Ethical considerations focus on **equity** , **autonomy** , and **the preservation of human dignity** .",
+        "text_original": "Transhumanism advocates for **human enhancement** through technology, aiming to overcome biological limitations. Key aims include **longevity**, **intelligence augmentation**, and **posthuman evolution**. Ethical considerations focus on **equity**, **autonomy**, and **the preservation of human dignity",
+        "idx_start": 9899,
+        "idx_end": 10201
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism: Philosophy, Ethics, and Practice\n## Ethical Debates\nCritics argue that transhumanism risks **unequal access** , **loss of human identity** , and **exploitation** . Concerns include **genetic engineering** , **AI alignment** , and **the potential for a \"genetic divide\"** . Transhumanists counter these arguments by emphasizing **procreative liberty** , **scientific progress** , and **the importance of individual choice** .",
+        "text_original": "Critics argue that transhumanism risks **unequal access**, **loss of human identity**, and **exploitation**. Concerns include **genetic engineering**, **AI alignment**, and **the potential for a \"genetic divide\"**. Transhumanists counter these arguments by emphasizing **procreative liberty**, **scientific progress**, and **the importance of individual choice",
+        "idx_start": 10230,
+        "idx_end": 10590
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism: Philosophy, Ethics, and Practice\n## Practice and Technologies\nTranshumanists engage in **body modification** , **neural interfaces** , and **cognitive enhancement** . Technologies like **nanotechnology** , **biotechnology** , and **AI** are seen as tools for **human augmentation** . Ethical dilemmas arise in areas like **cryonics** , **mind uploading** , and **AI ethics** .",
+        "text_original": "Transhumanists engage in **body modification**, **neural interfaces**, and **cognitive enhancement**. Technologies like **nanotechnology**, **biotechnology**, and **AI** are seen as tools for **human augmentation**. Ethical dilemmas arise in areas like **cryonics**, **mind uploading**, and **AI ethics",
+        "idx_start": 10629,
+        "idx_end": 10931
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism: Philosophy, Ethics, and Practice\n## Controversies and Misconceptions\nTranshumanism is often misunderstood as a pursuit of **immortality** or **superhuman capabilities** . Critics argue that it may **undermine human values** and **create new forms of inequality** . Transhumanists respond by emphasizing **responsible innovation** , **equitable access** , and **the importance of ethical frameworks** .",
+        "text_original": "Transhumanism is often misunderstood as a pursuit of **immortality** or **superhuman capabilities**. Critics argue that it may **undermine human values** and **create new forms of inequality**. Transhumanists respond by emphasizing **responsible innovation**, **equitable access**, and **the importance of ethical frameworks",
+        "idx_start": 10977,
+        "idx_end": 11301
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism: Philosophy, Politics, and Criticisms\n## Background and Influences\nAccelerationism emerged from **French post-structuralist thought** (e.g., Gilles Deleuze, F\u00e9lix Guattari) and **cyberpunk culture** . Influences include **Marxist critiques of capitalism** , **cybernetics** , and **science fiction** . The term gained traction in the 2010s, with figures like **Nick Land** and **Alex Williams** shaping its political and philosophical dimensions.",
+        "text_original": "Accelerationism emerged from **French post-structuralist thought** (e.g., Gilles Deleuze, F\u00e9lix Guattari) and **cyberpunk culture**. Influences include **Marxist critiques of capitalism**, **cybernetics**, and **science fiction**. The term gained traction in the 2010s, with figures like **Nick Land** and **Alex Williams** shaping its political and philosophical dimensions",
+        "idx_start": 11407,
+        "idx_end": 11781
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism: Philosophy, Politics, and Criticisms\n## Concepts and Variants\nAccelerationism advocates for **accelerating technological and social change** to overcome capitalism\u2019s limitations. Variants include **right-wing accelerationism** (e.g., Land\u2019s support for capitalism\u2019s self-improvement) and **left-wing accelerationism** (e.g., Srnicek and Williams\u2019 call for post-capitalist technological experimentation).",
+        "text_original": "Accelerationism advocates for **accelerating technological and social change** to overcome capitalism\u2019s limitations. Variants include **right-wing accelerationism** (e.g., Land\u2019s support for capitalism\u2019s self-improvement) and **left-wing accelerationism** (e.g., Srnicek and Williams\u2019 call for post-capitalist technological experimentation",
+        "idx_start": 11814,
+        "idx_end": 12153
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism: Philosophy, Politics, and Criticisms\n## Concepts and Variants\n### Prometheanism and Inhumanism\nPrometheanism emphasizes **technology as a tool for human liberation** , while inhumanism seeks to **transcend human limitations** through rationalist and technological means. Critics argue that these ideas risk **elimination of human agency** and **exploitation of non-human entities** .",
+        "text_original": "Prometheanism emphasizes **technology as a tool for human liberation**, while inhumanism seeks to **transcend human limitations** through rationalist and technological means. Critics argue that these ideas risk **elimination of human agency** and **exploitation of non-human entities",
+        "idx_start": 12195,
+        "idx_end": 12478
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism: Philosophy, Politics, and Criticisms\n## Criticisms and Challenges\nCritics, including **Slavoj \u017di\u017eek** and **Yuk Hui** , question the **practicality** and **ethical implications** of accelerationism. Concerns include **capitalism\u2019s self-destructive tendencies** , **the risk of authoritarianism** , and **the potential for technological singularity** .",
+        "text_original": "Critics, including **Slavoj \u017di\u017eek** and **Yuk Hui**, question the **practicality** and **ethical implications** of accelerationism. Concerns include **capitalism\u2019s self-destructive tendencies**, **the risk of authoritarianism**, and **the potential for technological singularity",
+        "idx_start": 12517,
+        "idx_end": 12795
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism: Philosophy, Politics, and Criticisms\n## Alternative Uses and Far-Right Connections\nAccelerationism has been co-opted by **far-right movements** as a tool for **political destabilization** and **racial conflict** . Far-right accelerationists advocate for **violent resistance** to capitalist and liberal systems, often linked to **white supremacist ideologies** .",
+        "text_original": "Accelerationism has been co-opted by **far-right movements** as a tool for **political destabilization** and **racial conflict**. Far-right accelerationists advocate for **violent resistance** to capitalist and liberal systems, often linked to **white supremacist ideologies",
+        "idx_start": 12851,
+        "idx_end": 13125
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Overview and Applicability\nThe **GDPR (2016)** is a comprehensive data protection regulation for the European Union. It applies to **data controllers** (organizations collecting personal data) and **data processors** (organizations processing data on behalf of controllers). The regulation ensures **transparency** , **consent** , and **user rights** regarding personal data.",
+        "text_original": "The **GDPR (2016)** is a comprehensive data protection regulation for the European Union. It applies to **data controllers** (organizations collecting personal data) and **data processors** (organizations processing data on behalf of controllers). The regulation ensures **transparency**, **consent**, and **user rights** regarding personal data",
+        "idx_start": 13220,
+        "idx_end": 13565
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Key Principles and Rights\nThe GDPR establishes **six core principles** for data processing: **lawfulness, fairness, transparency** , **purpose limitation** , **data minimisation** , **accuracy** , and **storage limitation** . Data subjects have rights to **access** , **rectification** , **erasure** , **object** , **data portability** , and **compensation** for data breaches.",
+        "text_original": "The GDPR establishes **six core principles** for data processing: **lawfulness, fairness, transparency**, **purpose limitation**, **data minimisation**, **accuracy**, and **storage limitation**. Data subjects have rights to **access**, **rectification**, **erasure**, **object**, **data portability**, and **compensation** for data breaches",
+        "idx_start": 13602,
+        "idx_end": 13942
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Data Protection Officer (DPO) and Compliance\nOrganizations must appoint a **Data Protection Officer (DPO)** to oversee compliance. The GDPR mandates **data protection impact assessments (DPIAs)** for high-risk processing activities. **Pseudonymisation** and **encryption** are recommended to enhance data security.",
+        "text_original": "Organizations must appoint a **Data Protection Officer (DPO)** to oversee compliance. The GDPR mandates **data protection impact assessments (DPIAs)** for high-risk processing activities. **Pseudonymisation** and **encryption** are recommended to enhance data security",
+        "idx_start": 13998,
+        "idx_end": 14266
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Enforcement and Penalties\nThe GDPR imposes **heavy fines** for non-compliance, up to **\u20ac20 million** or **4% of annual global turnover** , whichever is greater. Enforcement agencies include **national supervisory authorities (NSAs)** and the **European Data Protection Board (EDPB)** .",
+        "text_original": "The GDPR imposes **heavy fines** for non-compliance, up to **\u20ac20 million** or **4% of annual global turnover**, whichever is greater. Enforcement agencies include **national supervisory authorities (NSAs)** and the **European Data Protection Board (EDPB",
+        "idx_start": 14303,
+        "idx_end": 14556
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Exemptions and Challenges\nExemptions include **law enforcement** , **national security** , and **purely personal activities** . Challenges include **international data transfers** , **AI and algorithmic decision-making** , and **the impact on small businesses** .",
+        "text_original": "Exemptions include **law enforcement**, **national security**, and **purely personal activities**. Challenges include **international data transfers**, **AI and algorithmic decision-making**, and **the impact on small businesses",
+        "idx_start": 14596,
+        "idx_end": 14824
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Impact and Reception\nThe GDPR has influenced **global data privacy laws** , including the **California Consumer Privacy Act (CCPA)** and **China\u2019s Personal Information Protection Law** . Critics argue that it imposes **administrative burdens** and **unclear compliance requirements** , while supporters highlight its **protection of individual rights** and **enforcement of transparency** .\nThis summary distills the key topics, maintaining coherence and conciseness while preserving all essential details.",
+        "text_original": "The GDPR has influenced **global data privacy laws**, including the **California Consumer Privacy Act (CCPA)** and **China\u2019s Personal Information Protection Law**. Critics argue that it imposes **administrative burdens** and **unclear compliance requirements**, while supporters highlight its **protection of individual rights** and **enforcement of transparency**.\n\n---\nThis summary distills the key topics, maintaining coherence and conciseness while preserving all essential details",
+        "idx_start": 14858,
+        "idx_end": 15343
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education in Poland\n## Primary and Secondary Education:\nIn Poland, children typically begin primary school ( *szko\u0142a podstawowa* ) at ages six or seven, and this stage currently lasts eight years (grades 1\u20138), replacing a previous system of six years followed by a three-year *gimnazjum* . Upper secondary education follows, which can be pursued in general secondary schools ( *liceum* ) or vocational/technical schools ( *technikum* and *zasadnicza szko\u0142a zawodowa* ). General secondary schools allow students to pass the *Matura* examination to access higher education, while technical schools focus on trades and occupations.",
+        "text_original": "In Poland, children typically begin primary school (*szko\u0142a podstawowa*) at ages six or seven, and this stage currently lasts eight years (grades 1\u20138), replacing a previous system of six years followed by a three-year *gimnazjum*. Upper secondary education follows, which can be pursued in general secondary schools (*liceum*) or vocational/technical schools (*technikum* and *zasadnicza szko\u0142a zawodowa*). General secondary schools allow students to pass the *Matura* examination to access higher education, while technical schools focus on trades and occupations",
+        "idx_start": 61,
+        "idx_end": 625
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Poland\n## Higher Education:\nPoland's tertiary education follows the Bologna scheme, generally comprising a three-year bachelor's degree followed by a two-year master's degree. Some specialized fields, such as medicine (six years) and pharmacy (five years), involve longer cycles. University-level grading utilizes a numerical system from 2.0 (failing) to 5.0 (highest grade), with evaluations occurring every semester.",
+        "text_original": "Poland's tertiary education follows the Bologna scheme, generally comprising a three-year bachelor's degree followed by a two-year master's degree. Some specialized fields, such as medicine (six years) and pharmacy (five years), involve longer cycles. University-level grading utilizes a numerical system from 2.0 (failing) to 5.0 (highest grade), with evaluations occurring every semester",
+        "idx_start": 650,
+        "idx_end": 1039
+    }
+]

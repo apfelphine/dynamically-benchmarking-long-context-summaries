@@ -1,0 +1,19 @@
+# Pioneers of Computing, Science, and Philosophy
+
+**Charles Babbage** (1791–1871) and **Ada Lovelace** laid the foundations of computing by designing early mechanical computers and programming concepts. Babbage’s Difference and Analytical Engines introduced ideas of programmable computation and memory, while Lovelace authored the first machine algorithm and anticipated broader uses of computers, including artificial intelligence. Likewise, **Alan Turing** (1912–1954) advanced theoretical computer science with the Turing machine and contributed to codebreaking and the development of computational theory, proposing what became the Turing Test for machine intelligence. Despite persecution during his life, Turing’s work now holds seminal status in computing and cryptography.
+
+**Hedy Lamarr** (1914–2000), known as an actress and inventor, co-developed frequency-hopping spread spectrum technology foundational to modern wireless communication like Wi-Fi and Bluetooth. **Leonardo Torres Quevedo** (1852–1936) pioneered automation and remote control technologies, inventing one of the first electromechanical chess automatons and wireless controls. Meanwhile, **Blaise Pascal** (1623–1662) made vital contributions to mathematics, physics, and philosophy, inventing the mechanical calculator (Pascaline), advancing probability theory, and formulating Pascal’s law; the SI unit pascal is named in his honor. Philosophically, Pascal explored faith and humanity’s relationship with God in works like *Pensées*.
+
+**Alfred North Whitehead** (1861–1947), an English mathematician and philosopher, co-authored *Principia Mathematica* and developed process philosophy, emphasizing reality as an interconnected web of dynamic events. His metaphysical work introduced concepts such as panexperientialism and reimagined God within this framework, influencing theology, ecology, education, and quantum physics.
+
+# Science Leadership and Advocacy
+
+**Vannevar Bush** (1890–1974) shaped 20th-century science policy and technology, inventing the differential analyzer and directing major wartime research including radar and the Manhattan Project. His visionary essay *As We May Think* anticipated hypertext and personal computing concepts through the idea of the memex. Bush’s advocacy for federally funded basic research helped establish the National Science Foundation.
+
+Contemporary scientist **Philip Rubin** has made major contributions to speech science, cognitive neuroscience, and speech synthesis, promoting embodied cognition and multimodal perception theories. His leadership roles have advanced brain research, mental health, forensic science, STEM education, data openness, and interdisciplinary collaboration, emphasizing innovation and diversity.
+
+# Richard Stallman: Free Software Movement and Controversy
+
+**Richard Stallman** is a pioneering computer programmer and activist who founded the GNU Project in 1983 to create a free Unix-like operating system. He developed critical tools such as GNU Emacs, GCC, and GDB, and authored the GNU General Public License (GPL) to protect software freedom using copyleft. Stallman emphasizes precise language, advocating terms like "free software" and "GNU/Linux," and campaigns against software patents, proprietary restrictions, DRM, and mass surveillance, supporting privacy and whistleblowers.
+
+In 2019, Stallman resigned from MIT and the Free Software Foundation due to controversy over remarks linked to the Jeffrey Epstein case and earlier writings, returning briefly to FSF leadership in 2021 amid backlash. Despite personal challenges, including a recent remission from follicular lymphoma, his influential role in free software and digital rights is recognized through numerous honors, including a MacArthur fellowship and membership in the U.S. National Academy of Engineering.

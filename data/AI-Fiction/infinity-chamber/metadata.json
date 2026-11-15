@@ -1,0 +1,32 @@
+{
+  "id": 67485396,
+  "title": "Infinity Chamber",
+  "url": "https://en.wikipedia.org/wiki/Infinity_Chamber",
+  "path": "AI-Fiction\\infinity-chamber",
+  "summary": {
+    "chars": 435,
+    "tokens": 84
+  },
+  "document": {
+    "chars": 4312,
+    "tokens": 883
+  },
+  "infobox": {
+    "title": "Infinity Chamber",
+    "data": {
+      "Directed by": "Travis Milloy",
+      "Written by": "Travis Milloy",
+      "Produced by": "Thomas Eberts",
+      "Starring": "- Christopher Soren Kelly - Cassandra Clark - Cajardo Lindsey - Jesse D. Arrow",
+      "Cinematography": "Marty Mullin; Jason Nolte",
+      "Edited by": "Travis Milloy",
+      "Music by": "Jacob Yoffee",
+      "Production \u00b7 companies": "Latest Trick Productions; Milloy Films",
+      "Distributed by": "Alameda Entertainment",
+      "Release date": "- 1 May 2016 (Fantastic Cinema Festival)",
+      "Running time": "103 minutes",
+      "Country": "United States",
+      "Language": "English"
+    }
+  }
+}

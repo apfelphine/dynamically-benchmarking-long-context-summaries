@@ -1,0 +1,79 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary\nTransformers have revolutionized deep learning since 2017 by enabling scalable sequence modeling via self-attention and encoder-decoder architectures. Innovations like efficient long-range dependencies, parallel computation, and multi-modal learning support high-performance models such as BERT, GPT, T5, and Vision Transformers (ViT). These models benefit from advancements including FlashAttention, GELU activation, LayerNorm, and key-value caching. Hybrid designs incorporating CNNs and attention mechanisms, advanced pooling strategies, and layered self-attention and feed-forwards underlie robust architectures for transfer learning and multi-modal tasks.",
+        "text_original": "Transformers have revolutionized deep learning since 2017 by enabling scalable sequence modeling via self-attention and encoder-decoder architectures. Innovations like efficient long-range dependencies, parallel computation, and multi-modal learning support high-performance models such as BERT, GPT, T5, and Vision Transformers (ViT). These models benefit from advancements including FlashAttention, GELU activation, LayerNorm, and key-value caching. Hybrid designs incorporating CNNs and attention mechanisms, advanced pooling strategies, and layered self-attention and feed-forwards underlie robust architectures for transfer learning and multi-modal tasks",
+        "idx_start": 12,
+        "idx_end": 671
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Architectures and Efficiency\nTransformer variants\u2014DINO, Swin, TimeSformer, ViT-VQGAN, CoAtNet, DeiT, and Masked Autoencoders\u2014enhance efficiency, positional encoding, and adaptation to vision, medical imaging, and video. Hybrid architectures merge CNNs with attention for optimal performance in complex domains, and developments in pooling (like local pooling and self-attention pooling in GNNs) further optimize downsampling and feature aggregation.",
+        "text_original": "Transformer variants\u2014DINO, Swin, TimeSformer, ViT-VQGAN, CoAtNet, DeiT, and Masked Autoencoders\u2014enhance efficiency, positional encoding, and adaptation to vision, medical imaging, and video. Hybrid architectures merge CNNs with attention for optimal performance in complex domains, and developments in pooling (like local pooling and self-attention pooling in GNNs) further optimize downsampling and feature aggregation",
+        "idx_start": 708,
+        "idx_end": 1127
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Applications\nTransformers and CNNs excel across diverse fields: NLP, computer vision (e.g., ViT, Swin, MAE), speech/audio processing (Whisper, Conformer), video, generative modeling (DALL-E, Muse, ViT-VQGAN), and scientific challenges such as protein folding, climate modeling, medicine, and autonomous driving. GNNs extend these successes to protein folding (AlphaFold), social networks, combinatorial optimization, cybersecurity (anomaly detection), water distribution modeling, vision, and natural language processing through graph-based representations.",
+        "text_original": "Transformers and CNNs excel across diverse fields: NLP, computer vision (e.g., ViT, Swin, MAE), speech/audio processing (Whisper, Conformer), video, generative modeling (DALL-E, Muse, ViT-VQGAN), and scientific challenges such as protein folding, climate modeling, medicine, and autonomous driving. GNNs extend these successes to protein folding (AlphaFold), social networks, combinatorial optimization, cybersecurity (anomaly detection), water distribution modeling, vision, and natural language processing through graph-based representations",
+        "idx_start": 1148,
+        "idx_end": 1691
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Generative Adversarial Networks (GANs)\nGANs empower synthetic media generation via variants like StyleGAN, SinGAN, Progressive GANs, CycleGAN, BigGAN, and Conditional/Wasserstein GANs. These models advance stable training, style transfer, and high-quality image synthesis.",
+        "text_original": "GANs empower synthetic media generation via variants like StyleGAN, SinGAN, Progressive GANs, CycleGAN, BigGAN, and Conditional/Wasserstein GANs. These models advance stable training, style transfer, and high-quality image synthesis",
+        "idx_start": 1738,
+        "idx_end": 1970
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Hopfield Networks and Extensions\nHopfield networks, foundational to associative memory through attractor states, have influenced attention mechanisms in modern transformers, with research into higher-order interactions and nonlinearities deepening their impact.",
+        "text_original": "Hopfield networks, foundational to associative memory through attractor states, have influenced attention mechanisms in modern transformers, with research into higher-order interactions and nonlinearities deepening their impact",
+        "idx_start": 2011,
+        "idx_end": 2238
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Recurrent Neural Networks (RNNs): Architectures and Applications\nRNNs model sequential data for translation, speech, forecasting, and protein analysis. Notable architectures include hierarchical and bidirectional RNNs (ELMo), encoder-decoders, PixelRNN, Echo State Networks, Recursive Networks, and Neural Turing Machines, enhanced by teacher forcing and backpropagation through time.",
+        "text_original": "RNNs model sequential data for translation, speech, forecasting, and protein analysis. Notable architectures include hierarchical and bidirectional RNNs (ELMo), encoder-decoders, PixelRNN, Echo State Networks, Recursive Networks, and Neural Turing Machines, enhanced by teacher forcing and backpropagation through time",
+        "idx_start": 2311,
+        "idx_end": 2629
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Radial Basis Function Networks (RBF): Design and Applications\nRBF networks approximate complex patterns with radial functions and strategic center selection, excelling in time-series prediction and chaotic systems.",
+        "text_original": "RBF networks approximate complex patterns with radial functions and strategic center selection, excelling in time-series prediction and chaotic systems",
+        "idx_start": 2699,
+        "idx_end": 2850
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Autoencoders and Variants\nAutoencoders drive dimensionality reduction, feature learning, generative modeling, compression, denoising, medical imaging, drug discovery, social prediction, translation, optimization, clustering, semantic hashing, anomaly detection, and memory. **Variational Autoencoders (VAE):** Use the reparameterization trick for unbiased gradients and statistical distances (KL-divergence, Wasserstein, MMD) for robust latent representation. Extensions (\u03b2-VAE, Conditional VAE, VAE-GAN) offer improved disentanglement and sample quality. **Other Variants:** Sparse, denoising, contractive, minimum description length, and concrete autoencoders enhance sparsity, robustness, invariance, compact coding, and feature selection, evolving from PCA-inspired roots to central tools in representation learning.",
+        "text_original": "Autoencoders drive dimensionality reduction, feature learning, generative modeling, compression, denoising, medical imaging, drug discovery, social prediction, translation, optimization, clustering, semantic hashing, anomaly detection, and memory.  \n**Variational Autoencoders (VAE):** Use the reparameterization trick for unbiased gradients and statistical distances (KL-divergence, Wasserstein, MMD) for robust latent representation. Extensions (\u03b2-VAE, Conditional VAE, VAE-GAN) offer improved disentanglement and sample quality.  \n**Other Variants:** Sparse, denoising, contractive, minimum description length, and concrete autoencoders enhance sparsity, robustness, invariance, compact coding, and feature selection, evolving from PCA-inspired roots to central tools in representation learning",
+        "idx_start": 2884,
+        "idx_end": 3681
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Graph Neural Networks (GNN)\nGNNs advance node and graph representation through permutation-equivariant message passing layers for classification and prediction.\n- **GCNs:** Generalize CNNs to graphs via neighbor feature aggregation.\n- **GATs:** Employ attention for neighbor weighting.\n- **GGS-NN:** Use GRUs for node updates and sequence outputs. Local pooling strategies (such as top-k and self-attention pooling) downsample nodes based on projection scores or learned combinations of features and topology. Challenges like oversmoothing, oversquashing, and limitations on heterophilic graphs (where connected nodes differ in attributes) are under active study, leading to new methods. Applications include protein folding, social network analysis, combinatorial optimization, cybersecurity, infrastructure modeling, vision, and NLP.",
+        "text_original": "GNNs advance node and graph representation through permutation-equivariant message passing layers for classification and prediction.  \n- **GCNs:** Generalize CNNs to graphs via neighbor feature aggregation.  \n- **GATs:** Employ attention for neighbor weighting.  \n- **GGS-NN:** Use GRUs for node updates and sequence outputs.  \nLocal pooling strategies (such as top-k and self-attention pooling) downsample nodes based on projection scores or learned combinations of features and topology.  \nChallenges like oversmoothing, oversquashing, and limitations on heterophilic graphs (where connected nodes differ in attributes) are under active study, leading to new methods. Applications include protein folding, social network analysis, combinatorial optimization, cybersecurity, infrastructure modeling, vision, and NLP",
+        "idx_start": 3717,
+        "idx_end": 4533
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Interpreting and Visualizing CNNs\nInterpretability is enhanced by class visualization, saliency maps, and CAM techniques (Grad-CAM, LayerCAM, Score-CAM), which localize and highlight salient regions in images.",
+        "text_original": "Interpretability is enhanced by class visualization, saliency maps, and CAM techniques (Grad-CAM, LayerCAM, Score-CAM), which localize and highlight salient regions in images",
+        "idx_start": 4575,
+        "idx_end": 4749
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Historical Impact\nInnovations across transformers, CNNs, GANs, Hopfield networks, and generative models drive ongoing AI progress. Foundational work by Hopfield and Hinton was honored with the 2024 Nobel Prize in Physics.",
+        "text_original": "Innovations across transformers, CNNs, GANs, Hopfield networks, and generative models drive ongoing AI progress. Foundational work by Hopfield and Hinton was honored with the 2024 Nobel Prize in Physics",
+        "idx_start": 4775,
+        "idx_end": 4977
+    }
+]

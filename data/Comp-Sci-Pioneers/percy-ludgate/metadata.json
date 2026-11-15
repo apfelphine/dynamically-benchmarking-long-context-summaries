@@ -1,0 +1,25 @@
+{
+  "id": 1195086,
+  "title": "Percy Ludgate",
+  "url": "https://en.wikipedia.org/wiki/Percy_Ludgate",
+  "path": "Comp-Sci-Pioneers\\percy-ludgate",
+  "summary": {
+    "chars": 181,
+    "tokens": 41
+  },
+  "document": {
+    "chars": 4272,
+    "tokens": 924
+  },
+  "infobox": {
+    "title": "Percy Edwin Ludgate",
+    "data": {
+      "Born": "2 August 1883 \u00b7 Skibbereen, County Cork, Ireland",
+      "Died": "16 October 1922 (aged 39) \u00b7 Dublin, Ireland",
+      "Resting place": "Mount Jerome Cemetery, Dublin",
+      "Known for": "Design of the second analytical engine in history",
+      "Fields": "mechanical computer design & discrete logarithms (1909); Accountancy (1917)",
+      "Institutions": "Kevans & Son (Dublin, Ireland)"
+    }
+  }
+}

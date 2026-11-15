@@ -1,0 +1,28 @@
+# Education Overview
+
+## Portugal and South Africa
+Portugal offers a multi-track education system with nine years of compulsory basic education and three years of secondary education leading to higher education aligned with the Bologna Process. Despite tuition-free schooling and improved teacher qualifications, challenges include high dropout rates, nearly 48% adult functional illiteracy, rapid private sector growth affecting quality, and policy instability due to frequent reforms. Programs also address school violence.
+
+South Africa addresses apartheid legacy inequalities with unified education departments and multilingual policies to improve access. Despite higher education consolidation, challenges persist in graduate unemployment, skills mismatches, rural infrastructure, and school safety amid crime and gang violence. Post-COVID ICT integration and government efforts focus on connectivity, teacher training, and violence reduction.
+
+## Australia
+Australia’s decentralized system features primary and secondary education overseen by states and territories, with a mix of government and non-government schools. The nationally standardized Australian Curriculum guides instruction, supported by extensive teacher staffing. Diverse schooling options exist, including special needs and selective schools. Equity gaps remain, particularly for Indigenous students, though bilingual education and targeted funding policies aim to address these. Pastoral programs combat school violence. Higher education includes 42 universities and vocational institutions, significantly supported by international students contributing to skilled migration.
+
+## Finland
+Finland is renowned for equitable, tuition-free education emphasizing inclusiveness and individualized support. Basic education covers nine compulsory years followed by upper secondary education with academic and vocational options. Early childhood programs prioritize play and development with universal daycare and income-adjusted fees. Higher education is split between research universities and universities of applied sciences, focusing on merit-based admission and lifelong learning. The curriculum integrates language requirements—including Swedish—and technology skills like AI, with innovative phenomenon-based learning reforms inspiring global adoption.
+
+## Romania
+Romania mandates 14 years of education, starting with preparatory kindergarten. Elementary education is free and public, followed by four-year secondary tracks requiring national exams for progression and graduation. Vocational education includes apprenticeships and pathways to technological high schools. Challenges in rural areas include multi-grade classrooms, school scarcity, and high dropout rates post-elementary school, driven by underfunding and reliance on unofficial contributions. Religious education is optional. The nation’s 97 higher education institutions adhere to the Bologna Process and engage internationally through Erasmus, with near-universal literacy but persistent minority disparities.
+
+## United States
+The U.S. system includes non-compulsory preschool, compulsory K–12, and diverse higher education from vocational to elite universities. Graduation rates are about 90%, but significant racial, socioeconomic, and geographic disparities exist. Funding inequality, politicized curricula, teacher shortages with 14–16% turnover, and large student debt burdens challenge equity and quality. Recent Supreme Court decisions ending race-based affirmative action compound concerns. The pandemic aggravated academic and mental health disparities. Efforts continue to improve teacher retention, emotional support, and curriculum relevance, though systemic issues like the school-to-prison pipeline persist.
+
+## Malaysia
+Malaysia’s multicultural education spans preschool to tertiary, featuring national and vernacular schools with multiple language mediums. Preschool is mainly private and non-compulsory; primary education is compulsory. Secondary education includes diverse school types and curricula such as IB and Cambridge, with compulsory secondary schooling starting in 2024. Higher education encompasses universities, polytechnics, and private collaborations, with historically significant Bumiputera quotas mostly abolished except in matriculation. Reforms focus on universal access, curriculum modernization, English proficiency, teacher quality, and minority inclusivity. Challenges include rural dropout rates, infrastructure gaps, racial polarization, and brain drain.
+
+## Philippines
+The Philippines employs a K–12 system fully implemented in 2017, governed by multiple agencies. The curriculum uses mother tongue-based multilingual education and diverse senior high school tracks. Alternative programs support out-of-school youth and persons with disabilities. With around 32 million students, primary completion rates are high but secondary dropouts and functional literacy (70.8%) remain concerns. Barriers include overcrowded schools, material shortages, hidden costs, and regional disparities. Teacher quality and low licensure pass rates challenge outcomes. COVID-19 worsened learning losses. Reforms include the “Matatag” K–12 curriculum (2024–2028) emphasizing nationalist values and workforce readiness. Higher education is predominantly private with extensive foreign student enrollment.
+
+---
+
+This synthesis highlights global education systems grappling with equity, quality, and access issues amid varied socioeconomic contexts, reflecting ongoing reform efforts to improve curricula, teacher capacity, infrastructure, and inclusivity.

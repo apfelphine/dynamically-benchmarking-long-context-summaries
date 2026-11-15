@@ -1,0 +1,3 @@
+The Thomas J. Watson Foundation is a charitable trust formed 1961 in honor of former chairman and CEO of IBM, Thomas J. Watson. The Watson Foundation operates two programs, the Thomas J. Watson Fellowship and the Jeannette K. Watson Fellowship.
+The two programs were based in Providence and New York City, but in 2006 the two fellowships were united in New York.
+In 2018 the Watson Foundation celebrated its 50th anniversary. The Foundation moved into its new offices in New York's Woolworth Building that same year.

@@ -1,0 +1,7 @@
+## Autoencoder Summary
+
+An autoencoder is a system defined by two functions: an encoder, $E_{\phi}: \mathcal{X} \rightarrow \mathcal{Z}$, which maps an input message from the space $\mathcal{X}$ to a code (latent variable) $\mathcal{Z}$, and a decoder, $D_{\theta}: \mathcal{Z} \rightarrow \mathcal{X}$, which reconstructs the message from the code. Typically, both the encoder and decoder are implemented as multilayer perceptrons (MLPs).
+
+The quality of an autoencoder is assessed based on a reference probability distribution ($\mu_{ref}$) and a reconstruction quality function ($d(x, x')$). The training objective is to minimize the loss function $L(\theta, \phi) = \mathbb{E}_{x \sim \mu_{ref}}[d(x, D_{\theta}(E_{\phi}(x)))]$, usually achieved via gradient descent. To prevent the trivial solution of duplicating the signal, the code space ($\mathcal{Z}$) is typically made smaller than the message space ($\mathcal{X}$), resulting in an undercomplete autoencoder that acts as a dimensionality reduction or feature learning mechanism.
+
+Various variations exist, including the **Variational Autoencoder (VAE)**, which models the latent space as a mixture of distributions instead of fixed vectors, optimizing a lower bound of the data likelihood using the Kullback–Leibler divergence (KL-D). Other variations include **Sparse Autoencoders (SAE)**, which enforce that the latent codes are sparse, and **Denoising Autoencoders (DAE)**, which improve representation by training on intentionally corrupted inputs.

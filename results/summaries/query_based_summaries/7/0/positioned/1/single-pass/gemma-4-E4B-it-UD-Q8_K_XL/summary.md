@@ -1,0 +1,1 @@
+There is no information regarding "Education in Greece" in the provided text. The provided text contains information about Education in Germany, Education in China, and Education in India.

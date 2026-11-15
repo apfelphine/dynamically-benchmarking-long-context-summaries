@@ -1,0 +1,34 @@
+{
+  "id": 57932391,
+  "title": "I Am Mother",
+  "url": "https://en.wikipedia.org/wiki/I_Am_Mother",
+  "path": "AI-Fiction\\i-am-mother",
+  "summary": {
+    "chars": 473,
+    "tokens": 114
+  },
+  "document": {
+    "chars": 5294,
+    "tokens": 1093
+  },
+  "infobox": {
+    "title": "I Am Mother",
+    "data": {
+      "Directed by": "Grant Sputore",
+      "Screenplay by": "Michael Lloyd Green",
+      "Story by": "- Grant Sputore - Michael Lloyd Green",
+      "Produced by": "- Timothy White - Kelvin Munro",
+      "Starring": "- Clara Rugaard - Luke Hawker - Rose Byrne - Hilary Swank",
+      "Cinematography": "Steve D. Annis",
+      "Edited by": "Sean Lahiff",
+      "Music by": "- Dan Luscombe - Antony Partos",
+      "Production \u00b7 companies": "- The Penguin Empire - Southern Light Films",
+      "Distributed by": "Netflix",
+      "Release dates": "- 25 January 2019 (Sundance) - 7 June 2019 (Australia)",
+      "Running time": "113 minutes",
+      "Country": "Australia",
+      "Language": "English",
+      "Box office": "$643,593"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": 80901938,
+  "title": "Raine v. OpenAI",
+  "url": "https://en.wikipedia.org/wiki/Raine_v._OpenAI",
+  "path": "AI-Regulations\\raine-v-openai",
+  "summary": {
+    "chars": 818,
+    "tokens": 164
+  },
+  "document": {
+    "chars": 7952,
+    "tokens": 1710
+  },
+  "infobox": {
+    "title": "Raine v. OpenAI",
+    "data": {
+      "Date": "August 26, 2025",
+      "Location": "San Francisco, California, United States",
+      "Type": "Lawsuit",
+      "Cause": "Negligence, product liability, wrongful death",
+      "Participants": "Matthew and Maria Raine (plaintiffs), OpenAI, Sam Altman, unnamed OpenAI employees and investors (defendants)",
+      "Outcome": "Ongoing"
+    }
+  }
+}

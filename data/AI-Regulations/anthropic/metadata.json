@@ -1,0 +1,28 @@
+{
+  "id": 6206236,
+  "title": "Anthropic",
+  "url": "https://en.wikipedia.org/wiki/Anthropic",
+  "path": "AI-Regulations\\anthropic",
+  "summary": {
+    "chars": 703,
+    "tokens": 151
+  },
+  "document": {
+    "chars": 13232,
+    "tokens": 2804
+  },
+  "infobox": {
+    "title": "Anthropic PBC",
+    "data": {
+      "Company type": "Private",
+      "Industry": "Artificial intelligence",
+      "Founded": "2021",
+      "Founders": "- Dario Amodei - Daniela Amodei - Jared Kaplan - Jack Clark - Ben Mann",
+      "Headquarters": "500 Howard Street, \u00b7 San Francisco, California, U.S.",
+      "Key people": "- Dario Amodei (CEO) - Daniela Amodei (President) - Mike Krieger (CPO)",
+      "Products": "Claude \u00b7 Claude Code",
+      "Number of employees": "1,300 (2025)",
+      "Website": "anthropic.com"
+    }
+  }
+}

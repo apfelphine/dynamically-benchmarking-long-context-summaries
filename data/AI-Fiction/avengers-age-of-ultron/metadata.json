@@ -1,0 +1,35 @@
+{
+  "id": 36484254,
+  "title": "Avengers: Age of Ultron",
+  "url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron",
+  "path": "AI-Fiction\\avengers-age-of-ultron",
+  "summary": {
+    "chars": 2135,
+    "tokens": 502
+  },
+  "document": {
+    "chars": 69711,
+    "tokens": 14889
+  },
+  "infobox": {
+    "title": "Avengers: Age of Ultron",
+    "data": {
+      "Directed by": "Joss Whedon",
+      "Written by": "Joss Whedon",
+      "Based on": "Avengers \u00b7 by - Stan Lee - Jack Kirby",
+      "Produced by": "Kevin Feige",
+      "Starring": "- Robert Downey Jr. - Chris Hemsworth - Mark Ruffalo - Chris Evans - Scarlett Johansson - Jeremy Renner - Don Cheadle - Aaron Taylor-Johnson - Elizabeth Olsen - Paul Bettany - Cobie Smulders - Anthony Mackie - Hayley Atwell - Idris Elba - Linda Cardellini - Stellan Skarsg\u00e5rd - James Spader - Samuel L. Jackson",
+      "Cinematography": "Ben Davis",
+      "Edited by": "- Jeffrey Ford - Lisa Lassek",
+      "Music by": "- Brian Tyler - Danny Elfman",
+      "Production \u00b7 company": "Marvel Studios",
+      "Distributed by": "Walt Disney Studios \u00b7 Motion Pictures",
+      "Release dates": "- April 13, 2015 (Dolby Theatre) - May 1, 2015 (United States)",
+      "Running time": "141 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "- $444\u2013495.2 million (gross) - $365 million (net)",
+      "Box office": "$1.405 billion"
+    }
+  }
+}

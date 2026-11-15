@@ -1,0 +1,28 @@
+{
+  "id": 299443,
+  "title": "John Hopcroft",
+  "url": "https://en.wikipedia.org/wiki/John_Hopcroft",
+  "path": "Comp-Sci-Pioneers\\john-hopcroft",
+  "summary": {
+    "chars": 544,
+    "tokens": 111
+  },
+  "document": {
+    "chars": 3679,
+    "tokens": 812
+  },
+  "infobox": {
+    "title": "John Edward Hopcroft",
+    "data": {
+      "Born": "October 7, 1939 \u00b7 Seattle, Washington, U.S.",
+      "Education": "Seattle University (BS) \u00b7 Stanford University (MS, PhD)",
+      "Awards": "- Turing Award (1986) - Member of the National Academy of Sciences - Member of the National Academy of Engineering - Foreign Member of the Chinese Academy of Sciences - Fellow of the American Academy of Arts and Sciences - Fellow of the American Association for the Advancement of Science - Fellow of the Institute of Electrical and Electronics Engineers - Fellow of the Association for Computing Machinery",
+      "Fields": "Computer science",
+      "Institutions": "- Stanford University - Princeton University - Cornell University",
+      "Thesis": "Synthesis of Threshold Logic Networks (1964)",
+      "Doctoral advisor": "Richard Mattson",
+      "Doctoral students": "- Alfred Aho - Chandrajit Bajaj - Gilles Brassard - Richard J. Cole - Cynthia Dwork - Zvi Galil - Daniela L. Rus - Harry B. Hunt, III - Balas Natarajan Kausik",
+      "Website": "cs.cornell.edu/jeh"
+    }
+  }
+}

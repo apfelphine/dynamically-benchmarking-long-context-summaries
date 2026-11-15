@@ -1,0 +1,25 @@
+{
+  "id": 10207,
+  "title": "\u00c9mile Baudot",
+  "url": "https://en.wikipedia.org/wiki/%C3%89mile_Baudot",
+  "path": "Comp-Sci-Pioneers\\emile-baudot",
+  "summary": {
+    "chars": 390,
+    "tokens": 95
+  },
+  "document": {
+    "chars": 9344,
+    "tokens": 2077
+  },
+  "infobox": {
+    "title": "\u00c9mile Baudot",
+    "data": {
+      "Born": "11 September 1845 \u00b7 Magneux, Haute-Marne, France",
+      "Died": "28 March 1903 (aged 57) \u00b7 Sceaux, Hauts-de-Seine, France",
+      "Spouse": "Marie Josephine Adelaide Langrognet",
+      "Projects": "Baudot code",
+      "Significant advance": "telecommunications",
+      "Awards": "- Gold medal of the Exposition Universelle (1878) - Knight's Cross of the L\u00e9gion d'honneur, 1879 - Officer of the Ordre national de la L\u00e9gion d'honneur, 1898"
+    }
+  }
+}

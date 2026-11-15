@@ -1,0 +1,22 @@
+{
+  "id": 437550,
+  "title": "John L. Hennessy",
+  "url": "https://en.wikipedia.org/wiki/John_L._Hennessy",
+  "path": "Comp-Sci-Pioneers\\john-l-hennessy",
+  "summary": {
+    "chars": 573,
+    "tokens": 133
+  },
+  "document": {
+    "chars": 6601,
+    "tokens": 1445
+  },
+  "infobox": {
+    "title": "10th President of Stanford University",
+    "data": {
+      "10th President of Stanford University": "In office \u00b7 September 1, 2000 \u2013 August 31, 2016",
+      "Preceded by": "Gerhard Casper",
+      "Succeeded by": "Marc Tessier-Lavigne"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+Hubert Lederer Dreyfus (/ˈdraɪfəs/ DRY-fəs; October 15, 1929 – April 22, 2017) was an American philosopher and a professor of philosophy at the University of California, Berkeley. His main interests included phenomenology, existentialism and the philosophy of both psychology and literature, as well as the philosophical implications of artificial intelligence. He was widely known for his exegesis of Martin Heidegger, which critics labeled "Dreydegger".
+Dreyfus was featured in Tao Ruspoli's film Being in the World (2010), and was among the philosophers interviewed by Bryan Magee for the BBC Television series The Great Philosophers (1987).
+The Futurama character Professor Hubert Farnsworth is partly named after him, writer Eric Kaplan having been a former student.

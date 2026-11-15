@@ -1,0 +1,43 @@
+{
+  "id": 23922,
+  "title": "Princeton University",
+  "url": "https://en.wikipedia.org/wiki/Princeton_University",
+  "path": "Universities\\princeton-university",
+  "summary": {
+    "chars": 2868,
+    "tokens": 571
+  },
+  "document": {
+    "chars": 70117,
+    "tokens": 14300
+  },
+  "infobox": {
+    "title": "Princeton University",
+    "data": {
+      "Former names": "College of New Jersey (1746\u20131896)",
+      "Motto": "Dei Sub Numine Viget (Latin) \u00b7 On seal: Vet[us] Nov[um] Testamentum (Latin)",
+      "Motto in English": "\"Under God's Power She Flourishes\" \u00b7 On seal: \"Old Testament and New Testament\"",
+      "Type": "Private research university",
+      "Established": "October 22, 1746",
+      "Accreditation": "MSCHE",
+      "Academic affiliations": "AAU COFHE NAICU URA Space-grant",
+      "Endowment": "$35.8 billion (2022)",
+      "President": "Christopher L. Eisgruber",
+      "Provost": "Jennifer Rexford",
+      "Academic staff": "1,068 (fall 2021)",
+      "Total staff": "7,300",
+      "Students": "8,478 (fall 2021)",
+      "Undergraduates": "5,321 (fall 2021)",
+      "Postgraduates": "3,157 (fall 2021)",
+      "Doctoral students": "2,631 (fall 2019)",
+      "Location": "Princeton, New Jersey, United States \u00b7 40\u00b020\u203243\u2033N 74\u00b039\u203222\u2033W\ufeff / \ufeff40.34528\u00b0N 74.65611\u00b0W",
+      "Campus": "Small city, 600 acres (2.4 km2)",
+      "Newspaper": "The Daily Princetonian",
+      "Colors": "Black and orange",
+      "Nickname": "Tigers",
+      "Sporting affiliations": "NCAA Division I FCS \u2013 Ivy League ECAC Hockey EARC EIVA CWPA IRA EAWRC",
+      "Mascot": "The Tiger",
+      "Website": "princeton.edu"
+    }
+  }
+}

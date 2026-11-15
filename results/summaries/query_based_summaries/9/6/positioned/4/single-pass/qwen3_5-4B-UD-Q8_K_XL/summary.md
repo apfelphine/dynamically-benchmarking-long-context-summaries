@@ -1,0 +1,1 @@
+The provided text does not contain information regarding education in New Zealand; it exclusively details the education systems of Bangladesh, Canada, Saudi Arabia, the Czech Republic, Mexico, Pakistan, Japan, Russia, the Netherlands, and South Korea. Consequently, a summary of education in New Zealand cannot be generated from the source material.

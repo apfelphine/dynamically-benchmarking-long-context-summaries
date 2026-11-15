@@ -1,0 +1,1 @@
+The provided text contains no information regarding "Education in Norway," as it exclusively details the education systems of other countries.

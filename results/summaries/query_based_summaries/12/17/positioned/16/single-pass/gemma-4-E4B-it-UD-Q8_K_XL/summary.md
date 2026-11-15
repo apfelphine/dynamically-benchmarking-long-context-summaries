@@ -1,0 +1,5 @@
+## King's Scholar
+
+The tradition of King's Scholars began on July 7, 1317, when King Edward II established the first scholars at the University of Cambridge. Later, in 1440, King Henry VI founded Eton College, which became a charity school providing free education to "poor, scholarly boys."
+
+At Eton College, a King's Scholar (also known as a "Colleger" or "tug") must pass the College Election examination and be admitted into the "College" house. These scholars wear a black academic gown and are distinguished by the post-nominal letters KS appended to their names. Historically, the Foundation Scholarship offered a full waiver of all school fees, although since the 1960s, this scholarship has been subject to means testing. The tradition extends to King's College Cambridge, where the term also refers to undergraduates who achieve first-class degrees and receive a prize of £350.

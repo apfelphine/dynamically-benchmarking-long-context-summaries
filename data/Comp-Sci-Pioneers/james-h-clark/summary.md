@@ -1,0 +1,2 @@
+James Henry Clark (born March 23, 1944) is an American entrepreneur and computer scientist. He founded several notable Silicon Valley technology companies, including Silicon Graphics, Netscape, myCFO, and Healtheon. His research work in computer graphics led to the development of systems for the fast rendering of three-dimensional computer images.
+In 1998, Clark was elected a member of the National Academy of Engineering for the development of computer graphics and for technical leadership in the computer industry.

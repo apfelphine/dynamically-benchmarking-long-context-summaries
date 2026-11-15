@@ -1,0 +1,24 @@
+## Rhodes Scholarship
+The Rhodes Trust established the Rhodes Scholarships in 1902 based on Cecil John Rhodes' final will, initially intending to promote unity within the British Empire and strengthen diplomatic ties between Britain and the USA. Despite Rhodes' Anglo-supremacist beliefs, the final will stipulated no disqualification based on race or religion. The scholarship is administered in Oxford, and since 2018, it is open globally.
+
+The selection criteria emphasize literary and scholastic attainments, character, courage, and sympathy for the weak. The global acceptance rate is very low (0.7%). Historically, the scholarship was limited to single men under 25, but it became open to women in 1977 following the Sex Discrimination Act 1975. Controversies include critiques regarding Rhodes' colonialism, the historical exclusion of Black Africans from Southern Africa scholarships, and criticism over scholars' career choices outside of public service.
+
+## Comparative Scholarships & Other Awards
+Several other significant scholarships mirror or contrast the Rhodes model. The **Marshall Scholarship**, established in 1953, aims to enable intellectually distinguished American future leaders to study in the UK to strengthen UK-US understanding, favoring American citizens and being highly selective. The **Kennedy Scholarship** (1966) is a memorial scholarship allowing ten British post-graduate students to study at Harvard or MIT. The **Harkness Fellowships** (1925), which reciprocate Rhodes by allowing British graduates to study in the US, have since focused on health care policy.
+
+Other notable programs include the **Fulbright Program**, which promotes international exchange of students and scholars, and the **Studienstiftung**, a German scholarship supporting excellence, initiative, and responsibility across various disciplines. The **Shuping Scholarship** in Shanghai, founded in 1939, emphasizes serving society, particularly supporting financially disadvantaged students.
+
+## Literary and Cultural Anthologies
+*Daughters of Africa*, edited by Margaret Busby, is a landmark anthology gathering fiction, poetry, memoir, and essays by over 200 Black women writers from across the diaspora, tracing a continuous tradition of women's writing across continents and centuries. The companion volume, *New Daughters of Africa* (2019), expands this collection, organized by birth decade, and the associated **Margaret Busby New Daughters of Africa Award** supports African women students.
+
+## British Council
+The British Council is a royal charter charity sponsored by the Foreign, Commonwealth and Development Office, promoting UK culture and English language knowledge globally. Historically, it established offices to counter extremist ideologies. The Council engages in numerous activities, including running the IELTS exam, implementing educational partnerships (e.g., RENKEI network), and promoting arts and culture through initiatives like *fiveFilms4freedom*. The organization has faced controversies regarding its outsourcing to Indian partners, security threats in various regions, and handling of personnel during political changes in countries like Russia and Afghanistan.
+
+## Other Programs and Events
+The **Thurgood Marshall College Fund (TMCF)** supports public Historically Black Colleges and Universities (HBCUs) in the US, growing through significant philanthropic donations. The **National Merit Scholarship Program** uses the PSAT/NMSQT to identify high-achieving American high school students, although its reliance solely on standardized tests has faced criticism. The **Edmund S. Muskie Internship Program** provides professional exchange opportunities for Eurasian scholars in the US.
+
+## Pageant History
+The **Miss America Pageant** originated in Atlantic City in 1920. Over its decades, it has evolved, moving from an event tied to attracting tourism to one that has faced protests over sexism, racism, and militarism. The pageant has seen significant shifts in its format and focus, including the implementation and later reversal of "Miss America 2.0" changes, and it has recently filed for bankruptcy protection.
+
+## Summary of Key Themes
+Across these documents, recurring themes include the aspiration for global understanding and peace (seen in Marshall, Fulbright, and the goals of the Rhodes Scholarship); the role of education in driving social mobility and challenging inequality (central to Rhodes, UNCF, and the National Merit Program); and the complex relationship between powerful cultural institutions and contemporary social justice critiques (visible in the controversies surrounding the Rhodes Scholarship and the Miss America pageant).

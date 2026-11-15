@@ -1,0 +1,5 @@
+## Accelerationism Summary
+
+Accelerationism is a concept with three historical waves. The first wave involved late 1960s and early 1970s French post-Marxists like Deleuze, Guattari, Lyotard, and Baudrillard. The second wave emerged in the 1990s with Nick Land and the CCRU, and the third is described as the Promethean left-accelerationism of the 2010s.
+
+The core tenet of accelerationism is that contradictions within systems, such as capitalism, must be met by their own aggravation. This can involve "riding" the forces of capitalist production and directing them to destabilize capitalism itself, as suggested by Benjamin Noys. Accelerationism adheres to posthumanism and antihumanism, often embracing a Prometheanism that views technology and innovation as means to surpass human limitations. Variations include right-wing accelerationism, which celebrates unregulated capitalism's self-improvement, and left-wing accelerationism, which seeks to accelerate past capitalism by democratizing productive technologies. A key related concept is hyperstition, the idea that chosen beliefs about the future can retroactively shape present realities.

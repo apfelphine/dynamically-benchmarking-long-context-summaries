@@ -1,0 +1,25 @@
+{
+  "id": 31890983,
+  "title": "Victoria Award",
+  "url": "https://en.wikipedia.org/wiki/Victoria_Award",
+  "path": "Scholarships\\victoria-award",
+  "summary": {
+    "chars": 270,
+    "tokens": 68
+  },
+  "document": {
+    "chars": 4120,
+    "tokens": 793
+  },
+  "infobox": {
+    "title": "Victoria Award",
+    "data": {
+      "Awarded for": "sporting award",
+      "Date": "14 July 1979",
+      "Location": "Borgholm",
+      "Country": "Sweden",
+      "Presented by": "Victoria of Sweden",
+      "Website": "https://victoriadagarna.se/victoriapriset"
+    }
+  }
+}

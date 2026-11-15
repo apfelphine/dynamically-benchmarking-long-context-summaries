@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computation, Philosophy, Science Policy, Software Freedom, and Innovation\n## Alan Turing\nAlan Turing (1912\u20131954) fundamentally shaped computation and artificial intelligence with the creation of the Turing machine, formulation of the halting problem, and the Turing test. His WWII cryptographic breakthroughs\u2014including the Bombe and Colossus\u2014left a lasting impact on coding theory, chess programming, and mathematical biology.",
+        "text_original": "Alan Turing (1912\u20131954) fundamentally shaped computation and artificial intelligence with the creation of the Turing machine, formulation of the halting problem, and the Turing test. His WWII cryptographic breakthroughs\u2014including the Bombe and Colossus\u2014left a lasting impact on coding theory, chess programming, and mathematical biology",
+        "idx_start": 105,
+        "idx_end": 441
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computation, Philosophy, Science Policy, Software Freedom, and Innovation\n## Charles Babbage\nCharles Babbage (1791\u20131871) designed the Difference and Analytical Engines, laying the groundwork for modern computing and influencing contemporaries like Ada Lovelace. His innovations spanned cryptography, statistics, engineering, and scientific management, with enduring influence on programming, museums, and language nomenclature.",
+        "text_original": "Charles Babbage (1791\u20131871) designed the Difference and Analytical Engines, laying the groundwork for modern computing and influencing contemporaries like Ada Lovelace. His innovations spanned cryptography, statistics, engineering, and scientific management, with enduring influence on programming, museums, and language nomenclature",
+        "idx_start": 464,
+        "idx_end": 797
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computation, Philosophy, Science Policy, Software Freedom, and Innovation\n## Ada Lovelace\nAda Lovelace fused poetic intuition with mathematics, collaborating with Babbage on analytical engines and producing the first published computer program in her annotated translation of Menabrea\u2019s work. Her philosophical vision for computation\u2019s potential has earned global recognition through awards, commemorations, and cultural portrayals, despite ongoing debates about her originality.",
+        "text_original": "Ada Lovelace fused poetic intuition with mathematics, collaborating with Babbage on analytical engines and producing the first published computer program in her annotated translation of Menabrea\u2019s work. Her philosophical vision for computation\u2019s potential has earned global recognition through awards, commemorations, and cultural portrayals, despite ongoing debates about her originality",
+        "idx_start": 817,
+        "idx_end": 1205
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computation, Philosophy, Science Policy, Software Freedom, and Innovation\n## Leonardo Torres Quevedo\nLeonardo Torres Quevedo (1852\u20131936) pushed forward automation and control systems, inventing cableways, calculators, programmable devices, and the chess-playing machine *El Ajedrecista* . His work extended to navigation, railway safety, speech technology, and educational innovation.",
+        "text_original": "Leonardo Torres Quevedo (1852\u20131936) pushed forward automation and control systems, inventing cableways, calculators, programmable devices, and the chess-playing machine *El Ajedrecista*. His work extended to navigation, railway safety, speech technology, and educational innovation",
+        "idx_start": 1236,
+        "idx_end": 1517
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computation, Philosophy, Science Policy, Software Freedom, and Innovation\n## Vannevar Bush\nVannevar Bush (1890\u20131974) drove innovation in engineering and American science policy, developing the differential analyzer, co-founding Raytheon, and guiding key WWII research projects. He envisioned the \"memex\" as a precursor to hypertext and the Web, and influenced the establishment of the National Science Foundation.",
+        "text_original": "Vannevar Bush (1890\u20131974) drove innovation in engineering and American science policy, developing the differential analyzer, co-founding Raytheon, and guiding key WWII research projects. He envisioned the \"memex\" as a precursor to hypertext and the Web, and influenced the establishment of the National Science Foundation",
+        "idx_start": 1538,
+        "idx_end": 1859
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computation, Philosophy, Science Policy, Software Freedom, and Innovation\n## Alfred North Whitehead\nAlfred North Whitehead (1861\u20131947) co-authored *Principia Mathematica* , contributed to algebra, process philosophy, and theology, shaping discourse in science, religion, and education. His enduring legacy is seen in influential philosophical texts.",
+        "text_original": "Alfred North Whitehead (1861\u20131947) co-authored *Principia Mathematica*, contributed to algebra, process philosophy, and theology, shaping discourse in science, religion, and education. His enduring legacy is seen in influential philosophical texts",
+        "idx_start": 1889,
+        "idx_end": 2136
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computation, Philosophy, Science Policy, Software Freedom, and Innovation\n## Philip Rubin\nPhilip Rubin (b. 1949) is renowned for contributions to speech synthesis, perception, neuroscience, and science policy. His leadership has shaped computational modeling, STEM education, ethics, and science administration.",
+        "text_original": "Philip Rubin (b. 1949) is renowned for contributions to speech synthesis, perception, neuroscience, and science policy. His leadership has shaped computational modeling, STEM education, ethics, and science administration",
+        "idx_start": 2156,
+        "idx_end": 2376
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computation, Philosophy, Science Policy, Software Freedom, and Innovation\n## Richard Stallman\nRichard Stallman (b. 1953), founder of the GNU Project and Free Software Foundation, transformed software development and digital rights. He developed Emacs, copyleft, and the GNU General Public License, championing software freedom and opposing proprietary systems and surveillance.",
+        "text_original": "Richard Stallman (b. 1953), founder of the GNU Project and Free Software Foundation, transformed software development and digital rights. He developed Emacs, copyleft, and the GNU General Public License, championing software freedom and opposing proprietary systems and surveillance",
+        "idx_start": 2400,
+        "idx_end": 2682
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computation, Philosophy, Science Policy, Software Freedom, and Innovation\n## Blaise Pascal\nBlaise Pascal was a pioneer in mathematics, physics, invention, and philosophy, helping to establish fluid mechanics and probability theory, and introducing Pascal\u2019s wager. His influential inventions include the hydraulic press, and his writings\u2014 *Pens\u00e9es* , *Treatise on the Arithmetical Triangle* , and the \"Provincial Letters\"\u2014are foundational in philosophy and literature.",
+        "text_original": "Blaise Pascal was a pioneer in mathematics, physics, invention, and philosophy, helping to establish fluid mechanics and probability theory, and introducing Pascal\u2019s wager. His influential inventions include the hydraulic press, and his writings\u2014*Pens\u00e9es*, *Treatise on the Arithmetical Triangle*, and the \"Provincial Letters\"\u2014are foundational in philosophy and literature",
+        "idx_start": 2703,
+        "idx_end": 3075
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computation, Philosophy, Science Policy, Software Freedom, and Innovation\n## Hedy Lamarr\nHedy Lamarr (1914\u20132000) was a celebrated movie star and self-taught inventor, co-patenting frequency-hopping technology pivotal for wireless communications. Initially unrecognized, her scientific achievements have since earned wide acclaim, including the EFF Pioneer Award and induction into the National Inventors Hall of Fame. Her cinematic and technological legacy is reflected in numerous honors\u2014such as streets, a telescope, an asteroid, a Star Trek starship class, and a star on the Hollywood Walk of Fame. Lamarr's life and work continue to inspire popular culture through mentions in novels, films ( *Blazing Saddles* , *Little Shop of Horrors* ), video games ( *Half-Life 2* ), stage plays ( *Frequency Hopping* , *HEDY!* ), documentaries ( *Bombshell* ), television portrayals, Google Doodles, and tributes in recent media. Her impact is celebrated globally, embodying innovation across both entertainment and science.",
+        "text_original": "Hedy Lamarr (1914\u20132000) was a celebrated movie star and self-taught inventor, co-patenting frequency-hopping technology pivotal for wireless communications. Initially unrecognized, her scientific achievements have since earned wide acclaim, including the EFF Pioneer Award and induction into the National Inventors Hall of Fame. Her cinematic and technological legacy is reflected in numerous honors\u2014such as streets, a telescope, an asteroid, a Star Trek starship class, and a star on the Hollywood Walk of Fame. Lamarr's life and work continue to inspire popular culture through mentions in novels, films (*Blazing Saddles*, *Little Shop of Horrors*), video games (*Half-Life 2*), stage plays (*Frequency Hopping*, *HEDY!*), documentaries (*Bombshell*), television portrayals, Google Doodles, and tributes in recent media. Her impact is celebrated globally, embodying innovation across both entertainment and science",
+        "idx_start": 3094,
+        "idx_end": 4011
+    }
+]

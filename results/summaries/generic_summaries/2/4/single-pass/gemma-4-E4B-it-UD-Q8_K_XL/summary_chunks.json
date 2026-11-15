@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Philosophical Debates on Mind and Intelligence\n## The Chinese Room Argument\nJohn Searle's Chinese Room thought experiment challenges Strong AI by positing that a program simulating understanding (syntax) is not equivalent to actual understanding (semantics). The experiment suggests that a person following rules to manipulate Chinese symbols, without knowing their meaning, does not understand Chinese. Searle concludes that syntax alone is insufficient for semantics, leading him to argue that computers running programs do not possess a human-like mind.",
+        "text_original": "John Searle's Chinese Room thought experiment challenges Strong AI by positing that a program simulating understanding (syntax) is not equivalent to actual understanding (semantics). The experiment suggests that a person following rules to manipulate Chinese symbols, without knowing their meaning, does not understand Chinese. Searle concludes that syntax alone is insufficient for semantics, leading him to argue that computers running programs do not possess a human-like mind",
+        "idx_start": 79,
+        "idx_end": 558
+    },
+    {
+        "document_idx": null,
+        "text": "# Philosophical Debates on Mind and Intelligence\n## Strong AI vs. Biological Naturalism\nStrong AI asserts that a correct simulation of a mind *is* a mind. Searle counters this with **biological naturalism** , arguing that consciousness and understanding require specific physical-chemical properties of actual human brains\u2014the \"neural correlates of consciousness.\" This position contrasts with **functionalism** and **computationalism** , which hold that mental states are defined by their function, making the brain's specific hardware irrelevant.",
+        "text_original": "Strong AI asserts that a correct simulation of a mind *is* a mind. Searle counters this with **biological naturalism**, arguing that consciousness and understanding require specific physical-chemical properties of actual human brains\u2014the \"neural correlates of consciousness.\" This position contrasts with **functionalism** and **computationalism**, which hold that mental states are defined by their function, making the brain's specific hardware irrelevant",
+        "idx_start": 600,
+        "idx_end": 1057
+    },
+    {
+        "document_idx": null,
+        "text": "# Philosophical Debates on Mind and Intelligence\n## Turing Test Critiques\nAlan Turing proposed the Imitation Game to address whether machines can think, but Searle's Chinese Room demonstrates the test's insufficiency; passing it only proves sophisticated behavioral simulation, not actual intentionality or mind. Various replies have emerged, such as the **System Reply** (where the whole system understands) and the **Robot Reply** (where physical interaction provides meaning), but Searle maintains these ultimately fail to explain genuine understanding.",
+        "text_original": "Alan Turing proposed the Imitation Game to address whether machines can think, but Searle's Chinese Room demonstrates the test's insufficiency; passing it only proves sophisticated behavioral simulation, not actual intentionality or mind. Various replies have emerged, such as the **System Reply** (where the whole system understands) and the **Robot Reply** (where physical interaction provides meaning), but Searle maintains these ultimately fail to explain genuine understanding",
+        "idx_start": 1085,
+        "idx_end": 1566
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism and Singularity\n## Transhumanist Goals and Trajectories\nTranshumanism seeks to fundamentally improve the human condition by applying technology to overcome biological limitations, including aging and death. Early proponents, like J. B. S. Haldane and Julian Huxley, anticipated radical changes. Modern currents include **Abolitionism** (eradicating suffering) and **Immortalism** (achieving life extension).",
+        "text_original": "Transhumanism seeks to fundamentally improve the human condition by applying technology to overcome biological limitations, including aging and death. Early proponents, like J. B. S. Haldane and Julian Huxley, anticipated radical changes. Modern currents include **Abolitionism** (eradicating suffering) and **Immortalism** (achieving life extension",
+        "idx_start": 1642,
+        "idx_end": 1991
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism and Singularity\n## Technological Singularity\nThe technological singularity, first theorized by I. J. Good and popularized by Vernor Vinge and Ray Kurzweil, posits a point of ultra-rapid, self-improving intelligence explosion where machines vastly surpass human intellect. Proponents argue this is inevitable due to **exponential growth** (Kurzweil's Law of Accelerating Returns), while critics question its scientific rigor, pointing to potential **complexity brakes** or inherent limits.",
+        "text_original": "The technological singularity, first theorized by I. J. Good and popularized by Vernor Vinge and Ray Kurzweil, posits a point of ultra-rapid, self-improving intelligence explosion where machines vastly surpass human intellect. Proponents argue this is inevitable due to **exponential growth** (Kurzweil's Law of Accelerating Returns), while critics question its scientific rigor, pointing to potential **complexity brakes** or inherent limits",
+        "idx_start": 2024,
+        "idx_end": 2466
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics and Fairness in AI\n## Algorithmic Bias and Fairness Criteria\nAlgorithmic bias refers to systematic, repeatable errors that cause unfair outcomes by privileging certain groups. Bias can originate from **pre-existing** social ideologies, **machine learning** processes, or **emergent** use contexts. Fairness lacks a universal definition; criteria include **Independence** (equal classification rates across groups), **Separation** (equal prediction rates given the actual outcome), and **Sufficiency** .",
+        "text_original": "Algorithmic bias refers to systematic, repeatable errors that cause unfair outcomes by privileging certain groups. Bias can originate from **pre-existing** social ideologies, **machine learning** processes, or **emergent** use contexts. Fairness lacks a universal definition; criteria include **Independence** (equal classification rates across groups), **Separation** (equal prediction rates given the actual outcome), and **Sufficiency",
+        "idx_start": 2540,
+        "idx_end": 2977
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics and Fairness in AI\n## Bias Mitigation and Governance\nMitigation strategies include **preprocessing** (e.g., reweighting data), **inprocessing** (adding fairness constraints during training), and **postprocessing** (adjusting final thresholds). Regulatory efforts vary globally: the **EU's GDPR** limits solely automated, significant decision-making, while the **U.S.** lacks comprehensive federal legislation, relying on industry standards and localized bills like New York City's bias audits.",
+        "text_original": "Mitigation strategies include **preprocessing** (e.g., reweighting data), **inprocessing** (adding fairness constraints during training), and **postprocessing** (adjusting final thresholds). Regulatory efforts vary globally: the **EU's GDPR** limits solely automated, significant decision-making, while the **U.S.** lacks comprehensive federal legislation, relying on industry standards and localized bills like New York City's bias audits",
+        "idx_start": 3016,
+        "idx_end": 3455
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodiment and Cognitive Science\n## Embodied Cognition Thesis\nThis theory posits that cognition is not solely an abstract product of the brain but is significantly shaped by the body and its interaction with the environment, opposing Cartesian dualism. Proponents argue that experiences, such as perception and language, are rooted in **sensorimotor capacities** .",
+        "text_original": "This theory posits that cognition is not solely an abstract product of the brain but is significantly shaped by the body and its interaction with the environment, opposing Cartesian dualism. Proponents argue that experiences, such as perception and language, are rooted in **sensorimotor capacities",
+        "idx_start": 3523,
+        "idx_end": 3821
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodiment and Cognitive Science\n## Applications of Embodiment\nEmbodied cognition has impacted diverse fields. In **education** , it promotes kinesthetic and action-based learning. In **AI and robotics** , it drives the shift toward **embodied AI** and situated robotics, moving away from purely symbolic computation. In **social psychology** , it explains how bodily synchrony and perspective-taking affect social judgment.",
+        "text_original": "Embodied cognition has impacted diverse fields. In **education**, it promotes kinesthetic and action-based learning. In **AI and robotics**, it drives the shift toward **embodied AI** and situated robotics, moving away from purely symbolic computation. In **social psychology**, it explains how bodily synchrony and perspective-taking affect social judgment",
+        "idx_start": 3856,
+        "idx_end": 4213
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Fields\n- **Philosophy of Mind:** The Chinese Room debate contrasts syntactic processing (computation) with semantic understanding (mind).\n- **Artificial Intelligence & Singularity:** Concepts range from the Turing Test to the exponential growth leading to superhuman intelligence.\n- **AI Ethics & Bias:** Fairness is defined by multiple mathematical criteria, and mitigation strategies span data, training, and output adjustments.\n- **Embodied Cognition:** This field argues that bodily experience is fundamental to shaping all cognitive functions, from language to emotion.",
+        "text_original": "Philosophy of Mind:** The Chinese Room debate contrasts syntactic processing (computation) with semantic understanding (mind).\n*   **Artificial Intelligence & Singularity:** Concepts range from the Turing Test to the exponential growth leading to superhuman intelligence.\n*   **AI Ethics & Bias:** Fairness is defined by multiple mathematical criteria, and mitigation strategies span data, training, and output adjustments.\n*   **Embodied Cognition:** This field argues that bodily experience is fundamental to shaping all cognitive functions, from language to emotion",
+        "idx_start": 4246,
+        "idx_end": 4814
+    }
+]

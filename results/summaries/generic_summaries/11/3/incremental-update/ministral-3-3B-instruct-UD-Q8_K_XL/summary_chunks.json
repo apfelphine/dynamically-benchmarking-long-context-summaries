@@ -1,0 +1,44 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs), Wasserstein GANs (WGANs), Variational Autoencoders (VAEs), Vision Transformers (ViTs), Self-Supervised Learning, and Interpretability Methods\n## Generative Models & Adversarial Learning\nGANs use an adversarial framework where the generator ( *G* ) creates realistic samples, and the discriminator ( *D* ) refines classification accuracy. The Nash equilibrium occurs when *D* outputs a deterministic **0.5 probability** , ensuring *G* replicates the reference distribution ( *\u03bc_ref* ). Challenges like instability and mode collapse are addressed through **Wasserstein GANs (WGANs)** , **curriculum learning** , and **StyleGAN variants** (e.g., StyleGAN-2-ADA). Evaluation relies on metrics like **Fr\u00e9chet Inception Distance (FID)** , **LPIPS** , and **Inception Score (IS)** .",
+        "text_original": "GANs use an adversarial framework where the generator (*G*) creates realistic samples, and the discriminator (*D*) refines classification accuracy. The Nash equilibrium occurs when *D* outputs a deterministic **0.5 probability**, ensuring *G* replicates the reference distribution (*\u03bc_ref*). Challenges like instability and mode collapse are addressed through **Wasserstein GANs (WGANs)**, **curriculum learning**, and **StyleGAN variants** (e.g., StyleGAN-2-ADA). Evaluation relies on metrics like **Fr\u00e9chet Inception Distance (FID)**, **LPIPS**, and **Inception Score (IS",
+        "idx_start": 241,
+        "idx_end": 814
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs), Wasserstein GANs (WGANs), Variational Autoencoders (VAEs), Vision Transformers (ViTs), Self-Supervised Learning, and Interpretability Methods\n## Wasserstein GANs (WGANs)\nWGANs replace the Jensen\u2013Shannon divergence with the **Wasserstein metric** , improving stability and robustness. The **WGAN objective** minimizes:",
+        "text_original": "WGANs replace the Jensen\u2013Shannon divergence with the **Wasserstein metric**, improving stability and robustness. The **WGAN objective** minimizes",
+        "idx_start": 854,
+        "idx_end": 999
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs), Wasserstein GANs (WGANs), Variational Autoencoders (VAEs), Vision Transformers (ViTs), Self-Supervised Learning, and Interpretability Methods\n## Variational Autoencoders (VAEs)\nVAEs integrate **encoder-decoder** architectures with probabilistic modeling via the **reparameterization trick** , balancing reconstruction error (e.g., MSE) and KL-divergence. Variants include **\u03b2-VAE** (adjustable KL weighting), **Conditional VAE (CVAE)** (label-aware latent spaces), and **Wasserstein-MMD VAEs** for statistical distance optimization.",
+        "text_original": "VAEs integrate **encoder-decoder** architectures with probabilistic modeling via the **reparameterization trick**, balancing reconstruction error (e.g., MSE) and KL-divergence. Variants include **\u03b2-VAE** (adjustable KL weighting), **Conditional VAE (CVAE)** (label-aware latent spaces), and **Wasserstein-MMD VAEs** for statistical distance optimization",
+        "idx_start": 1217,
+        "idx_end": 1570
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs), Wasserstein GANs (WGANs), Variational Autoencoders (VAEs), Vision Transformers (ViTs), Self-Supervised Learning, and Interpretability Methods\n## Vision Transformers (ViTs) & Self-Supervised Learning\nViTs process images via **patch embeddings** and **self-attention** , with pooling strategies like **Global Average Pooling (GAP)** or **Multihead Attention Pooling (MAP)** . Key variants:\n- **Swin Transformer (V2)** : Residual post-normalization and relative position bias for transfer learning.\n- **TimeSformer** : Factorized self-attention for video tasks.\n- **ViT-VQGAN** : Combines ViTs with **vector quantization** and GANs for synthesis and captioning.\n**Applications** :\n- **Computer Vision** : Classification, detection, segmentation, synthesis, anomaly detection, and autonomous driving.\n- **Generative Models** : Backbone for **diffusion models (DiT)** and hybrid architectures.\n- **Self-Supervised Learning** : **Masked Autoencoders (MAE)** and **DINO/DINOv2/DINOv3** for unsupervised representation learning.",
+        "text_original": "ViTs process images via **patch embeddings** and **self-attention**, with pooling strategies like **Global Average Pooling (GAP)** or **Multihead Attention Pooling (MAP)**. Key variants:\n- **Swin Transformer (V2)**: Residual post-normalization and relative position bias for transfer learning.\n- **TimeSformer**: Factorized self-attention for video tasks.\n- **ViT-VQGAN**: Combines ViTs with **vector quantization** and GANs for synthesis and captioning.\n\n**Applications**:\n- **Computer Vision**: Classification, detection, segmentation, synthesis, anomaly detection, and autonomous driving.\n- **Generative Models**: Backbone for **diffusion models (DiT)** and hybrid architectures.\n- **Self-Supervised Learning**: **Masked Autoencoders (MAE)** and **DINO/DINOv2/DINOv3** for unsupervised representation learning",
+        "idx_start": 1636,
+        "idx_end": 2448
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs), Wasserstein GANs (WGANs), Variational Autoencoders (VAEs), Vision Transformers (ViTs), Self-Supervised Learning, and Interpretability Methods\n## Interpretability Methods\n**Class Activation Mapping (CAM)** uses **Global Average Pooling (GAP)** post-convolution to generate class-specific heatmaps via post-classifier weights. **Grad-CAM** generalizes CAM by using **backpropagated logit gradients** , offering model-agnostic explanations. Enhancements include:\n- **Grad-CAM++** : Incorporates **second-order gradients** for refined localization.\n- **Score-CAM** : Gradient-free method using **model confidence scores** (logits/softmax) for mask weighting.\n- **LayerCAM** : Combines gradients from **intermediate and final layers** , producing high-resolution heatmaps via **positive gradients** ( `ReLU(\u2202y\u1d9c/\u2202A\u2096)` ).",
+        "text_original": "Class Activation Mapping (CAM)** uses **Global Average Pooling (GAP)** post-convolution to generate class-specific heatmaps via post-classifier weights. **Grad-CAM** generalizes CAM by using **backpropagated logit gradients**, offering model-agnostic explanations. Enhancements include:\n- **Grad-CAM++**: Incorporates **second-order gradients** for refined localization.\n- **Score-CAM**: Gradient-free method using **model confidence scores** (logits/softmax) for mask weighting.\n- **LayerCAM**: Combines gradients from **intermediate and final layers**, producing high-resolution heatmaps via **positive gradients** (`ReLU(\u2202y\u1d9c/\u2202A",
+        "idx_start": 2487,
+        "idx_end": 3117
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs), Wasserstein GANs (WGANs), Variational Autoencoders (VAEs), Vision Transformers (ViTs), Self-Supervised Learning, and Interpretability Methods\n## Ethical & Regulatory Risks\n- **Deepfakes & Content Generation** : Prompts regulations like **AB-602/AB-730** for oversight.\n- **Multimedia & Synthetic Data** : Ethical concerns in inpainting, hybrid architectures, and semi-supervised learning.",
+        "text_original": "Deepfakes & Content Generation**: Prompts regulations like **AB-602/AB-730** for oversight.\n- **Multimedia & Synthetic Data**: Ethical concerns in inpainting, hybrid architectures, and semi-supervised learning",
+        "idx_start": 3164,
+        "idx_end": 3373
+    }
+]

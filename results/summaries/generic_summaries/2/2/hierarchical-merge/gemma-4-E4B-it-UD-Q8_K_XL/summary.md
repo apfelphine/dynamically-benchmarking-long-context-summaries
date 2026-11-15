@@ -1,0 +1,10 @@
+# AI Ethics, Philosophy, and Societal Impact
+
+## Algorithmic Bias and Fairness
+Algorithmic bias stems from systemic errors in AI, often originating in flawed training data, leading to unfair outcomes in applications like risk assessment. Achieving perfect fairness is mathematically complex, necessitating different assessment criteria, such as Group Fairness (e.g., Demographic Parity) or Individual Fairness. Mitigation strategies are multifaceted: technical solutions include Explainable AI (XAI), diverse design teams, and robust regulation, while bias can be addressed through data preprocessing (e.g., Reweighing), inprocessing during training (e.g., Adversarial Debiasing), or post-processing output adjustments.
+
+## Cognitive Paradigms and Theoretical Limits
+Philosophical debates question whether computation alone yields genuine understanding. John Searle's "Chinese Room" argument challenges strong AI by asserting that mere symbol manipulation (syntax) does not equate to semantic comprehension. Contrasting this, Embodied Cognition posits that reasoning is fundamentally shaped by an organism's physical interaction with its environment. Furthermore, evaluating AI is evolving beyond the Turing Test to include criteria like the Lovelace Test (original creation), while the concept of the Technological Singularity raises urgent questions about ensuring AI alignment with human values to manage uncontrollable risks.
+
+## Transhumanism and Societal Risks
+Transhumanism advocates for using technologies like AI and nanotechnology to enhance the human condition toward a "posthuman" state, viewing this as an expansion of liberty. However, this movement faces criticism regarding its potential to widen social disparities, creating a "genetic divide," and risks leading to dehumanization. Broader ethical concerns involve establishing global standards for transparency, ensuring accountability for autonomous systems, and managing the systemic societal risks introduced by advanced AI.

@@ -1,0 +1,5 @@
+## Donald Knuth
+
+Donald Knuth is a computer scientist and author known for his foundational contributions to the field. He conceived the term "Analysis of algorithms" when he shifted his focus from physics to mathematics after becoming involved with the IBM 650. He worked on an ALGOL compiler for the Burroughs B205, where he suggested an extension to the symbol table that became the basis of the DEFINE in Burroughs ALGOL.
+
+Knuth authored *The Art of Computer Programming* (*TAOCP*), which he developed over many years, initially planning it as a single volume but ultimately requiring seven volumes to cover the subject comprehensively. He also created TeX and Metafont for digital typesetting, leading to the methodology of literate programming, where programmers conceptualize programs as works of literature. He received numerous accolades, including the Turing Award, the National Medal of Science, and the Kyoto Prize.

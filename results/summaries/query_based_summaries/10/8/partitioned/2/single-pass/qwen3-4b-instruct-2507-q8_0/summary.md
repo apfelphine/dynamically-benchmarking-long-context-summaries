@@ -1,0 +1,11 @@
+**Education in Nigeria**
+
+Nigeria's education system is structured into primary, secondary, and tertiary levels, with a focus on expanding access through policies like Universal Basic Education (UBE), which mandates 9 years of free, compulsory schooling (6 years primary and 3 years junior secondary). The curriculum emphasizes core subjects including English, Mathematics, Science, and Religious Knowledge, with options in indigenous languages, arts, and vocational studies.
+
+At the secondary level, students follow a 6-3-3-4 system: 6 years of primary, 3 years of junior secondary (JSS), and 3 years of senior secondary (SSS). The Senior Secondary Certificate Examination (SSCE), administered by the West African Examination Council (WAEC), is a key assessment, with students required to pass core subjects (English, Mathematics, and three others) and achieve minimum grades for university admission. Students may also take the General Certificate of Education (GCE) as a supplementary exam.
+
+Tertiary education includes public and private universities, polytechnics, and colleges of education. The government has approved 153 universities, with a significant number being private. Entry into universities is typically through the Joint Admissions and Matriculation Board (JAMB) or alternative pathways like the Interim Joint Matriculation Board (IJMB) or Joint Universities Preliminary Examinations Board (JUPEB), which allow direct entry into the second year of university.
+
+Private institutions offer a range of programs, including international curricula (e.g., IGCSE, IB), and are often seen as providing better facilities and smaller class sizes. However, they are associated with high fees, which can be a barrier for many families.
+
+The system faces challenges including teacher shortages, poor infrastructure, insecurity, and regional disparities. Efforts to improve quality and access continue, with initiatives in digital literacy, vocational training, and gender equity. Despite these efforts, literacy remains low, particularly in the North-East and North-West, and there is a need for increased investment in teacher training, curriculum development, and inclusive education policies.

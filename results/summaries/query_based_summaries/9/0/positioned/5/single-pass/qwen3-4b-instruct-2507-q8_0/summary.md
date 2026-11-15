@@ -1,0 +1,8 @@
+**Education in Pakistan**  
+Pakistan's education system follows an English-inspired structure with three main stages: primary (ages 5–12), secondary (ages 12–18), and tertiary (university-level). Primary education begins with pre-school (ages 3–5) and includes subjects like arts, science, mathematics, and Islamic studies. Students transition to middle school (ages 12–13), followed by secondary education, which includes a national examination (SSC) after grade 10 and a Higher Secondary School Certificate (HSSC) after grade 12. The HSSC is divided into streams such as pre-medical, pre-engineering, commerce, and arts.  
+
+Tertiary education includes bachelor's, master's, and doctoral degrees, with a strong emphasis on professional fields like engineering, medicine, and law. The system is marked by gender disparities, with fewer women enrolled in higher education and limited access to quality education in rural areas. The literacy rate is 60.65%, with significant regional differences.  
+
+The education system faces challenges including outdated curricula, teacher shortages, poor infrastructure, and a lack of relevance to modern needs. Despite government efforts, access to education remains unequal, and there is a growing need for reforms to improve quality, inclusivity, and alignment with market demands. The system also includes a large network of madrassas, which provide religious education and are especially prevalent in rural areas.  
+
+Pakistan has made progress in expanding access to education, but issues such as gender inequality, low teacher quality, and financial constraints continue to hinder equitable outcomes.

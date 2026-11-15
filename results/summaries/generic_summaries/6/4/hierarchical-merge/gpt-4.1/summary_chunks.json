@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computing, Mathematics, and Engineering\nMajor contributors to modern computing and mathematics include Per Brinch Hansen (operating systems), Edsger W. Dijkstra (algorithms and process coordination), Grace Hopper (COBOL and standards), Claude Shannon (information theory), Donald Knuth (programming and typesetting), Federico Faggin (microprocessors), Jacek Karpi\u0144ski (computer engineering), Lynn Conway (VLSI and STEM advocacy), and Kenneth E. Iverson (APL and J languages). Their innovations established the infrastructure for digital technology, programming, and semiconductor industries. Ismail al-Jazari, in the 12th century, authored a seminal work documenting mechanical devices and automata, introducing key concepts like crankshafts and programmable engineering, influencing both Islamic and European traditions.",
+        "text_original": "Major contributors to modern computing and mathematics include Per Brinch Hansen (operating systems), Edsger W. Dijkstra (algorithms and process coordination), Grace Hopper (COBOL and standards), Claude Shannon (information theory), Donald Knuth (programming and typesetting), Federico Faggin (microprocessors), Jacek Karpi\u0144ski (computer engineering), Lynn Conway (VLSI and STEM advocacy), and Kenneth E. Iverson (APL and J languages). Their innovations established the infrastructure for digital technology, programming, and semiconductor industries. Ismail al-Jazari, in the 12th century, authored a seminal work documenting mechanical devices and automata, introducing key concepts like crankshafts and programmable engineering, influencing both Islamic and European traditions",
+        "idx_start": 68,
+        "idx_end": 848
+    },
+    {
+        "document_idx": null,
+        "text": "# Influential Mathematicians and Logicians\nFoundational thinkers such as Al-Khwarizmi (algebra, numerals, algorithms), George Boole (Boolean algebra, logic), Kurt G\u00f6del (incompleteness theorems), and Gottlob Frege (predicate logic) radically shaped mathematical logic and computational theory. Boole\u2019s symbolic logic is central to digital circuits and philosophy, while Al-Khwarizmi\u2019s works dominate both Islamic and Western sciences. Ramon Llull pioneered combinatorial logic through symbolic diagrams, influencing metaphysics, logic, and computation theory, and fostering intercultural dialogue.",
+        "text_original": "Foundational thinkers such as Al-Khwarizmi (algebra, numerals, algorithms), George Boole (Boolean algebra, logic), Kurt G\u00f6del (incompleteness theorems), and Gottlob Frege (predicate logic) radically shaped mathematical logic and computational theory. Boole\u2019s symbolic logic is central to digital circuits and philosophy, while Al-Khwarizmi\u2019s works dominate both Islamic and Western sciences. Ramon Llull pioneered combinatorial logic through symbolic diagrams, influencing metaphysics, logic, and computation theory, and fostering intercultural dialogue",
+        "idx_start": 896,
+        "idx_end": 1449
+    },
+    {
+        "document_idx": null,
+        "text": "# Cognitive Science, Artificial Intelligence, and Social Thought\nHerbert A. Simon bridged economics, psychology, and computer science as a founder of artificial intelligence and cognitive science, earning the Nobel Prize and Turing Award for his work on bounded rationality and decision-making models. Geoffrey Hinton has been instrumental in neural networks and deep learning, with innovations like backpropagation and capsule networks propelling advancements in AI. Hinton, honored with both the Turing Award and Nobel Prize, is a notable advocate for ethical AI and safety measures.",
+        "text_original": "Herbert A. Simon bridged economics, psychology, and computer science as a founder of artificial intelligence and cognitive science, earning the Nobel Prize and Turing Award for his work on bounded rationality and decision-making models. Geoffrey Hinton has been instrumental in neural networks and deep learning, with innovations like backpropagation and capsule networks propelling advancements in AI. Hinton, honored with both the Turing Award and Nobel Prize, is a notable advocate for ethical AI and safety measures",
+        "idx_start": 1519,
+        "idx_end": 2038
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological and Artistic Innovation\nGeorge Antheil, avant-garde composer and inventor, co-developed frequency-hopping radio technology with Hedy Lamarr, laying the groundwork for modern wireless communications. While his music and inventions gained considerable acclaim, Antheil shifted toward Hollywood film scoring later in life. Collectively, these figures\u2019 contributions span engineering, computation, logic, and the arts, establishing enduring frameworks and legacies that shape today\u2019s technological and intellectual landscape.",
+        "text_original": "George Antheil, avant-garde composer and inventor, co-developed frequency-hopping radio technology with Hedy Lamarr, laying the groundwork for modern wireless communications. While his music and inventions gained considerable acclaim, Antheil shifted toward Hollywood film scoring later in life. Collectively, these figures\u2019 contributions span engineering, computation, logic, and the arts, establishing enduring frameworks and legacies that shape today\u2019s technological and intellectual landscape",
+        "idx_start": 2083,
+        "idx_end": 2579
+    }
+]

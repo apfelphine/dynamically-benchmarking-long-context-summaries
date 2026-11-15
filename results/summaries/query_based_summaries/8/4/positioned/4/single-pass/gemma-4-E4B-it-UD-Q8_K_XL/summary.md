@@ -1,0 +1,1 @@
+There is no information provided regarding "Education in Australia" in the source texts.

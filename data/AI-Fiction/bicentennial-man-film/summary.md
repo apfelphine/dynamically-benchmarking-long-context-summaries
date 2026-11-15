@@ -1,0 +1,3 @@
+Bicentennial Man is a 1999 American science fiction comedy-drama film, directed by Chris Columbus, and starring Robin Williams, Sam Neill, Embeth Davidtz, Wendy Crewson and Oliver Platt. Based on the 1992 novel The Positronic Man by Isaac Asimov and Robert Silverberg, the title derives from the main character existing to the age of two hundred years.
+Bicentennial Man was released  in the United States on December 17, 1999, by Buena Vista Pictures Distribution. It received mixed reviews from critics, and was a box office failure, grossing $87 million against a $90–100 million budget.
+Makeup artist Greg Cannom was nominated for Best Makeup at the 72nd Academy Awards.

@@ -1,0 +1,2 @@
+Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI is a book by Karen Hao released on May 20, 2025. It focuses on the history of OpenAI and its culture of secrecy and devotion to the promise of artificial general intelligence (AGI).
+The book includes interviews with around 260 people, correspondence, and relevant documents. The title makes reference to colonial empires of the 1800s.

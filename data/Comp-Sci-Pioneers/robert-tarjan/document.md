@@ -1,0 +1,63 @@
+# Robert Tarjan
+
+## Personal life and education
+He was born in Pomona, California. His father, George Tarjan (1912–1991), raised in Hungary, was a child psychiatrist, specializing in mental retardation, and ran a state hospital. Robert Tarjan's younger brother James became a chess grandmaster. As a child, Robert Tarjan read a lot of science fiction, and wanted to be an astronomer. He became interested in mathematics after reading Martin Gardner's mathematical games column in Scientific American. He became seriously interested in math in the eighth grade, thanks to a "very stimulating" teacher.
+
+While he was in high school, Tarjan got a job, where he worked with IBM punch card collators. He first worked with real computers while studying astronomy at the Summer Science Program in 1964.
+
+Tarjan obtained a Bachelor's degree in mathematics from the California Institute of Technology in 1969. At Stanford University, he received his master's degree in computer science in 1971 and a Ph.D. in computer science (with a minor in mathematics) in 1972. At Stanford, he was supervised by Robert Floyd and Donald Knuth, both highly prominent computer scientists, and his Ph.D. dissertation was An Efficient Planarity Algorithm. Tarjan selected computer science as his area of interest because he believed that computer science was a way of doing mathematics that could have a practical impact.
+
+Tarjan now lives in Princeton, NJ, and Silicon Valley. He is married to Nayla Rizk.
+He has three daughters: Alice Tarjan, Sophie Zawacki, and Maxine Tarjan.
+
+
+## Computer science career
+Tarjan has been teaching at Princeton University since 1985. He has also held academic positions at Cornell University (1972–73), University of California, Berkeley (1973–1975), Stanford University (1974–1980), and New York University (1981–1985). He has also been a fellow of the NEC Research Institute (1989–1997). In April 2013 he joined Microsoft Research Silicon Valley in addition to the position at Princeton. In October 2014 he rejoined Intertrust Technologies as chief scientist.
+
+Tarjan has worked at AT&T Bell Labs (1980–1989), Intertrust Technologies (1997–2001, 2014–present), Compaq (2002) and Hewlett Packard (2006–2013).
+
+
+### Algorithms and data structures
+Tarjan is known for his pioneering work on graph theory algorithms and data structures. Some of his well-known algorithms include Tarjan's off-line least common ancestors algorithm, Tarjan's strongly connected components algorithm, and Tarjan's bridge-finding algorithm, and he was one of five co-authors of the median of medians linear-time selection algorithm. The Hopcroft–Tarjan planarity testing algorithm was the first linear-time algorithm for planarity testing.
+
+Tarjan has also developed important data structures such as the Fibonacci heap (a heap data structure consisting of a forest of trees), and the splay tree (a self-adjusting binary search tree; co-invented by Tarjan and Daniel Sleator). Another significant contribution was the analysis of the disjoint-set data structure; he was the first to prove the optimal runtime involving the inverse Ackermann function.
+
+
+## Awards
+Tarjan received the Turing Award jointly with John Hopcroft in 1986.  The citation for the award states that it was:
+
+For fundamental achievements in the design and analysis of algorithms and data structures.
+
+Tarjan was also elected an ACM Fellow in 1994.  The citation for this award states:
+
+For seminal advances in the design and analysis of data structures and algorithms.
+
+Some of the other awards for Tarjan include:
+
+- Nevanlinna Prize in Information Science (1983)[10] – first recipient[14]
+- Member of the American Academy of Arts and Sciences, elected 1985[15]
+- National Academy of Sciences Award for Initiatives in Research (1984)[10]
+- Member of the National Academy of Sciences, elected 1987[16]
+- Member of the National Academy of Engineering, elected 1988[17]
+- Member of the American Philosophical Society, elected 1990[18]
+- Paris Kanellakis Award in Theory and Practice, ACM (1999)[10]
+- Caltech Distinguished Alumni Award, California Institute of Technology (2010)[19]
+
+
+
+## Selected publications
+Tarjan's papers have been collectively cited over 94,000 times.  Among the most cited are:
+
+- 1972: Depth-first search and linear graph algorithms, R Tarjan, SIAM Journal on Computing 1 (2), 146-160[21]
+- 1987: Fibonacci heaps and their uses in improved network optimization algorithms, ML Fredman, RE Tarjan, Journal of the ACM (JACM) 34 (3), 596-615[22]
+- 1983: Data structures and network algorithms, RE Tarjan, Society for industrial and Applied Mathematics[23]
+- 1988: A new approach to the maximum-flow problem, V Goldberg, RE Tarjan, Journal of the ACM (JACM) 35 (4), 921-940[24]
+
+
+
+## Patents
+Tarjan holds at least 18 U.S. patents. These include:
+
+- J. Bentley, D. Sleator, and R. E. Tarjan, U. S. Patent 4,796,003, Data Compaction, 1989[25]
+- N. Mishra, R. Schreiber, and R. E. Tarjan, U. S. Patent 7,818,272, Method for discovery of clusters of objects in an arbitrary undirected graph using a difference between a fraction of internal connections and maximum fraction of connections by an outside object, 2010[26]
+- B. Pinkas, S. Haber, R. E. Tarjan, and T. Sander, U. S. Patent 8220036, Establishing a secure channel with a human user, 2012[27]

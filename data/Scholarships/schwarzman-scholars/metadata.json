@@ -1,0 +1,32 @@
+{
+  "id": 39174296,
+  "title": "Schwarzman Scholars",
+  "url": "https://en.wikipedia.org/wiki/Schwarzman_Scholars",
+  "path": "Scholarships\\schwarzman-scholars",
+  "summary": {
+    "chars": 1584,
+    "tokens": 320
+  },
+  "document": {
+    "chars": 8690,
+    "tokens": 1821
+  },
+  "infobox": {
+    "title": "Schwarzman Scholars",
+    "data": {
+      "Type": "Private",
+      "Established": "2016",
+      "Endowment": "$575 million",
+      "Chairman": "Stephen A. Schwarzman",
+      "Dean": "Xue Lan",
+      "Director": "Amy Stursberg",
+      "Students": "100\u2013200",
+      "Location": "Beijing, China",
+      "Campus": "Urban",
+      "Language": "English",
+      "Colors": "Blue, Purple, Gold, and White",
+      "Affiliations": "Tsinghua University",
+      "Website": "www.schwarzmanscholars.org"
+    }
+  }
+}

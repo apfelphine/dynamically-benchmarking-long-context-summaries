@@ -1,0 +1,42 @@
+{
+  "id": 7954422,
+  "title": "Cornell University",
+  "url": "https://en.wikipedia.org/wiki/Cornell_University",
+  "path": "Universities\\cornell-university",
+  "summary": {
+    "chars": 1878,
+    "tokens": 399
+  },
+  "document": {
+    "chars": 44900,
+    "tokens": 9007
+  },
+  "infobox": {
+    "title": "Cornell University",
+    "data": {
+      "Motto": "\"I would found an institution where any person can find instruction in any study\"",
+      "Type": "Private land-grant research university",
+      "Established": "April 27, 1865",
+      "Founder": "- Ezra Cornell - Andrew Dickson White",
+      "Accreditation": "MSCHE",
+      "Academic affiliations": "AAU COFHE NAICU SUNY URA Sea-grant Space-grant",
+      "Endowment": "$11.8 billion (2025)",
+      "Budget": "$5.4 billion (2023)",
+      "President": "Michael Kotlikoff",
+      "Provost": "Kavita Bala",
+      "Academic staff": "1,639 in Ithaca, New York \u00b7 1,235 in New York City \u00b7 34 in Doha, Qatar",
+      "Students": "26,793 (fall 2024)",
+      "Undergraduates": "16,128 (fall 2024)",
+      "Postgraduates": "10,665 (fall 2024)",
+      "Location": "Ithaca, New York, United States \u00b7 42\u00b026\u203257\u2033N 76\u00b029\u20322\u2033W\ufeff / \ufeff42.44917\u00b0N 76.48389\u00b0W",
+      "Campus": "Small city, 745 acres (301 ha)",
+      "Other campuses": "New York City Doha",
+      "Newspaper": "The Cornell Daily Sun Cornell Chronicle",
+      "Colors": "Carnelian red and white",
+      "Nickname": "Big Red",
+      "Sporting affiliations": "NCAA Division I FCS \u2013 Ivy League IRA EARC EAWRC",
+      "Mascot": "Touchdown the Bear (unofficial)",
+      "Website": "cornell.edu"
+    }
+  }
+}

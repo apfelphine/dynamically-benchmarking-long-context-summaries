@@ -1,0 +1,3 @@
+Donald Knuth is a writer and computer scientist, known for his work in computer science and mathematics. His major publication is *The Art of Computer Programming*, which he expanded into a multi-volume series.
+
+His contributions also include the creation of TeX and Metafont for digital typesetting, and the development of a new programming methodology called literate programming, which treats programs as literary works. Knuth has received numerous accolades, including the Turing Award and the National Medal of Science.

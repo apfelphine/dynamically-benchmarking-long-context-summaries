@@ -1,0 +1,28 @@
+{
+  "id": 67571431,
+  "title": "DoD NDSEG Fellowship",
+  "url": "https://en.wikipedia.org/wiki/DoD_NDSEG_Fellowship",
+  "path": "Scholarships\\dod-ndseg-fellowship",
+  "summary": {
+    "chars": 1196,
+    "tokens": 249
+  },
+  "document": {
+    "chars": 7081,
+    "tokens": 1459
+  },
+  "infobox": {
+    "title": "National Defense Science and Engineering Graduate Fellowship Program",
+    "data": {
+      "Type": "Fellowship",
+      "Awarded By": "U.S. Department of Defense",
+      "Sponsors": "Air Force Office of Scientific Research (AFOSR) Office of Naval Research (ONR) Army Research Office (ARO)",
+      "Country": "United States",
+      "First Awarded": "1989; 33 years ago",
+      "Award Amount": "3 years $43,200 (USD) annual stipend, 3 years tuition for PhD programs in science and engineering",
+      "Frequency of Selection": "Annual",
+      "Number of Recipients": "About 150",
+      "Website": "ndseg.org"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1868388,
+  "title": "Sandworms of Dune",
+  "url": "https://en.wikipedia.org/wiki/Sandworms_of_Dune",
+  "path": "AI-Fiction\\sandworms-of-dune",
+  "summary": {
+    "chars": 389,
+    "tokens": 89
+  },
+  "document": {
+    "chars": 12590,
+    "tokens": 2816
+  },
+  "infobox": {
+    "title": "Sandworms of Dune",
+    "data": {
+      "Authors": "Brian Herbert \u00b7 Kevin J. Anderson",
+      "Audio read by": "Scott Brick",
+      "Cover artist": "Stephen Youll",
+      "Language": "English",
+      "Series": "Dune series",
+      "Genre": "Science fiction",
+      "Published": "2007",
+      "Publisher": "Tor Books",
+      "Publication place": "United States",
+      "Media type": "Print (hardcover & paperback)",
+      "Pages": "496",
+      "ISBN": "0-7653-1293-X",
+      "OCLC": "77504538",
+      "Dewey Decimal": "813/.54 22",
+      "LC Class": "PS3558.E617 S26 2007",
+      "Preceded by": "Hunters of Dune"
+    }
+  }
+}

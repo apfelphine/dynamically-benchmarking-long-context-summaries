@@ -1,0 +1,5 @@
+## Education in Nigeria
+
+Nigerian education is structured with various tiers, including primary, junior secondary, senior secondary, and tertiary education. Primary education typically begins around age 5 and lasts six years, covering subjects like Mathematics, English, and indigenous languages. The Universal Basic Education (UBE) system, established in 1999, aims for nine years of uninterrupted schooling, encompassing six years of Primary School and three years of Junior Secondary School.
+
+Secondary education involves three years in Junior Secondary School (JSS) and three years in Senior Secondary School (SSS). Students must pass the Senior Secondary Certificate Examination (SSCE), administered by the West African Examination Council (WAEC), which requires compulsory subjects like Mathematics and English Language. Tertiary education is largely controlled by the government, with universities, polytechnics, and colleges of education existing across federal, state, and private sectors. Vocational training and informal education are significant components, though literacy rates remain a challenge, particularly in the northern region.

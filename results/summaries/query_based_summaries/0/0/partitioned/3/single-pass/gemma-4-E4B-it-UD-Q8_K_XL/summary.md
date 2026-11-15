@@ -1,0 +1,7 @@
+***Star Trek: The Motion Picture*** **Focus**
+
+The film centers on the 23rd century when Starfleet monitoring station Epsilon Nine detects a massive energy cloud heading toward Earth. The starship *Enterprise*, undergoing refit, is assigned to intercept this entity. Upon intercepting the cloud, the crew is attacked by an alien vessel and abducted by a robotic replica of the navigator, Ilia, sent by the entity, which calls itself "V'Ger." Spock discovers that V'Ger is actually *Voyager 6*, a 20th-century NASA probe that achieved sentience after gathering vast amounts of knowledge. When V'Ger insists the "Creator" come to finish its sequence, Commander Decker merges with the Ilia probe and V'Ger, creating a new life form and saving Earth.
+
+The production of the film involved extensive technical work. Sound designer Frank Serafine aimed to modernize sound techniques, classifying effects into A, B, and C categories. The film's score, composed by Jerry Goldsmith, garnered several nominations for the Oscars, Golden Globes, and Saturn Awards. The visual effects were managed by Douglas Trumbull, who utilized advanced in-camera techniques, and the film featured a newly designed *Enterprise* with an angular aesthetic.
+
+The film's reception was mixed critically, with some reviewers citing its slow pacing, while others praised the stunning special effects. Commercially, it set a box office record for highest opening weekend gross in the United States and Canada at its initial release.

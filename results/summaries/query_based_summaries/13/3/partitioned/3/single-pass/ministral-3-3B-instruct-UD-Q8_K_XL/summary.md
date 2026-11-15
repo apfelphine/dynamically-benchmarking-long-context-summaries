@@ -1,0 +1,18 @@
+The **University of Edinburgh** is a prestigious research-led institution with a rich history, founded in 1583 as Tounis College and later renamed the University of Edinburgh. It is renowned for its contributions to science, medicine, and the arts, with notable alumni including Joseph Lister (antiseptic surgery), Adam Smith (economics), and Charles Darwin (evolution).
+
+### **Student Life and Activism**
+Edinburgh’s student life is vibrant, with a strong tradition in sports, activism, and co-operatives. The **Scottish Varsity** (rugby match against St Andrews) and the **Scottish Boat Race** (rowing) are iconic events. Student activism has included protests over divestment from fossil fuels and military industries, such as the 2024 Gaza protest camp in Old College Quad, which demanded divestment from companies linked to Israel’s war in Gaza. The university supports student co-operatives like the **Edinburgh Student Housing Co-operative (ESHC)** and **Hearty Squirrel Food Cooperative**, promoting sustainability and affordable living.
+
+### **Notable Contributions**
+Edinburgh has produced groundbreaking discoveries, including the foundation of **Bayesian statistics** (Thomas Bayes), **evolutionary theory** (Charles Darwin), and advancements in medicine like **antiseptic surgery** (Joseph Lister). The university is also home to the **Scottish Boat Race**, the oldest university boat race in the world, and has produced Olympic medalists, including sprinter Eric Liddell and cyclist Sir Chris Hoy.
+
+### **Academic Excellence and Rankings**
+Ranked among the top universities globally, Edinburgh is a member of the **Russell Group** and the **League of European Research Universities**. It is particularly strong in medicine, veterinary science, and the humanities. The university’s **Medical School** is globally recognized, and its **School of Informatics** is a leader in computer science. Edinburgh’s **Central Area** and **King’s Buildings** are key campuses, housing historic and modern facilities like the **Royal Infirmary of Edinburgh** and the **Centre for Regenerative Medicine**.
+
+### **Campus and Buildings**
+The university spans five main sites: **Central Area** (home to the main campus), **King’s Buildings** (science and engineering), **BioQuarter** (medicine and research), **Easter Bush** (veterinary studies), and **Western General** (biomedical research). Historic buildings include **Old College**, **Teviot Row House** (oldest student union in the world), and **St Cecilia’s Hall**, Scotland’s oldest purpose-built concert hall.
+
+### **Organizational Structure**
+Governed by the **University Court**, **General Council**, and **Senatus Academicus**, Edinburgh operates through three colleges: **Arts, Humanities and Social Sciences**, **Science & Engineering**, and **Medicine & Veterinary Medicine**. The university emphasizes research, innovation, and community engagement, with a strong commitment to sustainability and diversity.
+
+The University of Edinburgh stands as a cornerstone of Scottish and global academia, celebrated for its historical legacy, academic excellence, and dynamic student culture.

@@ -1,0 +1,1 @@
+Simulant is a 2023 Canadian science fiction thriller film directed by April Mullen. It stars Robbie Amell, Jordana Brewster, Simu Liu, Alicia Sanz, and Sam Worthington. The film was released on April 7, 2023.

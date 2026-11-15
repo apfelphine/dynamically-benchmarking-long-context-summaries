@@ -1,0 +1,29 @@
+{
+  "id": 47937215,
+  "title": "The Master Algorithm",
+  "url": "https://en.wikipedia.org/wiki/The_Master_Algorithm",
+  "path": "AI-Philosophy\\the-master-algorithm",
+  "summary": {
+    "chars": 222,
+    "tokens": 46
+  },
+  "document": {
+    "chars": 1612,
+    "tokens": 308
+  },
+  "infobox": {
+    "title": "The Master Algorithm: \u00b7 How the Quest for the Ultimate Learning Machine Will Remake Our World",
+    "data": {
+      "Author": "Pedro Domingos",
+      "Language": "English",
+      "Subject": "Artificial intelligence",
+      "Genre": "Philosophy, popular science",
+      "Publisher": "Basic Books",
+      "Publication date": "September 22, 2015",
+      "Publication place": "United States",
+      "Media type": "Print, e-book, audiobook",
+      "Pages": "352 pp.",
+      "ISBN": "978-0465065707"
+    }
+  }
+}

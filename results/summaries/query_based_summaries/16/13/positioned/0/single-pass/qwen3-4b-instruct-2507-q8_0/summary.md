@@ -1,0 +1,11 @@
+**University of the Andes (Colombia)**
+
+Founded in 1949 by Mario Laserna Pinzón, the University of the Andes (Uniandes) is Colombia's first nonsectarian and non-politically affiliated university. Established in response to the need for skilled professionals to support national development, it was modeled after American universities and aimed to produce leaders capable of contributing to post-war global affairs. The university began with 80 students and expanded rapidly, with over 400 applicants for 110 spots by 1950. It emphasizes interdisciplinary education, allowing students to design personalized curricula with guidance from academic advisors.
+
+Uniandes has a strong administrative structure, governed by a Board of Trustees, Board of Directors, Rector, and Academic Council. It operates 14 academic units and 20 administrative units, with a total of 745 non-faculty staff and 853 administrative staff as of 2021. The university's mission emphasizes pluralism, dialogue, and academic excellence, fostering ethical and critical thinking to strengthen civic responsibility.
+
+The student body is 55% male, 45% female, with 30% from outside Bogotá and 95% of undergraduates being top 1% high school students. The campus, located in Bogotá’s historical center, is a blend of restored religious and industrial buildings and new facilities, spanning 180,551 sq m with 116 classrooms, 219 labs, and five satellite libraries. A central feature is La Caneca, a sports complex built in 1956.
+
+Uniandes has a notable alumni network, including former Colombian President César Gaviria, ministers, and prominent figures in science and arts such as María Ángela Holguín, Fernando Botero, and Carolina Benedetti. The university also maintains a strong international presence through exchange programs with over 119 universities in 34 countries.
+
+Financially, Uniandes holds assets valued at $426.1 million (COL$1.74 trillion) as of 2020. Its faculty is highly qualified, with 70% holding PhDs from top global universities. The university has a strong academic reputation and is recognized for its research, international engagement, and commitment to ethical education.

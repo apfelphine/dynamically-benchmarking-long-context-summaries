@@ -1,0 +1,35 @@
+{
+  "id": 61903099,
+  "title": "Legion (Terminator)",
+  "url": "https://en.wikipedia.org/wiki/Terminator:_Dark_Fate",
+  "path": "AI-Regulations\\legion-terminator",
+  "summary": {
+    "chars": 1312,
+    "tokens": 286
+  },
+  "document": {
+    "chars": 58321,
+    "tokens": 12407
+  },
+  "infobox": {
+    "title": "Terminator: Dark Fate",
+    "data": {
+      "Directed by": "Tim Miller",
+      "Screenplay by": "- David Goyer - Justin Rhodes - Billy Ray",
+      "Story by": "- James Cameron - Charles H. Eglee - Josh Friedman - David Goyer - Justin Rhodes",
+      "Produced by": "- James Cameron - David Ellison",
+      "Starring": "- Linda Hamilton - Arnold Schwarzenegger - Mackenzie Davis - Natalia Reyes",
+      "Cinematography": "Ken Seng",
+      "Edited by": "Julian Clarke",
+      "Music by": "Tom Holkenborg",
+      "Production \u00b7 companies": "- Skydance Media - Lightstorm Entertainment",
+      "Distributed by": "- Paramount Pictures (United States and Canada) - 20th Century Fox (International)",
+      "Release dates": "- October 23, 2019 (Europe) - November 1, 2019 (United States)",
+      "Running time": "128 minutes",
+      "Country": "United States",
+      "Language": "- English",
+      "Budget": "$185\u2013196 million",
+      "Box office": "$261.1 million"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+### Release, Reception & Legacy
+
+*Avengers: Age of Ultron* (2015) marked a commercial milestone as the eighth Disney and third Marvel film to surpass the $1 billion threshold, ultimately earning $1.403 billion worldwide. While critical reception was mixed—scoring 75% on Rotten Tomatoes and 66/100 on Metacritic due to criticisms of repetitiveness and a lack of predecessor's impact—the film achieved widespread audience acclaim for its spectacle. It received notable accolades including wins for Animated Effects and Costume Design, though it faced backlash in China regarding translation issues. Director Joss Whedon declined a director's cut, preferring the theatrical version, while home media releases continued with various formats and behind-the-scenes content through 2018.
+
+This success paved the way for the subsequent phase of the saga, where *Avengers: Infinity War* (2018) and *Avengers: Endgame* (2019) were directed by the Russo brothers and written by Markus and McFeely. These films continued the narrative arc by returning much of the original cast while introducing new characters from the Marvel Cinematic Universe.

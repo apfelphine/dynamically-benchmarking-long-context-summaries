@@ -1,0 +1,1 @@
+The Eldon Law Scholarship is a scholarship awarded to students from the University of Oxford who wish to study for the English Bar. Applicants must either have obtained a first class honours degree in the Final Honours School, or obtained a distinction on the BCL or MJur. It is a two-year scholarship presently funded at £9,000 a year.

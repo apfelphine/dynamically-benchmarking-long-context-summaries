@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Historical Foundations and Theoretical Pioneers\nThe intellectual lineage of modern computing and AI spans from ancient innovations like al-Khwarizmi's algebra and the Hindu\u2013Arabic numeral system to the formal logic of Gottlob Frege and the mechanical ingenuity of figures such as Ismail al-Jazari. These early architects established the rigorous frameworks for mathematics, logic, and information theory that underpin today's digital age. Their work, ranging from Boole's algebraic logic to Shannon's information theory, created the essential pillars upon which contemporary technology rests.",
+        "text_original": "The intellectual lineage of modern computing and AI spans from ancient innovations like al-Khwarizmi's algebra and the Hindu\u2013Arabic numeral system to the formal logic of Gottlob Frege and the mechanical ingenuity of figures such as Ismail al-Jazari. These early architects established the rigorous frameworks for mathematics, logic, and information theory that underpin today's digital age. Their work, ranging from Boole's algebraic logic to Shannon's information theory, created the essential pillars upon which contemporary technology rests",
+        "idx_start": 52,
+        "idx_end": 595
+    },
+    {
+        "document_idx": null,
+        "text": "# Mid-20th Century Innovators and Societal Impact\nBuilding on these foundations, mid-20th-century pioneers like Herbert A. Simon and Grace Hopper revolutionized both the theory and practice of computing. Simon introduced the concept of bounded rationality, bridging AI with economics, while Hopper championed high-level programming languages and system standards, significantly advancing business computing and software culture. Simultaneously, hardware innovators like Federico Faggin and theorists like Edsger Dijkstra drove critical advancements in microprocessors, structured programming, and operating systems, solidifying the practical infrastructure of the modern era.",
+        "text_original": "Building on these foundations, mid-20th-century pioneers like Herbert A. Simon and Grace Hopper revolutionized both the theory and practice of computing. Simon introduced the concept of bounded rationality, bridging AI with economics, while Hopper championed high-level programming languages and system standards, significantly advancing business computing and software culture. Simultaneously, hardware innovators like Federico Faggin and theorists like Edsger Dijkstra drove critical advancements in microprocessors, structured programming, and operating systems, solidifying the practical infrastructure of the modern era",
+        "idx_start": 650,
+        "idx_end": 1274
+    },
+    {
+        "document_idx": null,
+        "text": "# Contemporary Perspectives and Future Challenges\nToday, figures like Geoffrey Hinton are shifting focus from deep learning architectures to the existential risks posed by Artificial General Intelligence (AGI) and the societal disruptions of workforce displacement. This transition highlights a growing concern for aligning advanced AI with human values, prompting calls for government interventions such as universal basic income. While maintaining cautious optimism regarding long-term productivity, the field continues to evolve through theoretical inquiries into neural mechanisms, navigating profound shifts that mirror the challenges faced by the pioneers of the past.",
+        "text_original": "Today, figures like Geoffrey Hinton are shifting focus from deep learning architectures to the existential risks posed by Artificial General Intelligence (AGI) and the societal disruptions of workforce displacement. This transition highlights a growing concern for aligning advanced AI with human values, prompting calls for government interventions such as universal basic income. While maintaining cautious optimism regarding long-term productivity, the field continues to evolve through theoretical inquiries into neural mechanisms, navigating profound shifts that mirror the challenges faced by the pioneers of the past",
+        "idx_start": 1329,
+        "idx_end": 1952
+    }
+]

@@ -1,0 +1,3 @@
+The AI effect is the discounting of the behavior of an artificial intelligence program as not "real" intelligence.
+The author Pamela McCorduck writes: "It's part of the history of the field of artificial intelligence that every time somebody figured out how to make a computer do something—play good checkers, solve simple but relatively informal problems—there was a chorus of critics to say, 'that's not thinking'."
+Researcher Rodney Brooks complains: "Every time we figure out a piece of it, it stops being magical; we say, 'Oh, that's just a computation.'"

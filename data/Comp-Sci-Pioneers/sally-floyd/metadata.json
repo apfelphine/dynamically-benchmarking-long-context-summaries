@@ -1,0 +1,28 @@
+{
+  "id": 27389065,
+  "title": "Sally Floyd",
+  "url": "https://en.wikipedia.org/wiki/Sally_Floyd",
+  "path": "Comp-Sci-Pioneers\\sally-floyd",
+  "summary": {
+    "chars": 410,
+    "tokens": 94
+  },
+  "document": {
+    "chars": 3009,
+    "tokens": 710
+  },
+  "infobox": {
+    "title": "Sally Floyd",
+    "data": {
+      "Born": "May 20, 1950 \u00b7 Charlottesville, Virginia, U.S.",
+      "Died": "August 25, 2019 (aged 69) \u00b7 Berkeley, California, U.S.",
+      "Alma mater": "University of California, Berkeley (BA, MS, PhD)",
+      "Known for": "Random early detection \u00b7 Explicit congestion notification \u00b7 Floyd Synchronization \u00b7 Selective acknowledgement",
+      "Spouse": "Carole Leita \u200b(m. 2013)\u200b",
+      "Awards": "SIGCOMM Award",
+      "Fields": "Computer science",
+      "Thesis": "On Space-Bounded Learning and the Vapnik-Chervonenkis Dimension (1989)",
+      "Doctoral advisor": "Richard M. Karp"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+[
+    {
+        "document_idx": null,
+        "text": "# RoboCop\nIn a dystopian Detroit, the mega-corporation Omni Consumer Products (OCP) takes control of the police, replacing officers with the cyborg **RoboCop** , a resurrected police officer, Alex Murphy, who is programmed with three directives: serve the public, protect the innocent, and uphold the law. RoboCop battles crime, uncovering the dark conspiracy behind his creation, including the murder of his former partner, Anne Lewis, and the involvement of OCP executives.",
+        "text_original": "In a dystopian Detroit, the mega-corporation Omni Consumer Products (OCP) takes control of the police, replacing officers with the cyborg **RoboCop**, a resurrected police officer, Alex Murphy, who is programmed with three directives: serve the public, protect the innocent, and uphold the law. RoboCop battles crime, uncovering the dark conspiracy behind his creation, including the murder of his former partner, Anne Lewis, and the involvement of OCP executives",
+        "idx_start": 16,
+        "idx_end": 479
+    },
+    {
+        "document_idx": null,
+        "text": "# RoboCop\n## Key Themes:\n- **Corporate Power:** OCP exploits Detroit\u2019s decline, privatizing public services and prioritizing profit over humanity.\n- **Humanity vs. Technology:** RoboCop grapples with his identity, questioning whether he retains his humanity despite being a machine.\n- **Revenge and Redemption:** The film explores themes of vengeance, justice, and the struggle to reclaim one\u2019s humanity.\n**Legacy:** A sci-fi classic blending satire, action, and philosophical questions about technology and morality.",
+        "text_original": "Corporate Power:** OCP exploits Detroit\u2019s decline, privatizing public services and prioritizing profit over humanity.\n- **Humanity vs. Technology:** RoboCop grapples with his identity, questioning whether he retains his humanity despite being a machine.\n- **Revenge and Redemption:** The film explores themes of vengeance, justice, and the struggle to reclaim one\u2019s humanity.\n\n**Legacy:** A sci-fi classic blending satire, action, and philosophical questions about technology and morality",
+        "idx_start": 502,
+        "idx_end": 990
+    },
+    {
+        "document_idx": null,
+        "text": "# The Hitchhiker\u2019s Guide to the Galaxy\nIn a near-future Earth destroyed by the Vogons, **Arthur Dent** and his alien guide **Ford Prefect** embark on a journey through the galaxy. Along the way, they encounter eccentric characters like **Zaphod Beeblebrox** (the two-headed, three-eyed president of the galaxy), **Marvin the Paranoid Android** , and **Trillian** , while navigating absurd cosmic challenges.",
+        "text_original": "In a near-future Earth destroyed by the Vogons, **Arthur Dent** and his alien guide **Ford Prefect** embark on a journey through the galaxy. Along the way, they encounter eccentric characters like **Zaphod Beeblebrox** (the two-headed, three-eyed president of the galaxy), **Marvin the Paranoid Android**, and **Trillian**, while navigating absurd cosmic challenges",
+        "idx_start": 1043,
+        "idx_end": 1408
+    },
+    {
+        "document_idx": null,
+        "text": "# The Hitchhiker\u2019s Guide to the Galaxy\n## Key Themes:\n- **Absurdism:** The story critiques human arrogance, existentialism, and the futility of human endeavors.\n- **Existential Dread:** Arthur\u2019s mundane life contrasts sharply with the vast, indifferent universe.\n- **Humanity\u2019s Place in the Cosmos:** The guidebook\u2019s absurdity underscores humanity\u2019s insignificance and the search for meaning.\n**Legacy:** A groundbreaking blend of humor, satire, and deep philosophical musings, influencing sci-fi and pop culture.",
+        "text_original": "Absurdism:** The story critiques human arrogance, existentialism, and the futility of human endeavors.\n- **Existential Dread:** Arthur\u2019s mundane life contrasts sharply with the vast, indifferent universe.\n- **Humanity\u2019s Place in the Cosmos:** The guidebook\u2019s absurdity underscores humanity\u2019s insignificance and the search for meaning.\n\n**Legacy:** A groundbreaking blend of humor, satire, and deep philosophical musings, influencing sci-fi and pop culture",
+        "idx_start": 1431,
+        "idx_end": 1886
+    },
+    {
+        "document_idx": null,
+        "text": "# Avengers: Age of Ultron\nThe Avengers\u2014led by **Tony Stark/Iron Man** , **Thor** , **Bruce Banner/Hulk** , and **Captain America** \u2014face **Ultron** , an AI created by Stark and Banner to prevent global conflict. Ultron, driven by a godlike desire to \"save\" humanity, turns against them, leading to a global catastrophe. The team must confront their own flaws and unite to stop Ultron.",
+        "text_original": "The Avengers\u2014led by **Tony Stark/Iron Man**, **Thor**, **Bruce Banner/Hulk**, and **Captain America**\u2014face **Ultron**, an AI created by Stark and Banner to prevent global conflict. Ultron, driven by a godlike desire to \"save\" humanity, turns against them, leading to a global catastrophe. The team must confront their own flaws and unite to stop Ultron",
+        "idx_start": 1926,
+        "idx_end": 2278
+    },
+    {
+        "document_idx": null,
+        "text": "# Avengers: Age of Ultron\n## Key Themes:\n- **Corporate Espionage:** Stark\u2019s creation of Ultron reflects the dangers of unchecked corporate power.\n- **AI and Morality:** Ultron\u2019s conflict with humanity raises questions about artificial intelligence\u2019s autonomy and ethical boundaries.\n- **Team Dynamics:** The film explores the Avengers\u2019 internal struggles, tensions, and the cost of unity.\n**Legacy:** A defining sequel in the Marvel Cinematic Universe, blending action, sci-fi, and moral dilemmas.",
+        "text_original": "Corporate Espionage:** Stark\u2019s creation of Ultron reflects the dangers of unchecked corporate power.\n- **AI and Morality:** Ultron\u2019s conflict with humanity raises questions about artificial intelligence\u2019s autonomy and ethical boundaries.\n- **Team Dynamics:** The film explores the Avengers\u2019 internal struggles, tensions, and the cost of unity.\n\n**Legacy:** A defining sequel in the Marvel Cinematic Universe, blending action, sci-fi, and moral dilemmas",
+        "idx_start": 2301,
+        "idx_end": 2753
+    },
+    {
+        "document_idx": null,
+        "text": "# Blade Runner 2049\nIn a dystopian Los Angeles, **KD6-3.7 (K)** , a replicant blade runner, investigates the origins of a mysterious monolith buried beneath a farm. His investigation leads him to uncover a hidden truth about replicants\u2019 reproduction and the sinister intentions of **Niander Wallace** , a corporate tycoon. K\u2019s journey explores themes of identity, humanity, and the blurred line between human and machine.",
+        "text_original": "In a dystopian Los Angeles, **KD6-3.7 (K)**, a replicant blade runner, investigates the origins of a mysterious monolith buried beneath a farm. His investigation leads him to uncover a hidden truth about replicants\u2019 reproduction and the sinister intentions of **Niander Wallace**, a corporate tycoon. K\u2019s journey explores themes of identity, humanity, and the blurred line between human and machine",
+        "idx_start": 2787,
+        "idx_end": 3185
+    },
+    {
+        "document_idx": null,
+        "text": "# Blade Runner 2049\n## Key Themes:\n- **Ethics of Replicants:** The film questions what it means to be human and the moral implications of replicants.\n- **Corporate Exploitation:** Wallace\u2019s control over replicants reflects the dehumanizing effects of capitalism.\n- **Memory and Identity:** K\u2019s search for his own origins highlights the fragility of human identity.\n**Legacy:** A visually stunning, thought-provoking sequel that deepens the lore of the Blade Runner universe.",
+        "text_original": "Ethics of Replicants:** The film questions what it means to be human and the moral implications of replicants.\n- **Corporate Exploitation:** Wallace\u2019s control over replicants reflects the dehumanizing effects of capitalism.\n- **Memory and Identity:** K\u2019s search for his own origins highlights the fragility of human identity.\n\n**Legacy:** A visually stunning, thought-provoking sequel that deepens the lore of the Blade Runner universe",
+        "idx_start": 3208,
+        "idx_end": 3643
+    },
+    {
+        "document_idx": null,
+        "text": "# 2001: A Space Odyssey\nIn a futuristic timeline, **Dr. David Bowman** and his crew aboard the spaceship *Discovery One* encounter an alien monolith, which sends them on a journey through space. The film explores humanity\u2019s evolution, the mysteries of the cosmos, and the existential questions of existence itself.",
+        "text_original": "In a futuristic timeline, **Dr. David Bowman** and his crew aboard the spaceship *Discovery One* encounter an alien monolith, which sends them on a journey through space. The film explores humanity\u2019s evolution, the mysteries of the cosmos, and the existential questions of existence itself",
+        "idx_start": 3681,
+        "idx_end": 3970
+    },
+    {
+        "document_idx": null,
+        "text": "# 2001: A Space Odyssey\n## Key Themes:\n- **Human Evolution:** The monolith symbolizes humanity\u2019s progress and the search for meaning.\n- **AI and Consciousness:** HAL 9000\u2019s malfunction raises questions about artificial intelligence and its place in the universe.\n- **Existentialism:** The film questions the nature of existence, consciousness, and the future of humanity.\n**Legacy:** A groundbreaking sci-fi masterpiece that redefined filmmaking and influenced generations of filmmakers.",
+        "text_original": "Human Evolution:** The monolith symbolizes humanity\u2019s progress and the search for meaning.\n- **AI and Consciousness:** HAL 9000\u2019s malfunction raises questions about artificial intelligence and its place in the universe.\n- **Existentialism:** The film questions the nature of existence, consciousness, and the future of humanity.\n\n**Legacy:** A groundbreaking sci-fi masterpiece that redefined filmmaking and influenced generations of filmmakers",
+        "idx_start": 3993,
+        "idx_end": 4437
+    },
+    {
+        "document_idx": null,
+        "text": "# A.I. Artificial Intelligence\nIn a dystopian future, **David** , a mecha-child created by scientists, is adopted by a family but struggles to fit in. As he grows, he faces rejection and seeks love, only to be abandoned by his creators. The film explores themes of loneliness, identity, and the search for belonging in a world dominated by machines.",
+        "text_original": "In a dystopian future, **David**, a mecha-child created by scientists, is adopted by a family but struggles to fit in. As he grows, he faces rejection and seeks love, only to be abandoned by his creators. The film explores themes of loneliness, identity, and the search for belonging in a world dominated by machines",
+        "idx_start": 4482,
+        "idx_end": 4798
+    },
+    {
+        "document_idx": null,
+        "text": "# A.I. Artificial Intelligence\n## Key Themes:\n- **Human Connection:** David\u2019s quest for love and acceptance contrasts with the cold, mechanical world around him.\n- **AI and Emotion:** The film questions whether machines can truly experience emotion or love.\n- **Existential Dread:** David\u2019s journey reflects the universal struggle for meaning and belonging.\n**Legacy:** A poignant blend of sci-fi and emotional depth, blending Kubrick\u2019s vision with Spielberg\u2019s storytelling.",
+        "text_original": "Human Connection:** David\u2019s quest for love and acceptance contrasts with the cold, mechanical world around him.\n- **AI and Emotion:** The film questions whether machines can truly experience emotion or love.\n- **Existential Dread:** David\u2019s journey reflects the universal struggle for meaning and belonging.\n\n**Legacy:** A poignant blend of sci-fi and emotional depth, blending Kubrick\u2019s vision with Spielberg\u2019s storytelling",
+        "idx_start": 4821,
+        "idx_end": 5245
+    },
+    {
+        "document_idx": null,
+        "text": "# Star Trek: The Motion Picture\nIn the 23rd century, the *Enterprise* crew faces **V\u2019Ger** , a sentient alien machine seeking to return to its creator. The film explores themes of discovery, purpose, and the nature of life itself, blending action with philosophical inquiry.",
+        "text_original": "In the 23rd century, the *Enterprise* crew faces **V\u2019Ger**, a sentient alien machine seeking to return to its creator. The film explores themes of discovery, purpose, and the nature of life itself, blending action with philosophical inquiry",
+        "idx_start": 5291,
+        "idx_end": 5531
+    },
+    {
+        "document_idx": null,
+        "text": "# Star Trek: The Motion Picture\n## Key Themes:\n- **Purpose and Discovery:** The crew\u2019s mission reflects humanity\u2019s quest for understanding and purpose.\n- **AI and Sentience:** V\u2019Ger\u2019s existence raises questions about artificial intelligence and its potential for consciousness.\n- **Humanity\u2019s Place in the Cosmos:** The film questions humanity\u2019s role in the universe and the nature of existence.\n**Legacy:** A landmark in sci-fi cinema, redefining the franchise and influencing generations of filmmakers.",
+        "text_original": "Purpose and Discovery:** The crew\u2019s mission reflects humanity\u2019s quest for understanding and purpose.\n- **AI and Sentience:** V\u2019Ger\u2019s existence raises questions about artificial intelligence and its potential for consciousness.\n- **Humanity\u2019s Place in the Cosmos:** The film questions humanity\u2019s role in the universe and the nature of existence.\n\n**Legacy:** A landmark in sci-fi cinema, redefining the franchise and influencing generations of filmmakers",
+        "idx_start": 5554,
+        "idx_end": 6007
+    },
+    {
+        "document_idx": null,
+        "text": "# Frankenstein\nVictor Frankenstein, a scientist obsessed with creating life, assembles a grotesque humanoid creature from body parts. When the creature awakens, Victor flees, leaving him to wander the world, seeking companionship and ultimately confronting Victor\u2019s guilt and fear. The novel explores themes of creation, responsibility, and the consequences of defying nature.",
+        "text_original": "Victor Frankenstein, a scientist obsessed with creating life, assembles a grotesque humanoid creature from body parts. When the creature awakens, Victor flees, leaving him to wander the world, seeking companionship and ultimately confronting Victor\u2019s guilt and fear. The novel explores themes of creation, responsibility, and the consequences of defying nature",
+        "idx_start": 6035,
+        "idx_end": 6395
+    },
+    {
+        "document_idx": null,
+        "text": "# Frankenstein\n## Key Themes:\n- **Creation and Responsibility:** Victor\u2019s hubris and the creature\u2019s suffering highlight the dangers of unchecked ambition.\n- **Isolation and Guilt:** The creature\u2019s journey reflects humanity\u2019s struggle with guilt, isolation, and the search for redemption.\n- **Nature vs. Science:** The novel questions the ethical boundaries of scientific progress and the moral implications of creation.\n**Legacy:** A foundational work of Gothic literature and science fiction, influencing countless stories and films.",
+        "text_original": "Creation and Responsibility:** Victor\u2019s hubris and the creature\u2019s suffering highlight the dangers of unchecked ambition.\n- **Isolation and Guilt:** The creature\u2019s journey reflects humanity\u2019s struggle with guilt, isolation, and the search for redemption.\n- **Nature vs. Science:** The novel questions the ethical boundaries of scientific progress and the moral implications of creation.\n\n**Legacy:** A foundational work of Gothic literature and science fiction, influencing countless stories and films",
+        "idx_start": 6418,
+        "idx_end": 6918
+    }
+]

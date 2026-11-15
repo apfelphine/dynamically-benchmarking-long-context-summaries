@@ -1,0 +1,37 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Computation and Science Leadership\nEarly computational pioneers include Alan Turing (Turing machine and WWII code-breaking), Charles Babbage (Analytical Engine), Leonardo Torres Quevedo, and Ada Lovelace, who proposed general-purpose computing. Scientific advancements were also driven by Blaise Pascal, who invented the mechanical calculator (Pascaline) in 1642 and co-developed the mathematical theory of probability with Pierre de Fermat in 1654. Vannevar Bush contributed significantly by influencing the NSF and conceptualizing the Memex.",
+        "text_original": "Early computational pioneers include Alan Turing (Turing machine and WWII code-breaking), Charles Babbage (Analytical Engine), Leonardo Torres Quevedo, and Ada Lovelace, who proposed general-purpose computing. Scientific advancements were also driven by Blaise Pascal, who invented the mechanical calculator (Pascaline) in 1642 and co-developed the mathematical theory of probability with Pierre de Fermat in 1654. Vannevar Bush contributed significantly by influencing the NSF and conceptualizing the Memex",
+        "idx_start": 51,
+        "idx_end": 558
+    },
+    {
+        "document_idx": null,
+        "text": "# Philosophical and Theological Contributions\nPascal, a French polymath, was a philosopher who advocated for fideism\u2014the reliance on faith to grasp the divine\u2014and used debate in his work *Pens\u00e9es* to promote Christian faith. His mathematical study, *De l'Esprit g\u00e9om\u00e9trique* , explored formalism.",
+        "text_original": "Pascal, a French polymath, was a philosopher who advocated for fideism\u2014the reliance on faith to grasp the divine\u2014and used debate in his work *Pens\u00e9es* to promote Christian faith. His mathematical study, *De l'Esprit g\u00e9om\u00e9trique*, explored formalism",
+        "idx_start": 609,
+        "idx_end": 857
+    },
+    {
+        "document_idx": null,
+        "text": "# Modern Research and Computational Theory\nAlfred North Whitehead advanced \"process philosophy\" in *Process and Reality* (1929). In contemporary research, Philip Rubin studies embodied cognition using dynamical systems and action theory (models ASY and CASY), while also holding administrative positions at the White House OSTP and NSF.",
+        "text_original": "Alfred North Whitehead advanced \"process philosophy\" in *Process and Reality* (1929). In contemporary research, Philip Rubin studies embodied cognition using dynamical systems and action theory (models ASY and CASY), while also holding administrative positions at the White House OSTP and NSF",
+        "idx_start": 905,
+        "idx_end": 1197
+    },
+    {
+        "document_idx": null,
+        "text": "# The Free Software Movement\nRichard Stallman founded the Free Software Foundation in 1985 and initiated the GNU project, leading the free software movement. He introduced the **copyleft** concept through the GPL in 1989, advocating for resistance against proprietary software, patents, and DRM.",
+        "text_original": "Richard Stallman founded the Free Software Foundation in 1985 and initiated the GNU project, leading the free software movement. He introduced the **copyleft** concept through the GPL in 1989, advocating for resistance against proprietary software, patents, and DRM",
+        "idx_start": 1231,
+        "idx_end": 1496
+    },
+    {
+        "document_idx": null,
+        "text": "# Interdisciplinary Innovation and Cultural Impact (Hedy Lamarr)\nHedy Lamarr, an actress active from 1930 to 1958, made a crucial transition into invention, co-inventing frequency-hopping spread spectrum technology with George Antheil during WWII and patenting it in 1942. Lamarr received honors, including a Hollywood Walk of Fame star in 1960 and posthumous induction into the National Inventors Hall of Fame in 2014. Her scientific contributions have garnered significant modern cultural recognition; she has been referenced in various media like *The Caine Mutiny* and *Half-Life 2* , featured in documentaries, and honored by Google with an animated Doodle in 2015, with her work also inspiring character portrayals.",
+        "text_original": "Hedy Lamarr, an actress active from 1930 to 1958, made a crucial transition into invention, co-inventing frequency-hopping spread spectrum technology with George Antheil during WWII and patenting it in 1942. Lamarr received honors, including a Hollywood Walk of Fame star in 1960 and posthumous induction into the National Inventors Hall of Fame in 2014. Her scientific contributions have garnered significant modern cultural recognition; she has been referenced in various media like *The Caine Mutiny* and *Half-Life 2*, featured in documentaries, and honored by Google with an animated Doodle in 2015, with her work also inspiring character portrayals",
+        "idx_start": 1566,
+        "idx_end": 2220
+    }
+]

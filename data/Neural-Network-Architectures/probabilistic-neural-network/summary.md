@@ -1,0 +1,5 @@
+A probabilistic neural network (PNN) is a feedforward neural network, which is widely used in classification and pattern recognition problems. In the PNN algorithm, the parent probability distribution function (PDF) of each class is approximated by a Parzen window and a  non-parametric function. Then, using PDF of each class, the class probability of a new input data is estimated and Bayes’ rule is then employed to allocate the class with highest posterior probability to new input data. By this method, the probability of mis-classification is minimized. This type of artificial neural network (ANN) was derived from the Bayesian network and a statistical algorithm called Kernel Fisher discriminant analysis. It was introduced by D.F. Specht in 1966. In a PNN, the operations are organized into a multilayered feedforward network with four layers:
+- Input layer
+- Pattern layer
+- Summation layer
+- Output layer

@@ -1,0 +1,1 @@
+A bursary is a monetary award made by any educational institution or funding authority to individuals or groups. It is usually awarded to enable a student to attend school, university, or college when they might not be able to otherwise. Some awards are aimed at encouraging specific groups or individuals to study.

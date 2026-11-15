@@ -1,0 +1,11 @@
+Richard Stallman is a computer scientist and software freedom advocate born in 1953 in New York City. He developed a strong interest in computers at a young age, attending summer camps and working on programming projects. He earned a bachelor's degree in physics from Harvard University and later pursued a doctorate at MIT, though he left to focus on programming work at the MIT Artificial Intelligence Laboratory.
+
+Stallman is best known for founding the GNU Project in 1983, a free and open-source operating system designed to be compatible with Unix. He created essential tools like GNU Emacs, GCC, and the GNU Debugger, and championed the use of copyleft licensing to protect users' rights to modify and redistribute software. His work laid the foundation for the free software movement, which emphasizes user freedom over proprietary control.
+
+Stallman has been a vocal critic of software patents, digital rights management (DRM), and closed-source software, advocating for a "reduced copyright" and promoting free access to knowledge. He is a staunch defender of software freedom, often using the term "free software" to distinguish it from "free as in price."
+
+He has also contributed to open-source initiatives such as the development of GNUPedia, which was later succeeded by Wikipedia. Stallman has faced controversy over his past writings on child pornography and his handling of the Jeffrey Epstein scandal, leading to a temporary resignation from the Free Software Foundation and a later return.
+
+In personal life, Stallman lives in Boston, speaks multiple languages, and is an atheist of Jewish ancestry. He is known for his commitment to freedom and privacy, using a free software-based computer and refusing to autograph anything bearing a copyright symbol. He has received numerous awards, including the MacArthur "Genius" Fellowship and the Electronic Frontier Foundation's Pioneer Award.
+
+Stallman continues to promote free software and open-source principles through education, advocacy, and community involvement, and his work remains foundational to modern software development and digital rights.

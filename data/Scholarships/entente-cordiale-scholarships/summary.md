@@ -1,0 +1,2 @@
+The Entente Cordiale Scholarship scheme (Bourses Entente Cordiale) is a selective Franco-British scholarship scheme. It provides funding for British and French students to study for one academic year on the other side of the Channel. The scheme is administered by the French embassy in London for British students, and by the British Council France and the UK embassy in Paris for French students. Funding is provided by the private sector and foundations.
+The scheme aims to favour mutual understanding and to promote exchanges between the British and French leaders of tomorrow.

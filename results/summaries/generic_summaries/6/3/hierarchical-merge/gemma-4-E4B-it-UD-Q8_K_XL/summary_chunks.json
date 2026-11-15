@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Science, Logic, and Computation\n## Foundations of Logic and Computation\nThe groundwork for modern computation and logic was established by numerous thinkers. George Boole systematized logic into an \"algebra of logic,\" which Claude Shannon later applied to electrical switches. Muhammad ibn Musa al-Khwarizmi is credited as the father of algebra and introducing the concept of the \"algorithm.\" Further foundational contributions include Gottlob Frege's axiomatic predicate logic and Kurt G\u00f6del's incompleteness theorems, while Ramon Llull developed an early algorithmic system for universal logic.",
+        "text_original": "The groundwork for modern computation and logic was established by numerous thinkers. George Boole systematized logic into an \"algebra of logic,\" which Claude Shannon later applied to electrical switches. Muhammad ibn Musa al-Khwarizmi is credited as the father of algebra and introducing the concept of the \"algorithm.\" Further foundational contributions include Gottlob Frege's axiomatic predicate logic and Kurt G\u00f6del's incompleteness theorems, while Ramon Llull developed an early algorithmic system for universal logic",
+        "idx_start": 87,
+        "idx_end": 610
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Science, Logic, and Computation\n## Algorithms, Architecture, and Early Computing\nKey advancements spanned from early mechanical designs to modern programming. Ismail al-Jazari designed early automata, and Per Brinch Hansen defined kernel concepts in multiprogramming. Donald Knuth established the \"Analysis of algorithms,\" and Grace Hopper advanced programming through COBOL. In hardware, Federico Faggin contributed to early microprocessors through Silicon-Gate Technology (SGT), and Lynn Conway was vital to Very-Large-Scale Integration (VLSI).",
+        "text_original": "Key advancements spanned from early mechanical designs to modern programming. Ismail al-Jazari designed early automata, and Per Brinch Hansen defined kernel concepts in multiprogramming. Donald Knuth established the \"Analysis of algorithms,\" and Grace Hopper advanced programming through COBOL. In hardware, Federico Faggin contributed to early microprocessors through Silicon-Gate Technology (SGT), and Lynn Conway was vital to Very-Large-Scale Integration (VLSI",
+        "idx_start": 662,
+        "idx_end": 1125
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Science, Logic, and Computation\n## Decision Science, AI, and Modern Technology\nIn the realm of decision-making, Herbert A. Simon introduced \"bounded rationality,\" influencing early AI concepts like the General Problem Solver. Modern AI breakthroughs include Geoffrey Hinton's work with backpropagation in neural networks, prompting current discussions on AI safety. Other innovators include Kenneth E. Iverson, who contributed to programming notation, and Hedy Lamarr and George Antheil, who co-developed frequency-hopping technology pivotal to modern wireless communication.",
+        "text_original": "In the realm of decision-making, Herbert A. Simon introduced \"bounded rationality,\" influencing early AI concepts like the General Problem Solver. Modern AI breakthroughs include Geoffrey Hinton's work with backpropagation in neural networks, prompting current discussions on AI safety. Other innovators include Kenneth E. Iverson, who contributed to programming notation, and Hedy Lamarr and George Antheil, who co-developed frequency-hopping technology pivotal to modern wireless communication",
+        "idx_start": 1176,
+        "idx_end": 1671
+    }
+]

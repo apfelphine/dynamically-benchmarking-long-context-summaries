@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Donald Knuth: Algorithmic and Typesetting Innovation\nDonald Knuth revolutionized algorithms and programming with *The Art of Computer Programming* , invented literate programming, and created TeX and METAFONT, transforming digital typesetting. His work also spans recreational mathematics, religious thought, music, and critiques of software patents.",
+        "text_original": "Donald Knuth revolutionized algorithms and programming with *The Art of Computer Programming*, invented literate programming, and created TeX and METAFONT, transforming digital typesetting. His work also spans recreational mathematics, religious thought, music, and critiques of software patents",
+        "idx_start": 141,
+        "idx_end": 436
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Claude Shannon: Architect of Information Theory\nClaude Shannon founded information theory, introducing entropy and Boolean logic\u2014foundational for digital communication, cryptography, AI, and computing.",
+        "text_original": "Claude Shannon founded information theory, introducing entropy and Boolean logic\u2014foundational for digital communication, cryptography, AI, and computing",
+        "idx_start": 491,
+        "idx_end": 643
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Lynn Conway: VLSI, Computer Architecture, and Advocacy\nLynn Conway redefined circuit design with the Mead\u2013Conway VLSI methodology, transforming computer architecture and engineering, while championing transgender advocacy.",
+        "text_original": "Lynn Conway redefined circuit design with the Mead\u2013Conway VLSI methodology, transforming computer architecture and engineering, while championing transgender advocacy",
+        "idx_start": 705,
+        "idx_end": 871
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Edsger W. Dijkstra: Structured Programming and Distributed Computing\nEdsger Dijkstra pioneered algorithms, structured programming, and influenced distributed computing, earning the ACM Turing Award.",
+        "text_original": "Edsger Dijkstra pioneered algorithms, structured programming, and influenced distributed computing, earning the ACM Turing Award",
+        "idx_start": 947,
+        "idx_end": 1075
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Kurt G\u00f6del: Mathematical Logic and its Implications\nKurt G\u00f6del\u2019s incompleteness theorems reshaped mathematical logic, with profound impacts on philosophy and physics.",
+        "text_original": "Kurt G\u00f6del\u2019s incompleteness theorems reshaped mathematical logic, with profound impacts on philosophy and physics",
+        "idx_start": 1134,
+        "idx_end": 1247
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Herbert A. Simon: Decision Theory and Artificial Intelligence\nHerbert Simon advanced economics, psychology, cognitive science, and AI, developed bounded rationality and decision theory, and won both Nobel and Turing honors.",
+        "text_original": "Herbert Simon advanced economics, psychology, cognitive science, and AI, developed bounded rationality and decision theory, and won both Nobel and Turing honors",
+        "idx_start": 1316,
+        "idx_end": 1476
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Ismail al-Jazari: Mechanical Engineering, Robotics, and Art\nIsmail al-Jazari merged engineering and art to invent automata and water-powered mechanisms, influencing robotics.",
+        "text_original": "Ismail al-Jazari merged engineering and art to invent automata and water-powered mechanisms, influencing robotics",
+        "idx_start": 1543,
+        "idx_end": 1656
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Per Brinch Hansen: Operating Systems and Parallel Computing\nPer Brinch Hansen made foundational contributions to operating systems, concurrency, and parallel computing, receiving the IEEE Computer Pioneer Award.",
+        "text_original": "Per Brinch Hansen made foundational contributions to operating systems, concurrency, and parallel computing, receiving the IEEE Computer Pioneer Award",
+        "idx_start": 1723,
+        "idx_end": 1873
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Geoffrey Hinton: Deep Learning and AI Safety\nGeoffrey Hinton led neural network and deep learning advances, emphasized AI risks, and continued the legacy of the Boole scientific family.",
+        "text_original": "Geoffrey Hinton led neural network and deep learning advances, emphasized AI risks, and continued the legacy of the Boole scientific family",
+        "idx_start": 1925,
+        "idx_end": 2064
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Al-Khwarizmi: Algebra, Mathematics, Astronomy, and Geography\nAl-Khwarizmi established algebra, formulated calculation algorithms and numerals, contributed to trigonometry and geography, and authored foundational mathematical treatises.",
+        "text_original": "Al-Khwarizmi established algebra, formulated calculation algorithms and numerals, contributed to trigonometry and geography, and authored foundational mathematical treatises",
+        "idx_start": 2132,
+        "idx_end": 2305
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## George Antheil: Avant-Garde Composer and Technology Pioneer\nGeorge Antheil, avant-garde composer, co-invented frequency-hopping technology with Hedy Lamarr, and contributed to film music and criticism.",
+        "text_original": "George Antheil, avant-garde composer, co-invented frequency-hopping technology with Hedy Lamarr, and contributed to film music and criticism",
+        "idx_start": 2372,
+        "idx_end": 2512
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Gottlob Frege: Logic and Philosophy of Language\nGottlob Frege originated predicate logic and transformed philosophy of language with sense-reference theory, influencing logicism and analytic philosophy.",
+        "text_original": "Gottlob Frege originated predicate logic and transformed philosophy of language with sense-reference theory, influencing logicism and analytic philosophy",
+        "idx_start": 2567,
+        "idx_end": 2720
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Ramon Llull: Medieval Philosophy, Logic, and Legacy\nRamon Llull\u2019s combinatorial logic affected metaphysics, literature, voting theory, and early computer science, bridging philosophy and the arts.",
+        "text_original": "Ramon Llull\u2019s combinatorial logic affected metaphysics, literature, voting theory, and early computer science, bridging philosophy and the arts",
+        "idx_start": 2779,
+        "idx_end": 2922
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Grace Hopper: Compilers, Programming Languages, and Enduring Legacy\nGrace Hopper pioneered computer science, developed early compilers and COBOL, attained Rear Admiral rank, earned major honors, and remains an iconic figure in promoting women in computing.",
+        "text_original": "Grace Hopper pioneered computer science, developed early compilers and COBOL, attained Rear Admiral rank, earned major honors, and remains an iconic figure in promoting women in computing",
+        "idx_start": 2997,
+        "idx_end": 3184
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## George Boole: Boolean Logic, Mathematical Foundations, and Intellectual Legacy\nGeorge Boole founded Boolean algebra and mapped logic to algebra in his *Laws of Thought* , influencing reasoning, philosophy, and circuit design, with a global legacy carried by descendants including Geoffrey Hinton and Ethel Lilian Voynich.",
+        "text_original": "George Boole founded Boolean algebra and mapped logic to algebra in his *Laws of Thought*, influencing reasoning, philosophy, and circuit design, with a global legacy carried by descendants including Geoffrey Hinton and Ethel Lilian Voynich",
+        "idx_start": 3270,
+        "idx_end": 3510
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Federico Faggin: Silicon-Gate Technology, Microprocessors, and Thought Leadership\nFederico Faggin invented Silicon Gate Technology, enabling advances in semiconductors and microprocessors, led the Intel 4004 design, theorized quantum consciousness in his 2024 work, and received global recognition.",
+        "text_original": "Federico Faggin invented Silicon Gate Technology, enabling advances in semiconductors and microprocessors, led the Intel 4004 design, theorized quantum consciousness in his 2024 work, and received global recognition",
+        "idx_start": 3599,
+        "idx_end": 3814
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Kenneth E. Iverson: Programming Language Innovation and Educational Leadership\nKenneth E. Iverson created APL, innovated notations and computational education, co-designed the J language and founded Jsoftware, and received the Turing Award and other honors, with a moth species named after him.",
+        "text_original": "Kenneth E. Iverson created APL, innovated notations and computational education, co-designed the J language and founded Jsoftware, and received the Turing Award and other honors, with a moth species named after him",
+        "idx_start": 3900,
+        "idx_end": 4114
+    },
+    {
+        "document_idx": null,
+        "text": "# Trailblazers in Computer Science, Logic, Engineering, Mathematics, and the Arts\n## Jacek Karpi\u0144ski: Pioneering Computer Engineering, Controversy, and Legacy\nJacek Karpi\u0144ski overcame wartime injury to lead Polish computer science, inventing the AKAT-1 and the advanced K-202 minicomputer\u2014in partnership with British firms\u2014surpassing Western technologies of the era. Despite international acclaim and a UNESCO scholarship, political and industrial challenges in Poland hindered mass production of his innovations. His machines, including the AKAT-1, KAR-65, and K-202, are now displayed in Warsaw\u2019s Museum of Technology. After setbacks, Karpi\u0144ski moved to the countryside, worked abroad, and later advised in Poland, receiving high national honors before his death in 2010. His career was marked by secret work as an informant for the S\u0142u\u017cba Bezpiecze\u0144stwa and later surveillance, fueling debate about the failure of the K-202. His life, achievements, and controversies have inspired literary and biographical works.",
+        "text_original": "Jacek Karpi\u0144ski overcame wartime injury to lead Polish computer science, inventing the AKAT-1 and the advanced K-202 minicomputer\u2014in partnership with British firms\u2014surpassing Western technologies of the era. Despite international acclaim and a UNESCO scholarship, political and industrial challenges in Poland hindered mass production of his innovations. His machines, including the AKAT-1, KAR-65, and K-202, are now displayed in Warsaw\u2019s Museum of Technology. After setbacks, Karpi\u0144ski moved to the countryside, worked abroad, and later advised in Poland, receiving high national honors before his death in 2010. His career was marked by secret work as an informant for the S\u0142u\u017cba Bezpiecze\u0144stwa and later surveillance, fueling debate about the failure of the K-202. His life, achievements, and controversies have inspired literary and biographical works",
+        "idx_start": 4195,
+        "idx_end": 5051
+    }
+]

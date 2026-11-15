@@ -1,0 +1,100 @@
+[
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n**History & Development:** Established in 1850, it was Australia's first public, non-denominational, and secular university, receiving a royal charter in 1858. It was one of the first in the world to admit women equally in 1881. The university has seen periods of expansion, such as receiving a large bequest in 1889, and modernization, including the introduction of the PhD in 1951. **Modern Issues & Structure:** The university has faced controversies regarding staff underpayment and student satisfaction. The main campus in Camperdown and Darlington features significant Gothic and Tudor Revival architecture. Its governance includes eight faculties, and it maintains a large academic library, noted as the largest in the Southern Hemisphere.",
+        "text_original": "History & Development:** Established in 1850, it was Australia's first public, non-denominational, and secular university, receiving a royal charter in 1858. It was one of the first in the world to admit women equally in 1881. The university has seen periods of expansion, such as receiving a large bequest in 1889, and modernization, including the introduction of the PhD in 1951.\n**Modern Issues & Structure:** The university has faced controversies regarding staff underpayment and student satisfaction. The main campus in Camperdown and Darlington features significant Gothic and Tudor Revival architecture. Its governance includes eight faculties, and it maintains a large academic library, noted as the largest in the Southern Hemisphere",
+        "idx_start": 26,
+        "idx_end": 769
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n**History & Growth:** Originating as a college of the University of New Zealand in 1883, it became fully empowered in 1961. The university has actively grown its research culture since the 1930s and has expanded its infrastructure significantly, including a new recreation center in 2024. **Campus & Initiatives:** Its campuses are spread across the Auckland region, with the City Campus housing most students. The university places a strong emphasis on innovation and entrepreneurship through initiatives like the Unleash Space and the Newmarket Innovation Precinct.",
+        "text_original": "History & Growth:** Originating as a college of the University of New Zealand in 1883, it became fully empowered in 1961. The university has actively grown its research culture since the 1930s and has expanded its infrastructure significantly, including a new recreation center in 2024.\n**Campus & Initiatives:** Its campuses are spread across the Auckland region, with the City Campus housing most students. The university places a strong emphasis on innovation and entrepreneurship through initiatives like the Unleash Space and the Newmarket Innovation Precinct",
+        "idx_start": 800,
+        "idx_end": 1364
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n**Founding & Mission:** Founded in 1948, it was established as Colombia's first nonsectarian and non-politically affiliated university. Its mission is to foster pluralism, dialogue, and provide students with both technical and liberal education to solve Colombian problems. **Structure & Scope:** The university operates under a Board of Trustees and Rector, with a vast network of academic units. It features a three/two program allowing students to study in the U.S. and maintains a strong international presence, engaging with over 119 universities globally.",
+        "text_original": "Founding & Mission:** Founded in 1948, it was established as Colombia's first nonsectarian and non-politically affiliated university. Its mission is to foster pluralism, dialogue, and provide students with both technical and liberal education to solve Colombian problems.\n**Structure & Scope:** The university operates under a Board of Trustees and Rector, with a vast network of academic units. It features a three/two program allowing students to study in the U.S. and maintains a strong international presence, engaging with over 119 universities globally",
+        "idx_start": 1407,
+        "idx_end": 1965
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (UNICAMP)\n**History & Crisis:** Founded in 1966, UNICAMP was designed with a unique, radial campus layout. Its early rapid expansion led to a major crisis in the late 1970s due to conflict between the academic community and the conservative military regime. **Academic Focus & Funding:** It is a major research and education center in Latin America. Academically, it is structured into semi-autonomous schools, and it faces a funding crisis due to high payroll costs relative to its government funding.",
+        "text_original": "History & Crisis:** Founded in 1966, UNICAMP was designed with a unique, radial campus layout. Its early rapid expansion led to a major crisis in the late 1970s due to conflict between the academic community and the conservative military regime.\n**Academic Focus & Funding:** It is a major research and education center in Latin America. Academically, it is structured into semi-autonomous schools, and it faces a funding crisis due to high payroll costs relative to its government funding",
+        "idx_start": 2012,
+        "idx_end": 2501
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n**Evolution & Scope:** RMIT evolved from the Working Men's College of Melbourne in 1887 to become a public university in 1992. It is notable for pioneering dual-sector education in Australia. **Global Presence & Rankings:** It maintains significant international presences, including campuses in Vietnam and Europe. Academically, it focuses on applied research in design, technology, and health, and it is highly ranked internationally for graduate employability.",
+        "text_original": "Evolution & Scope:** RMIT evolved from the Working Men's College of Melbourne in 1887 to become a public university in 1992. It is notable for pioneering dual-sector education in Australia.\n**Global Presence & Rankings:** It maintains significant international presences, including campuses in Vietnam and Europe. Academically, it focuses on applied research in design, technology, and health, and it is highly ranked internationally for graduate employability",
+        "idx_start": 2556,
+        "idx_end": 3016
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n**History & Reform:** Established in 1898, the university has a long history marked by calls for educational reform, notably during the May Fourth Movement. It has remained a premier institution, surviving political shifts. **Modern Achievements & Structure:** The university achieved global recognition when Professor Tu Youyou won the 2015 Nobel Prize. It has significantly expanded its international cooperation, hosting numerous dual degree programs. The campus retains traditional Chinese-style landscaping.",
+        "text_original": "History & Reform:** Established in 1898, the university has a long history marked by calls for educational reform, notably during the May Fourth Movement. It has remained a premier institution, surviving political shifts.\n**Modern Achievements & Structure:** The university achieved global recognition when Professor Tu Youyou won the 2015 Nobel Prize. It has significantly expanded its international cooperation, hosting numerous dual degree programs. The campus retains traditional Chinese-style landscaping",
+        "idx_start": 3042,
+        "idx_end": 3551
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n**History & Integration:** Imperial evolved from several institutions, eventually unifying its science and medicine faculties. It gained independent degree-awarding powers in 2003 and fully separated from the University of London in 2007. **Research & Focus:** The college is a global leader in scientific research, evidenced by its high research power rankings and strategic partnerships like the Francis Crick Institute. Its focus blends rigorous science with a strong entrepreneurial culture.",
+        "text_original": "History & Integration:** Imperial evolved from several institutions, eventually unifying its science and medicine faculties. It gained independent degree-awarding powers in 2003 and fully separated from the University of London in 2007.\n**Research & Focus:** The college is a global leader in scientific research, evidenced by its high research power rankings and strategic partnerships like the Francis Crick Institute. Its focus blends rigorous science with a strong entrepreneurial culture",
+        "idx_start": 3583,
+        "idx_end": 4075
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\n**Legacy & Prestige:** Founded in 1636, Harvard is renowned for its enduring prestige, holding the world's largest university endowment. Its curriculum has evolved from a Puritan focus to one embracing liberal arts. **Modern Issues:** The university has recently faced major political and administrative controversies, including federal government threats regarding its autonomy and recent presidential leadership changes. **Structure:** It is organized around Harvard College for undergraduate studies and maintains extensive research across its many professional schools.",
+        "text_original": "Legacy & Prestige:** Founded in 1636, Harvard is renowned for its enduring prestige, holding the world's largest university endowment. Its curriculum has evolved from a Puritan focus to one embracing liberal arts.\n**Modern Issues:** The university has recently faced major political and administrative controversies, including federal government threats regarding its autonomy and recent presidential leadership changes.\n**Structure:** It is organized around Harvard College for undergraduate studies and maintains extensive research across its many professional schools",
+        "idx_start": 4102,
+        "idx_end": 4672
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n**History & Innovation:** Founded in 1666, it is Scandinavia's oldest higher education institution. It has been instrumental in groundbreaking innovations, including diagnostic ultrasound and Bluetooth technology. **Global Standing:** Lund consistently ranks among the top 100 globally, and it is the top-ranked comprehensive university in Sweden for sustainability. **Student Life:** Student life is structured around student nations and the Academic Society (AF), which serves as a central hub for academic and cultural activities.",
+        "text_original": "History & Innovation:** Founded in 1666, it is Scandinavia's oldest higher education institution. It has been instrumental in groundbreaking innovations, including diagnostic ultrasound and Bluetooth technology.\n**Global Standing:** Lund consistently ranks among the top 100 globally, and it is the top-ranked comprehensive university in Sweden for sustainability.\n**Student Life:** Student life is structured around student nations and the Academic Society (AF), which serves as a central hub for academic and cultural activities",
+        "idx_start": 4696,
+        "idx_end": 5226
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n**Identity & Mission:** Founded by Jesuit missionaries, Boston College emphasizes a strong Catholic and Jesuit tradition. Its development involved a significant move from a cramped urban setting to the Chestnut Hill campus. **Growth & Finances:** The university has experienced substantial growth in its endowment over recent decades and maintains a commitment to social justice through its AHANA student program. **Academic Life:** It operates nine constituent colleges and schools and places high value on its liberal arts focus, supported by extensive libraries and museums.",
+        "text_original": "Identity & Mission:** Founded by Jesuit missionaries, Boston College emphasizes a strong Catholic and Jesuit tradition. Its development involved a significant move from a cramped urban setting to the Chestnut Hill campus.\n**Growth & Finances:** The university has experienced substantial growth in its endowment over recent decades and maintains a commitment to social justice through its AHANA student program.\n**Academic Life:** It operates nine constituent colleges and schools and places high value on its liberal arts focus, supported by extensive libraries and museums",
+        "idx_start": 5249,
+        "idx_end": 5823
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\n**Establishment & Expansion:** Founded in 1962, it was established by a royal decree to meet the national need for higher education. It has expanded its presence to a second campus in Aqaba. **Academics & Autonomy:** The university offers a wide range of programs across scientific, humanitarian, and medical streams. It is recognized for its pursuit of international orientation and research development.",
+        "text_original": "Establishment & Expansion:** Founded in 1962, it was established by a royal decree to meet the national need for higher education. It has expanded its presence to a second campus in Aqaba.\n**Academics & Autonomy:** The university offers a wide range of programs across scientific, humanitarian, and medical streams. It is recognized for its pursuit of international orientation and research development",
+        "idx_start": 5852,
+        "idx_end": 6254
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (UNICAMP)\n**Origins & Campus Design:** Founded in 1966, UNICAMP was inspired by the UC multi-campus system, featuring a uniquely designed, radial main campus in Bar\u00e3o Geraldo. **Challenges & Reach:** While a leader in Latin American education, it faces high payroll costs. It maintains a vast network of 23 campuses and over 1,900 laboratories, focusing on diverse disciplines.",
+        "text_original": "Origins & Campus Design:** Founded in 1966, UNICAMP was inspired by the UC multi-campus system, featuring a uniquely designed, radial main campus in Bar\u00e3o Geraldo.\n**Challenges & Reach:** While a leader in Latin American education, it faces high payroll costs. It maintains a vast network of 23 campuses and over 1,900 laboratories, focusing on diverse disciplines",
+        "idx_start": 6299,
+        "idx_end": 6663
+    },
+    {
+        "document_idx": null,
+        "text": "# Western University of Ontario\n**History & Identity:** Founded in 1878, it rebranded as \"Western University\" in 2012 to project a more international identity. It has developed a strong presence in research parks. **Research & Community:** Research is focused in areas like cognitive neuroscience. Student life is organized through the University Students' Council (USC), and the university is committed to sustainability initiatives.",
+        "text_original": "History & Identity:** Founded in 1878, it rebranded as \"Western University\" in 2012 to project a more international identity. It has developed a strong presence in research parks.\n**Research & Community:** Research is focused in areas like cognitive neuroscience. Student life is organized through the University Students' Council (USC), and the university is committed to sustainability initiatives",
+        "idx_start": 6701,
+        "idx_end": 7100
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary Highlights\n- **Global Leaders:** Harvard, Imperial College London, Peking University, and University of Sydney feature in multiple top global rankings.\n- **Regional Powerhouses:** UNICAMP (Latin America), University of Auckland (Oceania), and RMIT (Australia) demonstrate strong regional influence.\n- **Innovation & Focus:** Lund University is highlighted for its pioneering innovations (e.g., ultrasound, Bluetooth), while Imperial focuses heavily on applied science and industry partnership.\n- **Cultural/Religious Influence:** Harvard and Boston College maintain deep roots in their respective religious/historical traditions.\n- **Structure:** Universities vary widely, from the highly decentralized model of UNICAMP to the centralized, high-prestige model of Harvard.",
+        "text_original": "Global Leaders:** Harvard, Imperial College London, Peking University, and University of Sydney feature in multiple top global rankings.\n*   **Regional Powerhouses:** UNICAMP (Latin America), University of Auckland (Oceania), and RMIT (Australia) demonstrate strong regional influence.\n*   **Innovation & Focus:** Lund University is highlighted for its pioneering innovations (e.g., ultrasound, Bluetooth), while Imperial focuses heavily on applied science and industry partnership.\n*   **Cultural/Religious Influence:** Harvard and Boston College maintain deep roots in their respective religious/historical traditions.\n*   **Structure:** Universities vary widely, from the highly decentralized model of UNICAMP to the centralized, high-prestige model of Harvard",
+        "idx_start": 7143,
+        "idx_end": 7906
+    }
+]

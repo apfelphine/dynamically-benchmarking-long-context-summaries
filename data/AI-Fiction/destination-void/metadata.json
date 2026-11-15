@@ -1,0 +1,30 @@
+{
+  "id": 158313,
+  "title": "Destination: Void",
+  "url": "https://en.wikipedia.org/wiki/Destination:_Void",
+  "path": "AI-Fiction\\destination-void",
+  "summary": {
+    "chars": 660,
+    "tokens": 140
+  },
+  "document": {
+    "chars": 2511,
+    "tokens": 517
+  },
+  "infobox": {
+    "title": "Destination: Void",
+    "data": {
+      "Author": "Frank Herbert",
+      "Original title": "Do I Wake or Dream?",
+      "Cover artist": "Richard M. Powers",
+      "Language": "English",
+      "Series": "The Pandora Sequence",
+      "Genre": "Science fiction",
+      "Published": "August 1965 (magazine) \u00b7 June 1966 Berkley (book)",
+      "Publication place": "United States",
+      "Media type": "Print (hardback & paperback)",
+      "ISBN": "0839825501 \u00b7 978-0839825500",
+      "Followed by": "The Jesus Incident"
+    }
+  }
+}

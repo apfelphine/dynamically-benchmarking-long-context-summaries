@@ -1,0 +1,10 @@
+# Global Higher Education Institutions
+
+**North America and the UK**
+Harvard University leads globally with a $50.7 billion endowment and 162 Nobel laureates, though it faces challenges regarding antisemitism and federal funding. In the UK, Imperial College London operates as a research powerhouse in engineering, medicine, and business, supported by a substantial endowment and prestigious industry partnerships. Boston College maintains a top 60 national ranking, distinguished by a vibrant culture of diversity, arts, and athletics, while actively navigating historical challenges to foster social justice.
+
+**Asia, Oceania, and Latin America**
+Peking University solidifies its status as the leading Asian institution through extensive international collaborations and a diverse portfolio of 55 schools. In Australia, the University of Sydney combines historic architecture with modern research despite internal controversies, while the University of Auckland has emerged as a top hub for startup spinouts. In Latin America, Brazil's public institutions represent a spectrum of higher education; São Paulo State University ranks second in scientific output, whereas the State University of Campinas operates under a unique semi-autonomous model but faces a severe budget crisis driven by inflation and declining real-term budgets.
+
+**Middle East and Scandinavia**
+The University of Jordan has evolved into a leading research-focused institution in the Arab world, offering over 250 programs across scientific, humanitarian, and medical streams. Operational from campuses in Amman and Aqaba, the university leverages extensive regional resources and is recognized for shaping legal, medical, and humanities fields while producing prominent government leaders. Meanwhile, Lund University stands as Sweden's premier research institution, consistently ranking among the world's top universities and holding the #1 global position in sustainability.

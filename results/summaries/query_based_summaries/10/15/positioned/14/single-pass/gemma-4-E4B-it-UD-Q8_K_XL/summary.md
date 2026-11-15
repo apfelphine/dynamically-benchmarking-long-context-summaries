@@ -1,0 +1,11 @@
+**Education in Norway**
+
+The Norwegian school system is divided into three parts: elementary school ($\text{barneskole}$, ages 6–12), lower secondary school ($\text{ungdomsskole}$, ages 13–16), and upper secondary school ($\text{videregående skole}$, ages 16–19). The elementary and lower secondary school levels, known collectively as the $\text{grunnskole}$ ('foundation school'), are compulsory for all children aged 6–16. At the primary level, students are introduced to basic skills like reading, writing, and math, with no official grades given. Lower secondary school introduces grading, and students can select one elective ($\text{valgfag}$) and one language.
+
+Upper secondary education is primarily public, with 93% of students attending public schools in 2007. The 1994 high school reform merged previous branches into a single system, allowing students to follow either a general studies ($\text{studieforberedelse}$) or vocational studies ($\text{yrkesfag}$) path. Vocational studies often follow a "2+2 model," combining school training with an industry apprenticeship. While private schooling is available, it must be government-approved and heavily grant-aided, and it cannot select students based on subjective criteria like skill or intelligence.
+
+**Education in Iran**
+
+Education in Iran is highly centralized, with the Ministry of Education overseeing planning, financing, curriculum, and textbook development. The system includes free public and private schools at all levels. Compulsory education spans elementary (6 years) and lower-secondary (3 years), culminating in the high school diploma. Post-Islamic Revolution changes included the Islamization of textbooks and the segregation of students by sex. More recently, the system has seen a switch to a credit-based academic system.
+
+At the university level, public universities are generally tuition-free for students who commit to a period of government service afterward. While the system emphasizes national identity, there are noted issues such as a high rate of dropouts among eligible children and increasing privatization.

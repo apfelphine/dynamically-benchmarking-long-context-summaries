@@ -1,0 +1,27 @@
+{
+  "id": 55216,
+  "title": "Anders Hejlsberg",
+  "url": "https://en.wikipedia.org/wiki/Anders_Hejlsberg",
+  "path": "Comp-Sci-Pioneers\\anders-hejlsberg",
+  "summary": {
+    "chars": 350,
+    "tokens": 102
+  },
+  "document": {
+    "chars": 2034,
+    "tokens": 441
+  },
+  "infobox": {
+    "title": "Anders Hejlsberg",
+    "data": {
+      "Born": "2 December 1960 \u00b7 Copenhagen, Denmark",
+      "Education": "Technical University of Denmark",
+      "Occupation(s)": "Programmer \u00b7 Systems architect",
+      "Employer": "Microsoft",
+      "Known for": "Turbo Pascal \u00b7 Delphi \u00b7 C# \u00b7 TypeScript",
+      "Title": "Technical Fellow",
+      "Spouse": "Liz Hejlsberg (m. 1994)",
+      "Awards": "2001 Dr. Dobb's Excellence in Programming Award"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Richard Ernest Bellman (August 26, 1920 – March 19, 1984) was an American applied mathematician, who introduced dynamic programming in 1953, and made important contributions in other fields of mathematics, such as biomathematics. He founded the leading biomathematical journal Mathematical Biosciences, as well as the Journal of Mathematical Analysis and Applications.

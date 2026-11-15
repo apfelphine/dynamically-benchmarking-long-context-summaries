@@ -1,0 +1,3 @@
+Monterrey Institute of Technology and Higher Education (ITESM; Spanish: Instituto Tecnológico y de Estudios Superiores de Monterrey), also known as the Technological Institute of Monterrey (Spanish: Tecnológico de Monterrey) or simply Tec, is a private research university based in Monterrey, Mexico. It has expanded to include 35 campuses across 25 cities in the country and 22 liaison offices in 15 other countries.
+The university was founded in 1943 by Eugenio Garza Sada, who was educated at MIT in the United States. Eugenio Garza Sada was an industrialist and philanthropist from Monterrey.
+ITESM was the first university outside the U.S. to establish an internet connection in the Western Hemisphere, linking the University of Texas at San Antonio directly.

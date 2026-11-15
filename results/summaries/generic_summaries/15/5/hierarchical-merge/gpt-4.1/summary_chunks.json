@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Cornell University\nFounded in 1865 in Ithaca, New York, Cornell University is a prestigious land-grant and private research institution, known for academic excellence and innovation across 16 colleges and international campuses. The university fosters diversity, sustainability, and offers significant student support and inclusive housing, with need-blind admissions and comprehensive financial aid. Under President Michael Kotlikoff, Cornell maintains a global reputation, recognized for research, distinguished alumni, and resources such as the arXiv library system.",
+        "text_original": "Founded in 1865 in Ithaca, New York, Cornell University is a prestigious land-grant and private research institution, known for academic excellence and innovation across 16 colleges and international campuses. The university fosters diversity, sustainability, and offers significant student support and inclusive housing, with need-blind admissions and comprehensive financial aid. Under President Michael Kotlikoff, Cornell maintains a global reputation, recognized for research, distinguished alumni, and resources such as the arXiv library system",
+        "idx_start": 24,
+        "idx_end": 573
+    },
+    {
+        "document_idx": null,
+        "text": "# National University of Singapore (NUS)\nEstablished in 1905, NUS is Singapore\u2019s flagship university, preparing to mark its 120th anniversary in 2025. With three campuses, 17 schools, and 21 research institutes, NUS is highly regarded for strength in sciences, engineering, law, and medicine. Under President Tan Eng Chye, the university nurtures entrepreneurship, leadership, and maintains a worldwide reputation for academic and research excellence, contributing to Singapore\u2019s development.",
+        "text_original": "Established in 1905, NUS is Singapore\u2019s flagship university, preparing to mark its 120th anniversary in 2025. With three campuses, 17 schools, and 21 research institutes, NUS is highly regarded for strength in sciences, engineering, law, and medicine. Under President Tan Eng Chye, the university nurtures entrepreneurship, leadership, and maintains a worldwide reputation for academic and research excellence, contributing to Singapore\u2019s development",
+        "idx_start": 620,
+        "idx_end": 1070
+    },
+    {
+        "document_idx": null,
+        "text": "# Federal University of Rio de Janeiro (UFRJ)\nFounded in 1920, UFRJ is recognized as one of Brazil\u2019s top research universities, excelling in energy, oil, and maritime studies through industry partnerships and advanced laboratories. Historic institutions like the National Museum and Law School, active student engagement, and a culture of accessibility and outreach highlight its contributions, alongside notable traditions exemplified by its mascot, Minerva.",
+        "text_original": "Founded in 1920, UFRJ is recognized as one of Brazil\u2019s top research universities, excelling in energy, oil, and maritime studies through industry partnerships and advanced laboratories. Historic institutions like the National Museum and Law School, active student engagement, and a culture of accessibility and outreach highlight its contributions, alongside notable traditions exemplified by its mascot, Minerva",
+        "idx_start": 1122,
+        "idx_end": 1534
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Hong Kong (HKU)\nOriginating in 1887, HKU is Hong Kong\u2019s oldest and most esteemed university, celebrated for globally competitive English-taught programs and pioneering research, including breakthroughs on SARS. The institution\u2019s governance blends Western and Chinese traditions, supporting ten faculties and vibrant campus life. HKU continues to attract international students, ranked highly, with alumni such as Sun Yat-sen, though recent developments include the dissolution of its undergraduate student union in 2021.",
+        "text_original": "Originating in 1887, HKU is Hong Kong\u2019s oldest and most esteemed university, celebrated for globally competitive English-taught programs and pioneering research, including breakthroughs on SARS. The institution\u2019s governance blends Western and Chinese traditions, supporting ten faculties and vibrant campus life. HKU continues to attract international students, ranked highly, with alumni such as Sun Yat-sen, though recent developments include the dissolution of its undergraduate student union in",
+        "idx_start": 1572,
+        "idx_end": 2070
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Toronto\nFounded in 1827, the University of Toronto is a top global research university, renowned for academic excellence, innovation, and sustainability across three campuses. With a diverse student body, extensive alumni network\u2014including Canadian prime ministers and Nobel laureates\u2014comprehensive facilities, and collegiate system, U of T substantially contributes to national and global advancement.",
+        "text_original": "Founded in 1827, the University of Toronto is a top global research university, renowned for academic excellence, innovation, and sustainability across three campuses. With a diverse student body, extensive alumni network\u2014including Canadian prime ministers and Nobel laureates\u2014comprehensive facilities, and collegiate system, U of T substantially contributes to national and global advancement",
+        "idx_start": 2105,
+        "idx_end": 2498
+    },
+    {
+        "document_idx": null,
+        "text": "# University of New South Wales (UNSW)\nEstablished in 1949, UNSW is internationally recognized for excellence in teaching and research, industry partnerships, six faculties, and major achievements in research and competitions. It offers alternative entry schemes, robust scholarships, and dynamic student engagement through Arc @ UNSW. Notable alumni and issues involving student safety, copyright, and staff welfare have shaped its reputation for leadership and employability.",
+        "text_original": "Established in 1949, UNSW is internationally recognized for excellence in teaching and research, industry partnerships, six faculties, and major achievements in research and competitions. It offers alternative entry schemes, robust scholarships, and dynamic student engagement through Arc @ UNSW. Notable alumni and issues involving student safety, copyright, and staff welfare have shaped its reputation for leadership and employability",
+        "idx_start": 2543,
+        "idx_end": 2980
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Oxford\nDating to the 13th century, Oxford pioneered the collegiate system and stands out for selectivity, historic reforms, significant endowment, and emphasis on ethical investment. Its traditions, tutorial-based education, numerous student groups, and vibrant cultural scene are complemented by world-renowned scholarships. Oxford\u2019s alumni include global leaders, Nobel laureates, and influential cultural figures.",
+        "text_original": "Dating to the 13th century, Oxford pioneered the collegiate system and stands out for selectivity, historic reforms, significant endowment, and emphasis on ethical investment. Its traditions, tutorial-based education, numerous student groups, and vibrant cultural scene are complemented by world-renowned scholarships. Oxford\u2019s alumni include global leaders, Nobel laureates, and influential cultural figures",
+        "idx_start": 3009,
+        "idx_end": 3417
+    },
+    {
+        "document_idx": null,
+        "text": "# National Autonomous University of Mexico (UNAM)\nEstablished in 1910, UNAM is Latin America\u2019s largest and most prestigious university, enrolling over 324,000 students and recognized for autonomy and broad social, scientific, and cultural impact. It leads in research fields like astronomy, biotechnology, and renewable energy with infrastructure such as the Miztli supercomputer. Its campus is a UNESCO World Heritage Site, known for cultural life, activism, inclusivity for minorities and women in technology, and alumni who include Nobel laureate Mario Molina and entrepreneur Carlos Slim.",
+        "text_original": "Established in 1910, UNAM is Latin America\u2019s largest and most prestigious university, enrolling over 324,000 students and recognized for autonomy and broad social, scientific, and cultural impact. It leads in research fields like astronomy, biotechnology, and renewable energy with infrastructure such as the Miztli supercomputer. Its campus is a UNESCO World Heritage Site, known for cultural life, activism, inclusivity for minorities and women in technology, and alumni who include Nobel laureate Mario Molina and entrepreneur Carlos Slim",
+        "idx_start": 3473,
+        "idx_end": 4014
+    },
+    {
+        "document_idx": null,
+        "text": "# University of British Columbia (UBC)\nFounded in 1908, UBC is among the world\u2019s top 50 universities, with campuses in Vancouver and Okanagan on Indigenous lands, serving over 72,000 students. The university excels in research, sustainability, and global partnerships, and is committed to reconciliation and community engagement. UBC boasts Canada\u2019s second-largest academic library, vibrant student life, diverse housing, and prominent alumni including prime ministers and Nobel laureates.",
+        "text_original": "Founded in 1908, UBC is among the world\u2019s top 50 universities, with campuses in Vancouver and Okanagan on Indigenous lands, serving over 72,000 students. The university excels in research, sustainability, and global partnerships, and is committed to reconciliation and community engagement. UBC boasts Canada\u2019s second-largest academic library, vibrant student life, diverse housing, and prominent alumni including prime ministers and Nobel laureates",
+        "idx_start": 4059,
+        "idx_end": 4508
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Melbourne\nFounded in the mid-19th century, the University of Melbourne is a leading Australian institution, lauded for academic strength, progressive admissions, substantial endowment, and global reputation. Landmark achievements include early admission of women and curriculum innovation via the Melbourne Model. Recent developments include workforce reforms, staff activism, online learning transitions, new campus expansion, and historic governance led by its first female Vice-Chancellor in 2024. Melbourne\u2019s campus features celebrated landmarks and a diverse student community, with notable alumni such as Nobel laureates and national leaders.",
+        "text_original": "Founded in the mid-19th century, the University of Melbourne is a leading Australian institution, lauded for academic strength, progressive admissions, substantial endowment, and global reputation. Landmark achievements include early admission of women and curriculum innovation via the Melbourne Model. Recent developments include workforce reforms, staff activism, online learning transitions, new campus expansion, and historic governance led by its first female Vice-Chancellor in 2024. Melbourne\u2019s campus features celebrated landmarks and a diverse student community, with notable alumni such as Nobel laureates and national leaders",
+        "idx_start": 4540,
+        "idx_end": 5177
+    }
+]

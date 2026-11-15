@@ -1,0 +1,5 @@
+The **King's Scholar** program is a prestigious tradition at Eton College, established in 1317 by King Edward II. It selects exceptional students through competitive examinations, admitting them to the oldest house, **College**, where they live and study alongside other King’s Scholars. The scholarship is historically tied to financial support, though modern scholarships may be means-tested. Notable alumni include figures like Boris Johnson, Kwasi Kwarteng, and Harold Macmillan.
+
+At **King’s College Cambridge**, the term refers to undergraduates achieving first-class degrees, receiving a £350 prize and the right to attend a formal dinner and ceremony. At the **King’s Schools** (Canterbury, Chester, Ely, Gloucester, Peterborough, Rochester, and Worcester), King’s Scholarships are awarded based on academic or musical excellence, often accompanied by fee reductions. These schools also grant Queen’s Scholarships when a reigning Queen is present.
+
+The program reflects a long-standing tradition of academic excellence and elite education, deeply rooted in British history and institutional heritage.

@@ -1,0 +1,32 @@
+{
+  "id": 472463,
+  "title": "Maurice Wilkes",
+  "url": "https://en.wikipedia.org/wiki/Maurice_Wilkes",
+  "path": "Comp-Sci-Pioneers\\maurice-wilkes",
+  "summary": {
+    "chars": 464,
+    "tokens": 94
+  },
+  "document": {
+    "chars": 8954,
+    "tokens": 1869
+  },
+  "infobox": {
+    "title": "ProfessorSir Maurice WilkesFRS FREng",
+    "data": {
+      "Born": "John Maurice Vincent Wilkes \u00b7 26 June 1913 \u00b7 Dudley, Worcestershire, England",
+      "Died": "29 November 2010 (aged 97) \u00b7 Cambridge, Cambridgeshire, England",
+      "Education": "St John's College, Cambridge (BA, MA, PhD)",
+      "Known for": "- EDSAC - Microprogramming Cache memory",
+      "Spouse": "Nina Twyman \u200b (m. 1947; died 2008)\u200b",
+      "Children": "one son, two daughters",
+      "Awards": "- Turing Award (1967) - Distinguished Fellow of the British Computer Society (1973) - Faraday Medal (1981) - Harold Pender Award (1982) - Mountbatten Medal (1997)",
+      "Fields": "Computer science",
+      "Institutions": "- University of Cambridge - Cavendish Laboratory - Telecommunications Research Establishment - Mathematical Laboratory - British Computer Society - Digital Equipment Corporation - Hewlett-Packard - AT & T - Olivetti",
+      "Thesis": "The reflexion of very long wireless waves from the ionosphere (1939)",
+      "Doctoral advisor": "John Ashworth Ratcliffe",
+      "Doctoral students": "- Michael Kay - Peter Wegner - David Wheeler",
+      "Website": "www.cl.cam.ac.uk/archive/mvw1"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+A Luce Scholar is a recipient of a cultural exchange and vocational fellowship sponsored by the Henry Luce Foundation, a private foundation established by Time, Inc. founder Henry R. Luce.

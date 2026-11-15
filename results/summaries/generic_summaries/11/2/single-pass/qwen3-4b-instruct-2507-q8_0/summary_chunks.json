@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Networks (CNNs)\n- **Architecture** : Composed of input, hidden (convolutional, pooling, normalization), and output layers. Convolutional layers apply filters to detect features via dot products, producing feature maps. Pooling reduces spatial dimensions, while fully connected layers classify images.\n- **Key Features** :\n    - **Local connectivity** and **shared weights** reduce parameters and enable translational invariance.\n    - **Receptive fields** define the region of input each neuron considers, expanding through layers.\n- **History** : Inspired by Hubel & Wiesel\u2019s visual cortex research. Fukushima\u2019s Neocognitron introduced shared weights and pooling. Modern CNNs use backpropagation for training.\n- **Applications** : Image recognition, object detection, video analysis, drug discovery, and game AI.\n- **Advantages** : Efficient for spatial data, reduces overfitting via parameter sharing, and achieves high accuracy in vision tasks.",
+        "text_original": "Architecture**: Composed of input, hidden (convolutional, pooling, normalization), and output layers. Convolutional layers apply filters to detect features via dot products, producing feature maps. Pooling reduces spatial dimensions, while fully connected layers classify images.\n- **Key Features**: \n  - **Local connectivity** and **shared weights** reduce parameters and enable translational invariance.\n  - **Receptive fields** define the region of input each neuron considers, expanding through layers.\n- **History**: Inspired by Hubel & Wiesel\u2019s visual cortex research. Fukushima\u2019s Neocognitron introduced shared weights and pooling. Modern CNNs use backpropagation for training.\n- **Applications**: Image recognition, object detection, video analysis, drug discovery, and game AI.\n- **Advantages**: Efficient for spatial data, reduces overfitting via parameter sharing, and achieves high accuracy in vision tasks",
+        "idx_start": 49,
+        "idx_end": 967
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Networks\n- **Structure** : Recurrent neural networks with binary neurons and symmetric weights. Stores memories via Hebbian learning.\n- **Function** : Acts as an associative memory, where partial inputs are used to retrieve stored patterns.\n- **Key Properties** :\n    - Converges to stable states (attractors) with energy minimization.\n    - Exhibits spurious patterns and limited capacity.\n- **Modern Variants** : Dense Associative Memories (Dense AMs) with higher capacity via nonlinear energy functions and improved dynamics.\n- **Applications** : Optimization problems, memory modeling, and pattern recognition.",
+        "text_original": "Structure**: Recurrent neural networks with binary neurons and symmetric weights. Stores memories via Hebbian learning.\n- **Function**: Acts as an associative memory, where partial inputs are used to retrieve stored patterns.\n- **Key Properties**: \n  - Converges to stable states (attractors) with energy minimization.\n  - Exhibits spurious patterns and limited capacity.\n- **Modern Variants**: Dense Associative Memories (Dense AMs) with higher capacity via nonlinear energy functions and improved dynamics.\n- **Applications**: Optimization problems, memory modeling, and pattern recognition",
+        "idx_start": 1000,
+        "idx_end": 1592
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformers\n- **Architecture** : Uses self-attention and feedforward layers. Processes sequences in parallel, enabling efficient long-range dependency modeling.\n- **Key Components** :\n    - **Positional encoding** provides sequence order information.\n    - **Multi-head attention** allows parallel processing of different feature relationships.\n- **Training** : Uses pretraining (e.g., masked language modeling) and fine-tuning on specific tasks.\n- **Applications** : Natural language processing (NLP), machine translation, speech recognition, and multimodal tasks (e.g., vision, audio).\n- **Efficiency** : Enables faster inference and better performance in long sequences compared to RNNs.",
+        "text_original": "Architecture**: Uses self-attention and feedforward layers. Processes sequences in parallel, enabling efficient long-range dependency modeling.\n- **Key Components**: \n  - **Positional encoding** provides sequence order information.\n  - **Multi-head attention** allows parallel processing of different feature relationships.\n- **Training**: Uses pretraining (e.g., masked language modeling) and fine-tuning on specific tasks.\n- **Applications**: Natural language processing (NLP), machine translation, speech recognition, and multimodal tasks (e.g., vision, audio).\n- **Efficiency**: Enables faster inference and better performance in long sequences compared to RNNs",
+        "idx_start": 1620,
+        "idx_end": 2285
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Networks (RNNs)\n- **Architecture** : Processes sequences step-by-step. Maintains hidden state to capture temporal dependencies.\n- **Types** :\n    - **LSTM** and **GRU** address vanishing gradients via gating mechanisms.\n    - **Bidirectional RNNs** process sequences in both directions.\n- **Applications** : Speech recognition, machine translation, time series prediction, and sequence generation.\n- **Limitations** : Sequential processing limits parallelization and efficiency.",
+        "text_original": "Architecture**: Processes sequences step-by-step. Maintains hidden state to capture temporal dependencies.\n- **Types**: \n  - **LSTM** and **GRU** address vanishing gradients via gating mechanisms.\n  - **Bidirectional RNNs** process sequences in both directions.\n- **Applications**: Speech recognition, machine translation, time series prediction, and sequence generation.\n- **Limitations**: Sequential processing limits parallelization and efficiency",
+        "idx_start": 2333,
+        "idx_end": 2783
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs)\n- **Mechanism** : Two networks (generator and discriminator) in a zero-sum game. Generator creates realistic data; discriminator evaluates it.\n- **Variants** :\n    - **Conditional GANs** generate data based on labels.\n    - **Wasserstein GAN (WGAN)** improves training stability via Wasserstein distance.\n- **Applications** : Image generation, style transfer, medical imaging, and synthetic data creation.\n- **Challenges** : Mode collapse and unstable convergence.",
+        "text_original": "Mechanism**: Two networks (generator and discriminator) in a zero-sum game. Generator creates realistic data; discriminator evaluates it.\n- **Variants**: \n  - **Conditional GANs** generate data based on labels.\n  - **Wasserstein GAN (WGAN)** improves training stability via Wasserstein distance.\n- **Applications**: Image generation, style transfer, medical imaging, and synthetic data creation.\n- **Challenges**: Mode collapse and unstable convergence",
+        "idx_start": 2837,
+        "idx_end": 3289
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoders\n- **Architecture** : Encodes input into a latent space and decodes it back. Includes sparse, denoising, and variational variants.\n- **Types** :\n    - **VAE** : Uses probabilistic latent space with KL divergence for disentangled representations.\n    - **Sparse Autoencoders** : Encourage sparse activations for better feature learning.\n    - **Denoising Autoencoders** : Improve robustness by reconstructing from corrupted inputs.\n- **Applications** : Dimensionality reduction, anomaly detection, image denoising, and feature learning.",
+        "text_original": "Architecture**: Encodes input into a latent space and decodes it back. Includes sparse, denoising, and variational variants.\n- **Types**:\n  - **VAE**: Uses probabilistic latent space with KL divergence for disentangled representations.\n  - **Sparse Autoencoders**: Encourage sparse activations for better feature learning.\n  - **Denoising Autoencoders**: Improve robustness by reconstructing from corrupted inputs.\n- **Applications**: Dimensionality reduction, anomaly detection, image denoising, and feature learning",
+        "idx_start": 3317,
+        "idx_end": 3834
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformers (ViTs)\n- **Architecture** : Replaces CNNs with self-attention on image patches. Uses patch embeddings and positional encoding.\n- **Variants** :\n    - **MAE (Masked Autoencoder)** : Self-supervised pretraining with masked patches.\n    - **DINO** : Self-distillation for robust feature learning.\n    - **Swin Transformer** : Uses shifted windows for efficient attention.\n- **Applications** : Image classification, object detection, video understanding, and image generation.",
+        "text_original": "Architecture**: Replaces CNNs with self-attention on image patches. Uses patch embeddings and positional encoding.\n- **Variants**: \n  - **MAE (Masked Autoencoder)**: Self-supervised pretraining with masked patches.\n  - **DINO**: Self-distillation for robust feature learning.\n  - **Swin Transformer**: Uses shifted windows for efficient attention.\n- **Applications**: Image classification, object detection, video understanding, and image generation",
+        "idx_start": 3876,
+        "idx_end": 4325
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Networks (GNNs)\n- **Architecture** : Processes graph-structured data via message passing between nodes.\n- **Layers** :\n    - **Message passing** aggregates information from neighbors.\n    - **Pooling** reduces graph size; **global pooling** provides fixed-size output.\n- **Applications** : Protein folding, social network analysis, cybersecurity, and recommendation systems.",
+        "text_original": "Architecture**: Processes graph-structured data via message passing between nodes.\n- **Layers**: \n  - **Message passing** aggregates information from neighbors.\n  - **Pooling** reduces graph size; **global pooling** provides fixed-size output.\n- **Applications**: Protein folding, social network analysis, cybersecurity, and recommendation systems",
+        "idx_start": 4369,
+        "idx_end": 4716
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM)\n- **Purpose** : Generates heatmaps to highlight discriminative regions in CNN predictions.\n- **Methods** :\n    - **CAM** : Uses global average pooling and class-specific weights.\n    - **Grad-CAM** : Computes gradients of class scores with respect to feature maps.\n- **Fine-tuned Versions** : Guided Grad-CAM, Grad-CAM++, Score-CAM, and Layer-CAM improve localization and resolution.",
+        "text_original": "Purpose**: Generates heatmaps to highlight discriminative regions in CNN predictions.\n- **Methods**:\n  - **CAM**: Uses global average pooling and class-specific weights.\n  - **Grad-CAM**: Computes gradients of class scores with respect to feature maps.\n- **Fine-tuned Versions**: Guided Grad-CAM, Grad-CAM++, Score-CAM, and Layer-CAM improve localization and resolution",
+        "idx_start": 4762,
+        "idx_end": 5131
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoders (VAEs)\n- **Architecture** : Models data as a mixture of Gaussians; learns latent variables via variational inference.\n- **Loss Function** : Evidence Lower Bound (ELBO) balances reconstruction and KL divergence.\n- **Applications** : Generative modeling, disentangled representations, and data synthesis.",
+        "text_original": "Architecture**: Models data as a mixture of Gaussians; learns latent variables via variational inference.\n- **Loss Function**: Evidence Lower Bound (ELBO) balances reconstruction and KL divergence.\n- **Applications**: Generative modeling, disentangled representations, and data synthesis",
+        "idx_start": 5178,
+        "idx_end": 5465
+    }
+]

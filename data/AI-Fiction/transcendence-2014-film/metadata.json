@@ -1,0 +1,34 @@
+{
+  "id": 39306741,
+  "title": "Transcendence (2014 film)",
+  "url": "https://en.wikipedia.org/wiki/Transcendence_(2014_film)",
+  "path": "AI-Fiction\\transcendence-2014-film",
+  "summary": {
+    "chars": 805,
+    "tokens": 173
+  },
+  "document": {
+    "chars": 14765,
+    "tokens": 3119
+  },
+  "infobox": {
+    "title": "Transcendence",
+    "data": {
+      "Directed by": "Wally Pfister",
+      "Written by": "Jack Paglen",
+      "Produced by": "- Andrew A. Kosove - Broderick Johnson - Kate Cohen - Marisa Polvino - Annie Marter - David Valdes - Aaron Ryder",
+      "Starring": "- Johnny Depp - Morgan Freeman - Rebecca Hall - Kate Mara - Cillian Murphy - Cole Hauser - Paul Bettany",
+      "Cinematography": "Jess Hall",
+      "Edited by": "David Rosenbloom",
+      "Music by": "Mychael Danna",
+      "Production \u00b7 companies": "- Alcon Entertainment - DMG Entertainment - Straight Up Films",
+      "Distributed by": "Warner Bros. Pictures",
+      "Release dates": "- April 10, 2014 (New York City) - April 18, 2014 (United States)",
+      "Running time": "119 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$100\u2013150 million",
+      "Box office": "$103 million"
+    }
+  }
+}

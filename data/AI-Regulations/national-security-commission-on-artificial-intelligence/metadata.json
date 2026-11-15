@@ -1,0 +1,25 @@
+{
+  "id": 66980580,
+  "title": "National Security Commission on Artificial Intelligence",
+  "url": "https://en.wikipedia.org/wiki/National_Security_Commission_on_Artificial_Intelligence",
+  "path": "AI-Regulations\\national-security-commission-on-artificial-intelligence",
+  "summary": {
+    "chars": 528,
+    "tokens": 101
+  },
+  "document": {
+    "chars": 6205,
+    "tokens": 1262
+  },
+  "infobox": {
+    "title": "National Security Commission on Artificial Intelligence",
+    "data": {
+      "Formation": "2018",
+      "Dissolved": "October 1, 2021",
+      "Purpose": "Reporting relationship between AI and US national security",
+      "Headquarters": "Washington, DC., United States of America",
+      "Chairman": "Dr. Eric Schmidt",
+      "Website": "cybercemetery.unt.edu/nscai/20211005220330/http://nscai.gov"
+    }
+  }
+}

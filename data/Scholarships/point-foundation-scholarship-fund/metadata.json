@@ -1,0 +1,25 @@
+{
+  "id": 23732308,
+  "title": "Point Foundation (scholarship fund)",
+  "url": "https://en.wikipedia.org/wiki/Point_Foundation_(scholarship_fund)",
+  "path": "Scholarships\\point-foundation-scholarship-fund",
+  "summary": {
+    "chars": 338,
+    "tokens": 62
+  },
+  "document": {
+    "chars": 1324,
+    "tokens": 230
+  },
+  "infobox": {
+    "title": "Point Foundation",
+    "data": {
+      "Formation": "2001",
+      "Legal status": "501(c)(3) nonprofit organization",
+      "Purpose": "Scholarship funding for lesbian, gay, bisexual, transgender, queer, and ally students in higher education",
+      "Headquarters": "Los Angeles, California",
+      "Executive Director": "Jorge Valencia",
+      "Website": "https://www.pointfoundation.org"
+    }
+  }
+}

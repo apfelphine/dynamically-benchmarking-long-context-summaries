@@ -1,0 +1,1 @@
+Point Foundation is a scholarship fund that provides financial aid for lesbian, gay, bisexual, transgender, queer, and ally college bound students in the United States. Founded in 2001, the overall mission of this organization to give these individuals the opportunity to receive the resources that they need to become pillars in society.

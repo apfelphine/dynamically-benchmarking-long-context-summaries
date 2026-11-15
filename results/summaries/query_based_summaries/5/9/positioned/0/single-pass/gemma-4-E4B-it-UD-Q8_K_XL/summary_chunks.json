@@ -1,0 +1,9 @@
+[
+    {
+        "document_idx": null,
+        "text": "Richard Stallman is known for being an outspoken political campaigner for the free software movement since the early 1990s. He advocates that software users must have the freedom to share and modify the software they use, viewing proprietary software restrictions as unethical and antisocial. He has been a strong proponent of the GNU project and popularized the concept of copyleft, which was first implemented in the GNU Emacs General Public License and later in the GNU General Public License (GPL).\nStallman quit his job at MIT in February 1984 to work full-time on the GNU project, which was announced in September 1983. He maintains that \"software wants to be free,\" though he clarifies this is a misstatement of his philosophy. He has written extensively on software freedom and has participated in protests against software patents and digital rights management.",
+        "text_original": "Richard Stallman is known for being an outspoken political campaigner for the free software movement since the early 1990s. He advocates that software users must have the freedom to share and modify the software they use, viewing proprietary software restrictions as unethical and antisocial. He has been a strong proponent of the GNU project and popularized the concept of copyleft, which was first implemented in the GNU Emacs General Public License and later in the GNU General Public License (GPL).\n\nStallman quit his job at MIT in February 1984 to work full-time on the GNU project, which was announced in September 1983. He maintains that \"software wants to be free,\" though he clarifies this is a misstatement of his philosophy. He has written extensively on software freedom and has participated in protests against software patents and digital rights management",
+        "idx_start": 0,
+        "idx_end": 870
+    }
+]

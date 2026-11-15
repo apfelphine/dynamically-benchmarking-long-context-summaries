@@ -1,0 +1,12 @@
+**Education in South Korea**  
+South Korea’s education system is deeply rooted in Confucian values, emphasizing meritocracy, social mobility, and rigorous academic achievement. Historically, education was dominated by village schools (seodang) and private academies (seowon), with the Joseon dynasty institutionalizing merit-based civil service exams. During Japanese occupation (1905–1945), education was centralized and used to promote Japanese values, limiting access and content. Post-liberation, the U.S. Military Government introduced democratic, decentralized education, leading to universal basic education and a strong emphasis on literacy.  
+
+The system evolved into a highly competitive, centralized model with a 6-4-3-4 academic schedule. A strong focus on academic excellence led to intense "education fever," resulting in high student stress, suicide rates, and family financial strain. Despite criticism, the system achieved remarkable success: adult literacy rose from 22% (1945) to over 93% (late 1980s), and students consistently outperformed peers in international assessments.  
+
+**Reforms and modernization** include the 1980s expansion of higher education access and a shift toward competency-based education. Vocational education, once devalued, has been revitalized through the "Meister Schools" initiative—German-style vocational training programs—aimed at addressing labor shortages and changing societal perceptions of technical careers. These schools offer apprenticeships and high employment rates, with graduates often earning more than university peers.  
+
+**Controversies** include severe academic pressure, with students spending long hours studying, often in private "hagwons" (cram schools), leading to health issues, bullying, and mental distress. The system has faced criticism for gender and class disparities, with a strong emphasis on university degrees, leading to a mismatch between majors and jobs (only 36.8% of graduates match their field).  
+
+**School structure** includes a rigorous curriculum with a strong focus on language (especially English), science, and mathematics. English education has evolved from early exposure to a focus on oral proficiency, driven by exam demands. Students are prohibited from using mobile phones in class, and corporal punishment is banned.  
+
+Overall, South Korea’s education system is a model of high achievement but at a significant social cost, with ongoing efforts to balance academic excellence with student well-being and equity.

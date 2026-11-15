@@ -1,0 +1,37 @@
+{
+  "id": 322850,
+  "title": "Monterrey Institute of Technology and Higher Education",
+  "url": "https://en.wikipedia.org/wiki/Monterrey_Institute_of_Technology_and_Higher_Education",
+  "path": "Universities\\monterrey-institute-of-technology-and-higher-education",
+  "summary": {
+    "chars": 764,
+    "tokens": 168
+  },
+  "document": {
+    "chars": 27920,
+    "tokens": 5805
+  },
+  "infobox": {
+    "title": "Monterrey Institute of Technology and Higher Education",
+    "data": {
+      "Motto": "Esp\u00edritu emprendedor con sentido humano.",
+      "Type": "Non-profit Private Organization Research University",
+      "Established": "September 6, 1943",
+      "Founder": "Eugenio Garza Sada",
+      "Academic affiliations": "SACS, APRU, Universitas 21, ECIU, ANUIES, CUDI, FIMPES, CGU, WUN, Washington University in St. Louis McDonnell International Scholars Academy",
+      "Chairman": "Ricardo Sald\u00edvar Escajadillo",
+      "Rector": "David Garza Salazar",
+      "Academic staff": "9,916 (2019)",
+      "Students": "91,200 (2019)",
+      "Undergraduates": "57,066 (2019)",
+      "Postgraduates": "6,984 (2019)",
+      "Other students": "27,150 (2019)",
+      "Location": "Monterrey, Nuevo Le\u00f3n, Mexico",
+      "Campus": "26 across Mexico",
+      "Colors": "Blue",
+      "Nickname": "Borregos Salvajes",
+      "Mascot": "Teus",
+      "Website": "tec.mx"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal: Life, Achievements, and Enduring Influence\n**Blaise Pascal** (1623\u20131662) was a French polymath whose contributions to mathematics, physics, probability theory, calculator technology, and religious thought remain foundational. His *Provincial Letters* and *Pens\u00e9es* blend faith and reason, inspiring philosophy and literature.",
+        "text_original": "Blaise Pascal** (1623\u20131662) was a French polymath whose contributions to mathematics, physics, probability theory, calculator technology, and religious thought remain foundational. His *Provincial Letters* and *Pens\u00e9es* blend faith and reason, inspiring philosophy and literature",
+        "idx_start": 64,
+        "idx_end": 343
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman: Free Software Advocacy and Life\n**Richard Stallman** (b. 1953), founder of the GNU Project and Free Software Foundation, created copyleft and the GNU GPL, and is a leading voice for user privacy, open-source software, and digital ethics, profoundly shaping the global open-source movement.",
+        "text_original": "Richard Stallman** (b. 1953), founder of the GNU Project and Free Software Foundation, created copyleft and the GNU GPL, and is a leading voice for user privacy, open-source software, and digital ethics, profoundly shaping the global open-source movement",
+        "idx_start": 402,
+        "idx_end": 656
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr: Film Stardom, Scientific Innovation, and Cultural Legacy\n**Hedy Lamarr** (1914\u20132000), acclaimed actress and inventor, co-developed frequency-hopping technology foundational for modern wireless communications, leaving a lasting scientific and cultural legacy.",
+        "text_original": "Hedy Lamarr** (1914\u20132000), acclaimed actress and inventor, co-developed frequency-hopping technology foundational for modern wireless communications, leaving a lasting scientific and cultural legacy",
+        "idx_start": 735,
+        "idx_end": 933
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead: Mathematical Foundations, Philosophy, and Enduring Impact\n**Alfred North Whitehead** (1861\u20131947), co-author of *Principia Mathematica* and founder of process philosophy, advanced logic and mereotopology, influencing philosophy, science, education, and ecological thought.",
+        "text_original": "Alfred North Whitehead** (1861\u20131947), co-author of *Principia Mathematica* and founder of process philosophy, advanced logic and mereotopology, influencing philosophy, science, education, and ecological thought",
+        "idx_start": 1024,
+        "idx_end": 1234
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace: Scientific Vision, Analysis, and Popular Legacy\n**Ada Lovelace** (1815\u20131852), considered the first computer programmer, worked with Babbage on algorithms for his Analytical Engine and anticipated broad uses for computation. Her work shaped AI and cultural views on technology.",
+        "text_original": "Ada Lovelace** (1815\u20131852), considered the first computer programmer, worked with Babbage on algorithms for his Analytical Engine and anticipated broad uses for computation. Her work shaped AI and cultural views on technology",
+        "idx_start": 1305,
+        "idx_end": 1530
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo: Engineering Pioneer, Technological Innovation, and Enduring Recognition\n**Leonardo Torres Quevedo** (1852\u20131936) revolutionized transportation, aeronautics, computation, and automation by inventing cable cars, calculators, and remote control devices, and his legacy endures in museums and literature.",
+        "text_original": "Leonardo Torres Quevedo** (1852\u20131936) revolutionized transportation, aeronautics, computation, and automation by inventing cable cars, calculators, and remote control devices, and his legacy endures in museums and literature",
+        "idx_start": 1636,
+        "idx_end": 1860
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin: Scientific Contributions, Leadership, Cultural Impact, and Legacy\n**Philip Rubin** (b. 1949) advanced speech science, AI, biomechanics, and cognitive science through research, leadership, and advocacy, earning significant honors.",
+        "text_original": "Philip Rubin** (b. 1949) advanced speech science, AI, biomechanics, and cognitive science through research, leadership, and advocacy, earning significant honors",
+        "idx_start": 1949,
+        "idx_end": 2109
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing: Foundations in Computer Science, Cryptanalysis, Artificial Intelligence, and Mathematical Biology\n**Alan Turing** (1912\u20131954) laid the foundations of modern computation with the Turing machine, made key advances in cryptanalysis during WWII, developed early computers, contributed to AI and mathematical biology, and is widely commemorated.",
+        "text_original": "Alan Turing** (1912\u20131954) laid the foundations of modern computation with the Turing machine, made key advances in cryptanalysis during WWII, developed early computers, contributed to AI and mathematical biology, and is widely commemorated",
+        "idx_start": 2229,
+        "idx_end": 2468
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush: Scientific Leadership, Technological Vision, Honors, and Legacy\n**Vannevar Bush** (1890\u20131974), inventor of the analog differential analyzer and prominent science policy leader in WWII, wrote *As We May Think* , inspired technological advances, advocated for the National Science Foundation, and received many honors.",
+        "text_original": "Vannevar Bush** (1890\u20131974), inventor of the analog differential analyzer and prominent science policy leader in WWII, wrote *As We May Think*, inspired technological advances, advocated for the National Science Foundation, and received many honors",
+        "idx_start": 2556,
+        "idx_end": 2804
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage: Father of Computing, Contributions, Influence, and Enduring Recognition\n**Charles Babbage** (1791\u20131871) is esteemed as the father of computing, designing the Difference Engine and Analytical Engine, which pioneered concepts core to modern computers such as memory and instruction-based processing. Although incomplete in his lifetime, Babbage\u2019s ideas inspired subsequent computation pioneers including Per Georg Scheutz and Martin Wiberg. His contributions extended to mathematics, operator methods, economic theory ( *On the Economy of Machinery and Manufactures* ), metrology, cryptography (deciphering the Vigen\u00e8re cipher), scientific reform, education, and management theory. Babbage also explored science-religion synthesis and philosophical questions, with broad scientific networks and cultural influence. His son Henry prevost Babbage continued his work. Babbage's legacy includes present-day reconstructions of his machines, ongoing advances in mechanical computation, memorials, institutions, and appearances in British culture and steampunk fiction. He authored influential scientific works, and his life and contributions are commemorated in museums and literature. Babbage died in 1871, leaving a lasting impact on computation, economics, and philosophy.",
+        "text_original": "Charles Babbage** (1791\u20131871) is esteemed as the father of computing, designing the Difference Engine and Analytical Engine, which pioneered concepts core to modern computers such as memory and instruction-based processing. Although incomplete in his lifetime, Babbage\u2019s ideas inspired subsequent computation pioneers including Per Georg Scheutz and Martin Wiberg. His contributions extended to mathematics, operator methods, economic theory (*On the Economy of Machinery and Manufactures*), metrology, cryptography (deciphering the Vigen\u00e8re cipher), scientific reform, education, and management theory. Babbage also explored science-religion synthesis and philosophical questions, with broad scientific networks and cultural influence. His son Henry prevost Babbage continued his work. Babbage's legacy includes present-day reconstructions of his machines, ongoing advances in mechanical computation, memorials, institutions, and appearances in British culture and steampunk fiction. He authored influential scientific works, and his life and contributions are commemorated in museums and literature. Babbage died in 1871, leaving a lasting impact on computation, economics, and philosophy",
+        "idx_start": 2902,
+        "idx_end": 4092
+    }
+]

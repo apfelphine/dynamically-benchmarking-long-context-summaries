@@ -1,0 +1,3 @@
+The École Polytechnique Fédérale de Lausanne (French: [ekɔl pɔlitɛknik fedeʁal də lɔzan]; abbreviated EPFL; English: Federal Polytechnic School of Lausanne) is a public research university in Lausanne, Switzerland, founded in 1969 with the mission to "train talented engineers in Switzerland".
+Like its sister institution ETH Zurich, EPFL is part of the Swiss Federal Institutes of Technology Domain which groups several universities and research institutes under the Federal Department of Economic Affairs, Education and Research. As of 2024, EPFL enrolled 14,012 students from over 130 countries.
+EPFL has an urban campus that extends alongside Lake Geneva, and includes the EPFL Innovation Park as well as university research centers and affiliated laboratories.

@@ -1,0 +1,9 @@
+# **Working Summary of {%if chunk_number > 1 %} chunks 1 to {{chunk_number}}{%else %} the first chunk {%endif %}):**
+{{ summary }}
+
+
+# **New Text Chunk (Chunk {{chunk_number+1}} of {{total_chunk_number}}):**
+{{ new_chunk }}
+
+
+# {%if chunk_number+1 == total_chunk_number %}**Final Summary**{%else %}**New Working Summary:**{%endif %}

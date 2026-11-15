@@ -1,0 +1,2 @@
+The Slovak Fulbright Commission is a non-profit organization in Slovakia that provides scholarships, fellowships and counseling for Slovak students studying in the United States and American students in Slovakia. 
+The Fulbright Commission was created in 1994 by treaty between the two countries.   It is based in Bratislava, Slovakia.  Since its formation, over 180 American students and scholars have studied in Slovakia while over 220 Slovak students and scholars have studied in the United States.

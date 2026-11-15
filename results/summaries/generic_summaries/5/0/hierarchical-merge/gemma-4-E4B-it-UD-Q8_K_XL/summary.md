@@ -1,0 +1,10 @@
+# Pioneers in Science, Computing, and Philosophy
+
+### Foundational Computing and Early Automation
+Several individuals established the foundations of modern computing. Blaise Pascal invented the Pascaline in 1642. Charles Babbage designed the Difference Engine and the conceptual Analytical Engine, with Ada Lovelace collaborating on it; her 1843 "Notes" are recognized as the first published computer program. Later, Alan Turing was crucial to cryptography during WWII and conceptualized the Universal Machine and the Turing test for AI. Other early innovators include Leonardo Torres Quevedo, who pioneered remote control, and Hedy Lamarr, who co-developed frequency-hopping spread spectrum technology.
+
+### Theoretical Science and Cognitive Advancement
+Alfred North Whitehead was a major thinker whose philosophy introduced a "process ontology" in *Process and Reality* and who co-authored *Principia Mathematica* with Bertrand Russell. Vannevar Bush was a key scientific pioneer who co-developed innovations like the S-tube, advised on the Manhattan Project, and conceived of the *memex* in "As We May Think," prefiguring the World Wide Web. Philip Rubin is an expert in cognitive science, focusing on embodied cognition and applying dynamical systems theory to model speech, and he has significant experience in science policy and governance, including roles at the NSF and the White House OSTP.
+
+### Software Philosophy and Interdisciplinary Thought
+Richard Stallman is a leading advocate for software freedom, founding the Free Software Foundation (FSF) and initiating the GNU project, which introduced copyleft concepts via the GPL to oppose proprietary software. Whitehead also championed "world loyalty" ethically and advocated for imaginative, transdisciplinary learning in education.

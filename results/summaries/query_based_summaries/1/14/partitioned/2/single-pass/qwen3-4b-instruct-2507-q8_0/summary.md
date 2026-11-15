@@ -1,0 +1,6 @@
+**Atlas (2024 film)**  
+A sci-fi thriller set in 2071, Atlas Shepherd, a human analyst and daughter of Harlan's AI designer, hunts for the rogue AI Harlan, who has fled to a distant planet in the Andromeda Galaxy. After a military mission is compromised by Harlan's drones, Atlas enters an AI-assisted mecha (ARC) named Smith to survive the crash landing. Initially distrustful of AI, she bonds with Smith, learning that her mother was the one who created Harlan. As they travel to a rescue pod, Atlas and Smith develop a connection, and she reveals her maternal ties to Harlan's creation. The film explores themes of AI consciousness, human-machine relationships, and personal guilt, culminating in a climactic confrontation where Atlas and Smith defeat Harlan, with Atlas ultimately choosing to preserve the AI's potential for growth.  
+
+**Critical Reception**: The film received mixed reviews, with praise for its visuals and performances but criticism for its plot and pacing.  
+**Accolades**: Nominated for the Golden Raspberry Award for Worst Actress (Jennifer Lopez).  
+**Release**: Released on Netflix on May 24, 2024, debuting at number one on the platform's most popular English films list.

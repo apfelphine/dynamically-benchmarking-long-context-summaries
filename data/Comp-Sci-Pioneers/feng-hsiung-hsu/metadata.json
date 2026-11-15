@@ -1,0 +1,26 @@
+{
+  "id": 166666,
+  "title": "Feng-hsiung Hsu",
+  "url": "https://en.wikipedia.org/wiki/Feng-hsiung_Hsu",
+  "path": "Comp-Sci-Pioneers\\feng-hsiung-hsu",
+  "summary": {
+    "chars": 703,
+    "tokens": 160
+  },
+  "document": {
+    "chars": 2133,
+    "tokens": 491
+  },
+  "infobox": {
+    "title": "Feng-hsiung Hsu",
+    "data": {
+      "Born": "January 1, 1959 \u00b7 Keelung, Taiwan",
+      "Alma mater": "National Taiwan University (BS) \u00b7 Carnegie Mellon University (PhD)",
+      "Known for": "Designing Deep Blue",
+      "Awards": "Grace Murray Hopper Award (1991)",
+      "Fields": "Computer science",
+      "Institutions": "IBM",
+      "Thesis": "Large-scale parallelization of alpha-beta search: An algorithmic and architectural study with computer chess (1989)"
+    }
+  }
+}

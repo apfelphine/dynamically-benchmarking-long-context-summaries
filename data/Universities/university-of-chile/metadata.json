@@ -1,0 +1,33 @@
+{
+  "id": 545250,
+  "title": "University of Chile",
+  "url": "https://en.wikipedia.org/wiki/University_of_Chile",
+  "path": "Universities\\university-of-chile",
+  "summary": {
+    "chars": 1120,
+    "tokens": 228
+  },
+  "document": {
+    "chars": 21064,
+    "tokens": 4554
+  },
+  "infobox": {
+    "title": "University of Chile",
+    "data": {
+      "Motto": "Donde todas las verdades se tocan",
+      "Motto in English": "\"Where all truths touch\"",
+      "Type": "Public",
+      "Established": "July 28, 1738 (as the Royal University of San Felipe) \u00b7 November 19, 1842 (re-establishment)",
+      "Academic affiliation": "McDonnell International Scholars Academy",
+      "President": "Rosa Dev\u00e9s",
+      "Academic staff": "3,675",
+      "Students": "43,779",
+      "Undergraduates": "33,910",
+      "Postgraduates": "9,869",
+      "Location": "Santiago, RM, Chile",
+      "Campus": "Campus Andr\u00e9s Bello \u00b7 Campus Beauchef \u00b7 Campus Juan G\u00f3mez Millas \u00b7 Campus Dra. Elo\u00edsa D\u00edaz \u00b7 Campus Sur",
+      "Mascot": "Chuncho (Austral pygmy owl)",
+      "Website": "uchile.cl"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 333887,
+  "title": "Fulbright Program",
+  "url": "https://en.wikipedia.org/wiki/Fulbright_Program",
+  "path": "Scholarships\\fulbright-program",
+  "summary": {
+    "chars": 1995,
+    "tokens": 382
+  },
+  "document": {
+    "chars": 37001,
+    "tokens": 6843
+  },
+  "infobox": {
+    "title": "Fulbright Program",
+    "data": {
+      "Awarded for": "Grants for U.S. professors (\"scholars\"), graduating college seniors and graduate students (\"students\"), young professionals (\"specialists\"), and artists to research, study, or teach English abroad",
+      "Sponsored by": "Bureau of Educational and Cultural Affairs at the U.S. Department of State",
+      "Established": "August 1946",
+      "Website": "fulbrightprogram.org"
+    }
+  }
+}

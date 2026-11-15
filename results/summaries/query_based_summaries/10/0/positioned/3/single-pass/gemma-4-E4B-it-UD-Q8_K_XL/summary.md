@@ -1,0 +1,1 @@
+There is no information provided in the text regarding "Education in Sweden." The provided text details education systems in Armenia, Norway, Indonesia, and many other countries.

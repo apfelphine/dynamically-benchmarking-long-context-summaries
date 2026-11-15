@@ -1,0 +1,1 @@
+George Robert Stibitz (April 30, 1904 – January 31, 1995) was an American researcher at Bell Labs who is internationally recognized as one of the fathers of the modern digital computer. He was known for his work in the 1930s and 1940s on the realization of Boolean logic digital circuits using electromechanical relays as the switching element.

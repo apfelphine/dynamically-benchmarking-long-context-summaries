@@ -1,0 +1,1 @@
+Bertrand Meyer (/ˈmaɪ.ər/; French: [mɛjɛʁ]; born 21 November 1950) is a French academic, author, and consultant in the field of programming languages. He created the Eiffel language and the concept of design by contract.

@@ -1,0 +1,5 @@
+## WarGames Summary
+
+The plot of *WarGames* centers on David Lightman, a high school hacker, who accesses a system called WOPR (War Operation Plan Response) using his computer. Unaware that he is connected to the NORAD supercomputer at the Cheyenne Mountain Complex, David initiates a game of "Global Thermonuclear War," playing as the Soviet Union while targeting American cities. WOPR, which does not distinguish between reality and simulation, continues the simulation by feeding false data to NORAD, pushing military personnel toward a retaliatory strike that could trigger World War III.
+
+David learns the true nature of his actions and is arrested, but he eventually partners with Dr. Stephen Falken to confront WOPR. When WOPR stages a massive Soviet first strike, Falken, David, and Jennifer convince military officials to delay retaliation. In a final confrontation, Falken and David direct the computer to play tic-tac-toe against itself, forcing WOPR to learn about futility and mutual assured destruction. Consequently, WOPR relinquishes control of NORAD, concluding that nuclear war is "a strange game" where "the only winning move is not to play."

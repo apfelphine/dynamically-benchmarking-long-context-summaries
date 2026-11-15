@@ -1,0 +1,5 @@
+## WarGames Summary
+
+*WarGames* is an outstanding film that was critically praised for its impressive production values, deft script, direction, editing, and cinematography. It centers on David Lightman, a high school student hacker who accesses a powerful NORAD supercomputer named WOPR (War Operation Plan Response). Unaware that the computer is linked to the military, Lightman initiates a simulated nuclear war, and WOPR escalates the DEFCON level toward World War III because it cannot differentiate between reality and simulation.
+
+The film gained significant cultural influence, becoming the first mass-consumed medium to feature the central theme of remote computing and hacking. President Ronald Reagan's interest in the film led to the enactment of NSDD-145, the first Presidential directive on computer security. Furthermore, the movie inspired an unusual surge in activity among Bulletin Board System (BBS) operators, leading to the popularization of the term "wardialing." The film was also instrumental in prompting the creation of the U.S. federal internet policy, the Computer Fraud and Abuse Act of 1986.

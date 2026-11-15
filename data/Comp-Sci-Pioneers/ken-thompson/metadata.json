@@ -1,0 +1,26 @@
+{
+  "id": 23370128,
+  "title": "Ken Thompson",
+  "url": "https://en.wikipedia.org/wiki/Ken_Thompson",
+  "path": "Comp-Sci-Pioneers\\ken-thompson",
+  "summary": {
+    "chars": 871,
+    "tokens": 178
+  },
+  "document": {
+    "chars": 10350,
+    "tokens": 2164
+  },
+  "infobox": {
+    "title": "Ken Thompson",
+    "data": {
+      "Born": "Kenneth Lane Thompson \u00b7 February 4, 1943 \u00b7 New Orleans, Louisiana, U.S.",
+      "Education": "University of California, Berkeley (BS, MS)",
+      "Known for": "- Multics - Unix - B (programming language) - C (programming language) - Belle (chess machine) - UTF-8 - Plan 9 from Bell Labs - Inferno (operating system) - grep - Endgame tablebase - Go",
+      "Awards": "- IEEE Emanuel R. Piore Award (1982) - Turing Award (1983) - Member of the National Academy of Sciences (1985) - IEEE Richard W. Hamming Medal (1990) - Computer Pioneer Award (1994) - National Medal of Technology (1998) - Tsutomu Kanai Award (1999) - Harold Pender Award (2003) - Japan Prize (2011)",
+      "Fields": "Computer science",
+      "Institutions": "- Bell Labs - Entrisphere, Inc - Google",
+      "Website": "http://cs.bell-labs.co/who/ken"
+    }
+  }
+}

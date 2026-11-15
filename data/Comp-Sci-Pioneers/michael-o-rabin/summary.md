@@ -1,0 +1,1 @@
+Michael Oser Rabin (Hebrew: מִיכָאֵל עוזר רַבִּין; born September 1, 1931) is an Israeli mathematician, computer scientist, and recipient of the Turing Award.

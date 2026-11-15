@@ -1,0 +1,9 @@
+Garry Kasparov, born **Garik Kimovich Weinstein**, is a legendary chess grandmaster and one of the greatest players in chess history. Born in Baku, Azerbaijan, in 1963, he adopted his mother’s surname, Kasparov, at age 12. Kasparov began his chess career at a young age, training under Mikhail Botvinnik and Vladimir Makogonov. His breakthrough came in the early 1980s, where he quickly rose through the ranks, becoming a world-class player.
+
+Kasparov’s chess career is marked by extraordinary achievements, including winning the **World Chess Championship five times** (1985, 1986, 1987, 1990, 1993). His rivalry with Anatoly Karpov, often called the "Two Ks," defined an era in chess. Kasparov was known for his dynamic, tactical style, deep strategic understanding, and relentless preparation. He held the record for the longest time as the **world’s top-rated player (1984–2005)**, surpassing even Bobby Fischer’s record.
+
+Beyond chess, Kasparov became a prominent political figure, particularly in Russia. Initially a supporter of democratic reforms, he later became a vocal critic of Vladimir Putin’s regime, advocating for human rights and opposition to authoritarianism. His political activism led to his exile from Russia in 2013, where he continues to live and speak out against government oppression.
+
+Kasparov is also known for his contributions to chess education and his work with the Kasparov Chess Foundation, promoting chess as a tool for education and social development. His books, including *My Great Predecessors* and *Winter Is Coming*, blend chess analysis with broader reflections on strategy, politics, and life.
+
+His legacy in chess and politics remains significant, cementing his reputation as a **visionary player, a fearless critic, and a champion of democratic values**.

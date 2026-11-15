@@ -1,0 +1,1 @@
+The provided text contains no information about the University of Cambridge. It only discusses the University of Edinburgh in detail.

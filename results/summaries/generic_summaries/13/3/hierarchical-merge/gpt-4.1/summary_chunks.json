@@ -1,0 +1,44 @@
+[
+    {
+        "document_idx": null,
+        "text": "# University of Edinburgh\nFounded in 1583, the University of Edinburgh has played a pivotal role in the Scottish Enlightenment and modern governance, producing renowned scholars such as Adam Smith and David Hume. Today, it spans five major campuses specializing in sciences, medicine, and the arts, incorporating institutions like Moray House and Edinburgh College of Art. Edinburgh is recognized for academic rigor, global research collaborations\u2014including a joint biomedical institute with Zhejiang University\u2014and Scotland\u2019s largest academic library. Its vibrant student life features over 250 societies, strong traditions, and an active international community, while its legacy includes distinguished alumni, sustainability leadership, and activism.",
+        "text_original": "Founded in 1583, the University of Edinburgh has played a pivotal role in the Scottish Enlightenment and modern governance, producing renowned scholars such as Adam Smith and David Hume. Today, it spans five major campuses specializing in sciences, medicine, and the arts, incorporating institutions like Moray House and Edinburgh College of Art. Edinburgh is recognized for academic rigor, global research collaborations\u2014including a joint biomedical institute with Zhejiang University\u2014and Scotland\u2019s largest academic library. Its vibrant student life features over 250 societies, strong traditions, and an active international community, while its legacy includes distinguished alumni, sustainability leadership, and activism",
+        "idx_start": 28,
+        "idx_end": 754
+    },
+    {
+        "document_idx": null,
+        "text": "# Princeton University\nEstablished in 1746, Princeton University has evolved from religious roots into a leading American academic institution. It excels in rigorous academics, maintains a low student-faculty ratio, and fosters diversity, inclusion, and sustainability initiatives. The university hosts over 500 student organizations and traditions such as the Reunions \u201cP-rade,\u201d engaging actively with contemporary social issues. Princeton\u2019s alumni and faculty, including figures like Albert Einstein and several Nobel laureates, highlight its ongoing legacy of excellence and innovation.",
+        "text_original": "Established in 1746, Princeton University has evolved from religious roots into a leading American academic institution. It excels in rigorous academics, maintains a low student-faculty ratio, and fosters diversity, inclusion, and sustainability initiatives. The university hosts over 500 student organizations and traditions such as the Reunions \u201cP-rade,\u201d engaging actively with contemporary social issues. Princeton\u2019s alumni and faculty, including figures like Albert Einstein and several Nobel laureates, highlight its ongoing legacy of excellence and innovation",
+        "idx_start": 782,
+        "idx_end": 1347
+    },
+    {
+        "document_idx": null,
+        "text": "# Yale University\nYale University, founded in 1701, transitioned from religious orthodoxy to a leading force in liberal arts and professional education. Noted for its historic architecture and residential college system, Yale promotes community and supports a need-blind admissions policy and global partnerships. The university\u2019s distinguished alumni include U.S. presidents and scholars. Yale is proactive in addressing labor relations, mental health, inclusion reforms, campus safety, and activism, including recent involvement in Gaza war protests. Its traditions, philanthropy, and commitment to sustainability reflect adaptive institutional change.",
+        "text_original": "Yale University, founded in 1701, transitioned from religious orthodoxy to a leading force in liberal arts and professional education. Noted for its historic architecture and residential college system, Yale promotes community and supports a need-blind admissions policy and global partnerships. The university\u2019s distinguished alumni include U.S. presidents and scholars. Yale is proactive in addressing labor relations, mental health, inclusion reforms, campus safety, and activism, including recent involvement in Gaza war protests. Its traditions, philanthropy, and commitment to sustainability reflect adaptive institutional change",
+        "idx_start": 1370,
+        "idx_end": 2005
+    },
+    {
+        "document_idx": null,
+        "text": "# University College London (UCL)\nUCL is renowned for its secular foundation, pioneering research, and advances in gender equality and inclusivity. Hosting over 47,000 students across eleven faculties, UCL\u2019s international community benefits from robust outreach and \u2018world leading\u2019 research. As a member of the Russell Group, UCL\u2019s institutional reforms and global collaborations drive progress in ethics, sustainability, and social activism, shaping its reputation for diversity and accessibility.",
+        "text_original": "UCL is renowned for its secular foundation, pioneering research, and advances in gender equality and inclusivity. Hosting over 47,000 students across eleven faculties, UCL\u2019s international community benefits from robust outreach and \u2018world leading\u2019 research. As a member of the Russell Group, UCL\u2019s institutional reforms and global collaborations drive progress in ethics, sustainability, and social activism, shaping its reputation for diversity and accessibility",
+        "idx_start": 2044,
+        "idx_end": 2507
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Pennsylvania\nThe University of Pennsylvania, a founding Ivy League member, excels in interdisciplinary education, competitive admissions, and groundbreaking research. Its Philadelphia campus blends architectural heritage with top-tier facilities, supporting an inclusive and diverse undergraduate community featuring strong ethnic, international, and LGBTQ+ representation. Student well-being is prioritized through expanded mental health resources, and campus life is enriched by numerous academic, cultural, artistic, and athletic organizations, including prominent Ivy League sports. Penn\u2019s \u201cOne University Policy\u201d fosters cross-disciplinary study, while its influential alumni and faculty are distinguished globally in politics, business, science, and the arts, supported by a robust international network.",
+        "text_original": "The University of Pennsylvania, a founding Ivy League member, excels in interdisciplinary education, competitive admissions, and groundbreaking research. Its Philadelphia campus blends architectural heritage with top-tier facilities, supporting an inclusive and diverse undergraduate community featuring strong ethnic, international, and LGBTQ+ representation. Student well-being is prioritized through expanded mental health resources, and campus life is enriched by numerous academic, cultural, artistic, and athletic organizations, including prominent Ivy League sports. Penn\u2019s \u201cOne University Policy\u201d fosters cross-disciplinary study, while its influential alumni and faculty are distinguished globally in politics, business, science, and the arts, supported by a robust international network",
+        "idx_start": 2541,
+        "idx_end": 3337
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Cambridge\nFounded in 1209, the University of Cambridge comprises 31 colleges and over 150 academic departments, delivering world-class research and rigorous teaching across diverse fields. Its academic strengths are supported by faculty-led lectures and intensive supervisions. Cambridge maintains deep traditions, vibrant student societies, and notable events like the May Balls and Boat Race. Alumni include scientific pioneers, literary giants, and global leaders, many recognized with Nobel and Turing awards. The university actively expands access to underrepresented groups and collaborates closely with local industry and technology sectors, addressing inclusion and safety issues.",
+        "text_original": "Founded in 1209, the University of Cambridge comprises 31 colleges and over 150 academic departments, delivering world-class research and rigorous teaching across diverse fields. Its academic strengths are supported by faculty-led lectures and intensive supervisions. Cambridge maintains deep traditions, vibrant student societies, and notable events like the May Balls and Boat Race. Alumni include scientific pioneers, literary giants, and global leaders, many recognized with Nobel and Turing awards. The university actively expands access to underrepresented groups and collaborates closely with local industry and technology sectors, addressing inclusion and safety issues",
+        "idx_start": 3368,
+        "idx_end": 4045
+    }
+]

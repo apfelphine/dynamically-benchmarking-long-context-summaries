@@ -1,0 +1,26 @@
+{
+  "id": 661085,
+  "title": "Peter Landin",
+  "url": "https://en.wikipedia.org/wiki/Peter_Landin",
+  "path": "Comp-Sci-Pioneers\\peter-landin",
+  "summary": {
+    "chars": 293,
+    "tokens": 63
+  },
+  "document": {
+    "chars": 5815,
+    "tokens": 1352
+  },
+  "infobox": {
+    "title": "Peter Landin",
+    "data": {
+      "Born": "Peter John Landin \u00b7 5 June 1930 \u00b7 Sheffield, West Riding of Yorkshire, England",
+      "Died": "3 June 2009 (aged 78)",
+      "Citizenship": "United Kingdom",
+      "Education": "Clare College, Cambridge University",
+      "Known for": "ISWIM, J operator, SECD machine, off-side rule, syntactic sugar",
+      "Fields": "Computer science, education",
+      "Institutions": "Christopher Strachey, computer consultant \u00b7 Univac \u00b7 Massachusetts Institute of Technology \u00b7 Queen Mary University of London"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 73024071,
+  "title": "Afraid (film)",
+  "url": "https://en.wikipedia.org/wiki/Afraid_(film)",
+  "path": "AI-Fiction\\afraid-film",
+  "summary": {
+    "chars": 640,
+    "tokens": 140
+  },
+  "document": {
+    "chars": 7763,
+    "tokens": 1777
+  },
+  "infobox": {
+    "title": "Afraid",
+    "data": {
+      "Directed by": "Chris Weitz",
+      "Written by": "Chris Weitz",
+      "Produced by": "- Jason Blum - Chris Weitz - Andrew Miano",
+      "Starring": "- John Cho - Katherine Waterston - Havana Rose Liu - Lukita Maxwell - David Dastmalchian - Keith Carradine",
+      "Cinematography": "Javier Aguirresarobe",
+      "Edited by": "- Priscilla Nedd-Friendly - Tim Alverson",
+      "Music by": "Alex Weston",
+      "Production \u00b7 companies": "- Columbia Pictures - Blumhouse Productions - Depth of Field",
+      "Distributed by": "Sony Pictures Releasing",
+      "Release date": "- August 30, 2024",
+      "Running time": "84 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$12 million",
+      "Box office": "$13 million"
+    }
+  }
+}

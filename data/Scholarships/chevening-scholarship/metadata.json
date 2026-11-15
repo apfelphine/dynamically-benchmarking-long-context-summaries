@@ -1,0 +1,23 @@
+{
+  "id": 1941969,
+  "title": "Chevening Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Chevening_Scholarship",
+  "path": "Scholarships\\chevening-scholarship",
+  "summary": {
+    "chars": 376,
+    "tokens": 62
+  },
+  "document": {
+    "chars": 10533,
+    "tokens": 2319
+  },
+  "infobox": {
+    "title": "Chevening Scholarship",
+    "data": {
+      "Awarded for": "Prestigious UK government scholarship for international students to pursue postgraduate study in the United Kingdom",
+      "Sponsored by": "Foreign, Commonwealth & Development Office of the United Kingdom",
+      "Established": "1983",
+      "Website": "www.chevening.org"
+    }
+  }
+}

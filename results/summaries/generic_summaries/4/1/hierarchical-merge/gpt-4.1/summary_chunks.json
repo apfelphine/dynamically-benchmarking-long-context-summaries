@@ -1,0 +1,44 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Gottfried Wilhelm Leibniz: Life and Legacy\nGottfried Wilhelm Leibniz (1646\u20131716) was a German polymath whose pioneering work shaped modern philosophy, mathematics, and technology. He introduced foundational philosophical concepts such as the principle of sufficient reason and monads, co-invented calculus, advanced binary numerals, and contributed significantly to logic, computation, and several other disciplines. Leibniz\u2019s enduring influence is maintained through his writings and ongoing scholarly initiatives like the \"Leibniz Edition.\"",
+        "text_original": "Gottfried Wilhelm Leibniz (1646\u20131716) was a German polymath whose pioneering work shaped modern philosophy, mathematics, and technology. He introduced foundational philosophical concepts such as the principle of sufficient reason and monads, co-invented calculus, advanced binary numerals, and contributed significantly to logic, computation, and several other disciplines. Leibniz\u2019s enduring influence is maintained through his writings and ongoing scholarly initiatives like the \"Leibniz Edition",
+        "idx_start": 47,
+        "idx_end": 544
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Sanders Peirce: Philosophy and Metaphysics\nCharles Sanders Peirce, American philosopher and scientist, originated pragmatism and developed objective idealism, profoundly shaping logic, semiotics, and metaphysics. His evolutionary philosophy\u2014tychism, anancasm, and agapasm\u2014was unified by synechism, influencing disciplines including mathematics and computer science. Peirce's legacy remains active through extensive archival material and continuing publication efforts.",
+        "text_original": "Charles Sanders Peirce, American philosopher and scientist, originated pragmatism and developed objective idealism, profoundly shaping logic, semiotics, and metaphysics. His evolutionary philosophy\u2014tychism, anancasm, and agapasm\u2014was unified by synechism, influencing disciplines including mathematics and computer science. Peirce's legacy remains active through extensive archival material and continuing publication efforts",
+        "idx_start": 603,
+        "idx_end": 1027
+    },
+    {
+        "document_idx": null,
+        "text": "# John von Neumann: Foundations and Impact\nJohn von Neumann was a transformative polymath who established the foundations of quantum mechanics, game theory, and computer science, notably pioneering stored-program computer architecture and the theory of von Neumann entropy. His extensive contributions advanced disciplines ranging from economics to meteorology, with considerable impact on defense and technology, and earned worldwide recognition.",
+        "text_original": "John von Neumann was a transformative polymath who established the foundations of quantum mechanics, game theory, and computer science, notably pioneering stored-program computer architecture and the theory of von Neumann entropy. His extensive contributions advanced disciplines ranging from economics to meteorology, with considerable impact on defense and technology, and earned worldwide recognition",
+        "idx_start": 1075,
+        "idx_end": 1478
+    },
+    {
+        "document_idx": null,
+        "text": "# Garry Kasparov: Chess Mastery and Advocacy\nGarry Kasparov is widely recognized as one of chess history\u2019s greatest champions, renowned for his innovative preparation, influential writings like \"My Great Predecessors,\" and leadership in chess education. He played pivotal roles in famous matches, such as against IBM\u2019s Deep Blue, mentored future chess stars, and consulted for projects including \"The Queen's Gambit.\" Outside chess, Kasparov is a prominent advocate for democracy and human rights, an outspoken critic of Russian authoritarianism, and contributes to discussions on AI, business, and public policy.",
+        "text_original": "Garry Kasparov is widely recognized as one of chess history\u2019s greatest champions, renowned for his innovative preparation, influential writings like \"My Great Predecessors,\" and leadership in chess education. He played pivotal roles in famous matches, such as against IBM\u2019s Deep Blue, mentored future chess stars, and consulted for projects including \"The Queen's Gambit.\" Outside chess, Kasparov is a prominent advocate for democracy and human rights, an outspoken critic of Russian authoritarianism, and contributes to discussions on AI, business, and public policy",
+        "idx_start": 1528,
+        "idx_end": 2095
+    },
+    {
+        "document_idx": null,
+        "text": "# Noam Chomsky: Linguistic Innovation and Political Critique\nNoam Chomsky revolutionized linguistics with universal and transformational grammar, significantly impacting cognitive science, philosophy, and computer science. As a leading public intellectual, he advocates libertarian socialism, critiques U.S. capitalism, foreign policy, and Israeli actions, and champions grassroots media control. His influence is notable in academic and activist realms, though some political positions remain controversial.",
+        "text_original": "Noam Chomsky revolutionized linguistics with universal and transformational grammar, significantly impacting cognitive science, philosophy, and computer science. As a leading public intellectual, he advocates libertarian socialism, critiques U.S. capitalism, foreign policy, and Israeli actions, and champions grassroots media control. His influence is notable in academic and activist realms, though some political positions remain controversial",
+        "idx_start": 2161,
+        "idx_end": 2607
+    },
+    {
+        "document_idx": null,
+        "text": "# Bertrand Russell: Logic, Philosophy, and Social Reform\nBertrand Russell was a major philosopher, logician, and social activist whose works\u2014including *Principia Mathematica* \u2014transformed logic and analytic philosophy. He championed humanist values, scientific inquiry, and political reform, advocating for individual liberty, basic income, and global peace. Russell\u2019s activism notably addressed pacifism, opposition to authoritarianism, and nuclear disarmament, leaving a legacy enriched by extensive archives and ongoing scholarship.",
+        "text_original": "Bertrand Russell was a major philosopher, logician, and social activist whose works\u2014including *Principia Mathematica*\u2014transformed logic and analytic philosophy. He championed humanist values, scientific inquiry, and political reform, advocating for individual liberty, basic income, and global peace. Russell\u2019s activism notably addressed pacifism, opposition to authoritarianism, and nuclear disarmament, leaving a legacy enriched by extensive archives and ongoing scholarship",
+        "idx_start": 2669,
+        "idx_end": 3145
+    }
+]

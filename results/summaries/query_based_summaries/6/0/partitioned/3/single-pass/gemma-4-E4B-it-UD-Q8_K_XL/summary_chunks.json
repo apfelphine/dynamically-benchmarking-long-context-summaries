@@ -1,0 +1,9 @@
+[
+    {
+        "document_idx": null,
+        "text": "Donald Knuth is a computer scientist renowned for his monumental work, *The Art of Computer Programming* , which spans multiple volumes covering topics such as Fundamental Algorithms, Seminumerical Algorithms, Sorting and Searching, and Combinatorial Algorithms. His early work involved developing compilers, including an ALGOL compiler for the Burroughs B205, and he initially focused on the \"Analysis of algorithms.\"\nKnuth is also recognized for his contributions to digital typesetting, leading him to create TeX and Metafont. Furthermore, he invented the methodology of \"literate programming,\" wherein programmers view programs as literature, exemplified by the WEB system. He has received numerous accolades, including the Turing Award, the National Medal of Science, and the Kyoto Prize, and was elected to the National Academy of Sciences and the National Academy of Engineering.",
+        "text_original": "Donald Knuth is a computer scientist renowned for his monumental work, *The Art of Computer Programming*, which spans multiple volumes covering topics such as Fundamental Algorithms, Seminumerical Algorithms, Sorting and Searching, and Combinatorial Algorithms. His early work involved developing compilers, including an ALGOL compiler for the Burroughs B205, and he initially focused on the \"Analysis of algorithms.\"\n\nKnuth is also recognized for his contributions to digital typesetting, leading him to create TeX and Metafont. Furthermore, he invented the methodology of \"literate programming,\" wherein programmers view programs as literature, exemplified by the WEB system. He has received numerous accolades, including the Turing Award, the National Medal of Science, and the Kyoto Prize, and was elected to the National Academy of Sciences and the National Academy of Engineering",
+        "idx_start": 0,
+        "idx_end": 885
+    }
+]

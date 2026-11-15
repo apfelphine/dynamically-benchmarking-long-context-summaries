@@ -1,0 +1,5 @@
+**Star Trek: The Motion Picture**
+
+In the 23rd century, Starfleet's Epsilon Nine detects an alien entity concealed within a massive energy cloud heading toward Earth, which subsequently destroys three Klingon warships and Epsilon Nine. The starship Enterprise, undergoing refit, is assigned to intercept the cloud entity. Commander Spock arrives and detects a consciousness emanating from the cloud. Enterprise intercepts the entity, which is revealed to be V'Ger, a 20th-century NASA Voyager 6 probe upgraded by an alien race to learn and return its knowledge to its creator.
+
+Decker, the ship's new commander, becomes troubled while interacting with a robotic replica of the navigator Ilia, who V'Ger uses to study the crew. Spock telepathically learns that V'Ger is a non-biological living machine. When V'Ger demands the "Creator" come in person, Decker merges with the Ilia probe and V'Ger, creating a new life form that saves Earth. The film was known for its epic scope, the intricate design of the Enterprise, and Jerry Goldsmith's score, which garnered multiple nominations.

@@ -1,0 +1,1 @@
+There is no information provided about "Education in Sweden" in the text.

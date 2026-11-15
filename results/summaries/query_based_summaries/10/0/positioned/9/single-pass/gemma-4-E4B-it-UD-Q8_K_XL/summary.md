@@ -1,0 +1,1 @@
+There is no information provided in the text regarding "Education in Sweden." The text provided contains information on education systems in Sri Lanka, Egypt, Israel, Indonesia, the Republic of Ireland, Armenia, Nigeria, Norway, Taiwan, Turkey, Ghana, France, England, and Iran.

@@ -1,0 +1,1 @@
+Jung_E (Korean: 정이), stylised as JUNG_E, is a 2023 South Korean science fiction film written and directed by Yeon Sang-ho, starring Kang Soo-yeon, Kim Hyun-joo, and Ryu Kyung-soo. The film features the final film appearance of Kang Soo-yeon, who died ahead of its release. A dedication to her appears at the end of the film. It premiered on January 20, 2023, on Netflix.

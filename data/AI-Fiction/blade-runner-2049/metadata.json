@@ -1,0 +1,36 @@
+{
+  "id": 39830741,
+  "title": "Blade Runner 2049",
+  "url": "https://en.wikipedia.org/wiki/Blade_Runner_2049",
+  "path": "AI-Fiction\\blade-runner-2049",
+  "summary": {
+    "chars": 2276,
+    "tokens": 474
+  },
+  "document": {
+    "chars": 39726,
+    "tokens": 8573
+  },
+  "infobox": {
+    "title": "Blade Runner 2049",
+    "data": {
+      "Directed by": "Denis Villeneuve",
+      "Screenplay by": "- Hampton Fancher - Michael Green",
+      "Story by": "Hampton Fancher",
+      "Based on": "Characters from Do Androids Dream of Electric Sheep? \u00b7 by Philip K. Dick",
+      "Produced by": "- Andrew A. Kosove - Broderick Johnson - Bud Yorkin - Cynthia Sikes Yorkin",
+      "Starring": "- Ryan Gosling - Harrison Ford - Ana de Armas - Sylvia Hoeks - Robin Wright - Mackenzie Davis - Carla Juri - Lennie James - Dave Bautista - Jared Leto",
+      "Cinematography": "Roger A. Deakins",
+      "Edited by": "Joe Walker",
+      "Music by": "- Benjamin Wallfisch - Hans Zimmer",
+      "Production \u00b7 companies": "- Alcon Entertainment - Columbia Pictures - Scott Free Productions - Bud Yorkin Productions - Torridon Films - 16:14 Entertainment",
+      "Distributed by": "- Warner Bros. Pictures (United States and Canada) - Sony Pictures Releasing International (International)",
+      "Release dates": "- October 3, 2017 (Dolby Theatre) - October 6, 2017 (United States)",
+      "Running time": "163 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$150\u2013185 million",
+      "Box office": "$276.6 million"
+    }
+  }
+}

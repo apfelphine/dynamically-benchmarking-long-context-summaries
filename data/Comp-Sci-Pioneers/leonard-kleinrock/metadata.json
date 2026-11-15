@@ -1,0 +1,28 @@
+{
+  "id": 464164,
+  "title": "Leonard Kleinrock",
+  "url": "https://en.wikipedia.org/wiki/Leonard_Kleinrock",
+  "path": "Comp-Sci-Pioneers\\leonard-kleinrock",
+  "summary": {
+    "chars": 1253,
+    "tokens": 248
+  },
+  "document": {
+    "chars": 11464,
+    "tokens": 2403
+  },
+  "infobox": {
+    "title": "Leonard Kleinrock",
+    "data": {
+      "Born": "June 13, 1934 \u00b7 New York City, U.S.",
+      "Alma mater": "City College of New York \u00b7 Massachusetts Institute of Technology",
+      "Known for": "Queueing theory, ARPANET, Internet development",
+      "Awards": "- Marconi Prize (1986) - Harry H. Goode Memorial Award (1996) - National Medal of Science (2007) - National Academy of Engineering (1980) - NAE Charles Stark Draper Prize (2001) - IEEE Alexander Graham Bell Medal (2012) - BBVA Foundation Frontiers of Knowledge Award (2014)",
+      "Fields": "- Engineering - Computer science",
+      "Institutions": "University of California, Los Angeles",
+      "Thesis": "- Message delay in communication nets with storage (1963)",
+      "Doctoral advisor": "Edward Arthurs \u00b7 Claude Shannon",
+      "Doctoral students": "Chris Ferguson"
+    }
+  }
+}

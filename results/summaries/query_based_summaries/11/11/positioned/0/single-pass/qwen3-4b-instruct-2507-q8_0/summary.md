@@ -1,0 +1,9 @@
+**Wasserstein GAN** is a generative adversarial network (GAN) variant that improves upon the original GAN by using the **Wasserstein distance** (also known as Earth Mover's distance) as the objective function, replacing the traditional Jensen-Shannon divergence. 
+
+The key innovation lies in the **discriminator's strategy set**, which is constrained to measurable functions with a bounded Lipschitz norm (i.e., the function's gradient is bounded), rather than allowing arbitrary functions. This ensures the discriminator provides a more stable and meaningful gradient signal to the generator. The objective function becomes $L_{WGAN}(\mu_G, D) = \mathbb{E}_{x\sim\mu_G}[D(x)] - \mathbb{E}_{x\sim\mu_{ref}}[D(x)]$, and for any generator strategy $\mu_G$, the optimal discriminator yields $L_{WGAN}(\mu_G, D^*) = K \cdot W_1(\mu_G, \mu_{ref})$, where $W_1$ is the Wasserstein distance.
+
+This formulation addresses a critical flaw in the original GAN: the vanishing gradient problem, where the discriminator becomes too strong and provides no useful signal to the generator. In WGAN, the gradient of the discriminator is constant (1 almost everywhere), leading to more stable training and preventing mode collapse (where the generator fails to produce diverse outputs). 
+
+Training involves optimizing the generator to minimize the Wasserstein distance to the reference distribution, while the discriminator is trained to maximize it. Methods like **spectral normalization**, **gradient penalty**, or **weight clipping** are used to enforce the Lipschitz constraint on the discriminator. The gradient penalty, in particular, adds a penalty term for deviations from the Lipschitz norm, encouraging the discriminator to maintain a consistent gradient magnitude. 
+
+Overall, WGAN provides a more stable and reliable training process, resulting in better convergence and more diverse generated samples compared to standard GANs.

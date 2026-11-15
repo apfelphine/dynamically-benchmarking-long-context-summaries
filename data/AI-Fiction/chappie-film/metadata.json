@@ -1,0 +1,34 @@
+{
+  "id": 39536272,
+  "title": "Chappie (film)",
+  "url": "https://en.wikipedia.org/wiki/Chappie_(film)",
+  "path": "AI-Fiction\\chappie-film",
+  "summary": {
+    "chars": 653,
+    "tokens": 168
+  },
+  "document": {
+    "chars": 12283,
+    "tokens": 2829
+  },
+  "infobox": {
+    "title": "Chappie",
+    "data": {
+      "Directed by": "Neill Blomkamp",
+      "Written by": "- Neill Blomkamp - Terri Tatchell",
+      "Produced by": "- Neill Blomkamp - Simon Kinberg",
+      "Starring": "- Sharlto Copley - Dev Patel - Hugh Jackman - Ninja - Yolandi Visser - Jose Pablo Cantillo - Sigourney Weaver",
+      "Cinematography": "Trent Opaloch",
+      "Edited by": "- Julian Clarke - Mark Goldblatt",
+      "Music by": "Hans Zimmer",
+      "Production \u00b7 companies": "- Columbia Pictures - MRC - LStar Capital - Kinberg Genre",
+      "Distributed by": "Sony Pictures Releasing",
+      "Release dates": "- March 4, 2015 (New York City) - March 6, 2015 (United States)",
+      "Running time": "120 minutes",
+      "Country": "United States",
+      "Languages": "- English - Afrikaans",
+      "Budget": "$49 million",
+      "Box office": "$102.1 million"
+    }
+  }
+}

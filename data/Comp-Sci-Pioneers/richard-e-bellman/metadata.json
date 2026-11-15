@@ -1,0 +1,29 @@
+{
+  "id": 730173,
+  "title": "Richard E. Bellman",
+  "url": "https://en.wikipedia.org/wiki/Richard_E._Bellman",
+  "path": "Comp-Sci-Pioneers\\richard-e-bellman",
+  "summary": {
+    "chars": 368,
+    "tokens": 79
+  },
+  "document": {
+    "chars": 5690,
+    "tokens": 1211
+  },
+  "infobox": {
+    "title": "Richard Ernest Bellman",
+    "data": {
+      "Born": "Richard Ernest Bellman \u00b7 August 26, 1920 \u00b7 New York City, New York, U.S.",
+      "Died": "March 19, 1984 (aged 63) \u00b7 Los Angeles, California, U.S.",
+      "Alma mater": "- Brooklyn College (BS) - University of Wisconsin (MA) - Princeton University (PhD)",
+      "Known for": "Dynamic programming \u00b7 Stochastic dynamic programming \u00b7 Curse of dimensionality \u00b7 Linear search problem \u00b7 Bellman equation \u00b7 Bellman\u2013Ford algorithm \u00b7 Bellman's lost-in-a-forest problem \u00b7 Bellman\u2013Held\u2013Karp algorithm \u00b7 Gr\u00f6nwall\u2013Bellman inequality \u00b7 Hamilton\u2013Jacobi\u2013Bellman equation",
+      "Awards": "John von Neumann Theory Prize (1976) \u00b7 IEEE Medal of Honor (1979) \u00b7 Richard E. Bellman Control Heritage Award (1984)",
+      "Fields": "Mathematics, control theory",
+      "Institutions": "University of Southern California \u00b7 Rand Corporation \u00b7 Stanford University",
+      "Thesis": "On the Boundedness of Solutions of Non-Linear Differential and Difference Equations",
+      "Doctoral advisor": "Solomon Lefschetz",
+      "Doctoral students": "Christine Shoemaker"
+    }
+  }
+}

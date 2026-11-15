@@ -1,0 +1,114 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\nKenneth E. Iverson, born in 1920 in Alberta, Canada, studied at Queen's University and Harvard University, earning a B.A., M.Sc., and Ph.D. He worked at Harvard, IBM, I.P. Sharp Associates, and Jsoftware Inc. He developed the APL programming language, which emphasized concise notation for data processing. His work at IBM included creating formal descriptions of the IBM System/360 and the APL\\360 system. He was awarded the Turing Award in 1979 and died in 2004 from a stroke. His legacy includes APL, a language that revolutionized programming, and contributions to education and computer science.",
+        "text_original": "Kenneth E. Iverson, born in 1920 in Alberta, Canada, studied at Queen's University and Harvard University, earning a B.A., M.Sc., and Ph.D. He worked at Harvard, IBM, I.P. Sharp Associates, and Jsoftware Inc. He developed the APL programming language, which emphasized concise notation for data processing. His work at IBM included creating formal descriptions of the IBM System/360 and the APL\\360 system. He was awarded the Turing Award in 1979 and died in 2004 from a stroke. His legacy includes APL, a language that revolutionized programming, and contributions to education and computer science",
+        "idx_start": 23,
+        "idx_end": 622
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\nGeorge Boole, born in 1815 in England, was a mathematician who developed Boolean algebra, a foundational system in logic and computer science. His work on symbolic logic and the analysis of logical propositions laid the groundwork for modern digital circuits and computer science. He published influential works such as \"The Mathematical Analysis of Logic\" and \"The Treatise on Differential Equations.\" Boole died in 1864 and is remembered for his contributions to logic, which are fundamental to modern computing and information theory.",
+        "text_original": "George Boole, born in 1815 in England, was a mathematician who developed Boolean algebra, a foundational system in logic and computer science. His work on symbolic logic and the analysis of logical propositions laid the groundwork for modern digital circuits and computer science. He published influential works such as \"The Mathematical Analysis of Logic\" and \"The Treatise on Differential Equations.\" Boole died in 1864 and is remembered for his contributions to logic, which are fundamental to modern computing and information theory",
+        "idx_start": 642,
+        "idx_end": 1178
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\nJacek Karpi\u0144ski, born in 1927 in Italy, was a Polish engineer and computer scientist. He began his career in the Polish military, contributing to early computer development and working on the AAH and AKAT-1 machines. He designed the KAR-65 computer and the K-202 minicomputer, which was notable for its performance and innovation. Karpi\u0144ski's work in computer design and engineering led to significant advancements in early computing. He later worked in industry and academia, and died in 2010. His contributions to computer science and engineering are recognized in various awards and institutions.",
+        "text_original": "Jacek Karpi\u0144ski, born in 1927 in Italy, was a Polish engineer and computer scientist. He began his career in the Polish military, contributing to early computer development and working on the AAH and AKAT-1 machines. He designed the KAR-65 computer and the K-202 minicomputer, which was notable for its performance and innovation. Karpi\u0144ski's work in computer design and engineering led to significant advancements in early computing. He later worked in industry and academia, and died in 2010. His contributions to computer science and engineering are recognized in various awards and institutions",
+        "idx_start": 1201,
+        "idx_end": 1799
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\nRamon Llull, born in 1232 in Majorca, Spain, was a philosopher and logician known for developing the \"Art\" of logic. His system, which combined symbolic logic with combinatorial methods, aimed to prove theological and philosophical truths. Llull's works, including \"The Book of the Gentile and the Three Wise Men,\" influenced later developments in logic and computer science. He was recognized for his contributions to the field of logic and was beatified in 1847. His legacy includes the foundational principles of combinatorial logic and the influence on later thinkers.",
+        "text_original": "Ramon Llull, born in 1232 in Majorca, Spain, was a philosopher and logician known for developing the \"Art\" of logic. His system, which combined symbolic logic with combinatorial methods, aimed to prove theological and philosophical truths. Llull's works, including \"The Book of the Gentile and the Three Wise Men,\" influenced later developments in logic and computer science. He was recognized for his contributions to the field of logic and was beatified in 1847. His legacy includes the foundational principles of combinatorial logic and the influence on later thinkers",
+        "idx_start": 1818,
+        "idx_end": 2389
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\nFederico Faggin, born in 1927 in Italy, was a pioneering computer engineer who developed the silicon-gate technology, which became the foundation for modern microprocessors. He played a key role in the creation of the Intel 4004, the first single-chip microprocessor. Faggin also contributed to the development of the Zilog Z80 microprocessor and founded Synaptics, where he developed touchpad technology. He advocated for the use of quantum mechanics in understanding consciousness and is known for his work in both hardware and software. He received numerous awards, including the Turing Award and the National Medal of Technology and Innovation.",
+        "text_original": "Federico Faggin, born in 1927 in Italy, was a pioneering computer engineer who developed the silicon-gate technology, which became the foundation for modern microprocessors. He played a key role in the creation of the Intel 4004, the first single-chip microprocessor. Faggin also contributed to the development of the Zilog Z80 microprocessor and founded Synaptics, where he developed touchpad technology. He advocated for the use of quantum mechanics in understanding consciousness and is known for his work in both hardware and software. He received numerous awards, including the Turing Award and the National Medal of Technology and Innovation",
+        "idx_start": 2412,
+        "idx_end": 3059
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\nGeorge Antheil, born in 1900 in New Jersey, was a composer and music innovator known for his work in the early 20th century. His most famous composition, \"Ballet M\u00e9canique,\" combined music with mechanical elements, reflecting his interest in technology and modernism. Antheil also contributed to the development of frequency-hopping radio technology during World War II, which is now used in modern wireless communications. He was a prominent figure in the music world and is remembered for his unique blend of music and technology.",
+        "text_original": "George Antheil, born in 1900 in New Jersey, was a composer and music innovator known for his work in the early 20th century. His most famous composition, \"Ballet M\u00e9canique,\" combined music with mechanical elements, reflecting his interest in technology and modernism. Antheil also contributed to the development of frequency-hopping radio technology during World War II, which is now used in modern wireless communications. He was a prominent figure in the music world and is remembered for his unique blend of music and technology",
+        "idx_start": 3081,
+        "idx_end": 3612
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\nGrace Hopper, born in 1906 in New York, was a pioneering computer scientist and naval officer. She developed the first compiler, which allowed programming languages to be written in English, making programming accessible to non-specialists. She played a key role in the development of COBOL, a programming language used in business applications. Hopper served in the U.S. Navy and later became a leading figure in computer science, receiving numerous awards and honors. She is celebrated for her contributions to programming languages and her advocacy for women in computing.",
+        "text_original": "Grace Hopper, born in 1906 in New York, was a pioneering computer scientist and naval officer. She developed the first compiler, which allowed programming languages to be written in English, making programming accessible to non-specialists. She played a key role in the development of COBOL, a programming language used in business applications. Hopper served in the U.S. Navy and later became a leading figure in computer science, receiving numerous awards and honors. She is celebrated for her contributions to programming languages and her advocacy for women in computing",
+        "idx_start": 3632,
+        "idx_end": 4206
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\nGeoffrey Hinton, born in 1947 in England, is a prominent artificial intelligence researcher known for his work in neural networks and deep learning. He co-developed the backpropagation algorithm and contributed to the development of Boltzmann machines. Hinton has been instrumental in advancing the field of machine learning and has received numerous awards, including the Turing Award. He is also known for his concerns about the risks of artificial general intelligence and has advocated for ethical considerations in AI development.",
+        "text_original": "Geoffrey Hinton, born in 1947 in England, is a prominent artificial intelligence researcher known for his work in neural networks and deep learning. He co-developed the backpropagation algorithm and contributed to the development of Boltzmann machines. Hinton has been instrumental in advancing the field of machine learning and has received numerous awards, including the Turing Award. He is also known for his concerns about the risks of artificial general intelligence and has advocated for ethical considerations in AI development",
+        "idx_start": 4229,
+        "idx_end": 4763
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\nGottlob Frege, born in 1848 in Germany, was a logician and philosopher who laid the foundation for modern logic. His work on formal logic and the concept of \"sense and reference\" revolutionized the field of philosophy and mathematics. Frege's \"Begriffsschrift\" introduced a formal system for logical reasoning, and his work influenced the development of modern logic and set theory. He is considered one of the founders of analytic philosophy and is remembered for his contributions to the foundations of mathematics.",
+        "text_original": "Gottlob Frege, born in 1848 in Germany, was a logician and philosopher who laid the foundation for modern logic. His work on formal logic and the concept of \"sense and reference\" revolutionized the field of philosophy and mathematics. Frege's \"Begriffsschrift\" introduced a formal system for logical reasoning, and his work influenced the development of modern logic and set theory. He is considered one of the founders of analytic philosophy and is remembered for his contributions to the foundations of mathematics",
+        "idx_start": 4784,
+        "idx_end": 5300
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\nIsmail al-Jazari, born in 1136 in Upper Mesopotamia, was a medieval engineer and inventor known for his mechanical devices. He developed a wide range of machines, including water-raising pumps, automata, and water clocks. His work in mechanical engineering and automation laid the groundwork for modern robotics and automation. Al-Jazari's inventions, such as the \"peacock fountain\" and the \"water-clock of the drummers,\" are considered early examples of programmable machines. He is recognized as a pioneer in the field of mechanical engineering and is celebrated for his contributions to the development of automation.",
+        "text_original": "Ismail al-Jazari, born in 1136 in Upper Mesopotamia, was a medieval engineer and inventor known for his mechanical devices. He developed a wide range of machines, including water-raising pumps, automata, and water clocks. His work in mechanical engineering and automation laid the groundwork for modern robotics and automation. Al-Jazari's inventions, such as the \"peacock fountain\" and the \"water-clock of the drummers,\" are considered early examples of programmable machines. He is recognized as a pioneer in the field of mechanical engineering and is celebrated for his contributions to the development of automation",
+        "idx_start": 5324,
+        "idx_end": 5943
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\nKurt G\u00f6del, born in 1906 in Austria-Hungary, was a logician and mathematician known for his incompleteness theorems. His work demonstrated that any formal system powerful enough to describe arithmetic is either incomplete or inconsistent. G\u00f6del's theorems had profound implications for mathematics and computer science, influencing the development of formal logic and the foundations of computing. He also contributed to the philosophy of mathematics and the theory of computability. He is remembered as one of the most influential figures in the history of logic and mathematics.",
+        "text_original": "Kurt G\u00f6del, born in 1906 in Austria-Hungary, was a logician and mathematician known for his incompleteness theorems. His work demonstrated that any formal system powerful enough to describe arithmetic is either incomplete or inconsistent. G\u00f6del's theorems had profound implications for mathematics and computer science, influencing the development of formal logic and the foundations of computing. He also contributed to the philosophy of mathematics and the theory of computability. He is remembered as one of the most influential figures in the history of logic and mathematics",
+        "idx_start": 5961,
+        "idx_end": 6540
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\nPer Brinch Hansen, born in 1935 in Denmark, was a computer scientist known for his contributions to operating systems and concurrent programming. He developed the RC 4000 multiprogramming system, which introduced the concept of a kernel and the separation of mechanism and policy in operating systems. He also created the monitor concept and the Concurrent Pascal programming language. Brinch Hansen is recognized for his work in making operating systems more efficient and for his influence on the development of modern computer systems.",
+        "text_original": "Per Brinch Hansen, born in 1935 in Denmark, was a computer scientist known for his contributions to operating systems and concurrent programming. He developed the RC 4000 multiprogramming system, which introduced the concept of a kernel and the separation of mechanism and policy in operating systems. He also created the monitor concept and the Concurrent Pascal programming language. Brinch Hansen is recognized for his work in making operating systems more efficient and for his influence on the development of modern computer systems",
+        "idx_start": 6565,
+        "idx_end": 7102
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\nLynn Conway, born in 1938 in New York, was a computer scientist and pioneer in the field of VLSI (Very Large Scale Integration) design. She co-developed the Mead\u2013Conway VLSI design methodology, which revolutionized chip design and established the foundry model for chip manufacturing. Conway is also known for her advocacy of gender equality in the technology industry and for her contributions to the development of computer science and engineering. She received numerous awards and honors for her work and is celebrated as a trailblazer in the field.",
+        "text_original": "Lynn Conway, born in 1938 in New York, was a computer scientist and pioneer in the field of VLSI (Very Large Scale Integration) design. She co-developed the Mead\u2013Conway VLSI design methodology, which revolutionized chip design and established the foundry model for chip manufacturing. Conway is also known for her advocacy of gender equality in the technology industry and for her contributions to the development of computer science and engineering. She received numerous awards and honors for her work and is celebrated as a trailblazer in the field",
+        "idx_start": 7121,
+        "idx_end": 7672
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\nHerbert A. Simon, born in 1916 in Wisconsin, was a cognitive psychologist and economist known for his work in decision-making and artificial intelligence. He developed the theory of bounded rationality, which explains how humans make decisions under uncertainty and limited information. Simon's work on human problem-solving and organizational behavior has had a lasting impact on both psychology and economics. He is credited with pioneering the field of artificial intelligence and is remembered for his contributions to cognitive science and decision theory.",
+        "text_original": "Herbert A. Simon, born in 1916 in Wisconsin, was a cognitive psychologist and economist known for his work in decision-making and artificial intelligence. He developed the theory of bounded rationality, which explains how humans make decisions under uncertainty and limited information. Simon's work on human problem-solving and organizational behavior has had a lasting impact on both psychology and economics. He is credited with pioneering the field of artificial intelligence and is remembered for his contributions to cognitive science and decision theory",
+        "idx_start": 7696,
+        "idx_end": 8256
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\nDonald Knuth, born in 1938 in Wisconsin, is a computer scientist and mathematician known for his work on algorithms and computer programming. He authored \"The Art of Computer Programming,\" a comprehensive series that has become a foundational text in computer science. Knuth also developed TeX and Metafont, typesetting systems that revolutionized the way scientific and mathematical documents are formatted. He is celebrated for his contributions to computer science, mathematics, and typesetting, and is recognized as one of the most influential figures in the field.",
+        "text_original": "Donald Knuth, born in 1938 in Wisconsin, is a computer scientist and mathematician known for his work on algorithms and computer programming. He authored \"The Art of Computer Programming,\" a comprehensive series that has become a foundational text in computer science. Knuth also developed TeX and Metafont, typesetting systems that revolutionized the way scientific and mathematical documents are formatted. He is celebrated for his contributions to computer science, mathematics, and typesetting, and is recognized as one of the most influential figures in the field",
+        "idx_start": 8276,
+        "idx_end": 8844
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\nEdsger W. Dijkstra, born in 1930 in the Netherlands, was a computer scientist known for his work in algorithms and programming. He developed Dijkstra's algorithm for finding the shortest path in a network and introduced the concept of structured programming. His \"Go To Statement Considered Harmful\" essay had a major impact on programming practices. Dijkstra is remembered for his contributions to computer science, including the development of the semaphore and the Banker's algorithm. He is celebrated for his elegant and rigorous approach to problem-solving and is considered one of the most influential figures in the field.",
+        "text_original": "Edsger W. Dijkstra, born in 1930 in the Netherlands, was a computer scientist known for his work in algorithms and programming. He developed Dijkstra's algorithm for finding the shortest path in a network and introduced the concept of structured programming. His \"Go To Statement Considered Harmful\" essay had a major impact on programming practices. Dijkstra is remembered for his contributions to computer science, including the development of the semaphore and the Banker's algorithm. He is celebrated for his elegant and rigorous approach to problem-solving and is considered one of the most influential figures in the field",
+        "idx_start": 8870,
+        "idx_end": 9498
+    }
+]

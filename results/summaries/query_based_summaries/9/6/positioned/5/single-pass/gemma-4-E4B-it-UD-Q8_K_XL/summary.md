@@ -1,0 +1,7 @@
+## Education in New Zealand
+
+New Zealand has established a free, compulsory, and secular national state education system since January 1, 1878, largely based on the Canterbury system. Education is compulsory between the ages of six and sixteen, although most students remain in school until at least age seventeen.
+
+The schooling structure comprises 13 year levels. Primary education spans eight years (Years 1–8), with Years 7 and 8 sometimes constituting an intermediate stage. Secondary education, or high school, lasts five years (Years 9–13). The national curriculum is The New Zealand Curriculum (NZC) for English-medium schools and Te Marautanga o Aotearoa (TMoA) for Māori-medium schools.
+
+Early childhood education options include centre-based and teacher-led services (like Kindergarten, or 'kindy'), and whānau-led or parent-led services (like Kohanga Reo). Tertiary education is regulated by the New Zealand Qualifications Framework. Funding for state and state integrated schools is allocated by the government per student, with additional funding for low-decile schools. State-integrated schools, which maintain a special character (often religious), charge compulsory "attendance dues," while private schools rely heavily on tuition fees.

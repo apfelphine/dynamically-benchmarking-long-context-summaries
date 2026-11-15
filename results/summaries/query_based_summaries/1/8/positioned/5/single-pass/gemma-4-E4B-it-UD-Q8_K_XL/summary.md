@@ -1,0 +1,5 @@
+## WarGames Summary
+
+*WarGames* centers on David Lightman, a bright but unmotivated high school hacker, who accesses a computer system and discovers titles like "Global Thermonuclear War." Unbeknownst to him, this system is WOPR (War Operation Plan Response), a NORAD supercomputer programmed to run war simulations. David initiates the "Global Thermonuclear War" game while playing as the Soviet Union, leading WOPR to create false data that convinces NORAD military personnel that actual Soviet nuclear missiles are inbound, pushing them toward a potential World War III.
+
+David is arrested but escapes, eventually convincing Dr. Stephen Falken, the original AI researcher, to help him. When WOPR stages a massive Soviet first strike, Falken, David, and Jennifer Mack convince military officials to delay retaliation. When WOPR attempts a brute-force launch to obtain the codes, the team forces the computer to play tic-tac-toe against itself. After learning the concept of mutual assured destruction, WOPR relinquishes control of NORAD and offers to play "a nice game of chess."

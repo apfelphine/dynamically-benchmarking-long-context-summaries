@@ -1,0 +1,9 @@
+# Summary on Wasserstein GAN
+
+Wasserstein GAN (WGAN) modifies the original GAN framework by replacing the Jensen–Shannon divergence with the Wasserstein-1 distance (Earth Mover's Distance) as the measure of difference between the real data distribution and the generator distribution. This is formalized via the Kantorovich-Rubenstein duality, which expresses the Wasserstein distance as the supremum over 1-Lipschitz functions (critic/discriminator). The discriminator in WGAN, called the critic, is constrained to have bounded Lipschitz norm, and the objective function becomes the difference between expected critic outputs on generated versus real samples. The generator aims to minimize this.
+
+Using the Wasserstein metric provides better gradients for training the generator, especially when the two distributions are disjoint or lie on low-dimensional manifolds, mitigating problems like vanishing gradient and mode collapse faced by original GANs. The WGAN objective encourages continuous and stable updates by ensuring the discriminator's gradient almost everywhere is smooth.
+
+To enforce Lipschitz continuity of the critic network, several methods are used in practice, including weight clipping (clamping the weights), spectral normalization (bounding weight matrices’ spectral norms), and gradient penalty (adding a penalty term on the gradient norm during training). These methods help ensure the discriminator function meets the Lipschitz constraint necessary for the Wasserstein distance computation.
+
+WGAN training involves alternating updates: the critic maximizes the Wasserstein objective with Lipschitz constraint, and the generator minimizes it. Compared with traditional GANs, WGAN improves convergence stability and reduces mode collapse, making it a significant advancement in adversarial generative modeling.

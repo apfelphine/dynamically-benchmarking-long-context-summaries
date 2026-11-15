@@ -1,0 +1,1 @@
+The Maharashtra State Council of Examinations (MSCE) is an Indian state level authority that facilitates Scholarship examinations.

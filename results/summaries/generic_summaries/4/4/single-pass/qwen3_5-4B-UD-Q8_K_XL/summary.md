@@ -1,0 +1,31 @@
+# Concise Summary
+
+## Bertrand Russell
+Bertrand Russell (1872–1970) was a British philosopher, mathematician, and social critic born into an aristocratic family. His early life was marked by the deaths of his parents and siblings, leaving his grandmother, the Countess Russell, as the central figure in his upbringing. Educated at Trinity College, Cambridge, Russell excelled in mathematics and philosophy, becoming a Fellow of the Royal Society and co-authoring the seminal work *Principia Mathematica* with Alfred North Whitehead.
+
+Russell's career was defined by his commitment to intellectual freedom and social justice. He faced dismissal from Trinity College in 1916 for his pacifist stance during World War I, later serving time in prison for opposing conscription and urging the US to enter the war. He became a prominent anti-nuclear activist, signing the Russell–Einstein Manifesto and advocating for disarmament. His political views evolved over time, including controversial positions on Zionism and the morality of nuclear war, though he eventually advocated for total abolition of atomic weapons. He was awarded the Nobel Prize in Literature in 1950 and died in 1970, leaving a legacy of critical inquiry and humanitarianism.
+
+## Noam Chomsky
+Noam Chomsky (born 1928) is an American linguist, philosopher, cognitive scientist, and political activist. Born to Jewish immigrant parents, he developed a strong leftist political orientation early in life, identifying with anarchism and opposing Bolshevism. He studied at the University of Pennsylvania and later at Harvard, where he revolutionized linguistics with the theory of transformational grammar and the concept of universal grammar, arguing that humans possess an innate "language acquisition device."
+
+Beyond linguistics, Chomsky is a renowned political dissident and critic of American imperialism. He has extensively analyzed media manipulation, co-authoring the "Propaganda Model" with Edward Herman, and has been a vocal opponent of U.S. foreign policy, including the Vietnam War, the Israeli-Palestinian conflict, and the Iraq War. While his linguistic work established him as a foundational figure in the cognitive revolution, his political activism has made him a polarizing figure, often accused by critics of being anti-American or inconsistent, while supporters view him as a guardian of free speech and a defender of the oppressed.
+
+## Garry Kasparov
+Garry Kasparov (born 1963) is a former Russian grandmaster and chess player widely regarded as the greatest of all time. Born in Baku to an Armenian and Jewish family, he fled pogroms in 1990 and eventually moved to the United States. He held the world chess title from 1985 to 2000, distinguished by his aggressive, tactical style and extensive opening preparation.
+
+Following his retirement from competitive play, Kasparov transitioned into a prominent political activist and commentator. He initially supported democratic reforms in Russia and later became a key figure in the opposition to Vladimir Putin, organizing protests and leading the "Putin Must Go" campaign. His views have extended to international affairs, where he has criticized authoritarian regimes, supported Ukraine's independence, and engaged in debates on human rights and global governance.
+
+## John von Neumann
+John von Neumann (1903–1957) was a Hungarian-American mathematician, physicist, and computer scientist considered one of the most influential minds of the 20th century. A child prodigy, he made groundbreaking contributions to pure mathematics, including set theory, functional analysis, and game theory. He is credited with founding the field of game theory through his minimax theorem and making fundamental contributions to mathematical economics and linear programming.
+
+In applied science, von Neumann was a key architect of the Manhattan Project, designing the implosion mechanism for the plutonium bomb. He was also a founding figure in computer science, designing the stored-program architecture that underpins modern computers and developing algorithms for scientific computing. His work in quantum mechanics, ergodic theory, and the theory of cellular automata laid the groundwork for much of modern physics and information theory.
+
+## Charles Sanders Peirce
+Charles Sanders Peirce (1839–1914) was an American philosopher, scientist, and mathematician who is widely considered the father of pragmatism and a pioneer in symbolic logic and semiotics. Born in Cambridge, Massachusetts, he worked as a scientist for the U.S. Coast Survey before becoming a lecturer at Johns Hopkins University, where his work was initially met with resistance.
+
+Peirce developed a comprehensive philosophical system based on three categories: Firstness, Secondness, and Thirdness. He founded pragmatism, defining truth as the limit of inquiry and emphasizing the practical consequences of ideas. His work on semiotics, particularly his theory of signs (icons, indices, and symbols) and his classification of reasoning into abduction, deduction, and induction, had a profound influence on logic, mathematics, and the philosophy of science, although his work remained largely unrecognized during his lifetime.
+
+## Gottfried Wilhelm Leibniz
+Gottfried Wilhelm Leibniz (1646–1716) was a German polymath, mathematician, philosopher, and diplomat. Born in Leipzig, he studied law and philosophy before becoming a courtier and librarian for the House of Hanover. He is credited with independently inventing calculus and is renowned for his work on binary arithmetic and the development of the universal characteristic, an early vision of symbolic logic.
+
+Leibniz was a prolific writer and diplomat who advocated for a European confederation and the reconciliation of Christian denominations. His philosophical system, centered on monads and the pre-established harmony, attempted to reconcile rationalism with Christian theology. Although his reputation suffered in his later years due to the calculus priority dispute with Isaac Newton and Voltaire's satire, he is now celebrated as a visionary whose ideas anticipated modern computing, logic, and even Einstein's theory of relativity.

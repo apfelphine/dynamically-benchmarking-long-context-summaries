@@ -1,0 +1,93 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\nA pioneering computer scientist known for foundational contributions to operating systems, concurrent programming, and distributed computing. He developed the RC 4000 multiprogramming system, introducing the concept of a kernel and separation of mechanism and policy. He invented the monitor concept and created Concurrent Pascal, a language enabling full operating system implementation in high-level code. His textbook *Operating System Principles* became a seminal work in the field. Later, he advanced concurrent programming with *The Architecture of Concurrent Programs* , influencing language design and system development. He also contributed to distributed computing through remote procedure calls (RPC).",
+        "text_original": "A pioneering computer scientist known for foundational contributions to operating systems, concurrent programming, and distributed computing. He developed the RC 4000 multiprogramming system, introducing the concept of a kernel and separation of mechanism and policy. He invented the monitor concept and created Concurrent Pascal, a language enabling full operating system implementation in high-level code. His textbook *Operating System Principles* became a seminal work in the field. Later, he advanced concurrent programming with *The Architecture of Concurrent Programs*, influencing language design and system development. He also contributed to distributed computing through remote procedure calls (RPC",
+        "idx_start": 24,
+        "idx_end": 733
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\nA foundational figure in computer science, known for structured programming and the development of the \"Go To statement considered harmful\" principle. He invented the shortest path algorithm (Dijkstra\u2019s algorithm) and the semaphore for process synchronization. He developed the THE operating system and contributed to formal methods, including the \"literate programming\" approach. His work on algorithmic efficiency and clarity profoundly influenced software engineering.",
+        "text_original": "A foundational figure in computer science, known for structured programming and the development of the \"Go To statement considered harmful\" principle. He invented the shortest path algorithm (Dijkstra\u2019s algorithm) and the semaphore for process synchronization. He developed the THE operating system and contributed to formal methods, including the \"literate programming\" approach. His work on algorithmic efficiency and clarity profoundly influenced software engineering",
+        "idx_start": 764,
+        "idx_end": 1234
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\nA trailblazing computer scientist who pioneered high-level programming languages. She developed the first compiler (A compiler) and championed the use of English-like syntax in programming, leading to the creation of COBOL, the first widely adopted business programming language. She was instrumental in establishing standards for programming languages and served in the U.S. Navy, where she developed early software systems. She is credited with popularizing the term \"debugging\" in computing.",
+        "text_original": "A trailblazing computer scientist who pioneered high-level programming languages. She developed the first compiler (A compiler) and championed the use of English-like syntax in programming, leading to the creation of COBOL, the first widely adopted business programming language. She was instrumental in establishing standards for programming languages and served in the U.S. Navy, where she developed early software systems. She is credited with popularizing the term \"debugging\" in computing",
+        "idx_start": 1258,
+        "idx_end": 1751
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\nA mathematician and electrical engineer who laid the foundation of information theory. His work on Boolean algebra and switching circuits enabled the design of digital computers. He introduced the concept of information entropy and developed the mathematical theory of communication. His work on cryptography, including the one-time pad, and early contributions to artificial intelligence (e.g., the \"Theseus\" learning machine) were groundbreaking.",
+        "text_original": "A mathematician and electrical engineer who laid the foundation of information theory. His work on Boolean algebra and switching circuits enabled the design of digital computers. He introduced the concept of information entropy and developed the mathematical theory of communication. His work on cryptography, including the one-time pad, and early contributions to artificial intelligence (e.g., the \"Theseus\" learning machine) were groundbreaking",
+        "idx_start": 1777,
+        "idx_end": 2224
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\nA renowned computer scientist and author of *The Art of Computer Programming* , a comprehensive series on algorithms and programming. He developed TeX and Metafont for typesetting, revolutionizing scientific publishing. He introduced \"literate programming,\" emphasizing the importance of writing programs as clear, readable narratives. Knuth is celebrated for his rigor, elegance, and influence on computer science, earning the Turing Award and numerous accolades.",
+        "text_original": "A renowned computer scientist and author of *The Art of Computer Programming*, a comprehensive series on algorithms and programming. He developed TeX and Metafont for typesetting, revolutionizing scientific publishing. He introduced \"literate programming,\" emphasizing the importance of writing programs as clear, readable narratives. Knuth is celebrated for his rigor, elegance, and influence on computer science, earning the Turing Award and numerous accolades",
+        "idx_start": 2248,
+        "idx_end": 2710
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\nA logician whose incompleteness theorems demonstrated that any consistent formal system capable of expressing arithmetic is incomplete\u2014some truths cannot be proven within the system. His work profoundly influenced mathematics, philosophy, and computer science. He also contributed to set theory, including the constructible universe, and explored the existence of God through formal logic.",
+        "text_original": "A logician whose incompleteness theorems demonstrated that any consistent formal system capable of expressing arithmetic is incomplete\u2014some truths cannot be proven within the system. His work profoundly influenced mathematics, philosophy, and computer science. He also contributed to set theory, including the constructible universe, and explored the existence of God through formal logic",
+        "idx_start": 2732,
+        "idx_end": 3120
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\nA pioneer in symbolic logic, whose work established the algebra of logic. His development of Boolean algebra became the foundation for digital circuit design, influencing Claude Shannon\u2019s work. He contributed to probability theory and differential equations. His legacy is central to modern computing, with Boolean operations forming the basis of logic gates in computers.",
+        "text_original": "A pioneer in symbolic logic, whose work established the algebra of logic. His development of Boolean algebra became the foundation for digital circuit design, influencing Claude Shannon\u2019s work. He contributed to probability theory and differential equations. His legacy is central to modern computing, with Boolean operations forming the basis of logic gates in computers",
+        "idx_start": 3144,
+        "idx_end": 3515
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\nA 12th-century engineer known for his innovative mechanical devices, including water-raising machines, automata, and clocks. He introduced early versions of the crankshaft, crank-slider mechanism, and escapement systems. His works, documented in *The Book of Knowledge of Ingenious Mechanical Devices* , influenced later developments in robotics and engineering.",
+        "text_original": "A 12th-century engineer known for his innovative mechanical devices, including water-raising machines, automata, and clocks. He introduced early versions of the crankshaft, crank-slider mechanism, and escapement systems. His works, documented in *The Book of Knowledge of Ingenious Mechanical Devices*, influenced later developments in robotics and engineering",
+        "idx_start": 3543,
+        "idx_end": 3903
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\nA 13th-century philosopher and inventor whose \"Art\" was a combinatorial system of logic designed to prove theological truths. It used principles and diagrams to generate logical arguments and was a precursor to modern algorithmic thinking. His works influenced later developments in logic, alchemy, and the philosophy of mind.",
+        "text_original": "A 13th-century philosopher and inventor whose \"Art\" was a combinatorial system of logic designed to prove theological truths. It used principles and diagrams to generate logical arguments and was a precursor to modern algorithmic thinking. His works influenced later developments in logic, alchemy, and the philosophy of mind",
+        "idx_start": 3926,
+        "idx_end": 4251
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\nA leading figure in artificial intelligence, known for pioneering deep learning and neural networks. He co-invented backpropagation and Boltzmann machines. He has been instrumental in advancing machine learning, including the development of capsule networks and contrastive learning. He now advocates for AI safety and expresses concerns about existential risks from advanced AI systems.",
+        "text_original": "A leading figure in artificial intelligence, known for pioneering deep learning and neural networks. He co-invented backpropagation and Boltzmann machines. He has been instrumental in advancing machine learning, including the development of capsule networks and contrastive learning. He now advocates for AI safety and expresses concerns about existential risks from advanced AI systems",
+        "idx_start": 4278,
+        "idx_end": 4664
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\nA modernist composer known for his experimental, machine-inspired works, including *Ballet M\u00e9canique* . He fused music with technology, using player pianos and mechanical elements. He co-invented frequency-hopping radio with Hedy Lamarr, a foundational concept in modern wireless communication. His work bridged music, technology, and innovation.",
+        "text_original": "A modernist composer known for his experimental, machine-inspired works, including *Ballet M\u00e9canique*. He fused music with technology, using player pianos and mechanical elements. He co-invented frequency-hopping radio with Hedy Lamarr, a foundational concept in modern wireless communication. His work bridged music, technology, and innovation",
+        "idx_start": 4690,
+        "idx_end": 5034
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\nAn engineer who developed the silicon-gate technology that enabled the first microprocessors. He designed the Intel 4004, the world\u2019s first single-chip microprocessor, and contributed to early microcontrollers and neural network systems. He later proposed a theory of consciousness based on quantum mechanics.",
+        "text_original": "An engineer who developed the silicon-gate technology that enabled the first microprocessors. He designed the Intel 4004, the world\u2019s first single-chip microprocessor, and contributed to early microcontrollers and neural network systems. He later proposed a theory of consciousness based on quantum mechanics",
+        "idx_start": 5061,
+        "idx_end": 5369
+    },
+    {
+        "document_idx": null,
+        "text": "# Isaac Newton\n(Not included in the provided text)\n**Note:** The summary includes only individuals explicitly detailed in the provided text. The omission of Isaac Newton is due to his absence from the original content.",
+        "text_original": "Not included in the provided text)  \n\n**Note:** The summary includes only individuals explicitly detailed in the provided text. The omission of Isaac Newton is due to his absence from the original content",
+        "idx_start": 5394,
+        "idx_end": 5598
+    }
+]

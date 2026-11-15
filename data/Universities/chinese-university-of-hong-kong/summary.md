@@ -1,0 +1,4 @@
+The Chinese University of Hong Kong (CUHK) is a public university in Sha Tin, New Territories, Hong Kong.
+Established in 1963 as a federation of three colleges – Chung Chi College, New Asia College, and United College, it is Hong Kong's second-oldest university, with the first being the University of Hong Kong. Predecessors of the university included St. John's University, Lingnan University and Yenching University, alongside 10 other Christian universities in China.
+The university is organised into nine constituent colleges and eight academic faculties, and remains the only collegiate university in Hong Kong. The university operates in both English and Chinese.
+Four Nobel laureates are associated with the university, and it is the only tertiary institution in Hong Kong with recipients of the Nobel Prize, Turing Award, Fields Medal, and Veblen Prize sitting as faculty in residence.

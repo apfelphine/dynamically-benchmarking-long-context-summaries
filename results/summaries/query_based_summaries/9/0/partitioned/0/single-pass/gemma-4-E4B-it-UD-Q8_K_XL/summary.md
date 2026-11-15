@@ -1,0 +1,5 @@
+## Education in Pakistan
+
+Pakistan's formal education system is inspired by the English model, encompassing primary, secondary, and tertiary stages. Primary education completion rates are low, with only about 67.5% of children finishing primary school. The curriculum typically covers eight disciplines, and the language of instruction depends on the type of institution. Secondary education (years 9–12) culminates in the Secondary School Certificate (SSC) and Higher Secondary School Certificate (HSSC). Alternative qualifications, such as GCE and IGCSE, are also available.
+
+Significant challenges persist in the Pakistani education sector, notably severe gender disparity, with low female enrollment and literacy rates compared to males. Quality concerns include an outdated curriculum, shortages of teachers, and poor infrastructure, alongside the influence of religious seminaries (Madrassas) in education. Despite governmental efforts and initiatives like Teleschool, the system grapples with issues of access, relevance, and inequality across different socioeconomic groups.

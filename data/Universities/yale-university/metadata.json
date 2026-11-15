@@ -1,0 +1,42 @@
+{
+  "id": 34273,
+  "title": "Yale University",
+  "url": "https://en.wikipedia.org/wiki/Yale_University",
+  "path": "Universities\\yale-university",
+  "summary": {
+    "chars": 2775,
+    "tokens": 558
+  },
+  "document": {
+    "chars": 75048,
+    "tokens": 15679
+  },
+  "infobox": {
+    "title": "Yale University",
+    "data": {
+      "Former names": "Collegiate School (1701\u20131718) \u00b7 Yale College (1718\u20131887)",
+      "Motto": "Lux et veritas (Latin)",
+      "Motto in English": "\"Light and truth\"",
+      "Type": "Private research university",
+      "Established": "October 9, 1701",
+      "Accreditation": "NECHE",
+      "Religious affiliation": "Nonsectarian",
+      "Academic affiliations": "AAU COFHE IARU NAICU ORAU URA Space-grant",
+      "Endowment": "$44.1 billion (2025)",
+      "President": "Maurie McInnis",
+      "Provost": "Scott Strobel",
+      "Academic staff": "5,744 (fall 2024)",
+      "Students": "15,490 (fall 2024)",
+      "Undergraduates": "6,740 (fall 2024)",
+      "Postgraduates": "8,750 (fall 2024)",
+      "Location": "New Haven, Connecticut, United States \u00b7 41\u00b018\u203259\u2033N 72\u00b055\u203220\u2033W\ufeff / \ufeff41.31639\u00b0N 72.92222\u00b0W",
+      "Campus": "Midsize city, 1,015 acres (411 ha)",
+      "Newspaper": "Yale Daily News",
+      "Colors": "Yale blue & white",
+      "Nickname": "Bulldogs",
+      "Sporting affiliations": "NCAA Division I FCS \u2013 Ivy League ECAC Hockey NEISA IRA EARC EAWRC",
+      "Mascot": "Handsome Dan",
+      "Website": "yale.edu"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+RBC scholarships offered to students by Royal Bank of Canada

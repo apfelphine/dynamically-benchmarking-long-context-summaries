@@ -1,0 +1,2 @@
+Stealth is a 2005 American military science fiction action film directed by Rob Cohen, written by W. D. Richter, and starring Josh Lucas, Jessica Biel, Jamie Foxx, Sam Shepard, Joe Morton and Richard Roxburgh. The film follows three top fighter pilots as they join a project to develop an autonomous stealth aircraft.
+Released on July 29, 2005, by Columbia Pictures, the film was a critical and box office failure, grossing $79.3 million worldwide against a budget of $135 million. It was one of the worst losses in cinematic history.

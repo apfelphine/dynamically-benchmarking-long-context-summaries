@@ -1,0 +1,28 @@
+{
+  "id": 32433,
+  "title": "Vint Cerf",
+  "url": "https://en.wikipedia.org/wiki/Vint_Cerf",
+  "path": "Comp-Sci-Pioneers\\vint-cerf",
+  "summary": {
+    "chars": 412,
+    "tokens": 92
+  },
+  "document": {
+    "chars": 17241,
+    "tokens": 3961
+  },
+  "infobox": {
+    "title": "Vinton CerfForMemRS",
+    "data": {
+      "Born": "Vinton Gray Cerf \u00b7 June 23, 1943 \u00b7 New Haven, Connecticut, U.S.",
+      "Education": "Stanford University (BS) \u00b7 University of California, Los Angeles (MS, PhD)",
+      "Known for": "TCP/IP \u00b7 Internet Society",
+      "Awards": "- ACM Fellow (1994) - IEEE Alexander Graham Bell Medal (1997) - IEEE Medal of Honor (2023) - National Medal of Technology (1997) - Marconi Prize (1998) - Prince of Asturias Award (2002) - Turing Award (2004) - Presidential Medal of Freedom (2005) - Japan Prize (2008) - Harold Pender Award (2010) - Queen Elizabeth Prize for Engineering (2013) - ForMemRS (2016)",
+      "Fields": "Telecommunications",
+      "Institutions": "IBM, International Institute of Information Technology, Hyderabad, UCLA, Stanford University, DARPA, MCI, CNRI, Google",
+      "Thesis": "Multiprocessors, Semaphores, and a Graph Model of Computation (1972)",
+      "Doctoral advisor": "Gerald Estrin",
+      "Website": "research.google/people/author32412"
+    }
+  }
+}

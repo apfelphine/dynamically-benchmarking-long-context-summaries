@@ -1,0 +1,16 @@
+# Violence against robots
+
+## Types
+The types of attacks include ones that aim for the robots to stop working, ones that impair the robot's sensors to weaken its awareness of the environment, ones that attempt to cause humans to believe that the robot has felt some form of humiliation or weakened social status (e.g. defacement) and ones that verbally attack the robot. Another type of attack is causing the robots to be confused, with an example being to trick "a mobile food delivery robot to engage in dangerous traffic manoeuvres". Robots may also be hacked, causing them to perform unexpected actions.: 3  An attack against a robot may either be an act of vandalism against the organisation that owns it (an attack on property) or may be a committed against the robot as if it were an individual.: 4 
+
+
+## History
+Factory workers have caused damage to automonous machines since at least the 19th century. The Luddites in England were a group of people who would organise such attacks.: 2 
+
+
+## Examples
+Robots that have had widely publicised attacks against theminclude the hitchhiker robot hitchBOT, which was travelling across the United States, and a Knightscope K5 security robot.: 3  Children have been observed standing in front of robots to obstruct them, verbally bullying robots and physically punching or kicking robots, despite pleas from the robots to stop.
+
+
+## Mitigation
+The Starship Technologies food-delivery robots make a "screeching" sound when they are picked up, deterring theft or vandalism. Researchers have proposed making the robots appear as if they are experiencing pain to stop people from attacking them. Marieke Wieringa has warned against the mis-use of this strategy, which may be used to emotionally manipulate consumers, such as creating virtual pets that display distress when not fed, but must be paid to be fed.

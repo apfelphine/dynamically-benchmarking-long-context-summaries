@@ -1,0 +1,17 @@
+# Education Systems Overview
+
+## Western and European Models
+France, England, Sweden, Ireland, and Norway feature well-structured, mostly publicly funded education systems with compulsory schooling spanning early to late teens, emphasizing broad academic curricula, vocational options, and inclusivity. France’s national curriculum culminates in the baccalauréat, blending secular education with elite Grandes Écoles preparation. England combines core academic subjects with vocational pathways, capped university tuition, and robust quality oversight via Ofsted. Sweden and Norway prioritize equality and integration of experiential learning, with Norway also focusing on inclusivity and IT integration. Ireland supports bilingual education and ranks highly internationally. Debates around privatization and commercialized schooling arise notably in France and Sweden.
+
+## Middle Eastern and Asian Contexts
+Iran integrates Islamic traditions and gender-segregated schooling with attempts at reforming curricula toward critical thinking and STEM engagement, especially among females. Israel’s multi-track system caters to secular, religious, and minority populations, emphasizing higher education access despite equity challenges. Taiwan and Hong Kong provide compulsory education with strong vocational and international elements; Hong Kong faces political tensions affecting curricula and staff retention, while Taiwan attracts international language learners. Armenia offers free 12-year schooling aligned with European standards and promotes non-formal tech education, whereas Sri Lanka mixes religious and secular schooling with pervasive private tutoring and resource disparities.
+
+## African Education Systems
+Ghana and Nigeria present free universal basic education progressing to secondary and tertiary levels, with national exams regulating advancement. Vocational education remains underdeveloped and stigmatized, despite government initiatives. Nigeria contends with challenges stemming from poverty, security threats, and digital literacy gaps. Ghana focuses on quality improvement and expanding tertiary access, with COVID-19 exposing resource deficiencies. Both countries feature diverse school types, including federal, private, and religious institutions.
+
+## Southeast Asian and North African Systems
+Indonesia offers 12 years of compulsory schooling split between secular and religious sectors, including Islamic pesantren, but struggles with rural-urban quality disparities and resource shortages. Egypt maintains a dual traditional-modern system where free public education coexists with the Al-Azhar religious framework. Despite expanded enrollment, Egypt faces overcrowding, rote teaching, teacher quality issues, widespread private tutoring dependence, and limited vocational pathways, contributing to high youth unemployment. Recent reforms target governance, active learning, and labor market relevance.
+
+---
+
+These global education landscapes reveal how cultural, political, and socioeconomic factors shape system structures, equity, curricular content, and education quality. While northern European countries emphasize inclusivity, standardized testing, and lifelong learning, many developing countries confront challenges in resource allocation, vocational training integration, and balancing traditional with modern educational values.

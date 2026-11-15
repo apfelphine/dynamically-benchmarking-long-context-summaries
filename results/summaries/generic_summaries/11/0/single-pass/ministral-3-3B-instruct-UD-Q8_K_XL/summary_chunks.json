@@ -1,0 +1,170 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Definition\nA GAN is a zero-sum game between two neural networks: a **generator** and a **discriminator** . The generator aims to create data resembling a reference distribution, while the discriminator distinguishes between real and generated data. The adversarial training process refines the generator to produce increasingly realistic samples.\n- **Mathematical Formulation** : The game is defined over a probability space, with the generator optimizing to minimize a loss function, while the discriminator maximizes it. The generator\u2019s goal is to approximate the reference distribution, and the discriminator\u2019s goal is to distinguish between real and generated data.\n- **Practical Implementation** : The generator creates samples from a latent space, while the discriminator evaluates them. Training involves iterative updates where the generator improves its ability to fool the discriminator, and the discriminator refines its ability to distinguish real from fake data.",
+        "text_original": "A GAN is a zero-sum game between two neural networks: a **generator** and a **discriminator**. The generator aims to create data resembling a reference distribution, while the discriminator distinguishes between real and generated data. The adversarial training process refines the generator to produce increasingly realistic samples.\n\n- **Mathematical Formulation**: The game is defined over a probability space, with the generator optimizing to minimize a loss function, while the discriminator maximizes it. The generator\u2019s goal is to approximate the reference distribution, and the discriminator\u2019s goal is to distinguish between real and generated data.\n- **Practical Implementation**: The generator creates samples from a latent space, while the discriminator evaluates them. Training involves iterative updates where the generator improves its ability to fool the discriminator, and the discriminator refines its ability to distinguish real from fake data",
+        "idx_start": 66,
+        "idx_end": 1027
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Relation to Other Methods\nGANs are **implicit generative models** , unlike alternatives like flow-based models or variational autoencoders (VAEs), which explicitly model likelihood functions. GANs can generate complete samples in one pass, unlike autoregressive models, which require multiple passes.",
+        "text_original": "GANs are **implicit generative models**, unlike alternatives like flow-based models or variational autoencoders (VAEs), which explicitly model likelihood functions. GANs can generate complete samples in one pass, unlike autoregressive models, which require multiple passes",
+        "idx_start": 1065,
+        "idx_end": 1337
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Mathematical Properties\n- **Optimal Discriminator** : The discriminator\u2019s optimal strategy is to compute the Jensen\u2013Shannon divergence between the generator and reference distributions, ensuring it maximizes its ability to distinguish them.\n- **Equilibrium** : The GAN game has a unique equilibrium where the generator perfectly mimics the reference distribution, and the discriminator outputs a fixed probability (typically 0.5), indicating no distinguishable difference.",
+        "text_original": "Optimal Discriminator**: The discriminator\u2019s optimal strategy is to compute the Jensen\u2013Shannon divergence between the generator and reference distributions, ensuring it maximizes its ability to distinguish them.\n- **Equilibrium**: The GAN game has a unique equilibrium where the generator perfectly mimics the reference distribution, and the discriminator outputs a fixed probability (typically 0.5), indicating no distinguishable difference",
+        "idx_start": 1377,
+        "idx_end": 1818
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Training and Evaluation\n- **Instability** : GANs often suffer from unstable convergence due to the adversarial nature of training. Techniques like curriculum learning, two-time-scale update rules, and Wasserstein GANs (WGAN) help stabilize training.\n- **Mode Collapse** : A common issue is mode collapse, where the generator fails to capture diverse modes of the data distribution, leading to poor generalization.\n- **Evaluation Metrics** : GANs are evaluated using metrics like Inception Score (IS) and Fr\u00e9chet Inception Distance (FID), which measure sample diversity and similarity to real data.",
+        "text_original": "Instability**: GANs often suffer from unstable convergence due to the adversarial nature of training. Techniques like curriculum learning, two-time-scale update rules, and Wasserstein GANs (WGAN) help stabilize training.\n- **Mode Collapse**: A common issue is mode collapse, where the generator fails to capture diverse modes of the data distribution, leading to poor generalization.\n- **Evaluation Metrics**: GANs are evaluated using metrics like Inception Score (IS) and Fr\u00e9chet Inception Distance (FID), which measure sample diversity and similarity to real data",
+        "idx_start": 1858,
+        "idx_end": 2423
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Variants\n- **Conditional GANs** : Allow conditional generation based on additional information (e.g., class labels).\n- **Wasserstein GAN (WGAN)** : Uses the Wasserstein distance to improve gradient stability and avoid mode collapse.\n- **CycleGAN** : Enables domain translation without paired data by enforcing cycle consistency.\n- **StyleGAN** : Uses progressive growth and style mixing to generate high-quality images with fine details.",
+        "text_original": "Conditional GANs**: Allow conditional generation based on additional information (e.g., class labels).\n- **Wasserstein GAN (WGAN)**: Uses the Wasserstein distance to improve gradient stability and avoid mode collapse.\n- **CycleGAN**: Enables domain translation without paired data by enforcing cycle consistency.\n- **StyleGAN**: Uses progressive growth and style mixing to generate high-quality images with fine details",
+        "idx_start": 2448,
+        "idx_end": 2867
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Overview\nThe Vision Transformer (ViT) replaces convolutional layers with self-attention mechanisms, breaking images into patches and processing them as tokens in a transformer architecture. ViT achieves state-of-the-art performance in image classification by capturing long-range dependencies between patches.\n- **Key Components** : ViT splits images into patches, embeds them with positional encodings, and processes them through transformer encoder layers. The final output is decoded into a classification probability distribution.",
+        "text_original": "The Vision Transformer (ViT) replaces convolutional layers with self-attention mechanisms, breaking images into patches and processing them as tokens in a transformer architecture. ViT achieves state-of-the-art performance in image classification by capturing long-range dependencies between patches.\n\n- **Key Components**: ViT splits images into patches, embeds them with positional encodings, and processes them through transformer encoder layers. The final output is decoded into a classification probability distribution",
+        "idx_start": 2927,
+        "idx_end": 3451
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Variants\n- **Masked Autoencoder (MAE)** : Uses a masked autoencoder approach to train ViT by reconstructing unmasked patches, improving efficiency and robustness.\n- **DINO** : A self-distillation method that trains ViT by aligning representations between different image crops, enhancing feature learning.\n- **Swin Transformer** : Uses sliding windows and hierarchical pooling to improve efficiency and performance in object detection tasks.",
+        "text_original": "Masked Autoencoder (MAE)**: Uses a masked autoencoder approach to train ViT by reconstructing unmasked patches, improving efficiency and robustness.\n- **DINO**: A self-distillation method that trains ViT by aligning representations between different image crops, enhancing feature learning.\n- **Swin Transformer**: Uses sliding windows and hierarchical pooling to improve efficiency and performance in object detection tasks",
+        "idx_start": 3476,
+        "idx_end": 3900
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Comparison with CNNs\nViT is more sensitive to hyperparameters and training stability but can handle larger datasets and more complex tasks. CNNs are more data-efficient and less sensitive to input distortions, while ViT excels in capturing long-range dependencies.",
+        "text_original": "ViT is more sensitive to hyperparameters and training stability but can handle larger datasets and more complex tasks. CNNs are more data-efficient and less sensitive to input distortions, while ViT excels in capturing long-range dependencies",
+        "idx_start": 3933,
+        "idx_end": 4175
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Applications\nViT is used in image classification, object detection, video analysis, and generative tasks like image synthesis. It has also been adapted for medical imaging and autonomous driving.",
+        "text_original": "ViT is used in image classification, object detection, video analysis, and generative tasks like image synthesis. It has also been adapted for medical imaging and autonomous driving",
+        "idx_start": 4200,
+        "idx_end": 4381
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Architecture\nRNNs process sequential data by maintaining a hidden state that captures temporal dependencies. They include:\n- **Standard RNN** : Processes sequences by updating hidden states iteratively.\n- **Stacked RNN** : Combines multiple RNNs to capture hierarchical temporal patterns.\n- **Bidirectional RNN (BiRNN)** : Uses two RNNs to process sequences in both directions, capturing past and future context.\n- **LSTM/GRU** : Specialized RNNs with gates to mitigate vanishing/exploding gradients.",
+        "text_original": "RNNs process sequential data by maintaining a hidden state that captures temporal dependencies. They include:\n- **Standard RNN**: Processes sequences by updating hidden states iteratively.\n- **Stacked RNN**: Combines multiple RNNs to capture hierarchical temporal patterns.\n- **Bidirectional RNN (BiRNN)**: Uses two RNNs to process sequences in both directions, capturing past and future context.\n- **LSTM/GRU**: Specialized RNNs with gates to mitigate vanishing/exploding gradients",
+        "idx_start": 4451,
+        "idx_end": 4933
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Training Methods\n- **Teacher Forcing** : Uses ground truth labels for training sequences to improve stability.\n- **Gradient Descent** : Uses backpropagation through time (BPTT) or real-time recurrent learning (RTRL) to update weights.\n- **Connectionist Temporal Classification (CTC)** : A loss function for sequence modeling tasks with variable timing.",
+        "text_original": "Teacher Forcing**: Uses ground truth labels for training sequences to improve stability.\n- **Gradient Descent**: Uses backpropagation through time (BPTT) or real-time recurrent learning (RTRL) to update weights.\n- **Connectionist Temporal Classification (CTC)**: A loss function for sequence modeling tasks with variable timing",
+        "idx_start": 4966,
+        "idx_end": 5293
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Applications\nRNNs are used in machine translation, speech recognition, time series forecasting, and natural language processing. They are also applied in robotics, bioinformatics, and anomaly detection.",
+        "text_original": "RNNs are used in machine translation, speech recognition, time series forecasting, and natural language processing. They are also applied in robotics, bioinformatics, and anomaly detection",
+        "idx_start": 5318,
+        "idx_end": 5506
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Architecture\nA VAE consists of an encoder that maps input data to a latent space and a decoder that reconstructs the input from latent representations. It uses variational inference to approximate the posterior distribution of latent variables.\n- **Key Components** : Encoder (parameterizes latent distribution), decoder (reconstructs input), and KL divergence term to ensure the latent distribution matches a prior.",
+        "text_original": "A VAE consists of an encoder that maps input data to a latent space and a decoder that reconstructs the input from latent representations. It uses variational inference to approximate the posterior distribution of latent variables.\n\n- **Key Components**: Encoder (parameterizes latent distribution), decoder (reconstructs input), and KL divergence term to ensure the latent distribution matches a prior",
+        "idx_start": 5575,
+        "idx_end": 5977
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Variations\n- **Sparse Autoencoder (SAE)** : Encourages sparsity in latent representations to improve feature learning.\n- **Contractive Autoencoder (CAE)** : Adds a contractive regularization term to make the encoder robust to input perturbations.\n- **Denoising Autoencoder (DAE)** : Trains the autoencoder to reconstruct noisy inputs, improving robustness.",
+        "text_original": "Sparse Autoencoder (SAE)**: Encourages sparsity in latent representations to improve feature learning.\n- **Contractive Autoencoder (CAE)**: Adds a contractive regularization term to make the encoder robust to input perturbations.\n- **Denoising Autoencoder (DAE)**: Trains the autoencoder to reconstruct noisy inputs, improving robustness",
+        "idx_start": 6004,
+        "idx_end": 6341
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Applications\nVAEs are used for dimensionality reduction, anomaly detection, image denoising, and generative modeling. They are also applied in drug discovery, popularity prediction, and machine translation.",
+        "text_original": "VAEs are used for dimensionality reduction, anomaly detection, image denoising, and generative modeling. They are also applied in drug discovery, popularity prediction, and machine translation",
+        "idx_start": 6366,
+        "idx_end": 6558
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Architecture\nRBFNs consist of an input layer, a hidden layer with radial basis functions (RBFs), and an output layer. RBFs are typically Gaussian functions centered at specific points in the input space.\n- **Key Components** : Input layer (real-valued vectors), hidden layer (RBFs with centers and widths), and output layer (linear combination of RBF outputs).",
+        "text_original": "RBFNs consist of an input layer, a hidden layer with radial basis functions (RBFs), and an output layer. RBFs are typically Gaussian functions centered at specific points in the input space.\n\n- **Key Components**: Input layer (real-valued vectors), hidden layer (RBFs with centers and widths), and output layer (linear combination of RBF outputs",
+        "idx_start": 6634,
+        "idx_end": 6979
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Training\nRBFNs are trained using two-step methods: first, centers are determined (e.g., via clustering), and then weights are optimized using gradient descent or pseudoinverse solutions.",
+        "text_original": "RBFNs are trained using two-step methods: first, centers are determined (e.g., via clustering), and then weights are optimized using gradient descent or pseudoinverse solutions",
+        "idx_start": 7001,
+        "idx_end": 7177
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Applications\nRBFNs are used in function approximation, time series prediction, and control theory. They are also applied in pattern recognition and interpolation tasks.",
+        "text_original": "RBFNs are used in function approximation, time series prediction, and control theory. They are also applied in pattern recognition and interpolation tasks",
+        "idx_start": 7202,
+        "idx_end": 7356
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Architecture\nGNNs process graph-structured data by aggregating information from neighboring nodes. They include:\n- **Message Passing Layers** : Update node representations by aggregating messages from neighbors.\n- **Local Pooling** : Downsample graphs to increase receptive fields.\n- **Global Pooling** : Provide fixed-size representations of the entire graph.",
+        "text_original": "GNNs process graph-structured data by aggregating information from neighboring nodes. They include:\n- **Message Passing Layers**: Update node representations by aggregating messages from neighbors.\n- **Local Pooling**: Downsample graphs to increase receptive fields.\n- **Global Pooling**: Provide fixed-size representations of the entire graph",
+        "idx_start": 7422,
+        "idx_end": 7765
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Variants\n- **Graph Convolutional Network (GCN)** : Uses spectral filtering to approximate graph convolutions.\n- **Graph Attention Network (GAT)** : Incorporates attention mechanisms to focus on important neighbors.\n- **Gated Graph Sequence Neural Network (GGS-NN)** : Extends GNNs to output sequences.",
+        "text_original": "Graph Convolutional Network (GCN)**: Uses spectral filtering to approximate graph convolutions.\n- **Graph Attention Network (GAT)**: Incorporates attention mechanisms to focus on important neighbors.\n- **Gated Graph Sequence Neural Network (GGS-NN)**: Extends GNNs to output sequences",
+        "idx_start": 7790,
+        "idx_end": 8074
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Applications\nGNNs are used in protein folding, social network analysis, cybersecurity, and computer vision. They are also applied in combinatorial optimization, drug discovery, and recommendation systems.",
+        "text_original": "GNNs are used in protein folding, social network analysis, cybersecurity, and computer vision. They are also applied in combinatorial optimization, drug discovery, and recommendation systems",
+        "idx_start": 8099,
+        "idx_end": 8289
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Architecture\nAn autoencoder consists of an encoder that compresses input data into a latent representation and a decoder that reconstructs the input from the latent code. It is trained to minimize reconstruction error.\n- **Key Components** : Encoder (reduces dimensionality), decoder (reconstructs input), and reconstruction loss (e.g., L2 loss).",
+        "text_original": "An autoencoder consists of an encoder that compresses input data into a latent representation and a decoder that reconstructs the input from the latent code. It is trained to minimize reconstruction error.\n\n- **Key Components**: Encoder (reduces dimensionality), decoder (reconstructs input), and reconstruction loss (e.g., L2 loss",
+        "idx_start": 8340,
+        "idx_end": 8671
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Variations\n- **Variational Autoencoder (VAE)** : Uses probabilistic latent variables to model data distributions.\n- **Sparse Autoencoder (SAE)** : Encourages sparsity in latent representations.\n- **Denoising Autoencoder (DAE)** : Trains to reconstruct noisy inputs.",
+        "text_original": "Variational Autoencoder (VAE)**: Uses probabilistic latent variables to model data distributions.\n- **Sparse Autoencoder (SAE)**: Encourages sparsity in latent representations.\n- **Denoising Autoencoder (DAE)**: Trains to reconstruct noisy inputs",
+        "idx_start": 8699,
+        "idx_end": 8945
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Applications\nAutoencoders are used for dimensionality reduction, anomaly detection, image processing, and generative modeling. They are also applied in drug discovery, popularity prediction, and machine translation.",
+        "text_original": "Autoencoders are used for dimensionality reduction, anomaly detection, image processing, and generative modeling. They are also applied in drug discovery, popularity prediction, and machine translation",
+        "idx_start": 8970,
+        "idx_end": 9171
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## Tsinghua University\nEstablished in 1911 in Beijing, Tsinghua University is a premier institution renowned for its excellence in engineering, computer science, AI, chemistry, business, law, and the sciences. Strong government funding and political ties support its expansive research infrastructure, including major national laboratories. The campus boasts distinctive architecture, museums, and a vibrant student life, all fostering a dynamic academic environment.",
+        "text_original": "Established in 1911 in Beijing, Tsinghua University is a premier institution renowned for its excellence in engineering, computer science, AI, chemistry, business, law, and the sciences. Strong government funding and political ties support its expansive research infrastructure, including major national laboratories. The campus boasts distinctive architecture, museums, and a vibrant student life, all fostering a dynamic academic environment",
+        "idx_start": 56,
+        "idx_end": 499
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## Zhejiang University\nFounded from Qiushi Academy in 1897 and expanded via a 1998 merger, Zhejiang University ranks among Asia\u2019s largest and most comprehensive universities. Spanning seven campuses and 17 departments, it serves over 65,000 students and is a leader in AI, biomedical sciences, and industry. Backed by government and philanthropic support, it maintains a top global ranking and counts influential figures across numerous fields among its alumni.",
+        "text_original": "Founded from Qiushi Academy in 1897 and expanded via a 1998 merger, Zhejiang University ranks among Asia\u2019s largest and most comprehensive universities. Spanning seven campuses and 17 departments, it serves over 65,000 students and is a leader in AI, biomedical sciences, and industry. Backed by government and philanthropic support, it maintains a top global ranking and counts influential figures across numerous fields among its alumni",
+        "idx_start": 526,
+        "idx_end": 963
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## Stanford University\nFounded in 1885, Stanford University is highly selective and pivotal in shaping Silicon Valley\u2019s innovation ecosystem. With 22 Nobel laureates and prominent leaders among its community, Stanford offers extensive resources, diverse student groups, and unique traditions. Despite its academic prestige, the university has contended with notable controversies, illustrating its complex legacy.",
+        "text_original": "Founded in 1885, Stanford University is highly selective and pivotal in shaping Silicon Valley\u2019s innovation ecosystem. With 22 Nobel laureates and prominent leaders among its community, Stanford offers extensive resources, diverse student groups, and unique traditions. Despite its academic prestige, the university has contended with notable controversies, illustrating its complex legacy",
+        "idx_start": 990,
+        "idx_end": 1379
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## University of Chicago\nRecognized for academic rigor\u2014especially in economics and the social sciences\u2014the University of Chicago boasts 101 Nobel laureates. With a broad array of majors, active research, and over 400 student organizations, it combines a lively campus with global engagement. Financial pressures have led to budgetary adjustments despite a substantial endowment, and student activism is ongoing.",
+        "text_original": "Recognized for academic rigor\u2014especially in economics and the social sciences\u2014the University of Chicago boasts 101 Nobel laureates. With a broad array of majors, active research, and over 400 student organizations, it combines a lively campus with global engagement. Financial pressures have led to budgetary adjustments despite a substantial endowment, and student activism is ongoing",
+        "idx_start": 1408,
+        "idx_end": 1793
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## University of California, Berkeley\nUC Berkeley, a top public research university, is credited with major technological innovations like Unix and the computer mouse. Its campus features historic sites and thriving student organizations, bolstered by philanthropy but challenged by housing shortages and fiscal complexities. Berkeley remains a leader in research and social activism.",
+        "text_original": "UC Berkeley, a top public research university, is credited with major technological innovations like Unix and the computer mouse. Its campus features historic sites and thriving student organizations, bolstered by philanthropy but challenged by housing shortages and fiscal complexities. Berkeley remains a leader in research and social activism",
+        "idx_start": 1835,
+        "idx_end": 2180
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## King\u2019s College London\nKing\u2019s College London, founded in 1829, is a globally ranked, highly selective university notable for pioneering scientific advances\u2014including key contributions to DNA structure discovery\u2014and for producing 14 Nobel laureates. Ranked 31st worldwide, it excels in graduate employability and holds a Teaching Excellence Framework gold rating. Spread across five city campuses, King\u2019s maintains historic traditions, strong student life led by an active Students' Union, affordable housing options, and a vibrant range of clubs and societies, including Europe\u2019s largest student-led think tank.",
+        "text_original": "King\u2019s College London, founded in 1829, is a globally ranked, highly selective university notable for pioneering scientific advances\u2014including key contributions to DNA structure discovery\u2014and for producing 14 Nobel laureates. Ranked 31st worldwide, it excels in graduate employability and holds a Teaching Excellence Framework gold rating. Spread across five city campuses, King\u2019s maintains historic traditions, strong student life led by an active Students' Union, affordable housing options, and a vibrant range of clubs and societies, including Europe\u2019s largest student-led think tank",
+        "idx_start": 2209,
+        "idx_end": 2796
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## California Institute of Technology (Caltech)\nCaltech is an elite STEM institution with a 2.6\u20132.7% acceptance rate, a strong honor code, and a legacy of groundbreaking research. Renowned for fostering startups in photovoltaics, semiconductors, and biotechnology, Caltech\u2019s influence extends into popular culture and media. Its community includes 48 Nobel laureates, and its collaborative campus supports unique traditions and innovation under current President Thomas F. Rosenbaum.",
+        "text_original": "Caltech is an elite STEM institution with a 2.6\u20132.7% acceptance rate, a strong honor code, and a legacy of groundbreaking research. Renowned for fostering startups in photovoltaics, semiconductors, and biotechnology, Caltech\u2019s influence extends into popular culture and media. Its community includes 48 Nobel laureates, and its collaborative campus supports unique traditions and innovation under current President Thomas F. Rosenbaum",
+        "idx_start": 2848,
+        "idx_end": 3282
+    },
+    {
+        "document_idx": null,
+        "text": "# Leading Global Universities\n## Massachusetts Institute of Technology (MIT)\nFounded in 1861, MIT is a world leader in scientific and technological innovation. It has advanced fields like AI, robotics, and genetics, and launched key initiatives such as GNU, OpenCourseWare, and LIGO. MIT\u2019s faculty and alumni have earned top honors including Nobel and Turing Awards. The institute features modern, energy-efficient facilities, guaranteed housing, a dynamic student community, substantial financial aid, and influential global partnerships.",
+        "text_original": "Founded in 1861, MIT is a world leader in scientific and technological innovation. It has advanced fields like AI, robotics, and genetics, and launched key initiatives such as GNU, OpenCourseWare, and LIGO. MIT\u2019s faculty and alumni have earned top honors including Nobel and Turing Awards. The institute features modern, energy-efficient facilities, guaranteed housing, a dynamic student community, substantial financial aid, and influential global partnerships",
+        "idx_start": 3333,
+        "idx_end": 3794
+    }
+]

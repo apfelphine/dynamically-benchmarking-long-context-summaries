@@ -1,0 +1,30 @@
+{
+  "id": 172896,
+  "title": "L. E. J. Brouwer",
+  "url": "https://en.wikipedia.org/wiki/L._E._J._Brouwer",
+  "path": "Comp-Sci-Pioneers\\l-e-j-brouwer",
+  "summary": {
+    "chars": 969,
+    "tokens": 217
+  },
+  "document": {
+    "chars": 5876,
+    "tokens": 1286
+  },
+  "infobox": {
+    "title": "L. E. J. Brouwer",
+    "data": {
+      "Born": "Luitzen Egbertus Jan Brouwer \u00b7 27 February 1881 \u00b7 Overschie, Netherlands",
+      "Died": "2 December 1966 (aged 85) \u00b7 Blaricum, Netherlands",
+      "Alma mater": "University of Amsterdam",
+      "Known for": "Brouwer\u2013Hilbert controversy \u00b7 Brouwer fixed-point theorem \u00b7 Brouwer\u2013Heyting\u2013Kolmogorov interpretation \u00b7 Jordan-Brouwer separation theorem \u00b7 Kleene\u2013Brouwer order \u00b7 Phragmen\u2013Brouwer theorem \u00b7 Tietze-Urysohn-Brouwer extension theorem \u00b7 Simplicial approximation theorem \u00b7 Bar induction \u00b7 Degree of a continuous mapping \u00b7 Indecomposability \u00b7 Indecomposable continuum \u00b7 Invariance of domain \u00b7 Spread \u00b7 Proving hairy ball theorem \u00b7 Intuitionism",
+      "Relatives": "Hendrik Albertus Brouwer (brother)",
+      "Awards": "Foreign Member of the Royal Society",
+      "Fields": "Mathematics",
+      "Institutions": "University of Amsterdam",
+      "Thesis": "Over de grondslagen der wiskunde (1907)",
+      "Doctoral advisor": "Diederik Korteweg",
+      "Doctoral students": "Arend Heyting"
+    }
+  }
+}

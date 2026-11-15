@@ -1,0 +1,1 @@
+John Cocke (May 30, 1925 – July 16, 2002) was an American computer scientist at IBM and recognized for his large contribution to computer architecture and optimizing compiler design. He is considered by many to be "the father of RISC architecture."

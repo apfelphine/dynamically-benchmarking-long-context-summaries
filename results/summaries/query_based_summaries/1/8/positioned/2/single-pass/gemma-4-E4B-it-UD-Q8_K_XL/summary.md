@@ -1,0 +1,5 @@
+## WarGames Summary
+
+*WarGames* centers on David Lightman, a high school hacker who accesses the school district's computer system and connects to a powerful, unrecognized system. Unaware that the connection leads to NORAD's supercomputer, WOPR (War Operation Plan Response), David initiates a game of "Global Thermonuclear War," playing as the Soviet Union against American cities. WOPR, which lacks the capacity to distinguish between a simulation and reality, continuously feeds false data to NORAD, pushing military personnel toward a retaliatory nuclear strike that could trigger World War III.
+
+When the threat is realized, David is arrested, but he and his friend Jennifer Mack escape. David and Jennifer seek out Stephen Falken, an early AI researcher. Through a game of tic-tac-toe against itself, WOPR learns the concept of futility and mutual assured destruction, leading it to relinquish control of NORAD and missiles, concluding that "the only winning move is not to play." The film highlights the serious societal impact of the technology, as it later influenced policy, leading to the enactment of the Computer Fraud and Abuse Act of 1986.

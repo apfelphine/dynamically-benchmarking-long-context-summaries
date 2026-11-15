@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Programming, Computing, and Microelectronics\nKenneth E. Iverson developed the APL and J programming languages, advancing concise and logical syntax that influenced global education. Grace Hopper\u2019s achievements include the creation of FLOW-MATIC and COBOL, efforts to make programming languages user-friendly, and advocacy for women in technology. Federico Faggin\u2019s innovations in silicon gate technology enabled the first Intel microprocessors and key chips like the Z80, propelling microelectronics forward. Per Brinch Hansen contributed to concurrent computing with the monitor concept and programming standards, while Lynn Conway modernized chip design through the Mead\u2013Conway VLSI methodology and promoted inclusivity in STEM.",
+        "text_original": "Kenneth E. Iverson developed the APL and J programming languages, advancing concise and logical syntax that influenced global education. Grace Hopper\u2019s achievements include the creation of FLOW-MATIC and COBOL, efforts to make programming languages user-friendly, and advocacy for women in technology. Federico Faggin\u2019s innovations in silicon gate technology enabled the first Intel microprocessors and key chips like the Z80, propelling microelectronics forward. Per Brinch Hansen contributed to concurrent computing with the monitor concept and programming standards, while Lynn Conway modernized chip design through the Mead\u2013Conway VLSI methodology and promoted inclusivity in STEM",
+        "idx_start": 61,
+        "idx_end": 745
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science and Decision Sciences\nHerbert A. Simon\u2019s concept of bounded rationality transformed decision-making, economics, psychology, and artificial intelligence, earning him both the Nobel Prize and Turing Award. Donald Knuth has shaped modern computing through seminal works like *The Art of Computer Programming* , the TeX system, and Metafont, with lasting influence on algorithms, programming, and academic practices. Edsger W. Dijkstra pioneered algorithmic concepts, structured programming, and software clarity, fundamentally influencing theoretical and practical aspects of computer science. Claude Shannon established information theory by linking Boolean algebra to digital circuits, profoundly impacting digital communication, computer design, cryptography, and artificial intelligence.",
+        "text_original": "Herbert A. Simon\u2019s concept of bounded rationality transformed decision-making, economics, psychology, and artificial intelligence, earning him both the Nobel Prize and Turing Award. Donald Knuth has shaped modern computing through seminal works like *The Art of Computer Programming*, the TeX system, and Metafont, with lasting influence on algorithms, programming, and academic practices. Edsger W. Dijkstra pioneered algorithmic concepts, structured programming, and software clarity, fundamentally influencing theoretical and practical aspects of computer science. Claude Shannon established information theory by linking Boolean algebra to digital circuits, profoundly impacting digital communication, computer design, cryptography, and artificial intelligence",
+        "idx_start": 815,
+        "idx_end": 1579
+    },
+    {
+        "document_idx": null,
+        "text": "# Innovations in Mathematics, Logic, Philosophy, and Artificial Intelligence\nGeorge Boole created Boolean algebra, foundational to digital logic. Gottlob Frege redefined mathematical logic with the sense\u2013reference distinction. Kurt G\u00f6del\u2019s completeness and incompleteness theorems revealed the limits of formal systems and shaped philosophical logic. Geoffrey Hinton advanced neural networks, AI research, and the conversation around AI safety. Al-Khwarizmi, the father of algebra, introduced essential computational concepts and the term \u201calgorithm.\u201d",
+        "text_original": "George Boole created Boolean algebra, foundational to digital logic. Gottlob Frege redefined mathematical logic with the sense\u2013reference distinction. Kurt G\u00f6del\u2019s completeness and incompleteness theorems revealed the limits of formal systems and shaped philosophical logic. Geoffrey Hinton advanced neural networks, AI research, and the conversation around AI safety. Al-Khwarizmi, the father of algebra, introduced essential computational concepts and the term \u201calgorithm",
+        "idx_start": 1661,
+        "idx_end": 2133
+    },
+    {
+        "document_idx": null,
+        "text": "# Early Engineering, Robotics, and Interdisciplinary Impact\nRamon Llull\u2019s medieval logical system anticipated computer science and influenced philosophy and voting theory. Ismail al-Jazari\u2019s automata and hydraulic inventions established core engineering principles for robotics. Jacek Karpi\u0144ski propelled Polish computing through innovative devices, despite political obstacles. George Antheil, in collaboration with Hedy Lamarr, invented frequency-hopping technology foundational to wireless communication, exemplifying the intersection of engineering and the arts.",
+        "text_original": "Ramon Llull\u2019s medieval logical system anticipated computer science and influenced philosophy and voting theory. Ismail al-Jazari\u2019s automata and hydraulic inventions established core engineering principles for robotics. Jacek Karpi\u0144ski propelled Polish computing through innovative devices, despite political obstacles. George Antheil, in collaboration with Hedy Lamarr, invented frequency-hopping technology foundational to wireless communication, exemplifying the intersection of engineering and the arts",
+        "idx_start": 2199,
+        "idx_end": 2704
+    }
+]

@@ -1,0 +1,2 @@
+The Master of the World (German: Der Herr der Welt) is a German science fiction film first released in 1934. Directed by Harry Piel, the story features a villain who is trying to conquer the world using "Überrobots". The film was released in the U.S. in 1935.
+Its themes are the ethical replacement of human labor by robots, and the threat to humanity by robots used as war machines.

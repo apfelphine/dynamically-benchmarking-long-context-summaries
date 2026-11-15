@@ -1,0 +1,11 @@
+**Transhumanism, AI, and Existential Risks:**
+Transhumanism explores posthuman evolution, life extension, and socioeconomic challenges like gerontocracy, with the technological singularity—a potential rapid evolutionary shift driven by technology and intelligence explosion—as a central theme. The concept has a long history, evolving from Stanisław Lem's *Golem XIV* (1981) to being popularized by Vernor Vinge (who formalized it in 1988 and predicted entering a "technological black hole"). Key milestones include Ray Solomonoff's 1985 "infinity point" and Vinge's influential 1993 predictions, later amplified by Bill Joy (2000) and Ray Kurzweil (2005). AI risk assessment remains critical, requiring management of dangers like unaligned superintelligence and autonomous weapon instability, despite skepticism regarding the inevitability of AGI.
+
+**AI Ethics and Governance:**
+AI ethics encompasses Machine/Robot ethics (addressing social justice for near-conscious entities) and AI welfare (the moral status of conscious AIs). Safety protocols must counter issues such as emergent misalignment, deceptive AI, and misuse. Governance efforts, like the EU's AI Act, mandate liability and collaborative efforts across sectors.
+
+**Algorithmic Fairness and Bias Mitigation:**
+Algorithmic bias, rooted in historical data, leads to unequal outcomes depending on how "fairness" is defined. This concept is multifaceted, involving Outcome/Probability-Based metrics (e.g., Demographic Parity), Group Fairness, Individual Fairness (preferring Fairness Through Awareness over Unawareness), and Causality-Based methods. Mitigation strategies are applied across three stages: Preprocessing (e.g., Reweighing), In-processing (e.g., Adversarial debiasing), and Post-processing (threshold adjustment), always balancing statistical trade-offs.
+
+**Embodied and Situated Cognition:**
+Cognitive science, guided by the 4E model (embodied, embedded, enacted, extended cognition), asserts that thought stems from sensorimotor experience and bodily states. Embodiment impacts functions like Memory, Learning (via perception-action loops), Reasoning (through motor processes), and Emotion/Motivation, with movement supporting Self-Regulation. This theory continues to face challenges regarding the binding problem and replication.

@@ -1,0 +1,5 @@
+The provided text contains extensive details about the education systems of many countries, but only offers information regarding **Education in Australia** in one dedicated section.
+
+In Australia, the responsibility for the regulation, operation, and funding of education rests with the states and territories, as the federal government lacks specific constitutional power in this area. The federal government contributes funding to non-government schools and public universities, and it subsidizes tertiary education via a national student loan scheme known as HECS.
+
+Education is structured under the Australian Qualifications Framework, which unifies qualifications across school-based education, Vocational Education and Training (VET), and tertiary education. The national Australian Curriculum has been progressively implemented since 2010 for primary and secondary schools. Compulsory attendance requirements vary by state or territory, generally ranging from the age of five to six up to fifteen to seventeen. While the majority of students attend government schools (around two-thirds), non-government sectors include Catholic and private schools.

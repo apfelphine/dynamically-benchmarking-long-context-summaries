@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding the "Edmund S. Muskie Internship Program." Therefore, no summary can be generated based strictly on the given text.

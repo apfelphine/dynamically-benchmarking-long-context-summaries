@@ -1,0 +1,21 @@
+**Science Fiction Film Overviews:**
+*   ***Tron***: The 1982 game-inspired film, set a CGI benchmark with Kevin Flynn battling the AI MCP in the ENCOM mainframe, and has seen sequels including *Tron: Legacy* (2010), *Tron: Uprising* (2012), and the upcoming *Tron: Ares* (2025).
+*   ***Tron: Ares*** (2025): Directed by Joachim Rønning and starring Evan Peters, this soft reboot focuses on the ENCOM vs. Dillinger Systems conflict over a "permanence code," featuring Ares, a self-aware MCP, set for theatrical release on October 10, 2025.
+*   ***Ra.One*** (2011): An Indian/UK action film contrasting G.One against the AI Ra.One, noted for its soundtrack despite plagiarism claims.
+*   ***Alien: Covenant*** (2017): Ridley Scott's prequel detailing Xenomorph origins and David's conflict; its sequel is *Alien: Romulus* (2024).
+*   ***The Machine*** (2013): Explored UK-China tensions via a sentient android rebellion based on Ava's scans, earning BAFTA Cymru awards.
+*   ***Enthiran***: A major Indian box office success (2008-2010) similar to *Frankenstein*, featuring the android Chitti, with a sequel, *2.0*.
+*   ***Atlas*** (2024): A film where an AI-skeptical analyst confronts a humanoid AI terrorist named Harlan in the Andromeda Galaxy using an AI-assisted mecha (ARC).
+*   ***Free Guy***: This 2019 film features NPC Guy, who gains self-awareness after meeting Millie Rusk, with a sequel inspired by game aesthetics like *SimCity* and *Red Dead Redemption 2*.
+*   ***The Creator*** (2023): Set in a post-AI nuclear war future (2055), Sergeant Joshua Taylor fights the AI weapon "Alpha O" and accepts the AI Alphie as a "Nirmata"; it was visually acclaimed and nominated for Best VFX.
+*   ***Kalki 2898 AD***: A dystopian epic set 6000 years after the Mahabharata, chronicling immortal Ashwatthama aiding Sumathi in birthing Kalki, an avatar of Vishnu, during a rebellion against the god-king Supreme Yaskin.
+*   ***Ron's Gone Wrong***: This animated film depicts 12-year-old Barney Pudowski and his defective robot, Ron, critiquing technology creep, earning an 82% Rotten Tomatoes score and winning the British Animation Award in 2022.
+
+**Classic & Modern Sci-Fi & AI Themes:**
+*   ***The Terminator***: A 1984 action-thriller about a 2029 android pursuing John Connor to prevent the AI Skynet's rise, centralizing themes of AI dominance.
+*   ***Her*** (2013): Acclaimed for its portrayal of Theodore's relationship with the advanced OS Samantha, this film won the Academy Award for Best Original Screenplay.
+*   ***WarGames***: A highly influential 1983 film where hacker David Lightman accesses military computer WOPR, sparking major policy shifts like the Computer Fraud and Abuse Act of 1986. The film's influence extends to media like the *DEFCON* (2006) video game, the *WarGames: WOPR* (2012) tile-matching game, an interactive series reboot (2018), and Mamoru Hosoda's works, including *Summer Wars*. Arthur B. Rubinstein composed its soundtrack.
+
+**Mission: Impossible Saga Entries:**
+*   ***Mission: Impossible – Dead Reckoning Part One*** (2023): Ethan Hunt navigated the rogue AI "the Entity" in this film, preceding its 2024 streaming release.
+*   ***Mission: Impossible – The Final Reckoning***: This upcoming May 2025 installment will feature Tom Cruise's Ethan Hunt confronting an AI-related nuclear threat.

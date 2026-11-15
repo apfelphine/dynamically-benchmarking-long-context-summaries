@@ -1,0 +1,2 @@
+The Cambridge Commonwealth, European & International Trust is an organization that offers scholarships to students from overseas and the Commonwealth (excluding the United Kingdom) who have been accepted for admission to the University of Cambridge in England.
+On 1 August 2013. the Cambridge Commonwealth Trust and the Cambridge Overseas Trust was merged to form "The Cambridge Commonwealth, European and International Trust". The merged entity continues to provide financial support for international students on degree courses at the University of Cambridge.

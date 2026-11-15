@@ -1,0 +1,9 @@
+[
+    {
+        "document_idx": null,
+        "text": "Donald Knuth was a computer scientist and writer, known for his foundational work in computer science theory. He was instrumental in developing *The Art of Computer Programming* , which was initially planned as a single book but expanded into a multi-volume series. Knuth also introduced the concept of \"algorithmics\" as a term for computer science.\nBeyond his theoretical contributions, Knuth was a pioneer in digital typesetting, creating the systems TeX and Metafont out of frustration with existing phototypesetting technology. He also invented the methodology of \"literate programming,\" which posits that programmers should view code as literature intended to explain the program's function to human readers.",
+        "text_original": "Donald Knuth was a computer scientist and writer, known for his foundational work in computer science theory. He was instrumental in developing *The Art of Computer Programming*, which was initially planned as a single book but expanded into a multi-volume series. Knuth also introduced the concept of \"algorithmics\" as a term for computer science.\n\nBeyond his theoretical contributions, Knuth was a pioneer in digital typesetting, creating the systems TeX and Metafont out of frustration with existing phototypesetting technology. He also invented the methodology of \"literate programming,\" which posits that programmers should view code as literature intended to explain the program's function to human readers",
+        "idx_start": 0,
+        "idx_end": 712
+    }
+]

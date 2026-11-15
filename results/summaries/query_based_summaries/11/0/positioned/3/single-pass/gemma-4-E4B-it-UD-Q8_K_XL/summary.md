@@ -1,0 +1,7 @@
+## Generative Adversarial Network (GAN) Summary
+
+A Generative Adversarial Network (GAN) is a zero-sum game involving two competing neural networks: a **generator** ($\mu_G$) and a **discriminator** ($D$). The generator's goal is to produce samples that closely match the reference data distribution ($\mu_{ref}$), while the discriminator's goal is to correctly distinguish between real samples from $\mu_{ref}$ and generated samples from $\mu_G$.
+
+The original GAN objective function is defined as $L(\mu_G, \mu_D)=\mathbb{E}_{x\sim \mu_{ref}}[\ln D(x)]+\mathbb{E}_{x\sim \mu_G}[\ln(1-D(x))]$. At equilibrium, the generator perfectly mimics the reference distribution ($\mu_G = \mu_{ref}$), and the discriminator outputs $1/2$ everywhere. In practice, GANs can suffer from issues like mode collapse or vanishing gradients.
+
+Variants address these challenges: the **Wasserstein GAN (WGAN)** uses the Wasserstein metric, defining the discriminator's strategy set as functions with a bounded Lipschitz norm ($\|D\|_L \leq K$), and utilizes the objective $L_{WGAN}(\mu_G,D):=\mathbb{E}_{x\sim \mu_G}[D(x)]-\mathbb{E}_{x\sim \mu_{ref}}[D(x)]$. Other variants include **Conditional GANs** (which generate samples based on additional class labels) and **CycleGANs** (which perform translations between two domains without paired training data).

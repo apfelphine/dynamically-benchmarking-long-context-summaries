@@ -1,0 +1,7 @@
+## Education in Nigeria
+
+**System Structure and Examinations:**
+The Nigerian education system features a structure that, under review, moves toward a 9-3-4 system, while the Federal Government policy generally follows a 6 years of elementary school followed by six years of secondary school (JSS1-JSS3 and SSS1-SSS3). Examinations include the Senior Secondary Certificate Examination (SSCE), conducted by the West African Examination Council (WAEC), and the General Certificate of Education Examination (GCE). Academic adequacy for university entry is considered achieved by securing credit grades and above in these examinations.
+
+**Tertiary and Vocational Education:**
+Tertiary education is governed by the Federal Government and includes Universities (public and private), Polytechnics, Monotechnics, and Colleges of education. The Nigerian Universities Commission oversees the list of approved universities. Vocational training is a major form of education, overseen by the National Board for Technical Education, with students pursuing National Technical Certificates or Advanced National Technical Certificates administered by NABTEB. Furthermore, informal education and literacy programs are prevalent, though implementation of literacy and vocational programs is often stalled by funding challenges and political instability.

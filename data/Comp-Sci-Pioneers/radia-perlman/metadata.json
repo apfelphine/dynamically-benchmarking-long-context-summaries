@@ -1,0 +1,27 @@
+{
+  "id": 4236111,
+  "title": "Radia Perlman",
+  "url": "https://en.wikipedia.org/wiki/Radia_Perlman",
+  "path": "Comp-Sci-Pioneers\\radia-perlman",
+  "summary": {
+    "chars": 1357,
+    "tokens": 289
+  },
+  "document": {
+    "chars": 10407,
+    "tokens": 2168
+  },
+  "infobox": {
+    "title": "Radia Perlman",
+    "data": {
+      "Born": "December 18, 1951 \u00b7 Portsmouth, Virginia, US",
+      "Alma mater": "MIT",
+      "Known for": "Network and security protocols; computer books",
+      "Awards": "Internet Hall of Fame \u00b7 National Inventors Hall of Fame",
+      "Fields": "Computer Science",
+      "Institutions": "Intel",
+      "Thesis": "Network layer protocols with Byzantine robustness (1988)",
+      "Doctoral advisor": "David D. Clark"
+    }
+  }
+}

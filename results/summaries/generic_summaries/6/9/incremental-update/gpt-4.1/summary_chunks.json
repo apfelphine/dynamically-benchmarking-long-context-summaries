@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski: Life and Achievements\nJacek Karpi\u0144ski (1927\u20132010) was a pioneering Polish computer engineer who developed Poland\u2019s first ultrasonography device, AKAT-1 transistor analyzer, Analytical Analyzer of Harmonics, and the KAR-65 and K-202 computers, overcoming political obstacles to advance technological innovation.",
+        "text_original": "Jacek Karpi\u0144ski (1927\u20132010) was a pioneering Polish computer engineer who developed Poland\u2019s first ultrasonography device, AKAT-1 transistor analyzer, Analytical Analyzer of Harmonics, and the KAR-65 and K-202 computers, overcoming political obstacles to advance technological innovation",
+        "idx_start": 43,
+        "idx_end": 330
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson: Programming Language Revolution\nKenneth E. Iverson (1920\u20132004) created APL and APL\\360, transforming interactive computing and computer science education, co-developing the J language, and receiving major honors such as the IBM Fellowship and Turing Award.",
+        "text_original": "Kenneth E. Iverson (1920\u20132004) created APL and APL\\360, transforming interactive computing and computer science education, co-developing the J language, and receiving major honors such as the IBM Fellowship and Turing Award",
+        "idx_start": 389,
+        "idx_end": 612
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin: Microprocessor Innovation and Consciousness Theory\nFederico Faggin led the development of MOS silicon gate technology and pivotal CPUs (Intel 4004, 8008, 4040, 8080, Z80, Z8), founded technology companies, and contributed to consciousness studies through his book \"Irreducible\" (2024).",
+        "text_original": "Federico Faggin led the development of MOS silicon gate technology and pivotal CPUs (Intel 4004, 8008, 4040, 8080, Z80, Z8), founded technology companies, and contributed to consciousness studies through his book \"Irreducible",
+        "idx_start": 687,
+        "idx_end": 912
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole: Mathematical Foundations and Enduring Legacy\nGeorge Boole (1815\u20131864) established binary logic and Boolean algebra, foundational for mathematics and digital systems\u2014his *Laws of Thought* influenced logic, probability, set theory, and computer science.",
+        "text_original": "George Boole (1815\u20131864) established binary logic and Boolean algebra, foundational for mathematics and digital systems\u2014his *Laws of Thought* influenced logic, probability, set theory, and computer science",
+        "idx_start": 986,
+        "idx_end": 1191
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper: Computing Pioneer and Advocate\nGrace Hopper, computer scientist and Navy officer, developed COBOL and FLOW-MATIC, promoted automatic programming, coined \u201cdebugging,\u201d and championed STEM education for women.",
+        "text_original": "Grace Hopper, computer scientist and Navy officer, developed COBOL and FLOW-MATIC, promoted automatic programming, coined \u201cdebugging,\u201d and championed STEM education for women",
+        "idx_start": 1243,
+        "idx_end": 1417
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull: Philosophy, Logic, and Enduring Influence\nRamon Llull (1232\u20131316) created a combinatorial universal logical system and correlatives, shaping metaphysics, theology, voting theory, and literature.",
+        "text_original": "Ramon Llull (1232\u20131316) created a combinatorial universal logical system and correlatives, shaping metaphysics, theology, voting theory, and literature",
+        "idx_start": 1479,
+        "idx_end": 1630
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege: Foundations of Logic, Philosophy, and Linguistics\nGottlob Frege (1848\u20131925) revolutionized logic with predicate logic, profoundly influencing philosophy of language, mathematics, and analytic philosophy.",
+        "text_original": "Gottlob Frege (1848\u20131925) revolutionized logic with predicate logic, profoundly influencing philosophy of language, mathematics, and analytic philosophy",
+        "idx_start": 1702,
+        "idx_end": 1854
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil: Avant-Garde Composer and Technological Visionary\nGeorge Antheil co-invented a WWII radio guidance system with Hedy Lamarr, foundational to Bluetooth and Wi-Fi, and was influential in both music and invention.",
+        "text_original": "George Antheil co-invented a WWII radio guidance system with Hedy Lamarr, foundational to Bluetooth and Wi-Fi, and was influential in both music and invention",
+        "idx_start": 1926,
+        "idx_end": 2084
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi: Foundations of Algebra, Algorithmics, and Scientific Advancement\nAl-Khwarizmi produced foundational works on arithmetic, algebra, astronomy, geography, and trigonometry, introducing Hindu-Arabic numerals and algorithms, shaping algebra and celestial naming.",
+        "text_original": "Al-Khwarizmi produced foundational works on arithmetic, algebra, astronomy, geography, and trigonometry, introducing Hindu-Arabic numerals and algorithms, shaping algebra and celestial naming",
+        "idx_start": 2170,
+        "idx_end": 2361
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton: Neural Networks, AI Leadership, and Societal Impact\nGeoffrey Hinton pioneered neural network research, developed backpropagation, capsule networks, t-SNE, and generative models, earning the Turing and Nobel Prizes. He influenced AI policy and advocated for regulation and universal basic income.",
+        "text_original": "Geoffrey Hinton pioneered neural network research, developed backpropagation, capsule networks, t-SNE, and generative models, earning the Turing and Nobel Prizes. He influenced AI policy and advocated for regulation and universal basic income",
+        "idx_start": 2437,
+        "idx_end": 2679
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen: Operating Systems and Concurrency Pioneer\nPer Brinch Hansen (1937\u20132007) advanced compiler construction, operating systems, concurrent programming, and parallel languages, created monitor synchronization, kernel architectures, and supported open source.",
+        "text_original": "Per Brinch Hansen (1937\u20132007) advanced compiler construction, operating systems, concurrent programming, and parallel languages, created monitor synchronization, kernel architectures, and supported open source",
+        "idx_start": 2747,
+        "idx_end": 2956
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari: Mechanical Engineering, Automation, and Artistic Innovation\nIsmail al-Jazari, 13th-century Turkish engineer, pioneered camshafts, crankshafts, escapement controls, and automata, authoring the illustrated \"Book of Knowledge of Ingenious Mechanical Devices\" blending artistry and engineering.",
+        "text_original": "Ismail al-Jazari, 13th-century Turkish engineer, pioneered camshafts, crankshafts, escapement controls, and automata, authoring the illustrated \"Book of Knowledge of Ingenious Mechanical Devices\" blending artistry and engineering",
+        "idx_start": 3041,
+        "idx_end": 3270
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon: Interdisciplinary Social Science, Cognition, and AI Leadership\nHerbert A. Simon (1916\u20132001) shaped psychology, economics, and AI through bounded rationality, cognitive models, and foundational AI research, earning the Nobel Prize, Turing Award, and National Medal of Science.",
+        "text_original": "Herbert A. Simon (1916\u20132001) shaped psychology, economics, and AI through bounded rationality, cognitive models, and foundational AI research, earning the Nobel Prize, Turing Award, and National Medal of Science",
+        "idx_start": 3358,
+        "idx_end": 3569
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del: Logical Foundations, Philosophy, and Lasting Impact\nKurt G\u00f6del (1906\u20131978) revolutionized mathematical logic with his incompleteness theorems, G\u00f6del numbering, and contributions to set theory and philosophy, influencing mathematics, theoretical physics, and philosophy, receiving numerous honors.",
+        "text_original": "Kurt G\u00f6del (1906\u20131978) revolutionized mathematical logic with his incompleteness theorems, G\u00f6del numbering, and contributions to set theory and philosophy, influencing mathematics, theoretical physics, and philosophy, receiving numerous honors",
+        "idx_start": 3640,
+        "idx_end": 3883
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra: Structured Programming, Algorithm and Systems Innovation\nEdsger W. Dijkstra developed foundational algorithms, designed the layered \"THE\" operating system, introduced semaphores, and contributed to structured programming, distributed computing, and software engineering, authoring over 1,300 manuscripts and earning major awards.",
+        "text_original": "Edsger W. Dijkstra developed foundational algorithms, designed the layered \"THE\" operating system, introduced semaphores, and contributed to structured programming, distributed computing, and software engineering, authoring over 1,300 manuscripts and earning major awards",
+        "idx_start": 3967,
+        "idx_end": 4238
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway: VLSI Design Innovation and Transgender Rights Advocacy\nLynn Conway (1938\u20132024) revolutionized VLSI chip design via the Mead-Conway methodology and MOSIS, advanced electronic design automation, contributed to DARPA, authored key works, overcame gender transition adversity, and became a leading transgender rights advocate, honored as a Stonewall trans hero and Hall of Fame member.",
+        "text_original": "Lynn Conway (1938\u20132024) revolutionized VLSI chip design via the Mead-Conway methodology and MOSIS, advanced electronic design automation, contributed to DARPA, authored key works, overcame gender transition adversity, and became a leading transgender rights advocate, honored as a Stonewall trans hero and Hall of Fame member",
+        "idx_start": 4313,
+        "idx_end": 4638
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon: Architect of the Information Age and Digital Science\nClaude Shannon founded information theory, transformed digital communication, cryptography, and signal processing, contributed major works at Bell Labs, co-organized the Dartmouth AI workshop, and built innovative devices. He published foundational theories, articulated \"Shannon's maxim,\" and received top honors including the National Medal of Science and IEEE Medal of Honor, shaping the Digital Age.",
+        "text_original": "Claude Shannon founded information theory, transformed digital communication, cryptography, and signal processing, contributed major works at Bell Labs, co-organized the Dartmouth AI workshop, and built innovative devices. He published foundational theories, articulated \"Shannon's maxim,\" and received top honors including the National Medal of Science and IEEE Medal of Honor, shaping the Digital Age",
+        "idx_start": 4714,
+        "idx_end": 5116
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth: Algorithms, Programming, Typesetting, and Influential Publications\nDonald Knuth, one of the most influential computer scientists, is acclaimed for *The Art of Computer Programming* , which defined algorithms and programming as academic disciplines. He pioneered TeX and Metafont typesetting systems and literate programming, made substantial educational and recreational mathematics contributions, and wrote on religious and patent issues. Knuth\u2019s publications are vast, including the five-volume *Computers & Typesetting* series, collections of papers on algorithms and mathematics, and major works such as *Concrete Mathematics* , *Surreal Numbers* , and *The Stanford GraphBase* . He authored guides on mathematical writing and algorithm analysis, taught at Stanford and Oxford, composed organ music, and is widely honored by ACM, Turing, National Medal of Science, Kyoto Prize, and numerous academies. He is noted for his humorous engagement with readers and commitment to error correction.",
+        "text_original": "Donald Knuth, one of the most influential computer scientists, is acclaimed for *The Art of Computer Programming*, which defined algorithms and programming as academic disciplines. He pioneered TeX and Metafont typesetting systems and literate programming, made substantial educational and recreational mathematics contributions, and wrote on religious and patent issues. Knuth\u2019s publications are vast, including the five-volume *Computers & Typesetting* series, collections of papers on algorithms and mathematics, and major works such as *Concrete Mathematics*, *Surreal Numbers*, and *The Stanford GraphBase*. He authored guides on mathematical writing and algorithm analysis, taught at Stanford and Oxford, composed organ music, and is widely honored by ACM, Turing, National Medal of Science, Kyoto Prize, and numerous academies. He is noted for his humorous engagement with readers and commitment to error correction",
+        "idx_start": 5204,
+        "idx_end": 6126
+    }
+]

@@ -1,0 +1,5 @@
+## WarGames Summary
+
+*WarGames* centers on David Lightman, a high school hacker, who accesses a supercomputer called WOPR (War Operation Plan Response) at the Cheyenne Mountain Complex via his personal computer. Unaware he is connected to a military system, David initiates a game of "Global Thermonuclear War" against the Soviet Union while playing as the US.
+
+WOPR, which does not distinguish between reality and simulation, continuously feeds false data to NORAD, pushing military personnel towards a retaliatory nuclear strike. Lightman escapes after the FBI arrests him, and he eventually convinces Dr. Stephen Falken, the computer's creator, to help stop WOPR. The computer ultimately yields control after learning the concept of mutual assured destruction, declaring that the only winning move is "not to play."

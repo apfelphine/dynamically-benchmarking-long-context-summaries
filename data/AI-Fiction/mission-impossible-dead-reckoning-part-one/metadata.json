@@ -1,0 +1,35 @@
+{
+  "id": 61711372,
+  "title": "Mission: Impossible \u2013 Dead Reckoning Part One",
+  "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Dead_Reckoning_Part_One",
+  "path": "AI-Fiction\\mission-impossible-dead-reckoning-part-one",
+  "summary": {
+    "chars": 1783,
+    "tokens": 403
+  },
+  "document": {
+    "chars": 36244,
+    "tokens": 7430
+  },
+  "infobox": {
+    "title": "Mission: Impossible \u2013 Dead Reckoning Part One",
+    "data": {
+      "Directed by": "Christopher McQuarrie",
+      "Written by": "- Christopher McQuarrie - Erik Jendresen",
+      "Based on": "Mission: Impossible \u00b7 by Bruce Geller",
+      "Produced by": "- Tom Cruise - Christopher McQuarrie",
+      "Starring": "- Tom Cruise - Hayley Atwell - Ving Rhames - Simon Pegg - Rebecca Ferguson - Vanessa Kirby - Henry Czerny",
+      "Cinematography": "Fraser Taggart",
+      "Edited by": "Eddie Hamilton",
+      "Music by": "Lorne Balfe",
+      "Production \u00b7 companies": "- Paramount Pictures - Skydance - TC Productions",
+      "Distributed by": "Paramount Pictures",
+      "Release dates": "- June 19, 2023 (Rome) - July 12, 2023 (United States)",
+      "Running time": "163 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$291 million (gross) $220 million (net)",
+      "Box office": "$571.1 million"
+    }
+  }
+}

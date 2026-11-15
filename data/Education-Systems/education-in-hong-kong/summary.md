@@ -1,0 +1,2 @@
+Education in Hong Kong used to be largely modelled on that of the United Kingdom, particularly the English system. Since 2012, the overhaul of secondary school diploma has introduced changes to the number of school years as well as the two-tier general examinations. The DSE has replaced the old HKCEE (similar to the UK's GCSE) and the A-levels. Education policy in Hong Kong is overseen by the Education Bureau and the Social Welfare Department.
+The academic year begins mid-year, usually starting in September.

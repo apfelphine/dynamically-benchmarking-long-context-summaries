@@ -1,0 +1,23 @@
+{
+  "id": 40652604,
+  "title": "Willis Ware",
+  "url": "https://en.wikipedia.org/wiki/Willis_Ware",
+  "path": "Comp-Sci-Pioneers\\willis-ware",
+  "summary": {
+    "chars": 377,
+    "tokens": 85
+  },
+  "document": {
+    "chars": 8331,
+    "tokens": 1960
+  },
+  "infobox": {
+    "title": "HG Willis",
+    "data": {
+      "Born": "August 31, 1920 \u00b7 Atlantic City, New Jersey",
+      "Died": "November 22, 2013 (aged 93) \u00b7 Santa Monica, California",
+      "Alma mater": "- B.S. in electrical engineering, University of Pennsylvania - M.S. in electrical engineering, MIT - Ph.D., Princeton University",
+      "Known for": "Privacy Act of 1974"
+    }
+  }
+}

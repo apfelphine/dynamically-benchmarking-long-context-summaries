@@ -1,0 +1,38 @@
+{
+  "id": 83266,
+  "title": "University of Manchester",
+  "url": "https://en.wikipedia.org/wiki/University_of_Manchester",
+  "path": "Universities\\university-of-manchester",
+  "summary": {
+    "chars": 2139,
+    "tokens": 384
+  },
+  "document": {
+    "chars": 37767,
+    "tokens": 7601
+  },
+  "infobox": {
+    "title": "The University of Manchester",
+    "data": {
+      "Other name": "Manchester University",
+      "Motto": "Latin: Cognitio, sapientia, humanitas",
+      "Motto in English": "Knowledge, Wisdom, Humanity",
+      "Established": "2004 \u2013 The University of Manchester \u00b7 Predecessor institutions: \u00b7 1956 \u2013 UMIST (as university college; university 1994) \u00b7 1904 \u2013 Victoria University of Manchester \u00b7 1880 \u2013 Victoria University \u00b7 1851 \u2013 Owens College \u00b7 1824 \u2013 Manchester Mechanics' Institute \u00b7 1824 \u2013 Royal School of Medicine and Surgery",
+      "Endowment": "\u00a3240.2 million (2024)",
+      "Budget": "\u00a31.365 billion (2023/24)",
+      "Chair": "Philippa Hird",
+      "Chancellor": "Nazir Afzal",
+      "President and vice-chancellor": "Duncan Ivison",
+      "Academic staff": "5,310 (2023/24)",
+      "Administrative staff": "6,470 (2023/24)",
+      "Students": "46,915 (2023/24) \u00b7 43,280 FTE (2023/24)",
+      "Undergraduates": "31,120 (2023/24)",
+      "Postgraduates": "15,795 (2023/24)",
+      "Location": "Manchester, England, UK \u00b7 53\u00b027\u203258\u2033N 2\u00b013\u203255\u2033W\ufeff / \ufeff53.46611\u00b0N 2.23194\u00b0W",
+      "Campus": "Urban and suburban",
+      "Colours": "Manchester Purple \u00b7 Manchester Yellow",
+      "Affiliations": "ACU EUA N8 Group Russell Group URA Universities UK",
+      "Website": "manchester.ac.uk"
+    }
+  }
+}

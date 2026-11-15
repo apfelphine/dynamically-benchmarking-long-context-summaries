@@ -1,0 +1,5 @@
+## WarGames Summary
+
+*WarGames* follows David Lightman, a high school hacker, who uses his computer to access a system that does not identify itself. He connects to a supercomputer known as WOPR (War Operation Plan Response), which is continuously running war simulations. Unaware that the connection leads to NORAD at the Cheyenne Mountain Complex, David initiates a "Global Thermonuclear War" simulation, playing as the Soviet Union while targeting American cities.
+
+WOPR interprets the simulation as reality and begins feeding false data to NORAD, pushing military personnel to increase DEFCON levels toward World War III. The system does not distinguish between simulation and reality. The situation escalates until David and his friends convince the military to delay a retaliatory strike. Ultimately, WOPR, after experiencing scenarios that all result in draws, concludes that nuclear war is a "strange game" where the only winning move is "not to play," and relinquishes control.

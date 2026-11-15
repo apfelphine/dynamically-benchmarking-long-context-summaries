@@ -1,0 +1,37 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Influential Figures in Computing, Mathematics, and Technology\n## Foundational Mathematicians and Logicians\nAl-Khwarizmi established algebra as a formal discipline and introduced core numerical concepts, shaping mathematics in both Islamic and European traditions. Kurt G\u00f6del\u2019s incompleteness theorems fundamentally transformed mathematical logic, while Gottlob Frege and George Boole pioneered predicate logic and Boolean algebra, crucial to modern analytic philosophy and computer science. Ramon Llull\u2019s combinatorial logical system anticipated early computational theory and influenced logic, literature, and philosophy in Europe.",
+        "text_original": "Al-Khwarizmi established algebra as a formal discipline and introduced core numerical concepts, shaping mathematics in both Islamic and European traditions. Kurt G\u00f6del\u2019s incompleteness theorems fundamentally transformed mathematical logic, while Gottlob Frege and George Boole pioneered predicate logic and Boolean algebra, crucial to modern analytic philosophy and computer science. Ramon Llull\u2019s combinatorial logical system anticipated early computational theory and influenced logic, literature, and philosophy in Europe",
+        "idx_start": 111,
+        "idx_end": 635
+    },
+    {
+        "document_idx": null,
+        "text": "# Influential Figures in Computing, Mathematics, and Technology\n## Architects of Computational Theory and Programming\nClaude Shannon founded information theory and applied Boolean algebra to technology, profoundly influencing modern computation and telecommunications. Edsger W. Dijkstra advanced software engineering through structured programming and critical algorithms, while Donald Knuth elevated computational creativity through contributions in algorithms and digital typesetting (TeX). Kenneth E. Iverson developed APL and J programming languages, driving innovations in interactive programming and education.",
+        "text_original": "Claude Shannon founded information theory and applied Boolean algebra to technology, profoundly influencing modern computation and telecommunications. Edsger W. Dijkstra advanced software engineering through structured programming and critical algorithms, while Donald Knuth elevated computational creativity through contributions in algorithms and digital typesetting (TeX). Kenneth E. Iverson developed APL and J programming languages, driving innovations in interactive programming and education",
+        "idx_start": 693,
+        "idx_end": 1191
+    },
+    {
+        "document_idx": null,
+        "text": "# Influential Figures in Computing, Mathematics, and Technology\n## Innovators in Artificial Intelligence and Decision Sciences\nHerbert A. Simon bridged multiple disciplines, redefining decision sciences with the concept of bounded rationality, and contributed to early AI development. Geoffrey Hinton propelled neural networks and AI research, advocating for ethical oversight and receiving top scientific honors.",
+        "text_original": "Herbert A. Simon bridged multiple disciplines, redefining decision sciences with the concept of bounded rationality, and contributed to early AI development. Geoffrey Hinton propelled neural networks and AI research, advocating for ethical oversight and receiving top scientific honors",
+        "idx_start": 1258,
+        "idx_end": 1543
+    },
+    {
+        "document_idx": null,
+        "text": "# Influential Figures in Computing, Mathematics, and Technology\n## Pioneers in Hardware, Microelectronics, and Algorithms\nGrace Hopper democratized programming via the invention of compilers and development of COBOL, setting standards for military and commercial computing. Federico Faggin invented MOS silicon-gate technology and the first microprocessor\u2014key milestones recognized with international awards. Lynn Conway redefined VLSI chip design and advocated for inclusion and ethical standards, significantly impacting technology and society. Jacek Karpi\u0144ski innovated minicomputer design despite facing political challenges in Poland.",
+        "text_original": "Grace Hopper democratized programming via the invention of compilers and development of COBOL, setting standards for military and commercial computing. Federico Faggin invented MOS silicon-gate technology and the first microprocessor\u2014key milestones recognized with international awards. Lynn Conway redefined VLSI chip design and advocated for inclusion and ethical standards, significantly impacting technology and society. Jacek Karpi\u0144ski innovated minicomputer design despite facing political challenges in Poland",
+        "idx_start": 1605,
+        "idx_end": 2121
+    },
+    {
+        "document_idx": null,
+        "text": "# Influential Figures in Computing, Mathematics, and Technology\n## Leaders in Concurrent and Distributed Computing and Engineering\nPer Brinch Hansen introduced core concepts in concurrent computing, including monitors and operating system kernels, establishing standards that influence modern programming languages. Ismail al-Jazari\u2019s mechanical inventions\u2014such as automata and water clocks\u2014set foundations in engineering, while George Antheil\u2019s work merged musical composition with wireless communication technology.\nCollectively, these transformative individuals shaped mathematics, computing, AI, and engineering, laying foundational concepts and systems that drive technological progress and societal evolution. Their interdisciplinary legacies continue to inspire innovation and cross-disciplinary research.",
+        "text_original": "Per Brinch Hansen introduced core concepts in concurrent computing, including monitors and operating system kernels, establishing standards that influence modern programming languages. Ismail al-Jazari\u2019s mechanical inventions\u2014such as automata and water clocks\u2014set foundations in engineering, while George Antheil\u2019s work merged musical composition with wireless communication technology.\n\n---\n\nCollectively, these transformative individuals shaped mathematics, computing, AI, and engineering, laying foundational concepts and systems that drive technological progress and societal evolution. Their interdisciplinary legacies continue to inspire innovation and cross-disciplinary research",
+        "idx_start": 2192,
+        "idx_end": 2878
+    }
+]

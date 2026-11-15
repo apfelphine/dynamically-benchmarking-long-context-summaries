@@ -1,0 +1,7 @@
+## King's Scholar
+
+King's Scholar is a designation with historical roots tracing back to 7 July 1317, when King Edward II established the first King's Scholars at the University of Cambridge. Later, in 1440, King Henry VI founded Eton College, which began providing free education to "poor, scholarly boys," leading to the establishment of the King's Scholar role at Eton.
+
+At Eton College, a King's Scholar (or "Colleger," nicknamed "tug") is admitted after passing the College Election examination and is housed in the original central College building. There are generally about 70 King's Scholars, with about 14 admitted each year at age 13. These scholars are distinguished by wearing a black academic gown and have specific privileges, such as dining in College Hall. Historically, a Foundation Scholarship provided a full waiver of fees, though since the 1960s, this has been subject to means testing.
+
+The term "King's Scholar" is also used for undergraduates at King's College Cambridge who achieve first-class degrees, receiving a prize and attending a formal ceremony. Furthermore, seven King's Schools (Canterbury, Chester, Ely, Gloucester, Peterborough, Rochester, and Worcester) award King's Scholarships in recognition of academic or musical attainment. At King's Ely, scholars are awarded based on GCSE grades, and at King's School, Canterbury, scholars receive their admittance at a special cathedral service.

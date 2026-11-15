@@ -1,0 +1,13 @@
+Jacek Karpiński was a Polish alpinist and engineer born in 1927 in Turin, Italy. His father, Adam Karpiński, was a pioneering aeronautic engineer and inventor, while his mother, Wanda Czarnocka-Karpińska, was a respected physician and later Dean of the University of Physical Education in Warsaw. The family moved to Warsaw in 1934, where his father died during a Himalayan expedition in 1939.
+
+During World War II, Karpiński joined the Gray Ranks, a Polish underground paramilitary organization, and participated in numerous resistance operations, including the Warsaw Uprising, where he was wounded and paralyzed. He was awarded the Cross of Valour three times.
+
+After the war, he studied engineering and worked at the Polish Academy of Sciences, where he developed several significant technological projects. His first independent project, the AAH (Analytical Analyzer of Harmonics), improved weather forecasting precision by 10%. His breakthrough achievement was the construction of AKAT-1, the world's first differential equations analyzer based on transistors, which was praised for its innovation and design.
+
+In 1960, Karpiński was awarded the UNESCO scholarship to study in the United States, where he met leading computer scientists such as John Eckert and Claude Shannon. Inspired by his American experience, he designed the Polish perceptron, one of the first such devices in the world, and later developed the KAR-65 computer, which was the fastest Polish computer at the time.
+
+Karpiński also founded the Microcomputers' Construction Plant (Zakład Budowy Mikrokomputerów) in 1970 to develop the K-202 minicomputer, a small, affordable, and modular system. Despite its technical excellence, the project failed to reach mass production due to political and administrative challenges, including opposition from established computer firms and lack of industrial support.
+
+Karpiński faced controversies related to his work as a secret informant for the Polish intelligence service (Służba Bezpieczeństwa), where he provided technological data on American facilities. He was also a subject of debate regarding the true scale of his engineering achievements, with some claiming his work was superior to Western counterparts.
+
+Later in life, he worked in animal husbandry and advised on computer science, and in 2009 was awarded the Officer's Cross of Polonia Restituta. He died on 21 February 2010 in Wrocław. In 2010, he was posthumously awarded the Commander's Cross of Polonia Restituta, the third-highest honor in Poland.

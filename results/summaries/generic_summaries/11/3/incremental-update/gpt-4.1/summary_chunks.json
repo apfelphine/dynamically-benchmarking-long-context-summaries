@@ -1,0 +1,65 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary\nNeural networks have progressed from foundational models like Hopfield networks, pivotal for associative memory and energy minimization, to a rich suite of architectures\u2014including Elman/Jordan RNNs, LSTM, GRU, bidirectional RNNs, transformers, and PixelRNN\u2014fueling breakthroughs in sequence modeling for tasks such as translation, speech recognition, robotics, and generative applications. Training techniques like teacher forcing, backpropagation through time (BPTT), real-time recurrent learning (RTRL), CTC, and genetic algorithms have enabled these advancements.",
+        "text_original": "Neural networks have progressed from foundational models like Hopfield networks, pivotal for associative memory and energy minimization, to a rich suite of architectures\u2014including Elman/Jordan RNNs, LSTM, GRU, bidirectional RNNs, transformers, and PixelRNN\u2014fueling breakthroughs in sequence modeling for tasks such as translation, speech recognition, robotics, and generative applications. Training techniques like teacher forcing, backpropagation through time (BPTT), real-time recurrent learning (RTRL), CTC, and genetic algorithms have enabled these advancements",
+        "idx_start": 12,
+        "idx_end": 577
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Vision Models: CNNs and Vision Transformers\nConvolutional Neural Networks (CNNs) excel in pattern recognition through locality, weight sharing, pooling, and nonlinear activations, further enhanced by techniques including depthwise separable convolutions, transfer learning, attention mechanisms, and various regularization strategies (weight decay, dropout, augmentation, early stopping). Large-scale benchmarks such as MNIST and ImageNet catalyzed their improvement.\nVision Transformers (ViTs) leverage self-attention across image patches for global context modeling. Advanced variants\u2014including Swin Transformer (hierarchical shifted windows), TimeSformer (spatial-temporal attention), ViT-VQGAN (ViT encoding with GANs), CoAtNet, CvT, and Transformer-in-Transformer\u2014expand capabilities to video and generative image tasks. ViTs often outperform CNNs in tasks needing global context and show resilience to image distortions, scaling effectively to multimodal applications (classification, detection, segmentation, synthesis, climate modeling).",
+        "text_original": "Convolutional Neural Networks (CNNs) excel in pattern recognition through locality, weight sharing, pooling, and nonlinear activations, further enhanced by techniques including depthwise separable convolutions, transfer learning, attention mechanisms, and various regularization strategies (weight decay, dropout, augmentation, early stopping). Large-scale benchmarks such as MNIST and ImageNet catalyzed their improvement.\n\nVision Transformers (ViTs) leverage self-attention across image patches for global context modeling. Advanced variants\u2014including Swin Transformer (hierarchical shifted windows), TimeSformer (spatial-temporal attention), ViT-VQGAN (ViT encoding with GANs), CoAtNet, CvT, and Transformer-in-Transformer\u2014expand capabilities to video and generative image tasks. ViTs often outperform CNNs in tasks needing global context and show resilience to image distortions, scaling effectively to multimodal applications (classification, detection, segmentation, synthesis, climate modeling",
+        "idx_start": 629,
+        "idx_end": 1629
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Vision Models: CNNs and Vision Transformers\n### ViT Training, Interpretability & Explainability\nTraining strategies (Global Average Pooling, Multihead Attention Pooling) and self-supervised methods (Masked Autoencoders, DINO) accelerate progress, while hybrid and multimodal models (Perceiver, DALL-E, Muse, Parti, Phenaki) extend flexibility.\n**Model Explainability** :\n- **Class Activation Mapping (CAM):** Produces class-specific heatmaps but is limited to GAP-based architectures and may require retraining.\n- **Grad-CAM:** Applies gradient-based localization to differentiable CNN layers, including pre-trained models, for flexible but sometimes coarse visualization.\n- **Grad-CAM++:** Refines Grad-CAM by using higher-order derivatives for more accurate importance weights, enhancing object localization with gradients.\n- **Score-CAM:** Weighs feature maps using confidence scores from masked images, offering gradient-free heatmaps but at the cost of speed and sometimes lower interpretability.\n- **LayerCAM:** Utilizes positive gradients from various convolutional layers for higher precision and resolution heatmaps.\n- **Guided Grad-CAM and Grad-CAM++:** Further combine gradient techniques for nuanced, multi-object localization.\n- **Saliency Maps & Guided Backpropagation:** Highlight influential pixels and offer fine-grained visual region maps.",
+        "text_original": "Training strategies (Global Average Pooling, Multihead Attention Pooling) and self-supervised methods (Masked Autoencoders, DINO) accelerate progress, while hybrid and multimodal models (Perceiver, DALL-E, Muse, Parti, Phenaki) extend flexibility.\n\n**Model Explainability**:\n- **Class Activation Mapping (CAM):** Produces class-specific heatmaps but is limited to GAP-based architectures and may require retraining.\n- **Grad-CAM:** Applies gradient-based localization to differentiable CNN layers, including pre-trained models, for flexible but sometimes coarse visualization.\n- **Grad-CAM++:** Refines Grad-CAM by using higher-order derivatives for more accurate importance weights, enhancing object localization with gradients.\n- **Score-CAM:** Weighs feature maps using confidence scores from masked images, offering gradient-free heatmaps but at the cost of speed and sometimes lower interpretability.\n- **LayerCAM:** Utilizes positive gradients from various convolutional layers for higher precision and resolution heatmaps.\n- **Guided Grad-CAM and Grad-CAM++:** Further combine gradient techniques for nuanced, multi-object localization.\n- **Saliency Maps & Guided Backpropagation:** Highlight influential pixels and offer fine-grained visual region maps",
+        "idx_start": 1687,
+        "idx_end": 2947
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Transformers & Generative AI\nTransformers\u2019 flexible attention enables state-of-the-art performance across language, code, biology, and multimodal generative AI. Encoder/decoder configurations and scaling innovations (FlashAttention, speculative decoding) underpin notable models like GPT, BERT, and ChatGPT.",
+        "text_original": "Transformers\u2019 flexible attention enables state-of-the-art performance across language, code, biology, and multimodal generative AI. Encoder/decoder configurations and scaling innovations (FlashAttention, speculative decoding) underpin notable models like GPT, BERT, and ChatGPT",
+        "idx_start": 2984,
+        "idx_end": 3261
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Radial Basis Function Networks\nRBF networks utilize normalized activations and linear outputs for interpolation and time series applications, with specialized center selection and normalization techniques.",
+        "text_original": "RBF networks utilize normalized activations and linear outputs for interpolation and time series applications, with specialized center selection and normalization techniques",
+        "idx_start": 3300,
+        "idx_end": 3473
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Autoencoders and Variational Autoencoders (VAE)\nAutoencoders support unsupervised tasks\u2014dimensionality reduction, anomaly detection, compression, and denoising\u2014via architectures like VAE, SAE, DAE, CAE, MDL-AE, concrete autoencoders, and PCA. VAEs (\u03b2-VAE, CVAE, VAE-GANs) optimize reconstruction and KL divergence for disentangled and conditional generative modeling.",
+        "text_original": "Autoencoders support unsupervised tasks\u2014dimensionality reduction, anomaly detection, compression, and denoising\u2014via architectures like VAE, SAE, DAE, CAE, MDL-AE, concrete autoencoders, and PCA. VAEs (\u03b2-VAE, CVAE, VAE-GANs) optimize reconstruction and KL divergence for disentangled and conditional generative modeling",
+        "idx_start": 3529,
+        "idx_end": 3847
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Generative Adversarial Networks (GANs) and Wasserstein GAN (WGAN)\nGANs synthesize data for fields such as medical imaging, simulation, art, and climate modeling, evaluated by metrics like Inception Score and FID. WGANs improve training stability using Wasserstein-1 distance and Lipschitz constraints. Ethical and forensic issues, especially around deepfakes, drive regulatory developments.",
+        "text_original": "GANs synthesize data for fields such as medical imaging, simulation, art, and climate modeling, evaluated by metrics like Inception Score and FID. WGANs improve training stability using Wasserstein-1 distance and Lipschitz constraints. Ethical and forensic issues, especially around deepfakes, drive regulatory developments",
+        "idx_start": 3921,
+        "idx_end": 4244
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Graph Neural Networks (GNNs) and Applications\nGNNs process graph structures via message passing (GCN, GAT, GGS-NN), pooling, and skip connections. They play essential roles in protein folding (AlphaFold), social networks, security, vision, and NLP, with active research in heterophily, permutation equivariance, and oversmoothing.",
+        "text_original": "GNNs process graph structures via message passing (GCN, GAT, GGS-NN), pooling, and skip connections. They play essential roles in protein folding (AlphaFold), social networks, security, vision, and NLP, with active research in heterophily, permutation equivariance, and oversmoothing",
+        "idx_start": 4298,
+        "idx_end": 4581
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Historical Milestones\nThe evolution of neural networks\u2014from abstraction to modern transformers\u2014is marked by transformative advances, reflected in the recognition of John Hopfield and Geoffrey Hinton with the 2024 Nobel Prize in Physics for landmark contributions.",
+        "text_original": "The evolution of neural networks\u2014from abstraction to modern transformers\u2014is marked by transformative advances, reflected in the recognition of John Hopfield and Geoffrey Hinton with the 2024 Nobel Prize in Physics for landmark contributions",
+        "idx_start": 4611,
+        "idx_end": 4851
+    }
+]

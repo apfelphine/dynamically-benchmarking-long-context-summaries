@@ -1,0 +1,15 @@
+**Education in Greece** follows a structured system from pre-kindergarten through tertiary education, with clear stages and qualifications.
+
+**Pre-Kindergarten and Kindergarten** (ages 3–6) are compulsory and offered in preschools (Pronipium, Nipiagogeium), lasting two years. Children begin at age 4 and attend for one year each in Pre-Kindergarten and Kindergarten.
+
+**Primary Education** (ages 6–12) spans six years (Grades 1–6), with no grades assigned in the first two years. From Grade 3 onward, students receive letter grades (A–D), transitioning to a numeric scale (1–10) in Grades 5–6. The curriculum includes core subjects like modern Greek, mathematics, science, and physical education. Students receive the *Apolytirio Dimotikou* (primary school leaving certificate), which grants automatic admission to the lower secondary level (gymnasium).
+
+**Lower Secondary Education** (ages 12–15) is compulsory and lasts three years (Grades 7–9), leading to the *Apolytirio Gymnasium* certificate. The curriculum includes English, foreign languages (French or German), and core subjects. The system includes various types of gymnasiums (e.g., Middle School, Special, Evening, Music, Art, and Experimental), with a focus on developing critical thinking and subject mastery.
+
+**Upper Secondary Education** (ages 15–18) is non-compulsory and lasts three years (Grades 10–12), leading to the *Apolytirio Lykeiou* (high school diploma). Students specialize in one of three streams: Science, Commerce, or Humanities. The grading system uses a 1–20 scale, with 20 equivalent to an A or 100. Students must pass national standardized exams (Pan-Hellenic Examinations) to qualify for higher education.
+
+**Vocational Education** is provided through the Vocational High School (EPAL), offering dual diplomas. Students earn both a *Ptychio of Vocational Education and Training* (Level 4) and a specialized diploma. EPAL graduates can enter a one-year Post-lyceum Year Apprenticeship Class, leading to a Level 5 diploma and eligibility for university admission.
+
+**Higher Education** is offered by public and private institutions, with public universities providing free tuition. Degrees are awarded at the bachelor’s (Level 6), master’s (Level 7), and doctoral (Level 8) levels. The National Qualification Framework (HQF) aligns Greek qualifications with European standards.
+
+**Non-formal education** includes open online courses, MOOCs, and digital academies, promoting lifelong learning. The system emphasizes foundational literacy, critical thinking, and practical skills, with a strong focus on national curricula and standardized assessments.

@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding "Education in Poland." The document exclusively covers education systems in Bangladesh, Canada, Saudi Arabia, the Czech Republic, New Zealand, Mexico, Pakistan, Japan, Russia, the Netherlands, and South Korea. Consequently, no summary regarding education in Poland can be generated based strictly on the provided text.

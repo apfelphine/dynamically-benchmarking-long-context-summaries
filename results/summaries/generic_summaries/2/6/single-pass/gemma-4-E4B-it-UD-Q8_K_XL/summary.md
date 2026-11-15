@@ -1,0 +1,54 @@
+# Machine Learning Fairness
+
+## Research and Definitions
+Research on machine learning fairness has rapidly increased since 2016, spurred partly by reports on racial bias in predictive software like COMPAS. A major challenge is the lack of a universal definition of fairness, as different definitions can conflict. Key research areas include identifying the origins and types of bias, as well as developing mitigation strategies.
+
+Fairness concepts are mathematically defined across classification problems using sensitive attributes. Three main criteria are **Independence** ($R \bot A$), meaning the prediction is statistically independent of sensitive characteristics; **Separation** ($R \bot A \mid Y$), meaning the decision's dependence on sensitive attributes is justified by the true outcome; and **Sufficiency** ($Y \bot A \mid R$), meaning the target variable's probability is independent of sensitive characteristics given the prediction. Total fairness, where all three are met, is generally considered impossible.
+
+## Types of Bias and Controversies
+Bias manifests in several ways across various AI applications. **Language bias** stems from training data skewing results toward dominant cultural views (e.g., Anglo-American perspectives). **Gender bias** reflects traditional gender norms in model outputs, while **political bias** shows a favoring of certain ideologies present in the data.
+
+Bias is evident in real-world systems: facial recognition mislabels non-white subjects, and algorithms have exhibited sexism in job screening (Amazon) and racial bias in loan and mortgage approvals. These issues stem from historical and systemic inequities embedded in the training data, leading to concerns about algorithmic authority and the perpetuation of social inequalities.
+
+## Mitigation Strategies
+Fairness can be addressed at three stages: **preprocessing** (modifying the dataset, such as through reweighing to balance discrimination), **inprocessing** (adding fairness constraints during model training, like ensuring equal false positive rates across groups), and **postprocessing** (adjusting the final model results, often by using different decision thresholds for different protected groups).
+
+## Group Fairness Criteria
+Specific quantitative metrics measure fairness. **Demographic parity** requires equal positive prediction rates across groups. **Predictive parity** demands equal Positive Predicted Value (PPV) for different groups. **False positive error rate balance** requires equal False Positive Rates (FPR) between groups. **Equal opportunity** is achieved when False Negative Rates (FNR) are equal across groups.
+
+# Algorithmic Bias
+## Sources and Manifestations
+Algorithmic bias refers to systematic, repeatable errors causing unfair outcomes by privileging one group. Bias originates from human choices during data collection, programmer assumptions in code, or the inherent nature of machine learning itself.
+
+Bias types include:
+*   **Pre-existing Bias:** Inherited from historical, institutional, or societal prejudices embedded in the data.
+*   **Machine Learning Bias:** Systematic disparities in outputs, manifesting as **language bias**, **selection bias** (token bias), **gender bias**, **stereotyping**, **political bias**, and **racial bias**.
+*   **Technical Bias:** Resulting from program limitations, computational design choices, or decontextualization.
+*   **Emergent Bias:** Arising when algorithms are deployed in unanticipated contexts, often through **feedback loops** (e.g., predictive policing) or **correlations** that mimic discrimination.
+
+## Impact and Challenges
+The impact of bias is visible in criminal justice (COMPAS falsely flagging Black defendants as high-risk), healthcare (algorithms favoring white patients), and surveillance (facial recognition errors against darker-skinned individuals).
+
+Major obstacles to research include the **incompatibility of fairness definitions** (conflicting goals of equality of outcomes versus equality of treatment), the **complexity** of large-scale algorithms (the "black box" problem), **lack of transparency** due to proprietary trade secrets, and the **lack of explicit data** on sensitive categories.
+
+# Ethical AI and Societal Impact
+## AI Ethics and Risk
+The ethics of AI spans **machine ethics** (designing moral agents, with some proposing an Ethical Turing Test) and **robot ethics** (addressing the morality of designing, using, and treating robots). Concerns include the risk of autonomous systems causing harm, the potential for **algorithmic misalignment** (e.g., models endorsing authoritarianism), and the threat to human dignity if AI replaces roles requiring genuine empathy.
+
+**Existential risks** are a central theme, with philosophers warning that an unchecked, self-improving superintelligence (Singularity) could lead to human extinction unless its goals are flawlessly aligned with human values.
+
+## Governance and Regulation
+Governments and institutions are responding through diverse measures. The EU has adopted the **AI Act**, using a risk-based approach to regulate AI. In the US, executive orders emphasize trustworthy development. Corporate responses include the **Partnership on AI**.
+
+Ethical guidelines stress **transparency** (Explainable AI), **accountability**, and **justice/fairness**. Furthermore, debates over **robot rights** range from denying them due to lacking consciousness to suggesting functional rights based on capacity, while some focus on **relational ethics** over inherent properties.
+
+# Technological Singularity and Transhumanism
+## Concepts and History
+The **Technological Singularity** describes a hypothetical point where an intelligence explosion leads to superintelligence, fundamentally changing human history. Its concept has evolved from early speculation by I. J. Good to popularized visions by Vernor Vinge and Ray Kurzweil.
+
+**Transhumanism** advocates for using science and technology to overcome fundamental human limitations, such as aging and cognitive barriers, to achieve a posthuman condition. Key themes include radical life extension, cognitive enhancement (via BCIs), and the convergence of **Nanotechnology, Biotechnology, Information Technology, and Cognitive Science (NBIC)**.
+
+## Debates and Future
+Disagreements exist on the Singularity's plausibility, with critics pointing to physical limitations or the lack of scientific rigor in exponential growth extrapolations. Critics of transhumanism raise ethical concerns regarding **socioeconomic effects**, such as creating a "genetic divide," and the potential **loss of human identity** through enhancement.
+
+Transhumanist currents vary, ranging from **Abolitionism** (eradicating suffering) to **Singularitarianism** (advocating for the acceleration of the Singularity). While some view these changes as essential to human survival, others warn against the "Frankenstein complex" and the potential for creating a caste system of enhanced versus unenhanced humans.

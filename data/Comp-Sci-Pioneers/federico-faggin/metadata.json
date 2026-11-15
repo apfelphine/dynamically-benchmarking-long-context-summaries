@@ -1,0 +1,28 @@
+{
+  "id": 378171,
+  "title": "Federico Faggin",
+  "url": "https://en.wikipedia.org/wiki/Federico_Faggin",
+  "path": "Comp-Sci-Pioneers\\federico-faggin",
+  "summary": {
+    "chars": 1774,
+    "tokens": 410
+  },
+  "document": {
+    "chars": 21846,
+    "tokens": 5103
+  },
+  "infobox": {
+    "title": "Federico Faggin",
+    "data": {
+      "Born": "1 December 1941 \u00b7 Vicenza, Italy",
+      "Citizenship": "Italian, American",
+      "Alma mater": "- I.T.I.S. Alessandro Rossi \u00b7 (Laurea in Physics, 1965) - University of Padua \u00b7 (summa cum laude)",
+      "Known for": "- MOS silicon-gate technology - Intel 4004 - Intel 8008 - Intel 8080 - Zilog Z80 - Synaptics Touchpad - Touchscreen",
+      "Children": "one daughter (b. 1970) and two sons (b. 1979 and 1980)",
+      "Awards": "- Marconi Prize (1988) - W. Wallace McDowell Award (1994) - Kyoto Prize (1997) - National Medal of Technology and Innovation (2009) - Computer History Museum Fellow (2009) - Enrico Fermi Prize by IFS (2014)",
+      "Fields": "physics, electrical engineering",
+      "Institutions": "- SGS-Fairchild - Fairchild Semiconductor - Intel - Zilog - Synaptics - Foveon",
+      "Thesis": "flying-spot scanners"
+    }
+  }
+}

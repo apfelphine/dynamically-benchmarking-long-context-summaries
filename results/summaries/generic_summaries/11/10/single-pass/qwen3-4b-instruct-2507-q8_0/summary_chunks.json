@@ -1,0 +1,79 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Vision Transformers (ViT):\nIntroduced in 2017, Transformers revolutionized NLP with attention mechanisms. In 2019, ViT adapted this to vision by replacing CNN convolutions with self-attention on image patches. It achieved state-of-the-art performance in image classification, surpassing CNNs. Variants like Swin Transformer (shifted windows), TimeSformer (for video), and Masked Autoencoders (MAE) improved efficiency, robustness, and unsupervised training. MAE uses masked patches and a decoder to reconstruct images, enabling self-supervised pretraining. DINO uses teacher-student distillation for self-supervision. ViTs now dominate in vision tasks, including object detection, segmentation, and generation, and have spurred CNN innovations.",
+        "text_original": "Introduced in 2017, Transformers revolutionized NLP with attention mechanisms. In 2019, ViT adapted this to vision by replacing CNN convolutions with self-attention on image patches. It achieved state-of-the-art performance in image classification, surpassing CNNs. Variants like Swin Transformer (shifted windows), TimeSformer (for video), and Masked Autoencoders (MAE) improved efficiency, robustness, and unsupervised training. MAE uses masked patches and a decoder to reconstruct images, enabling self-supervised pretraining. DINO uses teacher-student distillation for self-supervision. ViTs now dominate in vision tasks, including object detection, segmentation, and generation, and have spurred CNN innovations",
+        "idx_start": 33,
+        "idx_end": 749
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN):\nAn improved GAN variant using the Wasserstein distance instead of Jensen-Shannon divergence. It provides smoother gradients, avoiding mode collapse and vanishing gradients. The discriminator is constrained to bounded Lipschitz norms, improving training stability. WGAN is more robust than standard GANs and is used in image generation, style transfer, and other generative tasks.",
+        "text_original": "An improved GAN variant using the Wasserstein distance instead of Jensen-Shannon divergence. It provides smoother gradients, avoiding mode collapse and vanishing gradients. The discriminator is constrained to bounded Lipschitz norms, improving training stability. WGAN is more robust than standard GANs and is used in image generation, style transfer, and other generative tasks",
+        "idx_start": 782,
+        "idx_end": 1160
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs):\nA zero-sum game between generator and discriminator. The generator creates synthetic data, and the discriminator evaluates it. Variants include Conditional GANs (for class-specific generation), Wasserstein GANs, and CycleGAN (for translation between domains). GANs are used in image synthesis, video generation, medical imaging, and art creation. Challenges include mode collapse and training instability, mitigated by techniques like gradient penalty and curriculum learning.",
+        "text_original": "A zero-sum game between generator and discriminator. The generator creates synthetic data, and the discriminator evaluates it. Variants include Conditional GANs (for class-specific generation), Wasserstein GANs, and CycleGAN (for translation between domains). GANs are used in image synthesis, video generation, medical imaging, and art creation. Challenges include mode collapse and training instability, mitigated by techniques like gradient penalty and curriculum learning",
+        "idx_start": 1209,
+        "idx_end": 1684
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoders (VAEs):\nAutoencoders with probabilistic latent variables. VAEs learn a latent space where data points are represented as distributions, enabling generative modeling. The Evidence Lower Bound (ELBO) optimizes reconstruction and KL divergence between latent distributions. Variants like \u03b2-VAE enforce disentangled representations, and VAEs are used in image generation, anomaly detection, and drug discovery.",
+        "text_original": "Autoencoders with probabilistic latent variables. VAEs learn a latent space where data points are represented as distributions, enabling generative modeling. The Evidence Lower Bound (ELBO) optimizes reconstruction and KL divergence between latent distributions. Variants like \u03b2-VAE enforce disentangled representations, and VAEs are used in image generation, anomaly detection, and drug discovery",
+        "idx_start": 1726,
+        "idx_end": 2123
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Networks (CNNs):\nPioneered by Hubel and Wiesel, CNNs use local receptive fields, shared weights, and pooling to process spatial data. They excel in image classification, object detection, and video analysis. Key components include convolutional, pooling, and fully connected layers. CNNs are used in medical imaging, speech recognition, and time series forecasting. Challenges include overfitting and translation invariance, addressed via dropout, regularization, and data augmentation.",
+        "text_original": "Pioneered by Hubel and Wiesel, CNNs use local receptive fields, shared weights, and pooling to process spatial data. They excel in image classification, object detection, and video analysis. Key components include convolutional, pooling, and fully connected layers. CNNs are used in medical imaging, speech recognition, and time series forecasting. Challenges include overfitting and translation invariance, addressed via dropout, regularization, and data augmentation",
+        "idx_start": 2170,
+        "idx_end": 2638
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoders:\nNeural networks that learn to compress and reconstruct data. They are used for dimensionality reduction, anomaly detection, and feature learning. Variants include denoising (robust to noise), sparse (encourages sparsity), and variational (probabilistic). Autoencoders are applied in image denoising, drug discovery, and popularity prediction.",
+        "text_original": "Neural networks that learn to compress and reconstruct data. They are used for dimensionality reduction, anomaly detection, and feature learning. Variants include denoising (robust to noise), sparse (encourages sparsity), and variational (probabilistic). Autoencoders are applied in image denoising, drug discovery, and popularity prediction",
+        "idx_start": 2661,
+        "idx_end": 3002
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Networks (GNNs):\nProcess graph-structured data by propagating information across nodes. They use message passing, pooling, and global readout to learn node and graph representations. GNNs are used in protein folding (AlphaFold), social networks, and anomaly detection. Challenges include heterophily and scalability, addressed with advanced architectures.",
+        "text_original": "Process graph-structured data by propagating information across nodes. They use message passing, pooling, and global readout to learn node and graph representations. GNNs are used in protein folding (AlphaFold), social networks, and anomaly detection. Challenges include heterophily and scalability, addressed with advanced architectures",
+        "idx_start": 3041,
+        "idx_end": 3378
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function (RBF) Networks:\nThree-layer networks using radial basis functions in the hidden layer. They approximate functions and are used in interpolation, time series prediction, and control systems. RBFs are universal approximators and can be normalized for better stability.",
+        "text_original": "Three-layer networks using radial basis functions in the hidden layer. They approximate functions and are used in interpolation, time series prediction, and control systems. RBFs are universal approximators and can be normalized for better stability",
+        "idx_start": 3425,
+        "idx_end": 3674
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Networks (RNNs):\nProcess sequential data with memory via hidden states. Architectures include LSTM (long short-term memory) and GRU (gated recurrent unit), which solve vanishing gradients. RNNs are used in speech recognition, machine translation, and time series prediction. Training uses backpropagation through time (BPTT), with techniques like teacher forcing and connectionist temporal classification (CTC).",
+        "text_original": "Process sequential data with memory via hidden states. Architectures include LSTM (long short-term memory) and GRU (gated recurrent unit), which solve vanishing gradients. RNNs are used in speech recognition, machine translation, and time series prediction. Training uses backpropagation through time (BPTT), with techniques like teacher forcing and connectionist temporal classification (CTC",
+        "idx_start": 3717,
+        "idx_end": 4109
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Networks:\nRecurrent networks with associative memory, inspired by neural dynamics. They store patterns via Hebbian learning and converge to stable states. Modern variants (Dense Associative Memories) achieve exponential memory capacity. Used in optimization, pattern recognition, and modeling human memory.",
+        "text_original": "Recurrent networks with associative memory, inspired by neural dynamics. They store patterns via Hebbian learning and converge to stable states. Modern variants (Dense Associative Memories) achieve exponential memory capacity. Used in optimization, pattern recognition, and modeling human memory",
+        "idx_start": 4138,
+        "idx_end": 4433
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer (Deep Learning):\nA foundational architecture using self-attention and feedforward layers. It enables parallel processing and captures long-range dependencies. Variants include encoder-only (BERT), decoder-only (GPT), and encoder-decoder (T5). Transformers power large language models (LLMs) and are used in NLP, speech, and multimodal tasks. Efficient implementations like FlashAttention accelerate inference.",
+        "text_original": "A foundational architecture using self-attention and feedforward layers. It enables parallel processing and captures long-range dependencies. Variants include encoder-only (BERT), decoder-only (GPT), and encoder-decoder (T5). Transformers power large language models (LLMs) and are used in NLP, speech, and multimodal tasks. Efficient implementations like FlashAttention accelerate inference",
+        "idx_start": 4471,
+        "idx_end": 4862
+    }
+]

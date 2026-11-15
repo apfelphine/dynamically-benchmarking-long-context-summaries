@@ -1,0 +1,1 @@
+Privacy Lost is a 2023 short science fiction film directed by Peter Stoel and Robert Berger. It follows a family using augmented reality (AR) and artificial intelligence (AI) devices capable of reading emotional states, raising questions about privacy and manipulation.

@@ -1,0 +1,35 @@
+{
+  "id": 64622550,
+  "title": "The Creator (2023 film)",
+  "url": "https://en.wikipedia.org/wiki/The_Creator_(2023_film)",
+  "path": "AI-Fiction\\the-creator-2023-film",
+  "summary": {
+    "chars": 1267,
+    "tokens": 278
+  },
+  "document": {
+    "chars": 33347,
+    "tokens": 7025
+  },
+  "infobox": {
+    "title": "The Creator",
+    "data": {
+      "Directed by": "Gareth Edwards",
+      "Screenplay by": "- Gareth Edwards - Chris Weitz",
+      "Story by": "Gareth Edwards",
+      "Produced by": "- Gareth Edwards - Kiri Hart - Jim Spencer - Arnon Milchan",
+      "Starring": "- John David Washington - Gemma Chan - Ken Watanabe - Sturgill Simpson - Allison Janney",
+      "Cinematography": "- Greig Fraser - Oren Soffer",
+      "Edited by": "- Hank Corwin - Joe Walker - Scott Morris",
+      "Music by": "Hans Zimmer",
+      "Production \u00b7 companies": "- Regency Enterprises - Entertainment One - New Regency - Bad Dreams",
+      "Distributed by": "20th Century Studios",
+      "Release date": "- September 29, 2023",
+      "Running time": "133 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$80 million",
+      "Box office": "$104.3 million"
+    }
+  }
+}

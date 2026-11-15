@@ -1,0 +1,2 @@
+Dog 51 (French: Chien 51) is a 2025 French science fiction thriller film directed by Cédric Jimenez, co-written by Jimenez and Olivier Demangel, it is based on the 2022 novel by the same name by Laurent Gaudé. Starring Gilles Lellouche, Adèle Exarchopoulos, Louis Garrel, Romain Duris, Valeria Bruni Tedeschi and Artus, it follows a crime investigation in a dystopian Paris. 
+The film had its world premiere out of competition at the 82nd Venice International Film Festival on 6 September 2025, and was theatrically released in France on 15 October by Studiocanal.

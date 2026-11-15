@@ -1,0 +1,41 @@
+{
+  "id": 52029,
+  "title": "University College London",
+  "url": "https://en.wikipedia.org/wiki/University_College_London",
+  "path": "Universities\\university-college-london",
+  "summary": {
+    "chars": 3269,
+    "tokens": 681
+  },
+  "document": {
+    "chars": 65213,
+    "tokens": 14041
+  },
+  "infobox": {
+    "title": "UCL",
+    "data": {
+      "Former names": "London University (1826\u20131836) \u00b7 University College, London (1836\u20131907) \u00b7 University of London, University College (1907\u20131976) \u00b7 University College London (1977\u20132005; remains legal name)",
+      "Motto": "Latin: Cuncti adsint meritaeque expectent praemia palmae",
+      "Motto in English": "Let all come who by merit deserve the most reward",
+      "Type": "Public research university",
+      "Established": "11 February 1826 \u00b7 (University status 2023)",
+      "Endowment": "\u00a3174.8 million (2024)",
+      "Budget": "\u00a32.029 billion (2023/24)",
+      "Chair": "Victor L. L. Chu",
+      "Visitor": "Sir Geoffrey Vos \u00b7 (as Master of the Rolls ex officio)",
+      "Chancellor": "Anne, Princess Royal \u00b7 (as Chancellor of the University of London)",
+      "President and Provost": "Michael Spence",
+      "Academic staff": "10,350 (2023/24)",
+      "Administrative staff": "6,655 (2023/24)",
+      "Students": "51,435 (2023/24)",
+      "Undergraduates": "25,855 (2023/24)",
+      "Postgraduates": "25,580 (2023/24)",
+      "Other students": "895 (studying wholly overseas; 2021/22)",
+      "Location": "London, England \u00b7 51\u00b031\u203229\u2033N 00\u00b008\u203201\u2033W\ufeff / \ufeff51.52472\u00b0N 0.13361\u00b0W",
+      "Campus": "Urban",
+      "Colours": "Purple and blue celeste",
+      "Affiliations": "ACU EUA LERU Russell Group SES University of London Universities UK",
+      "Website": "ucl.ac.uk"
+    }
+  }
+}

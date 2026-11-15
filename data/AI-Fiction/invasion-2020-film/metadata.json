@@ -1,0 +1,34 @@
+{
+  "id": 57994877,
+  "title": "Invasion (2020 film)",
+  "url": "https://en.wikipedia.org/wiki/Invasion_(2020_film)",
+  "path": "AI-Fiction\\invasion-2020-film",
+  "summary": {
+    "chars": 820,
+    "tokens": 207
+  },
+  "document": {
+    "chars": 2079,
+    "tokens": 546
+  },
+  "infobox": {
+    "title": "Invasion",
+    "data": {
+      "Directed by": "Fyodor Bondarchuk",
+      "Screenplay by": "- Oleg Malovichko - Andrey Zolotarev",
+      "Produced by": "- Fyodor Bondarchuk - Dmitriy Rudovskiy - Mikhail Vrubel - Aleksandr Andryushchenko - Anton Zlatopolskiy (ru) - Elena Nelidova - Mikhail Kitaev",
+      "Starring": "- Irina Starshenbaum - Rinal Mukhametov - Alexander Petrov - Yuri Borisov - Oleg Menshikov - Sergei Garmash",
+      "Cinematography": "Vladislav Opelyants",
+      "Edited by": "- Aleksandr Andryushchenko - Aleksandr Puzyryov",
+      "Music by": "Igor Vdovin",
+      "Production \u00b7 companies": "- Columbia Pictures - Art Pictures Studio - Vodorod - Cinema Foundation - Russia-1 - National Media Group Studio",
+      "Distributed by": "WDSSPR",
+      "Release date": "- January 1, 2020",
+      "Running time": "129 minutes",
+      "Country": "Russia",
+      "Languages": "Russian, English",
+      "Budget": "$14.8 million \u00b7 (\u20bd944 million)",
+      "Box office": "$15.8 million \u00b7 (\u20bd960 million)"
+    }
+  }
+}

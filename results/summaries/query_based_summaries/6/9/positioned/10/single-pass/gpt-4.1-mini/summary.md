@@ -1,0 +1,9 @@
+## Summary of Jacek Karpiński
+
+Jacek Karpiński (1927–2010) was a Polish computer engineer and inventor, notable for pioneering work in early computing and artificial intelligence. Born into a family of Polish intellectuals and mountaineers, he survived serious wartime injuries while serving in the Polish resistance during World War II. After the war, he rapidly advanced in his education, graduating from Warsaw University of Technology in 1951.
+
+Karpiński’s early projects included the Analytical Analyzer of Harmonics (AAH, 1957) and AKAT-1 (1959), the world’s first transistor-based differential equations analyzer. His achievements earned him a UNESCO award and a scholarship in the U.S., where he met leading figures including Claude Shannon. Inspired by his experience, he developed one of the first perceptrons (a neural network device) in 1964 within the Eastern Bloc.
+
+He later designed several computers of innovative architecture: KAR-65 (1968), a fast asynchronous computer; and the K-202 (1973), a modular, microchip-based minicomputer using Intel 4004 microprocessors and featuring memory segmentation and paging. Despite technical superiority over contemporaries like DEC’s PDP-11, K-202 faced political and institutional obstacles, preventing mass production beyond thirty units.
+
+Karpiński’s career was marked by conflicts with communist authorities and professional rivals, censorship of his work, and a controversial role as an informant for Polish intelligence in the 1960s. Disillusioned, he retired from computing in 1978 to rural life, briefly worked in Switzerland, and returned to Poland in the 1990s. Posthumously, he was recognized with Poland's Officer's and Commander's Crosses of Polonia Restituta for his contributions to computer engineering.

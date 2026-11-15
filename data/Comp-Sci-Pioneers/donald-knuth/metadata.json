@@ -1,0 +1,31 @@
+{
+  "id": 8095,
+  "title": "Donald Knuth",
+  "url": "https://en.wikipedia.org/wiki/Donald_Knuth",
+  "path": "Comp-Sci-Pioneers\\donald-knuth",
+  "summary": {
+    "chars": 1277,
+    "tokens": 253
+  },
+  "document": {
+    "chars": 24916,
+    "tokens": 6290
+  },
+  "infobox": {
+    "title": "Donald Knuth",
+    "data": {
+      "Born": "Donald Ervin Knuth \u00b7 January 10, 1938 \u00b7 Milwaukee, Wisconsin, U.S.",
+      "Education": "- Case Western Reserve University (BS, MS) - California Institute of Technology (PhD)",
+      "Known for": "See list - - The Art of Computer Programming, - TeX, METAFONT, - Computer Modern, - Knuth's up-arrow notation, - Knuth\u2013Morris\u2013Pratt algorithm, - Knuth\u2013Bendix completion algorithm, - MMIX, - Robinson\u2013Schensted\u2013Knuth correspondence, LR parser, - Literate programming",
+      "Spouse": "Nancy Jill Carter",
+      "Children": "2",
+      "Awards": "See list - - SIGCSE Outstanding Contribution (1986) - Grace Murray Hopper Award (1971) - Turing Award (1974) - Member of the National Academy of Sciences (1975) - National Medal of Science (1979) - John von Neumann Medal (1995) - Harvey Prize (1995) - Kyoto Prize (1996) - Foreign Member of the Royal Society (2003) - Faraday Medal (2011) - BBVA Foundation Frontiers of Knowledge Award (2010) - Turing Lecture (2011) - Flajolet Lecture (2014)",
+      "Fields": "- Mathematics - Computer science",
+      "Institutions": "Stanford University \u00b7 University of Oslo",
+      "Thesis": "Finite Semifields and Projective Planes (1963)",
+      "Doctoral advisor": "Marshall Hall, Jr.",
+      "Doctoral students": "- Leonidas J. Guibas - Michael Fredman - Scott Kim - Vaughan Pratt - Robert Sedgewick - Jeffrey Vitter - Andrei Broder",
+      "Website": "cs.stanford.edu/~knuth"
+    }
+  }
+}

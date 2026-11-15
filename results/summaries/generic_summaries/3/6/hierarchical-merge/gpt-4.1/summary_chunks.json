@@ -1,0 +1,37 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity, Transhumanism, and Accelerationism\nThe technological singularity posits a future point where AI surpasses human intelligence, potentially triggering rapid and transformative societal changes. This has spurred debates over economic disruption, existential risks, and the challenge of aligning AI systems with human values. Closely linked, transhumanism advocates for radical enhancement of human capabilities through AI and related technologies, raising ethical, social, and philosophical questions about identity, equity, and societal readiness. Accelerationism further calls for rapid technological evolution to engineer systemic change, underscoring the need for responsible innovation and preparedness.",
+        "text_original": "The technological singularity posits a future point where AI surpasses human intelligence, potentially triggering rapid and transformative societal changes. This has spurred debates over economic disruption, existential risks, and the challenge of aligning AI systems with human values. Closely linked, transhumanism advocates for radical enhancement of human capabilities through AI and related technologies, raising ethical, social, and philosophical questions about identity, equity, and societal readiness. Accelerationism further calls for rapid technological evolution to engineer systemic change, underscoring the need for responsible innovation and preparedness",
+        "idx_start": 66,
+        "idx_end": 735
+    },
+    {
+        "document_idx": null,
+        "text": "# Artificial Intelligence: Regulation and Ethics\nAI regulation in the U.S. is moving from centralized policies to fragmented state approaches, with varying emphases on bias, artist protections, and liability. At the global level, the GDPR serves as a model for privacy, data security, and accountability, impacting tech regulation worldwide. Ethical concerns center on transparency, bias, legal liability, and the social impact of AI, especially in sensitive areas like healthcare and law enforcement. Experts oppose granting legal personhood to machines and advocate for strong oversight, algorithmic justice, and alignment with human dignity, with international organizations shaping ethical frameworks and standards.",
+        "text_original": "AI regulation in the U.S. is moving from centralized policies to fragmented state approaches, with varying emphases on bias, artist protections, and liability. At the global level, the GDPR serves as a model for privacy, data security, and accountability, impacting tech regulation worldwide. Ethical concerns center on transparency, bias, legal liability, and the social impact of AI, especially in sensitive areas like healthcare and law enforcement. Experts oppose granting legal personhood to machines and advocate for strong oversight, algorithmic justice, and alignment with human dignity, with international organizations shaping ethical frameworks and standards",
+        "idx_start": 789,
+        "idx_end": 1458
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake Technology: Opportunities and Concerns\nAI-driven deepfake technology enables the creation of highly realistic audio, video, and images, transforming media production. However, it poses significant ethical risks, including misinformation, fraud, and privacy violations. Regulatory responses, technological countermeasures, and greater public awareness are required to address challenges related to authenticity, reputational harm, and the integrity of information.",
+        "text_original": "AI-driven deepfake technology enables the creation of highly realistic audio, video, and images, transforming media production. However, it poses significant ethical risks, including misinformation, fraud, and privacy violations. Regulatory responses, technological countermeasures, and greater public awareness are required to address challenges related to authenticity, reputational harm, and the integrity of information",
+        "idx_start": 1513,
+        "idx_end": 1936
+    },
+    {
+        "document_idx": null,
+        "text": "# Philosophy and Foundations of Artificial Intelligence\nPhilosopher John L. Pollock contributed to AI and epistemology, developing the concept of defeasible reasoning and advanced probabilistic logic. His OSCAR AI system combined philosophical insights with rational cognition, influencing discourse in logic, epistemology, and intelligent system design.",
+        "text_original": "Philosopher John L. Pollock contributed to AI and epistemology, developing the concept of defeasible reasoning and advanced probabilistic logic. His OSCAR AI system combined philosophical insights with rational cognition, influencing discourse in logic, epistemology, and intelligent system design",
+        "idx_start": 1997,
+        "idx_end": 2294
+    },
+    {
+        "document_idx": null,
+        "text": "# Terminator Franchise: Storylines, Direction, and Reception\n\"Terminator: Dark Fate\" sought to revitalize the franchise by returning to its original themes, focusing on trauma, strong characters, and particularly female leads like Sarah Connor. Despite its ambition, the film received mixed reviews and underperformed at the box office, leading to the cancellation of sequels and uncertainty about the franchise\u2019s future. Within the narrative universe, the AI Legion replaces Skynet as the existential threat, with characters fighting to protect humanity in a story emphasizing survival, loss, and resistance.",
+        "text_original": "Terminator: Dark Fate\" sought to revitalize the franchise by returning to its original themes, focusing on trauma, strong characters, and particularly female leads like Sarah Connor. Despite its ambition, the film received mixed reviews and underperformed at the box office, leading to the cancellation of sequels and uncertainty about the franchise\u2019s future. Within the narrative universe, the AI Legion replaces Skynet as the existential threat, with characters fighting to protect humanity in a story emphasizing survival, loss, and resistance",
+        "idx_start": 2361,
+        "idx_end": 2907
+    }
+]

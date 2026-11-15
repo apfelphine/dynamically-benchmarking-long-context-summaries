@@ -1,0 +1,34 @@
+{
+  "id": 72296,
+  "title": "Peking University",
+  "url": "https://en.wikipedia.org/wiki/Peking_University",
+  "path": "Universities\\peking-university",
+  "summary": {
+    "chars": 1291,
+    "tokens": 273
+  },
+  "document": {
+    "chars": 30631,
+    "tokens": 6302
+  },
+  "infobox": {
+    "title": "Peking University",
+    "data": {
+      "Former names": "Imperial University of Peking",
+      "Type": "Public",
+      "Established": "11 June 1898",
+      "President": "Gong Qihuang",
+      "Party Secretary": "He Guangcai",
+      "Academic staff": "13,061",
+      "Students": "49,821",
+      "Undergraduates": "16,746",
+      "Postgraduates": "17,120",
+      "Doctoral students": "15,955",
+      "Location": "Haidian, Beijing, China \u00b7 39\u00b059\u203223\u2033N 116\u00b018\u203219\u2033E\ufeff / \ufeff39.98972\u00b0N 116.30528\u00b0E",
+      "Campus": "274 ha (680 acres)",
+      "Colours": "Red",
+      "Affiliations": "C9, IARU, AALAU, AEARU, APRU, BESETOHA, BHUA",
+      "Website": "pku.edu.cn \u00b7 english.pku.edu.cn"
+    }
+  }
+}

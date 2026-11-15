@@ -1,0 +1,5 @@
+## Studienstiftung Summary
+
+The Studienstiftung des deutschen Volkes was initially founded in Dresden in 1925 as a department of the Deutsche Studentenschaft, but it was dissolved under National Socialism in 1934, only to be newly established as a registered association in Cologne in 1948. The organization operates based on the principles of "excellence, initiative and responsibility."
+
+The Studienstiftung offers a general scholarship covering both financial and academic support for bachelor's, master's, and doctoral studies. Eligibility is determined by criteria similar to the German state support system (BAFöG), and recipients must study full-time at a university in Germany, another EU country, or Switzerland. Admission channels are diverse, including nomination by a school or professor, nomination by an examination board, recognition as a winner in national/federal competitions, or by submitting to an assessment test. Financially, the general scholarship provides a monthly allowance (€300), with need-based support up to €855 per month, and PhD scholars receive a monthly award of €1,550.

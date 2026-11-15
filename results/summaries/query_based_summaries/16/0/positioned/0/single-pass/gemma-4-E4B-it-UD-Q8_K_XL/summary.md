@@ -1,0 +1,5 @@
+## University of Sydney Summary
+
+The University of Sydney was established on September 24, 1850, following the passage of the University of Sydney Act 1850 (NSW). It was Australia's first university, and one of the first public, non-denominational, and secular universities in the British Empire. The university received a royal charter from Queen Victoria on February 27, 1858, granting its degrees recognition equal to those from United Kingdom universities.
+
+Key milestones include admitting women on an equal basis with men starting in 1881, and receiving a substantial bequest of £200,000 in 1889. The university's main campus is located across the inner-city suburbs of Camperdown and Darlington. Over its history, it has been involved in various significant developments, including the introduction of the PhD research degree in 1951 and facing controversies regarding sexual harassment, staff underpayment, and financial sustainability.

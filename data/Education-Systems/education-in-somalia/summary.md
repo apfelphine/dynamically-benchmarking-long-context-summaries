@@ -1,0 +1,1 @@
+Education in Somalia refers to the academic system within Somalia. The Ministry of Education is officially responsible for education in Somalia, with about 15% of the nation's budget allocated to scholastic instruction. The breakaway republic of Somaliland maintains its own advanced Ministry of Education.

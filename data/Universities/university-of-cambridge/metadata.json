@@ -1,0 +1,38 @@
+{
+  "id": 25978572,
+  "title": "University of Cambridge",
+  "url": "https://en.wikipedia.org/wiki/University_of_Cambridge",
+  "path": "Universities\\university-of-cambridge",
+  "summary": {
+    "chars": 2181,
+    "tokens": 410
+  },
+  "document": {
+    "chars": 84325,
+    "tokens": 16823
+  },
+  "infobox": {
+    "title": "University of Cambridge",
+    "data": {
+      "Other name": "The Chancellor, Masters, and Scholars of the University of Cambridge",
+      "Motto": "Latin: Hinc lucem et pocula sacra",
+      "Motto in English": "Literal: From here, light and sacred draughts. \u00b7 Nonliteral: From this place, we gain enlightenment and precious knowledge.",
+      "Type": "Public research university \u00b7 Ancient university",
+      "Established": "c. 1209",
+      "Endowment": "\u00a32.62 billion (2024; excluding colleges)",
+      "Budget": "\u00a32.24 billion (2023/2024; excluding colleges)",
+      "Chancellor": "The Lord Smith of Finsbury",
+      "Vice-Chancellor": "Deborah Prentice",
+      "Academic staff": "6,090 (2023/24)",
+      "Administrative staff": "7,105 (2023/24)",
+      "Students": "22,710 (2023/24) \u00b7 21,175 FTE (2023/24)",
+      "Undergraduates": "13,570 (2023/24)",
+      "Postgraduates": "9,145 (2023/24)",
+      "Location": "Cambridge, England",
+      "Campus": "- University town: - 617 hectares (1,520 acres)",
+      "Colours": "Cambridge Blue",
+      "Affiliations": "ACU EUA IARU LERU Russell Group SES Universities UK",
+      "Website": "cam.ac.uk"
+    }
+  }
+}

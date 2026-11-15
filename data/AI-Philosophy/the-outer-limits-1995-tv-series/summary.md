@@ -1,0 +1,2 @@
+The Outer Limits is a science fiction anthology television series that originally aired between 1995 and 2002 on Showtime, Syfy, Channel 7 and in syndication. The series is a revival of the original The Outer Limits series that aired from 1963 to 1965.
+The Outer Limits is an anthology of distinct story episodes, sometimes with a plot twist at the end. The revival series maintained an anthology format but occasionally featured recurring story arcs that were then tied together during season-finale clip shows.

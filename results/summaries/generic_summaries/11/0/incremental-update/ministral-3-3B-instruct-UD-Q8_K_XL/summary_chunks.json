@@ -1,0 +1,44 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs) & Transformers: Core Paradigms in Deep Learning\n## Generative Modeling Paradigms\nGenerative Adversarial Networks (GANs) employ an adversarial framework where a **generator (G)** produces synthetic data, and a **discriminator (D)** refines realism. **StyleGAN-3** enhances progressive growth and low-pass filtering, while **Wasserstein GANs (WGANs)** stabilize training via **Wasserstein distance (W\u2081)** and spectral normalization. Variants like **WGAN-GP** mitigate instability, with applications spanning medical imaging, scientific simulations, and artistic generation.\nVariational Autoencoders (VAEs) model complex distributions via **Evidence Lower Bound (ELBO)** , balancing reconstruction error and **KL divergence** , while **Radial Basis Function (RBF) Networks** generate data via clustering centers for chaotic dynamics and function approximation.",
+        "text_original": "Generative Adversarial Networks (GANs) employ an adversarial framework where a **generator (G)** produces synthetic data, and a **discriminator (D)** refines realism. **StyleGAN-3** enhances progressive growth and low-pass filtering, while **Wasserstein GANs (WGANs)** stabilize training via **Wasserstein distance (W\u2081)** and spectral normalization. Variants like **WGAN-GP** mitigate instability, with applications spanning medical imaging, scientific simulations, and artistic generation.\n\nVariational Autoencoders (VAEs) model complex distributions via **Evidence Lower Bound (ELBO)**, balancing reconstruction error and **KL divergence**, while **Radial Basis Function (RBF) Networks** generate data via clustering centers for chaotic dynamics and function approximation",
+        "idx_start": 135,
+        "idx_end": 909
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs) & Transformers: Core Paradigms in Deep Learning\n## Autoencoders: Unsupervised Learning & Multimodal Applications\nAutoencoders excel in **unsupervised learning** , compressing data into latent representations for reconstruction. Key variants include:\n- **Sparse Autoencoders (SAEs)** : Enforce sparsity for efficient feature extraction.\n- **Denoising Autoencoders (DAEs)** : Learn robust representations by reconstructing corrupted inputs.\n- **Contractive Autoencoders (CAEs)** : Preserve smooth, invariant features via Jacobian penalties.\n- **Exponential Efficiency** : Deep autoencoders offer superior compression and nonlinearity compared to shallow models.\n**Applications** span:\n- **Image Processing** : Lossy compression (e.g., outperforming JPEG 2000), denoising (medical imaging), super-resolution, and diagnostic tasks (e.g., breast cancer detection, Alzheimer\u2019s MRI analysis).\n- **Drug Discovery** : Validated molecular structure generation via VAEs (2019).\n- **Social Media** : Stacked autoencoders predict post popularity for targeted advertising.\n- **Communication Systems** : Optimize resilient data encoding for channel impairments, addressing complex channel modeling.",
+        "text_original": "Autoencoders excel in **unsupervised learning**, compressing data into latent representations for reconstruction. Key variants include:\n- **Sparse Autoencoders (SAEs)**: Enforce sparsity for efficient feature extraction.\n- **Denoising Autoencoders (DAEs)**: Learn robust representations by reconstructing corrupted inputs.\n- **Contractive Autoencoders (CAEs)**: Preserve smooth, invariant features via Jacobian penalties.\n- **Exponential Efficiency**: Deep autoencoders offer superior compression and nonlinearity compared to shallow models.\n\n**Applications** span:\n- **Image Processing**: Lossy compression (e.g., outperforming JPEG 2000), denoising (medical imaging), super-resolution, and diagnostic tasks (e.g., breast cancer detection, Alzheimer\u2019s MRI analysis).\n- **Drug Discovery**: Validated molecular structure generation via VAEs (2019).\n- **Social Media**: Stacked autoencoders predict post popularity for targeted advertising.\n- **Communication Systems**: Optimize resilient data encoding for channel impairments, addressing complex channel modeling",
+        "idx_start": 983,
+        "idx_end": 2044
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs) & Transformers: Core Paradigms in Deep Learning\n## Graph Neural Networks (GNNs) & Hybrid Architectures\nGNNs process graph-structured data via **message-passing layers** , with architectures like **Graph Attention Networks (GATs)** using adaptive attention. Applications include cybersecurity, water distribution modeling, and NLP tasks like classification and fact verification. Hybrid systems (e.g., RBF/RNN) enhance chaotic control and sequential tasks.",
+        "text_original": "GNNs process graph-structured data via **message-passing layers**, with architectures like **Graph Attention Networks (GATs)** using adaptive attention. Applications include cybersecurity, water distribution modeling, and NLP tasks like classification and fact verification. Hybrid systems (e.g., RBF/RNN) enhance chaotic control and sequential tasks",
+        "idx_start": 2108,
+        "idx_end": 2458
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs) & Transformers: Core Paradigms in Deep Learning\n## Associative Memory & Optimization\nHopfield networks leverage **fixed-point attractors** for associative memory and optimization, with variants like **binary/continuous networks** and **dense Hopfield networks** achieving exponential memory capacity. Hybrid architectures ensure convergence via layer-specific energy functions.",
+        "text_original": "Hopfield networks leverage **fixed-point attractors** for associative memory and optimization, with variants like **binary/continuous networks** and **dense Hopfield networks** achieving exponential memory capacity. Hybrid architectures ensure convergence via layer-specific energy functions",
+        "idx_start": 2504,
+        "idx_end": 2795
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs) & Transformers: Core Paradigms in Deep Learning\n## Sequential & Multimodal Learning\nRNNs process sequential data, with **LSTM/GRU** , **Bidirectional RNNs (BiRNNs)** , and **Neural Turing Machines (NTMs)** enabling long-term dependencies. **Transformers** dominate generative and multimodal tasks via **self-attention** , with **Vision Transformers (ViTs)** and **Swin Transformer (V2)** improving efficiency. Hybrid models like **LLaVA** bridge vision and language, while **ViT-VQGAN** enables image-to-symbol conversion.",
+        "text_original": "RNNs process sequential data, with **LSTM/GRU**, **Bidirectional RNNs (BiRNNs)**, and **Neural Turing Machines (NTMs)** enabling long-term dependencies. **Transformers** dominate generative and multimodal tasks via **self-attention**, with **Vision Transformers (ViTs)** and **Swin Transformer (V2)** improving efficiency. Hybrid models like **LLaVA** bridge vision and language, while **ViT-VQGAN** enables image-to-symbol conversion",
+        "idx_start": 2840,
+        "idx_end": 3274
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs) & Transformers: Core Paradigms in Deep Learning\n## Explainability & Neuromorphic Systems\nExplainability techniques (e.g., **Class Activation Mapping (CAM)** ) provide pixel-wise insights for CNNs. **Neuromorphic architectures** (e.g., memristive networks) mimic biological systems for non-linear dynamics, while **Hierarchical RNNs (HRNNs)** decompose cognition for tasks like **CPI disaggregation** .",
+        "text_original": "Explainability techniques (e.g., **Class Activation Mapping (CAM)**) provide pixel-wise insights for CNNs. **Neuromorphic architectures** (e.g., memristive networks) mimic biological systems for non-linear dynamics, while **Hierarchical RNNs (HRNNs)** decompose cognition for tasks like **CPI disaggregation",
+        "idx_start": 3324,
+        "idx_end": 3631
+    }
+]

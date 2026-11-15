@@ -1,0 +1,19 @@
+**Education in Poland**
+
+- **Primary School (Podstawówka):** Begins at age 6 or 7, lasting 8 years (grades 1–8) since the 2017 reform, replacing the previous 6-year primary and 3-year middle school (gimnazjum) structure. Children must have attended kindergarten or have a psychological evaluation if not.  
+- **Middle School (Gimnazjum):** Previously existed as a 3-year stage ending general basic education, but abolished in 2017 and replaced with extended primary education.  
+- **Upper Secondary Education:** Includes general education (liceum) and vocational training (technikum, zasadnicza szkoła zawodowa). Students can take the *Matura* exam, which grants access to higher education. Vocational programs lead to a certificate of competence. Profiled schools (liceum profilowane) offer vocational training in fields defined by the PKD.  
+- **Tertiary Education:** Follows the Bologna system with a 3-year bachelor's and 2-year master's degree. Doctoral programs take about 3 years. Teacher training requires a 3-year program.  
+- **Grading System:** Uses a numeric scale from 2 to 5 (with 2.0 as failing, 3.0 as the lowest passing, and 5.0 as the highest). Grades are given twice yearly. A failing grade is common and can be corrected via retake exams.  
+- **Foreign Languages:** Students typically learn one or two languages. English is the most common, followed by German, French, Spanish, and Russian. A 2016 reform required students to learn two foreign languages, with one taught three times a week and the second twice a week.  
+- **History:** Poland had early educational efforts dating back to the 12th century. The Jagiellonian University (founded 1364) and the 1773 Commission of National Education were pivotal. Post-independence, compulsory education began in 1919, and by 1978, only 1.2% of the population was illiterate.  
+- **Education Reforms:** The 1999 reform extended secondary education to 3 years, and the 2017 reform extended primary education to 8 years, abolishing gimnazjum and increasing time in upper secondary. The 2017 reform also changed the curriculum to emphasize Polish and Eurocentric history, removing references to communism and reducing the role of nationalism.  
+- **Violence and Safety:** In 2006, a "zero tolerance" reform was introduced, granting teachers civil servant status and making violent acts punishable by higher penalties. Head teachers could send aggressive students to community service, and parents could be fined.  
+
+**Key Changes:**  
+- Primary education now lasts 8 years (2017 reform).  
+- Middle school (gimnazjum) was abolished.  
+- Upper secondary education now includes more vocational options.  
+- Curriculum reforms in 2017 reduced emphasis on non-Aligned Movement and increased focus on political and military leaders and nobility.  
+- Grading is numeric (2–5), with 2.0 as failing and 5.0 as excellent.  
+- Foreign language requirements were expanded in 2016.

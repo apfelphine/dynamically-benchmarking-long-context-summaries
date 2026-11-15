@@ -1,0 +1,25 @@
+{
+  "id": 51335252,
+  "title": "Knight-Hennessy Scholars",
+  "url": "https://en.wikipedia.org/wiki/Knight-Hennessy_Scholars",
+  "path": "Scholarships\\knight-hennessy-scholars",
+  "summary": {
+    "chars": 1367,
+    "tokens": 270
+  },
+  "document": {
+    "chars": 2335,
+    "tokens": 450
+  },
+  "infobox": {
+    "title": "Knight-Hennessy Scholars",
+    "data": {
+      "Established": "2016",
+      "Director": "John L. Hennessy",
+      "Students": "Up to 100 each year",
+      "Location": "Stanford, CA, USA",
+      "Affiliations": "Stanford University",
+      "Website": "knight-hennessy.stanford.edu"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 675311,
+  "title": "Donald Davies",
+  "url": "https://en.wikipedia.org/wiki/Donald_Davies",
+  "path": "Comp-Sci-Pioneers\\donald-davies",
+  "summary": {
+    "chars": 1356,
+    "tokens": 289
+  },
+  "document": {
+    "chars": 14498,
+    "tokens": 2906
+  },
+  "infobox": {
+    "title": "Donald Watts DaviesCBE FRS",
+    "data": {
+      "Born": "7 June 1924 \u00b7 Treorchy, Rhondda, Wales, United Kingdom",
+      "Died": "28 May 2000 (aged 75) \u00b7 Esher, Surrey, England, United Kingdom",
+      "Alma mater": "Imperial College London",
+      "Known for": "Packet switching \u00b7 NPL network \u00b7 High-speed routers \u00b7 Communication protocols \u00b7 End-to-end principle \u00b7 Computer network security",
+      "Spouse": "Diane Burton (m. 1955)",
+      "Children": "3 (1 daughter, 2 sons)",
+      "Awards": "CBE (1983) \u00b7 FRS (1987) \u00b7 Distinguished Fellow, BCS (1975) \u00b7 IEEE Internet Award (2000) \u00b7 National Inventors Hall of Fame (2007) \u00b7 Internet Hall of Fame (2012)",
+      "Fields": "Computer science \u00b7 Data communications \u00b7 Cryptography",
+      "Institutions": "National Physical Laboratory"
+    }
+  }
+}

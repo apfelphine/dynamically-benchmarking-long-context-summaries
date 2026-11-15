@@ -1,0 +1,3 @@
+The Edmund S. Muskie Internship Program is a professional exchange program supported by the United States Department of State. It is designed to provide summer internship placements, career training, and financial support to graduate students and Eurasian scholars studying in the United States.
+
+The program was established by the United States Congress in the 1992 fiscal year, stemming from the Freedom Support Act of 1992. Its scope and format were renewed and launched by Cultural Vistas in 2015.

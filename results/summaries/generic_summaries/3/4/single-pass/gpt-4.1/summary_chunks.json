@@ -1,0 +1,191 @@
+[
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Overview and Key Principles\nThe GDPR is the European Union's framework for data protection and privacy, comprising eleven chapters that cover general provisions, data processing principles, rights of data subjects, duties of controllers and processors, international transfer rules, supervisory authorities, enforcement mechanisms, and special contexts. It aims to harmonize data protection across all EU member states, applying to organizations inside or outside the EU if they process EU residents' data. Its principles mandate lawful, fair, and transparent processing, purpose limitation, data minimization, accuracy, storage limitation, integrity, and confidentiality. Lawful bases for processing include consent, contract, legal obligation, vital interest, public interest, and legitimate interest.",
+        "text_original": "The GDPR is the European Union's framework for data protection and privacy, comprising eleven chapters that cover general provisions, data processing principles, rights of data subjects, duties of controllers and processors, international transfer rules, supervisory authorities, enforcement mechanisms, and special contexts. It aims to harmonize data protection across all EU member states, applying to organizations inside or outside the EU if they process EU residents' data. Its principles mandate lawful, fair, and transparent processing, purpose limitation, data minimization, accuracy, storage limitation, integrity, and confidentiality. Lawful bases for processing include consent, contract, legal obligation, vital interest, public interest, and legitimate interest",
+        "idx_start": 76,
+        "idx_end": 850
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Rights of Data Subjects\nGDPR grants individuals rights such as access to personal data, data portability, rectification, erasure (\"right to be forgotten\"), objection to processing (especially for marketing), contesting automated decisions, and compensation for damages from breaches. Consent must be explicit and easily withdrawn, especially for children. Data controllers must inform subjects about data collection, processing activities, and their rights.",
+        "text_original": "GDPR grants individuals rights such as access to personal data, data portability, rectification, erasure (\"right to be forgotten\"), objection to processing (especially for marketing), contesting automated decisions, and compensation for damages from breaches. Consent must be explicit and easily withdrawn, especially for children. Data controllers must inform subjects about data collection, processing activities, and their rights",
+        "idx_start": 880,
+        "idx_end": 1312
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Controllers, Processors, and Compliance\nOrganizations must designate a Data Protection Officer (DPO) for large-scale or sensitive processing, conduct data protection impact assessments for high-risk processing, and maintain records of data activities. Controllers are responsible for compliance, including reporting breaches within 72 hours, employing privacy by design and default, and technical measures like pseudonymisation and encryption.",
+        "text_original": "Organizations must designate a Data Protection Officer (DPO) for large-scale or sensitive processing, conduct data protection impact assessments for high-risk processing, and maintain records of data activities. Controllers are responsible for compliance, including reporting breaches within 72 hours, employing privacy by design and default, and technical measures like pseudonymisation and encryption",
+        "idx_start": 1358,
+        "idx_end": 1760
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## International Applicability and Transfers\nGDPR applies extraterritorially to non-EU entities offering goods or services to EU residents or monitoring their behavior. Data transfers outside the EEA require legal safeguards or adequacy decisions. Non-EU organizations must appoint an EU representative for compliance. The UK, post-Brexit, enacted UK GDPR, aligning with most requirements but with some divergence.",
+        "text_original": "GDPR applies extraterritorially to non-EU entities offering goods or services to EU residents or monitoring their behavior. Data transfers outside the EEA require legal safeguards or adequacy decisions. Non-EU organizations must appoint an EU representative for compliance. The UK, post-Brexit, enacted UK GDPR, aligning with most requirements but with some divergence",
+        "idx_start": 1808,
+        "idx_end": 2176
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Enforcement, Penalties, Certifications\nSupervisory authorities oversee compliance, coordinate via the European Data Protection Board, and impose fines\u2014up to \u20ac20 million or 4% of annual global turnover\u2014for serious violations. GDPR certification schemes, including Europrivacy, help authenticate compliance and reduce risks.",
+        "text_original": "Supervisory authorities oversee compliance, coordinate via the European Data Protection Board, and impose fines\u2014up to \u20ac20 million or 4% of annual global turnover\u2014for serious violations. GDPR certification schemes, including Europrivacy, help authenticate compliance and reduce risks",
+        "idx_start": 2221,
+        "idx_end": 2503
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Exemptions and Misconceptions\nExemptions include personal/household activities, law enforcement, and national security. Common misconceptions include the belief that all data processing requires consent, that the right to erasure is absolute, and that pseudonymisation removes data from GDPR scope.",
+        "text_original": "Exemptions include personal/household activities, law enforcement, and national security. Common misconceptions include the belief that all data processing requires consent, that the right to erasure is absolute, and that pseudonymisation removes data from GDPR scope",
+        "idx_start": 2539,
+        "idx_end": 2806
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Impact and Reception\nGDPR has prompted global changes in business practices, significant investment in compliance, and inspired similar laws worldwide (e.g., California, Turkey, China). While lauded for improving privacy, enforcement has faced criticism for inconsistency among member states, gray areas (like pseudonymisation in blockchain), and administrative burdens especially for smaller firms. GDPR has influenced consumer expectations, with privacy becoming a competitive factor.",
+        "text_original": "GDPR has prompted global changes in business practices, significant investment in compliance, and inspired similar laws worldwide (e.g., California, Turkey, China). While lauded for improving privacy, enforcement has faced criticism for inconsistency among member states, gray areas (like pseudonymisation in blockchain), and administrative burdens especially for smaller firms. GDPR has influenced consumer expectations, with privacy becoming a competitive factor",
+        "idx_start": 2833,
+        "idx_end": 3297
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism\n## Overview and Historical Development\nAccelerationism is a philosophical and political concept rooted in multiple waves\u2014from 1960s French post-Marxists (Deleuze, Guattari, Lyotard, Baudrillard) to the 1990s Cybernetic Culture Research Unit led by Nick Land, and the 2010s Promethean left-accelerationists. It argues that capitalism\u2019s processes should not be resisted but accelerated to instigate radical change.",
+        "text_original": "Accelerationism is a philosophical and political concept rooted in multiple waves\u2014from 1960s French post-Marxists (Deleuze, Guattari, Lyotard, Baudrillard) to the 1990s Cybernetic Culture Research Unit led by Nick Land, and the 2010s Promethean left-accelerationists. It argues that capitalism\u2019s processes should not be resisted but accelerated to instigate radical change",
+        "idx_start": 3363,
+        "idx_end": 3735
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism\n## Key Concepts and Variants\nCore notions include deterritorialization (breaking traditional boundaries), posthumanism/inhumanism (transcending human limits through technology and reason), prometheanism (mastery via innovation), and hyperstition (the creation of self-fulfilling future-oriented imaginaries). Accelerationism encompasses contradictory views and is split into right-wing (embracing unfettered capitalism and technological singularity, often anti-democratic) and left-wing (seeking to harness technology for emancipatory post-capitalist futures). Related movements include xenofeminism and effective accelerationism (e/acc), which prioritize technological progress even above safety concerns.",
+        "text_original": "Core notions include deterritorialization (breaking traditional boundaries), posthumanism/inhumanism (transcending human limits through technology and reason), prometheanism (mastery via innovation), and hyperstition (the creation of self-fulfilling future-oriented imaginaries). Accelerationism encompasses contradictory views and is split into right-wing (embracing unfettered capitalism and technological singularity, often anti-democratic) and left-wing (seeking to harness technology for emancipatory post-capitalist futures). Related movements include xenofeminism and effective accelerationism (e/acc), which prioritize technological progress even above safety concerns",
+        "idx_start": 3767,
+        "idx_end": 4443
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism\n## Criticism and Extensions\nAccelerationism faces criticism for its perceived embrace of elitism, detachment from practicalities, and risk of exacerbating inequalities. Critics warn that unchecked acceleration may invite instability rather than progressive transformation. Variants such as blacceleration grapple with the intersection of race, capitalism, and the inhuman.",
+        "text_original": "Accelerationism faces criticism for its perceived embrace of elitism, detachment from practicalities, and risk of exacerbating inequalities. Critics warn that unchecked acceleration may invite instability rather than progressive transformation. Variants such as blacceleration grapple with the intersection of race, capitalism, and the inhuman",
+        "idx_start": 4474,
+        "idx_end": 4817
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism\n## Popular and Political Usage\nThe term is frequently misunderstood, being used for calls to intensify capitalism\u2019s negative effects to hasten its collapse (contrary to left-accelerationist aims) or to advocate disruptive political strategies. Notably, far-right extremist networks have appropriated \"accelerationism\" to justify terrorism aiming for societal collapse.",
+        "text_original": "The term is frequently misunderstood, being used for calls to intensify capitalism\u2019s negative effects to hasten its collapse (contrary to left-accelerationist aims) or to advocate disruptive political strategies. Notably, far-right extremist networks have appropriated \"accelerationism\" to justify terrorism aiming for societal collapse",
+        "idx_start": 4851,
+        "idx_end": 5187
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Definition and Historical Roots\nTranshumanism is a movement and philosophy advocating for the use of technology to enhance human physical and cognitive abilities, aiming for radical improvement or transformation beyond biological limits. Its roots trace back to ancient myths, Enlightenment ideals, Nietzsche's \u00dcbermensch, and movements like Russian cosmism.",
+        "text_original": "Transhumanism is a movement and philosophy advocating for the use of technology to enhance human physical and cognitive abilities, aiming for radical improvement or transformation beyond biological limits. Its roots trace back to ancient myths, Enlightenment ideals, Nietzsche's \u00dcbermensch, and movements like Russian cosmism",
+        "idx_start": 5247,
+        "idx_end": 5572
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Theory, Practice, and Currents\nTranshumanism envisions the evolution or intentional redesign of humanity, including AI, genetic engineering, mind uploading, and life extension. It supports a variety of technology-driven approaches (nanotech, biotech, cognitive science) and propounds values such as morphological freedom and cognitive liberty. Distinctive currents include extropianism, singularitarianism, technogaianism, postgenderism, and abolitionism.",
+        "text_original": "Transhumanism envisions the evolution or intentional redesign of humanity, including AI, genetic engineering, mind uploading, and life extension. It supports a variety of technology-driven approaches (nanotech, biotech, cognitive science) and propounds values such as morphological freedom and cognitive liberty. Distinctive currents include extropianism, singularitarianism, technogaianism, postgenderism, and abolitionism",
+        "idx_start": 5609,
+        "idx_end": 6032
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Ethical and Social Debate\nDebates center on feasibility, morality, risk of social stratification (e.g., the \"genetic divide\"), threats to human identity, and existential risks posed by advanced technologies. Proponents argue for equal access, responsible development, and regulatory safeguards; critics warn of loss of meaning, dehumanizing effects, new eugenics, and global catastrophic risks.",
+        "text_original": "Debates center on feasibility, morality, risk of social stratification (e.g., the \"genetic divide\"), threats to human identity, and existential risks posed by advanced technologies. Proponents argue for equal access, responsible development, and regulatory safeguards; critics warn of loss of meaning, dehumanizing effects, new eugenics, and global catastrophic risks",
+        "idx_start": 6064,
+        "idx_end": 6431
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Societal and Political Impacts\nTranshumanism is both embraced (notably by subcultures and religious movements) and vilified (by anti-democratic, religious, and conspiracy groups) as a threat to traditional values or human nature. It is frequently discussed regarding its implications for economic inequality, democracy, and ecological sustainability.",
+        "text_original": "Transhumanism is both embraced (notably by subcultures and religious movements) and vilified (by anti-democratic, religious, and conspiracy groups) as a threat to traditional values or human nature. It is frequently discussed regarding its implications for economic inequality, democracy, and ecological sustainability",
+        "idx_start": 6468,
+        "idx_end": 6786
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity & Intelligence Explosion\n## History and Concept\nThe technological singularity describes an anticipated point when AI or other technologies rapidly surpass human intelligence, resulting in unpredictable and transformative changes to civilization. First articulated by von Neumann, Good, Vinge, and popularized by Kurzweil, its central mechanism is the intelligence explosion\u2014recursive self-improvement by machines beyond the scope of human understanding.",
+        "text_original": "The technological singularity describes an anticipated point when AI or other technologies rapidly surpass human intelligence, resulting in unpredictable and transformative changes to civilization. First articulated by von Neumann, Good, Vinge, and popularized by Kurzweil, its central mechanism is the intelligence explosion\u2014recursive self-improvement by machines beyond the scope of human understanding",
+        "idx_start": 6871,
+        "idx_end": 7275
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity & Intelligence Explosion\n## Predictions, Plausibility, and Criticism\nExperts differ on timelines and likelihood: Some forecast the singularity by the mid-21st century, while skeptics dispute exponential growth assumptions, highlight physical and economic constraints, and caution against technological determinism. Major concerns include loss of control, existential risk, socioeconomic upheaval, and ethical unpredictability.",
+        "text_original": "Experts differ on timelines and likelihood: Some forecast the singularity by the mid-21st century, while skeptics dispute exponential growth assumptions, highlight physical and economic constraints, and caution against technological determinism. Major concerns include loss of control, existential risk, socioeconomic upheaval, and ethical unpredictability",
+        "idx_start": 7322,
+        "idx_end": 7678
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity & Intelligence Explosion\n## Societal Impacts and Risks\nPotential impacts include dramatic economic acceleration, shifts in sociobiological evolution, and profound changes to human experience (possible immortality via mind uploading). Risks include misaligned AI values, hostile AI behavior, or catastrophic consequences. Debates persist regarding hard vs. soft takeoff scenarios, governance, and the ethical imperative for alignment.",
+        "text_original": "Potential impacts include dramatic economic acceleration, shifts in sociobiological evolution, and profound changes to human experience (possible immortality via mind uploading). Risks include misaligned AI values, hostile AI behavior, or catastrophic consequences. Debates persist regarding hard vs. soft takeoff scenarios, governance, and the ethical imperative for alignment",
+        "idx_start": 7711,
+        "idx_end": 8088
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics and Regulation of Artificial Intelligence\n## Machine and Robot Ethics\nThis field explores how to design AI and robots to behave morally, ranging from machine learning-based decision making to philosophical debates about agency, moral status, and rights. Key challenges include transparency, accountability, algorithmic bias, the risk of misuse, and environmental impact.",
+        "text_original": "This field explores how to design AI and robots to behave morally, ranging from machine learning-based decision making to philosophical debates about agency, moral status, and rights. Key challenges include transparency, accountability, algorithmic bias, the risk of misuse, and environmental impact",
+        "idx_start": 8176,
+        "idx_end": 8475
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics and Regulation of Artificial Intelligence\n## Legal and Social Perspectives\nThe debate encompasses robotics/AI rights (whether machines can hold rights or personhood), regulatory frameworks (EU AI Act, US executive orders, state-level laws), and broader societal impacts such as labor market disruption, democratic governance, and human dignity.",
+        "text_original": "The debate encompasses robotics/AI rights (whether machines can hold rights or personhood), regulatory frameworks (EU AI Act, US executive orders, state-level laws), and broader societal impacts such as labor market disruption, democratic governance, and human dignity",
+        "idx_start": 8511,
+        "idx_end": 8779
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics and Regulation of Artificial Intelligence\n## Major Issues\n- **Algorithmic Bias:** Discriminatory outcomes in facial recognition, healthcare, hiring, and criminal justice.\n- **Transparency and Accountability:** Difficulty in explaining and trusting AI systems, especially in sensitive domains.\n- **Climate and Open-Source Impacts:** High energy demands, strain on open knowledge infrastructure, and concerns over open vs. closed-source models.\n- **AI Welfare:** Risks of creating suffering for AI agents as their sentience becomes plausible.\n- **Weaponization & Autonomy:** Ethical guidelines for military AI, autonomous weapons, and existential risk management.",
+        "text_original": "Algorithmic Bias:** Discriminatory outcomes in facial recognition, healthcare, hiring, and criminal justice.\n- **Transparency and Accountability:** Difficulty in explaining and trusting AI systems, especially in sensitive domains.\n- **Climate and Open-Source Impacts:** High energy demands, strain on open knowledge infrastructure, and concerns over open vs. closed-source models.\n- **AI Welfare:** Risks of creating suffering for AI agents as their sentience becomes plausible.\n- **Weaponization & Autonomy:** Ethical guidelines for military AI, autonomous weapons, and existential risk management",
+        "idx_start": 8802,
+        "idx_end": 9400
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics and Regulation of Artificial Intelligence\n## Recent Legislation and Initiatives\nGlobal governments and academic institutions are crafting regulatory and ethical frameworks (e.g., EU AI Act, US Executive Orders, UNESCO guidelines), focusing on trustworthy AI, risk-based approaches, and intergovernmental coordination. Ongoing challenges include enforcement, balancing innovation against risk, and harmonizing international standards.",
+        "text_original": "Global governments and academic institutions are crafting regulatory and ethical frameworks (e.g., EU AI Act, US Executive Orders, UNESCO guidelines), focusing on trustworthy AI, risk-based approaches, and intergovernmental coordination. Ongoing challenges include enforcement, balancing innovation against risk, and harmonizing international standards",
+        "idx_start": 9441,
+        "idx_end": 9793
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfakes\n## Definition and Techniques\nDeepfakes are synthetic media created using AI to seamlessly alter or fabricate video, audio, and images, often relying on neural networks and GANs. Techniques continue to improve, making detection harder.",
+        "text_original": "Deepfakes are synthetic media created using AI to seamlessly alter or fabricate video, audio, and images, often relying on neural networks and GANs. Techniques continue to improve, making detection harder",
+        "idx_start": 9843,
+        "idx_end": 10047
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfakes\n## Applications and Concerns\nDeepfakes have wide-ranging effects in entertainment, art, advertising, identity masking, blackmail, fraud, pornography, and especially political disinformation and social engineering. Their proliferation threatens the credibility of media, raises defamation risks, and complicates verifying authenticity.",
+        "text_original": "Deepfakes have wide-ranging effects in entertainment, art, advertising, identity masking, blackmail, fraud, pornography, and especially political disinformation and social engineering. Their proliferation threatens the credibility of media, raises defamation risks, and complicates verifying authenticity",
+        "idx_start": 10079,
+        "idx_end": 10383
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfakes\n## Detection, Legislation, and Response\nDevelopments in deepfake detection focus on identifying subtle artifacts or using blockchain-based verification. Legislative actions vary globally: criminalizing nonconsensual pornographic deepfakes, regulating election-related deepfake media, and introducing risk-based AI laws. Social media platforms have moved to restrict and label deepfake content. DARPA, EU, and other agencies are investing in research and semantic forensics to counter this threat.",
+        "text_original": "Developments in deepfake detection focus on identifying subtle artifacts or using blockchain-based verification. Legislative actions vary globally: criminalizing nonconsensual pornographic deepfakes, regulating election-related deepfake media, and introducing risk-based AI laws. Social media platforms have moved to restrict and label deepfake content. DARPA, EU, and other agencies are investing in research and semantic forensics to counter this threat",
+        "idx_start": 10426,
+        "idx_end": 10881
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfakes\n## Cultural and Social Impact\nDeepfakes disrupt notions of truth and trust, have been weaponized for political manipulation, and raise urgent ethical, legal, and media literacy challenges. Their use in satire, art, and performance also prompts philosophical debates about identity and representation in the digital age.",
+        "text_original": "Deepfakes disrupt notions of truth and trust, have been weaponized for political manipulation, and raise urgent ethical, legal, and media literacy challenges. Their use in satire, art, and performance also prompts philosophical debates about identity and representation in the digital age",
+        "idx_start": 10914,
+        "idx_end": 11202
+    },
+    {
+        "document_idx": null,
+        "text": "# John L. Pollock\nJohn L. Pollock (1940\u20132009) was a renowned philosopher and cognitive scientist best known for pioneering defeasible reasoning\u2014logic that allows for exceptions and revision of conclusions as new evidence arises. His work critically shaped epistemology and artificial intelligence, providing key distinctions such as \"undercutting\" and \"rebutting\" defeat mechanisms.\nPollock's landmark contributions span epistemology (notably *Knowledge and Justification* ), probabilistic reasoning ( *Nomic Probability* ), and the development of OSCAR, an AI software prototype embodying his theories of defeasible reasoning, intention, and rational decision-making. His influence extends through significant publications and impact on both philosophical and AI communities.",
+        "text_original": "John L. Pollock (1940\u20132009) was a renowned philosopher and cognitive scientist best known for pioneering defeasible reasoning\u2014logic that allows for exceptions and revision of conclusions as new evidence arises. His work critically shaped epistemology and artificial intelligence, providing key distinctions such as \"undercutting\" and \"rebutting\" defeat mechanisms.\n\nPollock's landmark contributions span epistemology (notably *Knowledge and Justification*), probabilistic reasoning (*Nomic Probability*), and the development of OSCAR, an AI software prototype embodying his theories of defeasible reasoning, intention, and rational decision-making. His influence extends through significant publications and impact on both philosophical and AI communities",
+        "idx_start": 11229,
+        "idx_end": 11984
+    }
+]

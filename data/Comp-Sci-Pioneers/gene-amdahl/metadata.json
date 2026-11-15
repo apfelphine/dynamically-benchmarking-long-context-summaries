@@ -1,0 +1,30 @@
+{
+  "id": 247897,
+  "title": "Gene Amdahl",
+  "url": "https://en.wikipedia.org/wiki/Gene_Amdahl",
+  "path": "Comp-Sci-Pioneers\\gene-amdahl",
+  "summary": {
+    "chars": 326,
+    "tokens": 74
+  },
+  "document": {
+    "chars": 7018,
+    "tokens": 1521
+  },
+  "infobox": {
+    "title": "Gene Amdahl",
+    "data": {
+      "Born": "November 16, 1922 \u00b7 Flandreau, South Dakota, U.S.",
+      "Died": "November 10, 2015 (aged 92) \u00b7 Palo Alto, California, U.S.",
+      "Alma mater": "South Dakota State University (BS, 1948) \u00b7 University of Wisconsin (MS; PhD, 1952)",
+      "Known for": "Founding Amdahl Corporation; formulating Amdahl's law; IBM 360, 704",
+      "Spouse": "Marian Delaine Quissell",
+      "Children": "- Andrea Leigh Amdahl - Beth Delaine Amdahl - Carlton Gene Amdahl",
+      "Awards": "National Academy of Engineering (1967) \u00b7 Computer History Museum Fellow (1998)",
+      "Fields": "Entrepreneur \u00b7 Computer science",
+      "Institutions": "Degrees in theoretical physics from the University of Wisconsin",
+      "Thesis": "The Logical Design of an Intermediate Speed Digital Computer (1953)",
+      "Doctoral advisor": "Robert G. Sachs"
+    }
+  }
+}

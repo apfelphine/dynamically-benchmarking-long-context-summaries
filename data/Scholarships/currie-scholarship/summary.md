@@ -1,0 +1,1 @@
+The Currie Undergraduate Scholarship (formerly known as the Blake-Kirkpatrick scholarship) is Atlantic Canada's largest undergraduate scholarship, and is awarded to four students each year by the University of New Brunswick. It was established in 2004 by UNB Chancellor Emeritus Richard J. Currie.

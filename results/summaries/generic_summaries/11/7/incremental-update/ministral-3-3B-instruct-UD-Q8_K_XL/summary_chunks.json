@@ -1,0 +1,44 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Networks (GNNs) & Variational Autoencoders (VAEs): Comprehensive Overview\n## Graph Neural Networks (GNNs): Foundational Mechanisms & Applications\nGNNs employ **message-passing frameworks** , integrating local operations (e.g., k-NN, self-attention) with global pooling (sum/mean/max) across architectures like **MPNNs, GATs, and GGS-NNs** . They are pivotal in domains such as **protein folding, fraud detection, social networks, combinatorial optimization, cybersecurity, and NLP tasks** (e.g., semantic relationship extraction). Their adaptability in pooling and attention mechanisms enhances performance in relational structures.",
+        "text_original": "GNNs employ **message-passing frameworks**, integrating local operations (e.g., k-NN, self-attention) with global pooling (sum/mean/max) across architectures like **MPNNs, GATs, and GGS-NNs**. They are pivotal in domains such as **protein folding, fraud detection, social networks, combinatorial optimization, cybersecurity, and NLP tasks** (e.g., semantic relationship extraction). Their adaptability in pooling and attention mechanisms enhances performance in relational structures",
+        "idx_start": 169,
+        "idx_end": 652
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Networks (GNNs) & Variational Autoencoders (VAEs): Comprehensive Overview\n## Hopfield Networks: Cognitive & Optimization Foundations\nInspired by cognitive psychology, Hopfield networks utilize **binary units** and symmetric weights for associative memory via **Hebbian learning** , operating on a **complete graph** for energy minimization. Their **2024 Nobel Prize recognition** underscores their utility in associative recall and optimization, solving **NP-hard problems** (e.g., TSP, job scheduling) via **attractor states** or pseudo-cuts ( `U(k)` ). Hierarchical variants improve scalability, though retrieval errors may arise with semantically similar intrusions.",
+        "text_original": "Inspired by cognitive psychology, Hopfield networks utilize **binary units** and symmetric weights for associative memory via **Hebbian learning**, operating on a **complete graph** for energy minimization. Their **2024 Nobel Prize recognition** underscores their utility in associative recall and optimization, solving **NP-hard problems** (e.g., TSP, job scheduling) via **attractor states** or pseudo-cuts (`U(k)`). Hierarchical variants improve scalability, though retrieval errors may arise with semantically similar intrusions",
+        "idx_start": 715,
+        "idx_end": 1247
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformers: Architecture, Extensions & Multimodal Dominance\n## Core Architecture & Variants\nTransformers revolutionize sequential modeling with **self-attention** , enabling parallel processing via **scaled dot-product attention** (with masked/causal masking) and **multihead attention** . Their architecture integrates **self-/cross-attention** , **feedforward networks** , **residual connections** , and **layer normalization** , dominating NLP (e.g., BERT, GPT), vision (ViT), and generative modeling. Key variants include:\n- **Encoder-only** (e.g., BERT): Text-to-embedding mapping.\n- **Decoder-only** (e.g., GPT series): Optimized for text generation/instruction following.\n- **Encoder\u2013decoder** (e.g., T5): Standard transformer with cross-attention.\n- **PrefixLM** : Rare decoder-only variant with prefix masking.",
+        "text_original": "Transformers revolutionize sequential modeling with **self-attention**, enabling parallel processing via **scaled dot-product attention** (with masked/causal masking) and **multihead attention**. Their architecture integrates **self-/cross-attention**, **feedforward networks**, **residual connections**, and **layer normalization**, dominating NLP (e.g., BERT, GPT), vision (ViT), and generative modeling. Key variants include:\n- **Encoder-only** (e.g., BERT): Text-to-embedding mapping.\n- **Decoder-only** (e.g., GPT series): Optimized for text generation/instruction following.\n- **Encoder\u2013decoder** (e.g., T5): Standard transformer with cross-attention.\n- **PrefixLM**: Rare decoder-only variant with prefix masking",
+        "idx_start": 1359,
+        "idx_end": 2078
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformers: Architecture, Extensions & Multimodal Dominance\n## Optimizations & Efficiency\n- **FlashAttention-2/4** : Accelerates inference via FP8 support and reduced FLOPs (up to **9x faster** ).\n- **Sub-Quadratic Scaling** : Achieves **linear/logarithmic complexity** (O(N) or O(N ln N)) via sparse attention (e.g., BigBird), Reformer (LSH-based), or random feature approximations (e.g., Performer).\n- **Multihead Latent Attention (MLA)** : Minimizes KV cache overhead with low-rank approximations.",
+        "text_original": "FlashAttention-2/4**: Accelerates inference via FP8 support and reduced FLOPs (up to **9x faster**).\n- **Sub-Quadratic Scaling**: Achieves **linear/logarithmic complexity** (O(N) or O(N ln N)) via sparse attention (e.g., BigBird), Reformer (LSH-based), or random feature approximations (e.g., Performer).\n- **Multihead Latent Attention (MLA)**: Minimizes KV cache overhead with low-rank approximations",
+        "idx_start": 2116,
+        "idx_end": 2517
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformers: Architecture, Extensions & Multimodal Dominance\n## Multimodal Transformers\nTransformers extend to non-text modalities through **patch-based encoding** :\n- **Vision:** ViT processes images into vectors.\n- **Speech:** Conformer/Whisper converts spectrograms into patches.\n- **Multimodal:** Perceivers adapt transformers for mixed modalities.\n- **Generative Models:** DALL-E (decoder-only), Parti (encoder-decoder), Muse (masked prediction), and Phenaki (text-to-video).",
+        "text_original": "Transformers extend to non-text modalities through **patch-based encoding**:\n- **Vision:** ViT processes images into vectors.\n- **Speech:** Conformer/Whisper converts spectrograms into patches.\n- **Multimodal:** Perceivers adapt transformers for mixed modalities.\n- **Generative Models:** DALL-E (decoder-only), Parti (encoder-decoder), Muse (masked prediction), and Phenaki (text-to-video",
+        "idx_start": 2548,
+        "idx_end": 2937
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformers: Architecture, Extensions & Multimodal Dominance\n## Applications\nTransformers dominate **NLP** (e.g., GPT-4, BERT, RoBERTa) in tasks like machine translation, summarization, and code generation. Beyond NLP, they excel in:\n- **Biological sequences** (e.g., AlphaFold for protein folding).\n- **Video understanding** and **chess evaluation** (Elo 2895 with static analysis).\n- **Fine-tuning:** Models like Vicuna-13B achieve competitive performance with minimal data (0.03% parameters).",
+        "text_original": "Transformers dominate **NLP** (e.g., GPT-4, BERT, RoBERTa) in tasks like machine translation, summarization, and code generation. Beyond NLP, they excel in:\n- **Biological sequences** (e.g., AlphaFold for protein folding).\n- **Video understanding** and **chess evaluation** (Elo 2895 with static analysis).\n- **Fine-tuning:** Models like Vicuna-13B achieve competitive performance with minimal data (0.03% parameters",
+        "idx_start": 2958,
+        "idx_end": 3374
+    }
+]

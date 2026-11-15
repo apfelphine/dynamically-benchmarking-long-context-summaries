@@ -1,0 +1,5 @@
+Education in Spain is compulsory and free for all children aged between 6 and 16 years and is supported by the national government together with the governments of each of the country's 17 autonomous communities.
+In Spain, primary school and secondary school are considered basic (obligatory) education. These are Primaria (6–12 years old) and Secundaria (12–16 years old).
+As of 2020–21, Spain has 9,909,886 students. The largest group corresponds to primary education, with 4,654,727 students followed by secondary education with 2,730,036 and university students with 1,633,358. The smallest group is those in vocational education, with 887,710 students.
+The Spanish education system is regulated by the Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa (LOMCE, Organic Law for the improvement of educational quality) that expands upon Article 27 of the Spanish Constitution of 1978.
+Spain is working towards reforming vocational education and modernizing education to halt and reverse the rising unemployment rates.

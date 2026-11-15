@@ -1,0 +1,23 @@
+{
+  "id": 81638116,
+  "title": "OAGI Ontogenetic Architecture of General Intelligence",
+  "url": "https://en.wikipedia.org/wiki/OAGI_Ontogenetic_Architecture_of_General_Intelligence",
+  "path": "AI-Regulations\\oagi-ontogenetic-architecture-of-general-intelligence",
+  "summary": {
+    "chars": 531,
+    "tokens": 91
+  },
+  "document": {
+    "chars": 6062,
+    "tokens": 1068
+  },
+  "infobox": {
+    "title": "Ontogenetic Architecture of General Intelligence",
+    "data": {
+      "Proposed": "2025",
+      "Field": "Artificial general intelligence, Cognitive science",
+      "Basis": "Neural development, Active inference",
+      "Related concepts": "Developmental robotics, Embodied cognition, AI safety"
+    }
+  }
+}

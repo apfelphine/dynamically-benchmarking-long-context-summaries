@@ -1,0 +1,2 @@
+Marvin Lee Minsky (August 9, 1927 – January 24, 2016) was an American cognitive and computer scientist concerned largely with research in artificial intelligence (AI). He co-founded the Massachusetts Institute of Technology's AI laboratory and wrote extensively about AI and philosophy.
+Minsky received many accolades and honors, including the 1969 Turing Award. He is known as the "father of AI".

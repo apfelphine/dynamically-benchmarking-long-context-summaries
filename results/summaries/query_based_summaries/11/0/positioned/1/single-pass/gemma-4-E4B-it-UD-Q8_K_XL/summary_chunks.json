@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\nThe original GAN is a zero-sum game played between two players: a generator ($\\mu_G$) and a discriminator. The generator seeks to minimize the objective function $L(\\mu_G, D)$, aiming to make its output distribution match the reference distribution ($\\mu_{\\text{ref}}$). The discriminator aims to maximize this objective, attempting to distinguish between real data from $\\mu_{\\text{ref}}$ and synthetic data from $\\mu_G$. In practice, the generator maps from a latent space ($\\mu_Z$) via a function $G$ ($\\mu_G = \\mu_Z \\circ G^{-1}$), leading to the objective $L(G, D) = \\mathbb{E} *{x\\sim \\mu* {\\text{ref}}}[\\ln D(x)] + \\mathbb{E}_{z\\sim \\mu_Z}[\\ln(1-D(G(z)))]$.\nThe optimal discriminator for the original GAN computes the Jensen\u2013Shannon divergence, $D_{JS}(\\mu_{\\text{ref}};\\mu_G)$. A unique equilibrium exists where the generator perfectly mimics the reference ($\\mu_G = \\mu_{\\text{ref}}$) and the discriminator outputs $\\frac{1}{2}$ constantly.",
+        "text_original": "The original GAN is a zero-sum game played between two players: a generator ($\\mu_G$) and a discriminator. The generator seeks to minimize the objective function $L(\\mu_G, D)$, aiming to make its output distribution match the reference distribution ($\\mu_{\\text{ref}}$). The discriminator aims to maximize this objective, attempting to distinguish between real data from $\\mu_{\\text{ref}}$ and synthetic data from $\\mu_G$. In practice, the generator maps from a latent space ($\\mu_Z$) via a function $G$ ($\\mu_G = \\mu_Z \\circ G^{-1}$), leading to the objective $L(G, D) = \\mathbb{E}_{x\\sim \\mu_{\\text{ref}}}[\\ln D(x)] + \\mathbb{E}_{z\\sim \\mu_Z}[\\ln(1-D(G(z)))]$.\n\nThe optimal discriminator for the original GAN computes the Jensen\u2013Shannon divergence, $D_{JS}(\\mu_{\\text{ref}};\\mu_G)$. A unique equilibrium exists where the generator perfectly mimics the reference ($\\mu_G = \\mu_{\\text{ref}}$) and the discriminator outputs $\\frac{1}{2}$ constantly",
+        "idx_start": 41,
+        "idx_end": 988
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\nWGAN modifies the GAN game by using the Wasserstein metric instead of the original divergence criteria. In this variant, the discriminator (now called a \"critic\") is restricted to functions $D:\\Omega \\to \\mathbb{R}$ with a bounded Lipschitz norm ($ | D | *L \\leq K$). The WGAN objective is $L* {WGAN}(\\mu_G, D) = \\mathbb{E} *{x\\sim \\mu_G}[D(x)] - \\mathbb{E}* {x\\sim \\mu_{\\text{ref}}}[D(x)]$. This approach allows the discriminator to provide a better gradient signal to the generator and is claimed to help solve the mode collapse issue inherent in the standard GAN.",
+        "text_original": "WGAN modifies the GAN game by using the Wasserstein metric instead of the original divergence criteria. In this variant, the discriminator (now called a \"critic\") is restricted to functions $D:\\Omega \\to \\mathbb{R}$ with a bounded Lipschitz norm ($\\|D\\|_L \\leq K$). The WGAN objective is $L_{WGAN}(\\mu_G, D) = \\mathbb{E}_{x\\sim \\mu_G}[D(x)] - \\mathbb{E}_{x\\sim \\mu_{\\text{ref}}}[D(x)]$. This approach allows the discriminator to provide a better gradient signal to the generator and is claimed to help solve the mode collapse issue inherent in the standard GAN",
+        "idx_start": 1018,
+        "idx_end": 1578
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of GAN Concepts\nGANs are implicit generative models, unlike flow-based models, and they can generate a complete sample in one pass. The standard GAN objective can be recast as a minimax game ($\\min_G \\max_D L(G,D)$). Training stability issues, such as mode collapse or vanishing gradients, are addressed by techniques like the two time-scale update rule or by utilizing WGAN.",
+        "text_original": "GANs are implicit generative models, unlike flow-based models, and they can generate a complete sample in one pass. The standard GAN objective can be recast as a minimax game ($\\min_G \\max_D L(G,D)$). Training stability issues, such as mode collapse or vanishing gradients, are addressed by techniques like the two time-scale update rule or by utilizing WGAN",
+        "idx_start": 1609,
+        "idx_end": 1967
+    }
+]

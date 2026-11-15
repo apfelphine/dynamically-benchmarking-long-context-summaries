@@ -1,0 +1,29 @@
+{
+  "id": 415974,
+  "title": "John Tukey",
+  "url": "https://en.wikipedia.org/wiki/John_Tukey",
+  "path": "Comp-Sci-Pioneers\\john-tukey",
+  "summary": {
+    "chars": 432,
+    "tokens": 114
+  },
+  "document": {
+    "chars": 10739,
+    "tokens": 2724
+  },
+  "infobox": {
+    "title": "John Tukey",
+    "data": {
+      "Born": "June 16, 1915 \u00b7 New Bedford, Massachusetts, U.S.",
+      "Died": "July 26, 2000 (aged 85) \u00b7 New Brunswick, New Jersey, U.S.",
+      "Education": "- Brown University (BA, MS) - Princeton University (PhD)",
+      "Known for": "- Exploratory data analysis - Multiple comparisons problem - Projection pursuit - Box plot - Blackman\u2013Tukey transformation - Cooley\u2013Tukey FFT algorithm - Freeman\u2013Tukey transformation - Siegel\u2013Tukey test - Stone\u2013Tukey theorem - Tukey\u2013Duckworth test - Tukey's range test - Tukey lambda distribution - Tukey's trimean - Tukey's test of additivity - Tukey's lemma - Tukey mean difference plot - Tukey median - Tukey depth - Tukey's biweight function - Tukey's fences - Tukey window - Cepstrum - Flexagon - Median polish - Midhinge - Slash distribution - Theory of conjoint measurement - Coining the term 'bit' - Scagnostics",
+      "Awards": "- Wilks Memorial Award (1965) - National Medal of Science (1973) - Shewhart Medal (1976) - IEEE Medal of Honor (1982) - Deming Medal (1982) - Foreign Member of the Royal Society (1991)",
+      "Fields": "Topology",
+      "Institutions": "- Bell Labs - Princeton University",
+      "Thesis": "On Denumerability in Topology",
+      "Doctoral advisor": "Solomon Lefschetz",
+      "Doctoral students": "- David R. Brillinger - Kai Lai Chung - Arthur Dempster - Leo Goodman - Karen Kafadar - Paul Meier - Frederick Mosteller - John A. Hartigan"
+    }
+  }
+}

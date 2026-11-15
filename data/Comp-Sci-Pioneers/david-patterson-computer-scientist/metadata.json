@@ -1,0 +1,30 @@
+{
+  "id": 816239,
+  "title": "David Patterson (computer scientist)",
+  "url": "https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)",
+  "path": "Comp-Sci-Pioneers\\david-patterson-computer-scientist",
+  "summary": {
+    "chars": 1053,
+    "tokens": 224
+  },
+  "document": {
+    "chars": 6869,
+    "tokens": 1592
+  },
+  "infobox": {
+    "title": "David Patterson",
+    "data": {
+      "Born": "David Andrew Patterson \u00b7 November 16, 1947 \u00b7 Evergreen Park, Illinois, U.S.",
+      "Education": "University of California, Los Angeles (BA, MS, PhD)",
+      "Known for": "Reduced instruction set computer \u00b7 RAID \u00b7 Network of Workstations",
+      "Spouse": "Linda Patterson (1967)",
+      "Awards": "- Charles Stark Draper Prize (2022) - Turing Award (2017) - Eckert\u2013Mauchly Award (2008) - Member of the National Academy of Sciences (2006) - Fellow of the American Association for the Advancement of Science - ACM Fellow (1994)",
+      "Fields": "Computer systems",
+      "Institutions": "University of California, Berkeley",
+      "Thesis": "Verification of Microprograms (1976)",
+      "Doctoral advisor": "David F. Martin \u00b7 Gerald Estrin",
+      "Doctoral students": "- Remzi Arpaci-Dusseau - Michael Dahlin - Garth Gibson - Mark D. Hill - Kimberly Keeton - Christos Kozyrakis - David Ungar",
+      "Website": "www2.eecs.berkeley.edu/Faculty/Homepages/patterson.html"
+    }
+  }
+}

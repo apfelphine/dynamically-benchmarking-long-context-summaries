@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding "Education in the United States." Therefore, a summary focusing exclusively on that topic cannot be generated.

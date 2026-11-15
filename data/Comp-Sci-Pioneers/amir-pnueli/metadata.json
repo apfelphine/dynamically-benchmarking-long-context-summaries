@@ -1,0 +1,26 @@
+{
+  "id": 308365,
+  "title": "Amir Pnueli",
+  "url": "https://en.wikipedia.org/wiki/Amir_Pnueli",
+  "path": "Comp-Sci-Pioneers\\amir-pnueli",
+  "summary": {
+    "chars": 139,
+    "tokens": 52
+  },
+  "document": {
+    "chars": 1949,
+    "tokens": 440
+  },
+  "infobox": {
+    "title": "Amir Pnueli",
+    "data": {
+      "Born": "April 22, 1941 \u00b7 Nahalal, Mandate for Palestine",
+      "Died": "2 November 2009 (aged 68) \u00b7 New York, United States",
+      "Education": "Israel Institute of Technology (BS) \u00b7 Weizmann Institute of Science (MS, PhD)",
+      "Awards": "Turing Award (1996) \u00b7 Israel Prize",
+      "Fields": "Computer Science",
+      "Institutions": "Tel Aviv University \u00b7 Weizmann Institute \u00b7 New York University \u00b7 University of Pennsylvania \u00b7 Stanford University",
+      "Doctoral students": "- Mordechai Ben-Ari - Dana Fisman - Nissim Francez - Doron A. Peled - Ofer Strichman - Lenore Zuck"
+    }
+  }
+}

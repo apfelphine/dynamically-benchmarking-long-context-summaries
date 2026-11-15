@@ -1,0 +1,1 @@
+In neural networks, the gating mechanism is an architectural motif for controlling the flow of activation and gradient signals. They are most prominently used in recurrent neural networks (RNNs), but have also found applications in other architectures.

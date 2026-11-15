@@ -1,0 +1,1 @@
+The provided text does not contain information regarding "John von Neumann." The document exclusively details the biographies, works, and philosophies of Noam Chomsky, Bertrand Russell, Gottfried Wilhelm Leibniz, Garry Kasparov, and Charles Sanders Peirce. Consequently, no summary about John von Neumann can be generated based strictly on the provided text.

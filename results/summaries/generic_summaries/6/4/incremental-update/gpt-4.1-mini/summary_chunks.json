@@ -1,0 +1,135 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Per Brinch Hansen\n- Danish pioneer in computer architecture and concurrent programming; developed the RC 4000 system and monitors for safe concurrency.\n- Created Concurrent Pascal and SuperPascal; founded USC computer science department; advanced parallel and distributed programming.\n- Emphasized clarity and simplicity; influenced operating systems and concurrency theory.\n- Recognized as IEEE Fellow and Computer Pioneer awardee.",
+        "text_original": "Danish pioneer in computer architecture and concurrent programming; developed the RC 4000 system and monitors for safe concurrency.\n- Created Concurrent Pascal and SuperPascal; founded USC computer science department; advanced parallel and distributed programming.\n- Emphasized clarity and simplicity; influenced operating systems and concurrency theory.\n- Recognized as IEEE Fellow and Computer Pioneer awardee",
+        "idx_start": 143,
+        "idx_end": 554
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Al-Khwarizmi\n- 9th-century Persian polymath at Baghdad\u2019s House of Wisdom; founded algebra as an independent discipline and inspired the term \"algorithm.\"\n- Contributions extended to astronomy and geography; honored with lunar and asteroid namesakes.",
+        "text_original": "th-century Persian polymath at Baghdad\u2019s House of Wisdom; founded algebra as an independent discipline and inspired the term \"algorithm.\"\n- Contributions extended to astronomy and geography; honored with lunar and asteroid namesakes",
+        "idx_start": 576,
+        "idx_end": 808
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Herbert A. Simon\n- Political scientist and economist; introduced bounded rationality and satisficing; created the Logic Theory Machine and General Problem Solver.\n- Pioneered cognitive modeling and behavioral economics; Nobel laureate and Turing Award winner.",
+        "text_original": "Political scientist and economist; introduced bounded rationality and satisficing; created the Logic Theory Machine and General Problem Solver.\n- Pioneered cognitive modeling and behavioral economics; Nobel laureate and Turing Award winner",
+        "idx_start": 833,
+        "idx_end": 1072
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Gottlob Frege\n- German mathematician and philosopher; originated modern logic and foundations of arithmetic.\n- Developed axiomatic predicate logic, function-argument analysis, concept-object and Sinn-Bedeutung distinctions.\n- Basic Law V led to Russell\u2019s paradox; founder of analytic philosophy.",
+        "text_original": "German mathematician and philosopher; originated modern logic and foundations of arithmetic.\n- Developed axiomatic predicate logic, function-argument analysis, concept-object and Sinn-Bedeutung distinctions.\n- Basic Law V led to Russell\u2019s paradox; founder of analytic philosophy",
+        "idx_start": 1094,
+        "idx_end": 1372
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Edsger W. Dijkstra\n- Dutch computer scientist; developed shortest path algorithm, semaphores, layered THE operating system.\n- Advocated program design, simplicity, and opposed goto statements; authored influential critiques.\n- Turing Award winner; major influence on programming methodology.",
+        "text_original": "Dutch computer scientist; developed shortest path algorithm, semaphores, layered THE operating system.\n- Advocated program design, simplicity, and opposed goto statements; authored influential critiques.\n- Turing Award winner; major influence on programming methodology",
+        "idx_start": 1399,
+        "idx_end": 1668
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Grace Hopper\n- Mathematician and Navy rear admiral; developed early compilers; key in CODASYL and COBOL development.\n- Popularized \"debugging\"; honored with major awards; namesake for ACM Grace Hopper Award and USS Hopper.",
+        "text_original": "Mathematician and Navy rear admiral; developed early compilers; key in CODASYL and COBOL development.\n- Popularized \"debugging\"; honored with major awards; namesake for ACM Grace Hopper Award and USS Hopper",
+        "idx_start": 1689,
+        "idx_end": 1895
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Claude Shannon\n- American mathematician and engineer; founded information theory and digital circuit design.\n- Key WWII cryptography efforts; pioneering work in computer chess and AI.\n- Known as father of the Digital Age; internationally honored.",
+        "text_original": "American mathematician and engineer; founded information theory and digital circuit design.\n- Key WWII cryptography efforts; pioneering work in computer chess and AI.\n- Known as father of the Digital Age; internationally honored",
+        "idx_start": 1918,
+        "idx_end": 2146
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Federico Faggin\n- Italian physicist; pioneered silicon-gate technology and microprocessors including Intel 4004 and Z80.\n- Co-founded Synaptics; innovated touchscreens and neural networks.\n- Proposed quantum theory of consciousness; received major technology awards.",
+        "text_original": "Italian physicist; pioneered silicon-gate technology and microprocessors including Intel 4004 and Z80.\n- Co-founded Synaptics; innovated touchscreens and neural networks.\n- Proposed quantum theory of consciousness; received major technology awards",
+        "idx_start": 2170,
+        "idx_end": 2417
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Donald Knuth\n- American computer scientist; authored *The Art of Computer Programming* .\n- Developed TeX and literate programming; influential educator and author.\n- Recipient of ACM Hopper, Turing Award, National Medal of Science, Kyoto Prize.",
+        "text_original": "American computer scientist; authored *The Art of Computer Programming*.\n- Developed TeX and literate programming; influential educator and author.\n- Recipient of ACM Hopper, Turing Award, National Medal of Science, Kyoto Prize",
+        "idx_start": 2438,
+        "idx_end": 2665
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Jacek Karpi\u0144ski\n- Polish engineer and WWII resistance fighter; pioneered neural networks and advanced minicomputers like K-202.\n- Innovations suppressed politically; posthumously honored.",
+        "text_original": "Polish engineer and WWII resistance fighter; pioneered neural networks and advanced minicomputers like K-202.\n- Innovations suppressed politically; posthumously honored",
+        "idx_start": 2689,
+        "idx_end": 2857
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Lynn Conway\n- American computer scientist and transgender pioneer; revolutionized VLSI chip design with scalable, standardized methods.\n- Advanced chip fabrication at Xerox PARC; transgender rights advocate.\n- IEEE Fellow, National Academy member, National Inventors Hall of Fame inductee.",
+        "text_original": "American computer scientist and transgender pioneer; revolutionized VLSI chip design with scalable, standardized methods.\n- Advanced chip fabrication at Xerox PARC; transgender rights advocate.\n- IEEE Fellow, National Academy member, National Inventors Hall of Fame inductee",
+        "idx_start": 2877,
+        "idx_end": 3151
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Kenneth E. Iverson\n- Canadian mathematician; developed notation leading to APL and J programming languages.\n- Formalized IBM System/360 architecture; influential educator and author.\n- Awarded IBM Fellow, IEEE Harry H. Goode Award, Turing Award.",
+        "text_original": "Canadian mathematician; developed notation leading to APL and J programming languages.\n- Formalized IBM System/360 architecture; influential educator and author.\n- Awarded IBM Fellow, IEEE Harry H. Goode Award, Turing Award",
+        "idx_start": 3178,
+        "idx_end": 3401
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Kurt G\u00f6del\n- Austrian logician; proved incompleteness theorems revealing limits of formal systems.\n- Contributed to set theory, computability, mathematical logic; developed G\u00f6del metric and formal ontological proof of God.\n- Einstein\u2019s IAS colleague; recipient of Albert Einstein Award and National Medal of Science.",
+        "text_original": "Austrian logician; proved incompleteness theorems revealing limits of formal systems.\n- Contributed to set theory, computability, mathematical logic; developed G\u00f6del metric and formal ontological proof of God.\n- Einstein\u2019s IAS colleague; recipient of Albert Einstein Award and National Medal of Science",
+        "idx_start": 3420,
+        "idx_end": 3722
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## George Boole\n- English mathematician and philosopher; founded symbolic Boolean logic linking logic and probability.\n- Combined logic with mysticism and religion; authored *Laws of Thought* .\n- Boolean algebra underpins digital circuits and computing.\n- Ancestor of Geoffrey Hinton, AI pioneer and 2024 Nobel laureate.",
+        "text_original": "English mathematician and philosopher; founded symbolic Boolean logic linking logic and probability.\n- Combined logic with mysticism and religion; authored *Laws of Thought*.\n- Boolean algebra underpins digital circuits and computing.\n- Ancestor of Geoffrey Hinton, AI pioneer and 2024 Nobel laureate",
+        "idx_start": 3743,
+        "idx_end": 4043
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Ismail al-Jazari\n- 12th-century engineer; authored *The Book of Knowledge of Ingenious Mechanical Devices* presenting practical engineering designs.\n- Invented foundational mechanical components: crankshaft, camshaft, escapement, conical valves, segmental gears.\n- Advanced construction techniques: timber lamination, static balancing, templates, closed mold casting.\n- Developed water-raising machines influencing steam engine principles.\n- Created intricate water-powered automata and sophisticated timekeeping devices like elephant and astronomical clocks.\n- Introduced programmable musical mechanisms and bayonet fittings.\n- Bridged ancient Greek engineering and European robotics; influenced figures like Leonardo da Vinci.",
+        "text_original": "th-century engineer; authored *The Book of Knowledge of Ingenious Mechanical Devices* presenting practical engineering designs.\n- Invented foundational mechanical components: crankshaft, camshaft, escapement, conical valves, segmental gears.\n- Advanced construction techniques: timber lamination, static balancing, templates, closed mold casting.\n- Developed water-raising machines influencing steam engine principles.\n- Created intricate water-powered automata and sophisticated timekeeping devices like elephant and astronomical clocks.\n- Introduced programmable musical mechanisms and bayonet fittings.\n- Bridged ancient Greek engineering and European robotics; influenced figures like Leonardo da Vinci",
+        "idx_start": 4070,
+        "idx_end": 4776
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Ramon Llull\n- 13th-century Majorcan philosopher and missionary developing the *Art* , a universal logical and combinatorial system blending Islamic logic and Christian theology.\n- Authored allegorical dialogues and extensive tree diagrams to systematize knowledge; promoted multilingual education and interfaith dialogue.\n- Popularized his Art through narrative prose; initially opposed but later influential in European metaphysics and humanism.\n- Experienced revival under Cardinal Cisneros; beatified in 1847.\n- Influenced surrealist art, literature, electoral systems, and precursors to computational logic.\n- Modern scholarship highlights his universal knowledge synthesis and algorithmic reasoning.",
+        "text_original": "th-century Majorcan philosopher and missionary developing the *Art*, a universal logical and combinatorial system blending Islamic logic and Christian theology.\n- Authored allegorical dialogues and extensive tree diagrams to systematize knowledge; promoted multilingual education and interfaith dialogue.\n- Popularized his Art through narrative prose; initially opposed but later influential in European metaphysics and humanism.\n- Experienced revival under Cardinal Cisneros; beatified in 1847.\n- Influenced surrealist art, literature, electoral systems, and precursors to computational logic.\n- Modern scholarship highlights his universal knowledge synthesis and algorithmic reasoning",
+        "idx_start": 4798,
+        "idx_end": 5484
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Geoffrey Hinton\n- English psychologist turned AI pioneer; descendant of George and Mary Boole.\n- PhD in AI (1978); worked in UK, US, then University of Toronto; co-founded Gatsby Computational Neuroscience Unit.\n- Led CIFAR\u2019s Learning in Machines & Brains with Bengio and LeCun.\n- Co-invented Boltzmann machines; popularized backpropagation; authored 200+ publications.\n- Developed t-SNE, proposed capsule networks; co-founded DNNresearch acquired by Google.\n- Awards include Rumelhart Prize, IJCAI Lifetime Achievement, 2018 Turing Award (shared), and 2024 Nobel Prize in Physics.\n- Fellow of AAAI, Royal Society of Canada, Royal Society of London; received VinFuture Prize, Queen Elizabeth Prize, King Charles III Coronation Medal, and honorary doctorates.\n- Vocal about AI risks: warns of potential general-purpose AI within two decades posing existential threats via unaligned superintelligence and misuse (e.g., biosecurity).\n- Advocates government regulation, safety research, and legislation like California\u2019s SB 1047 requiring AI risk assessments.\n- Initially optimistic about AI benefits; now concerned about job displacement and inequality; supports universal basic income and opposes militarized AI funding.\n- Critiques classical AI; promotes hybrid symbolic-connectionist models for hierarchical understanding.\n- Proposed GLOM model and Forward-Forward algorithm as backpropagation alternatives.\n- Personal challenges include lifelong health issues and family losses.",
+        "text_original": "English psychologist turned AI pioneer; descendant of George and Mary Boole.\n- PhD in AI (1978); worked in UK, US, then University of Toronto; co-founded Gatsby Computational Neuroscience Unit.\n- Led CIFAR\u2019s Learning in Machines & Brains with Bengio and LeCun.\n- Co-invented Boltzmann machines; popularized backpropagation; authored 200+ publications.\n- Developed t-SNE, proposed capsule networks; co-founded DNNresearch acquired by Google.\n- Awards include Rumelhart Prize, IJCAI Lifetime Achievement, 2018 Turing Award (shared), and 2024 Nobel Prize in Physics.\n- Fellow of AAAI, Royal Society of Canada, Royal Society of London; received VinFuture Prize, Queen Elizabeth Prize, King Charles III Coronation Medal, and honorary doctorates.\n- Vocal about AI risks: warns of potential general-purpose AI within two decades posing existential threats via unaligned superintelligence and misuse (e.g., biosecurity).\n- Advocates government regulation, safety research, and legislation like California\u2019s SB 1047 requiring AI risk assessments.\n- Initially optimistic about AI benefits; now concerned about job displacement and inequality; supports universal basic income and opposes militarized AI funding.\n- Critiques classical AI; promotes hybrid symbolic-connectionist models for hierarchical understanding.\n- Proposed GLOM model and Forward-Forward algorithm as backpropagation alternatives.\n- Personal challenges include lifelong health issues and family losses",
+        "idx_start": 5508,
+        "idx_end": 6968
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## George Antheil\n- American self-taught avant-garde composer known for radical 1920s works like *Ballet M\u00e9canique* , featuring mechanized scores combining player pianos and airplane propellers.\n- Early European success followed by return to US due to Nazi hostility and Depression.\n- Shifted to more tonal, neoromantic music; composed ballets, symphonies, operas influenced by jazz and Russian composers.\n- Extensive Hollywood film composer career; also a novelist, critic, and advice columnist; active in anti-Nazi efforts.\n- Collaborated with actress and inventor Hedy Lamarr in WWII to co-invent frequency-hopping spread spectrum technology, patented in 1942.\n- This technology foundational for modern secure wireless communications such as Bluetooth and Wi-Fi; adopted by U.S. military in 1962.\n- Notable students include Henry Brant and Benjamin Lees.\n- Referenced in literature (e.g., F. Scott Fitzgerald); his music continues to be performed and recorded.\n- Died of a heart attack in Manhattan; buried in Trenton, New Jersey.",
+        "text_original": "American self-taught avant-garde composer known for radical 1920s works like *Ballet M\u00e9canique*, featuring mechanized scores combining player pianos and airplane propellers.\n- Early European success followed by return to US due to Nazi hostility and Depression.\n- Shifted to more tonal, neoromantic music; composed ballets, symphonies, operas influenced by jazz and Russian composers.\n- Extensive Hollywood film composer career; also a novelist, critic, and advice columnist; active in anti-Nazi efforts.\n- Collaborated with actress and inventor Hedy Lamarr in WWII to co-invent frequency-hopping spread spectrum technology, patented in 1942.\n- This technology foundational for modern secure wireless communications such as Bluetooth and Wi-Fi; adopted by U.S. military in 1962.\n- Notable students include Henry Brant and Benjamin Lees.\n- Referenced in literature (e.g., F. Scott Fitzgerald); his music continues to be performed and recorded.\n- Died of a heart attack in Manhattan; buried in Trenton, New Jersey",
+        "idx_start": 6991,
+        "idx_end": 8002
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Pioneering Contributors to Computer Science, Mathematics, Logic, Engineering, and Artificial Intelligence\n## Overview\nThis summary charts foundational advances spanning algebra, formal logic, cognitive science, computer architecture, programming languages, concurrency, information theory, microprocessors, neural networks, VLSI design, mechanical engineering, and artificial intelligence. From early pioneers like Al-Khwarizmi, Frege, and Llull to modern figures such as Brinch Hansen, Dijkstra, Hopper, Shannon, Faggin, Knuth, Conway, Iverson, G\u00f6del, Boole, al-Jazari, Karpi\u0144ski, and culminating in Geoffrey Hinton\u2014whose transformative AI research, models, and cautionary perspectives are reshaping technology\u2014each laid critical cornerstones for today\u2019s computing, logic, interdisciplinary knowledge synthesis, and avant-garde cultural intersections. Notably, innovators like George Antheil embody the fusion of music, technology, and secure communications, illustrating the rich, multifaceted legacy of scientific and artistic innovation.",
+        "text_original": "This summary charts foundational advances spanning algebra, formal logic, cognitive science, computer architecture, programming languages, concurrency, information theory, microprocessors, neural networks, VLSI design, mechanical engineering, and artificial intelligence. From early pioneers like Al-Khwarizmi, Frege, and Llull to modern figures such as Brinch Hansen, Dijkstra, Hopper, Shannon, Faggin, Knuth, Conway, Iverson, G\u00f6del, Boole, al-Jazari, Karpi\u0144ski, and culminating in Geoffrey Hinton\u2014whose transformative AI research, models, and cautionary perspectives are reshaping technology\u2014each laid critical cornerstones for today\u2019s computing, logic, interdisciplinary knowledge synthesis, and avant-garde cultural intersections. Notably, innovators like George Antheil embody the fusion of music, technology, and secure communications, illustrating the rich, multifaceted legacy of scientific and artistic innovation",
+        "idx_start": 8017,
+        "idx_end": 8939
+    }
+]

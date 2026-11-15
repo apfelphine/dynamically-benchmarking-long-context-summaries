@@ -1,0 +1,21 @@
+### **Sweden: Educational Evolution and Structure**
+Sweden's system evolved from limited 19th-century access to a comprehensive framework anchored by a nine-year mandatory *grundskola* (1962) and a three-year upper secondary phase (*gymnasieskola*). This inclusive model offers free preschool, supports Sámi and special needs education, and provides diverse pathways including vocational and unified preparatory tracks (1991). Grading (A–F) begins in year 6, with national tests in years 3, 6, and 9; failure in core subjects restricts upper secondary entry, though recovery programs exist.
+
+**Upper Secondary & Higher Education**
+The upper secondary level splits into **Preparatory** (~2/3) and **Vocational** (~1/3) programs, requiring 2500 points including a mandatory **Diploma Project**. Admission relies on elementary grades, with specialized programs like Arts requiring entrance exams. Higher education is integrated into the **Bologna Process** (Bachelor's, Master's, Doctoral) with public universities and university colleges offering general degrees, while a separate, non-Bologna vocational track (1–2 years) focuses on workplace experience (IT, business, hospitality). Access requires proficiency in Swedish/English (often via SweSAT); tuition is free for local/EU citizens, supported by CSN loans.
+
+**Independent Schools & Challenges**
+Private *Friskolor*, established via a 1992 reform, receive public funding based on pupil numbers. While praised for flexibility and alternative pedagogies (e.g., Montessori), 2023 investigations highlighted profit models, rising inequality, and inflated grading standards. Despite strengths, Sweden faces challenges including school violence, debates over "choice" subjects, and test cheating. International assessments show Sweden ranked first in early childhood education (2008) but experienced a PISA score decline (2006–2012) attributed to immigration and methodology flaws, followed by recovery.
+
+### **Norway: Educational Framework**
+Norway boasts a history of organized education dating to the 12th century, evolving from cathedral schools to the unified *grunnskole*. The compulsory system spans elementary (6–12) and lower secondary (13–16), with upper secondary (16–19) focusing on general or vocational paths, including a "2+2" apprenticeship model.
+
+**Key Features**
+*   **Curriculum:** Primary school emphasizes play; lower secondary introduces grading and electives. Upper secondary mandates IT integration.
+*   **Access & Structure:** Predominantly public, with private schools permitted under specific conditions. The teaching workforce is stratified by qualification (preschool to adjunct/lecturer).
+*   **Higher Education:** Historically reliant on foreign institutions until 1811, Norway established the University of Oslo (Humboldt model) and specialized colleges (e.g., NTNU, BI, UiT), with recent expansions in university status. Institutions focus on theory (Universities) or vocational/academic degrees (University Colleges/Høgskole), with private schools specializing in high-demand fields like business and arts (10% of students).
+*   **Grading & Exams:** Universities use a 1.0 (worst) to 6.0 (best) scale; lower education uses a 1–6 integer scale. Upper secondary diplomas rely on teacher-assessed achievement, with a minority of students randomly selected for additional exams (*trekkfag*).
+*   **Schedule:** Academic year consists of two semesters with an eight-week summer break, Christmas, fall (late October), and winter (mid-February) breaks. University students typically lack fall and winter breaks. Thirteen national holidays (e.g., Easter, Constitution Day) are observed.
+
+**Special Education & Performance**
+Since the 1970s, legislation mandates special education in local schools, supported by the Educational/Psychological Service as a safety net. Universities and colleges must provide inclusive, flexible learning environments (universal design). While Norwegian students perform well internationally, disparities exist in advanced mathematics compared to regions like Shanghai. Quality assurance is managed by NOKUT, and admissions typically require a general certificate, though re-sitting exams are common for high-demand fields.

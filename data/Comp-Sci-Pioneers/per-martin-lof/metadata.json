@@ -1,0 +1,27 @@
+{
+  "id": 1925764,
+  "title": "Per Martin-L\u00f6f",
+  "url": "https://en.wikipedia.org/wiki/Per_Martin-L%C3%B6f",
+  "path": "Comp-Sci-Pioneers\\per-martin-lof",
+  "summary": {
+    "chars": 1436,
+    "tokens": 319
+  },
+  "document": {
+    "chars": 7792,
+    "tokens": 1577
+  },
+  "infobox": {
+    "title": "Per Martin-L\u00f6f",
+    "data": {
+      "Born": "8 May 1942 \u00b7 Stockholm, Sweden",
+      "Citizenship": "Sweden",
+      "Alma mater": "Stockholm University",
+      "Known for": "Random sequences \u00b7 Exact tests \u00b7 Repetitive structure \u00b7 Sufficient statistics \u00b7 expectation\u2013maximization (EM) method \u00b7 Martin-L\u00f6f type theory \u00b7 Martin-L\u00f6f randomness",
+      "Awards": "- Royal Swedish Academy of Sciences (1990) - G\u00f6del Lecture (2006) - Rolf Schock Prize (2020)",
+      "Fields": "Computer Science \u00b7 Logic \u00b7 Mathematical statistics \u00b7 Philosophy",
+      "Institutions": "Stockholm University \u00b7 University of Chicago \u00b7 Aarhus University",
+      "Doctoral advisor": "Andrei N. Kolmogorov"
+    }
+  }
+}

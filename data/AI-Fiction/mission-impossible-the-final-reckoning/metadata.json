@@ -1,0 +1,35 @@
+{
+  "id": 62125388,
+  "title": "Mission: Impossible \u2013 The Final Reckoning",
+  "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_The_Final_Reckoning",
+  "path": "AI-Fiction\\mission-impossible-the-final-reckoning",
+  "summary": {
+    "chars": 2037,
+    "tokens": 457
+  },
+  "document": {
+    "chars": 20011,
+    "tokens": 4556
+  },
+  "infobox": {
+    "title": "Mission: Impossible \u2013 \u00b7 The Final Reckoning",
+    "data": {
+      "Directed by": "Christopher McQuarrie",
+      "Written by": "- Christopher McQuarrie - Erik Jendresen",
+      "Based on": "Mission: Impossible \u00b7 by Bruce Geller",
+      "Produced by": "- Tom Cruise - Christopher McQuarrie",
+      "Starring": "- Tom Cruise - Hayley Atwell - Ving Rhames - Simon Pegg - Henry Czerny - Angela Bassett",
+      "Cinematography": "Fraser Taggart",
+      "Edited by": "Eddie Hamilton",
+      "Music by": "- Max Aruj - Alfie Godfrey",
+      "Production \u00b7 companies": "- Paramount Pictures - Skydance - TC Productions",
+      "Distributed by": "Paramount Pictures",
+      "Release dates": "- May 5, 2025 (Tokyo) - May 23, 2025 (United States)",
+      "Running time": "170 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$300\u2013400 million",
+      "Box office": "$598.8 million"
+    }
+  }
+}

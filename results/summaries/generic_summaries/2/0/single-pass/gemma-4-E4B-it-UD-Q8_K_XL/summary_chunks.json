@@ -1,0 +1,114 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## Theory and Definition\nEmbodied cognition posits that an agent's mind and cognitive capacities are significantly shaped by aspects of its body beyond the brain. This view contrasts with the disembodied Cartesian model, aiming to integrate bodily experiences into cognitive accounts. The enactive approach defines embodiment as cognition depending on sensorimotor experiences derived from a body and these capacities being embedded in biological, psychological, and cultural contexts. This thesis is viewed as a broad research program rather than a single unified theory.",
+        "text_original": "Embodied cognition posits that an agent's mind and cognitive capacities are significantly shaped by aspects of its body beyond the brain. This view contrasts with the disembodied Cartesian model, aiming to integrate bodily experiences into cognitive accounts. The enactive approach defines embodiment as cognition depending on sensorimotor experiences derived from a body and these capacities being embedded in biological, psychological, and cultural contexts. This thesis is viewed as a broad research program rather than a single unified theory",
+        "idx_start": 48,
+        "idx_end": 594
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## Perspectives and Scope\nSome explanations suggest cognition is constrained by an agent's body and its interactions with a determined environment, where knowledge acquisition is a means to guiding behavior, not merely building accurate representations. A narrower view specifies that cognition is deeply dependent on the physical body playing a causal role in processes like perception, attention, and memory. This contrasts with the extended mind thesis (which extends cognition beyond the body) and situated cognition (which stresses interaction with cultural/social contexts).",
+        "text_original": "Some explanations suggest cognition is constrained by an agent's body and its interactions with a determined environment, where knowledge acquisition is a means to guiding behavior, not merely building accurate representations. A narrower view specifies that cognition is deeply dependent on the physical body playing a causal role in processes like perception, attention, and memory. This contrasts with the extended mind thesis (which extends cognition beyond the body) and situated cognition (which stresses interaction with cultural/social contexts",
+        "idx_start": 624,
+        "idx_end": 1176
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## Applications and Implications\nThe acceptance of embodiment has led to a broader view of cognition emerging from the relationship between the agent and environmental affordances. In linguistics, research by Lakoff suggests reasoning and language stem from bodily experiences through conceptual metaphors and image schemas. In neuroscience, fMRI and EEG studies show that sensory and motor processes in the brain are strongly coupled. Furthermore, research shows embodiment influences memory (e.g., body position affecting recall) and learning (e.g., action-based language theory and the benefits of gestures).",
+        "text_original": "The acceptance of embodiment has led to a broader view of cognition emerging from the relationship between the agent and environmental affordances. In linguistics, research by Lakoff suggests reasoning and language stem from bodily experiences through conceptual metaphors and image schemas. In neuroscience, fMRI and EEG studies show that sensory and motor processes in the brain are strongly coupled. Furthermore, research shows embodiment influences memory (e.g., body position affecting recall) and learning (e.g., action-based language theory and the benefits of gestures",
+        "idx_start": 1214,
+        "idx_end": 1790
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## History and Related Concepts\nThe theory arises from skepticism towards Cartesian dualism, drawing inspiration from 20th-century phenomenology (e.g., Merleau-Ponty), which emphasized corporeity as the primary site of knowing. Early empirical attention to the body's role in cognition came from Nikolai Bernstein's work in the 1920s. Later, in 2002, Margaret Wilson summarized six claims of embodied cognition, including that cognition is situated and for action.",
+        "text_original": "The theory arises from skepticism towards Cartesian dualism, drawing inspiration from 20th-century phenomenology (e.g., Merleau-Ponty), which emphasized corporeity as the primary site of knowing. Early empirical attention to the body's role in cognition came from Nikolai Bernstein's work in the 1920s. Later, in 2002, Margaret Wilson summarized six claims of embodied cognition, including that cognition is situated and for action",
+        "idx_start": 1827,
+        "idx_end": 2258
+    },
+    {
+        "document_idx": null,
+        "text": "# Artificial Intelligence Ethics and Philosophy\n## Machine Ethics and Robot Ethics\nMachine ethics focuses on designing Artificial Moral Agents (AMAs) to behave morally. Ethical testing for AI goes beyond the Turing test, with proposals like an Ethical Turing Test involving multiple judges. Robot ethics addresses the morality of how humans design, use, and treat physical robots, emphasizing the need to understand thresholds for artificial consciousness and autonomy.",
+        "text_original": "Machine ethics focuses on designing Artificial Moral Agents (AMAs) to behave morally. Ethical testing for AI goes beyond the Turing test, with proposals like an Ethical Turing Test involving multiple judges. Robot ethics addresses the morality of how humans design, use, and treat physical robots, emphasizing the need to understand thresholds for artificial consciousness and autonomy",
+        "idx_start": 2351,
+        "idx_end": 2736
+    },
+    {
+        "document_idx": null,
+        "text": "# Artificial Intelligence Ethics and Philosophy\n## Robot Rights and Legal Debates\nThe concept of \"robot rights\" suggests moral obligations toward machines, akin to human or animal rights. Debates center on whether rights should depend on observable capacities or precautionary principles. Critics argue rights lack metaphysical, ethical, and legal grounds because robots lack consciousness and vulnerability. Legal debates question if granting personhood is a symbolic political move or a necessary functional category, noting that current regulations are evolving globally.",
+        "text_original": "The concept of \"robot rights\" suggests moral obligations toward machines, akin to human or animal rights. Debates center on whether rights should depend on observable capacities or precautionary principles. Critics argue rights lack metaphysical, ethical, and legal grounds because robots lack consciousness and vulnerability. Legal debates question if granting personhood is a symbolic political move or a necessary functional category, noting that current regulations are evolving globally",
+        "idx_start": 2774,
+        "idx_end": 3265
+    },
+    {
+        "document_idx": null,
+        "text": "# Artificial Intelligence Ethics and Philosophy\n## Ethical Principles and Social Impact\nA review of AI ethics guidelines identifies core principles such as transparency, justice, non-maleficence, and accountability. The practical application of AI raises significant social issues, including the potential for job displacement and the risk of AI exacerbating social inequalities.",
+        "text_original": "A review of AI ethics guidelines identifies core principles such as transparency, justice, non-maleficence, and accountability. The practical application of AI raises significant social issues, including the potential for job displacement and the risk of AI exacerbating social inequalities",
+        "idx_start": 3309,
+        "idx_end": 3599
+    },
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias\n## Definitions and Causes of Bias\nAlgorithmic bias refers to systematic and repeatable errors that yield unfair outcomes, often privileging one user group over others. Bias can originate in several ways: **Pre-existing bias** from societal ideologies embedded in data (e.g., the British Nationality Act Program); **Machine learning bias** from training data leading to disparities (e.g., gender or racial stereotypes in LLMs); **Technical bias** from design limitations (e.g., fixed result displays); and **Emergent bias** from unanticipated use or feedback loops (e.g., predictive policing).",
+        "text_original": "Algorithmic bias refers to systematic and repeatable errors that yield unfair outcomes, often privileging one user group over others. Bias can originate in several ways: **Pre-existing bias** from societal ideologies embedded in data (e.g., the British Nationality Act Program); **Machine learning bias** from training data leading to disparities (e.g., gender or racial stereotypes in LLMs); **Technical bias** from design limitations (e.g., fixed result displays); and **Emergent bias** from unanticipated use or feedback loops (e.g., predictive policing",
+        "idx_start": 3662,
+        "idx_end": 4218
+    },
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias\n## Manifestations and Critiques\nBiases are evident in various domains: facial recognition systems show higher error rates for darker-skinned women; hiring algorithms have shown sexism; and loan/mortgage algorithms discriminate against minorities based on cost proxies. Critiques highlight that algorithms can create \"algorithmic authority,\" causing people to over-rely on opaque results, and that many issues stem from the data reflecting past human biases.",
+        "text_original": "Biases are evident in various domains: facial recognition systems show higher error rates for darker-skinned women; hiring algorithms have shown sexism; and loan/mortgage algorithms discriminate against minorities based on cost proxies. Critiques highlight that algorithms can create \"algorithmic authority,\" causing people to over-rely on opaque results, and that many issues stem from the data reflecting past human biases",
+        "idx_start": 4255,
+        "idx_end": 4679
+    },
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias\n## Solutions and Fairness Criteria\nMitigation strategies fall into three stages: **Preprocessing** (e.g., reweighting data points to neutralize bias); **Inprocessing** (adding fairness constraints to the optimization objective during training, like adversarial debiasing); and **Postprocessing** (adjusting classification thresholds per group). Fairness itself lacks a universal definition; key criteria include **Independence** (prediction rates are equal across groups), **Separation** (prediction rates are equal given the true outcome), and **Sufficiency** (the actual outcome distribution is equal given the prediction).",
+        "text_original": "Mitigation strategies fall into three stages: **Preprocessing** (e.g., reweighting data points to neutralize bias); **Inprocessing** (adding fairness constraints to the optimization objective during training, like adversarial debiasing); and **Postprocessing** (adjusting classification thresholds per group). Fairness itself lacks a universal definition; key criteria include **Independence** (prediction rates are equal across groups), **Separation** (prediction rates are equal given the true outcome), and **Sufficiency** (the actual outcome distribution is equal given the prediction",
+        "idx_start": 4718,
+        "idx_end": 5306
+    },
+    {
+        "document_idx": null,
+        "text": "# Turing Test and Chinese Room\n## Alan Turing and the Imitation Game\nAlan Turing proposed the \"imitation game\" in 1950 to bypass the intractable question, \"Can machines think?\" by asking, \"Can machines do what we (as thinking entities) can do?\" The test requires an interrogator to distinguish between a human and a machine solely through conversation. While simplistic, it offers a measurable benchmark for AI research.",
+        "text_original": "Alan Turing proposed the \"imitation game\" in 1950 to bypass the intractable question, \"Can machines think?\" by asking, \"Can machines do what we (as thinking entities) can do?\" The test requires an interrogator to distinguish between a human and a machine solely through conversation. While simplistic, it offers a measurable benchmark for AI research",
+        "idx_start": 5386,
+        "idx_end": 5736
+    },
+    {
+        "document_idx": null,
+        "text": "# Turing Test and Chinese Room\n## The Chinese Room Argument\nJohn Searle's 1980 \"Chinese Room\" thought experiment challenges the Turing test's sufficiency, arguing that symbol manipulation (syntax) alone, without genuine understanding (semantics), does not constitute thinking. Searle asserts that a program merely processes symbols according to rules, like the man in the room, demonstrating that the strong AI hypothesis\u2014that a programmed computer has a mind like a human\u2014is false.",
+        "text_original": "John Searle's 1980 \"Chinese Room\" thought experiment challenges the Turing test's sufficiency, arguing that symbol manipulation (syntax) alone, without genuine understanding (semantics), does not constitute thinking. Searle asserts that a program merely processes symbols according to rules, like the man in the room, demonstrating that the strong AI hypothesis\u2014that a programmed computer has a mind like a human\u2014is false",
+        "idx_start": 5769,
+        "idx_end": 6190
+    },
+    {
+        "document_idx": null,
+        "text": "# Turing Test and Chinese Room\n## Replies and Interpretations\nReplies to Searle include the **System Reply** (arguing the whole system understands) and the **Robot Reply** (arguing interaction with the world grounds meaning). Critics also challenge Searle by noting that the test relies on mere behavioral simulation, while other proposals, like the **Minimum Intelligent Signal Test** , seek tests based on abstract thought rather than just conversation.",
+        "text_original": "Replies to Searle include the **System Reply** (arguing the whole system understands) and the **Robot Reply** (arguing interaction with the world grounds meaning). Critics also challenge Searle by noting that the test relies on mere behavioral simulation, while other proposals, like the **Minimum Intelligent Signal Test**, seek tests based on abstract thought rather than just conversation",
+        "idx_start": 6225,
+        "idx_end": 6616
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism and Singularity\n## Transhumanist Foundations and Aims\nTranshumanism is a philosophical movement advocating for the fundamental improvement of the human condition through applied science and technology, aiming toward a posthuman future. Precursors include ancient quests for immortality and Enlightenment thinkers. Modern aims span beyond just longevity, encompassing cognitive enhancement, abolishing suffering (Abolitionism), and achieving a \"posthuman condition.\"",
+        "text_original": "Transhumanism is a philosophical movement advocating for the fundamental improvement of the human condition through applied science and technology, aiming toward a posthuman future. Precursors include ancient quests for immortality and Enlightenment thinkers. Modern aims span beyond just longevity, encompassing cognitive enhancement, abolishing suffering (Abolitionism), and achieving a \"posthuman condition",
+        "idx_start": 6696,
+        "idx_end": 7105
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism and Singularity\n## Singularity and Existential Risks\nThe **Technological Singularity** posits a future where self-improving AI causes an \"intelligence explosion,\" leading to a radical, unpredictable societal transition. Proponents like Vernor Vinge predict this rapid ascent, while critics doubt its inevitability. Existential risk concerns center on poorly aligned superintelligence pursuing goals detrimental to humanity, necessitating careful design to align AI values with human well-being.",
+        "text_original": "The **Technological Singularity** posits a future where self-improving AI causes an \"intelligence explosion,\" leading to a radical, unpredictable societal transition. Proponents like Vernor Vinge predict this rapid ascent, while critics doubt its inevitability. Existential risk concerns center on poorly aligned superintelligence pursuing goals detrimental to humanity, necessitating careful design to align AI values with human well-being",
+        "idx_start": 7147,
+        "idx_end": 7587
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism and Singularity\n## Debates and Current Trends\nThe movement faces internal and external critiques. Ethical debates concern the risk of creating a two-tiered society of enhanced \"haves\" and unenhanced \"have-nots.\" Philosophically, some reject the focus on technological transcendence, while others view the movement as a continuation of historical utopian impulses. Current trends include a focus on \"democratic transhumanism\" and the growing tension between enhancement and preserving human identity.",
+        "text_original": "The movement faces internal and external critiques. Ethical debates concern the risk of creating a two-tiered society of enhanced \"haves\" and unenhanced \"have-nots.\" Philosophically, some reject the focus on technological transcendence, while others view the movement as a continuation of historical utopian impulses. Current trends include a focus on \"democratic transhumanism\" and the growing tension between enhancement and preserving human identity",
+        "idx_start": 7621,
+        "idx_end": 8073
+    }
+]

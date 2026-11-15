@@ -1,0 +1,29 @@
+{
+  "id": 10018,
+  "title": "Edsger W. Dijkstra",
+  "url": "https://en.wikipedia.org/wiki/Edsger_W._Dijkstra",
+  "path": "Comp-Sci-Pioneers\\edsger-w-dijkstra",
+  "summary": {
+    "chars": 2004,
+    "tokens": 464
+  },
+  "document": {
+    "chars": 25744,
+    "tokens": 5982
+  },
+  "infobox": {
+    "title": "Edsger W. Dijkstra",
+    "data": {
+      "Born": "11 May 1930 \u00b7 Rotterdam, Netherlands",
+      "Died": "6 August 2002 (aged 72) \u00b7 Nuenen, Netherlands",
+      "Education": "Leiden University (BS, MS) \u00b7 University of Amsterdam (PhD)",
+      "Spouse": "Ria C. Debets",
+      "Awards": "- Turing Award (1972) - Harry H. Goode Memorial Award (1974) - SIGCSE Outstanding Contribution (1989) - ACM Fellow (1994) - Dijkstra Prize (2002)",
+      "Fields": "- Computer science - Theoretical computer science",
+      "Institutions": "- Mathematisch Centrum - Eindhoven University of Technology - Burroughs Corporation - University of Texas at Austin",
+      "Thesis": "Communication with an Automatic Computer (1959)",
+      "Doctoral advisor": "Adriaan van Wijngaarden",
+      "Doctoral students": "- Nico Habermann - Jan van de Snepscheut"
+    }
+  }
+}

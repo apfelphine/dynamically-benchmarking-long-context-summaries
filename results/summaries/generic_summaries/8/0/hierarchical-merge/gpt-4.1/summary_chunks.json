@@ -1,0 +1,58 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## United States\nThe U.S. education system features a formal K\u201312 structure and prominent higher education sector, shaped by historic reforms and ongoing expansion. Key challenges include funding disparities linked to property taxes, achievement gaps by race and income, high college costs and debt, and teacher shortages, particularly in under-resourced areas. Contemporary issues revolve around stagnating performance, credential inflation, pandemic setbacks, mental health, curriculum debates, and persistent equity concerns.",
+        "text_original": "The U.S. education system features a formal K\u201312 structure and prominent higher education sector, shaped by historic reforms and ongoing expansion. Key challenges include funding disparities linked to property taxes, achievement gaps by race and income, high college costs and debt, and teacher shortages, particularly in under-resourced areas. Contemporary issues revolve around stagnating performance, credential inflation, pandemic setbacks, mental health, curriculum debates, and persistent equity concerns",
+        "idx_start": 49,
+        "idx_end": 559
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## Philippines\nThe Philippine education system has expanded to 13 years of basic schooling with multiple high school tracks, greater inclusivity through programs for out-of-school youth, and free tuition in state universities. Despite reforms, underfunding, inadequate teacher support, classroom shortages, learning poverty, and regional disparities remain significant obstacles, compounded by poor alignment with labor market needs and pandemic-related disruptions.",
+        "text_original": "The Philippine education system has expanded to 13 years of basic schooling with multiple high school tracks, greater inclusivity through programs for out-of-school youth, and free tuition in state universities. Despite reforms, underfunding, inadequate teacher support, classroom shortages, learning poverty, and regional disparities remain significant obstacles, compounded by poor alignment with labor market needs and pandemic-related disruptions",
+        "idx_start": 578,
+        "idx_end": 1028
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## Finland\nFinland\u2019s egalitarian model offers tuition-free, compulsory education, universal school meals, and high teacher autonomy. Secondary education includes academic and vocational tracks, with further reforms addressing pathway integration, funding, and demographic shifts. Its holistic, student-centered approach\u2014with an emphasis on play, technology, and lifelong learning\u2014has earned international recognition, though gaps between academic and vocational progression persist.",
+        "text_original": "Finland\u2019s egalitarian model offers tuition-free, compulsory education, universal school meals, and high teacher autonomy. Secondary education includes academic and vocational tracks, with further reforms addressing pathway integration, funding, and demographic shifts. Its holistic, student-centered approach\u2014with an emphasis on play, technology, and lifelong learning\u2014has earned international recognition, though gaps between academic and vocational progression persist",
+        "idx_start": 1043,
+        "idx_end": 1513
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## Malaysia\nMalaysia\u2019s diverse education system incorporates national, religious, vernacular, and international schools, driven by curricular reforms and equity initiatives. Malay is the primary medium in secondary education, complemented by English and varied post-secondary options. Persistent challenges include resource inequities, language barriers, and university admissions quotas, especially affecting rural and underserved communities, motivating continued efforts for greater access and inclusivity.",
+        "text_original": "Malaysia\u2019s diverse education system incorporates national, religious, vernacular, and international schools, driven by curricular reforms and equity initiatives. Malay is the primary medium in secondary education, complemented by English and varied post-secondary options. Persistent challenges include resource inequities, language barriers, and university admissions quotas, especially affecting rural and underserved communities, motivating continued efforts for greater access and inclusivity",
+        "idx_start": 1529,
+        "idx_end": 2025
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## South Africa\nSouth Africa\u2019s system, spanning government and private sectors, is regulated by equitable funding policies. Reforms target digital integration and expanded access, but apartheid\u2019s legacy endures through racial and resource imbalances, dropout rates, under-qualified teachers, outdated materials, and poor infrastructure\u2014predominantly in rural locales. Government efforts to advance digital learning and school safety confront entrenched systemic inequities.",
+        "text_original": "South Africa\u2019s system, spanning government and private sectors, is regulated by equitable funding policies. Reforms target digital integration and expanded access, but apartheid\u2019s legacy endures through racial and resource imbalances, dropout rates, under-qualified teachers, outdated materials, and poor infrastructure\u2014predominantly in rural locales. Government efforts to advance digital learning and school safety confront entrenched systemic inequities",
+        "idx_start": 2045,
+        "idx_end": 2501
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## Romania\nRomania provides mostly free, compulsory education for 15 years, spanning kindergarten to higher education. The system includes rigorous placement and graduation exams, mandatory foreign languages, and post-secondary vocational training, with higher education linked to the Bologna Process and international exchange programs. Despite enrollment gains and consolidation, severe urban-rural disparities, underfunding, large class sizes, elevated dropout rates (especially after age 14), limited early childhood options, and notable brain drain remain pressing issues.",
+        "text_original": "Romania provides mostly free, compulsory education for 15 years, spanning kindergarten to higher education. The system includes rigorous placement and graduation exams, mandatory foreign languages, and post-secondary vocational training, with higher education linked to the Bologna Process and international exchange programs. Despite enrollment gains and consolidation, severe urban-rural disparities, underfunding, large class sizes, elevated dropout rates (especially after age 14), limited early childhood options, and notable brain drain remain pressing issues",
+        "idx_start": 2516,
+        "idx_end": 3081
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## Portugal\nPortugal\u2019s state-led system offers free, compulsory education for nine years, financial support for families in need, and secondary tracks including general, vocational, and artistic options. Higher education access remains limited\u2014only 35% attendance\u2014due to rising fees and competitive entrance exams. The sector faces persistent high dropout rates, illiteracy concerns, policy instability, fluctuating quality across institutions, and continued teacher protests, despite advancements in teacher qualifications and adult learning pathways.",
+        "text_original": "Portugal\u2019s state-led system offers free, compulsory education for nine years, financial support for families in need, and secondary tracks including general, vocational, and artistic options. Higher education access remains limited\u2014only 35% attendance\u2014due to rising fees and competitive entrance exams. The sector faces persistent high dropout rates, illiteracy concerns, policy instability, fluctuating quality across institutions, and continued teacher protests, despite advancements in teacher qualifications and adult learning pathways",
+        "idx_start": 3097,
+        "idx_end": 3636
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems Overview\n## Australia\nAustralia mandates education from ages 5\u20136, featuring government, Catholic, independent, and specialist schools linked by a national curriculum. Most students attend largely free government schools, with specialized alternatives for remote or special needs communities. While internationally competitive\u2014hosting a large cohort of international students and boasting strong university and vocational sectors\u2014recent declines in student outcomes have prompted reforms in funding and accountability. Ongoing challenges include equity for Indigenous students, academic performance, school safety, and evolving bilingual approaches, but the system remains central to Australia\u2019s social and economic fabric.",
+        "text_original": "Australia mandates education from ages 5\u20136, featuring government, Catholic, independent, and specialist schools linked by a national curriculum. Most students attend largely free government schools, with specialized alternatives for remote or special needs communities. While internationally competitive\u2014hosting a large cohort of international students and boasting strong university and vocational sectors\u2014recent declines in student outcomes have prompted reforms in funding and accountability. Ongoing challenges include equity for Indigenous students, academic performance, school safety, and evolving bilingual approaches, but the system remains central to Australia\u2019s social and economic fabric",
+        "idx_start": 3653,
+        "idx_end": 4352
+    }
+]

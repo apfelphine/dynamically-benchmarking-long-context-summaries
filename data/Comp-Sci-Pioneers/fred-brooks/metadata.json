@@ -1,0 +1,32 @@
+{
+  "id": 11652,
+  "title": "Fred Brooks",
+  "url": "https://en.wikipedia.org/wiki/Fred_Brooks",
+  "path": "Comp-Sci-Pioneers\\fred-brooks",
+  "summary": {
+    "chars": 654,
+    "tokens": 138
+  },
+  "document": {
+    "chars": 5502,
+    "tokens": 1176
+  },
+  "infobox": {
+    "title": "Fred Brooks",
+    "data": {
+      "Born": "Frederick Phillips Brooks Jr. \u00b7 April 19, 1931 \u00b7 Durham, North Carolina, U.S.",
+      "Died": "November 17, 2022 (aged 91) \u00b7 Chapel Hill, North Carolina, U.S.",
+      "Education": "- Duke University (BS) - Harvard University (MS, PhD)",
+      "Known for": "- OS/360 - The Mythical Man-Month",
+      "Spouse": "Nancy Lee Greenwood \u200b(m. 1956)\u200b",
+      "Children": "3",
+      "Awards": "- IEEE John von Neumann Medal (1993) - ACM Fellow (1994) - Turing Award (1999) - Member of the National Academy of Sciences (2001) - Turing Lecture (2005)",
+      "Fields": "- Computer science - Operating systems - Software engineering",
+      "Institutions": "IBM \u00b7 University of North Carolina at Chapel Hill \u00b7 Duke University \u00b7 Harvard University",
+      "Thesis": "The Analytic Design of Automatic Data Processing Systems (1956)",
+      "Doctoral advisor": "Howard H. Aiken",
+      "Doctoral students": "Andrew Glassner",
+      "Website": "www.cs.unc.edu/~brooks"
+    }
+  }
+}

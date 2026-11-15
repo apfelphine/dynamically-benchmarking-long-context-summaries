@@ -1,0 +1,26 @@
+{
+  "id": 12342124,
+  "title": "Morehead-Cain Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Morehead-Cain_Scholarship",
+  "path": "Scholarships\\morehead-cain-scholarship",
+  "summary": {
+    "chars": 541,
+    "tokens": 113
+  },
+  "document": {
+    "chars": 3271,
+    "tokens": 722
+  },
+  "infobox": {
+    "title": "Morehead-Cain Scholarship",
+    "data": {
+      "Awarded for": "Merit-based to high school seniors",
+      "Description": "Full scholarship to attend the University of North Carolina at Chapel Hill",
+      "Sponsored by": "Morehead Cain Foundation",
+      "Location": "Chapel Hill, North Carolina, USA",
+      "Formerly called": "Morehead Scholarship",
+      "Established": "1951",
+      "Website": "moreheadcain.org"
+    }
+  }
+}

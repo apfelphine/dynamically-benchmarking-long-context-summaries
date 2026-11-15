@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding "Education in Australia." The document contains detailed summaries on Education in the Philippines, Malaysia, the United States, Romania, Finland, and South Africa.

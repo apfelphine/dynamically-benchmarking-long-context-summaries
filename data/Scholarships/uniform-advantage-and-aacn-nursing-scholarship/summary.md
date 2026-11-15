@@ -1,0 +1,1 @@
+The Uniform Advantage/AACN Graduate Nursing Student Academy Scholarship is an award that acknowledges the important role nurses play in the health care system. It was developed based on a commitment to improving access to nursing students enrolled in master's and doctoral programs.

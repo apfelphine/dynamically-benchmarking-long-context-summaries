@@ -1,0 +1,4 @@
+The Norway Scholarship is a scholarship to the University of Oxford that is awarded in Norway. Norway Scholars receive funding for one or two years of study and research at Oxford University, and the scholar always becomes a member of Wadham College.
+
+
+The first Norway Scholarship was awarded in 1920. Since then, one Norway Scholar has been selected annually, except for a few periods, such as during the Second World War. The scholarship is highly competitive, and is awarded to a current student, or recent graduate of Oslo University. Past Norway Scholars have included  Nordahl Grieg, Peter A. Munch and Harald Sverdrup.

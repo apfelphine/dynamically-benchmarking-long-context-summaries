@@ -1,0 +1,31 @@
+{
+  "id": 5693,
+  "title": "Claude Shannon",
+  "url": "https://en.wikipedia.org/wiki/Claude_Shannon",
+  "path": "Comp-Sci-Pioneers\\claude-shannon",
+  "summary": {
+    "chars": 3376,
+    "tokens": 646
+  },
+  "document": {
+    "chars": 29332,
+    "tokens": 6023
+  },
+  "infobox": {
+    "title": "Claude Shannon",
+    "data": {
+      "Born": "Claude Elwood Shannon \u00b7 April 30, 1916 \u00b7 Petoskey, Michigan, U.S.",
+      "Died": "February 24, 2001 (aged 84) \u00b7 Medford, Massachusetts, U.S.",
+      "Education": "University of Michigan (BS, BSE) \u00b7 Massachusetts Institute of Technology (MS, PhD)",
+      "Known for": "Information theory Artificial intelligence Boolean algebra Binary code Data compression Digital electronics Entropy in information theory Logic gate Pulse-code modulation Sampling Symmetric-key cryptography Switching circuit theory Units of information Wearable computer",
+      "Spouses": "- Norma Levor \u200b (m. 1940; div. 1941)\u200b - Betty Shannon \u200b(m. 1949\u2060\u2013\u20602001)\u200b",
+      "Awards": "- Alfred Noble Prize (1939) - Morris Liebmann Memorial Prize (1949) - Stuart Ballantine Medal (1955) - IEEE Medal of Honor (1966) - National Medal of Science (1966) - Harvey Prize (1972) - Claude E. Shannon Award (1973) - Harold Pender Award (1978) - John Fritz Medal (1983) - Kyoto Prize (1985) - Audio Engineering Society Gold Medal Award (1985) - Marconi Society Lifetime Achievement Award (2000) - National Inventors Hall of Fame (2004)",
+      "Fields": "Mathematics, computer science, electronic engineering, artificial intelligence",
+      "Institutions": "- Bell Labs - Massachusetts Institute of Technology - Institute for Advanced Study",
+      "Theses": "- A Symbolic Analysis of Relay and Switching Circuits (1937) - An Algebra for Theoretical Genetics (1940)",
+      "Doctoral advisor": "Frank Lauren Hitchcock",
+      "Doctoral students": "- Elwyn Berlekamp - Danny Hillis - Leonard Kleinrock - Ivan Sutherland - Bert Sutherland",
+      "Other notable students": "Chung Laung Liu"
+    }
+  }
+}

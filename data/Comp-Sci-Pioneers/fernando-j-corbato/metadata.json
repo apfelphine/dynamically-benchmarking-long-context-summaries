@@ -1,0 +1,29 @@
+{
+  "id": 303613,
+  "title": "Fernando J. Corbat\u00f3",
+  "url": "https://en.wikipedia.org/wiki/Fernando_J._Corbat%C3%B3",
+  "path": "Comp-Sci-Pioneers\\fernando-j-corbato",
+  "summary": {
+    "chars": 171,
+    "tokens": 47
+  },
+  "document": {
+    "chars": 4313,
+    "tokens": 1053
+  },
+  "infobox": {
+    "title": "Fernando J. Corbat\u00f3",
+    "data": {
+      "Born": "Fernando Jos\u00e9 Corbat\u00f3 \u00b7 July 1, 1926 \u00b7 Oakland, California, U.S.",
+      "Died": "July 12, 2019 (aged 93) \u00b7 Newburyport, Massachusetts, U.S.",
+      "Education": "University of California, Los Angeles \u00b7 California Institute of Technology (BS) \u00b7 Massachusetts Institute of Technology (MS, PhD)",
+      "Known for": "Multics",
+      "Awards": "Turing Award (1990) \u00b7 Computer History Museum Fellow (2012)",
+      "Fields": "Computer scientist",
+      "Institutions": "Massachusetts Institute of Technology",
+      "Thesis": "A calculation of the energy bands of the graphite crystal by means of the tight-binding method (1956)",
+      "Doctoral advisor": "John C. Slater",
+      "Doctoral students": "Jerome H. Saltzer"
+    }
+  }
+}

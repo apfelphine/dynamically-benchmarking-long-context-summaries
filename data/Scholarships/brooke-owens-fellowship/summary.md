@@ -1,0 +1,1 @@
+The Brooke Owens Fellowship is a non-profit program in the United States that provides paid internships and executive mentorship for undergraduate women seeking a career in aviation or space exploration. The fellowship was created to honor the memory of Brooke Owens, a pilot and space policy expert who died of cancer at the age of 35.

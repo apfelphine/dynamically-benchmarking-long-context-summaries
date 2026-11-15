@@ -1,0 +1,3 @@
+The provided text details the educational systems of Portugal, South Africa, Australia, Finland, Romania, Malaysia, the Philippines, and the United States, but contains **no information regarding Education in the United States**.
+
+Consequently, a summary strictly based on the provided text for the topic "Education in the United States" cannot be generated. The document exclusively covers the eight nations listed above.

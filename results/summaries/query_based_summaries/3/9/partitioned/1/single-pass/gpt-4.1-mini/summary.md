@@ -1,0 +1,9 @@
+# Summary of John L. Pollock
+
+John L. Pollock (1940–2012) was an influential American philosopher known primarily for his pioneering work on **defeasible reasoning**, epistemology, and artificial intelligence. He earned a triple-major degree in physics, mathematics, and philosophy in 1961 and completed his PhD at UC Berkeley with a dissertation containing early work on defeasible reasoning. His academic career included faculty positions at SUNY Buffalo, University of Rochester, University of Michigan, and primarily at the University of Arizona, where he co-founded the Cognitive Science Program.
+
+Pollock's seminal book *Knowledge and Justification* (1974) established his reputation in epistemology by proposing that knowledge and justification are governed by defeasible reasoning—norms that admit exceptions rather than strict analytic criteria. His work brought defeasible reasoning to philosophical mainstream, influencing epistemologists like Ernest Sosa and Keith Lehrer.
+
+He made key contributions to philosophy of reasoning, distinguishing forms of defeat like "undercutting" and "rebutting" defeaters, and elaborating the computational implementation of defeasible reasoning in his AI program **OSCAR**. OSCAR embodied his theories and additional unpublished ideas on cognitive architecture, including intentions, interests, and problem-solving strategies. Pollock described OSCAR as an "artilect" employing interest-based reasoning to avoid uninteresting conclusions. His extensive publications include books such as *Nomic Probability and the Foundations of Induction* (1990) and *Thinking about Acting* (2006), as well as numerous foundational papers on logic, epistemology, defeasible reasoning, and AI.
+
+Overall, Pollock’s work bridged formal epistemology and artificial intelligence, emphasizing rationality as defeasible and context-sensitive, with lasting influence on knowledge theory and AI reasoning systems.

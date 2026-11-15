@@ -1,0 +1,28 @@
+{
+  "id": 3714088,
+  "title": "Betty Holberton",
+  "url": "https://en.wikipedia.org/wiki/Betty_Holberton",
+  "path": "Comp-Sci-Pioneers\\betty-holberton",
+  "summary": {
+    "chars": 431,
+    "tokens": 98
+  },
+  "document": {
+    "chars": 4420,
+    "tokens": 958
+  },
+  "infobox": {
+    "title": "Betty Holberton",
+    "data": {
+      "Born": "Frances Elizabeth Snyder \u00b7 March 7, 1917 \u00b7 Philadelphia, Pennsylvania, U.S.",
+      "Died": "December 8, 2001 (aged 84) \u00b7 Rockville, Maryland, U.S.",
+      "Education": "University of Pennsylvania",
+      "Occupation": "Computer scientist",
+      "Employers": "- Moore School of Engineering - University of Pennsylvania \u00b7 Remington Rand - National Bureau of Standards \u00b7 David Taylor Model Basin",
+      "Known for": "ENIAC",
+      "Spouse": "John Vaughan Holberton",
+      "Children": "2",
+      "Awards": "- Department of Commerce Silver Medal (1976) - Ada Lovelace Award (1997) - IEEE Computer Pioneer Award (1997) - WITI Hall of Fame (1997)"
+    }
+  }
+}

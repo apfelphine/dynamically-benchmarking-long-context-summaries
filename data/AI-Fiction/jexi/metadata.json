@@ -1,0 +1,34 @@
+{
+  "id": 59576602,
+  "title": "Jexi",
+  "url": "https://en.wikipedia.org/wiki/Jexi",
+  "path": "AI-Fiction\\jexi",
+  "summary": {
+    "chars": 587,
+    "tokens": 137
+  },
+  "document": {
+    "chars": 6528,
+    "tokens": 1490
+  },
+  "infobox": {
+    "title": "Jexi",
+    "data": {
+      "Directed by": "- Jon Lucas - Scott Moore",
+      "Written by": "- Jon Lucas - Scott Moore",
+      "Produced by": "Suzanne Todd",
+      "Starring": "- Adam DeVine - Alexandra Shipp - Ron Funches - Charlyne Yi - Wanda Sykes - Justin Hartley - Michael Pe\u00f1a - Rose Byrne",
+      "Cinematography": "Ben Kutchins",
+      "Edited by": "James Thomas",
+      "Music by": "- Christopher Lennertz - Philip White",
+      "Production \u00b7 companies": "- CBS Films - Entertainment One - Suzanne Todd Productions",
+      "Distributed by": "Lionsgate",
+      "Release date": "- October 11, 2019 (United States)",
+      "Running time": "84 minutes",
+      "Countries": "- United States - Canada",
+      "Language": "English",
+      "Budget": "$5\u201312 million",
+      "Box office": "$9.3 million"
+    }
+  }
+}

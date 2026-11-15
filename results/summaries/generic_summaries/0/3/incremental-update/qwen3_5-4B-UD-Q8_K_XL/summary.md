@@ -1,0 +1,9 @@
+### **Origins, Themes, and Legacy of *Frankenstein***
+
+Mary Shelley penned *Frankenstein* in Geneva in 1816, driven by Lord Byron's challenge amidst Enlightenment ideals and personal tragedy. Unlike the 1931 film, the original novel depicts the Creature's construction through an ambiguous process involving raw materials and an elemental principle of life, distinct from explicit electrical reliance. The text is rich in allusion: Victor's name parallels Percy Shelley and Milton's "the victor," while the Creature identifies as a fallen angel (Lucifer) and remains nameless to underscore his alienation. Published anonymously in 1818 as *The Modern Prometheus*, the work secured Shelley's fame despite mixed contemporary reviews regarding its "horrible absurdity" and her gender, gaining traction through theatrical adaptations.
+
+**Critical Reception and Legacy**
+Since the mid-20th century, *Frankenstein* has been celebrated as a landmark of Romantic, Gothic, and science fiction literature. While technical flaws were noted, the novel is widely recognized for its aesthetic and moral relevance, serving as a primary subject for psychoanalytic and feminist analysis. Brian Aldiss identifies it as the first true science fiction story due to its reliance on deliberate modern laboratory experiments rather than fantastical elements. Its cultural impact is profound, with the book frequently appearing on lists like the BBC's "100 most influential novels" and being commemorated via stamps and various adaptations.
+
+**Adaptations**
+The 1931 film starring Boris Karloff remains the most iconic portrayal. Other significant adaptations include the Hammer Horror series, a faithful *Classics Illustrated* comic book run (1945–1971), and Junji Ito's Eisner Award-winning manga. The novel was originally published in three volumes in 1818 and revised into a single volume in 1831.

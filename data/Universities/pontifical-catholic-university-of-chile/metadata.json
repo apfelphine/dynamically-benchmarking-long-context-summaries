@@ -1,0 +1,34 @@
+{
+  "id": 707101,
+  "title": "Pontifical Catholic University of Chile",
+  "url": "https://en.wikipedia.org/wiki/Pontifical_Catholic_University_of_Chile",
+  "path": "Universities\\pontifical-catholic-university-of-chile",
+  "summary": {
+    "chars": 865,
+    "tokens": 179
+  },
+  "document": {
+    "chars": 10024,
+    "tokens": 2285
+  },
+  "infobox": {
+    "title": "Pontifical Catholic University of Chile",
+    "data": {
+      "Motto": "In Christi lumine pro mundi vita",
+      "Type": "Private (Traditional)",
+      "Established": "21 June 1888",
+      "Religious affiliation": "Catholic Church",
+      "Academic affiliations": "Clover 2030 Engineering",
+      "Chancellor": "Fernando Chomal\u00ed Garib, Archbishop of Santiago",
+      "Rector": "Juan Carlos de la Llera",
+      "Academic staff": "1,652 (full-time)",
+      "Administrative staff": "2,210 (full-time)",
+      "Students": "33,769",
+      "Undergraduates": "29,212",
+      "Postgraduates": "4,557",
+      "Address": "Avenida Libertador General Bernardo O'Higgins #340, Santiago, Santiago Metropolitan Region, Chile",
+      "Mascot": "Pangui",
+      "Website": "www.uc.cl"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 47749536,
+  "title": "Yoshua Bengio",
+  "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio",
+  "path": "Comp-Sci-Pioneers\\yoshua-bengio",
+  "summary": {
+    "chars": 918,
+    "tokens": 215
+  },
+  "document": {
+    "chars": 8111,
+    "tokens": 1838
+  },
+  "infobox": {
+    "title": "Yoshua BengioOC OQ FRS FRSC",
+    "data": {
+      "Born": "March 5, 1964 \u00b7 Paris, France",
+      "Citizenship": "Canada",
+      "Education": "McGill University (BS, MS, PhD)",
+      "Known for": "- Deep learning - Neural machine translation - Generative adversarial networks - Attention models - Word embeddings - Denoising autoencoders - Language models - Learning to learn - Generative flow networks",
+      "Relatives": "Samy Bengio (brother)",
+      "Awards": "Marie-Victorin Prize (2017) \u00b7 Turing Award (2018) \u00b7 AAAI Fellow (2019) \u00b7 Legion of Honor (2022) \u00b7 VinFuture Prize (2024) \u00b7 Honorary Doctorate (2025)",
+      "Fields": "Machine learning \u00b7 Deep learning \u00b7 Artificial intelligence",
+      "Institutions": "Universit\u00e9 de Montr\u00e9al \u00b7 MILA \u00b7 Element AI",
+      "Thesis": "Artificial Neural Networks and their Application to Sequence Recognition (1991)",
+      "Doctoral advisor": "Renato De Mori",
+      "Notable students": "Ian Goodfellow",
+      "Website": "yoshuabengio.org"
+    }
+  }
+}

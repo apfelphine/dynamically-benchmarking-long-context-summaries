@@ -1,0 +1,29 @@
+{
+  "id": 76456050,
+  "title": "ELVIS Act",
+  "url": "https://en.wikipedia.org/wiki/ELVIS_Act",
+  "path": "AI-Regulations\\elvis-act",
+  "summary": {
+    "chars": 660,
+    "tokens": 118
+  },
+  "document": {
+    "chars": 4605,
+    "tokens": 860
+  },
+  "infobox": {
+    "title": "Tennessee General Assembly",
+    "data": {
+      "Tennessee General Assembly": "Long title - Act of 21 March 2023, Amends TCA Title 39, Chapter 14, Part 1 and Title 47.",
+      "Passed by": [
+        "Tennessee House of Representatives",
+        "Tennessee Senate"
+      ],
+      "Passed": [
+        "4 March 2024",
+        "7 March 2024"
+      ],
+      "Effective": "01 July 2024"
+    }
+  }
+}

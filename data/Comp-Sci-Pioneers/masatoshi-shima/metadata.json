@@ -1,0 +1,26 @@
+{
+  "id": 508655,
+  "title": "Masatoshi Shima",
+  "url": "https://en.wikipedia.org/wiki/Masatoshi_Shima",
+  "path": "Comp-Sci-Pioneers\\masatoshi-shima",
+  "summary": {
+    "chars": 1062,
+    "tokens": 283
+  },
+  "document": {
+    "chars": 5906,
+    "tokens": 1319
+  },
+  "infobox": {
+    "title": "ProfessorMasatoshi ShimaDr.Eng.",
+    "data": {
+      "Born": "August 22, 1943 \u00b7 Shizuoka, Shizuoka Prefecture, Japan",
+      "Citizenship": "Japan",
+      "Education": "B.S., Tohoku University (1967) \u00b7 Dr.Eng., Tsukuba University (1991)",
+      "Known for": "Microprocessors: Intel 4004, 8080, Zilog Z80, Z8000 \u00b7 Peripheral chips: Intel 8259, 8255, 8253, 8257, 8251",
+      "Awards": "Kyoto Prize (1997) \u00b7 Computer History Museum Fellow (2009)",
+      "Fields": "Electronic engineering \u00b7 Microprocessor",
+      "Institutions": "Busicom (1967-1972) \u00b7 Intel (1972-1975, 1981-1986) \u00b7 Zilog (1975-1980) \u00b7 VM Technology (1986-1991) \u00b7 University of Aizu (2000)"
+    }
+  }
+}

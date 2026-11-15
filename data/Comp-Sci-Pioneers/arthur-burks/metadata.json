@@ -1,0 +1,24 @@
+{
+  "id": 6479641,
+  "title": "Arthur Burks",
+  "url": "https://en.wikipedia.org/wiki/Arthur_Burks",
+  "path": "Comp-Sci-Pioneers\\arthur-burks",
+  "summary": {
+    "chars": 492,
+    "tokens": 115
+  },
+  "document": {
+    "chars": 8577,
+    "tokens": 2038
+  },
+  "infobox": {
+    "title": "Arthur Burks",
+    "data": {
+      "Born": "October 13, 1915",
+      "Died": "May 14, 2008 (aged 92)",
+      "Alma mater": "University of Michigan (Ph.D., M.A.) \u00b7 DePauw University (B.A.)",
+      "Notable work": "contributed to the design of the ENIAC",
+      "Doctoral students": "John Henry Holland"
+    }
+  }
+}

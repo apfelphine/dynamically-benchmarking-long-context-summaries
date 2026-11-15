@@ -1,0 +1,34 @@
+{
+  "id": 69928223,
+  "title": "Brian and Charles",
+  "url": "https://en.wikipedia.org/wiki/Brian_and_Charles",
+  "path": "AI-Fiction\\brian-and-charles",
+  "summary": {
+    "chars": 495,
+    "tokens": 113
+  },
+  "document": {
+    "chars": 4339,
+    "tokens": 929
+  },
+  "infobox": {
+    "title": "Brian and Charles",
+    "data": {
+      "Directed by": "Jim Archer",
+      "Screenplay by": "- David Earl - Chris Hayward",
+      "Based on": "Brian and Charles \u00b7 by Jim Archer",
+      "Produced by": "Rupert Majendie",
+      "Starring": "- David Earl - Chris Hayward",
+      "Cinematography": "Murren Tullett",
+      "Edited by": "Jo Walker",
+      "Music by": "Daniel Pemberton",
+      "Production \u00b7 companies": "- BFI - Film4 Productions - Mr Box Productions",
+      "Distributed by": "- Focus Features (United States) - Universal Pictures (International)",
+      "Release dates": "- 23 January 2022 (Sundance) - 17 June 2022 (United States) - 8 July 2022 (United Kingdom)",
+      "Running time": "90 minutes",
+      "Countries": "- United Kingdom - United States",
+      "Language": "English",
+      "Box office": "$860,850"
+    }
+  }
+}

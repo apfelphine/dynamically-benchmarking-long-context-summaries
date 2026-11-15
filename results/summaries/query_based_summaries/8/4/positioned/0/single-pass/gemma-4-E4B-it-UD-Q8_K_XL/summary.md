@@ -1,0 +1,5 @@
+## Education in Australia
+
+Education in Australia features a national qualifications system, underpinned by the Australian Qualifications Framework, which encompasses school-based education, Vocational Education and Training (VET), and higher education. Primary and secondary education is largely provided by government schools (approximately 64% of students), though non-government schools make up the remainder. Tertiary education is dominated by public universities, with student fees subsidized through a national loan program called HECS. A national Australian Curriculum has been progressively implemented for primary and secondary schools since 2010.
+
+The regulation, operation, and funding of education are primarily the responsibility of the individual states and territories. Compulsory education requirements vary by state or territory, though many children begin preliminary schooling between four and a half and five and a half years of age. The system also includes diverse structures, such as combined (K-12) schools, selective schools, and special schools, catering to various student needs.

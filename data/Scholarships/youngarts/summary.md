@@ -1,0 +1,2 @@
+YoungArts (previously National YoungArts Foundation and National Foundation for Advancement in the Arts, or NFAA) is an American charity established in 1981 by Lin and Ted Arison to help nurture emerging high-school artists. The foundation is based in Miami, Florida. In 1981, Ted Arison gave $5 million to launch the National Foundation for Advancement in the Arts.
+YoungArts nominates up to 60 candidates for consideration as U.S. Presidential Scholars in the Arts following participation in YoungArts week.

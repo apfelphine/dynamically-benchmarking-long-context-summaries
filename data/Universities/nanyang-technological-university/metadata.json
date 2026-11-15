@@ -1,0 +1,36 @@
+{
+  "id": 82305,
+  "title": "Nanyang Technological University",
+  "url": "https://en.wikipedia.org/wiki/Nanyang_Technological_University",
+  "path": "Universities\\nanyang-technological-university",
+  "summary": {
+    "chars": 1338,
+    "tokens": 272
+  },
+  "document": {
+    "chars": 25425,
+    "tokens": 5424
+  },
+  "infobox": {
+    "title": "Nanyang Technological University",
+    "data": {
+      "Former name": "Nanyang Technological Institute (1981\u20131991)",
+      "Type": "Public research university",
+      "Established": "8 August 1981 (as Nanyang Technological Institute) \u00b7 1 July 1991 (as Nanyang Technological University)",
+      "Endowment": "S$2.9 billion",
+      "Chancellor": "President of Singapore",
+      "President": "Ho Teck Hua",
+      "Provost": "Christian Wolfrum",
+      "Academic staff": "1,590",
+      "Administrative staff": "6,407",
+      "Students": "37,458",
+      "Undergraduates": "24,800",
+      "Postgraduates": "12,658",
+      "Address": "50 Nanyang Ave, Singapore 639798",
+      "Campus": "50 Nanyang Ave, Singapore 639798 (Main campus) \u00b7 11 Mandalay Road, Singapore 308232 (Novena campus)",
+      "Colours": "Red \u00b7 Blue",
+      "Affiliations": "ACU, APRU, ASAIHL, ASPIRE, AUN, DAAD, SATU, STINT, UAiTED, UCMSR, WA, Global Alliance of Technological Universities",
+      "Website": "ntu.edu.sg"
+    }
+  }
+}

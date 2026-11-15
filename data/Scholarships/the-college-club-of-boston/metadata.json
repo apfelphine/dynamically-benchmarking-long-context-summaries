@@ -1,0 +1,30 @@
+{
+  "id": 29475070,
+  "title": "The College Club of Boston",
+  "url": "https://en.wikipedia.org/wiki/The_College_Club_of_Boston",
+  "path": "Scholarships\\the-college-club-of-boston",
+  "summary": {
+    "chars": 404,
+    "tokens": 76
+  },
+  "document": {
+    "chars": 1208,
+    "tokens": 266
+  },
+  "infobox": {
+    "title": "The College Club of Boston",
+    "data": {
+      "Abbreviation": "CCoB",
+      "Formation": "December 1890",
+      "Type": "NGO",
+      "Legal status": "Foundation",
+      "Purpose": "Educational",
+      "Location": "- Boston, Massachusetts",
+      "Coordinates": "42\u00b021\u203210\u2033N 71\u00b004\u203224\u2033W\ufeff / \ufeff42.3527259\u00b0N 71.073338\u00b0W",
+      "Region served": "Boston, Boston Public Schools",
+      "Membership": "Private",
+      "Official language": "English",
+      "Website": "thecollegeclubofboston.com"
+    }
+  }
+}

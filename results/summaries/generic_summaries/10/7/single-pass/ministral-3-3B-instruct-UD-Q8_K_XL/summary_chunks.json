@@ -1,0 +1,485 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## History\nTaiwan\u2019s education system has evolved through various colonial influences, including the Dutch, Ming loyalists, Qing China, and Japan. Early education emphasized Christianity under Dutch rule and focused on Confucian values. Post-1949, under the Republic of China (ROC), the government initially suppressed private schools due to political loyalty concerns but later expanded public education. The ROC introduced a 12-year compulsory education system in 2014, replacing the previous 9-year system.",
+        "text_original": "Taiwan\u2019s education system has evolved through various colonial influences, including the Dutch, Ming loyalists, Qing China, and Japan. Early education emphasized Christianity under Dutch rule and focused on Confucian values. Post-1949, under the Republic of China (ROC), the government initially suppressed private schools due to political loyalty concerns but later expanded public education. The ROC introduced a 12-year compulsory education system in 2014, replacing the previous 9-year system",
+        "idx_start": 46,
+        "idx_end": 542
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## Public Education\nThe public education system spans from nursery schools to universities, with compulsory education from primary school through junior high school since 1968. A 12-year compulsory education program was implemented by 2014, including financial support for preschool education. High school and university access is controlled by national exams, with strict discipline in schools (e.g., uniforms, morning reveille, and mandatory classroom cleaning). The school year consists of two semesters, with winter and summer breaks around major holidays.",
+        "text_original": "The public education system spans from nursery schools to universities, with compulsory education from primary school through junior high school since 1968. A 12-year compulsory education program was implemented by 2014, including financial support for preschool education. High school and university access is controlled by national exams, with strict discipline in schools (e.g., uniforms, morning reveille, and mandatory classroom cleaning). The school year consists of two semesters, with winter and summer breaks around major holidays",
+        "idx_start": 571,
+        "idx_end": 1110
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## School Grades\n- **Kindergarten:** Optional (ages 3\u20136).\n- **Elementary School (Grades 1\u20136):** Compulsory, covering core subjects like Mandarin, mathematics, science, English, and social studies.\n- **Junior High School (Grades 7\u20139):** Prepares students for national senior high school entrance exams.\n- **Senior High School (Grades 10\u201312):** Focuses on university entrance exams, with optional supplementary classes during breaks.\n- **Tertiary Education:** Includes junior colleges (associate degrees), universities (bachelor\u2019s, master\u2019s, and PhD degrees), and specialized programs like medical and law schools.",
+        "text_original": "Kindergarten:** Optional (ages 3\u20136).\n- **Elementary School (Grades 1\u20136):** Compulsory, covering core subjects like Mandarin, mathematics, science, English, and social studies.\n- **Junior High School (Grades 7\u20139):** Prepares students for national senior high school entrance exams.\n- **Senior High School (Grades 10\u201312):** Focuses on university entrance exams, with optional supplementary classes during breaks.\n- **Tertiary Education:** Includes junior colleges (associate degrees), universities (bachelor\u2019s, master\u2019s, and PhD degrees), and specialized programs like medical and law schools",
+        "idx_start": 1140,
+        "idx_end": 1730
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## National Education\nThe current 12-year compulsory education system emphasizes core subjects like Mandarin, mathematics, science, and English. Students are required to study native languages (Taiwanese and Hakka) and social studies. The curriculum includes arts, music, and physical education. The system aims to integrate students into society and prepare them for higher education or vocational paths.",
+        "text_original": "The current 12-year compulsory education system emphasizes core subjects like Mandarin, mathematics, science, and English. Students are required to study native languages (Taiwanese and Hakka) and social studies. The curriculum includes arts, music, and physical education. The system aims to integrate students into society and prepare them for higher education or vocational paths",
+        "idx_start": 1761,
+        "idx_end": 2143
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Taiwan\n## Private Education\nPrivate schools and cram schools (buxiban) are prevalent, catering to high academic pressure. Private kindergartens and preschools offer accelerated courses, while English immersion preschools have faced legal scrutiny. Some schools follow international curricula (e.g., IB).",
+        "text_original": "Private schools and cram schools (buxiban) are prevalent, catering to high academic pressure. Private kindergartens and preschools offer accelerated courses, while English immersion preschools have faced legal scrutiny. Some schools follow international curricula (e.g., IB",
+        "idx_start": 2173,
+        "idx_end": 2446
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Primary Education\nPrimary education begins at age 5, lasting six years, with subjects like mathematics, English, and indigenous languages. The Universal Primary Education (UPE) program was established in 1976, later revised to the Universal Basic Education (UBE) in 1999, making education free, compulsory, and a right. The UBE system includes six years of primary school and three years of junior secondary school, culminating in a 9-year uninterrupted education.",
+        "text_original": "Primary education begins at age 5, lasting six years, with subjects like mathematics, English, and indigenous languages. The Universal Primary Education (UPE) program was established in 1976, later revised to the Universal Basic Education (UBE) in 1999, making education free, compulsory, and a right. The UBE system includes six years of primary school and three years of junior secondary school, culminating in a 9-year uninterrupted education",
+        "idx_start": 2512,
+        "idx_end": 2957
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Secondary Education\nSecondary education spans six years (JSS 1\u20133 and SSS 1\u20133). Students take core subjects like English, mathematics, and social studies, with electives in science, arts, or vocational studies. Federal-sponsored secondary schools are well-funded but face challenges like understaffing and poor infrastructure. State-sponsored schools often lack resources, while private schools are expensive but offer better facilities.",
+        "text_original": "Secondary education spans six years (JSS 1\u20133 and SSS 1\u20133). Students take core subjects like English, mathematics, and social studies, with electives in science, arts, or vocational studies. Federal-sponsored secondary schools are well-funded but face challenges like understaffing and poor infrastructure. State-sponsored schools often lack resources, while private schools are expensive but offer better facilities",
+        "idx_start": 2989,
+        "idx_end": 3404
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Promotional Examinations\nThe Senior Secondary Certificate Examination (SSCE) is taken at the end of SSS 3. The General Certificate of Education (GCE) is an alternative for students who did not achieve required credits. The West African Examination Council (WAEC) administers both exams. The Nigerian Education System has seen reforms, including the 6-3-3-4 system (later revised to 9-3-4), and the introduction of vocational training.",
+        "text_original": "The Senior Secondary Certificate Examination (SSCE) is taken at the end of SSS 3. The General Certificate of Education (GCE) is an alternative for students who did not achieve required credits. The West African Examination Council (WAEC) administers both exams. The Nigerian Education System has seen reforms, including the 6-3-3-4 system (later revised to 9-3-4), and the introduction of vocational training",
+        "idx_start": 3441,
+        "idx_end": 3849
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Tertiary Education\nTertiary education includes universities (public and private), polytechnics, and colleges of education. The government controls most universities, with public institutions offering free education. Private universities charge higher fees. Admission to universities requires JAMB (Joint Admissions and Matriculation Board) scores, with direct entry options for those with advanced level certificates.",
+        "text_original": "Tertiary education includes universities (public and private), polytechnics, and colleges of education. The government controls most universities, with public institutions offering free education. Private universities charge higher fees. Admission to universities requires JAMB (Joint Admissions and Matriculation Board) scores, with direct entry options for those with advanced level certificates",
+        "idx_start": 3880,
+        "idx_end": 4277
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## Vocational Education\nVocational education is offered at junior colleges, polytechnics, and universities. The National Board for Technical Education oversees vocational training, with apprenticeships and short courses available. The Master Plan for Vocational Education (2001\u20132010) aimed to improve skills and reduce unemployment.",
+        "text_original": "Vocational education is offered at junior colleges, polytechnics, and universities. The National Board for Technical Education oversees vocational training, with apprenticeships and short courses available. The Master Plan for Vocational Education (2001\u20132010) aimed to improve skills and reduce unemployment",
+        "idx_start": 4310,
+        "idx_end": 4617
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Nigeria\n## International Education\nNigeria has 129 international schools, offering curricula in English or other languages. These schools cater to expatriates and international students.",
+        "text_original": "Nigeria has 129 international schools, offering curricula in English or other languages. These schools cater to expatriates and international students",
+        "idx_start": 4653,
+        "idx_end": 4803
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## History\nIran\u2019s education system traces back to ancient Persia, with early schools focusing on religious, administrative, and technical skills. The Safavid era introduced modern education, while the Qajar era saw the establishment of the Educational Committee. Post-Islamic Revolution, education was Islamized, with schools segregated by gender and religious instruction mandated.",
+        "text_original": "Iran\u2019s education system traces back to ancient Persia, with early schools focusing on religious, administrative, and technical skills. The Safavid era introduced modern education, while the Qajar era saw the establishment of the Educational Committee. Post-Islamic Revolution, education was Islamized, with schools segregated by gender and religious instruction mandated",
+        "idx_start": 4855,
+        "idx_end": 5225
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Grades and Structure\n- **Pre-primary (Kindergarten):** Optional (ages 5\u20136).\n- **Elementary Education (Dabestan):** 6 years (grades 1\u20136), free and compulsory.\n- **Lower Secondary (Motovasseteh Avval):** 3 years (grades 7\u20139), mandatory.\n- **Upper Secondary (Motovasseteh Dovom):** 3 years (grades 10\u201312), non-compulsory.\n- **Tertiary Education:** Includes universities (bachelor\u2019s, master\u2019s, and PhD degrees) and specialized programs like medical and law schools.",
+        "text_original": "Pre-primary (Kindergarten):** Optional (ages 5\u20136).\n- **Elementary Education (Dabestan):** 6 years (grades 1\u20136), free and compulsory.\n- **Lower Secondary (Motovasseteh Avval):** 3 years (grades 7\u20139), mandatory.\n- **Upper Secondary (Motovasseteh Dovom):** 3 years (grades 10\u201312), non-compulsory.\n- **Tertiary Education:** Includes universities (bachelor\u2019s, master\u2019s, and PhD degrees) and specialized programs like medical and law schools",
+        "idx_start": 5262,
+        "idx_end": 5697
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Budget and Education Reform\nIran allocates 20% of government spending and 5% of GDP to education. The 2012 education reform aimed to improve quality, integrate research, and enhance vocational training. The system is highly centralized, with the Ministry of Education overseeing curriculum, textbooks, and teacher training.",
+        "text_original": "Iran allocates 20% of government spending and 5% of GDP to education. The 2012 education reform aimed to improve quality, integrate research, and enhance vocational training. The system is highly centralized, with the Ministry of Education overseeing curriculum, textbooks, and teacher training",
+        "idx_start": 5737,
+        "idx_end": 6031
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Foreign Languages and Special Education\nPersian is the national language, with Arabic taught in grades 7\u201312. English is the most desired foreign language. Special education services are provided for students with disabilities, including centralized classes, resource rooms, and itinerant programs.",
+        "text_original": "Persian is the national language, with Arabic taught in grades 7\u201312. English is the most desired foreign language. Special education services are provided for students with disabilities, including centralized classes, resource rooms, and itinerant programs",
+        "idx_start": 6083,
+        "idx_end": 6339
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Iran\n## Higher Education\nIran\u2019s universities are renowned for fields like engineering, science, and medicine. The University of Tehran, Sharif University of Technology, and Amirkabir University of Technology are top-ranked. The system is highly competitive, with admission based on the national entrance exam (Konkour). Private universities are also available but face criticism for privatization.",
+        "text_original": "Iran\u2019s universities are renowned for fields like engineering, science, and medicine. The University of Tehran, Sharif University of Technology, and Amirkabir University of Technology are top-ranked. The system is highly competitive, with admission based on the national entrance exam (Konkour). Private universities are also available but face criticism for privatization",
+        "idx_start": 6368,
+        "idx_end": 6739
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Republic of Ireland\n## History\nEducation in Ireland began with the Fianna F\u00e1il Education Minister\u2019s announcement of free upper secondary education in 1966. The Irish language requirement for second-level certificates was abandoned in 1973. The system is now divided into primary, secondary, and third-level education.",
+        "text_original": "Education in Ireland began with the Fianna F\u00e1il Education Minister\u2019s announcement of free upper secondary education in 1966. The Irish language requirement for second-level certificates was abandoned in 1973. The system is now divided into primary, secondary, and third-level education",
+        "idx_start": 6810,
+        "idx_end": 7095
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Republic of Ireland\n## Structure\nEducation is compulsory from ages 6 to 16 or until students complete three years of secondary education. Primary education includes eight years (Junior Infants to Sixth Class), while secondary education spans three years (Junior Cycle, Transition Year, and Senior Cycle). The Junior Certificate is taken after three years, and the Leaving Certificate after five years.",
+        "text_original": "Education is compulsory from ages 6 to 16 or until students complete three years of secondary education. Primary education includes eight years (Junior Infants to Sixth Class), while secondary education spans three years (Junior Cycle, Transition Year, and Senior Cycle). The Junior Certificate is taken after three years, and the Leaving Certificate after five years",
+        "idx_start": 7117,
+        "idx_end": 7484
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Republic of Ireland\n## Types of Schools\n- **National Schools:** Under diocesan patronage, primarily Catholic.\n- **Gaelscoileanna:** Irish-language schools.\n- **Multidenominational Schools:** Non-denominational, often under voluntary organizations.\n- **Preparatory Schools:** Independent, fee-charging primary schools.",
+        "text_original": "National Schools:** Under diocesan patronage, primarily Catholic.\n- **Gaelscoileanna:** Irish-language schools.\n- **Multidenominational Schools:** Non-denominational, often under voluntary organizations.\n- **Preparatory Schools:** Independent, fee-charging primary schools",
+        "idx_start": 7517,
+        "idx_end": 7789
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Republic of Ireland\n## Third-Level Education\nMost university courses are conducted in English, with a few Irish language options. The Programme for International Student Assessment (PISA) ranks Ireland highly in reading and mathematics.",
+        "text_original": "Most university courses are conducted in English, with a few Irish language options. The Programme for International Student Assessment (PISA) ranks Ireland highly in reading and mathematics",
+        "idx_start": 7823,
+        "idx_end": 8013
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Republic of Ireland\n## Special Needs Education\nThe Education for Persons with Special Educational Needs Act 2004 established frameworks for special needs education. Special Needs Assistants (SNAs) provide additional support for students with disabilities.",
+        "text_original": "The Education for Persons with Special Educational Needs Act 2004 established frameworks for special needs education. Special Needs Assistants (SNAs) provide additional support for students with disabilities",
+        "idx_start": 8049,
+        "idx_end": 8256
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Republic of Ireland\n## Areas of Disadvantage\nThe Department of Education identifies disadvantaged schools and provides additional resources, including reduced class sizes and financial aid. The Delivering Equality of Opportunity in Schools (DEIS) program aims to address educational disadvantage.",
+        "text_original": "The Department of Education identifies disadvantaged schools and provides additional resources, including reduced class sizes and financial aid. The Delivering Equality of Opportunity in Schools (DEIS) program aims to address educational disadvantage",
+        "idx_start": 8290,
+        "idx_end": 8540
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## History\nTurkey\u2019s education system was established after the foundation of the Turkish Republic. The Law of Integration of Education (1924) unified the three separate educational channels (district schools, madrasas, and reform schools). The system was secularized, and the Ministry of Education was created in 1933.",
+        "text_original": "Turkey\u2019s education system was established after the foundation of the Turkish Republic. The Law of Integration of Education (1924) unified the three separate educational channels (district schools, madrasas, and reform schools). The system was secularized, and the Ministry of Education was created in",
+        "idx_start": 8594,
+        "idx_end": 8895
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Pre-Primary and Primary Education\nPre-primary education is optional for children aged 3\u20137. Primary education lasts 8 years, with subjects including Turkish, mathematics, science, and social studies. The school year is divided into two semesters, with winter and summer breaks.",
+        "text_original": "Pre-primary education is optional for children aged 3\u20137. Primary education lasts 8 years, with subjects including Turkish, mathematics, science, and social studies. The school year is divided into two semesters, with winter and summer breaks",
+        "idx_start": 8946,
+        "idx_end": 9187
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Secondary Education\nSecondary education includes general, vocational, and technical schools. Students take national exams to enter high school. The system has undergone reforms, including the 4+4+4 system (4 years primary, 4 years junior high, and 4 years senior high).",
+        "text_original": "Secondary education includes general, vocational, and technical schools. Students take national exams to enter high school. The system has undergone reforms, including the 4+4+4 system (4 years primary, 4 years junior high, and 4 years senior high",
+        "idx_start": 9219,
+        "idx_end": 9466
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Higher Education\nTurkey has 167 universities, with public universities offering lower fees than private ones. The system is highly competitive, with admission based on the national university entrance exam (Y\u00d6S). The government promotes international cooperation through programs like Erasmus+.",
+        "text_original": "Turkey has 167 universities, with public universities offering lower fees than private ones. The system is highly competitive, with admission based on the national university entrance exam (Y\u00d6S). The government promotes international cooperation through programs like Erasmus",
+        "idx_start": 9496,
+        "idx_end": 9771
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Private Schools\nPrivate schools in Turkey include private Turkish schools, minority schools, foreign schools, and international education institutions. Madrasas and religious education courses are also available.",
+        "text_original": "Private schools in Turkey include private Turkish schools, minority schools, foreign schools, and international education institutions. Madrasas and religious education courses are also available",
+        "idx_start": 9800,
+        "idx_end": 9995
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Turkey\n## Criticisms\nCritics highlight the frequent changes in the education system, leading to controversy. Textbooks are criticized for promoting nationalism and denying the Armenian genocide. The system also faces criticism for bias in curricula and the use of corporal punishment.",
+        "text_original": "Critics highlight the frequent changes in the education system, leading to controversy. Textbooks are criticized for promoting nationalism and denying the Armenian genocide. The system also faces criticism for bias in curricula and the use of corporal punishment",
+        "idx_start": 10018,
+        "idx_end": 10280
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Schools and Tracks\nIsrael\u2019s education system consists of three tiers: primary (grades 1\u20136), middle school (grades 7\u20139), and high school (grades 10\u201312). Compulsory education spans kindergarten through 12th grade. Schools are divided into state-secular, state-religious, independent religious, and Arab schools.",
+        "text_original": "Israel\u2019s education system consists of three tiers: primary (grades 1\u20136), middle school (grades 7\u20139), and high school (grades 10\u201312). Compulsory education spans kindergarten through 12th grade. Schools are divided into state-secular, state-religious, independent religious, and Arab schools",
+        "idx_start": 10345,
+        "idx_end": 10634
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Matriculation Exams\nHigh schools prepare students for the Israeli matriculation exams (bagrut), which cover various academic disciplines. The exams determine eligibility for university admission and job prospects.",
+        "text_original": "High schools prepare students for the Israeli matriculation exams (bagrut), which cover various academic disciplines. The exams determine eligibility for university admission and job prospects",
+        "idx_start": 10666,
+        "idx_end": 10858
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Higher Education\nAfter secondary education, students are conscripted into the Israel Defense Forces (IDF) or pursue higher education. Universities require a certain number of bagrut units and a good grade in the Psychometric Entrance Test. The system is highly competitive, with universities offering scholarships and financial aid.",
+        "text_original": "After secondary education, students are conscripted into the Israel Defense Forces (IDF) or pursue higher education. Universities require a certain number of bagrut units and a good grade in the Psychometric Entrance Test. The system is highly competitive, with universities offering scholarships and financial aid",
+        "idx_start": 10887,
+        "idx_end": 11201
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Arab Sector\nIsrael operates an Arab education system for the Israeli-Arab minority, teaching in Arabic about their history and culture. The system faces challenges like underfunding, understaffing, and disparities in educational resources.",
+        "text_original": "Israel operates an Arab education system for the Israeli-Arab minority, teaching in Arabic about their history and culture. The system faces challenges like underfunding, understaffing, and disparities in educational resources",
+        "idx_start": 11225,
+        "idx_end": 11451
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Israel\n## Gender Statistics\nThe dropout rates in grades 8\u201312 are higher for males than females. The passing rate of high school matriculation exams stands at 62% for females and 51% for males. Women are also more likely to study in universities and colleges.",
+        "text_original": "The dropout rates in grades 8\u201312 are higher for males than females. The passing rate of high school matriculation exams stands at 62% for females and 51% for males. Women are also more likely to study in universities and colleges",
+        "idx_start": 11481,
+        "idx_end": 11710
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## History\nNapoleon and Jules Ferry introduced the modern French educational system, making education free, secular, and compulsory for children aged 6\u201312. The system emphasizes the works of French writers and history education to promote national identity.",
+        "text_original": "Napoleon and Jules Ferry introduced the modern French educational system, making education free, secular, and compulsory for children aged 6\u201312. The system emphasizes the works of French writers and history education to promote national identity",
+        "idx_start": 11764,
+        "idx_end": 12009
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Structure\nEducation is divided into primary, middle, and high school. Primary education includes kindergarten and elementary school, while middle and high school cover a range of subjects. The school year runs from early September to early July, with major holiday breaks around Christmas, Easter, and summer.",
+        "text_original": "Education is divided into primary, middle, and high school. Primary education includes kindergarten and elementary school, while middle and high school cover a range of subjects. The school year runs from early September to early July, with major holiday breaks around Christmas, Easter, and summer",
+        "idx_start": 12031,
+        "idx_end": 12329
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Private Schools\nPrivate schools in France are divided into two categories: those under contract (following the national curriculum) and those without contract (teaching their own curriculum). The system is highly centralized, with the Ministry of National Education regulating all educational programs.",
+        "text_original": "Private schools in France are divided into two categories: those under contract (following the national curriculum) and those without contract (teaching their own curriculum). The system is highly centralized, with the Ministry of National Education regulating all educational programs",
+        "idx_start": 12357,
+        "idx_end": 12642
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## Higher Education\nHigher education in France is organized into three levels: Licence (bachelor\u2019s degree), Master\u2019s, and Doctorat (PhD). The system is small in size but diverse, with universities and grandes \u00e9coles offering specialized programs. Tuition fees are low for EU students but higher for international students.",
+        "text_original": "Higher education in France is organized into three levels: Licence (bachelor\u2019s degree), Master\u2019s, and Doctorat (PhD). The system is small in size but diverse, with universities and grandes \u00e9coles offering specialized programs. Tuition fees are low for EU students but higher for international students",
+        "idx_start": 12671,
+        "idx_end": 12972
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in France\n## International Education\nFrance has 105 international schools, offering curricula in English or other languages. The AEFE (Agence pour l\u2019enseignement fran\u00e7ais \u00e0 l\u2019\u00e9tranger) regulates these schools.",
+        "text_original": "France has 105 international schools, offering curricula in English or other languages. The AEFE (Agence pour l\u2019enseignement fran\u00e7ais \u00e0 l\u2019\u00e9tranger) regulates these schools",
+        "idx_start": 13008,
+        "idx_end": 13179
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## History\nEducation in Sri Lanka dates back over 2,300 years, with early schools based around Buddhist temples and pirivenas. The British introduced formal schools, and the Colebrooke Commission in 1836 recommended a standardized system. The government expanded education post-independence, with free and compulsory education introduced in 1938.",
+        "text_original": "Education in Sri Lanka dates back over 2,300 years, with early schools based around Buddhist temples and pirivenas. The British introduced formal schools, and the Colebrooke Commission in 1836 recommended a standardized system. The government expanded education post-independence, with free and compulsory education introduced in",
+        "idx_start": 13236,
+        "idx_end": 13565
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## Structure\nEducation is divided into kindergarten, primary school, junior secondary school, senior secondary school, and tertiary education. Primary education lasts five years, followed by three years of junior secondary school. Senior secondary school prepares students for the General Certificate of Education (GCE) Ordinary Level (O/L) and Advanced Level (A/L) exams.",
+        "text_original": "Education is divided into kindergarten, primary school, junior secondary school, senior secondary school, and tertiary education. Primary education lasts five years, followed by three years of junior secondary school. Senior secondary school prepares students for the General Certificate of Education (GCE) Ordinary Level (O/L) and Advanced Level (A/L) exams",
+        "idx_start": 13592,
+        "idx_end": 13950
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## Government and Private Schools\nGovernment schools are free and compulsory, while private schools offer alternative curricula. International schools provide curricula like IGCSE and IB. Madrasas provide Islamic education, and semi-government schools are run in collaboration with the government.",
+        "text_original": "Government schools are free and compulsory, while private schools offer alternative curricula. International schools provide curricula like IGCSE and IB. Madrasas provide Islamic education, and semi-government schools are run in collaboration with the government",
+        "idx_start": 13993,
+        "idx_end": 14255
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sri Lanka\n## Tertiary Education\nTertiary education in Sri Lanka is highly competitive, with admission based on GCE A/L exam results. The government provides financial aid for students who qualify but cannot attend state universities. Private universities are also available but face criticism for privatization.",
+        "text_original": "Tertiary education in Sri Lanka is highly competitive, with admission based on GCE A/L exam results. The government provides financial aid for students who qualify but cannot attend state universities. Private universities are also available but face criticism for privatization",
+        "idx_start": 14286,
+        "idx_end": 14564
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## History\nEducation in England was closely linked to religious institutions until the nineteenth century. Public schools and universities played a significant role in shaping modern sports. The Education Act of 1944 made education compulsory for all children aged 5\u201318.",
+        "text_original": "Education in England was closely linked to religious institutions until the nineteenth century. Public schools and universities played a significant role in shaping modern sports. The Education Act of 1944 made education compulsory for all children aged",
+        "idx_start": 14619,
+        "idx_end": 14872
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Legally Compulsory Education\nEducation is compulsory from ages 5 to 18, with students required to attend school until the last Friday in June of the year they turn 16. The school year runs from September to June, with major holiday breaks around Christmas, Easter, and summer.",
+        "text_original": "Education is compulsory from ages 5 to 18, with students required to attend school until the last Friday in June of the year they turn 16. The school year runs from September to June, with major holiday breaks around Christmas, Easter, and summer",
+        "idx_start": 14918,
+        "idx_end": 15164
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Types of Schools\n- **Academy Schools:** Established by the Labour Government to replace poorly-performing community schools.\n- **Community Schools:** Run by local authorities.\n- **Free Schools:** Newly established schools in England set up by parents, teachers, charities, or businesses.\n- **Private Schools:** Fee-charging schools offering scholarships and bursaries.",
+        "text_original": "Academy Schools:** Established by the Labour Government to replace poorly-performing community schools.\n- **Community Schools:** Run by local authorities.\n- **Free Schools:** Newly established schools in England set up by parents, teachers, charities, or businesses.\n- **Private Schools:** Fee-charging schools offering scholarships and bursaries",
+        "idx_start": 15197,
+        "idx_end": 15543
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Post-16 Education\nAfter compulsory schooling, students are mandated to continue in education until age 18, either through further education, training through an apprenticeship, or part-time education. The system includes sixth form colleges, further education colleges, and vocational education.",
+        "text_original": "After compulsory schooling, students are mandated to continue in education until age 18, either through further education, training through an apprenticeship, or part-time education. The system includes sixth form colleges, further education colleges, and vocational education",
+        "idx_start": 15573,
+        "idx_end": 15849
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in England\n## Higher Education\nHigher education in England is provided by universities, university colleges, and private colleges. Undergraduate education typically lasts three years, with fees capped at \u00a39,535 per annum for English students. International students pay higher fees.",
+        "text_original": "Higher education in England is provided by universities, university colleges, and private colleges. Undergraduate education typically lasts three years, with fees capped at \u00a39,535 per annum for English students. International students pay higher fees",
+        "idx_start": 15878,
+        "idx_end": 16128
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## History\nEducation in Egypt has a long history, with early schools established in ancient times. The French expedition to Egypt in 1798 introduced modern education, and Muhammad Ali\u2019s reforms modernized the system. Post-independence, Egypt introduced free public education, but challenges like low quality and high dropout rates persist.",
+        "text_original": "Education in Egypt has a long history, with early schools established in ancient times. The French expedition to Egypt in 1798 introduced modern education, and Muhammad Ali\u2019s reforms modernized the system. Post-independence, Egypt introduced free public education, but challenges like low quality and high dropout rates persist",
+        "idx_start": 16181,
+        "idx_end": 16508
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## Education System\nThe Egyptian education system is divided into basic education (ages 4\u201314), secondary education (ages 15\u201317), and tertiary education. Basic education is free and compulsory, with subjects including mathematics, science, and social studies. Secondary education includes general and technical tracks, and tertiary education is offered by public and private institutions.",
+        "text_original": "The Egyptian education system is divided into basic education (ages 4\u201314), secondary education (ages 15\u201317), and tertiary education. Basic education is free and compulsory, with subjects including mathematics, science, and social studies. Secondary education includes general and technical tracks, and tertiary education is offered by public and private institutions",
+        "idx_start": 16537,
+        "idx_end": 16903
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Egypt\n## Challenges\nEgypt faces challenges like low teacher salaries, inadequate infrastructure, and high dropout rates. The government has implemented reforms to improve quality and access, but progress has been limited.",
+        "text_original": "Egypt faces challenges like low teacher salaries, inadequate infrastructure, and high dropout rates. The government has implemented reforms to improve quality and access, but progress has been limited",
+        "idx_start": 16926,
+        "idx_end": 17126
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## History\nEducation in Ghana dates back to the 1700s, with early schools established by the Yaa Naa and Christian missionaries. The British introduced formal schools, and Ghana gained independence in 1957, announcing a free universal basic education. The system has undergone reforms to improve access and quality.",
+        "text_original": "Education in Ghana dates back to the 1700s, with early schools established by the Yaa Naa and Christian missionaries. The British introduced formal schools, and Ghana gained independence in 1957, announcing a free universal basic education. The system has undergone reforms to improve access and quality",
+        "idx_start": 17179,
+        "idx_end": 17482
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## Structure\nEducation in Ghana is divided into kindergarten, primary school, junior high school (JHS), senior high school (SHS), and tertiary education. Primary education lasts six years, followed by three years of JHS. SHS prepares students for the West African Senior School Certificate Examination (WASSCE). Tertiary education includes universities, polytechnics, and colleges of education.",
+        "text_original": "Education in Ghana is divided into kindergarten, primary school, junior high school (JHS), senior high school (SHS), and tertiary education. Primary education lasts six years, followed by three years of JHS. SHS prepares students for the West African Senior School Certificate Examination (WASSCE). Tertiary education includes universities, polytechnics, and colleges of education",
+        "idx_start": 17504,
+        "idx_end": 17884
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## Private Education\nPrivate schools are prevalent, offering alternative curricula and higher fees. The government collaborates with private institutions to provide education, with calls for public-private partnerships to address funding inefficiencies.",
+        "text_original": "Private schools are prevalent, offering alternative curricula and higher fees. The government collaborates with private institutions to provide education, with calls for public-private partnerships to address funding inefficiencies",
+        "idx_start": 17914,
+        "idx_end": 18145
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Ghana\n## Vocational Education\nVocational education is offered at junior colleges, polytechnics, and universities. The system faces challenges like low completion rates and poorly trained instructors.",
+        "text_original": "Vocational education is offered at junior colleges, polytechnics, and universities. The system faces challenges like low completion rates and poorly trained instructors",
+        "idx_start": 18178,
+        "idx_end": 18346
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Indonesia\n## History\nEducation in Indonesia dates back to the Islamic kingdoms period, with schools like Pondok Pesantren. The Dutch colonial period introduced formal education, and the Japanese occupation during World War II consolidated the system. Post-independence, Indonesia established a secular education system, with Islamic schools like pesantren and madrasah also available.",
+        "text_original": "Education in Indonesia dates back to the Islamic kingdoms period, with schools like Pondok Pesantren. The Dutch colonial period introduced formal education, and the Japanese occupation during World War II consolidated the system. Post-independence, Indonesia established a secular education system, with Islamic schools like pesantren and madrasah also available",
+        "idx_start": 18403,
+        "idx_end": 18765
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Indonesia\n## Structure\nEducation in Indonesia is divided into pre-school, primary school, junior high school, senior high school, and tertiary education. Primary education lasts six years, followed by three years of junior high school. Senior high school prepares students for the national exams. Tertiary education includes universities, polytechnics, and professional schools.",
+        "text_original": "Education in Indonesia is divided into pre-school, primary school, junior high school, senior high school, and tertiary education. Primary education lasts six years, followed by three years of junior high school. Senior high school prepares students for the national exams. Tertiary education includes universities, polytechnics, and professional schools",
+        "idx_start": 18787,
+        "idx_end": 19141
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Indonesia\n## Islamic Schools\nIslamic schools include pesantren, madrasah, and sekolah islam. Pesantren focus on religious studies, while madrasah integrate religious and secular subjects. The system is highly centralized, with the Ministry of Education overseeing curriculum and teacher training.",
+        "text_original": "Islamic schools include pesantren, madrasah, and sekolah islam. Pesantren focus on religious studies, while madrasah integrate religious and secular subjects. The system is highly centralized, with the Ministry of Education overseeing curriculum and teacher training",
+        "idx_start": 19169,
+        "idx_end": 19435
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## History\nEducation in Hong Kong dates back to the 1840s, with early schools established by missionaries. The British introduced formal education, and the system has undergone reforms to align with the national curriculum. The imposition of the Hong Kong national security law has led to a decline in enrollment in traditionally prestigious schools.",
+        "text_original": "Education in Hong Kong dates back to the 1840s, with early schools established by missionaries. The British introduced formal education, and the system has undergone reforms to align with the national curriculum. The imposition of the Hong Kong national security law has led to a decline in enrollment in traditionally prestigious schools",
+        "idx_start": 19492,
+        "idx_end": 19830
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## Structure\nEducation in Hong Kong is divided into pre-school, primary school, junior secondary school, senior secondary school, and tertiary education. Primary education lasts six years, followed by three years of junior secondary school. Senior secondary school prepares students for the Hong Kong Diploma of Secondary Education (HKDSE). Tertiary education includes universities, university colleges, and private institutions.",
+        "text_original": "Education in Hong Kong is divided into pre-school, primary school, junior secondary school, senior secondary school, and tertiary education. Primary education lasts six years, followed by three years of junior secondary school. Senior secondary school prepares students for the Hong Kong Diploma of Secondary Education (HKDSE). Tertiary education includes universities, university colleges, and private institutions",
+        "idx_start": 19852,
+        "idx_end": 20267
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Hong Kong\n## International Education\nHong Kong has 175 international schools, offering curricula in English or other languages. These schools cater to expatriates and international students, with fees varying significantly.",
+        "text_original": "Hong Kong has 175 international schools, offering curricula in English or other languages. These schools cater to expatriates and international students, with fees varying significantly",
+        "idx_start": 20303,
+        "idx_end": 20488
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Armenia\n## Literacy Rate\nArmenia has a literacy rate of 100%, with education following the Soviet model of complete state control. The system emphasizes Armenian history and culture, with English and Russian widely taught.",
+        "text_original": "Armenia has a literacy rate of 100%, with education following the Soviet model of complete state control. The system emphasizes Armenian history and culture, with English and Russian widely taught",
+        "idx_start": 20549,
+        "idx_end": 20745
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Armenia\n## Structure\nEducation in Armenia is divided into kindergarten, primary school, middle school, and high school. Primary education lasts four years, followed by five years of middle school. High school spans three years, with students earning a Certificate of Full Secondary Education. Tertiary education includes universities, institutes, and academies.",
+        "text_original": "Education in Armenia is divided into kindergarten, primary school, middle school, and high school. Primary education lasts four years, followed by five years of middle school. High school spans three years, with students earning a Certificate of Full Secondary Education. Tertiary education includes universities, institutes, and academies",
+        "idx_start": 20767,
+        "idx_end": 21106
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Armenia\n## Higher Education\nArmenia has 26 state universities and 33 licensed private higher educational institutions. The system is aligned with the Bologna Process, with degrees offered at bachelor\u2019s, master\u2019s, and doctoral levels.",
+        "text_original": "Armenia has 26 state universities and 33 licensed private higher educational institutions. The system is aligned with the Bologna Process, with degrees offered at bachelor\u2019s, master\u2019s, and doctoral levels",
+        "idx_start": 21135,
+        "idx_end": 21339
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## History\nEducation in Sweden dates back to the 1840s, with the first national school act introduced in 1842. The system expanded in the 1960s, with compulsory education starting at age 6. The 9-year comprehensive school was introduced in 1962.",
+        "text_original": "Education in Sweden dates back to the 1840s, with the first national school act introduced in 1842. The system expanded in the 1960s, with compulsory education starting at age 6. The 9-year comprehensive school was introduced in",
+        "idx_start": 21393,
+        "idx_end": 21621
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## Structure\nEducation in Sweden is divided into preschool, compulsory school (ages 6\u201315), lower secondary school (ages 13\u201316), and upper secondary school (ages 16\u201319). Compulsory school includes grades 1\u20139, with subjects like Swedish, mathematics, English, and physical education. Upper secondary school prepares students for university or vocational training.",
+        "text_original": "Education in Sweden is divided into preschool, compulsory school (ages 6\u201315), lower secondary school (ages 13\u201316), and upper secondary school (ages 16\u201319). Compulsory school includes grades 1\u20139, with subjects like Swedish, mathematics, English, and physical education. Upper secondary school prepares students for university or vocational training",
+        "idx_start": 21648,
+        "idx_end": 21995
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Sweden\n## Higher Education\nHigher education in Sweden includes universities and university colleges, offering degrees at bachelor\u2019s, master\u2019s, and doctoral levels. The system is aligned with the Bologna Process, with tuition fees capped for EU students.",
+        "text_original": "Higher education in Sweden includes universities and university colleges, offering degrees at bachelor\u2019s, master\u2019s, and doctoral levels. The system is aligned with the Bologna Process, with tuition fees capped for EU students",
+        "idx_start": 22024,
+        "idx_end": 22249
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Norway\n## History\nOrganized education in Norway dates back to 2000 B.C., with cathedral schools established in the 1100s. The folkeskole ('people's school') was introduced in 1827, making education compulsory for seven years. The system has undergone reforms to align with international standards.",
+        "text_original": "Organized education in Norway dates back to 2000 B.C., with cathedral schools established in the 1100s. The folkeskole ('people's school') was introduced in 1827, making education compulsory for seven years. The system has undergone reforms to align with international standards",
+        "idx_start": 22303,
+        "idx_end": 22581
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Norway\n## Structure\nEducation in Norway is divided into primary school (ages 6\u201312), lower secondary school (ages 13\u201316), and upper secondary school (ages 16\u201319). Primary education includes grades 1\u20137, with subjects like Norwegian, mathematics, and English. Lower secondary school includes grades 8\u201310, with electives like German, French, and Spanish. Upper secondary school prepares students for university or vocational training.",
+        "text_original": "Education in Norway is divided into primary school (ages 6\u201312), lower secondary school (ages 13\u201316), and upper secondary school (ages 16\u201319). Primary education includes grades 1\u20137, with subjects like Norwegian, mathematics, and English. Lower secondary school includes grades 8\u201310, with electives like German, French, and Spanish. Upper secondary school prepares students for university or vocational training",
+        "idx_start": 22603,
+        "idx_end": 23012
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Norway\n## Higher Education\nHigher education in Norway includes universities and university colleges, offering degrees at bachelor\u2019s, master\u2019s, and doctoral levels. The system is highly competitive, with admission based on upper secondary school grades. The government provides financial aid for students studying in Norway or abroad.",
+        "text_original": "Higher education in Norway includes universities and university colleges, offering degrees at bachelor\u2019s, master\u2019s, and doctoral levels. The system is highly competitive, with admission based on upper secondary school grades. The government provides financial aid for students studying in Norway or abroad",
+        "idx_start": 23041,
+        "idx_end": 23346
+    }
+]

@@ -1,0 +1,24 @@
+The **University of Cambridge** is a prestigious, collegiate university founded in 1209, renowned for its academic excellence, historical significance, and global influence. Its academic year is divided into three terms, with a unique pedagogical system emphasizing small-group supervisions (often called "tutorials") led by college fellows, a tradition shared with Oxford. The university operates under a collegiate structure, with 31 colleges offering housing, social, and academic support to students.
+
+### **Admissions**
+Cambridge’s admissions are highly competitive, with an average offer rate of around **15-20%** for undergraduate applicants. The standard entry requirement is typically **A*AA in A-Levels** or equivalent, though a foundation course (50 places) is available for students with **BBB** grades who face barriers to higher education. The university also offers contextualized admissions, including support for students from low-income backgrounds, care leavers, and estranged families. Graduate admissions are determined by faculty departments, with acceptance effectively guaranteeing university entry but not necessarily the preferred college.
+
+### **Teaching and Research**
+Cambridge’s teaching is structured around the **Tripos exams**, which assess students through lectures, supervisions, and practical work. The university is globally recognized for its research, with over **150 departments and faculties** spanning arts, humanities, sciences, and engineering. Key research strengths include **computer science, medicine, physics, and humanities**, with notable contributions to fields like **DNA structure, artificial intelligence, and climate science**. The university is a leader in **STEM education**, particularly in mathematics and engineering, and hosts world-class research centers, including the **Cavendish Laboratory** and **Jodrell Bank Observatory**.
+
+### **Libraries and Museums**
+Cambridge boasts **116 libraries**, including the **University of Cambridge Library**, the largest in the UK, which holds over **8 million volumes**. Specialized libraries exist for subjects like **history, law, and medicine**. The university also operates **eight museums**, including the **Fitzwilliam Museum** (art and antiquities), **Cambridge University Museum of Zoology** (natural history), and the **Kettle’s Yard** (contemporary art). The **Cambridge University Botanic Garden** is a notable botanical site, and the university’s **art collections** are extensive, with works by artists like **Quentin Blake and Roger Fry**.
+
+### **Student Life**
+Student life at Cambridge is deeply rooted in the **collegiate system**, with each of the 31 colleges offering its own culture, traditions, and social activities. Colleges provide housing, dining halls, and extracurricular opportunities, fostering a strong sense of community. **Formal Halls** (dinners) and **May Balls** (lavish parties) are iconic traditions, while **societies and sports clubs** cater to diverse interests, from rowing and cricket to debate and music. The university is also known for its **student newspapers** (*The Cambridge Review*, *The Cambridge Student*) and **radio station** (*Cambridge Radio*).
+
+### **Reputation and Rankings**
+Cambridge is consistently ranked among the **top universities globally**, including **6th in the world (QS 2025)** and **4th in the UK (Times Higher Education 2025)**. It is renowned for its **elite academic reputation**, particularly in **STEM and humanities**, and has produced **nobel laureates, Fields Medalists, and Turing Award winners**. The university’s **alumni network** includes leaders in politics, science, arts, and business, and its **graduates are highly sought after** by top employers worldwide.
+
+### **Notable Features**
+- **Academic Integrity**: Cambridge’s **Honor Code** emphasizes academic honesty, with students expected to self-regulate their work.
+- **Research Impact**: The university is a leader in **innovation and discovery**, with partnerships spanning industry, government, and academia.
+- **Global Influence**: Cambridge’s **international reputation** extends to its **exchange programs, research collaborations, and global alumni network**.
+- **Sustainability**: The university is committed to **environmental sustainability**, with initiatives like **carbon neutrality goals and green campus projects**.
+
+Cambridge remains a symbol of **academic excellence, tradition, and intellectual curiosity**, attracting students and scholars from around the world.

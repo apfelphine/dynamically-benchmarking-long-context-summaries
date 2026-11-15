@@ -1,0 +1,23 @@
+{
+  "id": 79106460,
+  "title": "Miles Brundage",
+  "url": "https://en.wikipedia.org/wiki/Miles_Brundage",
+  "path": "AI-Regulations\\miles-brundage",
+  "summary": {
+    "chars": 63,
+    "tokens": 12
+  },
+  "document": {
+    "chars": 1311,
+    "tokens": 288
+  },
+  "infobox": {
+    "title": "Miles Brundage",
+    "data": {
+      "Fields": "AI policy",
+      "Institutions": "Future of Humanity Institute (2016-2018) \u00b7 OpenAI (2018-2024)",
+      "Thesis": "Human and Social Dimensions of Science and Technology (2019)",
+      "Website": "milesbrundage.com"
+    }
+  }
+}

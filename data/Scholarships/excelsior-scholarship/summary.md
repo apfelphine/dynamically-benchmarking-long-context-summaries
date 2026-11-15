@@ -1,0 +1,1 @@
+New York State's Excelsior Scholarship program provides certain residents with free tuition for full-time study at its state universities: State University of New York (SUNY) and City University of New York (CUNY). On April 11, 2017, New York became the first American state to make four-year public colleges tuition-free for those under an earnings threshold.

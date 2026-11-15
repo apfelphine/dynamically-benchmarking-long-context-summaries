@@ -1,0 +1,25 @@
+{
+  "id": 77802751,
+  "title": "VGGNet",
+  "url": "https://en.wikipedia.org/wiki/VGGNet",
+  "path": "Neural-Network-Architectures\\vggnet",
+  "summary": {
+    "chars": 1290,
+    "tokens": 300
+  },
+  "document": {
+    "chars": 3246,
+    "tokens": 840
+  },
+  "infobox": {
+    "title": "VGGNet",
+    "data": {
+      "Developer": "Visual Geometry Group",
+      "Initial release": "September 4, 2014",
+      "Written in": "Caffe",
+      "Type": "- Convolutional neural network - Deep neural network",
+      "License": "CC BY 4.0",
+      "Website": "www.robots.ox.ac.uk/~vgg/research/very_deep"
+    }
+  }
+}

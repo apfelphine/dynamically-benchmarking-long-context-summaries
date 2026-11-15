@@ -1,0 +1,27 @@
+{
+  "id": 2863294,
+  "title": "Simon S. Lam",
+  "url": "https://en.wikipedia.org/wiki/Simon_S._Lam",
+  "path": "Comp-Sci-Pioneers\\simon-s-lam",
+  "summary": {
+    "chars": 1767,
+    "tokens": 347
+  },
+  "document": {
+    "chars": 5174,
+    "tokens": 1056
+  },
+  "infobox": {
+    "title": "Simon S. Lam",
+    "data": {
+      "Born": "July 31, 1947 \u00b7 Macau",
+      "Citizenship": "United States",
+      "Alma mater": "Washington State University (BS), UCLA (MS, PhD)",
+      "Known for": "Inventing Secure Sockets \u00b7 Secure Network Programming \u00b7 Atomic Predicates for Network Verification \u00b7 Adaptive Backoff algorithms",
+      "Awards": "Internet Hall of Fame (2023) \u00b7 Member of the National Academy of Engineering (2007) \u00b7 SIGCOMM Award (2004) \u00b7 ACM Software System Award (2004) \u00b7 IEEE W. Wallace McDowell Award (2004) \u00b7 ACM Fellow (1998) \u00b7 IEEE Fellow (1985) \u00b7 William R. Bennett Prize (2001) \u00b7 Leonard G. Abraham Award (1975))",
+      "Fields": "Computer Science",
+      "Institutions": "The University of Texas at Austin, IBM T. J. Watson Research Center",
+      "Doctoral advisor": "Leonard Kleinrock"
+    }
+  }
+}

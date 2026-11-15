@@ -1,0 +1,1 @@
+The Missouri A+ Schools Program is a legislated, statewide reform effort that offers a framework and incentives for providing quality education for all students in Missouri.

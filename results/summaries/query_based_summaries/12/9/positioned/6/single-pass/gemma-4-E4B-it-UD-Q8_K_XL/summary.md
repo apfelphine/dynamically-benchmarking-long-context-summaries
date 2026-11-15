@@ -1,0 +1,7 @@
+**Studienstiftung**
+The Studienstiftung des deutschen Volkes was initially founded in Dresden in 1925 as part of the Deutsche Studentenschaft. It was dissolved under National Socialism in 1934 and re-established as a registered association in Cologne in 1948.
+
+The Studienstiftung offers a general scholarship for bachelor's and master's studies, providing both financial and academic support, with eligibility based on the criteria for BAföG. It accepts applicants studying full-time in Germany, another EU country, or Switzerland; German or EU citizenship is not required, and there are no age criteria. Students are admitted through various channels, including nomination by schools, professors, examination boards, winners of national/federal competitions, self-nomination via an assessment test, nomination by alums, or through university nominations for fine arts/music.
+
+**Scholarship Benefits and Statistics**
+Financial support includes a monthly allowance (€300) and subsidies for insurance; PhD scholars receive a higher monthly award (€1,550). Academic support encompasses summer schools, research groups, and mentoring. In 2023, the Studienstiftung approved 2,179 general scholarships and 301 doctoral scholarships. Statistically, 71.5% of scholars in 2023 received the €300 study expense allowance.

@@ -1,0 +1,5 @@
+**Ra.One**
+
+In London, the Barron Industries team develops a video game featuring a protagonist, G.One, and a faceless antagonist, Ra.One, who possesses enhanced powers and a self-learning AI. Shekhar Subramaniam, a game designer, creates Ra.One to be more formidable than G.One, using his son Prateek’s idea. Ra.One escapes into the real world after the game’s mainframe malfunctions, leading to a series of events involving Shekhar, Prateek, and Jenny Nair. Ra.One, initially portrayed as a villain, evolves into a complex character as the film progresses, revealing layers of its origins and motivations. The film culminates in a climactic battle where Ra.One is ultimately defeated, but its legacy and the themes of technology and humanity remain central to the narrative.
+
+The film stars Shah Rukh Khan as both Shekhar Subramaniam and G.One, with Arjun Rampal portraying Ra.One. The story explores themes of artificial intelligence, human emotions, and the consequences of creating sentient machines.

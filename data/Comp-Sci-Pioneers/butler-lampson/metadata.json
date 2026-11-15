@@ -1,0 +1,28 @@
+{
+  "id": 77249,
+  "title": "Butler Lampson",
+  "url": "https://en.wikipedia.org/wiki/Butler_Lampson",
+  "path": "Comp-Sci-Pioneers\\butler-lampson",
+  "summary": {
+    "chars": 182,
+    "tokens": 36
+  },
+  "document": {
+    "chars": 4728,
+    "tokens": 1115
+  },
+  "infobox": {
+    "title": "Butler LampsonFRS",
+    "data": {
+      "Born": "December 23, 1943 \u00b7 Washington, D.C.",
+      "Education": "Harvard University (BA) \u00b7 University of California, Berkeley (MS, PhD)",
+      "Known for": "SDS 940, Xerox Alto",
+      "Awards": "- Turing Award (1992) - ACM Fellow (1994) - IEEE John von Neumann Medal (2001) - Member of the National Academy of Sciences (2005) - Draper Prize (2004) - Foreign Member of the Royal Society (2018)",
+      "Fields": "Computer science",
+      "Institutions": "University of California, Berkeley \u00b7 Xerox PARC \u00b7 Digital Equipment Corporation \u00b7 Microsoft \u00b7 Massachusetts Institute of Technology",
+      "Thesis": "Scheduling and Protection in an Interactive Multi-Processor System (1967)",
+      "Doctoral advisor": "Harry Huskey",
+      "Website": "research.microsoft.com/lampson (archived)"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+# Education Systems Overview
+
+## Norway and Sweden  
+Norway provides compulsory education from ages 6 to 16 in grunnskole, followed by upper secondary education with academic and vocational tracks linked to apprenticeships, emphasizing inclusivity and local support for special education. Its autonomous higher education institutions are quality assured by NOKUT. Sweden offers education from preschool through compulsory comprehensive and upper secondary education divided into preparatory and vocational paths. Tuition-free public universities serve citizens and EU/EEA/Swiss nationals, with ongoing debates on equity due to publicly funded but privately managed independent schools.
+
+## Armenia  
+Armenia’s Soviet-influenced system provides 12 years of free compulsory schooling focusing on Armenian language and history, Russian, and expanding English and Chinese instruction. Public schools predominate with nationally certified teachers, and higher education aligns with European standards. Challenges include absenteeism linked to socioeconomic factors, addressed by innovative non-formal centers imparting modern skills, particularly in rural areas.
+
+## Hong Kong  
+Education includes voluntary kindergarten, compulsory primary and junior secondary, and three years of senior secondary education ending with the HKDSE exam. Instruction has shifted primarily to Cantonese, with some Putonghua and English in international schools. Recent reforms promote active learning, specialized tracks, adult education, and align with mainland China through patriotic education and AI integration. Higher education expanded post-1975 with eight universities mainly offering English-medium courses via a centralized admission system.
+
+## Indonesia  
+Indonesia mandates 12 years of basic education encompassing sciences, social sciences, languages, and religion across secular and Islamic schools. Persistent challenges include resource disparities, teacher shortages, and rural equity. The higher education sector offers diverse academic and vocational programs under the National Qualification Framework, undergoing reforms to enhance quality, management, and inclusiveness amid a culturally diverse population.
+
+## Ghana  
+Ghana provides 12 years of free compulsory education culminating in standardized exams, followed by senior high school with academic and vocational pathways. English predominates as the language of instruction. Tertiary education comprises public and private institutions, with governmental initiatives promoting gender parity and enrollment growth. Vocational training is mainly informal but increasingly formalized through bodies like COTVET. COVID-19 exposed remote learning weaknesses, spurring efforts to improve digital engagement.
+
+## Egypt  
+Egypt features compulsory basic education (ages 4–14), divided into secondary general and technical tracks, and a diverse higher education system facing governance and quality issues. Reforms since 1997 focus on accreditation, research, and labor market alignment. Challenges include teacher qualification gaps, dependence on private tutoring, and graduate unemployment. The pandemic accelerated distance learning and introduced new diploma programs inspired by international models.
+
+## England  
+Compulsory education spans ages 5 to 18, governed by the National Curriculum until 16, after which diverse post-16 pathways include sixth forms, further education, apprenticeships, and vocational qualifications like BTECs and T Levels. State-funded schools predominate, with national assessments (GCSEs) and Ofsted overseeing quality. Adult education is supported by institutions such as the Open University. England is globally recognized for its education quality and enhanced funding prioritizing disadvantaged and special needs students.
+
+## Sri Lanka  
+Sri Lanka offers free education primarily through an extensive public school network, with instruction in national languages and integration of religious education. National examinations determine limited university admissions. State universities provide free tertiary education, with policies encouraging rural student representation. Alternatives include foreign education, private schools, vocational training, and a growing online tutoring sector. Challenges include system rigidity and intense competition.
+
+## France and Israel  
+France has a centrally managed, free, mandatory secular education system from preschool to secondary school, ending with baccalauréat or vocational diplomas. Higher education includes open-admission universities and selective Grandes Écoles, with strict secularism in schools.  
+Israel's education comprises four tracks—state secular, state religious, independent religious (Haredi), and Arab—with compulsory education to grade 12. Growth is notable in Haredi and Arab sectors, with curricular reforms to enhance workforce integration. High STEM rankings and tertiary participation coexist with persistent inequalities, particularly in Arab education, addressed through targeted government initiatives.
+
+## Turkey  
+Turkey enforces 12 years of schooling in three four-year stages starting at age six, featuring public schools, religious vocational (Imam Hatip) tracks, and private institutions. Curricula incorporate nationalist themes, compulsory religious education since 1980, and recently removed evolution instruction reflecting ideological shifts. The higher education sector includes over 167 universities with emphasis on institutional autonomy, international exchanges, and research. Criticism of biased state textbooks has increased private textbook use, and English language education begins early despite limited minority language instruction.
+
+## Ireland  
+Ireland mandates education from ages 6 to 16, structured as eight years of primary education and a three-year Junior Cycle, followed by optional Transition Year and Senior Cycle finishing with the Leaving Certificate. Schools are mainly Catholic but increasingly diverse, including Irish-language and homeschooling options. Special education support is enshrined in legislation with programs like DEIS targeting disadvantaged schools. Infrastructure investments and expanding Irish-language education contribute to Ireland’s recognition among the top 20 global systems.
+
+## Iran  
+Iran offers a centralized education system with six years each of elementary and secondary education across general and vocational tracks. University entry depends on the competitive Konkour exam. Female university enrollment exceeds 70%, the highest worldwide. Persian is the primary language, supplemented by mandatory Arabic and expanding foreign languages. Educational reforms focus on quality, critical thinking, vocational training, and increased hybrid/online learning platforms. Challenges include teacher shortages, dropout rates, disparities between public/private sectors, and political restrictions.
+
+## Nigeria  
+Nigeria’s universal basic education consists of six years primary, three years junior secondary, and three years senior secondary education, with federal Unity schools and resources-varied state schools. Secondary education challenges include infrastructural deficits and disparate teacher qualifications, especially in rural zones. University admission requires national exams, with advanced options allowing second-year entry. Vocational education faces underfunding and outdated curricula, while numerous technical colleges and international schools diversify opportunities. Literacy has risen from 62% to 69% (2018–2022), with initiatives targeting 95% literacy by 2030 and digital literacy increases via partnerships like UNESCO. Gender disparities and security issues affect female education despite government and UNICEF programs.
+
+## Taiwan  
+Taiwan mandates 12 years of compulsory education covering primary and junior high, followed by senior high with academic and vocational tracks. University admission is highly competitive; over 95% of high school graduates pursue higher education. The tertiary system includes junior colleges granting associate degrees and universities offering bachelor to doctoral programs modeled on the American system. Vocational education is well-supported through institutes of technology. Continuous in-service teacher training is facilitated via a digital platform. Private education supplements public schooling with cram schools and intensive preschool English immersion. Special education has been institutionalized since 1984. Taiwan attracts many international students, especially from mainland China, and is a center for Chinese language learning.

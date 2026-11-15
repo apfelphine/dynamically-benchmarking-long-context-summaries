@@ -1,0 +1,9 @@
+**Education in Nigeria**
+
+The Nigerian education system is structured into primary, secondary, and tertiary levels. Primary education generally starts around age 5 and lasts six years, culminating in a first school-leaving certificate. Subjects taught include Mathematics, English language, Christian Religious Knowledge/Islamic Knowledge, Agricultural science, Home economics, and one of three indigenous languages (Hausa-Fulani, Yoruba, or Igbo).
+
+The Universal Basic Education (UBE) program, established in 1999, aims to provide 9 years of uninterrupted schooling, encompassing 6 years of Primary School and 3 years of Junior Secondary School, and is designated as "free," "compulsory," and a "right" of every child. Secondary education is divided into 3 years of Junior Secondary School (JSS) and 3 years of Senior Secondary School (SSS). Tertiary education includes Universities, Polytechnics, Monotechnics, and Colleges of education. Federal-sponsored secondary schools are model schools funded by the Federal Government, while state-sponsored schools are funded by respective state governments.
+
+**Literacy and Access**
+
+Despite efforts to improve literacy, the adult literacy rate remained significantly low as of 2018. The government is actively addressing literacy challenges through initiatives focused on general and digital literacy. Female participation in education is increasing, though challenges persist, including gender-based stereotyping in secondary schools, teen pregnancy, and poverty. Vocational training and informal education are central forms of knowledge sharing, overseen by the National Board for Technical Education.

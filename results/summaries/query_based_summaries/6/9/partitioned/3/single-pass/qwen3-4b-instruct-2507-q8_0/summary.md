@@ -1,0 +1,12 @@
+Jacek Karpiński was a Polish computer engineer and inventor, born in 1927 into a family of intellectuals and alpinists. He served in the Home Army during World War II, participating in the Warsaw Uprising and later facing political persecution due to his wartime activities. After the war, he worked in various technical roles, including at the Polish Academy of Sciences, where he contributed to early computing projects.
+
+Karpiński's major achievements include the development of several pioneering computing machines:
+- **AAH (Analytical Analyzer of Harmonics)**: A vacuum tube-based computer designed to improve weather forecasting precision, used from 1957 to 1959.
+- **AKAT-1**: The world's first transistor-based differential equations analyzer, developed in 1959 with Janusz Tomaszewski. It was used to simulate dynamic processes and was celebrated for its innovative design and functionality.
+- **KAR-65**: A computer designed in 1965 to process data from CERN bubble chambers, built using Polish-made transistors and notable for its speed and compactness.
+
+In 1960, Karpiński was awarded a UNESCO scholarship to study in the United States, where he visited leading institutions and met prominent computer scientists like Claude Shannon and John Eckert. He returned to Poland and continued developing computing technology, including the **perceptron**, one of the earliest neural network-inspired devices in the world, completed in 1964.
+
+He later founded a microcomputer project, the **K-202**, which was technologically advanced and competitive with Western systems like the PDP-11. Despite its potential, the project failed to achieve commercial success due to political opposition and administrative challenges, with only 30 units produced. Karpiński's work was later recognized with the Officer's Cross of Polonia Restituta in 2009 and a posthumous Commander's Cross in 2010.
+
+Karpiński also worked as a secret informant for the Polish security service (Służba Bezpieczeństwa) from 1961, collecting technological intelligence, a fact that remains controversial. His legacy includes significant contributions to early computing in Poland, particularly in the areas of automation, signal processing, and machine learning. He died in 2010 in Wrocław.

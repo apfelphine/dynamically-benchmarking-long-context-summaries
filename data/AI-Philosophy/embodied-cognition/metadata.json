@@ -1,0 +1,24 @@
+{
+  "id": 33034640,
+  "title": "Embodied cognition",
+  "url": "https://en.wikipedia.org/wiki/Embodied_cognition",
+  "path": "AI-Philosophy\\embodied-cognition",
+  "summary": {
+    "chars": 1130,
+    "tokens": 201
+  },
+  "document": {
+    "chars": 89471,
+    "tokens": 15888
+  },
+  "infobox": {
+    "title": "Details",
+    "data": {
+      "Theory of": "Cognition",
+      "Key concepts": "Body Mind Environment Affordance Sensorimotor functions",
+      "Origin": "20th century",
+      "Cognitive features": "Concepts Categories Perception Language Memory Learning Reasoning Emotion Self-regulation Social cognition Sensorimotor contingencies",
+      "Bodily aspects": "Motor system Perceptual system situatedness Intrinsic assumptions"
+    }
+  }
+}

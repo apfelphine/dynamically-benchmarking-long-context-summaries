@@ -1,0 +1,485 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## France\n### History & Structure:\nFrance's education system evolved from strong state involvement beginning under Napoleon and later reforms led by Jules Ferry, who established compulsory, free, and secular public schooling. The curriculum historically emphasized transmitting a \u201ccommon culture\u201d through literature and history, serving as a tool for integration.",
+        "text_original": "France's education system evolved from strong state involvement beginning under Napoleon and later reforms led by Jules Ferry, who established compulsory, free, and secular public schooling. The curriculum historically emphasized transmitting a \u201ccommon culture\u201d through literature and history, serving as a tool for integration",
+        "idx_start": 81,
+        "idx_end": 408
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## France\n### Governance:\nEducation is centralized under the Ministry of National Education. Teachers are civil servants, and curriculum is standardized nationally, with specialized sections available. School is mandatory with limited exceptions.",
+        "text_original": "Education is centralized under the Ministry of National Education. Teachers are civil servants, and curriculum is standardized nationally, with specialized sections available. School is mandatory with limited exceptions",
+        "idx_start": 429,
+        "idx_end": 648
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## France\n### Primary & Secondary Education:\nPreschool (ages 2\u20135) prepares children for community life. Elementary spans ages 6\u201311, focusing on foundational academic skills. Middle (coll\u00e8ge, ages 11\u201315) and high school (lyc\u00e9e, ages 15\u201318) provide comprehensive education, culminating in the baccalaur\u00e9at or vocational certifications.",
+        "text_original": "Preschool (ages 2\u20135) prepares children for community life. Elementary spans ages 6\u201311, focusing on foundational academic skills. Middle (coll\u00e8ge, ages 11\u201315) and high school (lyc\u00e9e, ages 15\u201318) provide comprehensive education, culminating in the baccalaur\u00e9at or vocational certifications",
+        "idx_start": 688,
+        "idx_end": 975
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## France\n### Private & International Schools:\nMost private schools follow the state curriculum and employ state-recruited teachers. France also hosts international schools regulated by AEFE.",
+        "text_original": "Most private schools follow the state curriculum and employ state-recruited teachers. France also hosts international schools regulated by AEFE",
+        "idx_start": 1017,
+        "idx_end": 1160
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## France\n### Higher Education:\nHigher education consists of public universities, elite grandes \u00e9coles (highly selective institutions), vocational colleges, and preparatory classes (CPGEs) for grandes \u00e9coles. Tuition for EU students is low, while private and business schools charge higher fees. The system utilizes the ECTS credit framework compatible with European standards.",
+        "text_original": "Higher education consists of public universities, elite grandes \u00e9coles (highly selective institutions), vocational colleges, and preparatory classes (CPGEs) for grandes \u00e9coles. Tuition for EU students is low, while private and business schools charge higher fees. The system utilizes the ECTS credit framework compatible with European standards",
+        "idx_start": 1187,
+        "idx_end": 1531
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## France\n### Teacher Recruitment:\nTeachers undergo specialized training; university faculty are recruited through competitive academic channels.",
+        "text_original": "Teachers undergo specialized training; university faculty are recruited through competitive academic channels",
+        "idx_start": 1561,
+        "idx_end": 1670
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## France\n### Religion:\nPublic schools are secular except in Alsace and Moselle. Display of conspicuous religious symbols is banned.",
+        "text_original": "Public schools are secular except in Alsace and Moselle. Display of conspicuous religious symbols is banned",
+        "idx_start": 1689,
+        "idx_end": 1796
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## France\n### Statistics:\nFrance invests heavily in education, with a diverse, aging population and a low rate of violent incidents in schools.",
+        "text_original": "France invests heavily in education, with a diverse, aging population and a low rate of violent incidents in schools",
+        "idx_start": 1817,
+        "idx_end": 1933
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Turkey\n### History & Administration:\nFollowing the Ottoman era, Turkey centralized education under the Ministry of National Education. Key reforms included secularization, extending compulsory education to 12 years, and closing Islamic schools (medrese).",
+        "text_original": "Following the Ottoman era, Turkey centralized education under the Ministry of National Education. Key reforms included secularization, extending compulsory education to 12 years, and closing Islamic schools (medrese",
+        "idx_start": 1984,
+        "idx_end": 2199
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Turkey\n### School Structure:\nPre-primary is optional; primary and secondary are compulsory and free. Primary lasts 8 years, secondary at least 3 years, with general and vocational tracks.",
+        "text_original": "Pre-primary is optional; primary and secondary are compulsory and free. Primary lasts 8 years, secondary at least 3 years, with general and vocational tracks",
+        "idx_start": 2227,
+        "idx_end": 2384
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Turkey\n### Vocational & Religious Education:\nVocational schools provide technical and apprenticeship training. Religious education was banned and later reinstated; participation and curriculum are now regulated and largely compulsory.",
+        "text_original": "Vocational schools provide technical and apprenticeship training. Religious education was banned and later reinstated; participation and curriculum are now regulated and largely compulsory",
+        "idx_start": 2427,
+        "idx_end": 2615
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Turkey\n### Higher Education:\nPublic and foundation universities offer undergraduate to doctoral degrees, admitting students via a national exam. International student presence is growing, supported by scholarship programs.",
+        "text_original": "Public and foundation universities offer undergraduate to doctoral degrees, admitting students via a national exam. International student presence is growing, supported by scholarship programs",
+        "idx_start": 2642,
+        "idx_end": 2834
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Turkey\n### Private and International Schools:\nTurkey has national, minority, foreign, and international private schools, all under governmental oversight.",
+        "text_original": "Turkey has national, minority, foreign, and international private schools, all under governmental oversight",
+        "idx_start": 2878,
+        "idx_end": 2985
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Turkey\n### Language Policy:\nEnglish is most widely taught; Kurdish and other minority languages have been added as electives.",
+        "text_original": "English is most widely taught; Kurdish and other minority languages have been added as electives",
+        "idx_start": 3011,
+        "idx_end": 3107
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Turkey\n### Bias and Indoctrination:\nNational curriculum includes Turkish nationalism, and genocide denial is present in textbooks.",
+        "text_original": "National curriculum includes Turkish nationalism, and genocide denial is present in textbooks",
+        "idx_start": 3141,
+        "idx_end": 3234
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## England\n### Structure & Types:\nCompulsory education runs from ages 5\u201316, with post-16 education required until 18. State-funded schools dominate but private schools educate about 7% of children. School types include academies, free schools, grammar schools, faith schools, and technical colleges.",
+        "text_original": "Compulsory education runs from ages 5\u201316, with post-16 education required until 18. State-funded schools dominate but private schools educate about 7% of children. School types include academies, free schools, grammar schools, faith schools, and technical colleges",
+        "idx_start": 3279,
+        "idx_end": 3543
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## England\n### Curriculum:\nThe national curriculum ensures balance across thirteen subjects, with added requirements for sex education and personal development. Students select specialisations in later secondary years.",
+        "text_original": "The national curriculum ensures balance across thirteen subjects, with added requirements for sex education and personal development. Students select specialisations in later secondary years",
+        "idx_start": 3564,
+        "idx_end": 3754
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## England\n### Further & Higher Education:\nPost-16 options include sixth form, further education colleges, and apprenticeships. Higher education is provided by universities and colleges; tuition fees are largely covered by loans, with support for disadvantaged students.",
+        "text_original": "Post-16 options include sixth form, further education colleges, and apprenticeships. Higher education is provided by universities and colleges; tuition fees are largely covered by loans, with support for disadvantaged students",
+        "idx_start": 3791,
+        "idx_end": 4017
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## England\n### Standards & Funding:\nEngland ranks highly in international assessments, and school funding is regulated nationally. Ofsted oversees school quality.",
+        "text_original": "England ranks highly in international assessments, and school funding is regulated nationally. Ofsted oversees school quality",
+        "idx_start": 4047,
+        "idx_end": 4172
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Iran\n### History & Administration:\nIran\u2019s education system is highly centralized, overseen by the Ministry of Education. Major reforms have modernized curricula, introduced vocational training, and mandated Islamic content post-1979.",
+        "text_original": "Iran\u2019s education system is highly centralized, overseen by the Ministry of Education. Major reforms have modernized curricula, introduced vocational training, and mandated Islamic content post",
+        "idx_start": 4221,
+        "idx_end": 4413
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Iran\n### Structure:\nEducation is free, compulsory through lower secondary (grade 9), and offers vocational and manual skills tracks. Higher education entry is competitive via the \u201cKonkur\u201d exam, with public and private universities and specialized schools for gifted children.",
+        "text_original": "Education is free, compulsory through lower secondary (grade 9), and offers vocational and manual skills tracks. Higher education entry is competitive via the \u201cKonkur\u201d exam, with public and private universities and specialized schools for gifted children",
+        "idx_start": 4438,
+        "idx_end": 4692
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Iran\n### Privatization & Challenges:\nThere is a sharp rise in private schools and their associated cost, alongside shortages of educators and school counselors, particularly in disadvantaged regions.",
+        "text_original": "There is a sharp rise in private schools and their associated cost, alongside shortages of educators and school counselors, particularly in disadvantaged regions",
+        "idx_start": 4729,
+        "idx_end": 4890
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Iran\n### Women & Diversity:\nWomen comprise a majority of university students, and Iran ranks high globally for female educational attainment. NODET schools foster gifted students.",
+        "text_original": "Women comprise a majority of university students, and Iran ranks high globally for female educational attainment. NODET schools foster gifted students",
+        "idx_start": 4918,
+        "idx_end": 5068
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Iran\n### Higher Education:\nUniversities are split among public, private, and elite technological institutions. International collaborations and recognition have expanded, albeit with ongoing restrictions in language teaching and academic freedom.",
+        "text_original": "Universities are split among public, private, and elite technological institutions. International collaborations and recognition have expanded, albeit with ongoing restrictions in language teaching and academic freedom",
+        "idx_start": 5095,
+        "idx_end": 5313
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Ghana\n### History & Structure:\nFrom mission-run castle schools to universal access after independence, Ghana\u2019s education system consists of basic (kindergarten-primary-junior high), secondary (senior high and vocational), and tertiary (universities, polytechnics, colleges). Education is compulsory from ages 6 to 14.",
+        "text_original": "From mission-run castle schools to universal access after independence, Ghana\u2019s education system consists of basic (kindergarten-primary-junior high), secondary (senior high and vocational), and tertiary (universities, polytechnics, colleges). Education is compulsory from ages 6 to",
+        "idx_start": 5358,
+        "idx_end": 5640
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Ghana\n### Governance & Funding:\nThe Ministry of Education manages policy, with decentralization to district offices. State spending is high but supplemented by donors and private actors through public-private partnerships.",
+        "text_original": "The Ministry of Education manages policy, with decentralization to district offices. State spending is high but supplemented by donors and private actors through public-private partnerships",
+        "idx_start": 5674,
+        "idx_end": 5863
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Ghana\n### Curriculum & Vocational Training:\nCore subjects, arts, vocational, and technical training are offered. Vocational education faces challenges of status and quality.",
+        "text_original": "Core subjects, arts, vocational, and technical training are offered. Vocational education faces challenges of status and quality",
+        "idx_start": 5906,
+        "idx_end": 6034
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Ghana\n### Equity & Access:\nPolicies aim to bridge gender and socioeconomic gaps, but disparities remain in tertiary enrolment. ICT and adult literacy initiatives are ongoing.",
+        "text_original": "Policies aim to bridge gender and socioeconomic gaps, but disparities remain in tertiary enrolment. ICT and adult literacy initiatives are ongoing",
+        "idx_start": 6060,
+        "idx_end": 6206
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Taiwan\n### History & Administration:\nTaiwan\u2019s education consists of 12 years compulsory schooling (elementary, junior high, senior high), administered centrally but including private and religious options. Discipline and school cleaning are emphasized.",
+        "text_original": "Taiwan\u2019s education consists of 12 years compulsory schooling (elementary, junior high, senior high), administered centrally but including private and religious options. Discipline and school cleaning are emphasized",
+        "idx_start": 6257,
+        "idx_end": 6471
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Taiwan\n### School Grades:\nElementary (grades 1\u20136), junior high (7\u20139), senior high (10\u201312), with specialization tracks at the senior level.",
+        "text_original": "Elementary (grades 1\u20136), junior high (7\u20139), senior high (10\u201312), with specialization tracks at the senior level",
+        "idx_start": 6495,
+        "idx_end": 6606
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Taiwan\n### Vocational & Higher Education:\nVocational routes include junior colleges and institutes of technology. University education is widespread, leading to high tertiary enrolment and a surplus of graduates.",
+        "text_original": "Vocational routes include junior colleges and institutes of technology. University education is widespread, leading to high tertiary enrolment and a surplus of graduates",
+        "idx_start": 6646,
+        "idx_end": 6815
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Taiwan\n### Private Education & Cram Schools:\nPrivate institutions provide supplementary education. Cram schools and private kindergartens are popular, as is English-language tutoring.",
+        "text_original": "Private institutions provide supplementary education. Cram schools and private kindergartens are popular, as is English-language tutoring",
+        "idx_start": 6858,
+        "idx_end": 6995
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Hong Kong\n### History & Structure:\nHong Kong\u2019s education transitioned from religious missionary schooling to a bilingual public system. Compulsory education spans primary to senior secondary, with diverse international and private options.",
+        "text_original": "Hong Kong\u2019s education transitioned from religious missionary schooling to a bilingual public system. Compulsory education spans primary to senior secondary, with diverse international and private options",
+        "idx_start": 7044,
+        "idx_end": 7247
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Hong Kong\n### Curriculum & Language:\nEnglish and Cantonese are primary languages, with an increasing emphasis on Mandarin. School types include government, aided, DSS, caput, private, and international.",
+        "text_original": "English and Cantonese are primary languages, with an increasing emphasis on Mandarin. School types include government, aided, DSS, caput, private, and international",
+        "idx_start": 7279,
+        "idx_end": 7443
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Hong Kong\n### Higher Education:\nHong Kong\u2019s universities are globally respected; admission is competitive. The system offers publicly funded and private institutions with diverse curricula.",
+        "text_original": "Hong Kong\u2019s universities are globally respected; admission is competitive. The system offers publicly funded and private institutions with diverse curricula",
+        "idx_start": 7470,
+        "idx_end": 7626
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Hong Kong\n### Recent Reforms:\nRecent years saw increased integration with mainland China, curriculum changes toward patriotism, and expansion of AI in education.",
+        "text_original": "Recent years saw increased integration with mainland China, curriculum changes toward patriotism, and expansion of AI in education",
+        "idx_start": 7651,
+        "idx_end": 7781
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Nigeria\n### History & Structure:\nNigeria\u2019s system comprises six years of primary, three junior, and three senior secondary years (\u201c6-3-3-4\u201d now largely a \u201c9-3-4\u201d system). Education is free and compulsory at basic stages.",
+        "text_original": "Nigeria\u2019s system comprises six years of primary, three junior, and three senior secondary years (\u201c6-3-3-4\u201d now largely a \u201c9-3-4\u201d system). Education is free and compulsory at basic stages",
+        "idx_start": 7828,
+        "idx_end": 8014
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Nigeria\n### Secondary & Vocational Education:\nFederal, state, and private secondary schools vary in quality. Vocational programs and apprenticeships are common but face challenges from underfunding and outdated curricula.",
+        "text_original": "Federal, state, and private secondary schools vary in quality. Vocational programs and apprenticeships are common but face challenges from underfunding and outdated curricula",
+        "idx_start": 8057,
+        "idx_end": 8231
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Nigeria\n### Higher Education:\nUniversities, polytechnics, and colleges offer tertiary education, with admission based on entrance exams. Recent years saw expansion of private universities.",
+        "text_original": "Universities, polytechnics, and colleges offer tertiary education, with admission based on entrance exams. Recent years saw expansion of private universities",
+        "idx_start": 8258,
+        "idx_end": 8415
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Nigeria\n### Female Education & Literacy:\nGender disparities persist, with large regional gaps in literacy and school attendance, especially in the north. Initiatives are in place to address these gaps.",
+        "text_original": "Gender disparities persist, with large regional gaps in literacy and school attendance, especially in the north. Initiatives are in place to address these gaps",
+        "idx_start": 8453,
+        "idx_end": 8612
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Sweden\n### Structure & Governance:\nCompulsory schooling lasts nine years, with pre-school, three stages of primary, and upper secondary (gymnasium) offering vocational and preparatory tracks. Higher education includes universities and vocational colleges.",
+        "text_original": "Compulsory schooling lasts nine years, with pre-school, three stages of primary, and upper secondary (gymnasium) offering vocational and preparatory tracks. Higher education includes universities and vocational colleges",
+        "idx_start": 8661,
+        "idx_end": 8880
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Sweden\n### Curriculum & Grading:\nNational curricula and centralized assessment feature strongly. Merit-based admission and standard grading systems are applied.",
+        "text_original": "National curricula and centralized assessment feature strongly. Merit-based admission and standard grading systems are applied",
+        "idx_start": 8911,
+        "idx_end": 9037
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Sweden\n### Independent Schools:\nPrivately run independent (friskolor) schools receive public funding, sparking debate over for-profit schooling and religious instruction.",
+        "text_original": "Privately run independent (friskolor) schools receive public funding, sparking debate over for-profit schooling and religious instruction",
+        "idx_start": 9067,
+        "idx_end": 9204
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Sweden\n### Performance Metrics:\nSweden achieves average to above-average results in international assessments, with ongoing reforms seeking to raise standards.",
+        "text_original": "Sweden achieves average to above-average results in international assessments, with ongoing reforms seeking to raise standards",
+        "idx_start": 9234,
+        "idx_end": 9360
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Republic of Ireland\n### Structure & History:\nCompulsory education covers ages 5\u201316 (or until completion of a three-year second-level cycle). Most schools are state-funded; religious patronage is prevalent, although recent reforms promote secular and multidenominational options.",
+        "text_original": "Compulsory education covers ages 5\u201316 (or until completion of a three-year second-level cycle). Most schools are state-funded; religious patronage is prevalent, although recent reforms promote secular and multidenominational options",
+        "idx_start": 9419,
+        "idx_end": 9651
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Republic of Ireland\n### School System:\nPrimary includes eight years; secondary includes Junior, Transition, and Senior cycles, culminating in the Leaving Certificate, which is the basis for university admission.",
+        "text_original": "Primary includes eight years; secondary includes Junior, Transition, and Senior cycles, culminating in the Leaving Certificate, which is the basis for university admission",
+        "idx_start": 9675,
+        "idx_end": 9846
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Republic of Ireland\n### Higher Education:\nIreland\u2019s universities are internationally recognized, with competitive admission. Equity measures address access barriers.",
+        "text_original": "Ireland\u2019s universities are internationally recognized, with competitive admission. Equity measures address access barriers",
+        "idx_start": 9873,
+        "idx_end": 9995
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Republic of Ireland\n### Special Needs & Disadvantage:\nPolicy initiatives (like Deis) focus on inclusion for disadvantaged and special needs students. International students are a significant presence.",
+        "text_original": "Policy initiatives (like Deis) focus on inclusion for disadvantaged and special needs students. International students are a significant presence",
+        "idx_start": 10034,
+        "idx_end": 10179
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Norway\n### History & Structure:\nEducation is overseen by the Norwegian government, with compulsory elementary and lower secondary, followed by optional upper secondary. The Independent Schools Act allows private schools with national or religious curricula.",
+        "text_original": "Education is overseen by the Norwegian government, with compulsory elementary and lower secondary, followed by optional upper secondary. The Independent Schools Act allows private schools with national or religious curricula",
+        "idx_start": 10225,
+        "idx_end": 10449
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Norway\n### Curriculum & Teacher Training:\nPrimary education includes broad subjects without grades; lower secondary introduces grading and language choice. Upper secondary incorporates vocational and academic tracks. Higher education is offered through universities and university colleges, largely state-funded.",
+        "text_original": "Primary education includes broad subjects without grades; lower secondary introduces grading and language choice. Upper secondary incorporates vocational and academic tracks. Higher education is offered through universities and university colleges, largely state-funded",
+        "idx_start": 10489,
+        "idx_end": 10758
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Norway\n### Special Education & Access:\nInclusive education is prioritized; special education is integrated within local schools. Scholarships and grants support students.",
+        "text_original": "Inclusive education is prioritized; special education is integrated within local schools. Scholarships and grants support students",
+        "idx_start": 10795,
+        "idx_end": 10925
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Israel\n### History & Structure:\nIsrael\u2019s system consists of primary (grades 1\u20136), middle (7\u20139), high school (10\u201312) with compulsory education through grade 12. Tracks include state secular, state religious, Haredi (Orthodox), and Arab schools, reflecting societal diversity.",
+        "text_original": "Israel\u2019s system consists of primary (grades 1\u20136), middle (7\u20139), high school (10\u201312) with compulsory education through grade 12. Tracks include state secular, state religious, Haredi (Orthodox), and Arab schools, reflecting societal diversity",
+        "idx_start": 10971,
+        "idx_end": 11212
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Israel\n### Matriculation & Higher Education:\nThe matriculation exam (Bagrut) determines university eligibility. Tertiary education is highly valued and subsidized, with strong international rankings.",
+        "text_original": "The matriculation exam (Bagrut) determines university eligibility. Tertiary education is highly valued and subsidized, with strong international rankings",
+        "idx_start": 11255,
+        "idx_end": 11408
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Israel\n### Arab Sector & Inequality:\nArab and Haredi students face disparities in funding and achievement. Efforts are underway to close gaps, including targeted government initiatives.",
+        "text_original": "Arab and Haredi students face disparities in funding and achievement. Efforts are underway to close gaps, including targeted government initiatives",
+        "idx_start": 11443,
+        "idx_end": 11590
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Israel\n### Challenges & Reforms:\nChallenges include underfunding, teacher status, reliance on rote memorization, and political influence in curricula.",
+        "text_original": "Challenges include underfunding, teacher status, reliance on rote memorization, and political influence in curricula",
+        "idx_start": 11621,
+        "idx_end": 11737
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Armenia\n### History & Structure:\nArmenia maintains high literacy, with compulsory free secondary education structured into primary, middle, and high school segments. Both public and private schools operate under government supervision.",
+        "text_original": "Armenia maintains high literacy, with compulsory free secondary education structured into primary, middle, and high school segments. Both public and private schools operate under government supervision",
+        "idx_start": 11784,
+        "idx_end": 11985
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Armenia\n### Higher Education & International Links:\nArmenia is a member of the Bologna Process, supporting both local and international students at universities and colleges. International cooperation and quality assurance are active areas.",
+        "text_original": "Armenia is a member of the Bologna Process, supporting both local and international students at universities and colleges. International cooperation and quality assurance are active areas",
+        "idx_start": 12034,
+        "idx_end": 12221
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Armenia\n### Challenges:\nIssues include school dropout rates tied to child labor and quality concerns, as well as resource disparity between public and private schooling.",
+        "text_original": "Issues include school dropout rates tied to child labor and quality concerns, as well as resource disparity between public and private schooling",
+        "idx_start": 12242,
+        "idx_end": 12386
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Sri Lanka\n### History & Structure:\nEducation has deep Buddhist roots, later shaped by colonial influences. The state now oversees education through multiple ministries. Compulsory education extends to age 14.",
+        "text_original": "Education has deep Buddhist roots, later shaped by colonial influences. The state now oversees education through multiple ministries. Compulsory education extends to age",
+        "idx_start": 12435,
+        "idx_end": 12604
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Sri Lanka\n### School System:\nPrimary, junior, and senior secondary lead to competitive exams (O/Ls and A/Ls), which determine university access. Private, international, and religious schools provide alternatives.",
+        "text_original": "Primary, junior, and senior secondary lead to competitive exams (O/Ls and A/Ls), which determine university access. Private, international, and religious schools provide alternatives",
+        "idx_start": 12631,
+        "idx_end": 12813
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Sri Lanka\n### Higher & Vocational Education:\nState universities are free but highly selective. Vocational education is regulated and formalized.",
+        "text_original": "State universities are free but highly selective. Vocational education is regulated and formalized",
+        "idx_start": 12853,
+        "idx_end": 12951
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Sri Lanka\n### Challenges:\nCriticisms center on competition, rigidity, and opposition to private universities. Tuition and private tutoring industries are extensive.",
+        "text_original": "Criticisms center on competition, rigidity, and opposition to private universities. Tuition and private tutoring industries are extensive",
+        "idx_start": 12972,
+        "idx_end": 13109
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Indonesia\n### History & Structure:\nIndonesian education progressed from Islamic and colonial systems to a universal, twelve-year compulsory program. Pre-school is informal; primary, middle, and high school include both secular and religious tracks.",
+        "text_original": "Indonesian education progressed from Islamic and colonial systems to a universal, twelve-year compulsory program. Pre-school is informal; primary, middle, and high school include both secular and religious tracks",
+        "idx_start": 13158,
+        "idx_end": 13370
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Indonesia\n### Curriculum & Schools:\nSecular public schools dominate, with Islamic pesantren and madrasah as alternatives. The curriculum is standardized nationally but accommodates regional variations.",
+        "text_original": "Secular public schools dominate, with Islamic pesantren and madrasah as alternatives. The curriculum is standardized nationally but accommodates regional variations",
+        "idx_start": 13401,
+        "idx_end": 13565
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Indonesia\n### Higher Education:\nHigher education includes universities, polytechnics, academies, and vocational colleges. The national qualification framework aligns with international standards.",
+        "text_original": "Higher education includes universities, polytechnics, academies, and vocational colleges. The national qualification framework aligns with international standards",
+        "idx_start": 13592,
+        "idx_end": 13754
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Indonesia\n### Challenges:\nQuality disparities exist regionally; teacher training and resources remain issues, particularly in remote areas.",
+        "text_original": "Quality disparities exist regionally; teacher training and resources remain issues, particularly in remote areas",
+        "idx_start": 13775,
+        "idx_end": 13887
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Egypt\n### History & Development:\nEgypt\u2019s educational tradition dates to antiquity, with later Islamic and colonial influences. Muhammad Ali\u2019s reforms modernized the system but later British rule restricted access to education.",
+        "text_original": "Egypt\u2019s educational tradition dates to antiquity, with later Islamic and colonial influences. Muhammad Ali\u2019s reforms modernized the system but later British rule restricted access to education",
+        "idx_start": 13934,
+        "idx_end": 14126
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Egypt\n### Structure:\nBasic education (primary and preparatory) is compulsory; secondary tracks are general and technical. Higher education is dominated by public universities, with private and international schools growing.",
+        "text_original": "Basic education (primary and preparatory) is compulsory; secondary tracks are general and technical. Higher education is dominated by public universities, with private and international schools growing",
+        "idx_start": 14146,
+        "idx_end": 14347
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Global Overview\n## Egypt\n### Challenges:\nIssues include low quality, widespread reliance on private tutoring, teacher shortages and poor remuneration, regional and wealth disparities, and high youth unemployment. Reform efforts seek to address quality, equity, and relevance, with mixed progression.",
+        "text_original": "Issues include low quality, widespread reliance on private tutoring, teacher shortages and poor remuneration, regional and wealth disparities, and high youth unemployment.  \nReform efforts seek to address quality, equity, and relevance, with mixed progression",
+        "idx_start": 14368,
+        "idx_end": 14627
+    }
+]

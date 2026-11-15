@@ -1,0 +1,7 @@
+# Global Education System Comparative Overview
+
+## International System Comparisons
+Different global education systems face distinct challenges regarding equity and structure. China employs a highly centralized system, mandated by the CCP, that emphasizes competitive, high-stakes exams like the *gaokao*, while struggling with regional inequality and rote learning. In contrast, Germany uses a decentralized system managed by its 16 states, offering diverse pathways through both academic *Gymnasien* and vocational training (*Duale Ausbildung*), yet it contends with socio-economic segregation. India is undergoing reform under NEP 2020 to address foundational literacy deficits and disparities between public and private schools, while balancing efforts to integrate vocational training against a strong private coaching culture.
+
+## Greek Education System
+The Greek system is structured to align with the Hellenic Qualification Framework (HQF) and the European Qualifications Framework (EQF). Formal progression moves from Primary to Upper Secondary (Lyceum), which mandates English. Higher education requires the Lyceum Certificate and passing national Pan-Hellenic Examinations, with levels ranging up to Doctoral. The system supports specialized and vocational tracks, offered through institutions such as Vocational Training Schools (ESK), and is currently facing concerns related to corruption and student abuse.

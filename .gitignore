@@ -1,0 +1,16 @@
+.venv/
+.idea/
+auxil
+documentation/auxil
+out
+documentation/out
+.env
+__pycache__
+
+local/
+archive/
+cache/
+results/evaluation
+results/manual_evaluation
+
+*.bkp

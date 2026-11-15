@@ -1,0 +1,254 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Australia\n### Structure and Administration:\nEducation in Australia is managed primarily by state and territory governments, with the federal government supporting funding and national policy. Schooling is compulsory, generally between ages 6 and 17, beginning with preschool (not mandatory), followed by primary and secondary education. About two-thirds of students attend government schools; the rest attend Catholic or independent schools.",
+        "text_original": "Education in Australia is managed primarily by state and territory governments, with the federal government supporting funding and national policy. Schooling is compulsory, generally between ages 6 and 17, beginning with preschool (not mandatory), followed by primary and secondary education. About two-thirds of students attend government schools; the rest attend Catholic or independent schools",
+        "idx_start": 92,
+        "idx_end": 488
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Australia\n### Curriculum and Stages:\nA national curriculum applies to primary and secondary schools, focusing on core subjects. The Australian Qualifications Framework, established in 1995, links secondary, vocational, and tertiary education. Assessment instruments include NAPLAN and international studies (PISA, TIMSS).",
+        "text_original": "A national curriculum applies to primary and secondary schools, focusing on core subjects. The Australian Qualifications Framework, established in 1995, links secondary, vocational, and tertiary education. Assessment instruments include NAPLAN and international studies (PISA, TIMSS",
+        "idx_start": 520,
+        "idx_end": 802
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Australia\n### Performance:\nInternational rankings show declining standards, with recent PISA results placing Australia mid-range in reading, maths, and science. However, Australia ranks highly on the Education Index and remains a major destination for tertiary-level international students.",
+        "text_original": "International rankings show declining standards, with recent PISA results placing Australia mid-range in reading, maths, and science. However, Australia ranks highly on the Education Index and remains a major destination for tertiary-level international students",
+        "idx_start": 825,
+        "idx_end": 1087
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Australia\n### Key Issues:\nFunding, especially disparities between public and private sectors; Indigenous education gaps; debates over bilingual and religious education; school violence; and variable teacher standards.",
+        "text_original": "Funding, especially disparities between public and private sectors; Indigenous education gaps; debates over bilingual and religious education; school violence; and variable teacher standards",
+        "idx_start": 1108,
+        "idx_end": 1298
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Portugal\n### Historical Development:\nPortuguese education evolved from religious dominance to universal literacy, especially by mid-20th century under Estado Novo. Illiteracy dropped sharply after major educational reforms and expansion of elementary schools.",
+        "text_original": "Portuguese education evolved from religious dominance to universal literacy, especially by mid-20th century under Estado Novo. Illiteracy dropped sharply after major educational reforms and expansion of elementary schools",
+        "idx_start": 1349,
+        "idx_end": 1570
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Portugal\n### System Structure:\nBasic education lasts for nine years, divided into three sequential cycles, starting at age six. Secondary education follows (compulsory since 2012/13), branching into general, professional, and artistic programs. Higher education is divided into university (research-focused) and polytechnic (profession-oriented) segments.",
+        "text_original": "Basic education lasts for nine years, divided into three sequential cycles, starting at age six. Secondary education follows (compulsory since 2012/13), branching into general, professional, and artistic programs. Higher education is divided into university (research-focused) and polytechnic (profession-oriented) segments",
+        "idx_start": 1597,
+        "idx_end": 1920
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Portugal\n### Access and Progression:\nAdmission to secondary and higher education involves national exams. The Bologna process guides degree structures. Rankings and outcomes lag behind most EU nations, but have improved since 2010.",
+        "text_original": "Admission to secondary and higher education involves national exams. The Bologna process guides degree structures. Rankings and outcomes lag behind most EU nations, but have improved since",
+        "idx_start": 1953,
+        "idx_end": 2141
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Portugal\n### Key Issues:\nFunctional illiteracy remains high among adults; school violence exists across sectors. Private schools vary in quality and accessibility. Higher education is criticized for diploma inflation and underfunding, while criticism targets both private and polytechnic standards.",
+        "text_original": "Functional illiteracy remains high among adults; school violence exists across sectors. Private schools vary in quality and accessibility. Higher education is criticized for diploma inflation and underfunding, while criticism targets both private and polytechnic standards",
+        "idx_start": 2167,
+        "idx_end": 2439
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Romania\n### System Overview:\nCompulsory education covers fifteen years, including advanced kindergarten, primary, gymnasium, and high school (with vocational alternatives). Most schools are public. Education is free, but underfunded, with significant rural-urban disparities.",
+        "text_original": "Compulsory education covers fifteen years, including advanced kindergarten, primary, gymnasium, and high school (with vocational alternatives). Most schools are public. Education is free, but underfunded, with significant rural-urban disparities",
+        "idx_start": 2482,
+        "idx_end": 2727
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Romania\n### Curriculum and Assessment:\nAfter elementary and gymnasium, students take national tests to enter high schools, which offer various academic and vocational tracks. Graduation requires passing the Baccalaureate exam. Higher education follows the Bologna model: bachelor\u2019s, master\u2019s, Ph.D.",
+        "text_original": "After elementary and gymnasium, students take national tests to enter high schools, which offer various academic and vocational tracks. Graduation requires passing the Baccalaureate exam. Higher education follows the Bologna model: bachelor\u2019s, master\u2019s, Ph.D",
+        "idx_start": 2763,
+        "idx_end": 3021
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Romania\n### Issues:\nRural children face severe barriers to access. Religion in schools is controversial. Literacy is nearly universal, but dropout rates are high in rural areas. Funding is insufficient, with illegal family contributions common. Emigration for study is significant.",
+        "text_original": "Rural children face severe barriers to access. Religion in schools is controversial. Literacy is nearly universal, but dropout rates are high in rural areas. Funding is insufficient, with illegal family contributions common. Emigration for study is significant",
+        "idx_start": 3038,
+        "idx_end": 3298
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## South Africa\n### Structure and Funding:\nBasic education includes Grade R (kindergarten) to Grade 12; policy is managed by separate departments for basic and higher education. Schools are funded by government grants and supplemented by fees, leading to stark disparities between affluent and poor schools. School fees are regulated to ensure access for poor families.",
+        "text_original": "Basic education includes Grade R (kindergarten) to Grade 12; policy is managed by separate departments for basic and higher education. Schools are funded by government grants and supplemented by fees, leading to stark disparities between affluent and poor schools. School fees are regulated to ensure access for poor families",
+        "idx_start": 3352,
+        "idx_end": 3677
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## South Africa\n### History:\nEducation mirrors South Africa\u2019s racial divides; apartheid-era policies entrenched inequality. Post-1994 reforms aimed at standardization and equity, but legacy challenges persist.",
+        "text_original": "Education mirrors South Africa\u2019s racial divides; apartheid-era policies entrenched inequality. Post-1994 reforms aimed at standardization and equity, but legacy challenges persist",
+        "idx_start": 3695,
+        "idx_end": 3874
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## South Africa\n### ICT and Technology:\nAdoption of ICT in schools faces infrastructure barriers, uneven access, and teacher skill gaps. COVID-19 accelerated digital adoption but deepened inequality.",
+        "text_original": "Adoption of ICT in schools faces infrastructure barriers, uneven access, and teacher skill gaps. COVID-19 accelerated digital adoption but deepened inequality",
+        "idx_start": 3903,
+        "idx_end": 4061
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## South Africa\n### Performance and Violence:\nOutcomes are poor compared to international benchmarks; challenges are compounded by high dropout rates, school violence, and union influence.",
+        "text_original": "Outcomes are poor compared to international benchmarks; challenges are compounded by high dropout rates, school violence, and union influence",
+        "idx_start": 4096,
+        "idx_end": 4237
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Malaysia\n### Historical Context:\nEducation evolved from indigenous and religious schools to a structured system influenced by British colonial policy. The Razak Report led to a multi-stream national system with Malay, Chinese, and Tamil-medium schools.",
+        "text_original": "Education evolved from indigenous and religious schools to a structured system influenced by British colonial policy. The Razak Report led to a multi-stream national system with Malay, Chinese, and Tamil-medium schools",
+        "idx_start": 4284,
+        "idx_end": 4502
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Malaysia\n### Current Structure:\nPrimary education is compulsory; secondary education is planned to be compulsory from 2024. National, national-type (vernacular), missionary, Chinese independent, international, and Islamic schools coexist.",
+        "text_original": "Primary education is compulsory; secondary education is planned to be compulsory from 2024. National, national-type (vernacular), missionary, Chinese independent, international, and Islamic schools coexist",
+        "idx_start": 4530,
+        "idx_end": 4735
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Malaysia\n### Curricular Reforms:\nContinuous reforms address language of instruction (Malay vs. English), quality, national unity, and educational polarization. The Dual Language Program (DLP) offers Science and Maths instruction in English.",
+        "text_original": "Continuous reforms address language of instruction (Malay vs. English), quality, national unity, and educational polarization. The Dual Language Program (DLP) offers Science and Maths instruction in English",
+        "idx_start": 4764,
+        "idx_end": 4970
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Malaysia\n### Tertiary and Vocational:\nHigher education is highly subsidized, with entry via STPM or matriculation (matriculation quotas remain contentious). Vocational, polytechnic, and international \"twinning\" programs are widespread.",
+        "text_original": "Higher education is highly subsidized, with entry via STPM or matriculation (matriculation quotas remain contentious). Vocational, polytechnic, and international \"twinning\" programs are widespread",
+        "idx_start": 5004,
+        "idx_end": 5200
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Malaysia\n### Key Issues:\nLanguage, racial quotas, funding imbalances, and educational access persist as challenges.",
+        "text_original": "Language, racial quotas, funding imbalances, and educational access persist as challenges",
+        "idx_start": 5221,
+        "idx_end": 5310
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Finland\n### General Structure:\nEducation is highly equitable and publicly funded. Compulsory education covers nine years of comprehensive school, now extending to age 18, bifurcating into academic or vocational upper secondary education. Early childhood education is play-centered and universal.",
+        "text_original": "Education is highly equitable and publicly funded. Compulsory education covers nine years of comprehensive school, now extending to age 18, bifurcating into academic or vocational upper secondary education. Early childhood education is play-centered and universal",
+        "idx_start": 5355,
+        "idx_end": 5618
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Finland\n### Teaching and Curriculum:\nTeachers must have master's degrees; curriculum emphasizes creativity, literacy, and critical thinking. Phenomenon-based learning aligns with 21st-century skills.",
+        "text_original": "Teachers must have master's degrees; curriculum emphasizes creativity, literacy, and critical thinking. Phenomenon-based learning aligns with 21st-century skills",
+        "idx_start": 5652,
+        "idx_end": 5813
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Finland\n### Performance:\nFinland consistently ranks among the highest globally in literacy, numeracy, and educational quality.",
+        "text_original": "Finland consistently ranks among the highest globally in literacy, numeracy, and educational quality",
+        "idx_start": 5835,
+        "idx_end": 5935
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Finland\n### Higher Education:\nDivided into traditional universities and universities of applied sciences, governed by transparent and objective admissions, and tuition remains free for EU/EEA students.",
+        "text_original": "Divided into traditional universities and universities of applied sciences, governed by transparent and objective admissions, and tuition remains free for EU/EEA students",
+        "idx_start": 5962,
+        "idx_end": 6132
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Finland\n### Challenges:\nRecent debates focus on restructuring higher education and balancing academic and vocational qualifications.",
+        "text_original": "Recent debates focus on restructuring higher education and balancing academic and vocational qualifications",
+        "idx_start": 6153,
+        "idx_end": 6260
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Philippines\n### Historical Context:\nEducation transitioned from indigenous, Spanish, and American models to a centralized system. Significant reforms in recent decades led to the implementation of compulsory K\u201312 education.",
+        "text_original": "Education transitioned from indigenous, Spanish, and American models to a centralized system. Significant reforms in recent decades led to the implementation of compulsory K\u201312 education",
+        "idx_start": 6310,
+        "idx_end": 6496
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Philippines\n### Current Structure:\nK\u201312 includes kindergarten, six years of elementary, four years of junior high, and two years of senior high school, with specialized tracks for academic, vocational, sports, and arts. Tertiary education expansion includes public and private institutions.",
+        "text_original": "K\u201312 includes kindergarten, six years of elementary, four years of junior high, and two years of senior high school, with specialized tracks for academic, vocational, sports, and arts. Tertiary education expansion includes public and private institutions",
+        "idx_start": 6524,
+        "idx_end": 6778
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Philippines\n### Assessment and Disparities:\nNational achievement rates remain low, with large gaps across regions, urban/rural divides, and socioeconomic groups. Out-of-school rates are significant among poorer populations.",
+        "text_original": "National achievement rates remain low, with large gaps across regions, urban/rural divides, and socioeconomic groups. Out-of-school rates are significant among poorer populations",
+        "idx_start": 6815,
+        "idx_end": 6993
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## Philippines\n### Key Issues:\nChronic underinvestment, teacher shortages, learning poverty, mismatches with labor market, and pandemic disruption contribute to poor outcomes. Free tuition at state universities aims to improve access, but affordability challenges persist.",
+        "text_original": "Chronic underinvestment, teacher shortages, learning poverty, mismatches with labor market, and pandemic disruption contribute to poor outcomes. Free tuition at state universities aims to improve access, but affordability challenges persist",
+        "idx_start": 7014,
+        "idx_end": 7254
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## United States\n### System Overview:\nEducation is decentralized, managed primarily at state and local levels, with federal oversight mainly through funding incentives. Schooling is divided into early childhood, K\u201312 (elementary, middle, high school), and postsecondary education (vocational schools, colleges, and universities).",
+        "text_original": "Education is decentralized, managed primarily at state and local levels, with federal oversight mainly through funding incentives. Schooling is divided into early childhood, K\u201312 (elementary, middle, high school), and postsecondary education (vocational schools, colleges, and universities",
+        "idx_start": 7303,
+        "idx_end": 7592
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## United States\n### History:\nPublic education became universal and compulsory by early 20th century. Civil rights decisions and federal laws have shaped access, equity, and standards.",
+        "text_original": "Public education became universal and compulsory by early 20th century. Civil rights decisions and federal laws have shaped access, equity, and standards",
+        "idx_start": 7611,
+        "idx_end": 7764
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## United States\n### Curriculum and Assessment:\nPolicies emphasize standardized testing, but quality and curriculum vary by district. Issues with grade inflation, credential inflation, and debates over content (sex education, language, textbooks) persist.",
+        "text_original": "Policies emphasize standardized testing, but quality and curriculum vary by district. Issues with grade inflation, credential inflation, and debates over content (sex education, language, textbooks) persist",
+        "idx_start": 7800,
+        "idx_end": 8006
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## United States\n### Performance and Attainment:\nThe U.S. maintains high literacy and graduation rates but lags in STEM achievement internationally. Socioeconomic, racial, and geographic disparities remain significant.",
+        "text_original": "The U.S. maintains high literacy and graduation rates but lags in STEM achievement internationally. Socioeconomic, racial, and geographic disparities remain significant",
+        "idx_start": 8043,
+        "idx_end": 8211
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## United States\n### Funding:\nPublic schools rely on local taxes, leading to inequalities. Higher education costs are rising, driving student debt and credential inflation.",
+        "text_original": "Public schools rely on local taxes, leading to inequalities. Higher education costs are rising, driving student debt and credential inflation",
+        "idx_start": 8229,
+        "idx_end": 8370
+    },
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Summary\n## United States\n### Key Issues:\nTeacher shortages and low pay, achievement gaps along racial and income lines, standardized testing debates, school safety concerns, and the impact of COVID-19 on learning contribute to ongoing challenges. Affirmative action in admissions was struck down in 2023, intensifying debates on equity.",
+        "text_original": "Teacher shortages and low pay, achievement gaps along racial and income lines, standardized testing debates, school safety concerns, and the impact of COVID-19 on learning contribute to ongoing challenges. Affirmative action in admissions was struck down in 2023, intensifying debates on equity",
+        "idx_start": 8391,
+        "idx_end": 8685
+    },
+    {
+        "document_idx": null,
+        "text": "# Cross-Cutting Themes\n- **Access and Equity:** All countries face challenges regarding the inclusion of disadvantaged populations, whether defined by race, income, region, or ethnicity.\n- **Funding and Resource Allocation:** Inequity in funding sources and resource distribution is a common challenge, especially where local taxes fund schools.\n- **Quality and Outcomes:** International assessments (e.g., PISA, TIMSS) reveal performance gaps and systemic weaknesses.\n- **Curricular Reform and Teacher Quality:** Teacher preparation, curriculum standardization, and adaptation to changing skill demands are persistent themes.\n- **Socioeconomic and Regional Disparities:** Urban/rural divides and economic inequalities underpin educational outcomes.\n- **Pandemic Disruption:** COVID-19 has deepened existing gaps and accelerated technology integration, often unevenly across and within countries.",
+        "text_original": "Access and Equity:** All countries face challenges regarding the inclusion of disadvantaged populations, whether defined by race, income, region, or ethnicity.\n- **Funding and Resource Allocation:** Inequity in funding sources and resource distribution is a common challenge, especially where local taxes fund schools.\n- **Quality and Outcomes:** International assessments (e.g., PISA, TIMSS) reveal performance gaps and systemic weaknesses.\n- **Curricular Reform and Teacher Quality:** Teacher preparation, curriculum standardization, and adaptation to changing skill demands are persistent themes.\n- **Socioeconomic and Regional Disparities:** Urban/rural divides and economic inequalities underpin educational outcomes.\n- **Pandemic Disruption:** COVID-19 has deepened existing gaps and accelerated technology integration, often unevenly across and within countries",
+        "idx_start": 8721,
+        "idx_end": 9589
+    }
+]

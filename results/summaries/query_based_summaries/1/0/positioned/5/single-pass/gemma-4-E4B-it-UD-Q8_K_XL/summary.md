@@ -1,0 +1,5 @@
+## Ra.One Summary
+
+"Ra.One" is a sci-fi action film set in London where Jenny Nair, an employee of Barron Industries, introduces technology allowing digital elements to enter the real world. Shekhar Subramaniam, a programmer, designs a video game featuring the protagonist, G.One, and the antagonist, Ra.One, who is faceless and possesses superior powers, including shapeshifting and mind reading, imbued with a self-learning AI.
+
+The plot escalates when the self-aware Ra.One breaks free from the game via this new technology and enters the real world. After Ra.One murders Shekhar and chases Prateek, G.One enters the real world through Jenny's computer. G.One fights Ra.One, causing a gas explosion that temporarily disables him. Ultimately, G.One defeats Ra.One by realizing only one of the ten copies has a shadow, and after absorbing Ra.One's remains, G.One returns to the digital world, with Prateek later restoring G.One to the real world.

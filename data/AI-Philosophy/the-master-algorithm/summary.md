@@ -1,0 +1,1 @@
+The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World is a book by Pedro Domingos released in 2015. Domingos wrote the book in order to generate interest from people outside the field.

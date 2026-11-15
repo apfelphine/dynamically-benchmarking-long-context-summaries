@@ -1,0 +1,5 @@
+**Education in the United States**
+
+Formal education in the U.S. is divided into distinct stages, with most children entering the public education system around ages five or six. Mandatory education lasts until age 16 (or 18 in some states). The system generally comprises elementary school, intermediate school, middle/junior high school, and high school. Higher education is optional following secondary education, available at various colleges and universities, which are generally deregulated, offering diverse programs.
+
+Various aspects of U.S. education are characterized by significant disparities, including racial achievement gaps between Black and Hispanic students and Asian and Caucasian students. Economically, higher education is highly valued, but the average college graduate debt in 2010 was $23,200. Governance is shared between federal and state governments, with states holding most control. Funding for K–12 schools comes primarily from local and state sources. Furthermore, standardized testing is used to measure performance, though critics argue that test scores can reflect broader systemic inequities like socioeconomic background.

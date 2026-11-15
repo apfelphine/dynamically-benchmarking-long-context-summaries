@@ -1,0 +1,25 @@
+{
+  "id": 16003,
+  "title": "Joseph Weizenbaum",
+  "url": "https://en.wikipedia.org/wiki/Joseph_Weizenbaum",
+  "path": "Comp-Sci-Pioneers\\joseph-weizenbaum",
+  "summary": {
+    "chars": 225,
+    "tokens": 52
+  },
+  "document": {
+    "chars": 7563,
+    "tokens": 1670
+  },
+  "infobox": {
+    "title": "Joseph Weizenbaum",
+    "data": {
+      "Born": "8 January 1923 \u00b7 Berlin, Germany",
+      "Died": "5 March 2008 (aged 85) \u00b7 Ludwigsfelde-Gr\u00f6ben, Germany",
+      "Citizenship": "German, American",
+      "Alma mater": "Wayne State University",
+      "Known for": "ELIZA \u00b7 Computer ethics",
+      "Institutions": "MIT \u00b7 Harvard University"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Education in Algeria is free and compulsory for Algerians from the ages of 6 to 15. However, only half of Algerian students are enrolled in secondary schools. As of 2015, Algeria has 92 post-secondary institutions, which includes 48 universities.

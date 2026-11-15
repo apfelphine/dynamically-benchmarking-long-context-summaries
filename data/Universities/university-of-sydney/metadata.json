@@ -1,0 +1,44 @@
+{
+  "id": 31928,
+  "title": "University of Sydney",
+  "url": "https://en.wikipedia.org/wiki/University_of_Sydney",
+  "path": "Universities\\university-of-sydney",
+  "summary": {
+    "chars": 1064,
+    "tokens": 210
+  },
+  "document": {
+    "chars": 39434,
+    "tokens": 7956
+  },
+  "infobox": {
+    "title": "The University of Sydney",
+    "data": {
+      "Motto": "Latin: Sidere mens eadem mutato",
+      "Motto in English": "\"The stars change, the mind remains the same\"",
+      "Type": "Public research university",
+      "Established": "1 October 1850",
+      "Accreditation": "TEQSA",
+      "Affiliation": "Group of Eight (Go8)",
+      "Academic affiliations": "APRU U21 UA",
+      "Endowment": "A$4.92 billion (2024)",
+      "Budget": "A$3.07 billion (2023)",
+      "Visitor": "Governor of New South Wales (ex officio)",
+      "Chancellor": "David Thodey",
+      "Vice-Chancellor": "Mark Scott",
+      "Academic staff": "3,980 (2024)",
+      "Administrative staff": "5,961 (2024)",
+      "Total staff": "9,941 (2024)",
+      "Students": "70,298 (2024)",
+      "Undergraduates": "40,388 (2024)",
+      "Postgraduates": "29,910 (2024)",
+      "Doctoral students": "3,510 (2024)",
+      "Location": "Sydney, New South Wales, Australia \u00b7 33\u00b053\u203215\u2033S 151\u00b011\u203224\u2033E\ufeff / \ufeff33.88750\u00b0S 151.19000\u00b0E",
+      "Campus": "Urban, regional and parkland",
+      "Colours": "Ochre Charcoal",
+      "Sporting affiliations": "UniSport EAEN UBL",
+      "Mascot": "Simba the Lion",
+      "Website": "sydney.edu.au"
+    }
+  }
+}

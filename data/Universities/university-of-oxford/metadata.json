@@ -1,0 +1,39 @@
+{
+  "id": 31797,
+  "title": "University of Oxford",
+  "url": "https://en.wikipedia.org/wiki/University_of_Oxford",
+  "path": "Universities\\university-of-oxford",
+  "summary": {
+    "chars": 2526,
+    "tokens": 485
+  },
+  "document": {
+    "chars": 52464,
+    "tokens": 10813
+  },
+  "infobox": {
+    "title": "University of Oxford",
+    "data": {
+      "Other name": "The Chancellor, Masters and Scholars of the University of Oxford",
+      "Motto": "Dominus illuminatio mea (Latin)",
+      "Motto in English": "The Lord is my light",
+      "Type": "Collegiate research university \u00b7 Ancient university",
+      "Established": "c. 1096",
+      "Endowment": "\u00a38.708 billion (2024; including colleges)",
+      "Budget": "\u00a33.055 billion (2023/24)",
+      "Chancellor": "The Lord Hague of Richmond",
+      "Vice-Chancellor": "Irene Tracey",
+      "Academic staff": "7,220 (2023/24)",
+      "Administrative staff": "8,295 (2023/24)",
+      "Students": "27,160 (2023/24) \u00b7 22,150 FTE (2023/24)",
+      "Undergraduates": "15,040 (2023/24)",
+      "Postgraduates": "12,120 (2023/24)",
+      "Other students": "430 (2023)",
+      "Location": "Oxford, England \u00b7 51\u00b045\u203218\u2033N 01\u00b015\u203218\u2033W\ufeff / \ufeff51.75500\u00b0N 1.25500\u00b0W",
+      "Campus": "University town",
+      "Colours": "Oxford Blue",
+      "Affiliations": "ACU EUA Europaeum IARU LERU Russell Group SES Universities UK",
+      "Website": "ox.ac.uk"
+    }
+  }
+}

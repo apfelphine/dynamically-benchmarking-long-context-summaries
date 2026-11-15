@@ -1,0 +1,13 @@
+**Education in Nigeria**  
+
+- **Primary Education**: Begins at age 5, lasting 6 years. Core subjects include Mathematics, English, Christian/Religious Knowledge, Agricultural Science, Home Economics, and one of the three major indigenous languages (Hausa-Fulani, Yoruba, Igbo). Students take a Common Entrance Examination to gain admission to secondary schools.  
+- **Secondary Education**: Follows a 6-3-3-4 system (6 years primary, 3 years Junior Secondary, 3 years Senior Secondary). Core subjects include English, Mathematics, Economics, Civic Education, and one or more electives. Students take the Senior Secondary Certificate Examination (SSCE) at the end of Senior Secondary.  
+- **Tertiary Education**: Government controls most universities. There are 153 universities (40 federal, 45 state, 68 private), offering degrees from 3 to 6 years. Engineering, law, and medicine take 5–6 years.  
+- **Vocational Education**: Administered by the National Board for Technical Education. Students can pursue a National Technical Certificate or Advanced National Technical Certificate.  
+- **Female Education**: Women's participation has increased, though gender-based stereotyping and teen pregnancy remain barriers. The UNICEF Girls' Education Project supports female enrollment.  
+- **Literacy**: Literacy rate is 69% (2024), with regional disparities. The government is investing in adult and digital literacy programs.  
+- **Challenges**: Teacher shortages, poor infrastructure in rural areas, and underfunded schools. Private schools are expensive, with fees rising sharply.  
+- **International Education**: 129 international schools offer curricula in English or other foreign languages.  
+- **Admissions**: Students must pass the Joint Admissions and Matriculation Board (JAMB) exam for university entry. The Interim Joint Matriculation Board (IJMB) and Joint Universities Preliminary Examinations Board (JUPEB) offer alternative pathways.  
+
+The system emphasizes national integration, with a focus on expanding access and improving quality, especially in rural and underserved areas.

@@ -1,0 +1,9 @@
+## Studienstiftung des deutschen Volkes: Summary
+
+Studienstiftung des deutschen Volkes is Germany’s oldest and largest scholarship foundation, supporting exceptionally talented undergraduate, graduate, and doctoral students. Founded in 1925, it was re-established in 1948 after a period of dissolution under National Socialism. Admission is based on “excellence, initiative and responsibility,” and applicants are selected via nomination by schools, professors, competition results, or a standardized assessment test. Eligibility does not require German citizenship or a specific age, but candidates must study full-time at a university in Germany, another EU country, or Switzerland. 
+
+Studienstiftung offers both financial and academic support, including monthly allowances, need-based scholarships, and subsidies for health insurance, with additional funds for scholars with children. PhD scholars receive a higher monthly award and research allowance. Academic support encompasses summer academies, research groups, workshops, mentoring, and opportunities for organizing conferences and other events. The foundation also runs specialized internal and open scholarship programs, frequently in cooperation with partner organizations, and manages the Max Weber scholarship for Bavarian students.
+
+### Statistics and Impact
+
+Studienstiftung approves thousands of scholarships annually; in 2023, it supported 2,179 students and 301 doctoral candidates, with about 0.48% of German university students receiving its support. Scholars can be found at universities nationwide, with notable representation at institutions like Heidelberg University (2.25% of students). The majority receive a €300 monthly allowance; a smaller proportion receive additional need-based support. The foundation boasts a distinguished alumni network across science, academia, business, politics, the arts, and journalism, including Nobel and Fields Medal laureates.

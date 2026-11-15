@@ -1,0 +1,29 @@
+{
+  "id": 342446,
+  "title": "Howard H. Aiken",
+  "url": "https://en.wikipedia.org/wiki/Howard_H._Aiken",
+  "path": "Comp-Sci-Pioneers\\howard-h-aiken",
+  "summary": {
+    "chars": 225,
+    "tokens": 54
+  },
+  "document": {
+    "chars": 3445,
+    "tokens": 722
+  },
+  "infobox": {
+    "title": "Howard Hathaway Aiken",
+    "data": {
+      "Born": "March 8, 1900 \u00b7 Hoboken, New Jersey",
+      "Died": "March 14, 1973 (aged 73) \u00b7 St. Louis, Missouri",
+      "Alma mater": "University of Wisconsin\u2013Madison \u00b7 Harvard University (doctorate)",
+      "Known for": "Automatic Sequence Controlled Calculators Harvard Mark I \u2013 IV",
+      "Spouses": "- Louise Mancill \u200b(m. 1939\u2060\u2013\u20601942)\u200b - Agnes Montgomery \u200b (m. 1943\u2060\u2013\u20601961)\u200b - Mary McFarland \u200b(m. 1963)\u200b",
+      "Awards": "Harry H. Goode Memorial Award (1964) \u00b7 Edison Medal (1970)",
+      "Fields": "Applied mathematics, computer science",
+      "Institutions": "Harvard University, University of Miami",
+      "Doctoral advisor": "Emory Leon Chaffee",
+      "Doctoral students": "Gerrit Blaauw \u00b7 Fred Brooks \u00b7 Martin Greenberger \u00b7 Kenneth E. Iverson \u00b7 Anthony Oettinger \u00b7 Gerard Salton"
+    }
+  }
+}

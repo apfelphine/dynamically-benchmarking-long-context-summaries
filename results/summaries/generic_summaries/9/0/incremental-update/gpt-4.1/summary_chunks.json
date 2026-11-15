@@ -1,0 +1,100 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary\nEducation systems in Pakistan, Russia, Poland, South Korea, the Czech Republic, the Netherlands, Canada, Japan, Bangladesh, Mexico, Saudi Arabia, and New Zealand reflect diverse historical, societal, and policy contexts, sharing themes of reform targeting access, equity, curriculum relevance, specialization, and modernization.",
+        "text_original": "Education systems in Pakistan, Russia, Poland, South Korea, the Czech Republic, the Netherlands, Canada, Japan, Bangladesh, Mexico, Saudi Arabia, and New Zealand reflect diverse historical, societal, and policy contexts, sharing themes of reform targeting access, equity, curriculum relevance, specialization, and modernization",
+        "idx_start": 12,
+        "idx_end": 339
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Pakistan\nPakistan\u2019s multi-sector education faces underfunding, infrastructure deficits, and regional and gender disparities, with reforms addressing migration and international standards.",
+        "text_original": "Pakistan\u2019s multi-sector education faces underfunding, infrastructure deficits, and regional and gender disparities, with reforms addressing migration and international standards",
+        "idx_start": 355,
+        "idx_end": 532
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Russia\nRussia provides compulsory education, inclusive and standardized curricula for minorities and those with disabilities, and a state-regulated higher education sector, excelling in literacy and minority inclusion.",
+        "text_original": "Russia provides compulsory education, inclusive and standardized curricula for minorities and those with disabilities, and a state-regulated higher education sector, excelling in literacy and minority inclusion",
+        "idx_start": 546,
+        "idx_end": 756
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Poland\nPoland features near-universal literacy, late student tracking, strong foreign language education, and European-aligned curricula, with a focus on inclusivity.",
+        "text_original": "Poland features near-universal literacy, late student tracking, strong foreign language education, and European-aligned curricula, with a focus on inclusivity",
+        "idx_start": 770,
+        "idx_end": 928
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## South Korea\nSouth Korea\u2019s competitive, exam-driven system relies heavily on private tutoring, causing student stress; recent reforms target student well-being and a broader range of vocational options.",
+        "text_original": "South Korea\u2019s competitive, exam-driven system relies heavily on private tutoring, causing student stress; recent reforms target student well-being and a broader range of vocational options",
+        "idx_start": 947,
+        "idx_end": 1135
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Czech Republic\nCzech education divides elementary schooling and streams students into vocational, grammar, or practical tracks, offering free post-secondary education upon passing the maturita.",
+        "text_original": "Czech education divides elementary schooling and streams students into vocational, grammar, or practical tracks, offering free post-secondary education upon passing the maturita",
+        "idx_start": 1157,
+        "idx_end": 1334
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Netherlands\nDutch education mandates attendance to age 18 or diploma, equally funds diverse schools, streams students at age 12 (affecting mobility), and offers HBO/WO higher education paths, emphasizing ongoing internationalization and reform.",
+        "text_original": "Dutch education mandates attendance to age 18 or diploma, equally funds diverse schools, streams students at age 12 (affecting mobility), and offers HBO/WO higher education paths, emphasizing ongoing internationalization and reform",
+        "idx_start": 1353,
+        "idx_end": 1584
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Canada\nCanada\u2019s provincially-administered systems emphasize achievement, bilingualism, equity, high tertiary attainment, alternative pathways, rising costs, and ongoing debates over funding and student access.",
+        "text_original": "Canada\u2019s provincially-administered systems emphasize achievement, bilingualism, equity, high tertiary attainment, alternative pathways, rising costs, and ongoing debates over funding and student access",
+        "idx_start": 1598,
+        "idx_end": 1799
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Japan\nJapan guarantees compulsory elementary and lower secondary education with near-universal upper-level participation, standardized curricula, and reforms addressing exam pressure and inclusion.",
+        "text_original": "Japan guarantees compulsory elementary and lower secondary education with near-universal upper-level participation, standardized curricula, and reforms addressing exam pressure and inclusion",
+        "idx_start": 1812,
+        "idx_end": 2002
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Bangladesh\nBangladesh\u2019s multi-authority system struggles with investment and teacher quality, yet literacy and gender parity improve through central curricula, religious instruction, compulsory schooling, and incentives for girls.",
+        "text_original": "Bangladesh\u2019s multi-authority system struggles with investment and teacher quality, yet literacy and gender parity improve through central curricula, religious instruction, compulsory schooling, and incentives for girls",
+        "idx_start": 2020,
+        "idx_end": 2238
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Mexico\nMexico\u2019s education evolved from prehispanic and church-led to secular, state-run models, with decentralized administration, union influence, adaptable curricula, and SEP textbooks supporting inclusivity for indigenous and special needs students.",
+        "text_original": "Mexico\u2019s education evolved from prehispanic and church-led to secular, state-run models, with decentralized administration, union influence, adaptable curricula, and SEP textbooks supporting inclusivity for indigenous and special needs students",
+        "idx_start": 2252,
+        "idx_end": 2496
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Saudi Arabia\nSaudi education, rooted in Islamic tradition, has modernized via state investment, free and compulsory primary schooling, vocational tracks, increasing female participation, and ongoing reforms, though religious content and rote learning remain influential.",
+        "text_original": "Saudi education, rooted in Islamic tradition, has modernized via state investment, free and compulsory primary schooling, vocational tracks, increasing female participation, and ongoing reforms, though religious content and rote learning remain influential",
+        "idx_start": 2516,
+        "idx_end": 2772
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## New Zealand\nNew Zealand integrates M\u0101ori traditions and British education models, offering diverse school types guided by the New Zealand Curriculum or M\u0101ori-medium equivalents and multiple qualification options. M\u0101ori-language and M\u0101ori-designed schools outperform mainstream schools for M\u0101ori students, yet M\u0101ori-medium enrolment remains low. Schooling spans ages 6 to 16 in 13 structured years, with high early childhood participation and government-based, per-student funding. Tertiary education is regulated under the New Zealand Qualifications Framework and relies on government subsidies and student fees, though fees are criticized for limiting access and contributing to shortages. Teacher pay is handled centrally, and special needs are supported through targeted schemes. Widespread bullying issues\u2014including cyber and physical abuse\u2014have prompted government initiatives and calls for compulsory anti-bullying programs, though responses are seen as insufficient. New teaching methods in mathematics have led to declining student performance and concerns over basic skills, with significant achievement gaps persisting among M\u0101ori, Pacific Island, and P\u0101keh\u0101 students. Despite international rankings placing New Zealand highly, debates continue regarding the validity of these assessments and persistent challenges in educational equity and standards.",
+        "text_original": "New Zealand integrates M\u0101ori traditions and British education models, offering diverse school types guided by the New Zealand Curriculum or M\u0101ori-medium equivalents and multiple qualification options. M\u0101ori-language and M\u0101ori-designed schools outperform mainstream schools for M\u0101ori students, yet M\u0101ori-medium enrolment remains low. Schooling spans ages 6 to 16 in 13 structured years, with high early childhood participation and government-based, per-student funding. Tertiary education is regulated under the New Zealand Qualifications Framework and relies on government subsidies and student fees, though fees are criticized for limiting access and contributing to shortages. Teacher pay is handled centrally, and special needs are supported through targeted schemes. Widespread bullying issues\u2014including cyber and physical abuse\u2014have prompted government initiatives and calls for compulsory anti-bullying programs, though responses are seen as insufficient. New teaching methods in mathematics have led to declining student performance and concerns over basic skills, with significant achievement gaps persisting among M\u0101ori, Pacific Island, and P\u0101keh\u0101 students. Despite international rankings placing New Zealand highly, debates continue regarding the validity of these assessments and persistent challenges in educational equity and standards",
+        "idx_start": 2791,
+        "idx_end": 4139
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Comparative Insights\nAcross all systems, reforms consistently pursue modernization, equity, inclusivity, infrastructure improvement, and curriculum relevance. Russia and Poland excel in literacy and minority inclusion; Pakistan and Bangladesh focus on equity and teacher development; South Korea targets competitiveness and well-being; the Czech Republic enforces structured progression; the Netherlands emphasizes streaming and internationalization; Canada encourages diversity and achievement; Japan and Bangladesh address inclusion; Mexico drives systemic transformation; Saudi Arabia blends Islamic values with modernization; and New Zealand balances diverse cultural influences with inclusive, flexible schooling while struggling with achievement gaps, bullying, and maintaining educational standards.",
+        "text_original": "Across all systems, reforms consistently pursue modernization, equity, inclusivity, infrastructure improvement, and curriculum relevance. Russia and Poland excel in literacy and minority inclusion; Pakistan and Bangladesh focus on equity and teacher development; South Korea targets competitiveness and well-being; the Czech Republic enforces structured progression; the Netherlands emphasizes streaming and internationalization; Canada encourages diversity and achievement; Japan and Bangladesh address inclusion; Mexico drives systemic transformation; Saudi Arabia blends Islamic values with modernization; and New Zealand balances diverse cultural influences with inclusive, flexible schooling while struggling with achievement gaps, bullying, and maintaining educational standards",
+        "idx_start": 4167,
+        "idx_end": 4951
+    }
+]

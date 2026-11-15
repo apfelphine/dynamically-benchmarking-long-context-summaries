@@ -1,0 +1,28 @@
+{
+  "id": 72741,
+  "title": "Kristen Nygaard",
+  "url": "https://en.wikipedia.org/wiki/Kristen_Nygaard",
+  "path": "Comp-Sci-Pioneers\\kristen-nygaard",
+  "summary": {
+    "chars": 390,
+    "tokens": 88
+  },
+  "document": {
+    "chars": 10027,
+    "tokens": 2063
+  },
+  "infobox": {
+    "title": "Kristen Nygaard",
+    "data": {
+      "Born": "27 August 1926 \u00b7 Oslo, Norway",
+      "Died": "10 August 2002 (aged 75) \u00b7 Oslo, Norway",
+      "Citizenship": "Norway",
+      "Education": "University of Oslo (BS, MS)",
+      "Known for": "Object-oriented programming \u00b7 Simula",
+      "Awards": "Turing Award (2001) \u00b7 IEEE John von Neumann Medal (2002) \u00b7 Royal Norwegian Order of St. Olav \u00b7 Norbert Wiener Award for Social and Professional Responsibility",
+      "Fields": "Computer science",
+      "Institutions": "Norwegian Defense Research Establishment \u00b7 Norwegian Operational Research Society \u00b7 Norwegian Computing Center \u00b7 Aarhus University \u00b7 University of Oslo \u00b7 Simula Research Laboratory",
+      "Thesis": "Theoretical Aspects of Monte Carlo methods (1956)"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Neural Network Architectures Overview\n## Vision, Sequence, and Relational Processing\nNeural networks utilize distinct architectures for different data types. Convolutional Neural Networks (CNNs) process visual data via local connectivity and weight sharing. Vision Transformers (ViTs) treat images as patches, employing self-attention to capture long-range dependencies, contrasting with CNNs. For sequential data, while RNNs (like LSTMs/GRUs) mitigate vanishing gradients, the Transformer architecture enables parallel processing using attention mechanisms. Graph Neural Networks (GNNs) analyze structured, relational data through message passing.",
+        "text_original": "Neural networks utilize distinct architectures for different data types. Convolutional Neural Networks (CNNs) process visual data via local connectivity and weight sharing. Vision Transformers (ViTs) treat images as patches, employing self-attention to capture long-range dependencies, contrasting with CNNs. For sequential data, while RNNs (like LSTMs/GRUs) mitigate vanishing gradients, the Transformer architecture enables parallel processing using attention mechanisms. Graph Neural Networks (GNNs) analyze structured, relational data through message passing",
+        "idx_start": 89,
+        "idx_end": 651
+    },
+    {
+        "document_idx": null,
+        "text": "# Neural Network Architectures Overview\n## Generative Models and Dimensionality Reduction\nGenerative modeling techniques include Variational Autoencoders (VAEs), which model latent space as a probability distribution, and Generative Adversarial Networks (GANs). GANs operate as a minimax game between a Generator and a Discriminator to synthesize data, with variants like WGANs improving training stability by using the Wasserstein distance to counter issues like mode collapse. Autoencoders (AEs) are used for dimensionality reduction, while specialized models like Radial Basis Function (RBF) Networks act as universal function approximators.",
+        "text_original": "Generative modeling techniques include Variational Autoencoders (VAEs), which model latent space as a probability distribution, and Generative Adversarial Networks (GANs). GANs operate as a minimax game between a Generator and a Discriminator to synthesize data, with variants like WGANs improving training stability by using the Wasserstein distance to counter issues like mode collapse. Autoencoders (AEs) are used for dimensionality reduction, while specialized models like Radial Basis Function (RBF) Networks act as universal function approximators",
+        "idx_start": 705,
+        "idx_end": 1258
+    },
+    {
+        "document_idx": null,
+        "text": "# Neural Network Architectures Overview\n## Transformer Evolution and Specialized Models\nThe Transformer architecture, central to modern NLP and multimodality, employs an Encoder-Decoder structure featuring Scaled Dot-Product Attention. Variations, including Encoder-only (BERT), Decoder-only (GPT), and Encoder-Decoder (T5), exist. To enhance efficiency, research focuses on techniques like FlashAttention to address the inherent quadratic complexity. Interpretability in complex models is supported by methods such as Grad-CAM, which visualizes feature contributions to a prediction.",
+        "text_original": "The Transformer architecture, central to modern NLP and multimodality, employs an Encoder-Decoder structure featuring Scaled Dot-Product Attention. Variations, including Encoder-only (BERT), Decoder-only (GPT), and Encoder-Decoder (T5), exist. To enhance efficiency, research focuses on techniques like FlashAttention to address the inherent quadratic complexity. Interpretability in complex models is supported by methods such as Grad-CAM, which visualizes feature contributions to a prediction",
+        "idx_start": 1310,
+        "idx_end": 1805
+    }
+]

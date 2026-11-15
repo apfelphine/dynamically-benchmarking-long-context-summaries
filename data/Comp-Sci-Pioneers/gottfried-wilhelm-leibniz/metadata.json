@@ -1,0 +1,21 @@
+{
+  "id": 12281,
+  "title": "Gottfried Wilhelm Leibniz",
+  "url": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+  "path": "Comp-Sci-Pioneers\\gottfried-wilhelm-leibniz",
+  "summary": {
+    "chars": 3409,
+    "tokens": 696
+  },
+  "document": {
+    "chars": 81148,
+    "tokens": 17939
+  },
+  "infobox": {
+    "title": "Gottfried Wilhelm Leibniz",
+    "data": {
+      "Born": "1 July 1646 \u00b7 Leipzig, Saxony, Holy Roman Empire",
+      "Died": "14 November 1716 (aged 70) \u00b7 Hanover, Electorate of Hanover, Holy Roman Empire"
+    }
+  }
+}

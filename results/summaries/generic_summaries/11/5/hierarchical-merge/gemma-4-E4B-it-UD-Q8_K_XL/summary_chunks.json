@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Models\n## Architectural Paradigms\nDifferent neural network types are suited for specific data structures. Recurrent Neural Networks (RNNs), including LSTM/GRU, handle sequential data via BPTT. Graph Neural Networks (GNNs) process relational data using message passing (e.g., GCNs). Convolutional Neural Networks (CNNs) are specialized for grid data like images using local connectivity and shared weights. The Transformer architecture, which utilizes parallelizable self-attention (Scaled Dot-Product Attention), has gained prominence, leading to specialized forms like BERT (encoder-only) and GPT (decoder-only). These architectures can be adapted for vision tasks, exemplified by Vision Transformers (ViT).",
+        "text_original": "Different neural network types are suited for specific data structures. Recurrent Neural Networks (RNNs), including LSTM/GRU, handle sequential data via BPTT. Graph Neural Networks (GNNs) process relational data using message passing (e.g., GCNs). Convolutional Neural Networks (CNNs) are specialized for grid data like images using local connectivity and shared weights. The Transformer architecture, which utilizes parallelizable self-attention (Scaled Dot-Product Attention), has gained prominence, leading to specialized forms like BERT (encoder-only) and GPT (decoder-only). These architectures can be adapted for vision tasks, exemplified by Vision Transformers (ViT",
+        "idx_start": 69,
+        "idx_end": 741
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Models\n## Generative and Representation Learning\nGenerative modeling employs various frameworks. Variational Autoencoders (VAEs) probabilistically learn latent spaces ($\\mathbf{z}$) by optimizing the ELBO. Autoencoders (AEs) serve for dimensionality reduction and anomaly detection via input reconstruction. Generative Adversarial Networks (GANs) employ a minimax game between a Generator and Discriminator to model complex distributions; variants like StyleGAN and CycleGAN address limitations such as mode collapse. Furthermore, Masked Autoencoders (MAE) are used for self-supervised learning, and ViT-VQGAN facilitates text-to-image synthesis.",
+        "text_original": "Generative modeling employs various frameworks. Variational Autoencoders (VAEs) probabilistically learn latent spaces ($\\mathbf{z}$) by optimizing the ELBO. Autoencoders (AEs) serve for dimensionality reduction and anomaly detection via input reconstruction. Generative Adversarial Networks (GANs) employ a minimax game between a Generator and Discriminator to model complex distributions; variants like StyleGAN and CycleGAN address limitations such as mode collapse. Furthermore, Masked Autoencoders (MAE) are used for self-supervised learning, and ViT-VQGAN facilitates text-to-image synthesis",
+        "idx_start": 787,
+        "idx_end": 1383
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Models\n## Advanced Techniques and Stability\nImproving model robustness and efficiency is a key research area. To stabilize GAN training, Wasserstein GANs (WGANs) replace standard divergence with the Earth Mover's distance, often requiring constraints like Spectral Normalization or Gradient Penalty. In Transformers, efficiency is enhanced by techniques like FlashAttention-2 and RoPE. Model interpretability is achieved using methods like Grad-CAM for CNNs and Transformers, while regularization techniques (Dropout, Weight Decay) are commonly applied to CNNs.",
+        "text_original": "Improving model robustness and efficiency is a key research area. To stabilize GAN training, Wasserstein GANs (WGANs) replace standard divergence with the Earth Mover's distance, often requiring constraints like Spectral Normalization or Gradient Penalty. In Transformers, efficiency is enhanced by techniques like FlashAttention-2 and RoPE. Model interpretability is achieved using methods like Grad-CAM for CNNs and Transformers, while regularization techniques (Dropout, Weight Decay) are commonly applied to CNNs",
+        "idx_start": 1423,
+        "idx_end": 1939
+    }
+]

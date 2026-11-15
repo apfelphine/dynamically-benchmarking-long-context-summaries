@@ -1,0 +1,11 @@
+## University of Jordan: Overview
+
+The University of Jordan, established in 1962 in Amman, is the country's first and largest university. It was created in response to national aspirations for higher education, with initial support and royal decree from King Hussein bin Talal. Starting with the Faculty of Arts and 167 students, the university rapidly expanded through the decades, adding multiple faculties such as Medicine, Engineering, Pharmacy, and Law, and establishing research centers, teaching hospitals, and administrative autonomy. In 2009, the university opened its Aqaba campus as part of a national strategy for educational expansion.
+
+The university offers 78 undergraduate and 143 postgraduate programs, organized into scientific, medical, and humanities faculties. It hosts diverse research centers—including those focusing on water management, diabetes, strategic studies, and Arabic language—along with institutes in archaeology, social work, and Islamic studies. The University of Jordan Library, established with the university's founding, is among the largest regional libraries and supports extensive academic research and archive collections.
+
+## Research, Rankings, and Alumni
+
+The University of Jordan has positioned itself as a leading research institution in the Arab world, reporting numerous patents, publications, and research papers, and collaborating on internationally peer-reviewed journals in medicine, business, history, and sciences. Its teaching hospital, Jordan University Hospital, serves as a major center for medical education and research, recognized for clinical excellence and international accreditation.
+
+The university maintains top rankings nationally and regionally in major global university rankings. With hundreds of international agreements and affiliations, it supports student exchange and academic cooperation worldwide. Notable faculty and alumni include several former Jordanian prime ministers, ministers, scientists, diplomats, writers, and media figures, illustrating the university's broad impact on public service, academia, business, and culture across Jordan and the region. Its vibrant student life, active student union, and ongoing physical and academic development underscore the University's enduring role in Jordanian higher education and society.

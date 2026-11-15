@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Autoencoders and Variational Autoencoders (VAEs)\nAutoencoders\u2014including sparse, denoising, contractive, MDL, concrete, and deep variants\u2014produce compressed, meaningful representations used in areas such as anomaly detection, semantic hashing, and data compression. Variational Autoencoders (VAEs) introduce probabilistic latent modeling, optimizing ELBO via reparameterization and KL divergence. Advanced forms (\u03b2-VAEs, Conditional VAEs, VAE-GANs, MMD/Wasserstein VAEs) are widely applied in domains like drug discovery, translation, and communication.",
+        "text_original": "Autoencoders\u2014including sparse, denoising, contractive, MDL, concrete, and deep variants\u2014produce compressed, meaningful representations used in areas such as anomaly detection, semantic hashing, and data compression. Variational Autoencoders (VAEs) introduce probabilistic latent modeling, optimizing ELBO via reparameterization and KL divergence. Advanced forms (\u03b2-VAEs, Conditional VAEs, VAE-GANs, MMD/Wasserstein VAEs) are widely applied in domains like drug discovery, translation, and communication",
+        "idx_start": 53,
+        "idx_end": 555
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs) and Variants\nGANs model data generation as a minimax game between generator and discriminator, utilizing various loss functions (original, non-saturating, hinge, least squares) and advanced variants for stability and improved output, such as Wasserstein GANs (WGAN) to reduce mode collapse. Key GAN variants include Conditional GAN, DCGAN, SAGAN, VAEGAN, TransGAN, Flow-GAN, SinGAN, Progressive GAN, StyleGANs (incremental improvements in realism and controllability), and StyleGAN-3 (addressing texture sticking). GAN innovations also include:\n- **Adversarial Autoencoder (AAE):** Unites autoencoders with adversarial regularization.\n- **InfoGAN:** Maximizes mutual information for discoverable structured latent factors.\n- **BiGAN:** Enables bidirectional mapping for semi-supervised learning.\n- **CycleGAN:** Translates domains without paired data via cycle-consistency.\n- **BigGAN:** Uses self-attention for high-quality, large-scale generation.\nGANs have driven practical advances in transfer learning, scientific simulations (astronomy, physics), privacy-conscious medical imaging, diagnostics, creativity (art, fashion, advertising, gaming, music), and photorealistic image generation\u2014including faces, textures, and deepfakes. Applications span asset creation (Artbreeder), game recreation (GameGAN), music synthesis from text, age progression, 3D reconstruction, motion pattern modeling, inpainting, and climate visualization. GANs originated from adversarial neural network concepts in the 1990s, with key developments maturing in the 2010s. Their ability to generate realistic synthetic media prompts ethical challenges and responses in digital forensics and legislation. For data scarcity, invertible augmentations maintain distribution integrity. Performance metrics include Inception Score (IS), Fr\u00e9chet Inception Distance (FID), and LPIPS.",
+        "text_original": "GANs model data generation as a minimax game between generator and discriminator, utilizing various loss functions (original, non-saturating, hinge, least squares) and advanced variants for stability and improved output, such as Wasserstein GANs (WGAN) to reduce mode collapse. Key GAN variants include Conditional GAN, DCGAN, SAGAN, VAEGAN, TransGAN, Flow-GAN, SinGAN, Progressive GAN, StyleGANs (incremental improvements in realism and controllability), and StyleGAN-3 (addressing texture sticking). GAN innovations also include:\n\n- **Adversarial Autoencoder (AAE):** Unites autoencoders with adversarial regularization.\n- **InfoGAN:** Maximizes mutual information for discoverable structured latent factors.\n- **BiGAN:** Enables bidirectional mapping for semi-supervised learning.\n- **CycleGAN:** Translates domains without paired data via cycle-consistency.\n- **BigGAN:** Uses self-attention for high-quality, large-scale generation.\n\nGANs have driven practical advances in transfer learning, scientific simulations (astronomy, physics), privacy-conscious medical imaging, diagnostics, creativity (art, fashion, advertising, gaming, music), and photorealistic image generation\u2014including faces, textures, and deepfakes. Applications span asset creation (Artbreeder), game recreation (GameGAN), music synthesis from text, age progression, 3D reconstruction, motion pattern modeling, inpainting, and climate visualization. GANs originated from adversarial neural network concepts in the 1990s, with key developments maturing in the 2010s. Their ability to generate realistic synthetic media prompts ethical challenges and responses in digital forensics and legislation. For data scarcity, invertible augmentations maintain distribution integrity. Performance metrics include Inception Score (IS), Fr\u00e9chet Inception Distance (FID), and LPIPS",
+        "idx_start": 614,
+        "idx_end": 2455
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer Architecture and Multimodal Adaptations\nTransformers employ distributed attention for parallel, modular modeling, powering systems like GPT, BERT, and Claude, as well as translation, summarization, coding, speech, and protein folding. Multimodal models (LLaVA, Whisper, Perceivers, DALL-E, Parti) tokenize diverse inputs, with advances in self-attention, normalization, positional encoding, activation (SwiGLU, GELU), and FlashAttention for efficiency.",
+        "text_original": "Transformers employ distributed attention for parallel, modular modeling, powering systems like GPT, BERT, and Claude, as well as translation, summarization, coding, speech, and protein folding. Multimodal models (LLaVA, Whisper, Perceivers, DALL-E, Parti) tokenize diverse inputs, with advances in self-attention, normalization, positional encoding, activation (SwiGLU, GELU), and FlashAttention for efficiency",
+        "idx_start": 2514,
+        "idx_end": 2925
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformers (ViTs) and Variants\nViTs segment images into patches to employ attention-based modeling, achieving strong performance in classification, segmentation, and clustering. Techniques involve pooling, self-supervised learning, and specialized architectures (Swin, TimeSformer, ViT-VQGAN, CoAtNet, CvT, DeiT), often complemented by CNNs for robust local feature extraction.",
+        "text_original": "ViTs segment images into patches to employ attention-based modeling, achieving strong performance in classification, segmentation, and clustering. Techniques involve pooling, self-supervised learning, and specialized architectures (Swin, TimeSformer, ViT-VQGAN, CoAtNet, CvT, DeiT), often complemented by CNNs for robust local feature extraction",
+        "idx_start": 2972,
+        "idx_end": 3317
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Networks (CNNs)\nCNNs extract hierarchical and local features, with regularization, augmentation, and transfer learning supporting domains like image/video analysis, NLP, object detection, and forecasting. Prominent architectures include LeNet-5, AlexNet, Deep Q-Networks, and Convolutional Deep Belief Networks.",
+        "text_original": "CNNs extract hierarchical and local features, with regularization, augmentation, and transfer learning supporting domains like image/video analysis, NLP, object detection, and forecasting. Prominent architectures include LeNet-5, AlexNet, Deep Q-Networks, and Convolutional Deep Belief Networks",
+        "idx_start": 3361,
+        "idx_end": 3655
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Networks (GNNs)\nGNNs use permutation-equivariant message passing (GCN, GAT, GGS-NN) for node feature aggregation, aiding in fraud detection, protein folding, and driving ongoing research in expressivity.",
+        "text_original": "GNNs use permutation-equivariant message passing (GCN, GAT, GGS-NN) for node feature aggregation, aiding in fraud detection, protein folding, and driving ongoing research in expressivity",
+        "idx_start": 3691,
+        "idx_end": 3877
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Networks (RBFNs)\nRBFNs apply Gaussian activations and linear outputs for control, time-series prediction, and modeling chaotic systems\u2014requiring careful parameter tuning.",
+        "text_original": "RBFNs apply Gaussian activations and linear outputs for control, time-series prediction, and modeling chaotic systems\u2014requiring careful parameter tuning",
+        "idx_start": 3923,
+        "idx_end": 4075
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Networks (RNNs)\nRNNs (LSTM, GRU, IndRNN) excel at sequential data modeling (speech, handwriting, translation, anomaly detection, forecasting) via teacher forcing, BPTT, RTRL, and CTC, though they face vanishing gradients and parallelization constraints.",
+        "text_original": "RNNs (LSTM, GRU, IndRNN) excel at sequential data modeling (speech, handwriting, translation, anomaly detection, forecasting) via teacher forcing, BPTT, RTRL, and CTC, though they face vanishing gradients and parallelization constraints",
+        "idx_start": 4115,
+        "idx_end": 4351
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping and Interpretability\nInterpretability in neural networks, especially in vision tasks, is advanced by CAM, Grad-CAM, Score-CAM, and LayerCAM, enabling visualization of key activations.",
+        "text_original": "Interpretability in neural networks, especially in vision tasks, is advanced by CAM, Grad-CAM, Score-CAM, and LayerCAM, enabling visualization of key activations",
+        "idx_start": 4404,
+        "idx_end": 4565
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Networks\nHopfield networks function as associative memories through energy minimization and symmetric weights, with extensions to Dense Associative Memories leveraging hierarchical and attention mechanisms\u2014a work honored by the 2024 Nobel Prize.",
+        "text_original": "Hopfield networks function as associative memories through energy minimization and symmetric weights, with extensions to Dense Associative Memories leveraging hierarchical and attention mechanisms\u2014a work honored by the 2024 Nobel Prize",
+        "idx_start": 4590,
+        "idx_end": 4825
+    }
+]

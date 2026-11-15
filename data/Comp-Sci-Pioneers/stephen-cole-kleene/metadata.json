@@ -1,0 +1,28 @@
+{
+  "id": 28805,
+  "title": "Stephen Cole Kleene",
+  "url": "https://en.wikipedia.org/wiki/Stephen_Cole_Kleene",
+  "path": "Comp-Sci-Pioneers\\stephen-cole-kleene",
+  "summary": {
+    "chars": 819,
+    "tokens": 187
+  },
+  "document": {
+    "chars": 5935,
+    "tokens": 1564
+  },
+  "infobox": {
+    "title": "Stephen Kleene",
+    "data": {
+      "Born": "January 5, 1909 \u00b7 Hartford, Connecticut, U.S.",
+      "Died": "January 25, 1994 (aged 85) \u00b7 Madison, Wisconsin, U.S.",
+      "Alma mater": "Amherst College \u00b7 Princeton University",
+      "Known for": "- - Contributions to intuitionism - Kleene\u2013Mostowski hierarchy - Kleene\u2013Rosser paradox - Kleene star - Kleene's algorithm - Kleene's theorem - Realizability - Regular expressions - Kleene's smn theorem",
+      "Awards": "Leroy P. Steele Prize (1983) \u00b7 National Medal of Science (1990)",
+      "Fields": "Mathematics",
+      "Institutions": "University of Wisconsin\u2013Madison",
+      "Doctoral advisor": "Alonzo Church",
+      "Doctoral students": "Robert Constable \u00b7 Joan Moschovakis \u00b7 Yiannis Moschovakis \u00b7 Nels David Nelson \u00b7 Dick de Jongh"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+## Education in Norway
+
+Norwegian education is structured into three main parts: elementary school (*barneskole*, ages 6–12), lower secondary school (*ungdomsskole*, ages 13–16), and upper secondary school (*videregående skole*, ages 16–19). The elementary and lower secondary levels are mandatory for all children aged 6–16.
+
+The elementary level focuses on play and learning social structures, the alphabet, basic math, and English, with no official grades assigned. At the lower secondary level, students begin receiving grades, which influence acceptance into their chosen upper secondary school. Upper secondary school transitioned through reforms (notably the 1994 reform) to offer students pathways in general studies (*studieforberedelse*) or vocational studies (*yrkesfag*), often utilizing a "2+2 model" involving apprenticeships.
+
+In higher education, universities and university colleges are state-run and are expected to maintain an inclusive and flexible learning environment. Norway employs multiple grading systems; a former common university scale ran from 1.0 (worst) to 6.0 (best), with 4.0 or above typically considered passing. Private schooling is available but must be approved by the government and cannot select students based on subjective criteria.

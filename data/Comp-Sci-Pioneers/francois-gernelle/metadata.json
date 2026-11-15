@@ -1,0 +1,24 @@
+{
+  "id": 37320419,
+  "title": "Fran\u00e7ois Gernelle",
+  "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Gernelle",
+  "path": "Comp-Sci-Pioneers\\francois-gernelle",
+  "summary": {
+    "chars": 185,
+    "tokens": 44
+  },
+  "document": {
+    "chars": 2235,
+    "tokens": 531
+  },
+  "infobox": {
+    "title": "Fran\u00e7ois Gernelle",
+    "data": {
+      "Born": "December 20, 1944",
+      "Education": "Conservatoire National des Arts et M\u00e9tiers \u00b7 Pierre Mend\u00e8s-France University",
+      "Occupations": "Businessman computer programmer",
+      "Known for": "Inventor of the first micro-computer using a micro-processor, the Micral",
+      "Awards": "Chevalier de l'Ordre national du m\u00e9rite"
+    }
+  }
+}

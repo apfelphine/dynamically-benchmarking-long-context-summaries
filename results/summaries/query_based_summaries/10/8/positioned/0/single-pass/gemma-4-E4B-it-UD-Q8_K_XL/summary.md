@@ -1,0 +1,10 @@
+## Education in Nigeria
+
+**Primary Education**
+Primary education generally commences around age 5 and lasts six years, after which students receive a first school-leaving certificate. Core subjects include Mathematics, English language, Christian/Islamic Religious Knowledge, Agricultural science, Home economics, and one of three main indigenous languages (Hausa-Fulani, Yoruba, or Igbo). A Common Entrance Examination is required for progression to secondary schools. Policies evolved from the colonial period to the establishment of the Universal Primary Education program in 1976, followed by the Universal Basic Education (UBE) in 1999, which encompasses nine years of uninterrupted schooling and is mandated as "free," "compulsory," and a "right" of every child.
+
+**Secondary and Higher Education**
+Secondary education bridges primary and tertiary levels. The "6-3-3-4" system dictates six years of primary, three years of Junior Secondary School (JSS), three years of Senior Secondary School (SSS), and four years in tertiary education. The SSCE, conducted by the West African Examination Council (WAEC), is the key examination at the end of secondary school. Secondary schools are categorized as Federal-sponsored (model schools, admission based on merit via the National Common Entrance Examination), State-sponsored (funded by state governments, though costs must be borne by students), or Private/Religious/Independent (often expensive but providing smaller classes and better facilities). Tertiary education is largely controlled by the government and includes Universities, Polytechnics, Monotechnics, and Colleges of Education.
+
+**Vocational and Informal Education**
+Vocational training is overseen by the National Board for Technical Education, with students receiving National or Advanced National Technical Certificates administered by NABTEB. Informal education and literacy programs, supported by NGOs, are vital foundations for tertiary education, though they face challenges due to funding issues. Furthermore, gender equality faces barriers such as teen pregnancy, marriage, poverty, and militancy, despite increasing female participation.

@@ -1,0 +1,1 @@
+The Michigan Promise Scholarship was a merit-based scholarship program in the state of Michigan that provided up to $4,000 towards post-secondary education at any approved Michigan institution to qualifying Michigan high school graduates. The full amount was reserved for students attending at least two-year programs.

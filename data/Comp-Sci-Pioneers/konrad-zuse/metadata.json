@@ -1,0 +1,26 @@
+{
+  "id": 16810,
+  "title": "Konrad Zuse",
+  "url": "https://en.wikipedia.org/wiki/Konrad_Zuse",
+  "path": "Comp-Sci-Pioneers\\konrad-zuse",
+  "summary": {
+    "chars": 1343,
+    "tokens": 316
+  },
+  "document": {
+    "chars": 12127,
+    "tokens": 2867
+  },
+  "infobox": {
+    "title": "Konrad Zuse",
+    "data": {
+      "Born": "Konrad Ernst Otto Zuse \u00b7 22 June 1910 \u00b7 Berlin, Prussia, German Empire",
+      "Died": "18 December 1995 (aged 85) \u00b7 H\u00fcnfeld, Hesse, Germany",
+      "Alma mater": "Technische Universit\u00e4t Berlin",
+      "Known for": "- Z3, Z4 - Plankalk\u00fcl - Calculating Space (cf. digital physics) - Montagestra\u00dfe SRS 72 - Helixturm",
+      "Awards": "- Werner von Siemens Ring in 1964 - Harry H. Goode Memorial Award in 1965 (together with George Stibitz) - Wilhelm Exner Medal, 1969 - Order of Merit of the Federal Republic of Germany in 1972 - Computer History Museum Fellow Award in 1999",
+      "Fields": "- Computer science - Computer engineering",
+      "Institutions": "Aerodynamic Research Institute"
+    }
+  }
+}

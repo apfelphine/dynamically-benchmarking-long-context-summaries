@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# University of Oxford\nThe University of Oxford, dating back to the 12th century, is renowned for academic excellence, global influence, and rich traditions. Comprising 39 colleges, Oxford has significantly reformed its admissions, now featuring near gender parity and strong representation of state school students. Supported by an \u00a38.7 billion endowment, Oxford offers extensive resources, vibrant student life, and a legacy of Nobel laureates and public figures, maintaining its leadership in research and education.",
+        "text_original": "The University of Oxford, dating back to the 12th century, is renowned for academic excellence, global influence, and rich traditions. Comprising 39 colleges, Oxford has significantly reformed its admissions, now featuring near gender parity and strong representation of state school students. Supported by an \u00a38.7 billion endowment, Oxford offers extensive resources, vibrant student life, and a legacy of Nobel laureates and public figures, maintaining its leadership in research and education",
+        "idx_start": 25,
+        "idx_end": 520
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Melbourne\nEstablished in 1853, the University of Melbourne leads Australian universities in research, innovation, and graduate employability. Adapting through challenges, including academic restructuring and the pandemic, Melbourne emphasizes inclusivity, staff welfare, and support for disadvantaged students. The recent appointment of its first female Vice-Chancellor, Emma Johnston, highlights a continued commitment to advancement, with alumni including prime ministers and Nobel laureates.",
+        "text_original": "Established in 1853, the University of Melbourne leads Australian universities in research, innovation, and graduate employability. Adapting through challenges, including academic restructuring and the pandemic, Melbourne emphasizes inclusivity, staff welfare, and support for disadvantaged students. The recent appointment of its first female Vice-Chancellor, Emma Johnston, highlights a continued commitment to advancement, with alumni including prime ministers and Nobel laureates",
+        "idx_start": 551,
+        "idx_end": 1034
+    },
+    {
+        "document_idx": null,
+        "text": "# University of British Columbia (UBC)\nUBC stands as one of Canada\u2019s top universities, noted for research excellence, graduate employability, and global engagement. With a diverse student body\u201428% international and 3.2% Indigenous\u2014UBC promotes inclusivity and sustainability through its campus and research initiatives. Strong student organizations, cultural traditions, and active Indigenous partnerships underline the university\u2019s influence and alumni impact.",
+        "text_original": "UBC stands as one of Canada\u2019s top universities, noted for research excellence, graduate employability, and global engagement. With a diverse student body\u201428% international and 3.2% Indigenous\u2014UBC promotes inclusivity and sustainability through its campus and research initiatives. Strong student organizations, cultural traditions, and active Indigenous partnerships underline the university\u2019s influence and alumni impact",
+        "idx_start": 1078,
+        "idx_end": 1499
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Toronto\nAs Canada\u2019s largest university, the University of Toronto excels in research, notably in medicine, law, and public health, with the nation\u2019s highest research budget. Its extensive student body and three campuses support a vibrant academic environment, complemented by notable alumni, including thirteen Nobel laureates, and significant contributions to Canadian society, student life, and infrastructure development.",
+        "text_original": "As Canada\u2019s largest university, the University of Toronto excels in research, notably in medicine, law, and public health, with the nation\u2019s highest research budget. Its extensive student body and three campuses support a vibrant academic environment, complemented by notable alumni, including thirteen Nobel laureates, and significant contributions to Canadian society, student life, and infrastructure development",
+        "idx_start": 1528,
+        "idx_end": 1943
+    },
+    {
+        "document_idx": null,
+        "text": "# National Autonomous University of Mexico (UNAM)\nFounded in 1910, UNAM is Latin America\u2019s largest university, recognized for academic autonomy, major scientific output, and a UNESCO World Heritage campus. Serving over 324,000 students, UNAM excels in AI, robotics, and diverse disciplines, and is distinguished by its activism, rich cultural traditions, athletic programs, and influential alumni networks in science, business, and the arts.",
+        "text_original": "Founded in 1910, UNAM is Latin America\u2019s largest university, recognized for academic autonomy, major scientific output, and a UNESCO World Heritage campus. Serving over 324,000 students, UNAM excels in AI, robotics, and diverse disciplines, and is distinguished by its activism, rich cultural traditions, athletic programs, and influential alumni networks in science, business, and the arts",
+        "idx_start": 1998,
+        "idx_end": 2388
+    },
+    {
+        "document_idx": null,
+        "text": "# University of New South Wales (UNSW)\nSince 1949, UNSW has grown from a technical college to a leading Australian research university known for competitive admissions, dynamic scholarships, and global partnerships. With advanced research facilities and outreach programs across Sydney and Canberra, UNSW remains focused on innovation and academic excellence despite internal challenges.",
+        "text_original": "Since 1949, UNSW has grown from a technical college to a leading Australian research university known for competitive admissions, dynamic scholarships, and global partnerships. With advanced research facilities and outreach programs across Sydney and Canberra, UNSW remains focused on innovation and academic excellence despite internal challenges",
+        "idx_start": 2432,
+        "idx_end": 2779
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Hong Kong (HKU)\nFounded in 1911, HKU is Asia\u2019s premier research institution, ranked #11 globally. Known for strengths in health, law, and education, its international student body and comprehensive faculties foster a vibrant campus life. HKU\u2019s enduring traditions, such as its ceremonial mace and Latin anthem, and renowned alumni like Sun Yat-sen, highlight its legacy. Recent progress in research, especially virology, underpins its continued prominence in the region and worldwide.",
+        "text_original": "Founded in 1911, HKU is Asia\u2019s premier research institution, ranked #11 globally. Known for strengths in health, law, and education, its international student body and comprehensive faculties foster a vibrant campus life. HKU\u2019s enduring traditions, such as its ceremonial mace and Latin anthem, and renowned alumni like Sun Yat-sen, highlight its legacy. Recent progress in research, especially virology, underpins its continued prominence in the region and worldwide",
+        "idx_start": 2816,
+        "idx_end": 3283
+    },
+    {
+        "document_idx": null,
+        "text": "# Federal University of Rio de Janeiro (UFRJ)\nEstablished in 1920, UFRJ is a top Brazilian university noted for academic excellence, technological leadership, and social engagement. The university is a center for activism and pioneering union movements, as well as research and industry partnerships, such as with Petrobras. Distinguished alumni, including Oscar Niemeyer and Carlos Chagas, reinforce UFRJ\u2019s impact and prestige.",
+        "text_original": "Established in 1920, UFRJ is a top Brazilian university noted for academic excellence, technological leadership, and social engagement. The university is a center for activism and pioneering union movements, as well as research and industry partnerships, such as with Petrobras. Distinguished alumni, including Oscar Niemeyer and Carlos Chagas, reinforce UFRJ\u2019s impact and prestige",
+        "idx_start": 3334,
+        "idx_end": 3715
+    },
+    {
+        "document_idx": null,
+        "text": "# National University of Singapore (NUS)\nThe National University of Singapore, founded in 1905, consistently ranks among the world\u2019s best. Renowned for interdisciplinary research in engineering, law, sciences, and business, NUS emphasizes innovation, digital infrastructure, and entrepreneurship. Its dynamic campus life includes residential colleges and modern facilities, and its alumni network features national leaders, with Tan Eng Chye serving as president since 2018.",
+        "text_original": "The National University of Singapore, founded in 1905, consistently ranks among the world\u2019s best. Renowned for interdisciplinary research in engineering, law, sciences, and business, NUS emphasizes innovation, digital infrastructure, and entrepreneurship. Its dynamic campus life includes residential colleges and modern facilities, and its alumni network features national leaders, with Tan Eng Chye serving as president since",
+        "idx_start": 3761,
+        "idx_end": 4188
+    },
+    {
+        "document_idx": null,
+        "text": "# Cornell University\nFounded in 1865, Cornell University is a leading R1 research institution and New York\u2019s land-grant university, with campuses in Ithaca, NYC, and Qatar. Cornell excels in science, engineering, and sustainability, aiming for carbon neutrality by 2035. It boasts a large, influential alumni network\u2014including 62 Nobel laureates\u2014diverse student organizations, a robust library system, and comprehensive facilities. Governed by a 64-member board and supported by a $10.7 billion endowment, Michael Kotlikoff is interim president as of July 2024.",
+        "text_original": "Founded in 1865, Cornell University is a leading R1 research institution and New York\u2019s land-grant university, with campuses in Ithaca, NYC, and Qatar. Cornell excels in science, engineering, and sustainability, aiming for carbon neutrality by 2035. It boasts a large, influential alumni network\u2014including 62 Nobel laureates\u2014diverse student organizations, a robust library system, and comprehensive facilities. Governed by a 64-member board and supported by a $10.7 billion endowment, Michael Kotlikoff is interim president as of July",
+        "idx_start": 4219,
+        "idx_end": 4753
+    }
+]

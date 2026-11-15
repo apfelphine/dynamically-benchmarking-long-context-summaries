@@ -1,0 +1,7 @@
+## Lynn Conway
+
+Lynn Conway was a computer scientist known for her groundbreaking work in Very Large-Scale Integration (VLSI) design. After earning degrees from Columbia University's School of Engineering and Applied Science, she joined IBM Research where she contributed to the Advanced Computing Systems (ACS) project, inventing multiple-issue out-of-order dynamic instruction scheduling—the ACS architecture is considered the first "superscalar" design.
+
+Following her gender transition in 1968, Conway restarted her career, joining Xerox PARC in 1973. At PARC, she founded the multiproject wafers (MPW) technology. Collaborating with Ivan Sutherland and Carver Mead, she co-authored *Introduction to VLSI Systems*, a standard textbook in chip design. Conway was instrumental in the Mead–Conway revolution, inventing dimensionless, scalable design rules and institutionalizing the Metal Oxide Semiconductor Implementation Service (MOSIS) system in 1981. She later joined DARPA in 1983 and eventually became a professor at the University of Michigan.
+
+Conway coined the term "Conway effect" to describe how individuals "othered" by society, such as women and people of color, are often overlooked in historical accounts of innovation. In her later years, she became active in transgender rights activism, advocating for equal opportunities and employment protections for transgender people in the high-technology industry.

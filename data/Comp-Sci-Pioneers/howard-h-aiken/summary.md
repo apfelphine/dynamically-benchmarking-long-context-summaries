@@ -1,0 +1,1 @@
+Howard Hathaway Aiken (March 8, 1900 – March 14, 1973) was an American physicist and a pioneer in computing. He was the original conceptual designer behind IBM's Harvard Mark I, the United States' first programmable computer.

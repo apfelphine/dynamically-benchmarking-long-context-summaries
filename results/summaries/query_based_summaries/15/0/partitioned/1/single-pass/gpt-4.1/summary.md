@@ -1,0 +1,11 @@
+## University of Melbourne: Overview
+
+The University of Melbourne, established in 1853 in Victoria, Australia, is a leading research university and consistently ranked among the nation’s top institutions. It operates multiple metropolitan and regional campuses, including Parkville (the primary campus), Southbank for arts, Burnley for horticulture, Werribee for veterinary science, and Creswick and Dookie for forestry and agriculture. Plans for expansion include a new Engineering campus at Fishermans Bend set to open in 2026. The university encompasses nine faculties, such as Architecture, Arts, Business, Education, Engineering, Law, Medicine, Science, and Fine Arts & Music, and is governed by a University Council and Academic Board.
+
+Known for its "Melbourne Model," the university offers broad undergraduate degrees followed by specialised graduate courses. International students comprise 44% of the student body, and entry requirements are among the highest in Australia. The university has a reputation for academic excellence, with strong performance in global rankings (QS, THE, ARWU), and boasts a large endowment. Its libraries hold extensive collections, and several museums, galleries, and teaching centres enhance student learning.
+
+## Research, Student Life, and Notable Achievements
+
+The University of Melbourne is a major research hub, connected to over 100 research centres, with expenditures second only to CSIRO in Australia. It is recognised in international research rankings for research output and citation impact. The university promotes entrepreneurial activities through the Melbourne Entrepreneurial Centre, accelerator programs, and the Wade Institute of Entrepreneurship.
+
+Student life is enriched by the Melbourne University Student Union and Graduate Student Association, alongside more than 200 student clubs and societies. Extensive sports facilities are managed by Melbourne University Sport, and the university offers a vibrant residential college system and halls of residence. Its alumni and faculty include Nobel laureates, prime ministers, and cultural leaders. The university's governance, influential scholarship programmes, enduring traditions, and prominent role in Australian education underscore its global stature and contributions to academia and society.

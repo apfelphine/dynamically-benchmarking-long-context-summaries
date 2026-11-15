@@ -1,0 +1,32 @@
+{
+  "id": 56929426,
+  "title": "Tau (film)",
+  "url": "https://en.wikipedia.org/wiki/Tau_(film)",
+  "path": "AI-Fiction\\tau-film",
+  "summary": {
+    "chars": 369,
+    "tokens": 86
+  },
+  "document": {
+    "chars": 4316,
+    "tokens": 949
+  },
+  "infobox": {
+    "title": "Tau",
+    "data": {
+      "Directed by": "Federico D'Alessandro",
+      "Written by": "Noga Landau",
+      "Produced by": "- Russell Ackerman - Terry Dougas - David S. Goyer - Paris Kasidokostas Latsis - John Schoenfelder - Kevin Turen",
+      "Starring": "- Maika Monroe - Ed Skrein - Gary Oldman",
+      "Cinematography": "Larry Smith",
+      "Edited by": "Scott Chestnut",
+      "Music by": "Bear McCreary",
+      "Production \u00b7 companies": "- Waypoint Entertainment - Rhea Films - Hercules Film Fund - Phantom Four Films - Addictive Pictures - Kaos Theory Entertainment - Netflix",
+      "Distributed by": "Netflix",
+      "Release date": "- June 28, 2018",
+      "Running time": "97 minutes",
+      "Countries": "United States \u00b7 Serbia \u00b7 Czech Republic \u00b7 Canada",
+      "Language": "English"
+    }
+  }
+}

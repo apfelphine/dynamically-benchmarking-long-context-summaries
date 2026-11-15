@@ -1,0 +1,14 @@
+## Global Education System Comparison
+
+**System Variations and Key Features:**
+Global education systems are highly diverse, ranging from decentralized models (e.g., Canada) to structured ones (e.g., Czech Republic). Common global hurdles include ensuring equity, managing resources (a major issue for Pakistan), and balancing national identity with local autonomy. Educational priorities differ globally, with some nations emphasizing rigorous testing (Japan, South Korea) while others focus on religious instruction (Saudi Arabia).
+
+**Regional Case Studies:**
+
+*   **Mexico:** Its system navigates historical tensions between secular state authority and the Catholic Church, moving from centralized nationalism through socialist phases to modern decentralization in the 1990s, encompassing primary (1–6) to high school (10–12) and addressing indigenous inclusion.
+*   **Bangladesh:** Despite reaching 74.66% literacy in 2022, it contends with rote learning dependency, weak Outcome-based Education (OBE), low public spending (2.2% of GDP in 2007), and refugee integration challenges.
+*   **Saudi Arabia:** Managed by the Ministry of Education, it offers free schooling with a dual emphasis on religious instruction and modernization. The compulsory structure covers primary (6 years), intermediate (3 years), and secondary (3 years), supported by 24 universities, with post-2021 reforms aiming to boost critical thinking and vocational skills aligned with the 2030 Vision.
+*   **New Zealand:** Its education spans from pre-European Māori knowledge ($\text{wānanga}$) to a free, compulsory, secular system established in the 1870s, covering ages 5-19 across primary, secondary, and tertiary levels.
+
+**New Zealand: Structure, Indigenous Language, Funding, and Performance:**
+New Zealand's schooling structure generally runs for four terms annually, and while it incorporates historical manual training, a key focus is revitalizing the Māori language through immersion pathways ($\text{kōhanga}$ and $\text{kura kaupapa}$), alongside standard English education. Funding for K-12 is per-student, with targeted support for disadvantaged schools; teacher salaries are fixed nationally, and the Ongoing Resource Scheme ($\text{ORS}$) assists special needs students. Tertiary education operates under the New Zealand Qualifications Framework, supported by government subsidies and student loans. However, the system shows mixed results: while some reports praised it, assessments like TIMSS pointed to underperformance in basic math. Furthermore, there is a recognized need to improve the academic achievement of Māori and Pacific Island students compared to Pākehā students, and school bullying is a prevalent issue that has prompted calls for mandatory anti-bullying programs with limited success thus far.

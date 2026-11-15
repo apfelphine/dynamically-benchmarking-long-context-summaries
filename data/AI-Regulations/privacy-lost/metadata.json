@@ -1,0 +1,28 @@
+{
+  "id": 78533029,
+  "title": "Privacy Lost",
+  "url": "https://en.wikipedia.org/wiki/Privacy_Lost",
+  "path": "AI-Regulations\\privacy-lost",
+  "summary": {
+    "chars": 269,
+    "tokens": 50
+  },
+  "document": {
+    "chars": 1902,
+    "tokens": 352
+  },
+  "infobox": {
+    "title": "Privacy Lost",
+    "data": {
+      "Directed by": "Peter Stoel, Robert Berger",
+      "Written by": "Louis Rosenberg",
+      "Produced by": "Louis Rosenberg, Peter Stoel",
+      "Starring": "Brian Kant \u00b7 Michael Krass \u00b7 Estelle Levinson \u00b7 Thor van der Linden \u00b7 Carlijn van Ramshorst",
+      "Cinematography": "Robert Berger",
+      "Production \u00b7 companies": "Minderoo Pictures, Responsible Metaverse Alliance, XR Guild",
+      "Release date": "- 2023",
+      "Country": "United States",
+      "Language": "English"
+    }
+  }
+}

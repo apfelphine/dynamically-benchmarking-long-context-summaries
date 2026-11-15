@@ -1,0 +1,26 @@
+{
+  "id": 78018,
+  "title": "John Mauchly",
+  "url": "https://en.wikipedia.org/wiki/John_Mauchly",
+  "path": "Comp-Sci-Pioneers\\john-mauchly",
+  "summary": {
+    "chars": 988,
+    "tokens": 238
+  },
+  "document": {
+    "chars": 13139,
+    "tokens": 2857
+  },
+  "infobox": {
+    "title": "John Mauchly",
+    "data": {
+      "Born": "August 30, 1907 \u00b7 Cincinnati, Ohio, US",
+      "Died": "January 8, 1980 (aged 72) \u00b7 Ambler, Pennsylvania, US",
+      "Alma mater": "Johns Hopkins University",
+      "Known for": "ENIAC, UNIVAC, Mauchly's sphericity test",
+      "Awards": "Harry H. Goode Memorial Award (1966) \u00b7 Harold Pender Award (1973) \u00b7 IEEE Emanuel R. Piore Award (1978)",
+      "Fields": "Physics",
+      "Institutions": "Ursinus College \u00b7 University of Pennsylvania"
+    }
+  }
+}

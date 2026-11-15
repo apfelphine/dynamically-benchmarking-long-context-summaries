@@ -1,0 +1,24 @@
+{
+  "id": 172209,
+  "title": "Rhodes Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Rhodes_Scholarship",
+  "path": "Scholarships\\rhodes-scholarship",
+  "summary": {
+    "chars": 2127,
+    "tokens": 381
+  },
+  "document": {
+    "chars": 32498,
+    "tokens": 6429
+  },
+  "infobox": {
+    "title": "Rhodes Scholarship",
+    "data": {
+      "Awarded for": "Postgraduate study at the University of Oxford",
+      "Sponsored by": "Rhodes Trust",
+      "Location": "Oxford, England",
+      "Established": "1902",
+      "Website": "www.rhodeshouse.ox.ac.uk"
+    }
+  }
+}

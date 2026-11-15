@@ -1,0 +1,296 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Donald Knuth\n### Biography & Career:\nDonald Knuth, born in Milwaukee, excelled academically early in life and pursued mathematics at Case Institute and Caltech, obtaining his PhD in 1963. He contributed significantly to compiler theory and programming languages, consulting for Burroughs Corporation (notably influencing ALGOL), and eventually joining Stanford University, where his academic legacy flourished.",
+        "text_original": "Donald Knuth, born in Milwaukee, excelled academically early in life and pursued mathematics at Case Institute and Caltech, obtaining his PhD in 1963. He contributed significantly to compiler theory and programming languages, consulting for Burroughs Corporation (notably influencing ALGOL), and eventually joining Stanford University, where his academic legacy flourished",
+        "idx_start": 121,
+        "idx_end": 493
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Donald Knuth\n### Writings:\nKnuth\u2019s magnum opus is *The Art of Computer Programming* , a multi-volume foundational series in computer science, recognized for its rigor and narrative style. He also authored *Surreal Numbers* and contributed to recreational mathematics and linguistic puzzles.",
+        "text_original": "Knuth\u2019s magnum opus is *The Art of Computer Programming*, a multi-volume foundational series in computer science, recognized for its rigor and narrative style. He also authored *Surreal Numbers* and contributed to recreational mathematics and linguistic puzzles",
+        "idx_start": 512,
+        "idx_end": 773
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Donald Knuth\n### Programming Innovations:\nIn response to publishing challenges, Knuth invented TeX and Metafont, revolutionizing digital typesetting. He pioneered literate programming, emphasizing code as human-readable literature.",
+        "text_original": "In response to publishing challenges, Knuth invented TeX and Metafont, revolutionizing digital typesetting. He pioneered literate programming, emphasizing code as human-readable literature",
+        "idx_start": 807,
+        "idx_end": 995
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Donald Knuth\n### Personal and Awards:\nKnown for humor, mentorship, and advocacy against trivial software patents, Knuth has received major awards including the Turing Award and National Medal of Science, and was honored globally for his contributions.",
+        "text_original": "Known for humor, mentorship, and advocacy against trivial software patents, Knuth has received major awards including the Turing Award and National Medal of Science, and was honored globally for his contributions",
+        "idx_start": 1025,
+        "idx_end": 1237
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Claude Shannon\n### Biography:\nClaude Shannon, raised in Michigan, showed early aptitude for engineering and mathematics, later earning degrees at University of Michigan and MIT. His master's thesis connected Boolean algebra to switching circuits, laying the groundwork for digital computing.\n**Major Contributions:**\n- **Information Theory:** Shannon\u2019s 1948 paper introduced information entropy, fundamentally shaping communication, language processing, cryptography, and digital transmission.\n- **Logic Circuits & Cryptography:** His work formalized digital circuit design and cryptographic security, proving the one-time pad\u2019s unbreakability.\n- **Artificial Intelligence:** Shannon built Theseus, an early learning device, and contributed seminal AI research, including foundational involvement in the Dartmouth summer project.\n- **Other Work:** He estimated chess complexity and invented novel gadgets, showing inventiveness beyond academia.",
+        "text_original": "Claude Shannon, raised in Michigan, showed early aptitude for engineering and mathematics, later earning degrees at University of Michigan and MIT. His master's thesis connected Boolean algebra to switching circuits, laying the groundwork for digital computing.\n\n**Major Contributions:**  \n- **Information Theory:** Shannon\u2019s 1948 paper introduced information entropy, fundamentally shaping communication, language processing, cryptography, and digital transmission.\n- **Logic Circuits & Cryptography:** His work formalized digital circuit design and cryptographic security, proving the one-time pad\u2019s unbreakability.\n- **Artificial Intelligence:** Shannon built Theseus, an early learning device, and contributed seminal AI research, including foundational involvement in the Dartmouth summer project.\n- **Other Work:** He estimated chess complexity and invented novel gadgets, showing inventiveness beyond academia",
+        "idx_start": 1281,
+        "idx_end": 2197
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Claude Shannon\n### Legacy and Recognition:\nShannon\u2019s theories are essential to the digital age. He is widely celebrated, with numerous statues, awards (including the National Medal of Science, Kyoto Prize), and even has technology and currency units named for him. The centenary of his birth in 2016 prompted global commemoration.",
+        "text_original": "Shannon\u2019s theories are essential to the digital age. He is widely celebrated, with numerous statues, awards (including the National Medal of Science, Kyoto Prize), and even has technology and currency units named for him. The centenary of his birth in 2016 prompted global commemoration",
+        "idx_start": 2230,
+        "idx_end": 2516
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Lynn Conway\n### Early Life & Gender Transition:\nBorn in 1938, Conway\u2019s career began at IBM, where she invented superscalar scheduling, but was fired after revealing her intent to transition gender. She restarted her career under a new identity, later acknowledged and honored by IBM.",
+        "text_original": "Born in 1938, Conway\u2019s career began at IBM, where she invented superscalar scheduling, but was fired after revealing her intent to transition gender. She restarted her career under a new identity, later acknowledged and honored by IBM",
+        "idx_start": 2578,
+        "idx_end": 2812
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Lynn Conway\n### Technical Legacy:\nAt Xerox PARC, Conway, collaborating with Carver Mead, co-developed VLSI design methodology and infrastructure (MOSIS), democratizing chip design and spurring the growth of the electronic design automation industry. Her work laid a foundation for the modern semiconductor industry and fostered the foundry model.",
+        "text_original": "At Xerox PARC, Conway, collaborating with Carver Mead, co-developed VLSI design methodology and infrastructure (MOSIS), democratizing chip design and spurring the growth of the electronic design automation industry. Her work laid a foundation for the modern semiconductor industry and fostered the foundry model",
+        "idx_start": 2839,
+        "idx_end": 3150
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Lynn Conway\n### Activism:\nA transgender rights advocate, Conway\u2019s openness inspired greater inclusion in technology fields. She campaigned for trans representation in professional organizations and authored resources supporting transgender individuals.",
+        "text_original": "A transgender rights advocate, Conway\u2019s openness inspired greater inclusion in technology fields. She campaigned for trans representation in professional organizations and authored resources supporting transgender individuals",
+        "idx_start": 3169,
+        "idx_end": 3394
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Lynn Conway\n### Awards & Honors:\nConway received major recognitions including the IEEE Computer Pioneer Award, National Medal of Technology, National Academy of Engineering membership, and was inducted into the National Inventors Hall of Fame.",
+        "text_original": "Conway received major recognitions including the IEEE Computer Pioneer Award, National Medal of Technology, National Academy of Engineering membership, and was inducted into the National Inventors Hall of Fame",
+        "idx_start": 3420,
+        "idx_end": 3629
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Edsger W. Dijkstra\n### Biography & Personality:\nDutch-born Dijkstra pioneered programming as an intellectual discipline. He worked at the Mathematisch Centrum, Eindhoven University, Burroughs Corporation, and University of Texas at Austin, earning a reputation for advocating clarity, self-reliance, and wit.\n**Key Contributions:**\n- **Structured Programming:** Advocated replacing unstructured jumps with organized control constructs.\n- **Algorithms & Operating Systems:** Invented Dijkstra\u2019s algorithm, THE operating system, Banker's algorithm, and introduced semaphore and self-stabilization concepts.\n- **Writing:** Author of more than 1,300 EWD reports (essays, parables, letters), noted for their elegant, hand-written style.",
+        "text_original": "Dutch-born Dijkstra pioneered programming as an intellectual discipline. He worked at the Mathematisch Centrum, Eindhoven University, Burroughs Corporation, and University of Texas at Austin, earning a reputation for advocating clarity, self-reliance, and wit.\n\n**Key Contributions:**  \n- **Structured Programming:** Advocated replacing unstructured jumps with organized control constructs.\n- **Algorithms & Operating Systems:** Invented Dijkstra\u2019s algorithm, THE operating system, Banker's algorithm, and introduced semaphore and self-stabilization concepts.\n- **Writing:** Author of more than 1,300 EWD reports (essays, parables, letters), noted for their elegant, hand-written style",
+        "idx_start": 3691,
+        "idx_end": 4376
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Edsger W. Dijkstra\n### Legacy & Awards:\nDijkstra won the Turing Award, influenced operating systems and algorithm theory, and is commemorated through awards and lectures named for him.",
+        "text_original": "Dijkstra won the Turing Award, influenced operating systems and algorithm theory, and is commemorated through awards and lectures named for him",
+        "idx_start": 4402,
+        "idx_end": 4545
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Kurt G\u00f6del\n### Life & Work:\nG\u00f6del, Austrian mathematician/logician, is famed for his incompleteness theorems, showing limits to provability within formal systems. He contributed major results to logic, set theory, and even general relativity, and was closely associated with Einstein at IAS, Princeton.",
+        "text_original": "G\u00f6del, Austrian mathematician/logician, is famed for his incompleteness theorems, showing limits to provability within formal systems. He contributed major results to logic, set theory, and even general relativity, and was closely associated with Einstein at IAS, Princeton",
+        "idx_start": 4587,
+        "idx_end": 4860
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Kurt G\u00f6del\n### Philosophy & Legacy:\nHis ideas resonated through mathematics, logic, and philosophy. G\u00f6del was an idealist and theist, believing in rationality and afterlife. He is widely honored, with societies, prizes, and cultural references bearing his name.",
+        "text_original": "His ideas resonated through mathematics, logic, and philosophy. G\u00f6del was an idealist and theist, believing in rationality and afterlife. He is widely honored, with societies, prizes, and cultural references bearing his name",
+        "idx_start": 4890,
+        "idx_end": 5114
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Herbert A. Simon\n### Career:\nSimon was an American polymath in social science, economics, psychology, and computer science, teaching at Carnegie Mellon and pioneering decision-making theory ( *Administrative Behavior* ).\n**Research Contributions:**\n- **Decision-making & Bounded Rationality:** Explored organizational and individual decision processes, introducing the concept of satisficing.\n- **Artificial Intelligence:** Co-developed pioneering AI programs and contributed to expert systems, problem solving theory, and cognitive psychology.\n- **Economics & Sociology:** Revolutionized microeconomics by modeling realistic, bounded rational behavior.",
+        "text_original": "Simon was an American polymath in social science, economics, psychology, and computer science, teaching at Carnegie Mellon and pioneering decision-making theory (*Administrative Behavior*).\n\n**Research Contributions:**  \n- **Decision-making & Bounded Rationality:** Explored organizational and individual decision processes, introducing the concept of satisficing.\n- **Artificial Intelligence:** Co-developed pioneering AI programs and contributed to expert systems, problem solving theory, and cognitive psychology.\n- **Economics & Sociology:** Revolutionized microeconomics by modeling realistic, bounded rational behavior",
+        "idx_start": 5157,
+        "idx_end": 5781
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Herbert A. Simon\n### Awards:\nSimon won the Nobel Prize in Economics, Turing Award, and numerous honors for contributions across disciplines.",
+        "text_original": "Simon won the Nobel Prize in Economics, Turing Award, and numerous honors for contributions across disciplines",
+        "idx_start": 5798,
+        "idx_end": 5908
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Ismail al-Jazari\n### Biography & Innovations:\nMedieval engineer Al-Jazari (Upper Mesopotamia, 12th century) served as chief engineer at Artuklu Palace. He authored *The Book of Knowledge of Ingenious Mechanical Devices* , detailing automata, clocks, water-raising machines, and mechanisms like camshafts, crankshafts, and early programmable devices.",
+        "text_original": "Medieval engineer Al-Jazari (Upper Mesopotamia, 12th century) served as chief engineer at Artuklu Palace. He authored *The Book of Knowledge of Ingenious Mechanical Devices*, detailing automata, clocks, water-raising machines, and mechanisms like camshafts, crankshafts, and early programmable devices",
+        "idx_start": 5968,
+        "idx_end": 6269
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Ismail al-Jazari\n### Legacy:\nDubbed a practical engineer, his inventions anticipated modern machinery and robotics. He influenced both Islamic and Western mechanics and is regarded as an artist for his illustrated manuscripts.",
+        "text_original": "Dubbed a practical engineer, his inventions anticipated modern machinery and robotics. He influenced both Islamic and Western mechanics and is regarded as an artist for his illustrated manuscripts",
+        "idx_start": 6286,
+        "idx_end": 6482
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Per Brinch Hansen\n### Biography & Career:\nDanish computer scientist Brinch Hansen was instrumental in operating systems, concurrent programming, and distributed computing. His work began at Regnecentralen (RC 4000 system), continued at Carnegie Mellon, Caltech, USC, and Syracuse.",
+        "text_original": "Danish computer scientist Brinch Hansen was instrumental in operating systems, concurrent programming, and distributed computing. His work began at Regnecentralen (RC 4000 system), continued at Carnegie Mellon, Caltech, USC, and Syracuse",
+        "idx_start": 6538,
+        "idx_end": 6775
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Per Brinch Hansen\n### Scientific Contributions:\nHe introduced the microkernel concept, affordable multiprogramming, and, with Hoare, the monitor construct. He developed programming languages (Concurrent Pascal, Joyce, Edison, SuperPascal), distributed process ideas, and championed clear, tested implementations.",
+        "text_original": "He introduced the microkernel concept, affordable multiprogramming, and, with Hoare, the monitor construct. He developed programming languages (Concurrent Pascal, Joyce, Edison, SuperPascal), distributed process ideas, and championed clear, tested implementations",
+        "idx_start": 6810,
+        "idx_end": 7073
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Per Brinch Hansen\n### Legacy & Awards:\nBrinch Hansen's emphasis on simplicity and clarity deeply influenced concurrent system design. He received the IEEE Computer Pioneer Award and other honors.",
+        "text_original": "Brinch Hansen's emphasis on simplicity and clarity deeply influenced concurrent system design. He received the IEEE Computer Pioneer Award and other honors",
+        "idx_start": 7099,
+        "idx_end": 7254
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Geoffrey Hinton\n### Education & Career:\nBritish cognitive psychologist and computer scientist Hinton, descendant of George Boole, studied at Cambridge and Edinburgh. His pioneering research in neural networks, deep learning, and AI has spanned academia (Toronto, CMU, UCL), Google, and CIFAR.\n**Contributions:**\n- **Neural Networks & AI:** Pioneered backpropagation, Boltzmann machines, capsule networks, and contrastive learning.\n- **Advocacy & Philosophy:** Critiques current neural network limitations and advocates for hierarchical, self-organizing, and analog computation models.\n- **Risks of AI:** Now cautions about AI existential risks and ethical concerns, calling for regulation and public debate.",
+        "text_original": "British cognitive psychologist and computer scientist Hinton, descendant of George Boole, studied at Cambridge and Edinburgh. His pioneering research in neural networks, deep learning, and AI has spanned academia (Toronto, CMU, UCL), Google, and CIFAR.\n\n**Contributions:**  \n- **Neural Networks & AI:** Pioneered backpropagation, Boltzmann machines, capsule networks, and contrastive learning.\n- **Advocacy & Philosophy:** Critiques current neural network limitations and advocates for hierarchical, self-organizing, and analog computation models.\n- **Risks of AI:** Now cautions about AI existential risks and ethical concerns, calling for regulation and public debate",
+        "idx_start": 7308,
+        "idx_end": 7977
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Geoffrey Hinton\n### Awards & Honors:\nWinner of the Turing Award, Nobel Prize in Physics (2024), and numerous international honors.",
+        "text_original": "Winner of the Turing Award, Nobel Prize in Physics (2024), and numerous international honors",
+        "idx_start": 8003,
+        "idx_end": 8095
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Al-Khwarizmi\n### Biography & Achievements:\nPersian mathematician, astronomer, and geographer, al-Khwarizmi flourished in the early Abbasid period, working at the House of Wisdom in Baghdad. He authored seminal texts on algebra ( *Al-Jabr* ), arithmetic, astronomy, and geography.",
+        "text_original": "Persian mathematician, astronomer, and geographer, al-Khwarizmi flourished in the early Abbasid period, working at the House of Wisdom in Baghdad. He authored seminal texts on algebra (*Al-Jabr*), arithmetic, astronomy, and geography",
+        "idx_start": 8152,
+        "idx_end": 8385
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Al-Khwarizmi\n### Legacy:\nHis name is the origin of \"algorithm.\" His systematic approach to equations founded the field of algebra, popularized Hindu-Arabic numerals, and advanced trigonometry and cartography.",
+        "text_original": "His name is the origin of \"algorithm.\" His systematic approach to equations founded the field of algebra, popularized Hindu-Arabic numerals, and advanced trigonometry and cartography",
+        "idx_start": 8402,
+        "idx_end": 8584
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## George Antheil\n### Life & Work:\nAmerican composer and inventor George Antheil, famed for avant-garde music ( *Ballet M\u00e9canique* ), pioneered mechanical music, wrote for Hollywood, and engaged in diverse interests including relationship advice and glandular theories.",
+        "text_original": "American composer and inventor George Antheil, famed for avant-garde music (*Ballet M\u00e9canique*), pioneered mechanical music, wrote for Hollywood, and engaged in diverse interests including relationship advice and glandular theories",
+        "idx_start": 8630,
+        "idx_end": 8861
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## George Antheil\n### Invention:\nDuring WWII, with actress Hedy Lamarr, he co-invented frequency-hopping spread spectrum technology, later foundational for secure communications and wireless technology.",
+        "text_original": "During WWII, with actress Hedy Lamarr, he co-invented frequency-hopping spread spectrum technology, later foundational for secure communications and wireless technology",
+        "idx_start": 8881,
+        "idx_end": 9049
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Gottlob Frege\n### Biography & Contributions:\nGerman mathematician/logician Frege invented modern predicate logic and axiomatic approach foundational to mathematics and computer science. His *Begriffsschrift* and *Grundgesetze der Arithmetik* were groundbreaking.",
+        "text_original": "German mathematician/logician Frege invented modern predicate logic and axiomatic approach foundational to mathematics and computer science. His *Begriffsschrift* and *Grundgesetze der Arithmetik* were groundbreaking",
+        "idx_start": 9108,
+        "idx_end": 9324
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Gottlob Frege\n### Philosophy:\nFrege\u2019s distinction between sense and reference profoundly shaped the philosophy of language. Despite late-life antisemitism, his technical contributions are universally recognized.",
+        "text_original": "Frege\u2019s distinction between sense and reference profoundly shaped the philosophy of language. Despite late-life antisemitism, his technical contributions are universally recognized",
+        "idx_start": 9345,
+        "idx_end": 9525
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Ramon Llull\n### Life & Mission:\nCatalan philosopher Llull devoted his life to missionary work and integrating logic, language, and theology. His *Art* (Ars) system used combinatorial logic, diagrams, and algebraic methods to prove theological truths and foster interfaith debate.",
+        "text_original": "Catalan philosopher Llull devoted his life to missionary work and integrating logic, language, and theology. His *Art* (Ars) system used combinatorial logic, diagrams, and algebraic methods to prove theological truths and foster interfaith debate",
+        "idx_start": 9571,
+        "idx_end": 9817
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Ramon Llull\n### Impact:\nLlull influenced medieval, Renaissance, and modern thought, including alchemy, combinatorics, and universal logic. He is recognized as a literary figure and precursor to computation and voting systems.",
+        "text_original": "Llull influenced medieval, Renaissance, and modern thought, including alchemy, combinatorics, and universal logic. He is recognized as a literary figure and precursor to computation and voting systems",
+        "idx_start": 9834,
+        "idx_end": 10034
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Grace Hopper\n### Early Life & Career:\nGrace Hopper, U.S. Navy admiral and computer scientist, pioneered programming languages and computer science education. She contributed to the Harvard Mark I and led the development of compilers and FLOW-MATIC, influencing COBOL.",
+        "text_original": "Grace Hopper, U.S. Navy admiral and computer scientist, pioneered programming languages and computer science education. She contributed to the Harvard Mark I and led the development of compilers and FLOW-MATIC, influencing COBOL",
+        "idx_start": 10086,
+        "idx_end": 10314
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Grace Hopper\n### Legacy:\nKnown for coining \"debugging,\" promoting programming in English, and advocating computer networking, Hopper\u2019s leadership transformed computing and inspired generations of women in STEM. She is commemorated with numerous awards, ships, and institutions named after her.",
+        "text_original": "Known for coining \"debugging,\" promoting programming in English, and advocating computer networking, Hopper\u2019s leadership transformed computing and inspired generations of women in STEM. She is commemorated with numerous awards, ships, and institutions named after her",
+        "idx_start": 10331,
+        "idx_end": 10598
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## George Boole\n### Life & Work:\nEnglish mathematician George Boole laid the foundations for symbolic logic and Boolean algebra, crucial for the development of computers. Self-taught, he rose to professorship and advanced operational methods, invariant theory, and logical foundations of mathematics.",
+        "text_original": "English mathematician George Boole laid the foundations for symbolic logic and Boolean algebra, crucial for the development of computers. Self-taught, he rose to professorship and advanced operational methods, invariant theory, and logical foundations of mathematics",
+        "idx_start": 10642,
+        "idx_end": 10908
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## George Boole\n### Legacy:\nHis logic enabled digital circuit design, later formalized by Claude Shannon. Boole\u2019s concepts underpin all modern computing, programming, and information theory; he is honored in academia, technology, and global celebrations.",
+        "text_original": "His logic enabled digital circuit design, later formalized by Claude Shannon. Boole\u2019s concepts underpin all modern computing, programming, and information theory; he is honored in academia, technology, and global celebrations",
+        "idx_start": 10925,
+        "idx_end": 11150
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Federico Faggin\n### Education & Silicon Valley Career:\nItalian-American physicist and engineer Federico Faggin pioneered silicon-gate MOS technology at Fairchild, enabling speedier, smaller integrated circuits. At Intel, he led the design of the first commercial microprocessor (4004), then the 8008, 8080, and founded Zilog (Z80 microprocessor).",
+        "text_original": "Italian-American physicist and engineer Federico Faggin pioneered silicon-gate MOS technology at Fairchild, enabling speedier, smaller integrated circuits. At Intel, he led the design of the first commercial microprocessor (4004), then the 8008, 8080, and founded Zilog (Z80 microprocessor",
+        "idx_start": 11219,
+        "idx_end": 11508
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Federico Faggin\n### Innovations:\nHis work made modern personal computing possible and advanced touchpad, touchscreens (Synaptics), and digital imaging (Foveon). He now advocates for research in the science of consciousness.",
+        "text_original": "His work made modern personal computing possible and advanced touchpad, touchscreens (Synaptics), and digital imaging (Foveon). He now advocates for research in the science of consciousness",
+        "idx_start": 11531,
+        "idx_end": 11720
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Federico Faggin\n### Honors:\nFaggin holds over 100 patents, received the National Medal of Technology, and is recognized as a global innovator in microelectronics.",
+        "text_original": "Faggin holds over 100 patents, received the National Medal of Technology, and is recognized as a global innovator in microelectronics",
+        "idx_start": 11737,
+        "idx_end": 11870
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Kenneth E. Iverson\n### Life & Contributions:\nCanadian mathematician, war veteran, and IBM Fellow, Iverson developed the APL programming language, influencing array-oriented computing and programming notation. His focus on clarity and powerful, concise notation impacted teaching, system design, and language evolution, later leading to the J language.",
+        "text_original": "Canadian mathematician, war veteran, and IBM Fellow, Iverson developed the APL programming language, influencing array-oriented computing and programming notation. His focus on clarity and powerful, concise notation impacted teaching, system design, and language evolution, later leading to the J language",
+        "idx_start": 11929,
+        "idx_end": 12234
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Kenneth E. Iverson\n### Recognition:\nIverson was honored with the Turing Award and other accolades for his enduring innovations in programming languages.",
+        "text_original": "Iverson was honored with the Turing Award and other accolades for his enduring innovations in programming languages",
+        "idx_start": 12256,
+        "idx_end": 12371
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Jacek Karpi\u0144ski\n### Life & Work:\nPolish computer scientist Karpi\u0144ski overcame war injuries and political challenges to develop pioneering computing devices (e.g., AKAT-1, KAR-65, Polish perceptron, and K-202 minicomputer). Despite their technical excellence, his inventions faced censorship and bureaucratic obstruction under communist Poland.",
+        "text_original": "Polish computer scientist Karpi\u0144ski overcame war injuries and political challenges to develop pioneering computing devices (e.g., AKAT-1, KAR-65, Polish perceptron, and K-202 minicomputer). Despite their technical excellence, his inventions faced censorship and bureaucratic obstruction under communist Poland",
+        "idx_start": 12418,
+        "idx_end": 12727
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computing, Mathematics, and Engineering\n## Jacek Karpi\u0144ski\n### Controversies & Later Life:\nKarpi\u0144ski\u2019s collaborations with state intelligence and the under-realized potential of his designs led to debate. He later worked abroad and advised post-communist leaders, earning recognition for his scientific achievements.\n*This summary distills key achievements, career highlights, innovations, and legacies of major figures who shaped the digital, mathematical, and engineering foundations of the modern world.*",
+        "text_original": "Karpi\u0144ski\u2019s collaborations with state intelligence and the under-realized potential of his designs led to debate. He later worked abroad and advised post-communist leaders, earning recognition for his scientific achievements.\n\n---\n\n*This summary distills key achievements, career highlights, innovations, and legacies of major figures who shaped the digital, mathematical, and engineering foundations of the modern world",
+        "idx_start": 12764,
+        "idx_end": 13184
+    }
+]

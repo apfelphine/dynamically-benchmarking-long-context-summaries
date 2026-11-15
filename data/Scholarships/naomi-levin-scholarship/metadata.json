@@ -1,0 +1,27 @@
+{
+  "id": 18166975,
+  "title": "Naomi Levin Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Royal_Manitoba_Theatre_Centre",
+  "path": "Scholarships\\naomi-levin-scholarship",
+  "summary": {
+    "chars": 556,
+    "tokens": 122
+  },
+  "document": {
+    "chars": 2641,
+    "tokens": 597
+  },
+  "infobox": {
+    "title": "Royal Manitoba Theatre Centre",
+    "data": {
+      "Former names": "Winnipeg Little Theatre \u00b7 Theatre 77",
+      "Location": "Winnipeg, Manitoba, Canada",
+      "Coordinates": "49\u00b053\u203255.5\u2033N 97\u00b008\u203211.1\u2033W\ufeff / \ufeff49.898750\u00b0N 97.136417\u00b0W",
+      "Elevation": "238 metres (781 ft)",
+      "Public transit": "Concert Hall / City Hall",
+      "Operator": "Manitoba Centennial Centre",
+      "Type": "Theatre",
+      "Capacity": "785 seats"
+    }
+  }
+}

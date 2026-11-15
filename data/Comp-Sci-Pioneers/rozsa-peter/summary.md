@@ -1,0 +1,1 @@
+Rózsa Péter, until January 1934 Rózsa Politzer, (17 February 1905 – 16 February 1977) was a Hungarian mathematician and logician. She is best known as the "founding mother of recursion theory".

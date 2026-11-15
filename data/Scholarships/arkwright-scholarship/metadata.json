@@ -1,0 +1,26 @@
+{
+  "id": 32286737,
+  "title": "Arkwright Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Arkwright_Scholarship",
+  "path": "Scholarships\\arkwright-scholarship",
+  "summary": {
+    "chars": 522,
+    "tokens": 103
+  },
+  "document": {
+    "chars": 1949,
+    "tokens": 379
+  },
+  "infobox": {
+    "title": "Arkwright Engineering Scholarships",
+    "data": {
+      "Founded": "1991",
+      "Type": "Non-Profit Educational Organisation",
+      "Focus": "Engineering & Technical Design",
+      "Area served": "United Kingdom",
+      "Product": "Engineering scholarships for selected students studying 'A' levels, Scottish Highers and International Baccalaureate",
+      "Parent organization": "Smallpeice Trust",
+      "Website": "www.arkwright.org.uk"
+    }
+  }
+}

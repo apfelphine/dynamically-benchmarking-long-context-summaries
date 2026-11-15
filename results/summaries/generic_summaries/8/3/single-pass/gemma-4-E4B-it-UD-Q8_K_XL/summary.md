@@ -1,0 +1,44 @@
+# Summary of Global Education Systems
+
+## Romania
+Education is compulsory for 15 years, with private involvement being minimal outside of kindergarten and university. Historically, mass illiteracy persisted until 1948 literacy campaigns. The system resembles the French model, though it was influenced by the Soviet system during the communist era. Compulsory education length has fluctuated significantly, eventually reaching 14 years in 2020, with the middle kindergarten form becoming mandatory in 2023.
+
+Kindergarten programs vary, with private services holding a large market share, while public kindergartens in urban areas offer different schedules. Elementary school uses a "calificative" system for the first four years, switching to a 1-10 grading scale from 5th grade onwards. High school admission requires the national test (Evaluarea Națională), and the curriculum is diverse, covering theoretical, technical, and vocational programs.
+
+## Australia
+Education regulation and funding are managed by states and territories, though the federal government assists in funding non-government schools and subsidizes tertiary education via the HECS loan scheme. The national Australian Curriculum has been progressively implemented since 2010, and the qualifications are unified under the Australian Qualifications Framework.
+
+Public schools educate about two-thirds of students, while non-government schools comprise Catholic and private institutions. Compulsory attendance varies by state, typically from age five to fifteen or seventeen. Performance in 2018 PISA studies showed mixed results, while the 2017 Human Development Index ranked Australia second globally.
+
+## Malaysia
+The Malaysian education system is monitored by the federal Ministry of Education, with policies evolving from colonial structures to the current National Education Blueprint 2013–2025. Education is divided into national-medium schools (Malay-medium) and national-type vernacular schools (Chinese and Tamil).
+
+The Dual Language Program (DLP) aims to enhance English proficiency in STEM subjects, though it faces challenges regarding proficiency in Bahasa Melayu. Secondary education is five years, and students sit for the SPM examination upon graduation. The system grapples with language politics and racial quotas in higher education.
+
+## Portugal
+Portugal's education system has seen significant reform, notably the adoption of the Bologna Process in 2006, which structures tertiary education into three cycles. Basic education is mandatory for nine years, with secondary education branching into general, technological, or artistic programs.
+
+Public education is largely free, though democratization of secondary and higher education only occurred in the 1980s. While the university system is research-oriented, the polytechnic system focuses on practical qualifications. The system is open, allowing transfers between university and polytechnic systems, although private institutions face scrutiny over quality and rigor.
+
+## Philippines
+The Philippine education system has evolved through Spanish, American, Japanese, and subsequent Republics, culminating in the current K-12 program effective in 2012. Basic education is compulsory for 12 years, structured into elementary and secondary levels.
+
+The system emphasizes Mother Tongue-Based Multilingual Education (MTB-MLE) in early grades. Tertiary education is overseen by CHED, with private institutions dominating the sector. Challenges include poor learning outcomes, inadequate funding, and a significant education-employment mismatch.
+
+## South Africa
+South Africa's basic education spans Grade R to Grade 12, categorized into General Education and Training (GET) and Further Education and Training (FET). The system is governed by the South African Schools Act of 1996, promoting access and democratic governance.
+
+Funding is complex, relying on government grants tied to the poverty level of the neighborhood, though supplementary fees are common. While ICT adoption is growing, significant barriers remain, including poor infrastructure and the digital divide. The country faces issues with academic performance, high dropout rates, and pervasive school violence.
+
+## United States
+The U.S. education system is decentralized, with states holding primary control, although the federal government influences policy through initiatives like No Child Left Behind. Education is compulsory until age 16 in most states.
+
+The system features a wide array of institutions, from local community colleges to elite research universities, with access heavily influenced by socioeconomic background. Standardized testing is a controversial aspect, and while spending per student is high, gaps persist across racial and economic groups, linking educational gaps to broader economic disparity.
+
+## Finland
+Finland is internationally recognized for its high-quality, egalitarian system. Basic education is a nine-year comprehensive school, focusing on developing "how to learn" through play, with no high-stakes testing. Upper secondary education is compulsory, offering academic or vocational tracks.
+
+The system is highly decentralized, with municipalities funding most schools, and private schools are prohibited from charging tuition or having selective admissions. All students are entitled to social benefits, such as free meals and healthcare, reflecting a commitment to universal welfare.
+
+## General Observations
+Across these diverse systems, key themes include the tension between centralized mandates and local autonomy, the persistent impact of socioeconomic disparity on educational outcomes, and the ongoing adaptation to global standards (like the Bologna Process or K-12). While some nations prioritize universal access (Finland, Philippines), others struggle with funding equity (U.S., South Africa).

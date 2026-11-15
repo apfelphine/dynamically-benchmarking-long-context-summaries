@@ -1,0 +1,338 @@
+[
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## History:\nFounded in 1891 as Throop College, Caltech transitioned from a vocational school to a premier scientific institute by the early 20th century. Spearheaded by figures like George Ellery Hale and Robert Millikan, it became a hub for groundbreaking research in astronomy, physics, biology, and engineering. Its crucial contributions spanned World War II with rocket and bomb technology. Post-war, Caltech continued its rapid growth, founding the Jet Propulsion Laboratory and advancing research across disciplines. The 21st century features major scientific achievements (e.g., LIGO), significant fundraising, new sustainability initiatives, and an ongoing commitment to diversity and ethical reflection.",
+        "text_original": "Founded in 1891 as Throop College, Caltech transitioned from a vocational school to a premier scientific institute by the early 20th century. Spearheaded by figures like George Ellery Hale and Robert Millikan, it became a hub for groundbreaking research in astronomy, physics, biology, and engineering. Its crucial contributions spanned World War II with rocket and bomb technology. Post-war, Caltech continued its rapid growth, founding the Jet Propulsion Laboratory and advancing research across disciplines. The 21st century features major scientific achievements (e.g., LIGO), significant fundraising, new sustainability initiatives, and an ongoing commitment to diversity and ethical reflection",
+        "idx_start": 62,
+        "idx_end": 761
+    },
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## Campus and Organization:\nLocated in Pasadena, the 124-acre campus blends Spanish mission architecture with modern facilities. It is governed by a board of trustees and organized into six divisions covering science, engineering, humanities, and social sciences. The Jet Propulsion Laboratory is a key federal research center managed by Caltech.",
+        "text_original": "Located in Pasadena, the 124-acre campus blends Spanish mission architecture with modern facilities. It is governed by a board of trustees and organized into six divisions covering science, engineering, humanities, and social sciences. The Jet Propulsion Laboratory is a key federal research center managed by Caltech",
+        "idx_start": 795,
+        "idx_end": 1112
+    },
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## Academics and Admissions:\nCaltech is highly selective, with admit rates among the nation\u2019s lowest. Students pursue rigorous STEM and interdisciplinary programs, supported by a core curriculum emphasizing math, physics, chemistry, biology, and humanities. Financial aid is robust, and graduate programs are highly competitive.",
+        "text_original": "Caltech is highly selective, with admit rates among the nation\u2019s lowest. Students pursue rigorous STEM and interdisciplinary programs, supported by a core curriculum emphasizing math, physics, chemistry, biology, and humanities. Financial aid is robust, and graduate programs are highly competitive",
+        "idx_start": 1147,
+        "idx_end": 1445
+    },
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## Research:\nClassified as an R1 university, Caltech has substantial federal funding and infrastructure for high-impact STEM research. It manages key observatories, labs, and centers and encourages undergraduate research with programs like SURF.",
+        "text_original": "Classified as an R1 university, Caltech has substantial federal funding and infrastructure for high-impact STEM research. It manages key observatories, labs, and centers and encourages undergraduate research with programs like SURF",
+        "idx_start": 1464,
+        "idx_end": 1695
+    },
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## Student Life:\nThe house system dominates residential life. Student traditions include pranks, the Millikan pumpkin-drop, and Ditch Day. Athletics are NCAA Division III, with recent successes after historic losing streaks. Performing and visual arts, as well as campus media, are active.",
+        "text_original": "The house system dominates residential life. Student traditions include pranks, the Millikan pumpkin-drop, and Ditch Day. Athletics are NCAA Division III, with recent successes after historic losing streaks. Performing and visual arts, as well as campus media, are active",
+        "idx_start": 1718,
+        "idx_end": 1989
+    },
+    {
+        "document_idx": null,
+        "text": "# California Institute of Technology (Caltech)\n## Notable People:\nCaltech boasts 48 Nobel Prize recipients among faculty and alumni, plus distinctions like Crafoord, Fields, and Turing Awards. Its alumni have a profound impact in science, technology (Silicon Valley founders), government, and industry.",
+        "text_original": "Caltech boasts 48 Nobel Prize recipients among faculty and alumni, plus distinctions like Crafoord, Fields, and Turing Awards. Its alumni have a profound impact in science, technology (Silicon Valley founders), government, and industry",
+        "idx_start": 2014,
+        "idx_end": 2249
+    },
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## History:\nFounded in 1868 under the Morrill Act, UC Berkeley emerged as California\u2019s first land-grant university, quickly establishing a reputation for advanced research, public service, and social activism. Berkeley was central in the development of nuclear physics, the Manhattan Project, creation of chemical elements, and the Free Speech Movement. It is widely influential in mathematics, engineering, genetics, economics, and computer science.",
+        "text_original": "Founded in 1868 under the Morrill Act, UC Berkeley emerged as California\u2019s first land-grant university, quickly establishing a reputation for advanced research, public service, and social activism. Berkeley was central in the development of nuclear physics, the Manhattan Project, creation of chemical elements, and the Free Speech Movement. It is widely influential in mathematics, engineering, genetics, economics, and computer science",
+        "idx_start": 2309,
+        "idx_end": 2746
+    },
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## Organization and Academics:\nBerkeley is a public research university governed by the UC system\u2019s Board of Regents, with its own chancellor and administration. It has fifteen colleges and schools offering over 350 degree programs. The campus is renowned for historic Beaux-Arts buildings and innovative research facilities.",
+        "text_original": "Berkeley is a public research university governed by the UC system\u2019s Board of Regents, with its own chancellor and administration. It has fifteen colleges and schools offering over 350 degree programs. The campus is renowned for historic Beaux-Arts buildings and innovative research facilities",
+        "idx_start": 2783,
+        "idx_end": 3076
+    },
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## Admissions:\nBerkeley is highly selective, with diverse undergraduate and graduate populations. It remains need-blind for domestic applicants, offers significant financial aid, and serves a broad economic and ethnic spectrum.",
+        "text_original": "Berkeley is highly selective, with diverse undergraduate and graduate populations. It remains need-blind for domestic applicants, offers significant financial aid, and serves a broad economic and ethnic spectrum",
+        "idx_start": 3097,
+        "idx_end": 3308
+    },
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## Research and Innovation:\nBerkeley is a global leader in research, with a historically prolific faculty and alumni. Major scientific breakthroughs include the cyclotron, CRISPR gene editing, and the RISC microprocessor. The university is credited with the discovery of sixteen chemical elements and pioneering companies in technology and social entrepreneurship.",
+        "text_original": "Berkeley is a global leader in research, with a historically prolific faculty and alumni. Major scientific breakthroughs include the cyclotron, CRISPR gene editing, and the RISC microprocessor. The university is credited with the discovery of sixteen chemical elements and pioneering companies in technology and social entrepreneurship",
+        "idx_start": 3342,
+        "idx_end": 3677
+    },
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## Student Life:\nBerkeley features vibrant student organizations, housing cooperatives, and Greek life. Long-standing traditions include the Cal mascot (Oski the Bear), annual rivalry events with Stanford (\"Big Game\"), and inventive spirit events.",
+        "text_original": "Berkeley features vibrant student organizations, housing cooperatives, and Greek life. Long-standing traditions include the Cal mascot (Oski the Bear), annual rivalry events with Stanford (\"Big Game\"), and inventive spirit events",
+        "idx_start": 3700,
+        "idx_end": 3929
+    },
+    {
+        "document_idx": null,
+        "text": "# University of California, Berkeley\n## Notable Alumni and Faculty:\nBerkeley\u2019s distinguished roster includes Nobel laureates, Pulitzer winners, heads of state, billionaires, entrepreneurs, and scientific pioneers in fields such as chemistry, physics, computer science, literature, and athletics.",
+        "text_original": "Berkeley\u2019s distinguished roster includes Nobel laureates, Pulitzer winners, heads of state, billionaires, entrepreneurs, and scientific pioneers in fields such as chemistry, physics, computer science, literature, and athletics",
+        "idx_start": 3966,
+        "idx_end": 4192
+    },
+    {
+        "document_idx": null,
+        "text": "# Massachusetts Institute of Technology (MIT)\n## History:\nFounded in 1861 as a land-grant institution, MIT adopted a rigorous blend of theoretical and practical education, modeled after German research universities. Its curriculum, focus on laboratory work, and independence from Harvard shaped its identity. MIT played a major role in defense research during WWII and the Cold War, and was pivotal in the rise of computing, artificial intelligence, and the hacker culture.",
+        "text_original": "Founded in 1861 as a land-grant institution, MIT adopted a rigorous blend of theoretical and practical education, modeled after German research universities. Its curriculum, focus on laboratory work, and independence from Harvard shaped its identity. MIT played a major role in defense research during WWII and the Cold War, and was pivotal in the rise of computing, artificial intelligence, and the hacker culture",
+        "idx_start": 4261,
+        "idx_end": 4675
+    },
+    {
+        "document_idx": null,
+        "text": "# Massachusetts Institute of Technology (MIT)\n## Campus and Administration:\nLocated in Cambridge, MIT spans 166 acres with historic and modern architectural landmarks. It is governed by the MIT Corporation and organized into five schools and one college, with investments in research facilities, commercial real estate, and sustainability initiatives.",
+        "text_original": "Located in Cambridge, MIT spans 166 acres with historic and modern architectural landmarks. It is governed by the MIT Corporation and organized into five schools and one college, with investments in research facilities, commercial real estate, and sustainability initiatives",
+        "idx_start": 4711,
+        "idx_end": 4985
+    },
+    {
+        "document_idx": null,
+        "text": "# Massachusetts Institute of Technology (MIT)\n## Academics:\nMIT is exceptionally selective, offers need-blind admission, and maintains a demanding curriculum centered on science, technology, and engineering. Core undergraduate requirements include science, HASS, and communication-intensive courses. The \"UROP\" program integrates undergraduates into faculty research.",
+        "text_original": "MIT is exceptionally selective, offers need-blind admission, and maintains a demanding curriculum centered on science, technology, and engineering. Core undergraduate requirements include science, HASS, and communication-intensive courses. The \"UROP\" program integrates undergraduates into faculty research",
+        "idx_start": 5005,
+        "idx_end": 5311
+    },
+    {
+        "document_idx": null,
+        "text": "# Massachusetts Institute of Technology (MIT)\n## Research and Innovation:\nMIT is an R1 university, receiving substantial federal funding and excelling in fields like computing, electronics, biology, physics, and economics. Its faculty and alumni are responsible for breakthroughs including radar, cybernetics, RSA encryption, and the founding of iconic companies (Intel, Bose, Dropbox).",
+        "text_original": "MIT is an R1 university, receiving substantial federal funding and excelling in fields like computing, electronics, biology, physics, and economics. Its faculty and alumni are responsible for breakthroughs including radar, cybernetics, RSA encryption, and the founding of iconic companies (Intel, Bose, Dropbox",
+        "idx_start": 5345,
+        "idx_end": 5655
+    },
+    {
+        "document_idx": null,
+        "text": "# Massachusetts Institute of Technology (MIT)\n## Student Life and Traditions:\nMIT fosters a strong culture of meritocracy, hacking/pranks, and a well-known rivalry with Caltech. Student organizations span technical, recreational, and artistic domains. Athletics include 31 varsity sports, and MIT is a leader in NCAA academic honors.",
+        "text_original": "MIT fosters a strong culture of meritocracy, hacking/pranks, and a well-known rivalry with Caltech. Student organizations span technical, recreational, and artistic domains. Athletics include 31 varsity sports, and MIT is a leader in NCAA academic honors",
+        "idx_start": 5694,
+        "idx_end": 5948
+    },
+    {
+        "document_idx": null,
+        "text": "# Massachusetts Institute of Technology (MIT)\n## Notable People:\nMIT counts 41 Nobel laureates, numerous Turing Award winners, company founders, astronauts, and policy leaders among its alumni and faculty.",
+        "text_original": "MIT counts 41 Nobel laureates, numerous Turing Award winners, company founders, astronauts, and policy leaders among its alumni and faculty",
+        "idx_start": 5973,
+        "idx_end": 6112
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## History:\nEstablished in 1885, Stanford was envisioned as a non-sectarian, coeducational institution. Modeled after Cornell, it rapidly grew from a regional university to a global powerhouse, influencing the birth of Silicon Valley through faculty like Frederick Terman and innovators like William Shockley.",
+        "text_original": "Established in 1885, Stanford was envisioned as a non-sectarian, coeducational institution. Modeled after Cornell, it rapidly grew from a regional university to a global powerhouse, influencing the birth of Silicon Valley through faculty like Frederick Terman and innovators like William Shockley",
+        "idx_start": 6157,
+        "idx_end": 6453
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## Campus and Organization:\nStanford\u2019s campus covers 8,180 acres in Palo Alto, and includes major research institutes (SLAC), international centers, and distinctive architecture. Governed by a board of trustees, Stanford operates seven schools across humanities, sciences, engineering, law, medicine, business, and sustainability.",
+        "text_original": "Stanford\u2019s campus covers 8,180 acres in Palo Alto, and includes major research institutes (SLAC), international centers, and distinctive architecture. Governed by a board of trustees, Stanford operates seven schools across humanities, sciences, engineering, law, medicine, business, and sustainability",
+        "idx_start": 6487,
+        "idx_end": 6788
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## Academics and Admissions:\nStanford\u2019s undergraduate and graduate programs are among the world\u2019s most selective and offer extensive financial aid. The university emphasizes interdisciplinary research, global engagement, and robust arts and humanities programs.",
+        "text_original": "Stanford\u2019s undergraduate and graduate programs are among the world\u2019s most selective and offer extensive financial aid. The university emphasizes interdisciplinary research, global engagement, and robust arts and humanities programs",
+        "idx_start": 6823,
+        "idx_end": 7054
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## Research and Innovation:\nStanford leads in cutting-edge research and entrepreneurship, producing pioneering discoveries (DNA synthesis, lasers, Internet protocols, Google) and hundreds of influential startups (HP, Sun Microsystems, Cisco, Google, LinkedIn, DoorDash).",
+        "text_original": "Stanford leads in cutting-edge research and entrepreneurship, producing pioneering discoveries (DNA synthesis, lasers, Internet protocols, Google) and hundreds of influential startups (HP, Sun Microsystems, Cisco, Google, LinkedIn, DoorDash",
+        "idx_start": 7088,
+        "idx_end": 7328
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## Student Life:\nCampus life includes themed houses, co-ops, diverse student organizations, strong athletic programs (most NCAA team championships), and unique traditions (Big Game, Fountain Hopping, Mausoleum Party). Greek life is present but regulated.",
+        "text_original": "Campus life includes themed houses, co-ops, diverse student organizations, strong athletic programs (most NCAA team championships), and unique traditions (Big Game, Fountain Hopping, Mausoleum Party). Greek life is present but regulated",
+        "idx_start": 7352,
+        "idx_end": 7588
+    },
+    {
+        "document_idx": null,
+        "text": "# Stanford University\n## Notable People:\nStanford\u2019s network features 58 Nobel laureates, heads of state, Supreme Court justices, company founders, and leading academics. Alumni span government, science, arts, technology, and sports.",
+        "text_original": "Stanford\u2019s network features 58 Nobel laureates, heads of state, Supreme Court justices, company founders, and leading academics. Alumni span government, science, arts, technology, and sports",
+        "idx_start": 7613,
+        "idx_end": 7803
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## History:\nFounded in 1829 as a response to secular higher education in London, King\u2019s College has deep Anglican roots and rich tradition, including notable duels and social reforms. Its medical school dates to the 16th century. Over time, King\u2019s evolved via mergers and expansions and became a leading modern research university.",
+        "text_original": "Founded in 1829 as a response to secular higher education in London, King\u2019s College has deep Anglican roots and rich tradition, including notable duels and social reforms. Its medical school dates to the 16th century. Over time, King\u2019s evolved via mergers and expansions and became a leading modern research university",
+        "idx_start": 7850,
+        "idx_end": 8168
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## Campus and Administration:\nKing\u2019s is split across five central London campuses, each hosting specialized faculties in arts, sciences, medicine, and law. The institution is governed by a council and academic board, upholding traditions like the Dean\u2019s role and the Anglican connections.",
+        "text_original": "King\u2019s is split across five central London campuses, each hosting specialized faculties in arts, sciences, medicine, and law. The institution is governed by a council and academic board, upholding traditions like the Dean\u2019s role and the Anglican connections",
+        "idx_start": 8204,
+        "idx_end": 8461
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## Academics:\nKing\u2019s offers a broad academic portfolio, including renowned faculties and top-rated programs in health, law, social sciences, dentistry, and natural sciences. Admissions are competitive (UK/EU and international students), with notable widening participation indicators.",
+        "text_original": "King\u2019s offers a broad academic portfolio, including renowned faculties and top-rated programs in health, law, social sciences, dentistry, and natural sciences. Admissions are competitive (UK/EU and international students), with notable widening participation indicators",
+        "idx_start": 8481,
+        "idx_end": 8750
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## Research and Reputation:\nKing\u2019s is a major center for research (clinical, biomedical, humanities), partner in the Francis Crick Institute, and is active in key London science alliances. It\u2019s ranked among the world\u2019s top 40 universities, with strong graduate employability and robust research income.",
+        "text_original": "King\u2019s is a major center for research (clinical, biomedical, humanities), partner in the Francis Crick Institute, and is active in key London science alliances. It\u2019s ranked among the world\u2019s top 40 universities, with strong graduate employability and robust research income",
+        "idx_start": 8784,
+        "idx_end": 9057
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## Student Life:\nKCLSU facilitates over 300 societies, sports clubs, and media outlets. Traditions include mascot rivalries (Reggie the Lion), varsity competitions, and annual events. Student-led think tanks and music societies are prominent.",
+        "text_original": "KCLSU facilitates over 300 societies, sports clubs, and media outlets. Traditions include mascot rivalries (Reggie the Lion), varsity competitions, and annual events. Student-led think tanks and music societies are prominent",
+        "idx_start": 9080,
+        "idx_end": 9304
+    },
+    {
+        "document_idx": null,
+        "text": "# King\u2019s College London\n## Notable People:\nAssociated with 14 Nobel laureates (including Peter Higgs, Maurice Wilkins, Michael Houghton), King\u2019s alumni include global politicians, writers, artists, scientists, and religious leaders.",
+        "text_original": "Associated with 14 Nobel laureates (including Peter Higgs, Maurice Wilkins, Michael Houghton), King\u2019s alumni include global politicians, writers, artists, scientists, and religious leaders",
+        "idx_start": 9329,
+        "idx_end": 9517
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## History:\nEstablished in 1911 with Boxer Rebellion indemnity funds, Tsinghua began as a preparatory school for students going to the U.S. and evolved into China\u2019s premier university. Incorporated Soviet educational models mid-century, diversified into a comprehensive university in the 1980s, and is a leading force in politics and science.",
+        "text_original": "Established in 1911 with Boxer Rebellion indemnity funds, Tsinghua began as a preparatory school for students going to the U.S. and evolved into China\u2019s premier university. Incorporated Soviet educational models mid-century, diversified into a comprehensive university in the 1980s, and is a leading force in politics and science",
+        "idx_start": 9562,
+        "idx_end": 9891
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## Academics and Organization:\nTsinghua is organized into 20 schools and 57 departments spanning humanities, sciences, engineering, medicine, and management. It is a founding member of major university alliances and maintains a highly multidisciplinary environment.",
+        "text_original": "Tsinghua is organized into 20 schools and 57 departments spanning humanities, sciences, engineering, medicine, and management. It is a founding member of major university alliances and maintains a highly multidisciplinary environment",
+        "idx_start": 9928,
+        "idx_end": 10161
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## Admissions:\nDomestic admissions are through the ultra-competitive gaokao exam. International and graduate admissions are similarly rigorous.",
+        "text_original": "Domestic admissions are through the ultra-competitive gaokao exam. International and graduate admissions are similarly rigorous",
+        "idx_start": 10182,
+        "idx_end": 10309
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## Research and Reputation:\nTsinghua is consistently ranked as the top university in China and one of the top in Asia and the world. It is renowned for research output and subject strengths in engineering, computing, materials science, environment, and economics. Noted for high citation rates, innovation, and strong industry ties.",
+        "text_original": "Tsinghua is consistently ranked as the top university in China and one of the top in Asia and the world. It is renowned for research output and subject strengths in engineering, computing, materials science, environment, and economics. Noted for high citation rates, innovation, and strong industry ties",
+        "idx_start": 10343,
+        "idx_end": 10646
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## Campus and Life:\nIts Beijing campus is celebrated for classical architecture and lush gardens. Student associations, residential colleges, and robust dining are notable. Tsinghua\u2019s \"clique\" dominates Chinese politics and industry.",
+        "text_original": "Its Beijing campus is celebrated for classical architecture and lush gardens. Student associations, residential colleges, and robust dining are notable. Tsinghua\u2019s \"clique\" dominates Chinese politics and industry",
+        "idx_start": 10672,
+        "idx_end": 10884
+    },
+    {
+        "document_idx": null,
+        "text": "# Tsinghua University\n## Notable People:\nAlumni include top Chinese leaders (Xi Jinping, Hu Jintao), Nobel laureates (Yang Chen Ning), billionaires, scientists, and writers. It is influential in government, academics, and business.",
+        "text_original": "Alumni include top Chinese leaders (Xi Jinping, Hu Jintao), Nobel laureates (Yang Chen Ning), billionaires, scientists, and writers. It is influential in government, academics, and business",
+        "idx_start": 10909,
+        "idx_end": 11098
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## History:\nFounded in 1890 with philanthropic and Baptist roots, Chicago quickly built a reputation for rigorous academics, pioneering the core curriculum, and shaping research from nuclear physics to social sciences. Its faculty contributed to major scientific advances and the Manhattan Project.",
+        "text_original": "Founded in 1890 with philanthropic and Baptist roots, Chicago quickly built a reputation for rigorous academics, pioneering the core curriculum, and shaping research from nuclear physics to social sciences. Its faculty contributed to major scientific advances and the Manhattan Project",
+        "idx_start": 11145,
+        "idx_end": 11430
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## Campus and Administration:\nLocated in Hyde Park, Chicago\u2019s campus is known for its Gothic architecture, modern research facilities, and historic landmarks. Administered by a board of trustees and a president, the university maintains strong financial assets, though recent years have brought budget deficits and spending reforms.",
+        "text_original": "Located in Hyde Park, Chicago\u2019s campus is known for its Gothic architecture, modern research facilities, and historic landmarks. Administered by a board of trustees and a president, the university maintains strong financial assets, though recent years have brought budget deficits and spending reforms",
+        "idx_start": 11466,
+        "idx_end": 11767
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## Academics:\nChicago offers over 50 undergraduate majors and a broad array of graduate and professional programs in law, business, medicine, public policy, divinity, and molecular engineering. The university is famed for the Socratic method, interdisciplinary scholarship, and influential schools of economic and social thought.",
+        "text_original": "Chicago offers over 50 undergraduate majors and a broad array of graduate and professional programs in law, business, medicine, public policy, divinity, and molecular engineering. The university is famed for the Socratic method, interdisciplinary scholarship, and influential schools of economic and social thought",
+        "idx_start": 11787,
+        "idx_end": 12101
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## Research:\nChicago manages advanced research centers, national laboratories (Argonne, Fermilab), and has been a center for innovation in natural sciences, economics, and medicine. The university boasts high research output and is a champion of academic freedom.",
+        "text_original": "Chicago manages advanced research centers, national laboratories (Argonne, Fermilab), and has been a center for innovation in natural sciences, economics, and medicine. The university boasts high research output and is a champion of academic freedom",
+        "idx_start": 12120,
+        "idx_end": 12369
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## Student Life:\nA robust house system anchors student housing. Hundreds of student organizations, distinctive traditions (Scavenger Hunt, Kuvia, Latke-Hamantash Debate), and competitive but inclusive athletics (NCAA Division III) shape campus culture.",
+        "text_original": "A robust house system anchors student housing. Hundreds of student organizations, distinctive traditions (Scavenger Hunt, Kuvia, Latke-Hamantash Debate), and competitive but inclusive athletics (NCAA Division III) shape campus culture",
+        "idx_start": 12392,
+        "idx_end": 12626
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Chicago\n## Reputation and Notable People:\nRegularly ranked among the world\u2019s top universities, Chicago counts 101 Nobel laureates, numerous MacArthur Fellows, Fields Medalists, CEOs, politicians, writers, and prominent faculty including Barack Obama, T.S. Eliot, and Glenn T. Seaborg.",
+        "text_original": "Regularly ranked among the world\u2019s top universities, Chicago counts 101 Nobel laureates, numerous MacArthur Fellows, Fields Medalists, CEOs, politicians, writers, and prominent faculty including Barack Obama, T.S. Eliot, and Glenn T. Seaborg",
+        "idx_start": 12666,
+        "idx_end": 12907
+    },
+    {
+        "document_idx": null,
+        "text": "# Zhejiang University\n## History:\nZhejiang University (ZJU) traces its roots to the Qiushi Academy founded in 1897. Over time, it evolved through mergers, wartime relocations, re-organizations, and transformations under successive governments. A merger in 1998 formed one of Asia\u2019s largest university campuses.",
+        "text_original": "Zhejiang University (ZJU) traces its roots to the Qiushi Academy founded in 1897. Over time, it evolved through mergers, wartime relocations, re-organizations, and transformations under successive governments. A merger in 1998 formed one of Asia\u2019s largest university campuses",
+        "idx_start": 12952,
+        "idx_end": 13227
+    },
+    {
+        "document_idx": null,
+        "text": "# Zhejiang University\n## Campuses and Organization:\nZJU has seven major campuses in and around Hangzhou and Zhejiang Province, including specialized facilities for international programs and ocean research. Its governance structure includes national oversight (Ministry of Education), with robust autonomy and joint local funding.",
+        "text_original": "ZJU has seven major campuses in and around Hangzhou and Zhejiang Province, including specialized facilities for international programs and ocean research. Its governance structure includes national oversight (Ministry of Education), with robust autonomy and joint local funding",
+        "idx_start": 13263,
+        "idx_end": 13540
+    },
+    {
+        "document_idx": null,
+        "text": "# Zhejiang University\n## Academics:\nAs a comprehensive university, ZJU spans faculties in humanities, social sciences, natural sciences, engineering, information, agriculture, medicine, and management. Competitive specialty programs are managed by residential colleges and honors colleges. Degree awarding incorporates liberal student choice and a robust elective system.",
+        "text_original": "As a comprehensive university, ZJU spans faculties in humanities, social sciences, natural sciences, engineering, information, agriculture, medicine, and management. Competitive specialty programs are managed by residential colleges and honors colleges. Degree awarding incorporates liberal student choice and a robust elective system",
+        "idx_start": 13560,
+        "idx_end": 13894
+    },
+    {
+        "document_idx": null,
+        "text": "# Zhejiang University\n## Research and Reputation:\nZJU is highly ranked globally (Top 25 ARWU, Top 50 THE and QS) and is a research powerhouse, with numerous State Key Labs and leading performance in scientific publications, Nature Index, and subject rankings. It is a leading recipient of alumni donations and government funding.",
+        "text_original": "ZJU is highly ranked globally (Top 25 ARWU, Top 50 THE and QS) and is a research powerhouse, with numerous State Key Labs and leading performance in scientific publications, Nature Index, and subject rankings. It is a leading recipient of alumni donations and government funding",
+        "idx_start": 13928,
+        "idx_end": 14206
+    },
+    {
+        "document_idx": null,
+        "text": "# Zhejiang University\n## Student Life:\nHome to over 65,000 full-time students, ZJU offers extensive housing, student organizations, and student-run digital platforms (CC98). A tradition of questioning, innovation, and social responsibility underpins campus identity.",
+        "text_original": "Home to over 65,000 full-time students, ZJU offers extensive housing, student organizations, and student-run digital platforms (CC98). A tradition of questioning, innovation, and social responsibility underpins campus identity",
+        "idx_start": 14229,
+        "idx_end": 14455
+    },
+    {
+        "document_idx": null,
+        "text": "# Zhejiang University\n## Notable People:\nZJU\u2019s alumni include Chinese and international political leaders, influential businesspeople, scientists, and Nobel and Wolf Prize laureates. Faculty have led advancements in physics, mathematics, biology, medicine, and engineering.",
+        "text_original": "ZJU\u2019s alumni include Chinese and international political leaders, influential businesspeople, scientists, and Nobel and Wolf Prize laureates. Faculty have led advancements in physics, mathematics, biology, medicine, and engineering",
+        "idx_start": 14480,
+        "idx_end": 14711
+    }
+]

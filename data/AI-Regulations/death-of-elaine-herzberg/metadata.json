@@ -1,0 +1,25 @@
+{
+  "id": 56888408,
+  "title": "Death of Elaine Herzberg",
+  "url": "https://en.wikipedia.org/wiki/Death_of_Elaine_Herzberg",
+  "path": "AI-Regulations\\death-of-elaine-herzberg",
+  "summary": {
+    "chars": 1667,
+    "tokens": 347
+  },
+  "document": {
+    "chars": 21343,
+    "tokens": 4315
+  },
+  "infobox": {
+    "title": "Elaine Herzberg",
+    "data": {
+      "Born": "Elaine Marie Wood \u00b7 August 2, 1968 \u00b7 Phoenix, Arizona, U.S.",
+      "Died": "March 18, 2018 (aged 49) \u00b7 Tempe, Arizona, U.S.",
+      "Cause of death": "Hit by a self-driving car",
+      "Burial place": "Phoenix, Arizona",
+      "Education": "Apache Junction High School, Apache Junction, Arizona",
+      "Spouse(s)": "Mike Herzberg (until his death); Rolf Erich Ziemann (until Elaine's death)"
+    }
+  }
+}

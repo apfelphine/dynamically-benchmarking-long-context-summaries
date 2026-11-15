@@ -1,0 +1,31 @@
+{
+  "id": 14205,
+  "title": "Herbert A. Simon",
+  "url": "https://en.wikipedia.org/wiki/Herbert_A._Simon",
+  "path": "Comp-Sci-Pioneers\\herbert-a-simon",
+  "summary": {
+    "chars": 1162,
+    "tokens": 223
+  },
+  "document": {
+    "chars": 28240,
+    "tokens": 5674
+  },
+  "infobox": {
+    "title": "Herbert A. Simon",
+    "data": {
+      "Born": "Herbert Alexander Simon \u00b7 June 15, 1916 \u00b7 Milwaukee, Wisconsin, U.S.",
+      "Died": "February 9, 2001 (aged 84) \u00b7 Pittsburgh, Pennsylvania, U.S.",
+      "Education": "University of Chicago (BA, MA, PhD)",
+      "Known for": "Bounded rationality \u00b7 Satisficing \u00b7 Information Processing Language \u00b7 Logic Theorist \u00b7 General Problem Solver",
+      "Spouse": "Dorothea Isabel Pye \u200b (m. 1939)\u200b",
+      "Children": "3",
+      "Awards": "- Member of the National Academy of Sciences (1967) - APA Award for Distinguished Scientific Contributions to Psychology (1969) - Turing Award (1975) - Nobel Prize in Economics (1978) - National Medal of Science (1986) - Harold Pender Award (1987) - von Neumann Theory Prize (1988) - APA Award for Lifetime Contributions to Psychology (1993) - ACM Fellow (1994) - IJCAI Award for Research Excellence (1995)",
+      "Fields": "Economics \u00b7 Artificial intelligence \u00b7 Computer science \u00b7 Political science",
+      "Institutions": "Carnegie Mellon University",
+      "Doctoral advisor": "Henry Schultz",
+      "Other academic advisors": "Rudolf Carnap \u00b7 Nicholas Rashevsky \u00b7 Harold Lasswell \u00b7 Charles Merriam \u00b7 John R. Commons",
+      "Doctoral students": "- Edward Feigenbaum - Richard E. Korf - John Muth - Allen Newell - William F. Pounds - Saras Sarasvathy - Oliver E. Williamson - Richard Waldinger"
+    }
+  }
+}

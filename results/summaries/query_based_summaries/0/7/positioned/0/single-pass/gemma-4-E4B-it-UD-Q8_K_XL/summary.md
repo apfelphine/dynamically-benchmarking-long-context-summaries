@@ -1,0 +1,5 @@
+# Frankenstein
+
+Victor Frankenstein, a young man from an upper-class Genevese family, becomes obsessed with modern sciences like chemistry and electricity. Following the death of his mother, he attends the University of Ingolstadt, where he discovers a method to create life. He uses materials from charnel houses and graves to create a grotesque humanoid creature. Upon its awakening, Victor recoils in terror and flees, leaving the creature to wander.
+
+The creature learns to speak and read by observing a family, and later seeks out Victor to ask him to create a female companion. After Victor consents, he destroys the incomplete female creature. The creature subsequently murders Victor's brother, William, frames the servant Justine for the crime, and later kills Victor's bride, Elizabeth Lavenza, on their wedding night. Driven by misery, the creature confronts Victor in the Arctic, where Victor nearly dies before recounting his story to Captain Robert Walton.

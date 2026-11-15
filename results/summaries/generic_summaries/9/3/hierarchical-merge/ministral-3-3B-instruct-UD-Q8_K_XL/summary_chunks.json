@@ -1,0 +1,79 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems: Trends, Challenges, and Comparative Insights\n## Structural and Compulsory Education\nThe **Dutch system** offers **flexible tracks (VMBO, HAVO, VWO)** from ages 4\u201318, blending vocational and academic pathways, though it grapples with **declining PISA scores** and **early-tracking risks** . **South Korea** enforces a **rigid meritocratic model** with universal middle school attendance (98%) but faces **extreme academic pressure** and **mental health crises** , despite reforms like **flexible high school credits (2025)** . **Mexico** has **12 years of compulsory education** , yet **low completion rates (45%)** and **disability integration barriers** persist, with **international schools** catering to expats.\n**Russia\u2019s patriotic education** integrates nationalism into curricula, sparking debates, while **New Zealand** prioritizes **culturally tailored frameworks** (e.g., *Te Wh\u0101riki* ), though **M\u0101ori/Pacific underperformance** remains. **Pakistan\u2019s system** is **underfunded (~2.2% GDP)** , dominated by **madrassas** and **TVET programs** post-COVID, with **rural digital divides** hindering access.",
+        "text_original": "The **Dutch system** offers **flexible tracks (VMBO, HAVO, VWO)** from ages 4\u201318, blending vocational and academic pathways, though it grapples with **declining PISA scores** and **early-tracking risks**. **South Korea** enforces a **rigid meritocratic model** with universal middle school attendance (98%) but faces **extreme academic pressure** and **mental health crises**, despite reforms like **flexible high school credits (2025)**. **Mexico** has **12 years of compulsory education**, yet **low completion rates (45%)** and **disability integration barriers** persist, with **international schools** catering to expats.\n\n**Russia\u2019s patriotic education** integrates nationalism into curricula, sparking debates, while **New Zealand** prioritizes **culturally tailored frameworks** (e.g., *Te Wh\u0101riki*), though **M\u0101ori/Pacific underperformance** remains. **Pakistan\u2019s system** is **underfunded (~2.2% GDP)**, dominated by **madrassas** and **TVET programs** post-COVID, with **rural digital divides** hindering access",
+        "idx_start": 125,
+        "idx_end": 1147
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems: Trends, Challenges, and Comparative Insights\n## Vocational and Higher Education\nThe **Netherlands** follows a **4-year bachelor + master model** (HBO/WO) with **NVAO-accredited degrees** , while **MBO vocational training** addresses skills mismatches. **Russia\u2019s vocational programs** (post-Year 9) are **3-year and USE-standardized** , but **teacher shortages** and **rural disparities** persist. **New Zealand** subsidizes tertiary education via **Student Loans/Allowances** , though **high tuition fees** and **skills gaps** remain challenges.\n**Saudi Arabia\u2019s Vision 2030** drives **female enrollment (60%)** and **STEM innovation** , with **27.6% government expenditure** on education. **Pakistan\u2019s TVET programs** expand post-COVID but face **rural digital divides** , while **Mexico\u2019s vocational education** remains underrepresented (~20%). **Canada\u2019s system** is **provincially controlled** , with **universities** (bachelor\u2019s/master\u2019s/Ph.D.) and **vocational pathways** (colleges/apprenticeships), though **tuition fees rise annually** and **research funding** varies.",
+        "text_original": "The **Netherlands** follows a **4-year bachelor + master model** (HBO/WO) with **NVAO-accredited degrees**, while **MBO vocational training** addresses skills mismatches. **Russia\u2019s vocational programs** (post-Year 9) are **3-year and USE-standardized**, but **teacher shortages** and **rural disparities** persist. **New Zealand** subsidizes tertiary education via **Student Loans/Allowances**, though **high tuition fees** and **skills gaps** remain challenges.\n\n**Saudi Arabia\u2019s Vision 2030** drives **female enrollment (60%)** and **STEM innovation**, with **27.6% government expenditure** on education. **Pakistan\u2019s TVET programs** expand post-COVID but face **rural digital divides**, while **Mexico\u2019s vocational education** remains underrepresented (~20%). **Canada\u2019s system** is **provincially controlled**, with **universities** (bachelor\u2019s/master\u2019s/Ph.D.) and **vocational pathways** (colleges/apprenticeships), though **tuition fees rise annually** and **research funding** varies",
+        "idx_start": 1196,
+        "idx_end": 2187
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems: Trends, Challenges, and Comparative Insights\n## Curriculum, Funding, and Disparities\n**Russia\u2019s patriotic education** and **Saudi Arabia\u2019s Islam-integrated curricula** clash with **modern demands** , while **New Zealand** balances **cultural frameworks** but sees **M\u0101ori/Pacific underperformance** . **Funding disparities** highlight **New Zealand (~5% GDP)** vs. **Pakistan (~2.2%)** , with **Saudi Arabia\u2019s 27.6% expenditure** supporting **female education and innovation** .\n**Skills mismatches** remain a cross-cutting issue, with **innovation programs** (e.g., Saudi Arabia\u2019s Vision 2030, Pakistan\u2019s TVET) aiming to align education with labor demands. **Teacher shortages** and **rural access barriers** persist globally, while **curriculum reforms** (e.g., Dutch *brugklas* , South Korea\u2019s flexible credits) address early-tracking and academic stress.",
+        "text_original": "Russia\u2019s patriotic education** and **Saudi Arabia\u2019s Islam-integrated curricula** clash with **modern demands**, while **New Zealand** balances **cultural frameworks** but sees **M\u0101ori/Pacific underperformance**. **Funding disparities** highlight **New Zealand (~5% GDP)** vs. **Pakistan (~2.2%)**, with **Saudi Arabia\u2019s 27.6% expenditure** supporting **female education and innovation**.\n\n**Skills mismatches** remain a cross-cutting issue, with **innovation programs** (e.g., Saudi Arabia\u2019s Vision 2030, Pakistan\u2019s TVET) aiming to align education with labor demands. **Teacher shortages** and **rural access barriers** persist globally, while **curriculum reforms** (e.g., Dutch *brugklas*, South Korea\u2019s flexible credits) address early-tracking and academic stress",
+        "idx_start": 2243,
+        "idx_end": 3009
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems: Trends, Challenges, and Comparative Insights\n## Flexibility and Reform:\n- **Dutch system** : **Brugklas** and **track transitions** reduce early-tracking risks.\n- **South Korea** : **Flexible high school credits (2025)** and **mobile phone bans (2023)** ease academic pressure.\n- **Russia** : **Bologna Process** integration and **patriotic education reforms** dominate.",
+        "text_original": "Dutch system**: **Brugklas** and **track transitions** reduce early-tracking risks.\n- **South Korea**: **Flexible high school credits (2025)** and **mobile phone bans (2023)** ease academic pressure.\n- **Russia**: **Bologna Process** integration and **patriotic education reforms** dominate",
+        "idx_start": 3097,
+        "idx_end": 3387
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems: Trends, Challenges, and Comparative Insights\n## Inclusivity and Equity:\n- **New Zealand** : **ORS/EFTS grants** support **disability funding** , though **M\u0101ori/Pacific gaps** persist.\n- **Saudi Arabia** : **Vision 2030** boosts **female university enrollment (60%)** and **STEM innovation** , despite **access inequities** .\n- **Mexico** : **Indigenous education reforms** and **disability integration** remain limited.",
+        "text_original": "New Zealand**: **ORS/EFTS grants** support **disability funding**, though **M\u0101ori/Pacific gaps** persist.\n- **Saudi Arabia**: **Vision 2030** boosts **female university enrollment (60%)** and **STEM innovation**, despite **access inequities**.\n- **Mexico**: **Indigenous education reforms** and **disability integration** remain limited",
+        "idx_start": 3422,
+        "idx_end": 3758
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems: Trends, Challenges, and Comparative Insights\n## Global Challenges:\n- **Teacher shortages** (e.g., Russia, Pakistan) and **rural access barriers** (e.g., New Zealand, Pakistan) persist.\n- **Skills mismatches** in tertiary education threaten **workforce readiness** .\n- **Curriculum alignment** with **modern demands** (e.g., digital literacy, creativity) remains uneven.",
+        "text_original": "Teacher shortages** (e.g., Russia, Pakistan) and **rural access barriers** (e.g., New Zealand, Pakistan) persist.\n- **Skills mismatches** in tertiary education threaten **workforce readiness**.\n- **Curriculum alignment** with **modern demands** (e.g., digital literacy, creativity) remains uneven",
+        "idx_start": 3788,
+        "idx_end": 4084
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems: Trends, Challenges, and Comparative Insights\n## Inclusive and Specialized Education Systems\n**Saudi Arabia** prioritizes **inclusivity** with **special education teacher incentives** and **private/international school dominance** (e.g., Philippine-affiliated), though **gender disparities** and **overcrowding** persist. **Poland** aligns with the **Bologna Process** , improving **OECD rankings** but facing **vocational-academic balance reforms** . **Bangladesh\u2019s 12-year system** (NCTB curriculum) has **high female enrollment (60%)** but struggles with **rote-learning and industry misalignment** .\n**Czech Republic** features a **9-year compulsory system** with **free tertiary education** for Czech-language programs, integrating **Romani students** in special education. **Assessment rigor** (e.g., *maturita* exams) and **vocational pathways** (6-year academies) balance academic and practical tracks.",
+        "text_original": "Saudi Arabia** prioritizes **inclusivity** with **special education teacher incentives** and **private/international school dominance** (e.g., Philippine-affiliated), though **gender disparities** and **overcrowding** persist. **Poland** aligns with the **Bologna Process**, improving **OECD rankings** but facing **vocational-academic balance reforms**. **Bangladesh\u2019s 12-year system** (NCTB curriculum) has **high female enrollment (60%)** but struggles with **rote-learning and industry misalignment**.\n\n**Czech Republic** features a **9-year compulsory system** with **free tertiary education** for Czech-language programs, integrating **Romani students** in special education. **Assessment rigor** (e.g., *maturita* exams) and **vocational pathways** (6-year academies) balance academic and practical tracks",
+        "idx_start": 4146,
+        "idx_end": 4958
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems: Trends, Challenges, and Comparative Insights\n## Tertiary Education: Structure and Funding\nThe **Czech Republic** offers **free Czech-language programs** and **specialized doctoral degrees** (e.g., **PharmDr.** ), though international students pay **\u20ac2,000\u201310,000** . **Canada\u2019s system** is **provincially controlled** , with **universities** (high admissions standards) and **vocational colleges** (lower entry requirements), though **tuition fees rise annually** and **research funding varies** .",
+        "text_original": "The **Czech Republic** offers **free Czech-language programs** and **specialized doctoral degrees** (e.g., **PharmDr.**), though international students pay **\u20ac2,000\u201310,000**. **Canada\u2019s system** is **provincially controlled**, with **universities** (high admissions standards) and **vocational colleges** (lower entry requirements), though **tuition fees rise annually** and **research funding varies",
+        "idx_start": 5016,
+        "idx_end": 5416
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems: Trends, Challenges, and Comparative Insights\n## School Calendar and Compulsory Education\nThe **Czech Republic** has a **fixed academic calendar** (1 September\u2013late June) with **62+ days off** , while **Canada\u2019s system** varies by province, ending at **Grade 12 (17 years)** \u2014except Quebec (Grade 11/Secondary V). **Kindergarten ranges from 1\u20132 years** , and **alternative pathways** (e.g., Quebec\u2019s CEGEP) cater to non-traditional learners.",
+        "text_original": "The **Czech Republic** has a **fixed academic calendar** (1 September\u2013late June) with **62+ days off**, while **Canada\u2019s system** varies by province, ending at **Grade 12 (17 years)**\u2014except Quebec (Grade 11/Secondary V). **Kindergarten ranges from 1\u20132 years**, and **alternative pathways** (e.g., Quebec\u2019s CEGEP) cater to non-traditional learners",
+        "idx_start": 5475,
+        "idx_end": 5822
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems: Trends, Challenges, and Comparative Insights\n## Equity, Assessment, and Policy Challenges\n**Canada** implements **equity initiatives** (e.g., **Section 15(2) of the Charter** ) but debates **assessment fairness** and **grade inflation** , while **bilingual education** (English/French) is mandated post-1982. **Czech Republic** focuses on **academic rigor** in doctoral programs, though **Romani student integration** remains a challenge. **Policy debates** center on **assessment methods** and **global recognition** (e.g., Canada\u2019s high university rankings).",
+        "text_original": "Canada** implements **equity initiatives** (e.g., **Section 15(2) of the Charter**) but debates **assessment fairness** and **grade inflation**, while **bilingual education** (English/French) is mandated post-1982. **Czech Republic** focuses on **academic rigor** in doctoral programs, though **Romani student integration** remains a challenge. **Policy debates** center on **assessment methods** and **global recognition** (e.g., Canada\u2019s high university rankings",
+        "idx_start": 5882,
+        "idx_end": 6346
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education Systems: Trends, Challenges, and Comparative Insights\n## Key Policy and Equity Focuses\n**Saudi Arabia** and **Bangladesh** address **gender disparities, regional inequities, and poverty-driven gaps** , with **private/international schools** serving affluent regions. **Canada and the Czech Republic** prioritize **global competitiveness** , leveraging **free tertiary education (Czech)** and **fast-track residency (Canada)** for foreign students. **Funding disparities** (e.g., Catholic schools in Canada, international tuition in the Czech Republic) and **assessment reforms** remain critical for equity.",
+        "text_original": "Saudi Arabia** and **Bangladesh** address **gender disparities, regional inequities, and poverty-driven gaps**, with **private/international schools** serving affluent regions. **Canada and the Czech Republic** prioritize **global competitiveness**, leveraging **free tertiary education (Czech)** and **fast-track residency (Canada)** for foreign students. **Funding disparities** (e.g., Catholic schools in Canada, international tuition in the Czech Republic) and **assessment reforms** remain critical for equity",
+        "idx_start": 6395,
+        "idx_end": 6909
+    }
+]

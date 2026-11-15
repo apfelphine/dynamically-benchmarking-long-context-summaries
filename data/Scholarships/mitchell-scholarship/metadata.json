@@ -1,0 +1,23 @@
+{
+  "id": 5312121,
+  "title": "Mitchell Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Mitchell_Scholarship",
+  "path": "Scholarships\\mitchell-scholarship",
+  "summary": {
+    "chars": 726,
+    "tokens": 154
+  },
+  "document": {
+    "chars": 2336,
+    "tokens": 457
+  },
+  "infobox": {
+    "title": "Mitchell Scholarship",
+    "data": {
+      "Awarded for": "graduate study in Ireland for Americans",
+      "Sponsored by": "U.S.-Ireland Alliance",
+      "Established": "1998",
+      "Website": "www.us-irelandalliance.org"
+    }
+  }
+}

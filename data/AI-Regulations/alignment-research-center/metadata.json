@@ -1,0 +1,26 @@
+{
+  "id": 73560883,
+  "title": "Alignment Research Center",
+  "url": "https://en.wikipedia.org/wiki/Alignment_Research_Center",
+  "path": "AI-Regulations\\alignment-research-center",
+  "summary": {
+    "chars": 362,
+    "tokens": 59
+  },
+  "document": {
+    "chars": 1863,
+    "tokens": 406
+  },
+  "infobox": {
+    "title": "Alignment Research Center",
+    "data": {
+      "Formation": "April 2021",
+      "Founder": "Paul Christiano",
+      "Type": "Nonprofit research institute",
+      "Legal status": "501(c)(3) tax exempt charity",
+      "Purpose": "AI alignment and safety research",
+      "Location": "- Berkeley, California",
+      "Website": "alignment.org"
+    }
+  }
+}

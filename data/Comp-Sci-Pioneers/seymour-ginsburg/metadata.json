@@ -1,0 +1,29 @@
+{
+  "id": 5621883,
+  "title": "Seymour Ginsburg",
+  "url": "https://en.wikipedia.org/wiki/Seymour_Ginsburg",
+  "path": "Comp-Sci-Pioneers\\seymour-ginsburg",
+  "summary": {
+    "chars": 452,
+    "tokens": 92
+  },
+  "document": {
+    "chars": 5584,
+    "tokens": 1154
+  },
+  "infobox": {
+    "title": "Seymour Ginsburg",
+    "data": {
+      "Born": "December 12, 1927",
+      "Died": "December 5, 2004 (aged 76)",
+      "Alma mater": "University of Michigan (Ph.D.) \u00b7 City College of New York",
+      "Known for": "Formal Language Theory, \u00b7 Abstract Families of Languages, \u00b7 Database theory, \u00b7 Object Histories",
+      "Spouse": "Eleanor Rene Shore",
+      "Children": "David Ginsburg, Diane Ginsburg",
+      "Fields": "Computer Science",
+      "Institutions": "University of Southern California \u00b7 University of Miami",
+      "Thesis": "Order Types And Similarity Transformations (1953)",
+      "Doctoral advisor": "Ben Dushnik"
+    }
+  }
+}

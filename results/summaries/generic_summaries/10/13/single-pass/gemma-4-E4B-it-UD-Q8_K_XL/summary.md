@@ -1,0 +1,21 @@
+# Global Education Systems Comparison
+
+## Historical Trajectories of Education
+Across various nations, the development of education has been shaped by historical powers and societal priorities. In **Indonesia**, Islamic boarding schools (Pondok Pesantren) emerged during the Islamic kingdom period, while the Dutch colonial era introduced stratified education, later challenged by indigenous movements. The **Japanese occupation** brought a shift toward militaristic education, and post-independence efforts focused on creating a non-discriminatory national system. **Egypt** has roots in ancient institutions like the "House of Life" and saw major transformations under the Fatimids and Muhammad Ali, who introduced a dual system of traditional and modern education.
+
+In **Armenia**, education initially followed a Soviet model of state control, but the early 1990s saw a shift to emphasizing Armenian history and culture, with Armenian becoming the primary language of instruction. **China's Taiwan** saw its education system evolve from varied historical influences to a highly centralized public system with compulsory education extending to 12 years. **France** established its modern secular public school system under Jules Ferry in the late 19th century, aiming to instill a "common culture."
+
+## Governance, Structure, and Curriculum
+Educational systems vary significantly in centralization and structure. **France** maintains a highly centralized curriculum regulated by the Ministry of National Education, while **Indonesia** features diverse structures including state-run and religiously affiliated schools. **Egypt's** system is highly centralized, though the rise of private tutoring has created a parallel market. **Turkey** integrated various religious and secular education streams into a centralized national system after 1924, enforcing secularism.
+
+**Norway** operates a three-part system (elementary, lower secondary, upper secondary) that is largely public, with the 2006 reform introducing specialized paths. **England**'s system is characterized by state-funded schools, with selective grammar schools and an emphasis on the National Curriculum, supplemented by private independent schools. **Israel** features distinct tracks: state-secular, state-religious, independent religious (Haredi), and Arab, with societal value placed heavily on higher education for socioeconomic mobility.
+
+## Access, Quality, and Challenges
+Educational challenges—including quality, funding, and equity—are global concerns. **Ghana** faces challenges related to teacher shortages and the low prestige of vocational education, despite high enrollment rates. **Nigeria** struggles with regional disparities, low literacy in some areas, and the need to balance formal and informal education. **Sweden** has a comprehensive compulsory school structure, though recent reports have noted declining PISA scores.
+
+**Sri Lanka** is managed by several ministries, leading to inefficiencies, while its structure emphasizes national language instruction. **Hong Kong** has a complex mix of government-run, aided, and Direct Subsidy Scheme (DSS) schools, alongside international schools, facing pressures from social issues and demographic shifts. **Iran** maintains a highly centralized system with a significant Islamic influence, alongside challenges related to student dropouts.
+
+## Higher Education and Modern Trends
+Higher education models range from the highly selective, prestigious institutions in **Hong Kong** to the state-subsidized, broad university system in **France**. **Norway** utilizes a clear hierarchy of universities and university colleges, adhering to the Bologna Process. **Israel** links higher education to military service for some students and places a high value on professional skills.
+
+In modern trends, **Egypt** is undertaking reforms to align with international best practices, while **Taiwan** has a high university enrollment rate, though job market saturation is noted. **Turkey** has embraced the Bologna Process, and **England** utilizes the Regulated Qualifications Framework (RQF) for standardized qualifications. **Ireland** is recognized internationally for strong literacy rates and is actively addressing educational disadvantage through programs like DEIS.

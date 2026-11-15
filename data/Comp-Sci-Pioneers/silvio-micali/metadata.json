@@ -1,0 +1,29 @@
+{
+  "id": 1385119,
+  "title": "Silvio Micali",
+  "url": "https://en.wikipedia.org/wiki/Silvio_Micali",
+  "path": "Comp-Sci-Pioneers\\silvio-micali",
+  "summary": {
+    "chars": 411,
+    "tokens": 82
+  },
+  "document": {
+    "chars": 3289,
+    "tokens": 717
+  },
+  "infobox": {
+    "title": "Silvio Micali",
+    "data": {
+      "Born": "October 13, 1954 \u00b7 Palermo, Italy",
+      "Education": "Sapienza University (BS) \u00b7 University of California, Berkeley (MS, PhD)",
+      "Known for": "Blum\u2013Micali algorithm \u00b7 Goldwasser\u2013Micali cryptosystem \u00b7 GMR algorithm \u00b7 Zero-knowledge proof \u00b7 Claw-free permutation \u00b7 Pseudorandom Functions \u00b7 Peppercoin \u00b7 Algorand \u00b7 Semantic security \u00b7 Verifiable secret sharing",
+      "Awards": "- G\u00f6del Prize (1993) - Turing Award (2012) - ACM Fellow (2017)",
+      "Fields": "Computer Science \u00b7 Cryptography",
+      "Institutions": "University of Toronto \u00b7 University of Pennsylvania \u00b7 Tsinghua University \u00b7 MIT CS & AI Lab",
+      "Thesis": "Randomness versus Hardness (1983)",
+      "Doctoral advisor": "Manuel Blum",
+      "Doctoral students": "- Mihir Bellare - Bonnie Berger - Alessandro Chiesa - Claude Cr\u00e9peau - Shai Halevi - Rafail Ostrovsky - Phillip Rogaway",
+      "Website": "people.csail.mit.edu/silvio"
+    }
+  }
+}

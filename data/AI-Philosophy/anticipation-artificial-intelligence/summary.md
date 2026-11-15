@@ -1,0 +1,2 @@
+In artificial intelligence (AI), anticipation occurs when an agent makes decisions based on its explicit beliefs about the future. More broadly, "anticipation" can also refer to the ability to act in appropriate ways that take future events into account, without necessarily explicitly possessing a model of the future events.
+The concept stays in contrast to the reactive paradigm, which is not able to predict future system states.

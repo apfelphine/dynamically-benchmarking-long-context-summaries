@@ -1,0 +1,31 @@
+{
+  "id": 16736,
+  "title": "Kurt G\u00f6del",
+  "url": "https://en.wikipedia.org/wiki/Kurt_G%C3%B6del",
+  "path": "Comp-Sci-Pioneers\\kurt-godel",
+  "summary": {
+    "chars": 1988,
+    "tokens": 450
+  },
+  "document": {
+    "chars": 18648,
+    "tokens": 4154
+  },
+  "infobox": {
+    "title": "Kurt G\u00f6del",
+    "data": {
+      "Born": "Kurt Friedrich G\u00f6del \u00b7 April 28, 1906 \u00b7 Br\u00fcnn, Austria-Hungary (now Brno, Czech Republic)",
+      "Died": "January 14, 1978 (aged 71) \u00b7 Princeton, New Jersey, U.S.",
+      "Cause of death": "Starvation due to a persecutory delusion",
+      "Citizenship": "- Austria - Czechoslovakia - Germany - United States",
+      "Education": "University of Vienna (Dr. Phil., 1930)",
+      "Known for": "- G\u00f6del's incompleteness theorems - G\u00f6del's completeness theorem - G\u00f6del's constructible universe - G\u00f6del metric (closed timelike curve) - G\u00f6del logic - G\u00f6del\u2013Dummett logic - G\u00f6del's \u03b2 function - G\u00f6del's Loophole - G\u00f6del numbering - G\u00f6del operation - G\u00f6del's speed-up theorem - G\u00f6del's ontological proof - G\u00f6del\u2013Gentzen translation - G\u00f6del\u2013McKinsey\u2013Tarski translation - Von Neumann\u2013Bernays\u2013G\u00f6del set theory - \u03c9-consistent theory - The consistency of the continuum hypothesis with ZFC - Axiom of constructibility - Compactness theorem - Condensation lemma - Diagonal lemma - Dialectica interpretation - Ordinal definable set - Slingshot argument",
+      "Spouse": "Adele Nimbursky \u200b(m. 1938)\u200b",
+      "Awards": "- Albert Einstein Award (1951) - ForMemRS (1968) - National Medal of Science (1974)",
+      "Fields": "Mathematics, mathematical logic, physics",
+      "Institutions": "Institute for Advanced Study",
+      "Thesis": "\u00dcber die Vollst\u00e4ndigkeit des Logikkalk\u00fcls (1929)",
+      "Doctoral advisor": "Hans Hahn"
+    }
+  }
+}

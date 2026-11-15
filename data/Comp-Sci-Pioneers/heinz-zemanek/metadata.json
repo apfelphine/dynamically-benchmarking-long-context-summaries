@@ -1,0 +1,26 @@
+{
+  "id": 9276249,
+  "title": "Heinz Zemanek",
+  "url": "https://en.wikipedia.org/wiki/Heinz_Zemanek",
+  "path": "Comp-Sci-Pioneers\\heinz-zemanek",
+  "summary": {
+    "chars": 383,
+    "tokens": 100
+  },
+  "document": {
+    "chars": 2879,
+    "tokens": 736
+  },
+  "infobox": {
+    "title": "Heinz Zemanek",
+    "data": {
+      "Born": "1 January 1920 \u00b7 Vienna, Austria",
+      "Died": "16 July 2014 (aged 94) \u00b7 Vienna, Austria",
+      "Alma mater": "Vienna University of Technology",
+      "Known for": "Mail\u00fcfterl, PL/I",
+      "Awards": "Austrian Cross of Honour for Science and Art, 1st class (2005)",
+      "Fields": "Computer Scientist",
+      "Institutions": "Vienna University of Technology, IBM"
+    }
+  }
+}

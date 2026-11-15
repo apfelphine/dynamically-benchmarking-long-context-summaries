@@ -1,0 +1,31 @@
+{
+  "id": 74003910,
+  "title": "Renner (film)",
+  "url": "https://en.wikipedia.org/wiki/Renner_(film)",
+  "path": "AI-Fiction\\renner-film",
+  "summary": {
+    "chars": 264,
+    "tokens": 63
+  },
+  "document": {
+    "chars": 1087,
+    "tokens": 262
+  },
+  "infobox": {
+    "title": "Renner",
+    "data": {
+      "Directed by": "Robert Rippberger",
+      "Written by": "- Luke Medina - Martin Medina - Robert Rippberger - David Largman Murray",
+      "Produced by": "- Devin Keaton - Robert Rippberger - Martin Medina - Jay Burnley - KT Kent",
+      "Starring": "- Frankie Muniz - Violett Beane - Taylor Gray - Marcia Gay Harden",
+      "Cinematography": "Sean Emer",
+      "Edited by": "Gabriel Cullen",
+      "Music by": "Rony Barrak",
+      "Production \u00b7 company": "Slated",
+      "Distributed by": "Seismic Releasing",
+      "Release date": "- February 7, 2025",
+      "Country": "United States",
+      "Language": "English"
+    }
+  }
+}

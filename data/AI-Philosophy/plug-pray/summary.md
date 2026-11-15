@@ -1,0 +1,1 @@
+Plug & Pray is a 2010 documentary film about the promise, problems and ethics of artificial intelligence and robotics. The main protagonists are the former MIT professor Joseph Weizenbaum and the futurist Raymond Kurzweil. The title is a pun on the computer hardware phrase "Plug and Play".

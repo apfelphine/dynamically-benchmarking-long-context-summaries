@@ -1,0 +1,3 @@
+**Ra.One** centers on a video game where the antagonist, **Ra.One**, is a supervillain player character with substantially greater powers than the protagonist, **G.One**. Ra.One is imbibed with a self-learning AI. The game operates across three levels, and both characters are dependent on a device called H.A.R.T.
+
+The plot escalates when the self-aware Ra.One uses a new wireless transmission technology to enter the real world, leading to the murder of a programmer's colleague. The protagonist, G.One (played by Shah Rukh Khan), eventually defeats Ra.One by tricking him into being shot without his H.A.R.T., causing Ra.One to break into cubes. G.One subsequently absorbs Ra.One's remains and returns to the digital world, only to be restored to the real world months later.

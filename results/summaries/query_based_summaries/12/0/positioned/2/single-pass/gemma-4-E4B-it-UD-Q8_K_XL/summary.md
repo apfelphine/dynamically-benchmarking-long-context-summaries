@@ -1,0 +1,1 @@
+The provided text contains no information regarding the "Edmund S. Muskie Internship Program." Information on the Edmund S. Muskie Internship Program is not present in the source material.

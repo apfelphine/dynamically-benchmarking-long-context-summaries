@@ -1,0 +1,5 @@
+## King's Scholar Summary
+
+The tradition of King's Scholars dates back to July 7, 1317, when King Edward II established the first King's Scholars at the University of Cambridge, sending 12 boys from his household to study there at the sheriff's expense. Later, in 1440, King Henry VI established Eton College, which began providing free education to "poor, scholarly boys" as King's Scholars.
+
+At Eton College, a King's Scholar (Colleger or "tug") must pass the College Election examination and is awarded a Foundation Scholarship, gaining admission into the original and oldest house, "College." The statutes stipulate that there are about 70 King's Scholars, with about 14 admitted each year at age 13. Historically, the Foundation Scholarship waived all school fees, though since the 1960s, the scholarship has become subject to means testing. The title "King's Scholar" is also used for undergraduates who obtain first-class degrees at King's College Cambridge, where they receive a prize and attend a ceremony in the King's College Chapel.

@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Innovations\n## Vision Transformers (ViTs)\nVision Transformers break images into patches and employ transformer encoders with positional embeddings for attention-driven image representation. Advanced variants like Swin Transformer, ViT-VQGAN, CoAtNet, DeiT, BEiT, and DINO expand tasks in classification, segmentation, anomaly detection, scientific imaging, and generative modeling, leveraging masked self-supervised learning and enhanced pooling.",
+        "text_original": "Vision Transformers break images into patches and employ transformer encoders with positional embeddings for attention-driven image representation. Advanced variants like Swin Transformer, ViT-VQGAN, CoAtNet, DeiT, BEiT, and DINO expand tasks in classification, segmentation, anomaly detection, scientific imaging, and generative modeling, leveraging masked self-supervised learning and enhanced pooling",
+        "idx_start": 80,
+        "idx_end": 483
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Innovations\n## Transformers in Deep Learning\nTransformers utilize encoder-decoder setups based on multihead attention, feedforward layers, normalization, and positional encoding. Optimizations\u2014KV caching, FlashAttention, speculative decoding\u2014improve efficiency for long or multimodal sequences, enabling broad applications in NLP, vision, audio, and generative AI.",
+        "text_original": "Transformers utilize encoder-decoder setups based on multihead attention, feedforward layers, normalization, and positional encoding. Optimizations\u2014KV caching, FlashAttention, speculative decoding\u2014improve efficiency for long or multimodal sequences, enabling broad applications in NLP, vision, audio, and generative AI",
+        "idx_start": 521,
+        "idx_end": 839
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Innovations\n## Convolutional Neural Networks (CNNs)\nCNNs extract hierarchical spatial features using local connectivity, parameter sharing, pooling, and nonlinear activations. Regularization strategies\u2014weight decay, dropout, augmentation, early stopping\u2014counter overfitting. CNNs drive progress in image/video analysis, anomaly detection, drug discovery, time series modeling, and game AI, aided by interpretability tools and frameworks such as TensorFlow and PyTorch.",
+        "text_original": "CNNs extract hierarchical spatial features using local connectivity, parameter sharing, pooling, and nonlinear activations. Regularization strategies\u2014weight decay, dropout, augmentation, early stopping\u2014counter overfitting. CNNs drive progress in image/video analysis, anomaly detection, drug discovery, time series modeling, and game AI, aided by interpretability tools and frameworks such as TensorFlow and PyTorch",
+        "idx_start": 884,
+        "idx_end": 1299
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Innovations\n## Recurrent Neural Networks (RNNs): Architectures, Training, and Applications\nRNNs model sequential and temporal data via both discrete- and continuous-time formulations, the latter (CTRNNs) utilizing differential equations and dynamical systems theory for neuron activations, relevant to neuroscience and evolutionary robotics. Discrete-time RNNs share mathematical foundations with CTRNNs. Architectures include encoder-decoder networks, PixelRNN, Elman & Jordan networks, and fully recurrent networks\u2014with popular forms such as LSTMs and GRUs employing gated states for memory enhancements. Other types: Bidirectional RNNs, Echo State Networks, Recursive Neural Networks, Neural Turing Machines, Differentiable Neural Computers, Hopfield networks, BAM, IndRNN, second-order RNNs, hierarchical and multi-timescale RNNs, memristive networks.\nTraining relies on gradient descent via backpropagation through time (BPTT), Real-Time Recurrent Learning (RTRL), connectionist temporal classification (CTC) loss, and global optimization methods (genetic algorithms, simulated annealing, particle swarm optimization). RNNs are Turing complete and support memory and hierarchical reasoning.\nApplications span machine translation, speech recognition/synthesis, robot control, time series analysis, BCIs, music and grammar learning, handwriting and human action recognition, biological prediction, business processes, medical care, and fusion plasma forecasting. Key frameworks include TensorFlow, PyTorch, Keras, and Caffe.",
+        "text_original": "RNNs model sequential and temporal data via both discrete- and continuous-time formulations, the latter (CTRNNs) utilizing differential equations and dynamical systems theory for neuron activations, relevant to neuroscience and evolutionary robotics. Discrete-time RNNs share mathematical foundations with CTRNNs. Architectures include encoder-decoder networks, PixelRNN, Elman & Jordan networks, and fully recurrent networks\u2014with popular forms such as LSTMs and GRUs employing gated states for memory enhancements. Other types: Bidirectional RNNs, Echo State Networks, Recursive Neural Networks, Neural Turing Machines, Differentiable Neural Computers, Hopfield networks, BAM, IndRNN, second-order RNNs, hierarchical and multi-timescale RNNs, memristive networks.\n\nTraining relies on gradient descent via backpropagation through time (BPTT), Real-Time Recurrent Learning (RTRL), connectionist temporal classification (CTC) loss, and global optimization methods (genetic algorithms, simulated annealing, particle swarm optimization). RNNs are Turing complete and support memory and hierarchical reasoning.\n\nApplications span machine translation, speech recognition/synthesis, robot control, time series analysis, BCIs, music and grammar learning, handwriting and human action recognition, biological prediction, business processes, medical care, and fusion plasma forecasting. Key frameworks include TensorFlow, PyTorch, Keras, and Caffe",
+        "idx_start": 1383,
+        "idx_end": 2820
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Innovations\n## Generative Adversarial Networks (GANs)\nGANs pair generators and discriminators in curriculum-based training for robust data synthesis. Architectures such as StyleGAN, SinGAN, CycleGAN, DCGAN, and VAEGAN power creative content generation, simulation, multimedia, and transfer learning\u2014while raising ethical risks like deepfake creation.",
+        "text_original": "GANs pair generators and discriminators in curriculum-based training for robust data synthesis. Architectures such as StyleGAN, SinGAN, CycleGAN, DCGAN, and VAEGAN power creative content generation, simulation, multimedia, and transfer learning\u2014while raising ethical risks like deepfake creation",
+        "idx_start": 2867,
+        "idx_end": 3162
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Innovations\n## Autoencoders: Principles and Variants\nAutoencoders learn latent representations through input reconstruction\u2014serving anomaly detection, denoising, dimensionality reduction, medical imaging, retrieval, and robotics. Variants (DAE, CAE, VAE, SAE, MDL-AE, Concrete AE, and Stacked AE) enable improved joint training and diverse applications.",
+        "text_original": "Autoencoders learn latent representations through input reconstruction\u2014serving anomaly detection, denoising, dimensionality reduction, medical imaging, retrieval, and robotics. Variants (DAE, CAE, VAE, SAE, MDL-AE, Concrete AE, and Stacked AE) enable improved joint training and diverse applications",
+        "idx_start": 3208,
+        "idx_end": 3507
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Innovations\n## Graph Neural Networks (GNNs)\nGNNs process graph-structured data via message passing and aggregation. Architectures including MPNNs, GGS-NN, GCNs, and GATs impact protein folding, recommender systems, combinatorial optimization, and visual scene analysis.",
+        "text_original": "GNNs process graph-structured data via message passing and aggregation. Architectures including MPNNs, GGS-NN, GCNs, and GATs impact protein folding, recommender systems, combinatorial optimization, and visual scene analysis",
+        "idx_start": 3544,
+        "idx_end": 3768
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Innovations\n## Hopfield Networks and Associative Memory\nHopfield networks perform associative memory storage and retrieval using energy minimization, and training rules like Hebbian or Storkey. Modern extensions include neuron diversity, advanced energy modeling, hierarchical memory, and improved convergence; BAM uses matrix transposes for broad associative storage.",
+        "text_original": "Hopfield networks perform associative memory storage and retrieval using energy minimization, and training rules like Hebbian or Storkey. Modern extensions include neuron diversity, advanced energy modeling, hierarchical memory, and improved convergence; BAM uses matrix transposes for broad associative storage",
+        "idx_start": 3817,
+        "idx_end": 4128
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Innovations\n## Radial Basis Function (RBF) Networks\nRBF networks leverage Gaussian basis functions for universal approximation and explicit output determination, trained via center selection and regularized least squares, often with local linear model extensions. Applications include chaotic time series prediction and control tasks.",
+        "text_original": "RBF networks leverage Gaussian basis functions for universal approximation and explicit output determination, trained via center selection and regularized least squares, often with local linear model extensions. Applications include chaotic time series prediction and control tasks",
+        "idx_start": 4173,
+        "idx_end": 4454
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures and Innovations\n## Model Interpretability and CAM Techniques\nTransparency is advanced through visualization techniques like CAM, Grad-CAM, Guided Grad-CAM, Grad-CAM++, Score-CAM, and LayerCAM, supporting interpretability for deep learning models.\nThis summary distills deep learning innovations\u2014transformers (including vision transformers), CNNs, a broad spectrum of RNNs (including CTRNNs and discrete-time models), GANs, autoencoders, GNNs, Hopfield/BAM/RBF networks, and interpretability tools. It highlights core principles, landmark architectures and algorithms, advanced training methods, supported frameworks, and a wide range of impactful applications.",
+        "text_original": "Transparency is advanced through visualization techniques like CAM, Grad-CAM, Guided Grad-CAM, Grad-CAM++, Score-CAM, and LayerCAM, supporting interpretability for deep learning models.\n\n---\n\nThis summary distills deep learning innovations\u2014transformers (including vision transformers), CNNs, a broad spectrum of RNNs (including CTRNNs and discrete-time models), GANs, autoencoders, GNNs, Hopfield/BAM/RBF networks, and interpretability tools. It highlights core principles, landmark architectures and algorithms, advanced training methods, supported frameworks, and a wide range of impactful applications",
+        "idx_start": 4504,
+        "idx_end": 5108
+    }
+]

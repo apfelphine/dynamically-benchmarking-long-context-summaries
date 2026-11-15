@@ -1,0 +1,15 @@
+**Education in Nigeria**  
+
+Nigeria's education system is structured into primary, secondary, and tertiary levels, with a national framework emphasizing universal access and equity. Primary education spans six years (ages 6–12), culminating in a first school-leaving certificate. The curriculum includes core subjects such as Mathematics, English, Religious Knowledge, and indigenous languages (Hausa-Fulani, Yoruba, Igbo), with private schools offering additional subjects like Computer Science and French.  
+
+Secondary education follows a 6-3-3-4 structure, now reformed to a 9-3-4 system, with three years of Junior Secondary School (JSS) and three years of Senior Secondary School (SSS). Students take the Senior Secondary Certificate Examination (SSCE), administered by the West African Examination Council (WAEC), which is a prerequisite for university admission. The SSCE includes mandatory subjects like English and Mathematics, with students registering for up to nine subjects.  
+
+Tertiary education is diverse, comprising public and private universities, polytechnics, and colleges of education. The Federal Government has approved new private universities, including institutions like Mudiame University and Al-Istqama University, to expand access. Admission to universities typically requires a minimum of 180 marks in the Joint Admissions and Matriculation Board (JAMB) examination, with direct entry options available for candidates with National Certificate of Education (NCE), National Diploma (ND), or Advanced Level qualifications.  
+
+Vocational education is administered by the National Board for Technical Education, with students pursuing National Technical Certificates or Advanced National Technical Certificates through the National Business and Technical Examinations Board (NABTEB). Apprenticeships are also encouraged to provide practical skills and community values.  
+
+Despite progress, challenges persist, including teacher shortages, outdated curricula, poor infrastructure, and political instability. Informal education and literacy programs, though widespread, face funding constraints. The government has prioritized literacy, with initiatives like the National Functional Literacy Skills Project (FLSP) and the National Functional Literacy Programme (FNLP), aiming to improve adult literacy rates.  
+
+The system also includes a strong emphasis on examinations, with the SSCE and General Certificate of Education (GCE) serving as key gateways to higher education. International schools are present, offering curricula such as the International Baccalaureate (IB), and the government has established programs like the 6-3-3-4 reform to improve access and quality.  
+
+Overall, Nigeria's education system is expanding, but structural, financial, and policy challenges remain critical to its long-term success.

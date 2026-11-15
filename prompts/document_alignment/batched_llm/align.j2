@@ -1,0 +1,8 @@
+<summary_chunks>
+{% for summary_chunk in summary_chunks %}   <summary_chunk id={{loop.index0}}>
+        {{summary_chunk.text}}
+    </summary_chunk>{% endfor %}
+</summary_chunks>
+<source_chunk>
+    {{document_chunk.text}}
+</source_chunk>

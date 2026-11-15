@@ -1,0 +1,1 @@
+The Cusanuswerk is one of the thirteen German sponsorship organizations financed by the Federal Ministry of Education and Research (Germany) to promote gifted students. It is headquartered in Bonn.

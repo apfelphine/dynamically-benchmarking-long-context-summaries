@@ -1,0 +1,28 @@
+{
+  "id": 79840808,
+  "title": "Thinking Machines Lab",
+  "url": "https://en.wikipedia.org/wiki/Thinking_Machines_Lab",
+  "path": "AI-Regulations\\thinking-machines-lab",
+  "summary": {
+    "chars": 496,
+    "tokens": 104
+  },
+  "document": {
+    "chars": 1650,
+    "tokens": 343
+  },
+  "infobox": {
+    "title": "Thinking Machines Lab Inc.",
+    "data": {
+      "Company type": "Private",
+      "Industry": "Artificial intelligence",
+      "Founded": "February 2025 in San Francisco, California",
+      "Founder": "Mira Murati",
+      "Headquarters": "San Francisco, California, United States",
+      "Key people": "- Mira Murati (CEO) - John Schulman (chief scientist)",
+      "Products": "AI systems and platforms",
+      "Number of employees": "50 (2025)",
+      "Website": "thinkingmachines.ai"
+    }
+  }
+}

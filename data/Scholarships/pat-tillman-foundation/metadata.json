@@ -1,0 +1,28 @@
+{
+  "id": 67761380,
+  "title": "Pat Tillman Foundation",
+  "url": "https://en.wikipedia.org/wiki/Pat_Tillman_Foundation",
+  "path": "Scholarships\\pat-tillman-foundation",
+  "summary": {
+    "chars": 743,
+    "tokens": 149
+  },
+  "document": {
+    "chars": 3240,
+    "tokens": 704
+  },
+  "infobox": {
+    "title": "Pat Tillman Foundation",
+    "data": {
+      "Company type": "Nonprofit",
+      "Industry": "Education",
+      "Founded": "April 30, 2004",
+      "Founders": "- Marie Tillman - Alex Garwood - Benjamin Hill - Kevin Tillman - Jared Schrieber",
+      "Headquarters": "Chicago, Illinois",
+      "Key people": "- Marie Tillman (chairwoman) - Dr. Katherine Steele (CEO)",
+      "Revenue": "USD $6.0 million",
+      "Number of employees": "20 (Q1 2022)",
+      "Website": "www.ptf.org"
+    }
+  }
+}

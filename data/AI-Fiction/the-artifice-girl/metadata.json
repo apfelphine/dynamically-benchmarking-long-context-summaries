@@ -1,0 +1,32 @@
+{
+  "id": 74096809,
+  "title": "The Artifice Girl",
+  "url": "https://en.wikipedia.org/wiki/The_Artifice_Girl",
+  "path": "AI-Fiction\\the-artifice-girl",
+  "summary": {
+    "chars": 894,
+    "tokens": 182
+  },
+  "document": {
+    "chars": 3907,
+    "tokens": 817
+  },
+  "infobox": {
+    "title": "The Artifice Girl",
+    "data": {
+      "Directed by": "Franklin Ritch",
+      "Screenplay by": "Franklin Ritch",
+      "Produced by": "- Aaron B. Koontz - Ashleigh Snead",
+      "Starring": "- Tatum Matthews - Sinda Nichols - David Girard - Lance Henriksen - Franklin Ritch",
+      "Cinematography": "Britt McTammany",
+      "Edited by": "Franklin Ritch",
+      "Music by": "Alex Cuervo",
+      "Production \u00b7 companies": "- Paper Street Pictures - Last Resort Ideas - Blood Oath",
+      "Distributed by": "XYZ Films",
+      "Release dates": "- July 23, 2022 (Fantasia International Film Festival) - May 1, 2023 (United States)",
+      "Running time": "93 minutes",
+      "Country": "United States",
+      "Language": "English"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+# University College London Summary
+
+**Admissions and Access:**
+UCL employs a contextual offer scheme called Access UCL, which provides conditional offers with lower requirements for eligible applicants from disadvantaged backgrounds, including those from deprived areas, those who have spent time in care, young adult carers, or those estranged from their family. Additionally, the university runs UCL Summer Schools for high-achieving students from disadvantaged backgrounds, and it launched an integrated engineering foundation year program for disadvantaged students not meeting standard entry requirements for the Faculty of Engineering. The university also offers Undergraduate Preparatory Certificates for international students who do not meet standard admission requirements.
+
+**Campus Life and Reputation:**
+Students' Union UCL, established in 1893, serves as both a representative voice and a provider of services, boasting over 250 clubs and societies. UCL is dedicated to secularism and provides spaces for various faiths. The institution is heavily involved in research, having been a founding member of the Alan Turing Institute. Academically, UCL is a member of the Russell Group and is part of the 'golden triangle' of research-intensive universities in London, Cambridge, and Oxford. It has also shown significant activity in student campaigns, addressing issues from nuclear disarmament to climate action and cost of living.

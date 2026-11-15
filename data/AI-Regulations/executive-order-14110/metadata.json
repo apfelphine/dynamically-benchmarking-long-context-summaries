@@ -1,0 +1,23 @@
+{
+  "id": 75297794,
+  "title": "Executive Order 14110",
+  "url": "https://en.wikipedia.org/wiki/Executive_Order_14110",
+  "path": "AI-Regulations\\executive-order-14110",
+  "summary": {
+    "chars": 1064,
+    "tokens": 197
+  },
+  "document": {
+    "chars": 6786,
+    "tokens": 1245
+  },
+  "infobox": {
+    "title": "Executive Order 14110",
+    "data": {
+      "Type": "Executive order",
+      "Number": "14110",
+      "President": "Joe Biden",
+      "Signed": "October 30, 2023"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding "John von Neumann." It exclusively features extensive summaries of Noam Chomsky, John von Neumann (in a different context, focusing on mathematics and physics), Bertrand Russell, Gottfried Wilhelm Leibniz, Garry Kasparov, and Charles Sanders Peirce.

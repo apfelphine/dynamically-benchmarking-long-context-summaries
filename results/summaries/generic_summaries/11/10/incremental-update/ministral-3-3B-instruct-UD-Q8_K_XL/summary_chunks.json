@@ -1,0 +1,44 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT) Evolution & Key Innovations\nThe **Vision Transformer (ViT)** , introduced in 2020, replaced CNNs with self-attention mechanisms, tokenizing images into patches processed by transformer encoders. Its **unsupervised pretraining variants** (e.g., **MAE** , **DINO** ) improved self-distillation, while specialized models like **Swin Transformer** (sliding-window attention) and **TimeSformer** extended ViTs to video analysis. **DINO** and its successors ( **DINOv2/DINOv3** ) optimized teacher-student frameworks for robustness, particularly in high-capacity models. Recent advances include **enhanced positional encoding methods** (e.g., **RoPE** , **ALiBi** ) and **hybrid CNN-ViT architectures** , balancing efficiency and accuracy. **Dense Associative Memories** , inspired by modern Hopfield networks, may further enhance ViT\u2019s memory capacity for structured data.",
+        "text_original": "The **Vision Transformer (ViT)**, introduced in 2020, replaced CNNs with self-attention mechanisms, tokenizing images into patches processed by transformer encoders. Its **unsupervised pretraining variants** (e.g., **MAE**, **DINO**) improved self-distillation, while specialized models like **Swin Transformer** (sliding-window attention) and **TimeSformer** extended ViTs to video analysis. **DINO** and its successors (**DINOv2/DINOv3**) optimized teacher-student frameworks for robustness, particularly in high-capacity models. Recent advances include **enhanced positional encoding methods** (e.g., **RoPE**, **ALiBi**) and **hybrid CNN-ViT architectures**, balancing efficiency and accuracy. **Dense Associative Memories**, inspired by modern Hopfield networks, may further enhance ViT\u2019s memory capacity for structured data",
+        "idx_start": 61,
+        "idx_end": 890
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder Applications & Anomaly Detection\nAutoencoders enable **dimensionality reduction** and **generative learning** , with variants like **Denoising Autoencoders (DAE)** and **Variational Autoencoders (VAEs)** addressing noise robustness and probabilistic sampling. They excel in **anomaly detection** (via reconstruction error thresholds), **image processing** (e.g., medical imaging, drug discovery), and **communication systems** (resilient encoding). Their hybrid integration with **RBF Networks** and **Hopfield networks** improves scalability for multimodal/graph-structured data.",
+        "text_original": "Autoencoders enable **dimensionality reduction** and **generative learning**, with variants like **Denoising Autoencoders (DAE)** and **Variational Autoencoders (VAEs)** addressing noise robustness and probabilistic sampling. They excel in **anomaly detection** (via reconstruction error thresholds), **image processing** (e.g., medical imaging, drug discovery), and **communication systems** (resilient encoding). Their hybrid integration with **RBF Networks** and **Hopfield networks** improves scalability for multimodal/graph-structured data",
+        "idx_start": 946,
+        "idx_end": 1491
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function (RBF) Networks & Hybrid Synergies\n**RBF Networks** use Gaussian basis functions for localized approximation, with applications in **chaotic system modeling** , **time-series prediction** , and **hybrid architectures** (e.g., RBF-CNNs, RBF-RNNs). Their **unsupervised training** (e.g., projection operator methods) and **probabilistic consistency** enhance generalization. **Hybrid models** leverage RBF\u2019s **sparse, memory-efficient** nature alongside **CNNs, ViTs, and Hopfield networks** , particularly for **graph-structured or multimodal data** .",
+        "text_original": "RBF Networks** use Gaussian basis functions for localized approximation, with applications in **chaotic system modeling**, **time-series prediction**, and **hybrid architectures** (e.g., RBF-CNNs, RBF-RNNs). Their **unsupervised training** (e.g., projection operator methods) and **probabilistic consistency** enhance generalization. **Hybrid models** leverage RBF\u2019s **sparse, memory-efficient** nature alongside **CNNs, ViTs, and Hopfield networks**, particularly for **graph-structured or multimodal data",
+        "idx_start": 1560,
+        "idx_end": 2066
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Networks & Associative Learning\nHopfield networks employ **binary threshold units** and **Hebbian learning** in undirected graphs, converging to fixed-point attractors via **energy-based dynamics** . Modern variants achieve **exponential memory capacity** , bridging optimization (e.g., TSP), pattern recognition, and **attention mechanisms** . Their **energy-based optimization** principles inform hybrids with **RBF Networks** and **transformers** , enabling **scalable associative memory** for complex data.",
+        "text_original": "Hopfield networks employ **binary threshold units** and **Hebbian learning** in undirected graphs, converging to fixed-point attractors via **energy-based dynamics**. Modern variants achieve **exponential memory capacity**, bridging optimization (e.g., TSP), pattern recognition, and **attention mechanisms**. Their **energy-based optimization** principles inform hybrids with **RBF Networks** and **transformers**, enabling **scalable associative memory** for complex data",
+        "idx_start": 2120,
+        "idx_end": 2593
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Networks (RNNs): Foundations, Architectures & Training\nRNNs process sequential data via interconnected layers, with **continuous-time RNNs (CTRNNs)** described by differential equations (e.g., `\u03c4\u1d62\u00b7\u1dbb\u1d67\u1d62 = \u2212y\u1d62 + \u2211(w\u2c7c\u1d62\u00b7\u03c3(y\u2c7c \u2212 \u0398\u2c7c) + I\u1d62(t))` ), used in neuroscience and robotics. **Discrete RNNs** unroll into cyclic graphs, enabling memory-based learning (e.g., LSTMs/GRUs). Key features include **IIR dynamics** (retention of past states) and **biological-inspired models** (e.g., neuron silencing). Libraries like **PyTorch/TensorFlow** optimize implementations for **CPU/GPU acceleration** , supporting applications in **machine translation, robotics, time-series prediction, and medical tasks** .",
+        "text_original": "RNNs process sequential data via interconnected layers, with **continuous-time RNNs (CTRNNs)** described by differential equations (e.g., `\u03c4\u1d62\u00b7\u1dbb\u1d67\u1d62 = \u2212y\u1d62 + \u2211(w\u2c7c\u1d62\u00b7\u03c3(y\u2c7c \u2212 \u0398\u2c7c) + I\u1d62(t))`), used in neuroscience and robotics. **Discrete RNNs** unroll into cyclic graphs, enabling memory-based learning (e.g., LSTMs/GRUs). Key features include **IIR dynamics** (retention of past states) and **biological-inspired models** (e.g., neuron silencing). Libraries like **PyTorch/TensorFlow** optimize implementations for **CPU/GPU acceleration**, supporting applications in **machine translation, robotics, time-series prediction, and medical tasks",
+        "idx_start": 2676,
+        "idx_end": 3310
+    },
+    {
+        "document_idx": null,
+        "text": "# Hybrid Architectures & Scalability\nHybrid models integrate **Hopfield\u2019s energy-based optimization** , **RBF\u2019s localized Gaussian basis functions** , and **transformers\u2019 self-attention** for **scalable associative memory** . **Dense Associative Memories** enhance memory capacity via non-linear neuron dynamics, while **RNN-RBF hybrids** improve chaotic system modeling. **CNN-ViT-RNN-RBF** architectures optimize efficiency via sparse attention and probabilistic consistency. Ongoing research focuses on **heterophilic generalization** , **optimization-heavy tasks** , and **graph-structured data processing** , with **hybrid RNN training methods** (e.g., **CRBP** , **IndRNN** ) ensuring stability and scalability.",
+        "text_original": "Hybrid models integrate **Hopfield\u2019s energy-based optimization**, **RBF\u2019s localized Gaussian basis functions**, and **transformers\u2019 self-attention** for **scalable associative memory**. **Dense Associative Memories** enhance memory capacity via non-linear neuron dynamics, while **RNN-RBF hybrids** improve chaotic system modeling. **CNN-ViT-RNN-RBF** architectures optimize efficiency via sparse attention and probabilistic consistency. Ongoing research focuses on **heterophilic generalization**, **optimization-heavy tasks**, and **graph-structured data processing**, with **hybrid RNN training methods** (e.g., **CRBP**, **IndRNN**) ensuring stability and scalability",
+        "idx_start": 3358,
+        "idx_end": 4029
+    }
+]

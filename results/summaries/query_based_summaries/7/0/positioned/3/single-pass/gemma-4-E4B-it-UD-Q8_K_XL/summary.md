@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding "Education in Greece." The document focuses on education systems in China, Germany, and India.

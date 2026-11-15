@@ -1,0 +1,86 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Poland\nPoland\u2019s education system features eight years of primary schooling, followed by academic or vocational secondary tracks, with university admission via the Matura exam and a strong focus on foreign languages. The Bologna framework supports high literacy and global competitiveness.",
+        "text_original": "Poland\u2019s education system features eight years of primary schooling, followed by academic or vocational secondary tracks, with university admission via the Matura exam and a strong focus on foreign languages. The Bologna framework supports high literacy and global competitiveness",
+        "idx_start": 24,
+        "idx_end": 304
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Pakistan\nPakistan\u2019s English-influenced system faces underfunding and inequity, with a literacy rate of 60.65%. Religious restrictions affect access for women, transgender people, and minorities, although girls often outperform boys. Alternative pathways struggle with recognition and accessibility.",
+        "text_original": "Pakistan\u2019s English-influenced system faces underfunding and inequity, with a literacy rate of 60.65%. Religious restrictions affect access for women, transgender people, and minorities, although girls often outperform boys. Alternative pathways struggle with recognition and accessibility",
+        "idx_start": 321,
+        "idx_end": 609
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Czech Republic\nNine years of compulsory education in the Czech Republic lead to academic or vocational secondary options. Free, expanding higher education relies on the maturita exam and supports disadvantaged students.",
+        "text_original": "Nine years of compulsory education in the Czech Republic lead to academic or vocational secondary options. Free, expanding higher education relies on the maturita exam and supports disadvantaged students",
+        "idx_start": 632,
+        "idx_end": 835
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Russia\nRussia provides nine years of compulsory education followed by secondary or vocational paths. The Unified State Examination is required for university entrance, with curricula emphasizing patriotism and limited support for disabled students. Higher education follows the Bologna framework.",
+        "text_original": "Russia provides nine years of compulsory education followed by secondary or vocational paths. The Unified State Examination is required for university entrance, with curricula emphasizing patriotism and limited support for disabled students. Higher education follows the Bologna framework",
+        "idx_start": 850,
+        "idx_end": 1138
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Canada\nCanada\u2019s decentralized, province-based system covers early childhood to postsecondary education, with variable support for Indigenous and disadvantaged groups. Alberta shows strong performance; challenges include grade inflation and soft skills gaps.",
+        "text_original": "Canada\u2019s decentralized, province-based system covers early childhood to postsecondary education, with variable support for Indigenous and disadvantaged groups. Alberta shows strong performance; challenges include grade inflation and soft skills gaps",
+        "idx_start": 1153,
+        "idx_end": 1402
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## South Korea\nSouth Korea\u2019s system stresses academic achievement and English proficiency, offering academic and vocational secondary paths. Universities focus on research, with reforms encouraging holistic student development.",
+        "text_original": "South Korea\u2019s system stresses academic achievement and English proficiency, offering academic and vocational secondary paths. Universities focus on research, with reforms encouraging holistic student development",
+        "idx_start": 1422,
+        "idx_end": 1633
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Bangladesh\nBangladesh provides technical, vocational, and mainstream education through state and NGO programs, with literacy at 74.66%. Challenges include underfunding, rural dropout rates, and rote learning. Urban schools stress science, and compulsory education is expanding.",
+        "text_original": "Bangladesh provides technical, vocational, and mainstream education through state and NGO programs, with literacy at 74.66%. Challenges include underfunding, rural dropout rates, and rote learning. Urban schools stress science, and compulsory education is expanding",
+        "idx_start": 1652,
+        "idx_end": 1917
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Netherlands\nThe Netherlands combines central oversight with local autonomy, requiring education until age 18 or diploma. Secondary tracking can disadvantage some students. Reforms focus on skill development and equal religious school funding. Recent years saw declining international rankings; higher education features vocational, professional, and academic tracks.",
+        "text_original": "The Netherlands combines central oversight with local autonomy, requiring education until age 18 or diploma. Secondary tracking can disadvantage some students. Reforms focus on skill development and equal religious school funding. Recent years saw declining international rankings; higher education features vocational, professional, and academic tracks",
+        "idx_start": 1937,
+        "idx_end": 2290
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Saudi Arabia\nSaudi Arabia\u2019s centralized, gender-segregated system offers various school types. Reforms target teacher development, STEM, and lifelong learning, but female workforce participation remains low and special education uneven. Rote learning and weak English limit competitiveness.",
+        "text_original": "Saudi Arabia\u2019s centralized, gender-segregated system offers various school types. Reforms target teacher development, STEM, and lifelong learning, but female workforce participation remains low and special education uneven. Rote learning and weak English limit competitiveness",
+        "idx_start": 2311,
+        "idx_end": 2587
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Japan\nJapan\u2019s system spans primary through higher education, with high attendance and low dropout rates. Compulsory English was introduced in 2011. Distinctive features include cram schools, inclusivity efforts, and challenges like stress and bullying. International English schools do not satisfy compulsory requirements.",
+        "text_original": "Japan\u2019s system spans primary through higher education, with high attendance and low dropout rates. Compulsory English was introduced in 2011. Distinctive features include cram schools, inclusivity efforts, and challenges like stress and bullying. International English schools do not satisfy compulsory requirements",
+        "idx_start": 2601,
+        "idx_end": 2916
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## New Zealand\nNew Zealand\u2019s system includes primary, secondary, and tertiary levels, managed by the Ministry of Education, with M\u0101ori immersion options and equity-based funding. Tertiary education operates through the New Zealand Qualifications Framework, but costs and standards have declined, alongside skills shortages and bullying concerns.",
+        "text_original": "New Zealand\u2019s system includes primary, secondary, and tertiary levels, managed by the Ministry of Education, with M\u0101ori immersion options and equity-based funding. Tertiary education operates through the New Zealand Qualifications Framework, but costs and standards have declined, alongside skills shortages and bullying concerns",
+        "idx_start": 2936,
+        "idx_end": 3265
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Mexico\nMexico\u2019s education system transitioned from religious to state-run secular institutions post-independence, with centralized control under SEP and reforms promoting integration and literacy. The 20th century saw expansion through media and technical programs, and later decentralization and curriculum changes. Achievements include near-universal attendance (97.5% of children ages 6\u201314), a literacy rate of 94.86% (2018), universally free textbooks, and internationally ranked universities, notably the National Autonomous University of Mexico (103rd globally) and the Monterrey Institute of Technology (158th). Renowned private business schools, such as IPADE and EGADE, are also internationally recognized. However, regional inequalities persist, special needs integration is limited, secondary and higher education completion rates lag, and OECD rankings remain below average, reflecting ongoing social, political, and religious dynamics. Basic education includes preschool, primary, secondary, and compulsory high school, with higher education generally full-time and intercultural universities supporting indigenous access.",
+        "text_original": "Mexico\u2019s education system transitioned from religious to state-run secular institutions post-independence, with centralized control under SEP and reforms promoting integration and literacy. The 20th century saw expansion through media and technical programs, and later decentralization and curriculum changes. Achievements include near-universal attendance (97.5% of children ages 6\u201314), a literacy rate of 94.86% (2018), universally free textbooks, and internationally ranked universities, notably the National Autonomous University of Mexico (103rd globally) and the Monterrey Institute of Technology (158th). Renowned private business schools, such as IPADE and EGADE, are also internationally recognized. However, regional inequalities persist, special needs integration is limited, secondary and higher education completion rates lag, and OECD rankings remain below average, reflecting ongoing social, political, and religious dynamics. Basic education includes preschool, primary, secondary, and compulsory high school, with higher education generally full-time and intercultural universities supporting indigenous access",
+        "idx_start": 3280,
+        "idx_end": 4407
+    }
+]

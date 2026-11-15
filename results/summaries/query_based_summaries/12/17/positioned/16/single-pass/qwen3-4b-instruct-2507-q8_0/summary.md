@@ -1,0 +1,9 @@
+The **King's Scholar** is a prestigious academic designation with historical roots in England and the UK. It originated in **1317** when King Edward II established the first King's Scholars at the University of Cambridge, sending 12 boys to study under a master. In **1440**, King Henry VI founded Eton College, creating a system of King's Scholars (known as "Collegers" or "tugs") who were selected through competitive examinations and lived in the central College building. These scholars wear a black academic gown and are distinguished by the post-nominal **KS**.
+
+At **Westminster School**, the term "King's Scholar" is used when a reigning King is in office, and "Queen's Scholar" when a Queen is reigning, with scholars selected through a competitive exam and residing in the oldest house, College.
+
+At **King's College Cambridge**, King's Scholars are undergraduates who obtain first-class degrees and receive a £350 prize, along with the privilege of attending a ceremony in the college chapel and dining with their Directors of Studies.
+
+The **seven King's Schools** (Canterbury, Chester, Ely, Gloucester, Peterborough, Rochester, Worcester) were re-endowed by Henry VIII in 1541 and award King's Scholarships based on academic or musical excellence. These scholars are members of the cathedral foundation, enjoy privileges such as marrying or being buried in the cathedral grounds, and wear gowns during services.
+
+The King's Scholar designation is thus a long-standing tradition of academic excellence, rooted in royal patronage and tied to specific institutions across the UK, with distinct privileges and traditions in each.

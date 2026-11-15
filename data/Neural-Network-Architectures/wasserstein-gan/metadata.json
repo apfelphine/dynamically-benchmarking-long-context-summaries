@@ -1,0 +1,15 @@
+{
+  "id": 71299604,
+  "title": "Wasserstein GAN",
+  "url": "https://en.wikipedia.org/wiki/Wasserstein_GAN",
+  "path": "Neural-Network-Architectures\\wasserstein-gan",
+  "summary": {
+    "chars": 551,
+    "tokens": 105
+  },
+  "document": {
+    "chars": 12216,
+    "tokens": 3898
+  },
+  "infobox": null
+}

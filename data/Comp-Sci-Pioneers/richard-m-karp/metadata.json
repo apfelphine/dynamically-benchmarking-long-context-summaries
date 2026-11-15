@@ -1,0 +1,28 @@
+{
+  "id": 298763,
+  "title": "Richard M. Karp",
+  "url": "https://en.wikipedia.org/wiki/Richard_M._Karp",
+  "path": "Comp-Sci-Pioneers\\richard-m-karp",
+  "summary": {
+    "chars": 609,
+    "tokens": 125
+  },
+  "document": {
+    "chars": 3810,
+    "tokens": 770
+  },
+  "infobox": {
+    "title": "Richard Manning Karp",
+    "data": {
+      "Born": "January 3, 1935 \u00b7 Boston, Massachusetts, US",
+      "Education": "Harvard University (BA, MA, PhD)",
+      "Known for": "Aanderaa\u2013Karp\u2013Rosenberg conjecture \u00b7 Edmonds\u2013Karp algorithm \u00b7 Held\u2013Karp algorithm \u00b7 Hopcroft\u2013Karp algorithm \u00b7 Karmarkar\u2013Karp algorithm \u00b7 Rabin\u2013Karp string search algorithm \u00b7 Karp\u2013Lipton theorem \u00b7 Karp's 21 NP-complete problems \u00b7 Vector addition system",
+      "Awards": "Fulkerson Prize (1979) \u00b7 Turing Award (1985) \u00b7 John von Neumann Theory Prize (1990) \u00b7 IEEE Computer Society Charles Babbage Award (1995) \u00b7 National Medal of Science (1996) \u00b7 Harvey Prize (1998) \u00b7 EATCS award (2000) \u00b7 Benjamin Franklin Medal (2004) \u00b7 Kyoto Prize (2008)",
+      "Fields": "Mathematics \u00b7 Computer science",
+      "Institutions": "University of California, Berkeley \u00b7 IBM",
+      "Thesis": "Some applications of logical syntax to digital computer programming (1959)",
+      "Doctoral advisor": "Anthony Oettinger",
+      "Doctoral students": "- Faith Ellen - Sally Floyd - Phillip Gibbons - Dan Gusfield - Narendra Karmarkar - Valerie King - Michael Luby - Rajeev Motwani - Noam Nisan - Raymond Reiter - Eunice Santos - Thomas J. Schaefer - Ron Shamir - Barbara Simons - Eric Xing - Norman Zadeh"
+    }
+  }
+}

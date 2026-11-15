@@ -1,0 +1,5 @@
+# Wasserstein GAN
+
+The Wasserstein GAN (WGAN) modifies the original Generative Adversarial Network (GAN) game by replacing the objective function based on the Jensen–Shannon divergence with the **Wasserstein metric** (or Earth Mover's distance). This metric is highly efficient to compute due to the **Kantorovich-Rubenstein duality**.
+
+In a WGAN game, the generator aims to minimize the objective $L_{WGAN}(\mu_G, D) = \mathbb{E}_{x \sim \mu_G}[D(x)] - \mathbb{E}_{x \sim \mu_{ref}}[D(x)]$, while the discriminator (referred to as a "critic") aims to maximize it. The discriminator is constrained to have a bounded Lipschitz norm ($\|D\|_L \leq K$). WGAN is designed to solve problems like mode collapse encountered in standard GANs, as the Wasserstein distance provides a better gradient for the generator. Training methods to enforce this Lipschitz constraint include **weight clipping**, **spectral normalization**, and using a **gradient penalty**.

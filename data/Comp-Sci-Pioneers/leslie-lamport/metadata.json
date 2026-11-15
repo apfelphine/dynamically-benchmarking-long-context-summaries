@@ -1,0 +1,28 @@
+{
+  "id": 195671,
+  "title": "Leslie Lamport",
+  "url": "https://en.wikipedia.org/wiki/Leslie_Lamport",
+  "path": "Comp-Sci-Pioneers\\leslie-lamport",
+  "summary": {
+    "chars": 765,
+    "tokens": 136
+  },
+  "document": {
+    "chars": 5262,
+    "tokens": 1165
+  },
+  "infobox": {
+    "title": "Leslie Lamport",
+    "data": {
+      "Born": "February 7, 1941 \u00b7 New York City, U.S.",
+      "Education": "- Massachusetts Institute of Technology (BS) - Brandeis University (MA, PhD)",
+      "Known for": "- LaTeX - Hash chain (S/KEY) - Sequential consistency - Lamport's bakery algorithm - Byzantine fault tolerance - Paxos algorithm - Lamport signature - Temporal logic of actions - TLA+",
+      "Awards": "- Dijkstra Prize (2000, 2005, 2014) - IEEE Emanuel R. Piore Award (2004) - IEEE John von Neumann Medal (2008) - Turing Award (2013) - Member of the National Academy of Sciences (2011) - ACM Fellow (2014)",
+      "Fields": "Computer science",
+      "Institutions": "- Microsoft Research - Compaq - Digital Equipment Corporation - SRI International",
+      "Thesis": "The analytic Cauchy problem with singular data (1972)",
+      "Doctoral advisor": "Richard Palais",
+      "Website": "lamport.azurewebsites.net"
+    }
+  }
+}

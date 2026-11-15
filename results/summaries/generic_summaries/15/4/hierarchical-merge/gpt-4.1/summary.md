@@ -1,0 +1,10 @@
+## Leading Global Universities
+
+### Americas
+Major universities across the Americas, such as the Federal University of Rio de Janeiro (UFRJ), University of Toronto (U of T), National Autonomous University of Mexico (UNAM), and University of British Columbia (UBC), are widely recognized for their research excellence, impactful public engagement, and vibrant campus communities. UFRJ stands out for its contributions to public health and technological innovation in Brazil, while U of T boasts multidisciplinary strength, record enrollments, and a collegiate structure. UNAM, noted for its autonomy, scientific leadership (especially in Artificial Intelligence), and UNESCO-listed campus, is a major force in Mexican academia and culture. UBC excels in sustainability, international partnerships, and community engagement, supporting a diverse student body and influential alumni.
+
+### United States & United Kingdom
+Cornell University in the U.S. is a prestigious research institution with selective admissions, a strong tradition of innovation, and a prolific alumni network including Nobel laureates. In the UK, the University of Oxford exemplifies historic academic leadership, a unique collegiate system, renowned facilities, and substantial outreach and financial aid programs, consistently producing high-achieving graduates and thought leaders.
+
+### Asia-Pacific
+Asia-Pacific universities such as the National University of Singapore (NUS), University of Hong Kong (HKU), University of New South Wales (UNSW), and University of Melbourne have earned global distinction through interdisciplinary research, internationalization, and active student life. NUS leads in innovation and global collaboration, HKU emphasizes research output and academic freedom, UNSW combines academic strength and governance with high graduate employability, and Melbourne is notable for research, structural reforms, inclusivity, and global rankings. All maintain vibrant campus communities and play significant roles in shaping higher education within their regions and globally.

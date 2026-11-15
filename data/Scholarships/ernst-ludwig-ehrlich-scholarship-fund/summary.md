@@ -1,0 +1,2 @@
+The Ernst Ludwig Ehrlich Scholarship Fund (German: Ernst Ludwig Ehrlich Studienwerk or ELES for short) is one of thirteen Federally-funded Scholarship Foundations in the Federal Republic of Germany. It is located in Berlin.
+The Scholarship Fund was named after religious scholar and historian Ernst Ludwig Ehrlich (1921-2007).

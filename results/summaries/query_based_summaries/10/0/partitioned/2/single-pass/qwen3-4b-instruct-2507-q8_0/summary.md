@@ -1,0 +1,25 @@
+# Education in Sweden
+
+## Upper Secondary Education
+Upper secondary education (gymnasieskola) lasts three years and is elective, with a 99% enrollment rate. It is divided into 18 national programmes, categorized as preparatory or vocational. Preparatory programmes prepare students for university, while vocational programmes focus on practical skills. Students must pass 8 subjects for vocational programmes and 12 for preparatory ones, with core subjects including mathematics, Swedish, and English. A diploma project is required in all programmes, involving planning, execution, and reflection, graded as pass (E) or fail (F), and not included in merit value for higher education.
+
+## Comprehensive School (Grundskola)
+Mandatory from age 6 to 16, the comprehensive school includes 16 compulsory subjects: Swedish, mathematics, physical education, English, handicrafts, music, visual arts, technology, physics, chemistry, biology, history, social studies, religion, geography, and home economics. Students take these subjects across three stages (lower, middle, upper). In grade 6, students may choose a foreign language course. Grades are given from A to F, with E = 10, D = 12.5, C = 15, B = 17.5, A = 20. The total score (up to 340) is used for university admissions, with core subjects (English, Swedish, mathematics) required for qualification. National tests are administered in grades 3, 6, and 9 to assess student progress.
+
+## Higher Education
+Higher education is structured into three cycles: bachelor’s (1–3 years), master’s (1–2 years), and doctoral (2–5 years). Bachelor’s degrees are awarded by universities or university colleges, with master’s degrees requiring a thesis. Doctoral degrees (PhD) are research-based and take 3–5 years. The grading system varies by institution, using scales from A to F or letter grades (e.g., VG, G, U). Students must demonstrate proficiency in Swedish and English, with standardized tests like SweSAT used for university admission. Financial aid is available through the National Board of Student Aid (CSN), and higher education is free for Swedish, EU/EEA, and Swiss citizens.
+
+## Independent Schools (Friskolor)
+Introduced in 1992, independent schools are publicly funded and operate under local municipality control. They are not allowed to charge tuition or discriminate in admissions. They offer alternative pedagogies, including Montessori, international, or special needs programs. As of 2008, over 900 independent schools existed, with more than 10% of pupils enrolled. Concerns have been raised about their profit-making model and educational standards, leading to investigations in 2023.
+
+## PISA and PIRLS Results
+Sweden performed well in international assessments. In PISA 2015, results were close to the OECD average. In PIRLS, scores declined from 2001 to 2011, with a recovery by 2016. A 2021 investigation found flaws in testing procedures, including unauthorized dissemination of national tests, leading to calls for reform.
+
+## Preschool
+Preschool is available to children from age 1, with free access to three hours daily. Children aged 3–6 receive full-day care, and those under 3 may attend with fees based on income. The focus is on play, singing, and drawing to promote social and cognitive development. 
+
+## Curriculum and Pedagogy
+The curriculum emphasizes both theoretical and practical knowledge. The 2011 curriculum revision introduced grades from year 6 and increased focus on critical thinking. Teaching is student-centered, with teachers acting as facilitators. 
+
+## Student Support and Equity
+The government provides support for students with special needs, including special education assistants (SNAs) and inclusive classrooms. The national curriculum ensures equal access, and efforts are made to reduce disparities in educational outcomes.

@@ -1,0 +1,31 @@
+{
+  "id": 66485390,
+  "title": "Bigbug",
+  "url": "https://en.wikipedia.org/wiki/Bigbug",
+  "path": "AI-Fiction\\bigbug",
+  "summary": {
+    "chars": 530,
+    "tokens": 122
+  },
+  "document": {
+    "chars": 7931,
+    "tokens": 1746
+  },
+  "infobox": {
+    "title": "Bigbug",
+    "data": {
+      "Directed by": "Jean-Pierre Jeunet",
+      "Written by": "- Jean-Pierre Jeunet - Guillaume Laurant",
+      "Produced by": "- Fr\u00e9d\u00e9ric Doniguian - Richard Grandpierre - Jean-Pierre Jeunet",
+      "Starring": "- Isabelle Nanty - Elsa Zylberstein - Claude Perron - St\u00e9phane De Groodt - Youssef Hajdi - Alban Lenoir - Fran\u00e7ois Levantal",
+      "Cinematography": "Thomas Hardmeier",
+      "Edited by": "Herv\u00e9 Schneid",
+      "Production \u00b7 companies": "- Eskwad - Gaumont",
+      "Distributed by": "Netflix",
+      "Release date": "- 11 February 2022",
+      "Running time": "111 minutes",
+      "Country": "France",
+      "Language": "French"
+    }
+  }
+}

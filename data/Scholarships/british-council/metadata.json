@@ -1,0 +1,29 @@
+{
+  "id": 429846,
+  "title": "British Council",
+  "url": "https://en.wikipedia.org/wiki/British_Council",
+  "path": "Scholarships\\british-council",
+  "summary": {
+    "chars": 780,
+    "tokens": 137
+  },
+  "document": {
+    "chars": 31607,
+    "tokens": 6508
+  },
+  "infobox": {
+    "title": "British Council",
+    "data": {
+      "Founded": "1934",
+      "Founder": "British government",
+      "Type": "Cultural institution",
+      "Headquarters": "1 Redman Place, Stratford, London E20 1JQ, England, United Kingdom",
+      "Area served": "Worldwide",
+      "Product": "British cultural and language education",
+      "Key people": "Paul Thompson (chair) \u00b7 Scott McDonald (chief executive)",
+      "Revenue": "\u00a3924,965,472 (2020\u201321)",
+      "Expenses": "\u00a31,015,114,434 (2020\u201321)",
+      "Website": "www.britishcouncil.org"
+    }
+  }
+}

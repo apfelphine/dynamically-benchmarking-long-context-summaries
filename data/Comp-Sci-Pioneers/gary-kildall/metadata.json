@@ -1,0 +1,30 @@
+{
+  "id": 12740,
+  "title": "Gary Kildall",
+  "url": "https://en.wikipedia.org/wiki/Gary_Kildall",
+  "path": "Comp-Sci-Pioneers\\gary-kildall",
+  "summary": {
+    "chars": 1016,
+    "tokens": 215
+  },
+  "document": {
+    "chars": 16823,
+    "tokens": 3618
+  },
+  "infobox": {
+    "title": "Gary Kildall",
+    "data": {
+      "Born": "May 19, 1942 \u00b7 Seattle, Washington, U.S.",
+      "Died": "July 11, 1994 (aged 52) \u00b7 Monterey, California, U.S.",
+      "Resting place": "Evergreen Washelli Memorial Park",
+      "Alma mater": "University of Washington",
+      "Occupations": "Computer scientist entrepreneur",
+      "Years active": "1972\u20131994",
+      "Known for": "Creator of CP/M Pioneer of the personal computer revolution",
+      "Title": "Founder, chairman and CEO of Digital Research",
+      "Board member of": "Digital Research",
+      "Spouse(s)": "Dorothy McEwen Kildall \u00b7 Karen Kildall",
+      "Children": "2, including Scott"
+    }
+  }
+}

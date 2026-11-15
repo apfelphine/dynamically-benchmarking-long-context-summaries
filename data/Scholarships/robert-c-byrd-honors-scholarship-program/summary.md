@@ -1,0 +1,1 @@
+The Robert C. Byrd Honors Scholarship Program was a federally funded and state-administered merit-based scholarship program in the United States.

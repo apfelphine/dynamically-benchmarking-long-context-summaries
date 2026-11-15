@@ -1,0 +1,11 @@
+**Education in Poland**
+
+Poland's education system is structured into compulsory primary, secondary, and tertiary levels. Compulsory education begins at age 6 and lasts until age 18, with a significant reform in 2017 extending primary school from six to eight years, replacing the previous three-year middle school (gimnazjum) system. The primary school (szkoła podstawowa) covers grades 1–8, teaching core subjects including Polish, mathematics, foreign languages, science, and arts.
+
+Upper secondary education includes general and vocational pathways. General education is offered in liceums (high schools), where students prepare for the "Matura" exam, granting access to higher education. Vocational education is provided through technical schools (technikum) and basic vocational schools (zasadnicza szkoła zawodowa), with technical schools lasting five years and vocational schools three years. Students from vocational schools can obtain the Matura after completing an additional two or three years of study.
+
+Tertiary education follows the Bologna model, with a three-year bachelor’s degree followed by a two-year master’s degree. Some programs, such as pharmacy and medicine, offer longer cycles. The grading system at the university level uses a numeric scale from 2.0 to 5.0, with 3.0 being the minimum passing grade. Foreign languages are a key component, with students required to study two languages—typically English and another—by the end of lower secondary school.
+
+Historically, Poland has had a strong educational foundation, with the Jagiellonian University (founded in 1364) being one of Europe’s oldest. Major reforms in 1999 and 2017 reshaped the system, improving access and outcomes. In 2006, a "zero tolerance" policy was introduced to combat school violence, granting teachers civil servant status and increasing penalties for violent acts.
+
+The system emphasizes academic rigor, with a focus on core subjects and national curriculum standards. Poland’s education system is known for its strong performance in international assessments, particularly in science and mathematics, and continues to evolve with a focus on equity, modernization, and student well-being.

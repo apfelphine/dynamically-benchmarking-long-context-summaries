@@ -1,0 +1,135 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Geoffrey Hinton\nGeoffrey Hinton is a pioneering figure in artificial intelligence, known for foundational work in neural networks and deep learning. Educated in England and Scotland, he contributed to breakthroughs such as backpropagation, Boltzmann machines, and capsule networks, and co-founded DNNresearch acquired by Google in 2013. He taught neural networks via Coursera and led significant AI research programs including at CIFAR alongside Yoshua Bengio and Yann LeCun. Recently, Hinton expressed scientific skepticism on current AI limitations and resigned from Google to speak openly about AI risks, including existential threats and economic impacts. He was jointly awarded the 2018 Turing Award and the 2024 Nobel Prize in Physics for foundational AI work.",
+        "text_original": "Geoffrey Hinton is a pioneering figure in artificial intelligence, known for foundational work in neural networks and deep learning. Educated in England and Scotland, he contributed to breakthroughs such as backpropagation, Boltzmann machines, and capsule networks, and co-founded DNNresearch acquired by Google in 2013. He taught neural networks via Coursera and led significant AI research programs including at CIFAR alongside Yoshua Bengio and Yann LeCun. Recently, Hinton expressed scientific skepticism on current AI limitations and resigned from Google to speak openly about AI risks, including existential threats and economic impacts. He was jointly awarded the 2018 Turing Award and the 2024 Nobel Prize in Physics for foundational AI work",
+        "idx_start": 100,
+        "idx_end": 849
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Ismail al-Jazari\nAn Islamic golden age engineer from 12th-13th century Mesopotamia, al-Jazari is renowned for mechanical inventions detailed in his 1206 treatise, the *Book of Knowledge of Ingenious Mechanical Devices* . He innovated in camshafts, crankshafts, escapement mechanisms, and water-raising machines like chain pumps and double-action piston pumps. Al-Jazari also created complex automata including humanoid servants, musical robots, and advanced water clocks. His work influenced both practical engineering and early robotics, emphasizing craftsmanship and iterative design. His detailed illustrations reflect both technological and cultural aspects of his era.",
+        "text_original": "An Islamic golden age engineer from 12th-13th century Mesopotamia, al-Jazari is renowned for mechanical inventions detailed in his 1206 treatise, the *Book of Knowledge of Ingenious Mechanical Devices*. He innovated in camshafts, crankshafts, escapement mechanisms, and water-raising machines like chain pumps and double-action piston pumps. Al-Jazari also created complex automata including humanoid servants, musical robots, and advanced water clocks. His work influenced both practical engineering and early robotics, emphasizing craftsmanship and iterative design. His detailed illustrations reflect both technological and cultural aspects of his era",
+        "idx_start": 877,
+        "idx_end": 1531
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## George Antheil\nAn American avant-garde composer known for his mechanical and percussive musical style, Antheil studied piano and composition, gaining notoriety in Europe in the 1920s. His best-known work, *Ballet M\u00e9canique* , was an experimental composition involving player pianos and airplane propellers. Despite initial critical hostility and mixed success, he contributed widely to film scores and music criticism in the U.S. Later in life, Antheil famously co-invented a frequency-hopping system with actress Hedy Lamarr for secure radio communications, a precursor technology to modern wireless systems.",
+        "text_original": "An American avant-garde composer known for his mechanical and percussive musical style, Antheil studied piano and composition, gaining notoriety in Europe in the 1920s. His best-known work, *Ballet M\u00e9canique*, was an experimental composition involving player pianos and airplane propellers. Despite initial critical hostility and mixed success, he contributed widely to film scores and music criticism in the U.S. Later in life, Antheil famously co-invented a frequency-hopping system with actress Hedy Lamarr for secure radio communications, a precursor technology to modern wireless systems",
+        "idx_start": 1557,
+        "idx_end": 2149
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Kurt G\u00f6del\nA seminal logician and mathematician, G\u00f6del is famous for his incompleteness theorems proving inherent limitations in formal mathematical systems. Born in Austria-Hungary, he studied at Vienna and later moved to the U.S., joining the Institute for Advanced Study alongside Einstein, with whom he had a close friendship. His incompleteness theorems reshaped mathematical logic and philosophy, and he contributed to set theory and general relativity (G\u00f6del metric). G\u00f6del suffered from mental health issues and died in 1978. He formulated a formal ontological argument for God\u2019s existence and held distinct religious views emphasizing rationalism.",
+        "text_original": "A seminal logician and mathematician, G\u00f6del is famous for his incompleteness theorems proving inherent limitations in formal mathematical systems. Born in Austria-Hungary, he studied at Vienna and later moved to the U.S., joining the Institute for Advanced Study alongside Einstein, with whom he had a close friendship. His incompleteness theorems reshaped mathematical logic and philosophy, and he contributed to set theory and general relativity (G\u00f6del metric). G\u00f6del suffered from mental health issues and died in 1978. He formulated a formal ontological argument for God\u2019s existence and held distinct religious views emphasizing rationalism",
+        "idx_start": 2171,
+        "idx_end": 2815
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Ramon Llull\nMedieval philosopher and logician from Majorca, Llull developed a universal logic system called the *Art* , combining combinatorial and algebraic methods aimed at proving religious truths and converting non-Christians. His work integrated dialogue formats, tree diagrams, and notions of correlatives (agent, patient, act). Though not widely accepted by medieval academia, his logic influenced later thinkers including Leibniz. Llull\u2019s writings spanned theology, philosophy, and literature, and he was beatified in 1847.",
+        "text_original": "Medieval philosopher and logician from Majorca, Llull developed a universal logic system called the *Art*, combining combinatorial and algebraic methods aimed at proving religious truths and converting non-Christians. His work integrated dialogue formats, tree diagrams, and notions of correlatives (agent, patient, act). Though not widely accepted by medieval academia, his logic influenced later thinkers including Leibniz. Llull\u2019s writings spanned theology, philosophy, and literature, and he was beatified in",
+        "idx_start": 2838,
+        "idx_end": 3350
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Lynn Conway\nA pioneering computer scientist and transgender activist, Conway contributed to computer architecture, especially superscalar designs and VLSI chip design methodology alongside Carver Mead. Fired by IBM in 1968 for her gender transition, she rebuilt her career at Xerox PARC and later DARPA, impacting chip design automation, rapid prototyping (MOSIS), and inspiring inclusive industry ethics. Conway was honored by major institutions for technical and social leadership, and was active in transgender rights advocacy until her death in 2024.",
+        "text_original": "A pioneering computer scientist and transgender activist, Conway contributed to computer architecture, especially superscalar designs and VLSI chip design methodology alongside Carver Mead. Fired by IBM in 1968 for her gender transition, she rebuilt her career at Xerox PARC and later DARPA, impacting chip design automation, rapid prototyping (MOSIS), and inspiring inclusive industry ethics. Conway was honored by major institutions for technical and social leadership, and was active in transgender rights advocacy until her death in",
+        "idx_start": 3378,
+        "idx_end": 3914
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## George Boole\nFounder of Boolean algebra and symbolic logic, Boole was largely self-taught and became the first mathematics professor at Queen\u2019s College Cork. His algebraic logic system laid the theoretical foundation for digital computing and information theory. Boole emphasized logic's relation to human thought and probability. Despite limited formal education, he produced influential works until his death in 1864. His legacy permeates modern computing, notably in digital circuit design and computer science.",
+        "text_original": "Founder of Boolean algebra and symbolic logic, Boole was largely self-taught and became the first mathematics professor at Queen\u2019s College Cork. His algebraic logic system laid the theoretical foundation for digital computing and information theory. Boole emphasized logic's relation to human thought and probability. Despite limited formal education, he produced influential works until his death in 1864. His legacy permeates modern computing, notably in digital circuit design and computer science",
+        "idx_start": 3943,
+        "idx_end": 4443
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Donald Knuth\nKnuth is a foundational computer scientist known for *The Art of Computer Programming* , a comprehensive series on algorithms. Educated in physics and mathematics with a career spanning Caltech and Stanford, he developed TeX and Metafont digital typesetting systems and pioneered literate programming methodologies. Knuth emphasized the narrative aspect of programming and was critical of trivial software patents. His numerous awards include the Turing Award and National Medal of Science.",
+        "text_original": "Knuth is a foundational computer scientist known for *The Art of Computer Programming*, a comprehensive series on algorithms. Educated in physics and mathematics with a career spanning Caltech and Stanford, he developed TeX and Metafont digital typesetting systems and pioneered literate programming methodologies. Knuth emphasized the narrative aspect of programming and was critical of trivial software patents. His numerous awards include the Turing Award and National Medal of Science",
+        "idx_start": 4467,
+        "idx_end": 4955
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Kenneth E. Iverson\nCanadian computer scientist Iverson created the programming language APL, known for its expressive, array-oriented notation. He developed formal descriptions of IBM System/360 and later founded the J programming language. Iverson\u2019s work bridged mathematics and programming, emphasizing clarity and concise notation. He was an IBM Fellow and Turing Award laureate, advancing programming language design and pedagogy.",
+        "text_original": "Canadian computer scientist Iverson created the programming language APL, known for its expressive, array-oriented notation. He developed formal descriptions of IBM System/360 and later founded the J programming language. Iverson\u2019s work bridged mathematics and programming, emphasizing clarity and concise notation. He was an IBM Fellow and Turing Award laureate, advancing programming language design and pedagogy",
+        "idx_start": 4985,
+        "idx_end": 5399
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Claude Shannon\nKnown as \"the father of information theory,\" Shannon laid the mathematical foundation for digital communication and data compression. His master\u2019s thesis applied Boolean algebra to switching circuits, revolutionizing circuit design. Shannon also contributed to cryptography and artificial intelligence, co-founding modern communication theory with his 1948 paper *A Mathematical Theory of Communication* . He was an influential polymath with honors including the National Medal of Science and Kyoto Prize.",
+        "text_original": "Known as \"the father of information theory,\" Shannon laid the mathematical foundation for digital communication and data compression. His master\u2019s thesis applied Boolean algebra to switching circuits, revolutionizing circuit design. Shannon also contributed to cryptography and artificial intelligence, co-founding modern communication theory with his 1948 paper *A Mathematical Theory of Communication*. He was an influential polymath with honors including the National Medal of Science and Kyoto Prize",
+        "idx_start": 5425,
+        "idx_end": 5928
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Jacek Karpi\u0144ski\nPolish computer engineer Karpi\u0144ski was a pioneer in transistor-based analog computing and designed early minicomputers including the AKAT-1 and K-202. Despite technical innovations such as an early perceptron, political and institutional obstacles limited his career under communist Poland. He also contributed to scanning and data processing technologies and participated in resistance during WWII. His legacy is a symbol of overlooked innovation due to political reasons.",
+        "text_original": "Polish computer engineer Karpi\u0144ski was a pioneer in transistor-based analog computing and designed early minicomputers including the AKAT-1 and K-202. Despite technical innovations such as an early perceptron, political and institutional obstacles limited his career under communist Poland. He also contributed to scanning and data processing technologies and participated in resistance during WWII. His legacy is a symbol of overlooked innovation due to political reasons",
+        "idx_start": 5955,
+        "idx_end": 6427
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Edsger W. Dijkstra\nDutch computer scientist Dijkstra was an early programming pioneer and advocate of structured programming, famous for the algorithm named after him to find shortest paths. He was a developer of operating systems, concurrent computing concepts like semaphores and monitors, and compiler theory. Known for his rigorous and often blunt style, he influenced programming discipline profoundly and received the Turing Award and numerous other honors.",
+        "text_original": "Dutch computer scientist Dijkstra was an early programming pioneer and advocate of structured programming, famous for the algorithm named after him to find shortest paths. He was a developer of operating systems, concurrent computing concepts like semaphores and monitors, and compiler theory. Known for his rigorous and often blunt style, he influenced programming discipline profoundly and received the Turing Award and numerous other honors",
+        "idx_start": 6457,
+        "idx_end": 6900
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Federico Faggin\nItalian physicist and engineer, Faggin invented silicon-gate MOS technology and designed the world's first commercial microprocessor, the Intel 4004. After key roles at Olivetti, Fairchild, and Intel, he co-founded Zilog, developing the Z80 microprocessor. Faggin also pioneered touch input devices at Synaptics and founded the Federico and Elvia Faggin Foundation to study consciousness. He proposes a quantum theory of consciousness based on privacy and information principles.",
+        "text_original": "Italian physicist and engineer, Faggin invented silicon-gate MOS technology and designed the world's first commercial microprocessor, the Intel 4004. After key roles at Olivetti, Fairchild, and Intel, he co-founded Zilog, developing the Z80 microprocessor. Faggin also pioneered touch input devices at Synaptics and founded the Federico and Elvia Faggin Foundation to study consciousness. He proposes a quantum theory of consciousness based on privacy and information principles",
+        "idx_start": 6927,
+        "idx_end": 7405
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Herbert A. Simon\nSimon was a polymath whose work spans economics, psychology, artificial intelligence, and decision theory. He developed the theory of bounded rationality and satisficing in decision-making, and contributed to early AI programs like the Logic Theory Machine and GPS. Awarded the Turing Award and Nobel Prize in Economics, Simon emphasized interdisciplinary approaches blending cognitive science and organizational behavior.",
+        "text_original": "Simon was a polymath whose work spans economics, psychology, artificial intelligence, and decision theory. He developed the theory of bounded rationality and satisficing in decision-making, and contributed to early AI programs like the Logic Theory Machine and GPS. Awarded the Turing Award and Nobel Prize in Economics, Simon emphasized interdisciplinary approaches blending cognitive science and organizational behavior",
+        "idx_start": 7433,
+        "idx_end": 7854
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Grace Hopper\nRear Admiral Grace Hopper was a pioneering computer scientist and Navy officer who developed early compilers and greatly influenced programming languages, notably by contributing to COBOL's creation. Starting as a mathematics professor, she joined the Navy during WWII, working on Harvard Mark I programming. Known for popularizing \"debugging,\" Hopper was an advocate for user-friendly programming languages and served on Navy standards committees. She retired as one of the oldest active-duty officers and received numerous honors posthumously.",
+        "text_original": "Rear Admiral Grace Hopper was a pioneering computer scientist and Navy officer who developed early compilers and greatly influenced programming languages, notably by contributing to COBOL's creation. Starting as a mathematics professor, she joined the Navy during WWII, working on Harvard Mark I programming. Known for popularizing \"debugging,\" Hopper was an advocate for user-friendly programming languages and served on Navy standards committees. She retired as one of the oldest active-duty officers and received numerous honors posthumously",
+        "idx_start": 7878,
+        "idx_end": 8422
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Per Brinch Hansen\nDanish computer scientist Brinch Hansen made foundational contributions to operating systems and concurrent programming. Creator of the RC 4000 multiprogramming system kernel and the first monitor concept, he developed Concurrent Pascal, the first language designed for concurrency. His scholarly works and textbooks shaped the study of operating systems, parallel, and distributed computing. He held positions at Regnecentralen, Carnegie Mellon, Caltech, USC, and Syracuse University.",
+        "text_original": "Danish computer scientist Brinch Hansen made foundational contributions to operating systems and concurrent programming. Creator of the RC 4000 multiprogramming system kernel and the first monitor concept, he developed Concurrent Pascal, the first language designed for concurrency. His scholarly works and textbooks shaped the study of operating systems, parallel, and distributed computing. He held positions at Regnecentralen, Carnegie Mellon, Caltech, USC, and Syracuse University",
+        "idx_start": 8451,
+        "idx_end": 8935
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Gottlob Frege\nGerman logician and philosopher Frege is considered the father of modern logic and analytic philosophy. He developed predicate logic and introduced quantified variables, greatly advancing the foundations of arithmetic and language philosophy. Frege distinguished sense and reference in semantics and attempted to formalize arithmetic via logicism, though his system was undermined by Russell\u2019s paradox. Despite his profound influence on logic and philosophy, late in life he expressed virulent antisemitism.",
+        "text_original": "German logician and philosopher Frege is considered the father of modern logic and analytic philosophy. He developed predicate logic and introduced quantified variables, greatly advancing the foundations of arithmetic and language philosophy. Frege distinguished sense and reference in semantics and attempted to formalize arithmetic via logicism, though his system was undermined by Russell\u2019s paradox. Despite his profound influence on logic and philosophy, late in life he expressed virulent antisemitism",
+        "idx_start": 8960,
+        "idx_end": 9466
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Key Figures in Mathematics, Computer Science, and Engineering\n## Al-Khwarizmi\nPersian mathematician and astronomer al-Khwarizmi wrote foundational texts on algebra ( *Al-Jabr* ) and arithmetic, spreading Hindu-Arabic numerals and systematic equation solving methods. His works defined standard equation forms and introduced terms like algorithm. Al-Khwarizmi also authored influential books on astronomy, trigonometry, and geography, correcting Ptolemy's data and producing detailed coordinate lists. His contributions shaped medieval and modern mathematics and science.",
+        "text_original": "Persian mathematician and astronomer al-Khwarizmi wrote foundational texts on algebra (*Al-Jabr*) and arithmetic, spreading Hindu-Arabic numerals and systematic equation solving methods. His works defined standard equation forms and introduced terms like algorithm. Al-Khwarizmi also authored influential books on astronomy, trigonometry, and geography, correcting Ptolemy's data and producing detailed coordinate lists. His contributions shaped medieval and modern mathematics and science",
+        "idx_start": 9492,
+        "idx_end": 9981
+    },
+    {
+        "document_idx": null,
+        "text": "# Overall Summary\nThe document profiles eminent figures across the history of mathematics, logic, computer science, and engineering. From foundational theoretical innovators like Frege and G\u00f6del, through early computing pioneers such as Shannon, Boole, Iverson, and Dijkstra, to modern contributors like Hinton, Conway, and Faggin, these figures collectively shaped the evolution of logic, programming languages, computing architectures, AI, and related philosophical concepts. Several also engaged with issues beyond pure science, including philosophy, consciousness, social activism, and ethics in technology. Their legacies persist in technologies and disciplines fundamental to the modern information age.",
+        "text_original": "The document profiles eminent figures across the history of mathematics, logic, computer science, and engineering. From foundational theoretical innovators like Frege and G\u00f6del, through early computing pioneers such as Shannon, Boole, Iverson, and Dijkstra, to modern contributors like Hinton, Conway, and Faggin, these figures collectively shaped the evolution of logic, programming languages, computing architectures, AI, and related philosophical concepts. Several also engaged with issues beyond pure science, including philosophy, consciousness, social activism, and ethics in technology. Their legacies persist in technologies and disciplines fundamental to the modern information age",
+        "idx_start": 10007,
+        "idx_end": 10697
+    }
+]

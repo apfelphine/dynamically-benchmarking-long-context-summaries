@@ -1,0 +1,1 @@
+The provided text does not contain information regarding "Education in Finland"; it exclusively details educational systems in Portugal, South Africa, Australia, Malaysia, the Philippines, Romania, and the United States. Consequently, no summary regarding Finland can be generated from the source material.

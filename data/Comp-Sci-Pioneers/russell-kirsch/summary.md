@@ -1,0 +1,1 @@
+Russell A. Kirsch (June 20, 1929 – August 11, 2020) was an American engineer at the National Bureau of Standards (now known as the National Institute of Standards and Technology).  He was recognized as the developer of the first digital image scanner, and subsequently scanned the world's first digital photograph – an image of his infant son.

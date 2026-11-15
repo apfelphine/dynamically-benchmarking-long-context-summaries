@@ -1,0 +1,28 @@
+{
+  "id": 9352739,
+  "title": "Frances Allen",
+  "url": "https://en.wikipedia.org/wiki/Frances_Allen",
+  "path": "Comp-Sci-Pioneers\\frances-allen",
+  "summary": {
+    "chars": 605,
+    "tokens": 134
+  },
+  "document": {
+    "chars": 10267,
+    "tokens": 2115
+  },
+  "infobox": {
+    "title": "Frances Allen",
+    "data": {
+      "Born": "Frances Elizabeth Allen \u00b7 August 4, 1932 \u00b7 Peru, New York, U.S.",
+      "Died": "August 4, 2020 (aged 88) \u00b7 Schenectady, New York, U.S.",
+      "Citizenship": "American",
+      "Education": "University at Albany (BS) \u00b7 University of Michigan (MS)",
+      "Spouse": "Jacob T. Schwartz \u200b (m. 1972\u2060\u2013\u20601982)\u200b",
+      "Awards": "- ACM Fellow (1994) - IBM Fellow (1989) - Ada Lovelace Award (2002) - Computer Pioneer Award (2004) - Turing Award (2006) - Member of the National Academy of Sciences (2010)",
+      "Fields": "- Computer science - High-performance computing - Parallel computing - Compilers - Optimizing compilers",
+      "Institutions": "IBM \u00b7 New York University",
+      "Website": "www.ibm.com/ibm/history/witexhibit/wit_hall_allen.html"
+    }
+  }
+}

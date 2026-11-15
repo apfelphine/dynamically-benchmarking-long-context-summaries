@@ -1,0 +1,29 @@
+{
+  "id": 80341527,
+  "title": "Texas Senate Bill 20",
+  "url": "https://en.wikipedia.org/wiki/Texas_Senate_Bill_20",
+  "path": "AI-Regulations\\texas-senate-bill-20",
+  "summary": {
+    "chars": 1881,
+    "tokens": 397
+  },
+  "document": {
+    "chars": 10292,
+    "tokens": 2093
+  },
+  "infobox": {
+    "title": "Texas Legislature",
+    "data": {
+      "Texas Legislature": "Long title - Relating to the creation of the criminal offense of possession, promotion, or production of certain obscene visual material appearing to depict a child.",
+      "Territorial extent": "Texas",
+      "Enacted by": [
+        "Texas Senate",
+        "Texas House of Representatives"
+      ],
+      "Enacted": "May 26, 2025",
+      "Signed by": "Greg Abbott",
+      "Signed": "June 20, 2025",
+      "Effective": "September 1, 2025"
+    }
+  }
+}

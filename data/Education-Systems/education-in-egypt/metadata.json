@@ -1,0 +1,20 @@
+{
+  "id": 3520069,
+  "title": "Education in Egypt",
+  "url": "https://en.wikipedia.org/wiki/Education_in_Egypt",
+  "path": "Education-Systems\\education-in-egypt",
+  "summary": {
+    "chars": 2384,
+    "tokens": 449
+  },
+  "document": {
+    "chars": 27804,
+    "tokens": 5125
+  },
+  "infobox": {
+    "title": "Secondary Education",
+    "data": {
+      "Secondary Education": "Arabic: \u0627\u0644\u062a\u0639\u0644\u064a\u0645 \u0627\u0644\u062b\u0627\u0646\u0648\u0649 (al-Ta\u02bfl\u012bm al-Th\u0101naw\u012b)"
+    }
+  }
+}

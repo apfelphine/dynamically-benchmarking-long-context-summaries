@@ -1,0 +1,5 @@
+# Star Trek: The Motion Picture Summary
+
+Production for *Star Trek: The Motion Picture* involved extensive set design and special effects creation. The Vulcan setting utilized on-location photography at Minerva Hot Springs in Yellowstone National Park, complemented by miniatures and matte paintings. The art department recreated parts of Yellowstone in a large "B tank" for filming. Special effects included simulating the computer console explosion using Brillo Pads and utilizing a circular track system for anti-gravity effects on cargo containers. The film wrapped on January 26, 1979, after 125 days of production.
+
+The film's score was composed by Jerry Goldsmith, whose music was influenced by the romantic style of *Star Wars*. Sound designer Frank Serafine modernized sound techniques, classifying elements into A, B, and C Effects, and used both digital synthesizers and acoustic recordings for sounds like the wormhole's sucking noises. The movie's themes included a pseudo-religious framing of the merge of Decker and V'Ger, which some critics described as "quasimystical," while Robert Asa noted the film implicitly protested against classical theism.

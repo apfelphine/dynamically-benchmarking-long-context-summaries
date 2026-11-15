@@ -1,0 +1,44 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures: Foundations and Advances\n## Convolutional Neural Networks (CNNs) and Spatial Processing\nCNNs remain the backbone for **spatial data analysis** , using convolutional layers for translation-invariant feature extraction, pooling layers for dimensionality reduction, and ReLU activations for nonlinearity. Architectures like **ResNet** and **Inceptionv3** optimize multi-scale feature extraction, while **anti-aliasing techniques** (e.g., padding, global pooling) and **deconvolutional layers** enhance robustness. Beyond vision, CNNs are applied in **NLP (semantic parsing)** , **drug discovery** , and **autonomous systems** , with libraries like **TensorFlow** and **PyTorch** enabling transfer learning. Hybrid models (e.g., **Neural Abstraction Pyramids** ) and regularization (dropout, weight decay) further refine performance.",
+        "text_original": "CNNs remain the backbone for **spatial data analysis**, using convolutional layers for translation-invariant feature extraction, pooling layers for dimensionality reduction, and ReLU activations for nonlinearity. Architectures like **ResNet** and **Inceptionv3** optimize multi-scale feature extraction, while **anti-aliasing techniques** (e.g., padding, global pooling) and **deconvolutional layers** enhance robustness. Beyond vision, CNNs are applied in **NLP (semantic parsing)**, **drug discovery**, and **autonomous systems**, with libraries like **TensorFlow** and **PyTorch** enabling transfer learning. Hybrid models (e.g., **Neural Abstraction Pyramids**) and regularization (dropout, weight decay) further refine performance",
+        "idx_start": 132,
+        "idx_end": 867
+    },
+    {
+        "document_idx": null,
+        "text": "# Deep Learning Architectures: Foundations and Advances\n## Transformers: Self-Attention and Multimodal Expansion\nTransformers revolutionized sequential tasks by replacing RNNs with **self-attention** , enabling quadratic efficiency via **multi-head attention** and **positional embeddings** . Key variants include **BERT** (encoder-only), **GPT** (decoder-only), and **T5** (encoder-decoder). Optimizations like **FlashAttention-2** and **RoPE** address scalability, while models like **Whisper** (speech), **ViT** (vision), and **LLaVA** (multimodal) demonstrate versatility. Challenges in **long-context modeling** and computational cost are mitigated by hybrid designs (e.g., **speculative decoding** ), though **Wasserstein GANs** and **autoencoders** remain critical for generative and reconstructive tasks.",
+        "text_original": "Transformers revolutionized sequential tasks by replacing RNNs with **self-attention**, enabling quadratic efficiency via **multi-head attention** and **positional embeddings**. Key variants include **BERT** (encoder-only), **GPT** (decoder-only), and **T5** (encoder-decoder). Optimizations like **FlashAttention-2** and **RoPE** address scalability, while models like **Whisper** (speech), **ViT** (vision), and **LLaVA** (multimodal) demonstrate versatility. Challenges in **long-context modeling** and computational cost are mitigated by hybrid designs (e.g., **speculative decoding**), though **Wasserstein GANs** and **autoencoders** remain critical for generative and reconstructive tasks",
+        "idx_start": 933,
+        "idx_end": 1628
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Models: GANs, Autoencoders, and Beyond\n**Generative Adversarial Networks (GANs)** consist of a generator and discriminator trained adversarially, with **Wasserstein GANs (WGANs)** improving stability via **Lipschitz constraints** and **spectral normalization** . Specialized GANs (e.g., **StyleGAN** , **CycleGAN** ) excel in high-resolution generation and unsupervised translation. **Autoencoders** optimize reconstruction error for unsupervised learning, enabling **compression** , **anomaly detection** , and **latent representation extraction** , with variants like **\u03b2-VAE** and **Conditional VAEs (CVAEs)** enhancing disentanglement. Hybrid approaches (e.g., **Flow-GANs** ) combine GANs with flow-based methods for explicit likelihood estimation.",
+        "text_original": "Generative Adversarial Networks (GANs)** consist of a generator and discriminator trained adversarially, with **Wasserstein GANs (WGANs)** improving stability via **Lipschitz constraints** and **spectral normalization**. Specialized GANs (e.g., **StyleGAN**, **CycleGAN**) excel in high-resolution generation and unsupervised translation. **Autoencoders** optimize reconstruction error for unsupervised learning, enabling **compression**, **anomaly detection**, and **latent representation extraction**, with variants like **\u03b2-VAE** and **Conditional VAEs (CVAEs)** enhancing disentanglement. Hybrid approaches (e.g., **Flow-GANs**) combine GANs with flow-based methods for explicit likelihood estimation",
+        "idx_start": 1696,
+        "idx_end": 2400
+    },
+    {
+        "document_idx": null,
+        "text": "# Dimensionality Reduction and Interpretability\n**Autoencoders (AEs)** and **Variational Autoencoders (VAEs)** dominate unsupervised learning, with VAEs introducing probabilistic latent spaces via the **Evidence Lower Bound (ELBO)** . Variants include **sparse AEs** , **denoising AEs** , and **statistical distance-based VAEs** (e.g., **Wasserstein VAEs** ) for robust generative modeling. **Vision Transformers (ViTs)** replace CNNs by processing images as patches, with **Masked Autoencoders (MAE)** and **DINO** enabling unsupervised pretraining. **Graph Neural Networks (GNNs)** handle graph-structured data via **MPNNs** and **GATs** , though challenges like **oversmoothing** persist.",
+        "text_original": "Autoencoders (AEs)** and **Variational Autoencoders (VAEs)** dominate unsupervised learning, with VAEs introducing probabilistic latent spaces via the **Evidence Lower Bound (ELBO)**. Variants include **sparse AEs**, **denoising AEs**, and **statistical distance-based VAEs** (e.g., **Wasserstein VAEs**) for robust generative modeling. **Vision Transformers (ViTs)** replace CNNs by processing images as patches, with **Masked Autoencoders (MAE)** and **DINO** enabling unsupervised pretraining. **Graph Neural Networks (GNNs)** handle graph-structured data via **MPNNs** and **GATs**, though challenges like **oversmoothing** persist",
+        "idx_start": 2463,
+        "idx_end": 3098
+    },
+    {
+        "document_idx": null,
+        "text": "# Dimensionality Reduction and Interpretability\n## Interpretability Tools\nFor CNNs, **Class Activation Mapping (CAM)** and **Gradient-Weighted CAM (Grad-CAM)** provide post-hoc interpretability via heatmaps, with **Guided Grad-CAM** and **Layer-CAM** offering refined insights. These tools complement each other, balancing high-resolution saliency and confidence-based analysis.",
+        "text_original": "For CNNs, **Class Activation Mapping (CAM)** and **Gradient-Weighted CAM (Grad-CAM)** provide post-hoc interpretability via heatmaps, with **Guided Grad-CAM** and **Layer-CAM** offering refined insights. These tools complement each other, balancing high-resolution saliency and confidence-based analysis",
+        "idx_start": 3133,
+        "idx_end": 3436
+    },
+    {
+        "document_idx": null,
+        "text": "# Emerging Trends and Specialized Architectures\n- **Hybrid Models:** CNNs/Transformers (e.g., **Neural Abstraction Pyramids** ) and RNNs/GANs (e.g., **PixelRNNs** ) address niche tasks like segmentation and generative learning.\n- **Nobel Recognition:** **Hopfield Networks** (Nobel 2024) improve associative memory via hierarchical or continuous formulations, though biological plausibility remains limited.\n- **Multimodal and Generative Innovations:** Models like **AlphaFold** and **DALL-E/Muse** demonstrate transformers\u2019 scalability, while **Wasserstein GANs** and **autoencoders** redefine generative paradigms. The field prioritizes **efficiency** , **scalability** , and **domain-specific adaptations** .",
+        "text_original": "Hybrid Models:** CNNs/Transformers (e.g., **Neural Abstraction Pyramids**) and RNNs/GANs (e.g., **PixelRNNs**) address niche tasks like segmentation and generative learning.\n- **Nobel Recognition:** **Hopfield Networks** (Nobel 2024) improve associative memory via hierarchical or continuous formulations, though biological plausibility remains limited.\n- **Multimodal and Generative Innovations:** Models like **AlphaFold** and **DALL-E/Muse** demonstrate transformers\u2019 scalability, while **Wasserstein GANs** and **autoencoders** redefine generative paradigms. The field prioritizes **efficiency**, **scalability**, and **domain-specific adaptations",
+        "idx_start": 3501,
+        "idx_end": 4152
+    }
+]

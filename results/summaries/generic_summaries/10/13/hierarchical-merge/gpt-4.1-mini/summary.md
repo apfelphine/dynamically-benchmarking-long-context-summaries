@@ -1,0 +1,17 @@
+# Global Education Systems: Comparative Insights
+
+## Southeast Asia, Middle East, and Africa  
+Education systems across Indonesia, Armenia, Egypt, Ghana, and Nigeria demonstrate diverse structural and cultural influences amid shared challenges. Indonesia mandates 12 years of mainly rote-learning-based education with resource disparities and low tertiary enrollment, while Armenia aligns K-12 education with European standards but struggles with rural dropout rates. Egypt’s centralized system faces overcrowding and quality issues, increasingly supplemented by digital learning and private tutoring. Ghana and Nigeria offer free or structured compulsory education with national exams; however, they contend with gender disparities, rural-urban inequities, and digital literacy gaps, with governmental efforts focused on vocational training, equitable access, and infrastructure improvement.
+
+## Europe and Middle East  
+Norway and Sweden exemplify inclusive, flexible systems balancing academic and vocational tracks, emphasizing equity and integrated special education, with Sweden also providing free higher education for EU/EEA students. England’s system, compulsory from ages 5 to 18, features a national curriculum, diversified post-16 pathways (including apprenticeships and T Levels), and regulated tuition fees with robust quality assurance. France enforces secular, compulsory education with a stratified higher education system comprising open-access universities and prestigious grandes écoles, emphasizing social cohesion via strict secularism. Iran’s centralized system merges Islamic and scientific education under a growing higher education sector marked by high female enrollment, despite political and regional challenges. Turkey operates a compulsory “4+4+4” system with academic, vocational, and religious tracks, facing criticism for ideological curricular shifts and minority education restrictions; its higher education sector is sizable and increasingly internationalized.
+
+## East Asia  
+Taiwan mandates 12 years of education with a curriculum balancing language arts, STEM, arts, and discipline. It boasts a high university attendance rate supported by prestigious institutions and government investment in vocational education and teacher training. Special needs education services are expanding in line with evolving inclusion policies.
+
+## Israel  
+Israel’s education features multiple parallel tracks—state-secular, religious (including Haredi), and Arab—marked by disparities in funding and outcomes. Despite underfunding and staffing issues in minority sectors, universities achieve global recognition with high tertiary attainment.
+
+---
+
+This synthesis highlights that while global education systems vary widely in structure and policy, common themes include expanding access, balancing vocational and academic routes, addressing equity and inclusion, managing resource constraints, and integrating technology. Political, cultural, and religious contexts continue to shape educational content and delivery across regions.

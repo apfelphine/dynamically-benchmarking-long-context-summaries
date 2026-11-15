@@ -1,0 +1,26 @@
+{
+  "id": 17452058,
+  "title": "John Gustafson (scientist)",
+  "url": "https://en.wikipedia.org/wiki/John_Gustafson_(scientist)",
+  "path": "Comp-Sci-Pioneers\\john-gustafson-scientist",
+  "summary": {
+    "chars": 862,
+    "tokens": 177
+  },
+  "document": {
+    "chars": 1772,
+    "tokens": 404
+  },
+  "infobox": {
+    "title": "John Leroy Gustafson",
+    "data": {
+      "Born": "January 19, 1955 \u00b7 United States",
+      "Alma mater": "- California Institute of Technology - Iowa State University",
+      "Known for": "- Gustafson's law - Unum",
+      "Awards": "- Gordon Bell Prize - International Atanasoff Award",
+      "Thesis": "Asymptotic Expansions of Elliptic Integrals (1982)",
+      "Doctoral advisor": "Bille C. Carlson",
+      "Website": "johngustafson.net"
+    }
+  }
+}

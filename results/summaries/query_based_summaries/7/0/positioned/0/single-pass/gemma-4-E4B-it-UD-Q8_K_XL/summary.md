@@ -1,0 +1,5 @@
+**Education in Greece**
+
+The Greek education framework spans from preschool to upper secondary school, with distinct stages and ages. Preschool (Pre-kindergarten and Kindergarten) is compulsory and lasts two years. Primary education (Dimotiko) is compulsory for six years, typically for ages 6 to 12. Lower secondary education, Gymnasium, is compulsory until age 15, and upper secondary education, Lyceum, is non-compulsory, lasting three years (ages 15 to 18).
+
+Grading systems vary across stages; for instance, primary school uses alphabetical rankings in the early years before transitioning to a 1–10 numerical scale. The curriculum is structured with mandatory English in kindergarten and throughout the secondary stages. Specialized educational options exist across all levels, including vocational training via EPAL, and the system is underpinned by the National Qualification Framework (HQF).

@@ -1,0 +1,24 @@
+{
+  "id": 1124646,
+  "title": "Dartmouth workshop",
+  "url": "https://en.wikipedia.org/wiki/Dartmouth_workshop",
+  "path": "AI-Philosophy\\dartmouth-workshop",
+  "summary": {
+    "chars": 660,
+    "tokens": 119
+  },
+  "document": {
+    "chars": 6081,
+    "tokens": 1328
+  },
+  "infobox": {
+    "title": "Dartmouth Summer Research Project on Artificial Intelligence",
+    "data": {
+      "Date": "1956",
+      "Duration": "Eight weeks",
+      "Venue": "Dartmouth College, Hanover, New Hampshire",
+      "Organised by": "John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon",
+      "Participants": "John McCarthy, Marvin Minsky, Nathaniel Rochester, Claude Shannon, and others"
+    }
+  }
+}

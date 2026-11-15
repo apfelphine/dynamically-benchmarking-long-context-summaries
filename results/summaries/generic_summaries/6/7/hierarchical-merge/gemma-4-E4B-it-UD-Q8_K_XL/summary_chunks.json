@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Foundations of Science, Logic, and Computing Pioneers\n## Early Mathematical and Logical Foundations\nFundamental concepts in mathematics and logic were established by numerous figures. Al-Khw\u0101rizm\u012b was vital in popularizing the Hindu-Arabic numeral system and originating the term \"algorithm.\" In logic, Gottlob Frege established axiomatic predicate logic, while George Boole laid the foundation for symbolic logic. Kurt G\u00f6del further contributed by revealing limitations in formal axiomatic systems through his Incompleteness Theorems.",
+        "text_original": "Fundamental concepts in mathematics and logic were established by numerous figures. Al-Khw\u0101rizm\u012b was vital in popularizing the Hindu-Arabic numeral system and originating the term \"algorithm.\" In logic, Gottlob Frege established axiomatic predicate logic, while George Boole laid the foundation for symbolic logic. Kurt G\u00f6del further contributed by revealing limitations in formal axiomatic systems through his Incompleteness Theorems",
+        "idx_start": 104,
+        "idx_end": 538
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations of Science, Logic, and Computing Pioneers\n## Pioneers in Computing Hardware, Software, and Theory\nThe theoretical bedrock of digital electronics was cemented by Claude Shannon's application of Boolean algebra to circuits. Key hardware and software innovators include Federico Faggin, who developed the Intel 4004 microprocessor, and Grace Hopper, who advanced programming with English-like languages. Edsger W. Dijkstra championed structured programming concepts, such as the semaphore, and contributed to early OS development.",
+        "text_original": "The theoretical bedrock of digital electronics was cemented by Claude Shannon's application of Boolean algebra to circuits. Key hardware and software innovators include Federico Faggin, who developed the Intel 4004 microprocessor, and Grace Hopper, who advanced programming with English-like languages. Edsger W. Dijkstra championed structured programming concepts, such as the semaphore, and contributed to early OS development",
+        "idx_start": 598,
+        "idx_end": 1026
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations of Science, Logic, and Computing Pioneers\n## Advanced Systems, AI, and Interdisciplinary Science\nModern computer science is built upon the work of figures like Lynn Conway, who made foundational contributions to VLSI design and computer architecture. Geoffrey Hinton is a pioneer in artificial neural networks, credited with applying the backpropagation algorithm, though he has recently raised concerns about advanced AI risks. Other notable contributions include Herbert A. Simon introducing \"bounded rationality\" in cognitive science, and Hedy Lamarr and George Antheil co-developing frequency-hopping radio during WWII.",
+        "text_original": "Modern computer science is built upon the work of figures like Lynn Conway, who made foundational contributions to VLSI design and computer architecture. Geoffrey Hinton is a pioneer in artificial neural networks, credited with applying the backpropagation algorithm, though he has recently raised concerns about advanced AI risks. Other notable contributions include Herbert A. Simon introducing \"bounded rationality\" in cognitive science, and Hedy Lamarr and George Antheil co-developing frequency-hopping radio during WWII",
+        "idx_start": 1085,
+        "idx_end": 1610
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundations of Science, Logic, and Computing Pioneers\n## Early Mechanical and Algorithmic Precursors\nBefore modern digital computation, early mechanical ingenuity was demonstrated by Ismail al-Jazari (12th-13th century), renowned for his complex automata and clocks. In the realm of programming and formal systems, Kenneth E. Iverson co-developed APL, and Jacek Karpi\u0144ski created the AAH vacuum tube computer for meteorological use.",
+        "text_original": "Before modern digital computation, early mechanical ingenuity was demonstrated by Ismail al-Jazari (12th-13th century), renowned for his complex automata and clocks. In the realm of programming and formal systems, Kenneth E. Iverson co-developed APL, and Jacek Karpi\u0144ski created the AAH vacuum tube computer for meteorological use",
+        "idx_start": 1661,
+        "idx_end": 1991
+    }
+]

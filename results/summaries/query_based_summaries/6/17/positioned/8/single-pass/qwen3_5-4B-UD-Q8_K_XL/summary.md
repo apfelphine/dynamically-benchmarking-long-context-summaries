@@ -1,0 +1,5 @@
+# Lynn Conway
+
+Lynn Conway was born in Mount Vernon, New York, in 1938 and raised as a boy, experiencing gender dysphoria. After withdrawing from MIT in 1959 due to a lack of support for her transition, she detransitioned, worked as an electronics technician, and later earned degrees from Columbia University. Recruited by IBM in 1964, she co-designed the Advanced Computing Systems (ACS) project, inventing multiple-issue out-of-order dynamic instruction scheduling. In 1968, after revealing her intention to transition, IBM fired her; she subsequently transitioned, took the name Lynn, and resumed her career.
+
+Conway co-founded the Mead-Conway VLSI design methodology at Xerox PARC in 1973, which revolutionized chip design by introducing scalable, dimensionless design rules and the Metal Oxide Semiconductor Implementation Service (MOSIS). She later became a key architect of the U.S. Strategic Computing Initiative at DARPA and joined the University of Michigan in 1985. Known for her advocacy of transgender rights and for coining the "Conway effect" regarding the oversight of innovators from marginalized groups, Conway passed away in 2024.

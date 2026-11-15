@@ -1,0 +1,25 @@
+{
+  "id": 3361497,
+  "title": "Studienstiftung",
+  "url": "https://en.wikipedia.org/wiki/Studienstiftung",
+  "path": "Scholarships\\studienstiftung",
+  "summary": {
+    "chars": 1530,
+    "tokens": 322
+  },
+  "document": {
+    "chars": 19211,
+    "tokens": 4074
+  },
+  "infobox": {
+    "title": "Scholarship foundation overview",
+    "data": {
+      "Formed": "1925",
+      "Jurisdiction": "Germany",
+      "Headquarters": "Bonn",
+      "Annual budget": "\u20ac126 million (2023)",
+      "Scholarship foundation executives": "- Michael Hoch, President - Annette Julius, Secretary General",
+      "Website": "studienstiftung.de"
+    }
+  }
+}

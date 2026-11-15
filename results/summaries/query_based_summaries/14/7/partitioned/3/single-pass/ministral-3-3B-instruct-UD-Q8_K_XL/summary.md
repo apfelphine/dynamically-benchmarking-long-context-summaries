@@ -1,0 +1,23 @@
+The **University of Chicago** is a prestigious, highly selective research university known for its rigorous academics, influential alumni, and strong reputation in fields such as law, business, and the sciences. Founded in 1890, it operates on a quarter system and is governed by a board of trustees, with the current president being chemist **Paul Alivisatos**.
+
+### **Academics & Reputation**
+The university is renowned for its **law and business schools**, consistently ranking among the top three professional schools in the U.S. In 2025, its business school was ranked **second** by Bloomberg, **fourth** by *US News*, and **fifteenth** globally by QS World University Rankings. Its law school was ranked **third** in the U.S. by *US News* and **second** by *Above the Law*, with a global ranking of **eleventh**. The university also excels in research, with a **$10.1 billion endowment** (2024) and a **$5.2 billion annual budget** (including medical center and marine biological lab operations).
+
+The **core curriculum**—a hallmark of the university—requires students to complete 15 courses across seven subjects, including a foreign language. The university is highly selective, with an acceptance rate of **4.7%** (2023), and admits students with exceptionally high SAT/ACT scores (middle 50% SAT: 1510–1570; MCAT: 519; GMAT: 740; LSAT: 172).
+
+### **Administration & Finances**
+The university is governed by a **55-member board of trustees**, including the president, provost, and deans. The current provost is **Katherine Baicker**, and the current chair of the board is **David Rubenstein**. The university has faced financial challenges, including a **$288 million budget deficit in 2024**, prompting budget cuts and increased reliance on debt financing. Despite this, the university has expanded its facilities, including the **Joe and Rika Mansueto Library** (2011), the **Logan Center for the Arts** (2012), and the **Keller Center** (2019).
+
+### **Student Body & Admissions**
+The university enrolls **7,569 undergraduates** (2024) and **10,968 graduate students**, with a diverse student body including **27% Asian, 19% Hispanic, 10% Black, and 18% international students**. The university is **need-blind** for domestic applicants, meaning financial need does not affect admission decisions. The **middle 50% of admitted students** have SAT scores between **1510–1570**, an average MCAT score of **519**, a median GMAT of **740**, and a median LSAT of **172**.
+
+### **Research & Innovation**
+The University of Chicago is a leader in research, with **over 140 research centers and institutes**, including the **Argonne National Laboratory** and **Fermi National Accelerator Laboratory (Fermilab)**. Notable discoveries include the **first self-sustaining nuclear chain reaction (Chicago Pile-1)**, the development of **radiocarbon dating**, and contributions to **quantum mechanics and economics**. The university has also been a hub for **social sciences**, including the **Chicago School of Economics** and the **Chicago School of Sociology**.
+
+### **Notable People**
+The university has produced **101 Nobel laureates**, including **Nobel Prize winners in Physics, Chemistry, Physiology or Medicine, Literature, Peace, and Economics**. Notable alumni include **Nobel laureates in economics (Milton Friedman, Gary Becker)**, **lawyers and politicians (Robert McNamara, Barack Obama)**, and **scientists (Enrico Fermi, James Franck)**. The university also has a strong tradition of **entrepreneurship and innovation**, with many alumni founding major companies and institutions.
+
+### **Campus & Traditions**
+The main campus is located in **Hyde Park, Chicago**, spanning **217 acres** and featuring historic buildings like **Mitchell Tower** and **Rockefeller Chapel**. The university is known for its **Great Books program**, **Socratic method of teaching**, and **core curriculum**. Traditions include the **University of Chicago Scavenger Hunt** (annual May event) and the **Latke-Hamantash Debate** (annual winter festival).
+
+The University of Chicago remains one of the most prestigious universities in the world, known for its **rigorous academics, influential research, and commitment to interdisciplinary learning**.

@@ -1,0 +1,9 @@
+[
+    {
+        "document_idx": null,
+        "text": "The \"Chinese room\" is a thought experiment designed to question whether a computer program that successfully simulates understanding actually possesses genuine understanding or a mind. In the scenario, a person (Searle) in a room follows a program, manipulating Chinese characters input under the door to produce Chinese characters output, making the machine appear to communicate in Chinese perfectly.\nSearle argues that despite the system's flawless behavior\u2014which would allow it to pass the Turing test\u2014the individual inside the room, who only processes symbols according to rules (syntax), does not understand the language (semantics). Therefore, he concludes that the computer does not possess a mind in the human sense, proving that syntax alone is insufficient to generate semantics, thereby falsifying the strong AI hypothesis.",
+        "text_original": "The \"Chinese room\" is a thought experiment designed to question whether a computer program that successfully simulates understanding actually possesses genuine understanding or a mind. In the scenario, a person (Searle) in a room follows a program, manipulating Chinese characters input under the door to produce Chinese characters output, making the machine appear to communicate in Chinese perfectly.\n\nSearle argues that despite the system's flawless behavior\u2014which would allow it to pass the Turing test\u2014the individual inside the room, who only processes symbols according to rules (syntax), does not understand the language (semantics). Therefore, he concludes that the computer does not possess a mind in the human sense, proving that syntax alone is insufficient to generate semantics, thereby falsifying the strong AI hypothesis",
+        "idx_start": 0,
+        "idx_end": 835
+    }
+]

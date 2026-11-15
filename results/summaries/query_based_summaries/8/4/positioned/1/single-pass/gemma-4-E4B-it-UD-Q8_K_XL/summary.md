@@ -1,0 +1,1 @@
+The provided texts do not contain any information regarding "Education in Australia." Therefore, a summary focusing exclusively on that topic cannot be generated.

@@ -1,0 +1,31 @@
+{
+  "id": 59431148,
+  "title": "Je Suis Auto",
+  "url": "https://en.wikipedia.org/wiki/Je_Suis_Auto",
+  "path": "AI-Fiction\\je-suis-auto",
+  "summary": {
+    "chars": 479,
+    "tokens": 107
+  },
+  "document": {
+    "chars": 1205,
+    "tokens": 279
+  },
+  "infobox": {
+    "title": "Je Suis Auto",
+    "data": {
+      "Directed by": "Juliana Neuhuber",
+      "Screenplay by": "Johannes Grenzfurthner",
+      "Produced by": "- Johannes Grenzfurthner - G\u00fcnther Friesinger - Franz Ablinger",
+      "Starring": "- Chase Masterson - Johannes Grenzfurthner - Jason Scott - Florian Sebastian Fitz - Boris Popovic - Aaron Hillis",
+      "Cinematography": "Thomas Weilguny",
+      "Edited by": "Estelle H\u00f6dl",
+      "Music by": "- Mark Cobrin - Michael Donaldson - Daniel Hasibar - Jimmy Lee",
+      "Production \u00b7 company": "- monochrom",
+      "Distributed by": "monochrom",
+      "Release date": "- 2024",
+      "Country": "Austria",
+      "Language": "English"
+    }
+  }
+}

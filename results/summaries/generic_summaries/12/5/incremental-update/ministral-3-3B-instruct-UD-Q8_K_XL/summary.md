@@ -1,0 +1,17 @@
+The **Fulbright Program**, established in **1946**, remains a cornerstone of U.S. cultural diplomacy, annually supporting over **19,000 participants** in global studies and language programs, including the **Hubert H. Humphrey and Fulbright Specialist Programs**. Despite recent hurdles—such as **2024 bans in Russia** and **2025 funding uncertainties**—its **325,000+ alumni network** (including **89 Pulitzer Prize winners, 78 MacArthur Fellows, and 62 Nobel laureates**) underscores its transformative legacy.
+
+Grassroots scholarships, like the **Shuping Scholarship (1939–present)** and **Thurgood Marshall College Fund (TMCF, 1987)**, expand access to education, particularly for **Historically Black Colleges and Universities (HBCUs)**, with major contributions from donors such as **MacKenzie Scott ($70M in 2025)** and **Reed Hastings ($120M in 2020)**. Programs like **UNCF’s telethon** raised **$200M+**, reinforcing its mission: *"A mind is a terrible thing to waste."*
+
+Elite international scholarships reflect meritocratic traditions, from **Eton College’s (1440) royal funding** to **Germany’s Studienstiftung (1925/1948)**, which awards **~2,480 scholarships annually** with **55% female representation** and ties to Nobel laureates like **Reinhard Genzel**. Meanwhile, **Norwegian scholarships at Wadham College (1919)**, revived in **1978**, support advanced students with renewed funding.
+
+**U.S. academic exchanges** include the **Marshall Scholarship (1953)**, with a **~3.66% acceptance rate (2024)**, and the **Fulbright–Hays Program**. **Edmund S. Muskie**, a Polish immigrant, shaped U.S. policy through environmental, infrastructure (e.g., **$29M highway bonds**), and civil rights (e.g., **Civil Rights Act, 1964**), earning the **Presidential Medal of Freedom (1981)**. His legacy persists in institutions like the **Edmund S. Muskie School of Public Service (1990)** and the **State Department’s Edmund S. Muskie Internship Program (1992)**.
+
+**Global scholarships** extend beyond borders, such as **Kazakhstan’s Bolashak Scholarship (1993)**, which has supported **~12,831 recipients** by 2018, fostering exchanges at **Harvard, Oxford, and MIT**. **UNCF (1890)** supports **49 HBCUs** through endowments, while the **National Merit Scholarship Program** identifies high-achieving U.S. students via the **PSAT/NMSQT**, awarding **Merit Scholarships ($2,500+)** to **~8,000 Finalists**, despite criticism for its standardized approach.
+
+**Florida’s Bright Futures Scholarship Program**, modeled after Georgia’s HOPE Scholarship, offers four tiers:
+- **Academic Top Scholar (ATS):** Top-ranked students receive **$44–$29/credit** (semester/quarter systems).
+- **FAS (Florida Academic Scholars):** Covers **100% tuition** (3.0 GPA, 24+ semester hours/year).
+- **FMS (Florida Medallion Scholars):** Covers **75% tuition** (2.75 GPA, 24+ semester hours/year).
+- **GSV/GSC (Florida Graduate Scholars):** Pays **$39–$49/credit** for career/technical or associate/bachelor’s programs.
+
+Renewals are valid for **up to 5 years** (or degree completion), requiring **6+ semester hours/term** and GPA thresholds. **Repayment** applies for withdrawn courses, with **deferrals allowed up to 5 years** (or 5 years post-military service). FAS/FMS recipients may access **graduate funding** for ≤15 semester hours after completing a bachelor’s in ≤7 semesters. Recent adjustments, like **removing book stipends in 2021** and **adding the CLT in 2025**, reflect evolving equity and academic priorities.

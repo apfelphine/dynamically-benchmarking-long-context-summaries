@@ -1,0 +1,1 @@
+The Peabody action was an early form of breechloading firearm action, where the heavy breechblock tilted downwards across a bolt mounted in the rear of the breechblock, operated by a lever under the rifle. The Peabody action most often used an external hammer to fire the cartridge.

@@ -1,0 +1,1 @@
+Autómata is a 2014 English-language Spanish-Bulgarian science fiction action film directed by Gabe Ibáñez  starring Antonio Banderas (who also co-produced). The film is co-written by Ibáñez with Igor Legarreta and Javier Sánchez Donate, and co-stars Birgitte Hjort Sørensen, Melanie Griffith, Dylan McDermott, Robert Forster, and Tim McInnerny.

@@ -1,0 +1,22 @@
+{
+  "id": 38104075,
+  "title": "General Data Protection Regulation",
+  "url": "https://en.wikipedia.org/wiki/General_Data_Protection_Regulation",
+  "path": "AI-Regulations\\general-data-protection-regulation",
+  "summary": {
+    "chars": 1477,
+    "tokens": 309
+  },
+  "document": {
+    "chars": 50912,
+    "tokens": 9896
+  },
+  "infobox": {
+    "title": "Regulation (EU) 2016/679",
+    "data": {
+      "Title": "Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (Data Protection Directive)",
+      "Made by": "European Parliament and Council of the European Union",
+      "Journal reference": "L119, 4 May 2016, p. 1\u201388"
+    }
+  }
+}

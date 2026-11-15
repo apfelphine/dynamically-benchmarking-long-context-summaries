@@ -1,0 +1,11 @@
+The **University of Edinburgh** was founded in 1583 as **Tounis College** and became the **University of Edinburgh** in the 17th century. It is one of Scotland’s oldest and most prestigious universities, deeply rooted in the Scottish Enlightenment, which produced groundbreaking contributions in science, philosophy, and economics. Key figures include **Adam Smith** (economics), **James Clerk Maxwell** (physics), and **Charles Darwin** (biology), whose work significantly shaped modern thought.
+
+The university operates across five main campuses: **Central Area**, **King’s Buildings**, **BioQuarter**, **Easter Bush**, and **Western General**. Its **Central Area** is home to historic buildings like **Old College** and **New College**, while **King’s Buildings** houses advanced research facilities in science and engineering. The **BioQuarter** is a hub for medical and veterinary studies, and **Easter Bush** is dedicated to animal sciences and veterinary medicine.
+
+Edinburgh is a member of the **Russell Group** and **Sutton 13**, known for its strong research output. It is ranked among the top universities globally, particularly in fields like medicine, engineering, and humanities. The university emphasizes **diversity, inclusion, and sustainability**, with initiatives supporting underrepresented groups and reducing its carbon footprint.
+
+Admissions are highly competitive, with a strong emphasis on academic merit. The university offers a wide range of undergraduate and postgraduate programs across its three colleges: **Arts, Humanities and Social Sciences**, **Science & Engineering**, and **Medicine & Veterinary Medicine**. Notable achievements include its **top-ranked medical school** and **leading research in fields like genetics, neuroscience, and environmental science**.
+
+Student life includes a vibrant **students' union (EUSA)**, numerous **societies and clubs**, and a rich tradition of **debate, music, and sports**. The university has a long history of **student activism**, from early protests against war to modern campaigns for social justice and environmental sustainability.
+
+The University of Edinburgh remains a cornerstone of academic excellence, innovation, and global influence, with a legacy that continues to shape education and research worldwide.

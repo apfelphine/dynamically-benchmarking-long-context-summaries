@@ -1,0 +1,1 @@
+Vera Pless (nee Stepen; March 5, 1931 – March 2, 2020) was an American mathematician who specialized in combinatorics and coding theory. She was professor emerita at the University of Illinois at Chicago.

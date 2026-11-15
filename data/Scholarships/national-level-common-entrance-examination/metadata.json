@@ -1,0 +1,35 @@
+{
+  "id": 78816740,
+  "title": "National Level Common Entrance Examination",
+  "url": "https://en.wikipedia.org/wiki/National_Level_Common_Entrance_Examination",
+  "path": "Scholarships\\national-level-common-entrance-examination",
+  "summary": {
+    "chars": 358,
+    "tokens": 60
+  },
+  "document": {
+    "chars": 987,
+    "tokens": 187
+  },
+  "infobox": {
+    "title": "National Level Common Entrance Examination",
+    "data": {
+      "Acronym": "NLCEE",
+      "Type": "Scholarship and Talent Identification Exam",
+      "Skills tested": "General Knowledge, Logical Reasoning, Problem-solving, Analytical Reasoning",
+      "Purpose": "Identify academically gifted students and provide exposure opportunities",
+      "Year started": "2019",
+      "Duration": "3 hours",
+      "Score validity": "1 year",
+      "Offered": "Annually (usually in December)",
+      "Regions": "India",
+      "Languages": "English",
+      "Annual number of test takers": "987,650",
+      "Prerequisites": "Students from Class 9-12 or competitive exam aspirants",
+      "Used by": "Universities, Institutes",
+      "Qualification rate": "Top 1% merit-based",
+      "Exposure Opportunities": "Visits to IITs, ISRO, NASA for selected students",
+      "Website": "nlcee.org"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The Nieman Fellowship is a fellowship from the Nieman Foundation for Journalism at Harvard University. It awards multiple types of fellowships.

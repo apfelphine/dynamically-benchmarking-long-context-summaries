@@ -1,0 +1,26 @@
+{
+  "id": 301380,
+  "title": "James H. Wilkinson",
+  "url": "https://en.wikipedia.org/wiki/James_H._Wilkinson",
+  "path": "Comp-Sci-Pioneers\\james-h-wilkinson",
+  "summary": {
+    "chars": 237,
+    "tokens": 48
+  },
+  "document": {
+    "chars": 2405,
+    "tokens": 576
+  },
+  "infobox": {
+    "title": "Jim Wilkinson",
+    "data": {
+      "Born": "James Hardy Wilkinson \u00b7 27 September 1919 \u00b7 Strood, England",
+      "Died": "5 October 1986 (aged 67) \u00b7 Teddington, England",
+      "Education": "Trinity College, Cambridge (BA)",
+      "Known for": "- Wilkinson matrix - Wilkinson's polynomial",
+      "Awards": "- Chauvenet Prize (1987) - ACM Turing Award (1970) - FRS (1969)",
+      "Fields": "Numerical Analysis \u00b7 Numerical linear algebra",
+      "Institutions": "National Physical Laboratory"
+    }
+  }
+}

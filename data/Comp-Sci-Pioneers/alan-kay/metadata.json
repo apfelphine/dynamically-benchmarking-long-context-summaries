@@ -1,0 +1,29 @@
+{
+  "id": 1449,
+  "title": "Alan Kay",
+  "url": "https://en.wikipedia.org/wiki/Alan_Kay",
+  "path": "Comp-Sci-Pioneers\\alan-kay",
+  "summary": {
+    "chars": 670,
+    "tokens": 133
+  },
+  "document": {
+    "chars": 10464,
+    "tokens": 2230
+  },
+  "infobox": {
+    "title": "Alan Kay",
+    "data": {
+      "Born": "Alan Curtis Kay \u00b7 May 17, 1940 \u00b7 Springfield, Massachusetts, U.S.",
+      "Education": "University of Colorado, Boulder (BS) \u00b7 University of Utah (MS, PhD)",
+      "Known for": "Dynabook \u00b7 Object-oriented programming \u00b7 Smalltalk \u00b7 Desktop metaphor \u00b7 Graphical user interface \u00b7 Windows",
+      "Spouse": "Bonnie MacBird",
+      "Awards": "ACM Turing Award (2003) \u00b7 Kyoto Prize \u00b7 Charles Stark Draper Prize",
+      "Fields": "Computer science",
+      "Institutions": "Xerox PARC \u00b7 Stanford University \u00b7 Atari Inc. \u00b7 Apple Inc. ATG \u00b7 Walt Disney Imagineering \u00b7 UCLA \u00b7 Kyoto University \u00b7 MIT \u00b7 Viewpoints Research Institute \u00b7 Hewlett-Packard Labs",
+      "Thesis": "FLEX: A Flexible Extendable Language (1968)",
+      "Doctoral advisors": "David C. Evans \u00b7 Robert S. Barton",
+      "Notable students": "David Canfield Smith"
+    }
+  }
+}

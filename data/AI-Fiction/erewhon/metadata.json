@@ -1,0 +1,31 @@
+{
+  "id": 9664,
+  "title": "Erewhon",
+  "url": "https://en.wikipedia.org/wiki/Erewhon",
+  "path": "AI-Fiction\\erewhon",
+  "summary": {
+    "chars": 1869,
+    "tokens": 389
+  },
+  "document": {
+    "chars": 7698,
+    "tokens": 1795
+  },
+  "infobox": {
+    "title": "Erewhon",
+    "data": {
+      "Author": "Samuel Butler",
+      "Language": "English",
+      "Genre": "Utopian fiction, Satire, Science fiction",
+      "Publisher": "Tr\u00fcbner and Ballantyne",
+      "Publication date": "1872",
+      "Publication place": "United Kingdom",
+      "Pages": "246",
+      "OCLC": "2735354",
+      "Dewey Decimal": "823.8",
+      "LC Class": "PR4349.B7 E7 1872 c. 1",
+      "Followed by": "Erewhon Revisited",
+      "Text": "Erewhon at Wikisource"
+    }
+  }
+}

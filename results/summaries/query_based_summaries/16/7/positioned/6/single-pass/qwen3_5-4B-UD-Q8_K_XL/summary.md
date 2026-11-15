@@ -1,0 +1,3 @@
+Based strictly on the provided text, there is no information regarding a "University of Jordan." The document contains detailed summaries for the following institutions: Peking University (China), Royal Melbourne Institute of Technology (Australia), Harvard University (USA), São Paulo State University (Brazil), Boston College (USA), University of the Andes (Colombia), University of Sydney (Australia), Lund University (Sweden), University of Auckland (New Zealand), Imperial College London (UK), University of Manchester (UK), University of Western Ontario (Canada), and State University of Campinas (Brazil).
+
+Consequently, no summary can be generated for the University of Jordan as it does not exist within the source material.

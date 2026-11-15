@@ -1,0 +1,1 @@
+Gamers Helping Gamers is an American nonprofit organization that assists aspiring college students who play the collectable card game Magic: The Gathering by awarding tuition scholarships.

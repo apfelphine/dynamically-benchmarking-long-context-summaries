@@ -1,0 +1,30 @@
+{
+  "id": 2702375,
+  "title": "Friedrich L. Bauer",
+  "url": "https://en.wikipedia.org/wiki/Friedrich_L._Bauer",
+  "path": "Comp-Sci-Pioneers\\friedrich-l-bauer",
+  "summary": {
+    "chars": 155,
+    "tokens": 39
+  },
+  "document": {
+    "chars": 6584,
+    "tokens": 1569
+  },
+  "infobox": {
+    "title": "Friedrich Ludwig Bauer",
+    "data": {
+      "Born": "Friedrich Ludwig Bauer \u00b7 10 June 1924 \u00b7 Regensburg, Germany",
+      "Died": "26 March 2015 (aged 90)",
+      "Education": "Ludwig-Maximilians-Universit\u00e4t",
+      "Known for": "Stack (data structure) \u00b7 Sequential Formula Translation \u00b7 ALGOL \u00b7 Software engineering \u00b7 Bauer\u2013Fike theorem",
+      "Children": "5",
+      "Awards": "Iron Cross 2nd Class, \u00b7 Bundesverdienstkreuz 1st Class, \u00b7 IEEE Computer Pioneer Award (1988)",
+      "Fields": "Computer science \u00b7 Applied mathematics",
+      "Institutions": "University of Mainz \u00b7 Technical University of Munich",
+      "Theses": "- Group-theoretic investigations of the theory of spin wave equations (1952) - On quadratically convergent iteration methods for solving algebraic equations and eigenvalue problems (1954)",
+      "Doctoral advisors": "Fritz Bopp, Georg Aumann",
+      "Doctoral students": "Manfred Broy, David Gries, Josef Stoer, Peter Wynn, Christoph Zenger"
+    }
+  }
+}

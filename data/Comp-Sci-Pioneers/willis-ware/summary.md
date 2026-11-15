@@ -1,0 +1,1 @@
+Howard George Willis Ware (August 31, 1920 – November 22, 2013), popularly known as Willis Howard Ware was an American computer pioneer who co-developed the IAS machine that laid down the blueprint of the modern day computer in the late 20th century. He was also a  pioneer of privacy rights, social critic of technology policy, and a founder in the field of computer security.

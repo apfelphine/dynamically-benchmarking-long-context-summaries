@@ -1,0 +1,44 @@
+{
+  "id": 31793,
+  "title": "University of Pennsylvania",
+  "url": "https://en.wikipedia.org/wiki/University_of_Pennsylvania",
+  "path": "Universities\\university-of-pennsylvania",
+  "summary": {
+    "chars": 2229,
+    "tokens": 448
+  },
+  "document": {
+    "chars": 74654,
+    "tokens": 15893
+  },
+  "infobox": {
+    "title": "University of Pennsylvania",
+    "data": {
+      "Former names": "- Academy and Charitable School in the Province of Pennsylvania (1751\u20131755) - College of Philadelphia (1755\u20131779, 1789\u20131791) - University of the State of Pennsylvania (1779\u20131791)",
+      "Motto": "Leges sine moribus vanae (Latin)",
+      "Motto in English": "\"Laws without morals are useless\"",
+      "Type": "Private research university",
+      "Established": "November 14, 1740",
+      "Founder": "Benjamin Franklin",
+      "Accreditation": "MSCHE",
+      "Academic affiliations": "AAU COFHE NAICU QC URA",
+      "Endowment": "$24.8 billion (2025)",
+      "Budget": "$4.4 billion (2024)",
+      "President": "J. Larry Jameson",
+      "Provost": "John L. Jackson Jr.",
+      "Academic staff": "4,793 (2018)",
+      "Total staff": "39,859 (fall 2020; includes health system)",
+      "Students": "23,374 (fall 2022)",
+      "Undergraduates": "9,760 (fall 2022)",
+      "Postgraduates": "13,614 (fall 2022)",
+      "Location": "Philadelphia, Pennsylvania, United States \u00b7 39\u00b057\u203201\u2033N 75\u00b011\u203241\u2033W\ufeff / \ufeff39.95028\u00b0N 75.19472\u00b0W",
+      "Campus": "Large city, - 1,085 acres (439 ha) (total); - 299 acres (121 ha), University City campus; - 694 acres (281 ha), New Bolton Center; - 92 acres (37 ha), Morris Arboretum",
+      "Newspaper": "The Daily Pennsylvanian",
+      "Colors": "Red and blue",
+      "Nickname": "Quakers",
+      "Sporting affiliations": "NCAA Division I FCS \u2013 Ivy League Philadelphia Big 5 City 6 IRA EARC EAWRC",
+      "Mascot": "The Quaker",
+      "Website": "upenn.edu"
+    }
+  }
+}

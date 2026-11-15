@@ -1,0 +1,23 @@
+{
+  "id": 4163,
+  "title": "Bertrand Russell",
+  "url": "https://en.wikipedia.org/wiki/Bertrand_Russell",
+  "path": "Comp-Sci-Pioneers\\bertrand-russell",
+  "summary": {
+    "chars": 1938,
+    "tokens": 416
+  },
+  "document": {
+    "chars": 62806,
+    "tokens": 13498
+  },
+  "infobox": {
+    "title": "The Right HonourableThe Earl RussellOM FRS",
+    "data": {
+      "Born": "Bertrand Arthur William Russell \u00b7 18 May 1872 \u00b7 Trellech, Monmouthshire",
+      "Died": "2 February 1970 (aged 97) \u00b7 Penrhyndeudraeth, Merionethshire, Wales",
+      "Spouses": "- Alys Pearsall Smith \u200b (m. 1894; div. 1921)\u200b - Dora Black \u200b (m. 1921; div. 1935)\u200b - Patricia Spence \u200b (m. 1936; div. 1952)\u200b - Edith Finch \u200b(m. 1952)\u200b",
+      "Awards": "- De Morgan Medal (1932) - Sylvester Medal (1934) - Nobel Prize in Literature (1950) - Kalinga Prize (1957) - Jerusalem Prize (1963)"
+    }
+  }
+}

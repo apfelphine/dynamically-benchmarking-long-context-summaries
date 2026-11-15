@@ -1,0 +1,1 @@
+There is no information provided in the text regarding "Education in Poland." The text focuses on education systems in South Korea, the Netherlands, Russia, Japan, Pakistan, Mexico, Bangladesh, New Zealand, the Czech Republic, Saudi Arabia, Canada, and the United Kingdom.

@@ -1,0 +1,25 @@
+# Master Summary
+
+## Chinese Universities: Tsinghua University and Zhejiang University
+
+Tsinghua University, founded in 1911 in Beijing, is China’s top comprehensive national university, known for its rigorous academics, extensive liberal arts education, and leadership programs like Schwarzman Scholars. Governed by the Chinese Communist Party since 2024, it encompasses over 20 colleges and 57 departments, maintaining an extremely selective admissions rate. Tsinghua excels in artificial intelligence, engineering, medicine, and social sciences, with robust research supported by more than 1,400 government-funded projects annually and a budget exceeding 20 billion yuan. Its prominent alumni include Chinese presidents and Nobel laureates, underscoring its status both nationally and globally.
+
+Zhejiang University (ZJU) is another leading research institution with a patriotic ethos, covering 11 major disciplines and hosting over 65,800 students. It operates 11 State Key Laboratories and collaborates closely with industry. Ranking within the global top 50, ZJU excels in STEM and interdisciplinary research, supported by a strong network of professors, academicians, and alumni that includes Nobel laureates and political leaders.
+
+## US Universities: Stanford University, University of Chicago, UC Berkeley, Caltech, and MIT
+
+Stanford University is a globally acclaimed research university with a $1.8 billion annual research budget and a $36.5 billion endowment. It fosters innovation and entrepreneurship, having launched companies worth over $2.7 trillion cumulatively, including Google and Nvidia. With about 17,000 students, it offers rich campus life and access to leading research centers like SLAC National Accelerator Laboratory. Stanford has produced 58 Nobel laureates and 29 Turing Award winners but has faced scrutiny regarding campus safety, leading to strengthened student protection policies.
+
+The University of Chicago, established in 1857, is renowned for academic innovation and a selective 4.7% acceptance rate. Emphasizing the Socratic method, it is home to influential alumni such as Barack Obama. Despite recent budget challenges, the university continues vibrant student activism and global engagement.
+
+UC Berkeley, California’s first land-grant university founded in 1868, enrolls over 45,000 students and offers more than 100 undergraduate degrees. It is recognized for pioneering breakthroughs including the atomic bomb, CRISPR gene editing, and substantial contributions to computer science. Berkeley’s entrepreneurial ecosystem gave rise to companies like Apple and Tesla. Its dynamic student life is anchored by rich traditions and competitive athletics, with teams joining the Atlantic Coast Conference in 2024.
+
+The California Institute of Technology (Caltech) in Pasadena is a premier private STEM university known for rigorous academics and elite research facilities such as the Jet Propulsion Laboratory and LIGO. With a highly selective 3% acceptance rate, Caltech supports extensive undergraduate and graduate research and fosters successful startups. Its culture blends intellectual rigor with unique traditions, producing alumni like Nobel laureates Richard Feynman and Linus Pauling.
+
+MIT, founded in 1861 in Cambridge, Massachusetts, is a top STEM research university with pioneering contributions in cancer genetics, cryptography, programming languages, and lithium-ion batteries. It has an extensive research infrastructure, including MIT Nano and a nuclear reactor, and supports innovation through programs like UROP. MIT’s alumni have founded major companies such as Intel and Qualcomm, collectively generating nearly $2 trillion in economic impact. The institute emphasizes public engagement, with initiatives like OpenCourseWare and MIT Museum, and sustains a vibrant culture marked by hacking traditions and varsity athletics.
+
+## King’s College London (KCL)
+
+King’s College London, founded in 1829 and ranked 31st globally (QS 2026), is a leading multidisciplinary UK research university rooted in Anglican origins and integrated into London’s academic fabric. It encompasses nine faculties, including unique programs like War Studies and the UK’s only triple-accredited business school. KCL is Europe’s largest healthcare education provider and hosts pioneering biomedical centers along with the UK's sole WADA-accredited anti-doping lab. Its prominent alumni include 14 Nobel laureates, such as Peter Higgs and Michael Levitt.
+
+KCL offers a vibrant student experience with over 50 sports clubs, 300 societies, and Europe’s largest student think tank, set against the backdrop of central London and cultural landmarks featured in film and broadcasting history. The college maintains rich traditions and rivalries, especially with UCL, exemplified by events like the London Varsity rugby match, and is governed by leadership committed to sustaining its broad academic and societal impact.

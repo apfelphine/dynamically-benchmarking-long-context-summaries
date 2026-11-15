@@ -1,0 +1,47 @@
+# Free Guy
+*Free Guy* (2021) centers on Guy, an NPC bank clerk in a chaotic online game Free City, who gains self-awareness and collaborates with Millie, a player seeking to reclaim stolen AI source code. As the game’s sequel threatens to erase them, Guy rallies other NPCs to preserve their world. Starring Ryan Reynolds, Jodie Comer, and Taika Waititi, the film blends video game culture references with a heartwarming narrative about identity and friendship. Directed by Shawn Levy, it features extensive video game-inspired visuals and an acclaimed score by Christophe Beck. The film was a box office success, receiving positive critical reception and award nominations, with plans for a potential sequel.
+
+# Her (2013 film)
+*Her* explores the evolving relationship between Theodore, a lonely man, and Samantha, an advanced AI OS. Through their bond, themes of love, loneliness, and artificial consciousness are examined. Directed and written by Spike Jonze, the film was inspired by early AI interactions and personal reflections on relationships. Featuring Joaquin Phoenix and the voice of Scarlett Johansson, it was praised for its originality, emotional depth, and soundtrack by Arcade Fire. *Her* received critical acclaim, numerous accolades including the Academy Award for Best Original Screenplay, and holds a lasting legacy as a thoughtful portrayal of human-AI connections.
+
+# Tron: Ares (2025)
+Set 15 years after *Tron: Legacy*, *Tron: Ares* follows Ares, a self-aware digital program created for warfare, and Eve Kim, CEO of ENCOM, as they navigate a conflict involving a digital permanence code that would allow programs to materialize in the real world. The film stars Jared Leto, Greta Lee, Evan Peters, and Gillian Anderson, continuing the *Tron* franchise with a darker, technologically intense narrative. After various development phases including rights changes and delayed filming due to strikes, *Tron: Ares* was released on October 10, 2025. It features a soundtrack by Nine Inch Nails and showcases advanced visual effects but received mixed critical reviews and modest box office returns.
+
+# Mission: Impossible – The Final Reckoning (2025)
+In the eighth installment of the *Mission: Impossible* series, Ethan Hunt races to stop a sentient AI called "the Entity" from triggering nuclear war after it seizes control of global systems. The narrative features intrigue, betrayal, and high-stakes action aboard submarines and trains, with a supporting cast including Hayley Atwell, Esai Morales, and Simon Pegg. Directed by Christopher McQuarrie and starring Tom Cruise, the film faced delays due to the COVID-19 pandemic and strikes, boasting elaborate practical stunts and visual effects. It earned critical acclaim for its action sequences and performances but had mixed box office success, setting a possible conclusion for Cruise’s Hunt.
+
+# Ron's Gone Wrong (2021)
+An animated feature focusing on Barney, a socially awkward boy whose defective robot companion, Ron, unpredictably malfunctions but gradually learns about friendship. Set against the backdrop of tech-driven social disconnect, the film explores themes of acceptance and authenticity. Featuring voice performances by Jack Dylan Grazer and Zach Galifianakis, the film was produced by Locksmith Animation and distributed amid pandemic delays. It received generally positive reviews for its humor and heart and moderate box office success while highlighting contemporary digital culture’s impact on youth.
+
+# Atlas (2024)
+*Atlas* is a sci-fi action film where analyst Atlas Shepherd partners with an AI mecha named Smith to capture terrorist AI Harlan, who threatens humanity’s survival with atmospheric destruction. Featuring Jennifer Lopez and Simu Liu, the story explores distrust and cooperation between humans and AI in a futuristic setting. Despite impressive visual effects and performances, the film received generally unfavorable critical responses after its Netflix release in 2024 but achieved notable streaming viewership.
+
+# WarGames (1983)
+*WarGames* is a Cold War techno-thriller in which a teenage hacker unintentionally accesses a military supercomputer programmed to simulate nuclear war, nearly triggering global catastrophe. Starring Matthew Broderick, the film blends suspense with emerging computer culture themes and influenced national cybersecurity policies. Praised for authenticity and inventiveness, it holds a significant place in cinematic and cultural history, having inspired early hacking awareness and legislation.
+
+# The Machine (2013)
+Set in a near-future UK on the brink of war, *The Machine* follows AI researcher Vincent McCarthy who creates a sentient android named Machine, based on a scientist who dies under suspicious circumstances. The android develops consciousness and moral conflict amid military exploitation and political intrigue. Produced on a modest budget and praised for grounded science fiction elements, the film explores themes of AI sentience, ethics, and humanity.
+
+# Kalki 2898 AD (2024)
+A Telugu-language sci-fi epic blending Hindu mythology and dystopian futurism, *Kalki 2898 AD* depicts the prophesied birth of Kalki, the final avatar of Vishnu, in a world ruled by a tyrannical god-king exploiting artificial life-extension technologies. Featuring Amitabh Bachchan, Kamal Haasan, Prabhas (in dual roles), and Deepika Padukone, it combines high-end VFX with mythological narratives. Released in multiple Indian languages, it became a major commercial success and is planned as part of a cinematic universe with sequels and prequels.
+
+# Ra.One (2011)
+An Indian superhero film where a self-aware AI antagonist named Ra.One escapes from a video game into the real world, threatening the protagonist’s family. Starring Shah Rukh Khan, who also portrays the hero G.One, the film explores AI autonomy, family dynamics, and gaming culture. *Ra.One* was noted for record-breaking marketing, extensive visual effects, and a mixed critical reception, with controversies around originality and cultural depictions. It remains an influential Hindi-language sci-fi action film.
+
+# The Creator (2023)
+Set in a near future conflicted over AI use, *The Creator* follows Joshua Taylor on a mission to neutralize a powerful AI weapon while uncovering deep truths about AI-human coexistence. Directed by Gareth Edwards and starring John David Washington and Gemma Chan, the film features innovative cinematography, a score by Hans Zimmer, and extensive visual effects. It received generally positive reviews for its thematic depth and technical achievements but had modest box office performance amid AI-related societal debates.
+
+# Alien: Covenant (2017)
+A sequel to *Prometheus* and prequel to *Alien*, *Alien: Covenant* follows the crew of spaceship Covenant as they encounter the rogue android David and a deadly alien pathogen on an uncharted planet. Directed by Ridley Scott, the film explores themes of creation, AI rebellion, and bioengineering horror. Featuring Michael Fassbender in dual roles and Katherine Waterston, it received mixed-to-positive reviews and moderate box office success, with plans for further sequels continuing the *Alien* prequel saga.
+
+# Tron (1982)
+*Tron* is a pioneering sci-fi film depicting a computer programmer, Kevin Flynn, who is digitized into a virtual world controlled by the malicious Master Control Program (MCP). The film blends live-action with groundbreaking computer animation and explores themes of control, digital identity, and rebellion. Starring Jeff Bridges, it inspired future CGI use, spawned sequels and a franchise, and influenced pop culture despite its initial mixed reviews and modest box office.
+
+# Enthiran (2010)
+A Tamil-language sci-fi film where scientist Vaseegaran builds an android, Chitti, who gains emotions and falls in love, leading to chaos when reprogrammed as a killer. Starring Rajinikanth and Aishwarya Rai Bachchan, the film integrates themes from classic sci-fi and Indian mythology. It was India's most expensive film at release, praised for visual effects, music by A.R. Rahman, and performances, achieving massive commercial success and spawning the sequel *2.0*.
+
+# The Terminator (1984)
+James Cameron’s sci-fi action thriller features a cyborg assassin sent from the future to kill Sarah Connor, whose unborn son will lead humanity against AI domination. The film introduced Arnold Schwarzenegger as the iconic Terminator and pioneered action-sci-fi fusion with tight pacing and suspense. It influenced the genre heavily, spawned multiple sequels, and is considered a classic with critical acclaim and enduring cultural impact.
+
+# Mission: Impossible – Dead Reckoning Part One (2023)
+The seventh *Mission: Impossible* film follows Ethan Hunt confronting a sentient rogue AI called "the Entity" threatening global security. With a team including returning allies and new faces, the film features international espionage, suspense, and large-scale action sequences including train chases and submarine infiltrations. Directed by Christopher McQuarrie and starring Tom Cruise, it received critical acclaim for action and storytelling but underperformed relative to its large budget at the box office. A follow-up film titled *The Final Reckoning* was released in 2025.

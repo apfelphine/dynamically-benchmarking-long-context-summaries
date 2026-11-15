@@ -1,0 +1,7 @@
+# King's Scholar Summary
+
+The tradition of King's Scholars dates back to July 7, 1317, when King Edward II established the first King's Scholars at the University of Cambridge. Later, in 1440, King Henry VI established Eton College, which began awarding scholarships to "poor, scholarly boys."
+
+At Eton College, a King's Scholar (or "Colleger") has passed the College Election examination and is admitted to the central "College" house, consisting of only King's Scholars aged 13 to 18. These students are distinguished by wearing a black academic gown. While historically a Foundation Scholarship provided a full waiver of all school fees, since the 1960s, the scholarship has been subject to means testing, meaning part or all of the fees may be waived based on financial circumstances. King's Scholars are identified by the post-nominal letters KS.
+
+The term "King's Scholar" is also used for undergraduates at King's College Cambridge who attain first-class degrees, receiving a prize of £350 and the right to attend a ceremony where they sign their name in the King's Scholar book. Furthermore, King's Scholarships are awarded in the seven King's Schools at Canterbury, Chester, Ely, Gloucester, Peterborough, Rochester, and Worcester, with the criteria being academic or musical attainment.

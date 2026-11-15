@@ -1,0 +1,24 @@
+{
+  "id": 173591,
+  "title": "An Wang",
+  "url": "https://en.wikipedia.org/wiki/An_Wang",
+  "path": "Comp-Sci-Pioneers\\an-wang",
+  "summary": {
+    "chars": 332,
+    "tokens": 79
+  },
+  "document": {
+    "chars": 5375,
+    "tokens": 1131
+  },
+  "infobox": {
+    "title": "An Wang",
+    "data": {
+      "Born": "February 7, 1920 \u00b7 Shanghai, Republic of China",
+      "Died": "March 24, 1990 (aged 70) \u00b7 Boston, Massachusetts, U.S.",
+      "Alma mater": "Shanghai Jiao Tong University (BS) \u00b7 Harvard University (PhD)",
+      "Known for": "Development of magnetic core memory.",
+      "Institutions": "Wang Laboratories"
+    }
+  }
+}

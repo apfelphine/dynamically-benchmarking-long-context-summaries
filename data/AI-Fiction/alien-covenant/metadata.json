@@ -1,0 +1,36 @@
+{
+  "id": 43219389,
+  "title": "Alien: Covenant",
+  "url": "https://en.wikipedia.org/wiki/Alien:_Covenant",
+  "path": "AI-Fiction\\alien-covenant",
+  "summary": {
+    "chars": 1346,
+    "tokens": 304
+  },
+  "document": {
+    "chars": 38585,
+    "tokens": 7615
+  },
+  "infobox": {
+    "title": "Alien: Covenant",
+    "data": {
+      "Directed by": "Ridley Scott",
+      "Screenplay by": "- John Logan - Dante Harper",
+      "Story by": "- Jack Paglen - Michael Green",
+      "Based on": "Characters \u00b7 by - Dan O'Bannon - Ronald Shusett",
+      "Produced by": "- David Giler - Walter Hill - Ridley Scott - Mark Huffam - Michael Schaefer",
+      "Starring": "- Michael Fassbender - Katherine Waterston - Billy Crudup - Danny McBride - Demi\u00e1n Bichir",
+      "Cinematography": "Dariusz Wolski",
+      "Edited by": "Pietro Scalia",
+      "Music by": "Jed Kurzel",
+      "Production \u00b7 companies": "- 20th Century Fox - Scott Free Productions - Brandywine Productions",
+      "Distributed by": "20th Century Fox",
+      "Release dates": "- May 4, 2017 (Odeon Leicester Square) - May 12, 2017 (United Kingdom) - May 19, 2017 (United States)",
+      "Running time": "122 minutes",
+      "Countries": "- United Kingdom - United States",
+      "Language": "English",
+      "Budget": "$97\u2013111 million",
+      "Box office": "$240.9 million"
+    }
+  }
+}

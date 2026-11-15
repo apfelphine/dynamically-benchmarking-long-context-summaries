@@ -1,0 +1,5 @@
+## Star Trek: The Motion Picture Summary
+
+In the 23rd century, a Starfleet monitoring station, Epsilon Nine, detects an alien entity moving toward Earth, which destroys several Klingon warships and Epsilon Nine. Starfleet Command assigns the *Enterprise* to intercept the cloud entity. Upon interception, the *Enterprise* is attacked by an alien vessel, and a probe replaces the navigator, Ilia, with a robotic replica, which calls itself "V'Ger." Spock investigates and discovers that V'Ger is actually Voyager 6, a 20th-century NASA space probe that evolved into a sentient machine after gathering vast knowledge.
+
+The crew realizes that V'Ger cannot find a purpose beyond its original mission. With Earth saved, Commander Decker merges with the Ilia probe and V'Ger, creating a new life form that disappears into space. The film was notable for its extensive visual effects, its score by Jerry Goldsmith, and its deliberate, slow pacing, which led to mixed critical reception regarding the plot's thinness despite the stunning visual achievement.

@@ -1,0 +1,1 @@
+The Athlone Fellowship Scheme for the Practical Training in Industry of Canadian Engineering Graduates in Great Britain was a one to two-year post-graduate program to bring Canadian engineers to the United Kingdom for additional studies or industry experience.

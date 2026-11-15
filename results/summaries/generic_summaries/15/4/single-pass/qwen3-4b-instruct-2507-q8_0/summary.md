@@ -1,0 +1,93 @@
+### **Federal University of Rio de Janeiro (UFRJ)**
+- **History**: Founded in 1920 as the University of Rio de Janeiro, evolving from colonial-era institutions. Key milestones include rebranding to "University of Brazil" in 1937, major reforms in 1958 and 1965, and the adoption of the current name in 1965. UFRJ played a foundational role in Brazil's higher education system.
+- **Structure**: Organized into six academic centers (Health Sciences, Technology, Mathematical and Natural Sciences, Law and Economic Sciences, Philosophy and Human Sciences, Literature and Arts) and a graduate school. The university manages 52 units and operates a large campus in Ilha do Fundão and a smaller one in Praia Vermelha.
+- **Academics**: Offers 179 undergraduate and 345 postgraduate programs. Strong emphasis on research, with a motto: "One teaches because one researches."
+- **Campuses & Facilities**: Main campus in Ilha do Fundão (5.2 million m²), Praia Vermelha (100,000 m²), and satellite campuses in Macaé, Duque de Caxias, and Jacarepaguá. Home to the National Museum, the Valongo Observatory, and the Technological Park of Rio.
+- **International Engagement**: Active in international partnerships and exchanges. Maintains an open-door policy for foreign experts and researchers.
+- **Notable Alumni**: Includes Nobel laureates, prominent scientists, and influential figures in medicine, engineering, and the arts.
+- **Student Life**: Features a student union (DCE), student-led events, and a tradition of academic activism, including the "Massacre da Praia Vermelha" in 1968.
+- **Research & Innovation**: A leading research institution with strong ties to public health and technological development. Hosts the UFRJ Sea and MagLev Cobra projects.
+
+---
+
+### **Cornell University**
+- **History**: Founded in 1865 as New York’s land-grant institution. Developed a tradition of academic excellence, innovation, and international engagement. Key milestones include the 1969 fire in the Residential Club, student activism in the 1960s, and the opening of Weill Cornell Medical College in Qatar in 2004.
+- **Structure**: A large, residential research university with 16 colleges and schools. Operates in Ithaca, New York, and has major campuses in New York City (Weill Cornell, Cornell Tech) and Qatar.
+- **Academics**: Offers a wide range of undergraduate and graduate programs, including in business, engineering, and the sciences. Known for its rigorous admissions process and strong research output.
+- **Campuses**: Ithaca campus (main), New York City campuses (Weill Cornell, Cornell Tech), and a medical campus in Qatar.
+- **Research & Innovation**: A top-tier research university with a strong focus on technology, medicine, and engineering. Home to the Cornell Tech campus and the Weill Cornell Medical College.
+- **Student Life**: Features a vibrant student life with over 1,000 student organizations, including debate clubs, music ensembles, and a student-run newspaper. The Hart House is a central student activity center.
+- **Rankings**: Consistently ranked among the top universities in the U.S. and globally. Ranked 10th in the U.S. and 12th in the world by QS World University Rankings.
+- **Notable Alumni**: Includes Nobel laureates, prominent business leaders, and influential figures in science and public service.
+
+---
+
+### **University of Toronto**
+- **History**: Founded in 1827 as King’s College, rebranded as the University of Toronto in 1849. Expanded rapidly through the 20th century, with the establishment of new faculties and the integration of women into the university system.
+- **Structure**: A collegiate university with 14 faculties and schools, including the Faculty of Arts and Science, Faculty of Medicine, and Faculty of Law. Operates three campuses: St. George, Scarborough, and Mississauga.
+- **Academics**: Offers a broad range of undergraduate and graduate programs, with a strong emphasis on research and interdisciplinary studies. Home to the Toronto School of communication theory.
+- **Campuses**: St. George (main), Scarborough, and Mississauga. The St. George campus is the historic center of the university.
+- **Research & Innovation**: A leading research university with a strong focus on public health, medicine, and engineering. The Dalla Lana School of Public Health is a major research center.
+- **Student Life**: Features a vibrant student life with over 1,000 student organizations, including the Hart House, which serves as a hub for student activities. The university has a strong tradition of student activism and leadership.
+- **Rankings**: Ranked 22nd in the world and first in Canada by the Shanghai Ranking. Known for its strong research output and high graduate employability.
+- **Notable Alumni**: Includes prominent political leaders, scientists, and public figures such as William Lyon Mackenzie King, Lester B. Pearson, and John Kenneth Galbraith.
+
+---
+
+### **National University of Singapore (NUS)**
+- **History**: Founded in 1905 as the Straits Settlements and Federated Malay States Government Medical School. Merged with Nanyang University in 1980 to form the current NUS.
+- **Structure**: A research-intensive university with 17 faculties and schools across three campuses: Kent Ridge, Bukit Timah, and Outram. Known for its strong international profile and high faculty diversity.
+- **Academics**: Offers a wide range of undergraduate and graduate programs, with a strong focus on research and innovation. The university has a strong emphasis on entrepreneurship and global citizenship.
+- **Campuses**: Main campus in Kent Ridge, with satellite campuses in Bukit Timah and Outram. The university has a strong presence in medical and business education.
+- **Research & Innovation**: A leading research university with a strong focus on biomedical sciences, engineering, and information technology. The university has a strong record of research output and innovation.
+- **Student Life**: Features a vibrant student life with over 1,000 student organizations, including the NUS College and the NUS Student Union. The university has a strong tradition of student activism and leadership.
+- **Rankings**: Ranked 8th in the world and 1st in Asia by QS World University Rankings. Known for its strong research output and high graduate employability.
+- **Notable Alumni**: Includes prominent political leaders, scientists, and business leaders such as Lee Kuan Yew, Margaret Chan, and Kishore Mahbubani.
+
+---
+
+### **University of Oxford**
+- **History**: Founded in the 12th century as a center of medieval learning. Grew through the Renaissance and the Enlightenment, becoming a leading institution in the 19th and 20th centuries. Key milestones include the establishment of women’s colleges in the 19th century and the adoption of a modern academic structure in the 20th century.
+- **Structure**: A "city university" with no single campus. Colleges and departments are spread throughout central Oxford. The university has 39 colleges and four permanent private halls.
+- **Academics**: Offers a wide range of undergraduate and graduate programs, with a strong emphasis on research and interdisciplinary studies. The university is known for its rigorous tutorial system.
+- **Campuses**: The university is spread throughout central Oxford, with notable buildings such as the Radcliffe Camera and the Sheldonian Theatre.
+- **Research & Innovation**: A leading research university with a strong focus on the humanities, social sciences, and natural sciences. The university has a strong record of research output and innovation.
+- **Student Life**: Features a vibrant student life with over 1,000 student organizations, including the Oxford Union and the Oxford University Student Union. The university has a strong tradition of student activism and leadership.
+- **Rankings**: Consistently ranked among the top universities in the world. Ranked 13th in the world by the Nature Index and 1st in the UK by the Times Higher Education World University Rankings.
+- **Notable Alumni**: Includes over 70 Nobel laureates, prominent political leaders, and influential figures in science and public service.
+
+---
+
+### **University of Hong Kong**
+- **History**: Founded in 1911 as the University of Hong Kong. Expanded significantly in the 20th century, with the establishment of new faculties and the growth of student enrollment. Key milestones include the establishment of the Faculty of Law in 1969 and the opening of the Centennial Campus in 2010.
+- **Structure**: A research-intensive university with 10 faculties and a graduate school. Operates three campuses: the main campus in Pok Fu Lam, the Li Ka Shing Faculty of Medicine in Sandy Bay, and the Kadoorie Agricultural Research Centre.
+- **Academics**: Offers a wide range of undergraduate and graduate programs, with a strong emphasis on research and innovation. The university has a strong focus on public health and medical research.
+- **Campuses**: Main campus in Pok Fu Lam, with satellite campuses in Sandy Bay and the New Territories. The university has a strong presence in medical and health-related education.
+- **Research & Innovation**: A leading research university with a strong focus on public health, medicine, and engineering. The university has a strong record of research output and innovation.
+- **Student Life**: Features a vibrant student life with over 1,000 student organizations, including the University of Hong Kong Students' Union and the Graduate Student Association. The university has a strong tradition of student activism and leadership.
+- **Rankings**: Ranked 11th in the world and 1st in Asia by QS World University Rankings. Known for its strong research output and high graduate employability.
+- **Notable Alumni**: Includes prominent political leaders, scientists, and business leaders such as Sun Yat-sen, Guan Yi, and David Suzuki.
+
+---
+
+### **University of British Columbia (UBC)**
+- **History**: Founded in 1908 as the University of British Columbia. Expanded significantly in the 20th century, with the establishment of new faculties and the growth of student enrollment. Key milestones include the establishment of the Faculty of Arts and Science in 1915 and the opening of the Okanagan Campus in 2005.
+- **Structure**: A research-intensive university with 12 faculties and schools. Operates three campuses: Vancouver, Okanagan, and a satellite campus in the City of Vancouver.
+- **Academics**: Offers a wide range of undergraduate and graduate programs, with a strong emphasis on research and innovation. The university has a strong focus on environmental science and engineering.
+- **Campuses**: Main campus in Vancouver, with satellite campuses in Okanagan and the City of Vancouver. The university has a strong presence in environmental and health-related education.
+- **Research & Innovation**: A leading research university with a strong focus on environmental science, engineering, and health. The university has a strong record of research output and innovation.
+- **Student Life**: Features a vibrant student life with over 1,000 student organizations, including the UBC Student Union and the UBC Greek System. The university has a strong tradition of student activism and leadership.
+- **Rankings**: Ranked 44th in the world and 2nd in Canada by the Academic Ranking of World Universities. Known for its strong research output and high graduate employability.
+- **Notable Alumni**: Includes prominent political leaders, scientists, and business leaders such as Justin Trudeau, Kim Campbell, and David Suzuki.
+
+---
+
+### **National Autonomous University of Mexico (UNAM)**
+- **History**: Founded in 1910 as a secular, national university to modernize higher education in Mexico. Key milestones include the establishment of the University City (Ciudad Universitaria) in 1952 and the 1968 student protests. The university has a strong tradition of political activism and social reform.
+- **Structure**: A large, research-intensive university with 10 schools and colleges. Operates a main campus in Mexico City and several satellite campuses across Mexico and internationally.
+- **Academics**: Offers a wide range of undergraduate and graduate programs, with a strong emphasis on research and innovation. The university has a strong focus on science, engineering, and the humanities.
+- **Campuses**: Main campus in Mexico City (Ciudad Universitaria), with satellite campuses in other parts of Mexico and internationally. The university has a strong presence in science, engineering, and the humanities.
+- **Research & Innovation**: A leading research university with a strong focus on science, engineering, and the humanities. The university has a strong record of research output and innovation.
+- **Student Life**: Features a vibrant student life with over 1,000 student organizations, including the UNAM Student Union and the UNAM Research Association. The university has a strong tradition of student activism and leadership.
+- **Rankings**: Consistently ranked as the best university in Mexico and one of the top 10 in Latin America. Known for its strong research output and high graduate employability.
+- **Notable Alumni**: Includes prominent political leaders, scientists, and business leaders such as Carlos Salinas de Gortari, Octavio Paz, and Mario Molina.

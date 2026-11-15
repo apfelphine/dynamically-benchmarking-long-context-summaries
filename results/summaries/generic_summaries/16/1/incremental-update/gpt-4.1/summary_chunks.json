@@ -1,0 +1,100 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## University of Auckland\nFounded in 1883, the University of Auckland is New Zealand\u2019s top university, recognized for research excellence, commercialization, global partnerships, engaged student life, and influential alumni.",
+        "text_original": "Founded in 1883, the University of Auckland is New Zealand\u2019s top university, recognized for research excellence, commercialization, global partnerships, engaged student life, and influential alumni",
+        "idx_start": 68,
+        "idx_end": 265
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## University of Manchester\nEmerging from a 2004 merger, Manchester is renowned for UK research strength, housing advanced faculties, acclaimed centers, a diverse community, international reach, a dynamic student union, and 26 Nobel laureates.",
+        "text_original": "Emerging from a 2004 merger, Manchester is renowned for UK research strength, housing advanced faculties, acclaimed centers, a diverse community, international reach, a dynamic student union, and 26 Nobel laureates",
+        "idx_start": 296,
+        "idx_end": 510
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## University of Sydney\nAustralia\u2019s oldest secular university (1850), Sydney emphasizes academic rigor, open admissions, varied faculties, industry engagement, and vibrant residential college life.",
+        "text_original": "Australia\u2019s oldest secular university (1850), Sydney emphasizes academic rigor, open admissions, varied faculties, industry engagement, and vibrant residential college life",
+        "idx_start": 537,
+        "idx_end": 709
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## State University of Campinas (Unicamp)\nEstablished in the 1960s, Unicamp is a Brazilian research leader, comprising 24 academic units, 22 research centers, competitive admissions, inclusion initiatives, outreach, and lively campus culture.",
+        "text_original": "Established in the 1960s, Unicamp is a Brazilian research leader, comprising 24 academic units, 22 research centers, competitive admissions, inclusion initiatives, outreach, and lively campus culture",
+        "idx_start": 754,
+        "idx_end": 953
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## University of the Andes (Colombia)\nFounded in 1948, this Bogot\u00e1-based university is noted for interdisciplinary teaching, selective admissions, upgraded facilities, global exchanges, and notable alumni.",
+        "text_original": "Founded in 1948, this Bogot\u00e1-based university is noted for interdisciplinary teaching, selective admissions, upgraded facilities, global exchanges, and notable alumni",
+        "idx_start": 994,
+        "idx_end": 1160
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## Western University (Canada)\nFounded in 1878, Western offers diverse programs, strong research, active student life, distinguished athletics, rich arts, and a legacy of accomplished graduates.",
+        "text_original": "Founded in 1878, Western offers diverse programs, strong research, active student life, distinguished athletics, rich arts, and a legacy of accomplished graduates",
+        "idx_start": 1194,
+        "idx_end": 1356
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## S\u00e3o Paulo State University (Unesp)\nEstablished in 1976, Unesp educates thousands across 23 campuses, excels in research, maintains international partnerships, and boasts successful graduates.",
+        "text_original": "Established in 1976, Unesp educates thousands across 23 campuses, excels in research, maintains international partnerships, and boasts successful graduates",
+        "idx_start": 1397,
+        "idx_end": 1552
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## Imperial College London\nFounded in 1907, Imperial is a global leader in science and technology, renowned for research, entrepreneurship, major faculties, hospital affiliations, top rankings, and influential alumni.",
+        "text_original": "Founded in 1907, Imperial is a global leader in science and technology, renowned for research, entrepreneurship, major faculties, hospital affiliations, top rankings, and influential alumni",
+        "idx_start": 1582,
+        "idx_end": 1771
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## Royal Melbourne Institute of Technology (RMIT University)\nFounded in 1887, RMIT spans Australia, Vietnam, and Europe, excelling in applied research, industry integration, sustainability, and global alumni networks.",
+        "text_original": "Founded in 1887, RMIT spans Australia, Vietnam, and Europe, excelling in applied research, industry integration, sustainability, and global alumni networks",
+        "idx_start": 1835,
+        "idx_end": 1990
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## Lund University\nFounded in 1666, Lund is Sweden\u2019s premier university, advancing engineering, medicine, law, and economics, and leading in EU research and campus innovation.",
+        "text_original": "Founded in 1666, Lund is Sweden\u2019s premier university, advancing engineering, medicine, law, and economics, and leading in EU research and campus innovation",
+        "idx_start": 2012,
+        "idx_end": 2167
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## Peking University\nFounded in 1898, Peking University is China\u2019s top institution, promoting reform, academic freedom, activism, and maintaining 55 schools and Asia\u2019s largest university library.",
+        "text_original": "Founded in 1898, Peking University is China\u2019s top institution, promoting reform, academic freedom, activism, and maintaining 55 schools and Asia\u2019s largest university library",
+        "idx_start": 2191,
+        "idx_end": 2364
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## University of Jordan\nEstablished in 1962, Jordan\u2019s oldest university leads in medicine, engineering, law, pharmacy, advanced research, and international collaborations.",
+        "text_original": "Established in 1962, Jordan\u2019s oldest university leads in medicine, engineering, law, pharmacy, advanced research, and international collaborations",
+        "idx_start": 2391,
+        "idx_end": 2537
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## Harvard University\nFounded in 1636, Harvard is the oldest and most prestigious US university, known for academic and research leadership\u2014especially in biomedicine\u2014with 12 schools, 50 majors, a $50.7 billion endowment, the world\u2019s largest academic library, celebrated alumni, and historic traditions.",
+        "text_original": "Founded in 1636, Harvard is the oldest and most prestigious US university, known for academic and research leadership\u2014especially in biomedicine\u2014with 12 schools, 50 majors, a $50.7 billion endowment, the world\u2019s largest academic library, celebrated alumni, and historic traditions",
+        "idx_start": 2562,
+        "idx_end": 2841
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Leading Global Universities\n## Boston College\nFounded in 1863 for Irish Catholic immigrants, Boston College is a leading Jesuit university with expansive campuses, gothic architecture, and deep Catholic ties. It offers nine accredited schools, strong academics (notably the Carroll School of Management), eight research libraries, the McMullen Museum of Art, and acclaimed journals. BC maintains high selectivity (15.9% acceptance rate for 2028), need-blind admissions for domestic students, and initiatives like Messina College to support first-generation applicants. The student body is majority White (58%), with significant Hispanic, Asian, foreign, and Black communities, and the unique \u201cAHANA\u201d term for minority groups, coined at BC in 1979. Student life is rich, featuring active media, arts, and numerous ensembles.\nAthletics play a major role: the Eagles compete in NCAA Division I, primarily in the ACC, with football and hockey programs claiming historic achievements\u2014including five men\u2019s NCAA titles, national acclaim, and traditions like the red bandana honoring alum Welles Crowther. Honors such as the Order of the Cross and Crown recognize outstanding seniors. The women\u2019s lacrosse team also competes at the NCAA Division I level with home games at Newton Soccer Complex and Alumni Stadium.\nBoston College\u2019s legacy includes major campus activism such as the 1970 anti-war protests (prompting ROTC separation), 2017\u20132018 anti-racism demonstrations, and early 2000s LGBT advocacy leading to a Gay-Straight Alliance and revised non-discrimination policies. Community identity terms like \u201cEagles,\u201d \u201cGolden Eagles\u201d (50th reunion), and \u201cDouble/Triple Eagles\u201d (multiple BC degrees) are widely used. With over 179,000 alumni worldwide, BC counts numerous Rhodes and Fulbright scholars and distinguished alumni including John F. Kerry, Ernest Moniz, Marty Walsh, Amy Poehler, and Leonard Nimoy.",
+        "text_original": "Founded in 1863 for Irish Catholic immigrants, Boston College is a leading Jesuit university with expansive campuses, gothic architecture, and deep Catholic ties. It offers nine accredited schools, strong academics (notably the Carroll School of Management), eight research libraries, the McMullen Museum of Art, and acclaimed journals. BC maintains high selectivity (15.9% acceptance rate for 2028), need-blind admissions for domestic students, and initiatives like Messina College to support first-generation applicants. The student body is majority White (58%), with significant Hispanic, Asian, foreign, and Black communities, and the unique \u201cAHANA\u201d term for minority groups, coined at BC in 1979. Student life is rich, featuring active media, arts, and numerous ensembles.\n\nAthletics play a major role: the Eagles compete in NCAA Division I, primarily in the ACC, with football and hockey programs claiming historic achievements\u2014including five men\u2019s NCAA titles, national acclaim, and traditions like the red bandana honoring alum Welles Crowther. Honors such as the Order of the Cross and Crown recognize outstanding seniors. The women\u2019s lacrosse team also competes at the NCAA Division I level with home games at Newton Soccer Complex and Alumni Stadium.\n\nBoston College\u2019s legacy includes major campus activism such as the 1970 anti-war protests (prompting ROTC separation), 2017\u20132018 anti-racism demonstrations, and early 2000s LGBT advocacy leading to a Gay-Straight Alliance and revised non-discrimination policies. Community identity terms like \u201cEagles,\u201d \u201cGolden Eagles\u201d (50th reunion), and \u201cDouble/Triple Eagles\u201d (multiple BC degrees) are widely used. With over 179,000 alumni worldwide, BC counts numerous Rhodes and Fulbright scholars and distinguished alumni including John F. Kerry, Ernest Moniz, Marty Walsh, Amy Poehler, and Leonard Nimoy",
+        "idx_start": 2863,
+        "idx_end": 4719
+    }
+]

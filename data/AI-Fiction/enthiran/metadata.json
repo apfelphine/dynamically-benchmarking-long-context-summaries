@@ -1,0 +1,35 @@
+{
+  "id": 12481557,
+  "title": "Enthiran",
+  "url": "https://en.wikipedia.org/wiki/Enthiran",
+  "path": "AI-Fiction\\enthiran",
+  "summary": {
+    "chars": 1965,
+    "tokens": 442
+  },
+  "document": {
+    "chars": 32297,
+    "tokens": 7595
+  },
+  "infobox": {
+    "title": "Enthiran",
+    "data": {
+      "Directed by": "Shankar",
+      "Written by": "Shankar",
+      "Dialogues by": "- Sujatha - Madhan Karky - Shankar",
+      "Produced by": "Kalanithi Maran",
+      "Starring": "- Rajinikanth - Aishwarya Rai Bachchan - Danny Denzongpa",
+      "Cinematography": "R. Rathnavelu",
+      "Edited by": "Anthony",
+      "Music by": "A. R. Rahman",
+      "Production \u00b7 company": "Sun Pictures",
+      "Distributed by": "Sun Pictures",
+      "Release date": "- 1 October 2010",
+      "Running time": "177 minutes",
+      "Country": "India",
+      "Language": "Tamil",
+      "Budget": "\u20b9132\u2013150 crore",
+      "Box office": "est. \u20b9283\u2013320 crore"
+    }
+  }
+}

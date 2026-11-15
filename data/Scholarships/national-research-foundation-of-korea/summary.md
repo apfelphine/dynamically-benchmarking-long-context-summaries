@@ -1,0 +1,3 @@
+The National Research Foundation of Korea (NRF; Korean: 한국연구재단) is a research institute for Korean studies. 
+It was established in 2009 through a merger between the Korea Science and Engineering Foundation (KOSEF; 한국과학재단), Korea Research Foundation (KRF; 한국학술진흥재단; established in 1981), and Korea Foundation for International Cooperation of Science and Technology (KICOS; 국제과학기술협력재단).
+Its offices are located in 25 Heolleung-ro, Seocho-gu, Seoul and 201 Gajeong-ro, Yuseong-gu, Daejeon.

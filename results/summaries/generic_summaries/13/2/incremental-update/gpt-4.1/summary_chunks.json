@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Yale University\nFounded in 1701 in New Haven, Yale University is a premier liberal arts and research institution governed by the Yale Corporation. Yale is renowned for its residential college system, historic architecture, and vibrant campus life, featuring strong traditions in athletics, societies, activism, and global outreach. The university offers robust financial aid, extensive mental health resources, and boasts a distinguished alumni network\u2014including U.S. presidents and international leaders\u2014while addressing contemporary challenges.",
+        "text_original": "Founded in 1701 in New Haven, Yale University is a premier liberal arts and research institution governed by the Yale Corporation. Yale is renowned for its residential college system, historic architecture, and vibrant campus life, featuring strong traditions in athletics, societies, activism, and global outreach. The university offers robust financial aid, extensive mental health resources, and boasts a distinguished alumni network\u2014including U.S. presidents and international leaders\u2014while addressing contemporary challenges",
+        "idx_start": 33,
+        "idx_end": 562
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University of Edinburgh\nEstablished in 1582, the University of Edinburgh played a pivotal role in the Scottish Enlightenment and in advancing medical science. It consists of five campuses, an extensive library system, and 21 schools across three colleges, supporting significant research output and competitive admissions. Edinburgh offers a vibrant student life, longstanding traditions, a strong alumni network, and faces financial and labor challenges.",
+        "text_original": "Established in 1582, the University of Edinburgh played a pivotal role in the Scottish Enlightenment and in advancing medical science. It consists of five campuses, an extensive library system, and 21 schools across three colleges, supporting significant research output and competitive admissions. Edinburgh offers a vibrant student life, longstanding traditions, a strong alumni network, and faces financial and labor challenges",
+        "idx_start": 594,
+        "idx_end": 1024
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University of Pennsylvania\nFounded by Benjamin Franklin, the University of Pennsylvania is recognized for its interdisciplinary programs across twelve schools, facilitated by its One University Policy. Penn Medicine leads in gene therapy research and NIH funding. The university provides themed housing, comprehensive student services, and campus safety initiatives, alongside competitive admissions, a history of athletic achievement, notable alumni, and significant library and art collections.",
+        "text_original": "Founded by Benjamin Franklin, the University of Pennsylvania is recognized for its interdisciplinary programs across twelve schools, facilitated by its One University Policy. Penn Medicine leads in gene therapy research and NIH funding. The university provides themed housing, comprehensive student services, and campus safety initiatives, alongside competitive admissions, a history of athletic achievement, notable alumni, and significant library and art collections",
+        "idx_start": 1059,
+        "idx_end": 1527
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Princeton University\nEstablished in 1746, Princeton University is notable for its historic campus, rigorous curriculum, and substantial endowment. Princeton is committed to carbon neutrality by 2046, need-blind admissions, and generous financial aid. The university supports graduate research, a robust library, residential college communities, diverse dining, active student organizations, unique traditions, competitive athletics, and a distinguished alumni network including presidents and Nobel laureates.",
+        "text_original": "Established in 1746, Princeton University is notable for its historic campus, rigorous curriculum, and substantial endowment. Princeton is committed to carbon neutrality by 2046, need-blind admissions, and generous financial aid. The university supports graduate research, a robust library, residential college communities, diverse dining, active student organizations, unique traditions, competitive athletics, and a distinguished alumni network including presidents and Nobel laureates",
+        "idx_start": 1556,
+        "idx_end": 2043
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University of Cambridge\nFounded in 1209, Cambridge excels in mathematics, sciences, and global research, with 31 colleges and six academic schools. The university is known for personalized supervisions, being a major local employer, and fostering technological innovation (\u201cSilicon Fen\u201d). Cambridge holds high global rankings, maintains extensive partnerships, houses 116 libraries, and renowned museums. Student life features traditional events, activism, distinctive sports, and longstanding graduation customs. Its alumni include British Prime Ministers, scientific leaders, and Olympians. Cambridge faces scrutiny over international collaborations and institutional policies.",
+        "text_original": "Founded in 1209, Cambridge excels in mathematics, sciences, and global research, with 31 colleges and six academic schools. The university is known for personalized supervisions, being a major local employer, and fostering technological innovation (\u201cSilicon Fen\u201d). Cambridge holds high global rankings, maintains extensive partnerships, houses 116 libraries, and renowned museums. Student life features traditional events, activism, distinctive sports, and longstanding graduation customs. Its alumni include British Prime Ministers, scientific leaders, and Olympians. Cambridge faces scrutiny over international collaborations and institutional policies",
+        "idx_start": 2075,
+        "idx_end": 2729
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University College London (UCL)\nFounded in 1826 as a pioneer of inclusivity, UCL admits students regardless of religion and was among the first UK universities to admit women. Legally independent but part of the University of London and Russell Group, UCL operates from its historic Bloomsbury campus and other sites, fostering an egalitarian, diverse identity.",
+        "text_original": "Founded in 1826 as a pioneer of inclusivity, UCL admits students regardless of religion and was among the first UK universities to admit women. Legally independent but part of the University of London and Russell Group, UCL operates from its historic Bloomsbury campus and other sites, fostering an egalitarian, diverse identity",
+        "idx_start": 2769,
+        "idx_end": 3097
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University College London (UCL)\n### Academics, Research & Libraries\nUCL\u2019s eleven faculties produce leading research, with partnerships including the NHS, Alan Turing Institute, and Francis Crick Institute. In 2023/24, UCL reported \u00a32.03bn in income, including \u00a3538.8 million from research grants. It actively supports innovation (UCL Business), maintains a large patent portfolio, and hosts the UK's first open-access university press. Its Library Services oversee 18 libraries with over two million books; the UCL Discovery repository and Special Collections contain rare books and archives.",
+        "text_original": "UCL\u2019s eleven faculties produce leading research, with partnerships including the NHS, Alan Turing Institute, and Francis Crick Institute. In 2023/24, UCL reported \u00a32.03bn in income, including \u00a3538.8 million from research grants. It actively supports innovation (UCL Business), maintains a large patent portfolio, and hosts the UK's first open-access university press. Its Library Services oversee 18 libraries with over two million books; the UCL Discovery repository and Special Collections contain rare books and archives",
+        "idx_start": 3138,
+        "idx_end": 3661
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University College London (UCL)\n### Student Body, Diversity, & Recognition\nIn 2021/22, UCL enrolled 46,830 students\u2014making it the UK\u2019s largest postgraduate institution\u2014with 52% international students (notably from Asia and China). The student body was 60.8% female and 12.5% had known disabilities. UCL prioritizes access for disadvantaged and underrepresented groups through programs like Access UCL, contextual offers, and outreach, with 68% undergraduates from state schools. The university has received national awards for gender and race equality, although its withdrawal from Stonewall's LGBT+ scheme sparked controversy.",
+        "text_original": "In 2021/22, UCL enrolled 46,830 students\u2014making it the UK\u2019s largest postgraduate institution\u2014with 52% international students (notably from Asia and China). The student body was 60.8% female and 12.5% had known disabilities. UCL prioritizes access for disadvantaged and underrepresented groups through programs like Access UCL, contextual offers, and outreach, with 68% undergraduates from state schools. The university has received national awards for gender and race equality, although its withdrawal from Stonewall's LGBT+ scheme sparked controversy",
+        "idx_start": 3709,
+        "idx_end": 4260
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University College London (UCL)\n### Museums, Cultural Assets, and Student Life\nUCL manages the Petrie Museum (Egyptian archaeology), Grant Museum (zoology), and UCL Art Museum, emphasizing works by female artists and teaching collections. The historic rivalry with King's College London and a legacy of activism enrich student life. The Students\u2019 Union is the oldest in England, supporting over 250 clubs and societies and more than 70 sports clubs in national leagues; UCL guarantees first-year housing and provides faith facilities and comprehensive sports infrastructure. Its secular and inclusive ethos is reflected in a diverse student body of various nationalities, ages, and genders.",
+        "text_original": "UCL manages the Petrie Museum (Egyptian archaeology), Grant Museum (zoology), and UCL Art Museum, emphasizing works by female artists and teaching collections. The historic rivalry with King's College London and a legacy of activism enrich student life. The Students\u2019 Union is the oldest in England, supporting over 250 clubs and societies and more than 70 sports clubs in national leagues; UCL guarantees first-year housing and provides faith facilities and comprehensive sports infrastructure. Its secular and inclusive ethos is reflected in a diverse student body of various nationalities, ages, and genders",
+        "idx_start": 4312,
+        "idx_end": 4922
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## University College London (UCL)\n### Rankings, Alumni & Governance\nUCL consistently ranks in the UK\u2019s top 15 and global top 25, including \u201c2024 University of the Year\u201d honors. Alumni and staff include Nobel laureates (Francis Crick, Otto Hahn, Peter Higgs), historic figures (Mahatma Gandhi, Jomo Kenyatta), and academics who have received 33 Nobel Prizes and three Fields Medals. UCL employs thousands, contributes significantly to the UK economy, and is governed by a council and academic board led by the President and Provost. The university is recognized for sustainability, policy reform, and broad outreach.",
+        "text_original": "UCL consistently ranks in the UK\u2019s top 15 and global top 25, including \u201c2024 University of the Year\u201d honors. Alumni and staff include Nobel laureates (Francis Crick, Otto Hahn, Peter Higgs), historic figures (Mahatma Gandhi, Jomo Kenyatta), and academics who have received 33 Nobel Prizes and three Fields Medals. UCL employs thousands, contributes significantly to the UK economy, and is governed by a council and academic board led by the President and Provost. The university is recognized for sustainability, policy reform, and broad outreach",
+        "idx_start": 4961,
+        "idx_end": 5507
+    }
+]

@@ -1,0 +1,1 @@
+There is no information about education in Nigeria in the provided text.

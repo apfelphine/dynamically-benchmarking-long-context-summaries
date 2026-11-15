@@ -1,0 +1,77 @@
+### **California Institute of Technology (Caltech)**
+- **History**: Founded in 1891 as Throop College, it evolved into Caltech through key figures like George Ellery Hale, who championed scientific research. It became a national leader in science, especially during World War II and the Cold War, contributing to nuclear research and rocketry. Notable projects include Project Vista (1951), the Manhattan Project, and the development of the Jet Propulsion Laboratory (JPL).
+- **Campus & Administration**: Located in Pasadena, Caltech’s 124-acre campus features a master plan by Bertram Goodhue, emphasizing Spanish mission architecture. Governed by a 46-member board, it operates under a strict academic model with rigorous admissions and a strong emphasis on research.
+- **Academics**: A small, highly selective, research-focused institution with a quarter system. Offers 28 majors and 17 minors across six divisions. Admission is extremely competitive (2.6% admit rate in 2024), with a test-blind policy introduced in 2020.
+- **Research**: Classified as R1 with $270M annual spending. Key research areas include physics, astronomy, engineering, and biology. Notable achievements include the discovery of the cosmic microwave background, the development of the LIGO observatory, and contributions to the Manhattan Project.
+- **Notable People**: 48 Nobel laureates, including Richard Feynman, Murray Gell-Mann, and Kip Thorne. Alumni include pioneers in computing, aerospace, and physics.
+- **Student Life**: Features a house system, a strong honor code, and traditions like the "Millikan pumpkin-drop" and "Ditch Day." Students engage in research via SURF programs and are involved in protests and cultural events.
+
+---
+
+### **University of California, Berkeley (UC Berkeley)**
+- **History**: Founded in 1868 as a land-grant university, it expanded significantly in the 20th century with the creation of the Radiation Laboratory and the Lawrence Berkeley National Laboratory. Played a central role in the Manhattan Project and Cold War research.
+- **Campus & Administration**: Located in Berkeley, the campus spans 1,232 acres with a historic Beaux-Arts core. Governed by a 26-member Board of Regents, it operates with a strong focus on public service and social activism.
+- **Academics**: A large, primarily residential research university with 180 departments. Offers 107 undergraduate degrees. Known for its strong programs in engineering, computer science, and public policy.
+- **Research**: Classified as R1 with significant federal funding. Key contributions include the discovery of new elements, the development of the cyclotron, and the invention of the polio vaccine.
+- **Notable People**: Nobel laureates such as Ernest Lawrence, J. Robert Oppenheimer, and David Baltimore. Alumni include leaders in science, politics, and business.
+- **Student Life**: Known for political activism, including the Free Speech Movement. Features a vibrant student life with Greek life, student-run media, and a strong commitment to diversity and social justice.
+
+---
+
+### **Massachusetts Institute of Technology (MIT)**
+- **History**: Founded in 1861, MIT developed into a leading institution for engineering and technology. Key milestones include the development of radar, the creation of the World Wide Web, and the founding of the MIT Media Lab.
+- **Campus & Administration**: Located in Cambridge, the campus spans 166 acres. Governed by a 60–80 member MIT Corporation, it emphasizes innovation and interdisciplinary research.
+- **Academics**: A large, highly residential research university with a strong focus on science and engineering. Offers 44 undergraduate degrees and a comprehensive graduate program.
+- **Research**: Classified as R1 with $952M in research spending in 2017. Key innovations include the development of the internet, the invention of the digital circuit, and the creation of the first computer virus.
+- **Notable People**: Nobel laureates such as Robert Noyce, John McCarthy, and Charles Stark Draper. Alumni include leaders in technology, business, and science.
+- **Student Life**: Known for its strong academic culture, student-led initiatives, and a tradition of "hacking" and pranks. Features a vibrant student life with over 500 student organizations.
+
+---
+
+### **Stanford University**
+- **History**: Founded in 1885 as a tribute to Leland Stanford Jr., it became a leader in innovation and entrepreneurship. Key developments include the founding of Silicon Valley and the creation of Google.
+- **Campus & Administration**: Located in Palo Alto, the campus spans 8,180 acres. Governed by a 38-member board, it emphasizes innovation and entrepreneurship.
+- **Academics**: A large, highly selective research university with a strong focus on business, engineering, and the arts. Offers over 100 undergraduate and graduate programs.
+- **Research**: Classified as R1 with significant research funding. Key contributions include the development of the internet, the creation of the first computer virus, and the invention of the klystron tube.
+- **Notable People**: Nobel laureates such as William Shockley and John Maeda. Alumni include leaders in technology, business, and public service.
+- **Student Life**: Known for its strong academic culture, student-led initiatives, and a tradition of innovation. Features a vibrant student life with over 600 student organizations.
+
+---
+
+### **King's College London**
+- **History**: Founded in 1829 as a response to the religious controversy surrounding London University, it became a leading institution in medicine, law, and the sciences.
+- **Campus & Administration**: Located in central London, the campus spans five sites. Governed by a 20-member council, it emphasizes academic excellence and research.
+- **Academics**: A comprehensive research university with nine faculties. Offers over 80 undergraduate and graduate programs.
+- **Research**: Classified as R1 with significant research funding. Key contributions include the discovery of DNA structure and the development of the first antiseptic surgical method.
+- **Notable People**: Nobel laureates such as Peter Higgs and Rosalind Franklin. Alumni include leaders in medicine, law, and public service.
+- **Student Life**: Known for its strong academic culture and a tradition of social activism. Features a vibrant student life with over 300 student organizations.
+
+---
+
+### **Tsinghua University**
+- **History**: Founded in 1911, it evolved into a leading institution in China with a strong focus on engineering and science. Key developments include the establishment of the Schwarzman Scholars program and the development of China’s space and technology programs.
+- **Campus & Administration**: Located in Beijing, the campus spans 6.22 square kilometers. Governed by a central government and the Chinese Communist Party, it emphasizes innovation and research.
+- **Academics**: A comprehensive research university with over 80 undergraduate and graduate programs. Offers a strong focus on engineering, computer science, and business.
+- **Research**: Classified as R1 with significant research funding. Key contributions include the development of China’s space program and the creation of the first computer virus.
+- **Notable People**: Nobel laureates such as Yang Chen Ning and Shiing-Shen Chern. Alumni include leaders in politics, science, and business.
+- **Student Life**: Known for its strong academic culture and a tradition of innovation. Features a vibrant student life with over 300 student organizations.
+
+---
+
+### **University of Chicago**
+- **History**: Founded in 1890, it became a leading institution in the Chicago school of economics and sociology. Key developments include the development of the Chicago school of economics and the creation of the University of Chicago Press.
+- **Campus & Administration**: Located in Hyde Park, the campus spans 217 acres. Governed by a 55-member board, it emphasizes academic freedom and research.
+- **Academics**: A comprehensive research university with a strong focus on economics, law, and the social sciences. Offers over 50 undergraduate and graduate programs.
+- **Research**: Classified as R1 with significant research funding. Key contributions include the development of the Chicago school of economics and the discovery of REM sleep.
+- **Notable People**: Nobel laureates such as Robert Merton and James D. Watson. Alumni include leaders in economics, law, and public service.
+- **Student Life**: Known for its strong academic culture and a tradition of intellectual inquiry. Features a vibrant student life with over 400 student organizations.
+
+---
+
+### **Zhejiang University**
+- **History**: Founded in 1897 as Qiushi Academy, it evolved into a leading institution in China with a strong focus on engineering and science. Key developments include the establishment of the Ocean College and the creation of the Zhejiang University Holding Group.
+- **Campus & Administration**: Located in Hangzhou, the campus spans 6.22 square kilometers. Governed by a central government and the Chinese Communist Party, it emphasizes innovation and research.
+- **Academics**: A comprehensive research university with over 80 undergraduate and graduate programs. Offers a strong focus on engineering, computer science, and medicine.
+- **Research**: Classified as R1 with significant research funding. Key contributions include the development of China’s space program and the creation of the first computer virus.
+- **Notable People**: Nobel laureates such as Tsung-Dao Lee and Chien-Shiung Wu. Alumni include leaders in science, politics, and business.
+- **Student Life**: Known for its strong academic culture and a tradition of innovation. Features a vibrant student life with over 300 student organizations.

@@ -1,0 +1,13 @@
+## Global Education, Cultural Exchange, and Social Milestones
+
+**Educational Funding and Academic Traditions:**
+Global education is supported by varied funding, including U.S. options like the **National Merit Scholarship Program (NMSC)**, **TMCF**, **UNCF**, and **Bright Futures**. International scholarships include the **Rhodes Scholarship**, **Norway Scholarship**, **Kazakhstan's Bolashak Program**, **Studienstiftung des deutschen Volkes**, and the **Shuping Scholarship**, alongside the **Edmund S. Muskie Internship Program** for Eurasian scholars. Academic roots trace back to institutions like **Eton College** (1317), and the **Marshall Scholarship** promotes US-UK understanding by supporting American citizens for postgraduate studies in the UK; it covers costs, provides a stipend, and emphasizes intellect, character, and leadership, comparable to the Rhodes and Fulbright programs. The **Association of Marshall Scholars (AMS)** facilitates discussions on transatlantic issues. Cultural exchange is further supported by the **British Council** and the **Fulbright Program**.
+
+**Marshall Scholarship Impact:**
+The **Marshall Scholarship** supports scholars across diverse disciplines—including science (Roger Tsien, John M. Jumper), politics/diplomacy (Stephen Breyer, William J. Burns, Thomas Friedman), humanities (Daniel Yergin, Nicole Krauss), and economics (David Laibson)—providing prestigious international study opportunities at UK universities.
+
+**Notable Figures and Events:**
+**Edmund S. Muskie**, a former politician and Secretary of State, advocated for landmark legislation such as the **Clean Air Act of 1963**, **Clean Water Act (1977)**, and supported the **Civil Rights Act of 1964**.
+
+**Evolution of the Miss America Pageant:**
+The Miss America pageant, active since around 1920/1921, has navigated numerous controversies regarding sexism and racism. Key milestones include the first Black contestant in 1971, the first foreign-born, bilingual winner in 1985, and the crowning of the first deaf winner (Heather Whitestone, 1995) and an Asian-American winner (Angela Perez Baraquio, 2001). Following significant controversy between 1968 and 2022, the pageant underwent a "Miss America 2.0" transformation starting in 2018, prioritizing talent and scholarship. Despite financial strains and operational shifts, the 2022 event crowned the first transgender titleholder. Under current leadership, some 2.0 changes have been modified, emphasizing physical fitness modeling over swimwear, but the operator filed for Chapter 11 bankruptcy in November 2024.

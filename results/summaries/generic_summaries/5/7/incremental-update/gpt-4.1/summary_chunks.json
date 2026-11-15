@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr: Life, Career, and Legacy\nHedy Lamarr, born in Vienna in 1914 to Jewish parents, was both a celebrated actress and a co-inventor of WWII-era frequency-hopping technology, which underpins modern wireless communications. Despite her dual legacy in the arts and technology, she faced personal solitude and financial hardship.",
+        "text_original": "Hedy Lamarr, born in Vienna in 1914 to Jewish parents, was both a celebrated actress and a co-inventor of WWII-era frequency-hopping technology, which underpins modern wireless communications. Despite her dual legacy in the arts and technology, she faced personal solitude and financial hardship",
+        "idx_start": 42,
+        "idx_end": 337
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal: Life, Achievements, and Thought\nBlaise Pascal, from Clermont-Ferrand, made groundbreaking contributions to mathematics (Pascal\u2019s theorem, Pascal's triangle), probability theory, physics (Pascal\u2019s law), and technology (Pascaline calculator). His religious conversion profoundly influenced his philosophical writings and lifestyle, securing his status in science and philosophy.",
+        "text_original": "Blaise Pascal, from Clermont-Ferrand, made groundbreaking contributions to mathematics (Pascal\u2019s theorem, Pascal's triangle), probability theory, physics (Pascal\u2019s law), and technology (Pascaline calculator). His religious conversion profoundly influenced his philosophical writings and lifestyle, securing his status in science and philosophy",
+        "idx_start": 396,
+        "idx_end": 739
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace: Life, Contributions, and Legacy\nAda Lovelace, daughter of Lord Byron, overcame illness to collaborate with Charles Babbage on the Analytical Engine, writing the first computer algorithm and pioneering computational theory. Her work established her as a foundational figure in computer science, inspiring global recognition and educational honors.",
+        "text_original": "Ada Lovelace, daughter of Lord Byron, overcame illness to collaborate with Charles Babbage on the Analytical Engine, writing the first computer algorithm and pioneering computational theory. Her work established her as a foundational figure in computer science, inspiring global recognition and educational honors",
+        "idx_start": 797,
+        "idx_end": 1110
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman: Advocacy, Impact, and Controversy\nRichard Stallman, founder of the GNU Project and Free Software Foundation, championed copyleft and digital rights, opposed proprietary software and the \"open-source\" label, and remained central to free software advocacy despite controversy and temporary resignation, later returning after illness.",
+        "text_original": "Richard Stallman, founder of the GNU Project and Free Software Foundation, championed copyleft and digital rights, opposed proprietary software and the \"open-source\" label, and remained central to free software advocacy despite controversy and temporary resignation, later returning after illness",
+        "idx_start": 1174,
+        "idx_end": 1470
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin: Scientific Innovation, Speech Technology, and Cultural Impact\nPhilip Rubin made major contributions to speech production, cognitive science, sine-wave speech, and articulatory modeling, influenced research ethics and policy, led Haskins Laboratories, and achieved cultural impact as a photographer and author with a notable family background.",
+        "text_original": "Philip Rubin made major contributions to speech production, cognitive science, sine-wave speech, and articulatory modeling, influenced research ethics and policy, led Haskins Laboratories, and achieved cultural impact as a photographer and author with a notable family background",
+        "idx_start": 1558,
+        "idx_end": 1837
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead: Mathematics, Philosophy, and Modern Influence\nAlfred North Whitehead shaped mathematics ( *Principia Mathematica* ), philosophy, and educational reform, developing process metaphysics that emphasizes creativity and interconnectedness, with lasting influence in science, education, and political theory.",
+        "text_original": "Alfred North Whitehead shaped mathematics (*Principia Mathematica*), philosophy, and educational reform, developing process metaphysics that emphasizes creativity and interconnectedness, with lasting influence in science, education, and political theory",
+        "idx_start": 1919,
+        "idx_end": 2172
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush: Engineering Innovation, Wartime Leadership, and Legacy\nVannevar Bush was a pioneering engineer and science policy leader, inventing technologies, leading wartime projects (proximity fuze, Manhattan Project), and anticipating personal computing (memex). He founded the National Science Foundation and fostered international scientific collaboration.",
+        "text_original": "Vannevar Bush was a pioneering engineer and science policy leader, inventing technologies, leading wartime projects (proximity fuze, Manhattan Project), and anticipating personal computing (memex). He founded the National Science Foundation and fostered international scientific collaboration",
+        "idx_start": 2254,
+        "idx_end": 2546
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo: Multidisciplinary Engineering and Innovations\nLeonardo Torres Quevedo was a versatile Spanish engineer whose inventions included cableways, calculation devices, automation systems, radio-controlled machines, and chess-playing automata\u2014early advances in AI. He promoted Esperanto, contributed to scientific vocabulary, and is widely honored.",
+        "text_original": "Leonardo Torres Quevedo was a versatile Spanish engineer whose inventions included cableways, calculation devices, automation systems, radio-controlled machines, and chess-playing automata\u2014early advances in AI. He promoted Esperanto, contributed to scientific vocabulary, and is widely honored",
+        "idx_start": 2629,
+        "idx_end": 2922
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage: Life, Achievements, and Recognition\nCharles Babbage (1791\u20131871) was a pivotal London mathematician and inventor who mechanized computation through the Difference Engine and Analytical Engine, pioneering programmable computing concepts. He influenced mathematics, computers, electrodynamics, societal reform, and left a legacy of advocacy, cultural commemorations, and preserved artifacts.",
+        "text_original": "Charles Babbage (1791\u20131871) was a pivotal London mathematician and inventor who mechanized computation through the Difference Engine and Analytical Engine, pioneering programmable computing concepts. He influenced mathematics, computers, electrodynamics, societal reform, and left a legacy of advocacy, cultural commemorations, and preserved artifacts",
+        "idx_start": 2987,
+        "idx_end": 3338
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing: Life, Innovations, Persecution, and Legacy\nAlan Turing (1912\u20131954) revolutionized computation theory (Turing machine, Church\u2013Turing thesis), cryptanalysis at Bletchley Park (bombe, efficient codebreaking), and secure communications (Delilah, SIGSALY). He helped design the ACE and Manchester Mark 1, consulted for Ferranti, introduced the Turing test, created Turochamp, and founded mathematical biology. Personally, Turing buried silver for security, lost it to his own encryption, and his engagement to Joan Clarke ended after he disclosed his homosexuality. Following his 1952 conviction under discriminatory laws, Turing endured chemical castration and lost his security clearance, facing severe professional and personal repercussions, and died in 1954, officially by suicide\u2014a conclusion later questioned. Campaigns led to UK government apologies and, in 2013, a posthumous royal pardon. Turing\u2019s case inspired the 2017 \"Alan Turing law,\" granting retroactive pardons to thousands similarly convicted, and prompted ongoing honours, acknowledging both his scientific achievements and the injustice he suffered as an LGBTQ+ figure.",
+        "text_original": "Alan Turing (1912\u20131954) revolutionized computation theory (Turing machine, Church\u2013Turing thesis), cryptanalysis at Bletchley Park (bombe, efficient codebreaking), and secure communications (Delilah, SIGSALY). He helped design the ACE and Manchester Mark 1, consulted for Ferranti, introduced the Turing test, created Turochamp, and founded mathematical biology. Personally, Turing buried silver for security, lost it to his own encryption, and his engagement to Joan Clarke ended after he disclosed his homosexuality. Following his 1952 conviction under discriminatory laws, Turing endured chemical castration and lost his security clearance, facing severe professional and personal repercussions, and died in 1954, officially by suicide\u2014a conclusion later questioned. Campaigns led to UK government apologies and, in 2013, a posthumous royal pardon. Turing\u2019s case inspired the 2017 \"Alan Turing law,\" granting retroactive pardons to thousands similarly convicted, and prompted ongoing honours, acknowledging both his scientific achievements and the injustice he suffered as an LGBTQ+ figure",
+        "idx_start": 3406,
+        "idx_end": 4497
+    }
+]

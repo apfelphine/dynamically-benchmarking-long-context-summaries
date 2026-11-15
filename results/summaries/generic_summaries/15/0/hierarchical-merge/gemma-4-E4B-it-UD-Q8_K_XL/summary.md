@@ -1,0 +1,11 @@
+## Global University Profiles
+
+Several globally recognized institutions exhibit distinct profiles, blending historical significance with modern research focus. The University of Oxford (12th century) operates on a tutorial system and commits to fossil fuel divestment. Other high-profile universities include the University of British Columbia (UBC), known for sustainability and international enrollment, and the National Autonomous University of Mexico (UNAM), celebrated for academic freedom.
+
+Other distinguished institutions include the University of Hong Kong (HKU), which maintains a rich history and promotes global exchange, and the University of Singapore (NUS), which integrates British and American models and emphasizes innovation. Furthermore, major systems include the University of Toronto (U of T) and the University of Melbourne, which, despite academic strength, have contended with internal labor and student disputes.
+
+## Diverse Academic Structures and Focus Areas
+
+Universities vary widely in their structure and mission. Cornell University, an R1 Doctoral institution established in 1865, features a decentralized structure across multiple undergraduate and graduate schools, while the Federal University of Rio de Janeiro (UFRJ), founded in 1920, is characterized by broad academic offerings and a strong history of student activism.
+
+Other diverse examples include the University of New South Wales (UNSW) offering comprehensive education in fields like Engineering, and NUS, which boasts 17 faculties and supports its global presence through strong community engagement and research archives. UFRJ, for instance, utilizes ENEM/SiSU for admissions and focuses on public health and maritime science research.

@@ -1,0 +1,205 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network\n## History\nThe Hopfield network originates from associative memory models inspired by human cognition, including Rosenblatt\u2019s perceptron-based models and early statistical mechanics approaches (e.g., Ising model). Key contributions include:\n- **1956\u20131961** : Early associative memory models by W.K. Taylor, Karl Steinbuch, and D.J. Willshaw.\n- **1963** : Roy J. Glauber\u2019s extension of the Ising model to dynamic systems.\n- **1970s** : Adaptation to stimulus by Rosenblatt, Nakano, Amari, and William A. Little, integrating Hebbian learning.\n- **1975** : The Sherrington\u2013Kirkpatrick model introduced random initialization, highlighting local minima in energy landscapes.\n- **1982** : John Hopfield applied statistical mechanics to binary Hopfield networks, later extended to continuous activation functions.\n- **2016\u20132020** : Dense associative memories (modern Hopfield networks) improved memory capacity via non-linear interactions.\n- **2024** : Hopfield networks and RNNs were awarded the Nobel Prize in Physics for foundational contributions to machine learning.",
+        "text_original": "The Hopfield network originates from associative memory models inspired by human cognition, including Rosenblatt\u2019s perceptron-based models and early statistical mechanics approaches (e.g., Ising model). Key contributions include:\n- **1956\u20131961**: Early associative memory models by W.K. Taylor, Karl Steinbuch, and D.J. Willshaw.\n- **1963**: Roy J. Glauber\u2019s extension of the Ising model to dynamic systems.\n- **1970s**: Adaptation to stimulus by Rosenblatt, Nakano, Amari, and William A. Little, integrating Hebbian learning.\n- **1975**: The Sherrington\u2013Kirkpatrick model introduced random initialization, highlighting local minima in energy landscapes.\n- **1982**: John Hopfield applied statistical mechanics to binary Hopfield networks, later extended to continuous activation functions.\n- **2016\u20132020**: Dense associative memories (modern Hopfield networks) improved memory capacity via non-linear interactions.\n- **2024**: Hopfield networks and RNNs were awarded the Nobel Prize in Physics for foundational contributions to machine learning",
+        "idx_start": 43,
+        "idx_end": 1088
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network\n## Structure\nHopfield networks consist of binary threshold units (states: +1/-1) with symmetric, learned weights (Hebbian learning rule). The network\u2019s state updates via:\n- **Binary Hopfield** : Discrete states, symmetric weights (no self-connections), converging to stable attractors.\n- **Continuous Hopfield** : Graded responses, symmetric weights, converging to fixed points via differential equations.",
+        "text_original": "Hopfield networks consist of binary threshold units (states: +1/-1) with symmetric, learned weights (Hebbian learning rule). The network\u2019s state updates via:\n- **Binary Hopfield**: Discrete states, symmetric weights (no self-connections), converging to stable attractors.\n- **Continuous Hopfield**: Graded responses, symmetric weights, converging to fixed points via differential equations",
+        "idx_start": 1110,
+        "idx_end": 1499
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network\n## Training and Learning\n- **Hebbian Learning** : Weights are updated based on simultaneous neuron activations: ( w_{ij} = V_i^s V_j^s ) (binary) or ( (2V_i^s - 1)(2V_j^s - 1) ) (continuous).\n- **Energy Function** : The network\u2019s energy ( E ) decreases monotonically during updates, converging to local minima (stable states).",
+        "text_original": "Hebbian Learning**: Weights are updated based on simultaneous neuron activations: \\(w_{ij} = V_i^s V_j^s\\) (binary) or \\((2V_i^s - 1)(2V_j^s - 1)\\) (continuous).\n- **Energy Function**: The network\u2019s energy \\(E\\) decreases monotonically during updates, converging to local minima (stable states",
+        "idx_start": 1537,
+        "idx_end": 1830
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Network\n## Applications\n- **Associative Memory** : Retrieval of stored patterns from partial inputs.\n- **Optimization** : Solving problems like the Traveling Salesman Problem via energy minimization.\n- **Neural Dynamics** : Modeling neural circuits with recurrent connections.",
+        "text_original": "Associative Memory**: Retrieval of stored patterns from partial inputs.\n- **Optimization**: Solving problems like the Traveling Salesman Problem via energy minimization.\n- **Neural Dynamics**: Modeling neural circuits with recurrent connections",
+        "idx_start": 1860,
+        "idx_end": 2104
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## History\nRNNs emerged from neuroscience (recurrent loops in brain circuits) and statistical mechanics (e.g., Ising model). Key milestones:\n- **1940s\u20131960s** : Early feedback models by Hebb, McCulloch-Pitts, and Rosenblatt.\n- **1980s** : LSTM (1995) and GRU (2014) addressed vanishing gradients, enabling long-term memory.\n- **2010s** : Transformers (2017) replaced RNNs with parallelizable attention mechanisms.",
+        "text_original": "RNNs emerged from neuroscience (recurrent loops in brain circuits) and statistical mechanics (e.g., Ising model). Key milestones:\n- **1940s\u20131960s**: Early feedback models by Hebb, McCulloch-Pitts, and Rosenblatt.\n- **1980s**: LSTM (1995) and GRU (2014) addressed vanishing gradients, enabling long-term memory.\n- **2010s**: Transformers (2017) replaced RNNs with parallelizable attention mechanisms",
+        "idx_start": 2169,
+        "idx_end": 2567
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Architectures\n- **Standard RNN** : Sequential processing with hidden state ( h_t ) (memory).\n- **Stacked RNN** : Multiple RNN layers for deeper feature extraction.\n- **Bidirectional RNN** : Two RNNs process sequences in opposite directions.\n- **Encoder-Decoder** : Separate networks for encoding input sequences and decoding outputs (e.g., machine translation).\n- **Hopfield Network** : Fully connected, symmetric weights for associative memory.",
+        "text_original": "Standard RNN**: Sequential processing with hidden state \\(h_t\\) (memory).\n- **Stacked RNN**: Multiple RNN layers for deeper feature extraction.\n- **Bidirectional RNN**: Two RNNs process sequences in opposite directions.\n- **Encoder-Decoder**: Separate networks for encoding input sequences and decoding outputs (e.g., machine translation).\n- **Hopfield Network**: Fully connected, symmetric weights for associative memory",
+        "idx_start": 2597,
+        "idx_end": 3018
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Training\n- **Backpropagation Through Time (BPTT)** : Computes gradients over time for sequential data.\n- **Teacher Forcing** : Uses ground truth for training decoder outputs during sequence generation.\n- **Gradient Descent** : Optimizes weights via stochastic optimization (e.g., Adam).",
+        "text_original": "Backpropagation Through Time (BPTT)**: Computes gradients over time for sequential data.\n- **Teacher Forcing**: Uses ground truth for training decoder outputs during sequence generation.\n- **Gradient Descent**: Optimizes weights via stochastic optimization (e.g., Adam",
+        "idx_start": 3043,
+        "idx_end": 3311
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Network (RNN)\n## Applications\n- **Time Series Prediction** : Forecasting stock prices, weather.\n- **Natural Language Processing** : Machine translation, text generation.\n- **Robotics** : Sequential decision-making.",
+        "text_original": "Time Series Prediction**: Forecasting stock prices, weather.\n- **Natural Language Processing**: Machine translation, text generation.\n- **Robotics**: Sequential decision-making",
+        "idx_start": 3341,
+        "idx_end": 3517
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Architecture\nCNNs process spatial data via convolutional layers, pooling, and fully connected layers:\n- **Convolutional Layers** : Apply filters (kernels) to extract features (e.g., edges, textures).\n- **Pooling Layers** : Downsample feature maps (e.g., max pooling) to reduce dimensionality.\n- **Fully Connected Layers** : Classify features (e.g., MNIST digits).",
+        "text_original": "CNNs process spatial data via convolutional layers, pooling, and fully connected layers:\n- **Convolutional Layers**: Apply filters (kernels) to extract features (e.g., edges, textures).\n- **Pooling Layers**: Downsample feature maps (e.g., max pooling) to reduce dimensionality.\n- **Fully Connected Layers**: Classify features (e.g., MNIST digits",
+        "idx_start": 3591,
+        "idx_end": 3936
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Key Features\n- **Local Connectivity** : Filters operate on local regions (receptive fields).\n- **Shared Weights** : Same filter weights across the entire input.\n- **Translation Invariance** : Outputs are invariant to input shifts (via convolution).",
+        "text_original": "Local Connectivity**: Filters operate on local regions (receptive fields).\n- **Shared Weights**: Same filter weights across the entire input.\n- **Translation Invariance**: Outputs are invariant to input shifts (via convolution",
+        "idx_start": 3966,
+        "idx_end": 4192
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Applications\n- **Image Recognition** : Object detection, classification (e.g., AlexNet, ResNet).\n- **Medical Imaging** : Diagnosing diseases from X-rays, MRIs.\n- **Computer Vision** : Autonomous driving, image segmentation.",
+        "text_original": "Image Recognition**: Object detection, classification (e.g., AlexNet, ResNet).\n- **Medical Imaging**: Diagnosing diseases from X-rays, MRIs.\n- **Computer Vision**: Autonomous driving, image segmentation",
+        "idx_start": 4222,
+        "idx_end": 4424
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Structure\nRBFNs consist of three layers:\n- **Input Layer** : Real-valued inputs.\n- **Hidden Layer** : Radial basis functions (e.g., Gaussian) centered at learned centers ( c_i ) .\n- **Output Layer** : Linear combination of hidden layer outputs.",
+        "text_original": "RBFNs consist of three layers:\n- **Input Layer**: Real-valued inputs.\n- **Hidden Layer**: Radial basis functions (e.g., Gaussian) centered at learned centers \\(c_i\\).\n- **Output Layer**: Linear combination of hidden layer outputs",
+        "idx_start": 4497,
+        "idx_end": 4726
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Training\n- **Two-Step Process** :\n    1. **Center Selection** : Random sampling or clustering (e.g., k-means).\n    2. **Weight Optimization** : Linear regression to minimize reconstruction error.\n- **Sparse RBFNs** : Enforce sparsity via regularization (e.g., L1/L2 penalties).",
+        "text_original": "Two-Step Process**:\n  1. **Center Selection**: Random sampling or clustering (e.g., k-means).\n  2. **Weight Optimization**: Linear regression to minimize reconstruction error.\n- **Sparse RBFNs**: Enforce sparsity via regularization (e.g., L1/L2 penalties",
+        "idx_start": 4751,
+        "idx_end": 5005
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Applications\n- **Function Approximation** : Interpolation, time series prediction.\n- **Pattern Recognition** : Clustering, classification.",
+        "text_original": "Function Approximation**: Interpolation, time series prediction.\n- **Pattern Recognition**: Clustering, classification",
+        "idx_start": 5035,
+        "idx_end": 5153
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Overview\nVAEs are generative models with a prior distribution ( p(z) ) and a variational posterior ( q_\\phi(z|x) ) :\n- **Encoder** : Maps inputs ( x ) to latent variables ( z ) via ( q_\\phi(z|x) ) .\n- **Decoder** : Reconstructs ( x ) from ( z ) via ( p_\\theta(x|z) ) .",
+        "text_original": "VAEs are generative models with a prior distribution \\(p(z)\\) and a variational posterior \\(q_\\phi(z|x)\\):\n- **Encoder**: Maps inputs \\(x\\) to latent variables \\(z\\) via \\(q_\\phi(z|x)\\).\n- **Decoder**: Reconstructs \\(x\\) from \\(z\\) via \\(p_\\theta(x|z",
+        "idx_start": 5218,
+        "idx_end": 5468
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Loss Function\n- **Evidence Lower Bound (ELBO)** : Maximizes ( \\mathbb{E} *{z\\sim q*\n- **Reparameterization Trick** : Enables gradient-based optimization of ( q_\\phi(z|x) ) .",
+        "text_original": ")\\).\n\n#### **Loss Function**\n- **Evidence Lower Bound (ELBO)**: Maximizes \\(\\mathbb{E}_{z\\sim q_\\phi(z|x)}[\\log p_\\theta(x|z)] - D_{KL}(q_\\phi(z|x) || p(z))\\).\n- **Reparameterization Trick**: Enables gradient-based optimization of \\(q_\\phi(z|x)\\).\n\n#### **Applications**\n- **",
+        "idx_start": 5468,
+        "idx_end": 5743
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Applications\n- **Generative Modeling** : Image synthesis (e.g., GANs).\n- **Dimensionality Reduction** : Compressing data (e.g., PCA).",
+        "text_original": "Generative Modeling**: Image synthesis (e.g., GANs).\n- **Dimensionality Reduction**: Compressing data (e.g., PCA",
+        "idx_start": 5743,
+        "idx_end": 5855
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer\n## Architecture\nTransformers use self-attention to model dependencies between tokens:\n- **Encoder** : Processes input sequences via multi-head attention and feedforward layers.\n- **Decoder** : Generates sequences autoregressively using cross-attention.\n- **Positional Encoding** : Adds positional information to token embeddings.",
+        "text_original": "Transformers use self-attention to model dependencies between tokens:\n- **Encoder**: Processes input sequences via multi-head attention and feedforward layers.\n- **Decoder**: Generates sequences autoregressively using cross-attention.\n- **Positional Encoding**: Adds positional information to token embeddings",
+        "idx_start": 5907,
+        "idx_end": 6216
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer\n## Key Innovations\n- **Self-Attention** : Captures long-range dependencies without recurrence.\n- **Multi-Head Attention** : Parallelizes attention across different representations.\n- **Transformer Variants** : Encoder-only (BERT), decoder-only (GPT), or hybrid (T5).",
+        "text_original": "Self-Attention**: Captures long-range dependencies without recurrence.\n- **Multi-Head Attention**: Parallelizes attention across different representations.\n- **Transformer Variants**: Encoder-only (BERT), decoder-only (GPT), or hybrid (T",
+        "idx_start": 6248,
+        "idx_end": 6485
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer\n## Applications\n- **Natural Language Processing** : Machine translation, text generation.\n- **Computer Vision** : Image segmentation, object detection.",
+        "text_original": "Natural Language Processing**: Machine translation, text generation.\n- **Computer Vision**: Image segmentation, object detection",
+        "idx_start": 6516,
+        "idx_end": 6644
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Message Passing\nGNNs update node representations via message passing:\n- **Graph Convolutional Networks (GCN)** : Uses spectral filtering.\n- **Graph Attention Networks (GAT)** : Learns attention weights between nodes.",
+        "text_original": "GNNs update node representations via message passing:\n- **Graph Convolutional Networks (GCN)**: Uses spectral filtering.\n- **Graph Attention Networks (GAT)**: Learns attention weights between nodes",
+        "idx_start": 6713,
+        "idx_end": 6910
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Applications\n- **Protein Folding** : Predicting protein structures (AlphaFold).\n- **Social Networks** : Recommender systems, fraud detection.",
+        "text_original": "Protein Folding**: Predicting protein structures (AlphaFold).\n- **Social Networks**: Recommender systems, fraud detection",
+        "idx_start": 6939,
+        "idx_end": 7060
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\n## Motivation\nWGANs address GAN instability by using the Wasserstein distance:\n- **Critic** : Bounded Lipschitz norm to ensure stable gradients.\n- **Generator** : Minimizes Wasserstein distance between real and generated distributions.",
+        "text_original": "WGANs address GAN instability by using the Wasserstein distance:\n- **Critic**: Bounded Lipschitz norm to ensure stable gradients.\n- **Generator**: Minimizes Wasserstein distance between real and generated distributions",
+        "idx_start": 7119,
+        "idx_end": 7337
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\n## Training\n- **Weight Clipping** : Bounds critic weights to maintain Lipschitz norm.\n- **Spectral Normalization** : Normalizes critic weights to unit spectral radius.",
+        "text_original": "Weight Clipping**: Bounds critic weights to maintain Lipschitz norm.\n- **Spectral Normalization**: Normalizes critic weights to unit spectral radius",
+        "idx_start": 7362,
+        "idx_end": 7510
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\n## Applications\n- **Image Generation** : High-quality synthetic images (e.g., BigGAN).",
+        "text_original": "Image Generation**: High-quality synthetic images (e.g., BigGAN",
+        "idx_start": 7539,
+        "idx_end": 7602
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM)\n## CAM\n- **Global Average Pooling (GAP)** : Reduces feature maps to class-specific weights.\n- **Heatmap** : Highlights discriminative regions for a target class.",
+        "text_original": "Global Average Pooling (GAP)**: Reduces feature maps to class-specific weights.\n- **Heatmap**: Highlights discriminative regions for a target class",
+        "idx_start": 7666,
+        "idx_end": 7813
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM)\n## Grad-CAM\n- **Gradient-Based** : Uses gradients of class scores to compute importance weights.\n- **Upsampling** : Matches input image dimensions for interpretability.",
+        "text_original": "Gradient-Based**: Uses gradients of class scores to compute importance weights.\n- **Upsampling**: Matches input image dimensions for interpretability",
+        "idx_start": 7838,
+        "idx_end": 7987
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM)\n## Applications\n- **Explainable AI** : Visualizing neural network decisions (e.g., medical imaging).",
+        "text_original": "Explainable AI**: Visualizing neural network decisions (e.g., medical imaging",
+        "idx_start": 8016,
+        "idx_end": 8093
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Takeaways\n- **Hopfield Networks** : Associative memory via Hebbian learning and energy minimization.\n- **RNNs** : Sequential processing with LSTM/GRU for long-term dependencies.\n- **CNNs** : Spatial feature extraction via convolutional layers.\n- **VAEs** : Generative models with variational inference.\n- **Transformers** : Self-attention for parallelizable sequence modeling.\n- **GNNs** : Graph-structured data via message passing.\n- **WGANs** : Stable generative modeling via Wasserstein distance.\n- **CAM** : Visual explanations for neural network decisions.",
+        "text_original": "Hopfield Networks**: Associative memory via Hebbian learning and energy minimization.\n- **RNNs**: Sequential processing with LSTM/GRU for long-term dependencies.\n- **CNNs**: Spatial feature extraction via convolutional layers.\n- **VAEs**: Generative models with variational inference.\n- **Transformers**: Self-attention for parallelizable sequence modeling.\n- **GNNs**: Graph-structured data via message passing.\n- **WGANs**: Stable generative modeling via Wasserstein distance.\n- **CAM**: Visual explanations for neural network decisions",
+        "idx_start": 8127,
+        "idx_end": 8665
+    }
+]

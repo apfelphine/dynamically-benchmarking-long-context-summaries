@@ -1,0 +1,33 @@
+{
+  "id": 52224,
+  "title": "The Diamond Age",
+  "url": "https://en.wikipedia.org/wiki/The_Diamond_Age",
+  "path": "AI-Fiction\\the-diamond-age",
+  "summary": {
+    "chars": 601,
+    "tokens": 138
+  },
+  "document": {
+    "chars": 16091,
+    "tokens": 3352
+  },
+  "infobox": {
+    "title": "The Diamond Age",
+    "data": {
+      "Author": "Neal Stephenson",
+      "Cover artist": "Bruce Jensen",
+      "Language": "English",
+      "Genre": "Science fiction Postcyberpunk",
+      "Publisher": "Bantam Spectra (U.S.)",
+      "Publication date": "February 1995",
+      "Publication place": "United States",
+      "Media type": "Print (hardback & paperback) & Audio Book (Cassette, MP3 CD, Audio download. Narrator: Jennifer Wiltsie) & e-book",
+      "Pages": "455 (hardcover), 512 (paperback)",
+      "Awards": "Locus Award for Best Science Fiction Novel (1996), Hugo Award for Best Novel (1996)",
+      "ISBN": "0-553-09609-5 (hardcover), ISBN 0-553-38096-6 (paperback)",
+      "OCLC": "30894530",
+      "Dewey Decimal": "813/.54 20",
+      "LC Class": "PS3569.T3868 D53 1995"
+    }
+  }
+}

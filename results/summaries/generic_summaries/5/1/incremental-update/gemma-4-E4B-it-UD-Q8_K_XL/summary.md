@@ -1,0 +1,8 @@
+**Pioneers in Computing, Science, and Philosophy:**
+Early computing innovators include Charles Babbage and Leonardo Torres Quevedo. Ada Lovelace, a foundational figure recognized globally to promote women in STEM, made significant contributions through her 1843 translation and notes on Babbage's Analytical Engine, realizing its potential beyond mere arithmetic to process abstract symbols. She is honored through Ada Lovelace Day, the Ada Developers Academy, and technology naming conventions (e.g., Nvidia's GPU); some of her rare first editions have seen historical auction events. Other early figures include Alan Turing, influential in AI, Alfred North Whitehead, who explored "prehension" in *Process and Reality*, and Richard Stallman, who founded the FSF and the GNU project in 1983 to advocate for copyleft (GPL).
+
+**Key Scientific and Governmental Figures:**
+Vannevar Bush, co-founder of Raytheon and inventor of the differential analyzer, played a vital role in WWII science via the NDRC and OSRD, leading the Manhattan Project. Bush advocated for federal basic research in his 1945 work, *"Science, The Endless Frontier"*, and conceptualized the memex. Blaise Pascal, a polymath, invented the Pascaline calculator (1642), studied probability with Fermat, and engaged in physics.
+
+**Modern Research, Policy, and Technology:**
+Hedy Lamarr, an actress, co-developed frequency-hopping technology with George Antheil in 1942, a concept essential to modern spread-spectrum communication. Contemporary researchers, such as Philip Rubin, investigate embodied cognition using multi-method approaches while engaging in science policy at organizations like the NSF and White House OSTP.

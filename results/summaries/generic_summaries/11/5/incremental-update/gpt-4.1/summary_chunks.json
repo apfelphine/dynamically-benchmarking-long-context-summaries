@@ -1,0 +1,65 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function (RBF) Networks\nRBF networks consist of input, Gaussian hidden, and output layers and are used for function approximation and prediction. Their training involves selecting centers, optimizing output weights, and applying regularization.",
+        "text_original": "RBF networks consist of input, Gaussian hidden, and output layers and are used for function approximation and prediction. Their training involves selecting centers, optimizing output weights, and applying regularization",
+        "idx_start": 41,
+        "idx_end": 260
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoders and Variational Autoencoders (VAEs)\nAutoencoders support dimensionality reduction tasks like semantic hashing, anomaly detection, and medical imaging. Variants\u2014including robust and sparse autoencoders\u2014and VAEs (using ELBO and reparameterization) enable generative modeling with probabilistic latent representations.",
+        "text_original": "Autoencoders support dimensionality reduction tasks like semantic hashing, anomaly detection, and medical imaging. Variants\u2014including robust and sparse autoencoders\u2014and VAEs (using ELBO and reparameterization) enable generative modeling with probabilistic latent representations",
+        "idx_start": 316,
+        "idx_end": 594
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Networks (CNNs)\nCNNs leverage convolutions, pooling, and nonlinear activations to extract spatial and sequential patterns, excelling in computer vision, NLP, and anomaly detection. Techniques like regularization and data augmentation drive improved generalization.",
+        "text_original": "CNNs leverage convolutions, pooling, and nonlinear activations to extract spatial and sequential patterns, excelling in computer vision, NLP, and anomaly detection. Techniques like regularization and data augmentation drive improved generalization",
+        "idx_start": 638,
+        "idx_end": 885
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Networks (RNNs)\nRNNs, including LSTM, GRU, and encoder-decoder models, address sequential data tasks such as translation, speech, prediction, and generation. Key training methods include backpropagation through time (BPTT) and teacher forcing.",
+        "text_original": "RNNs, including LSTM, GRU, and encoder-decoder models, address sequential data tasks such as translation, speech, prediction, and generation. Key training methods include backpropagation through time (BPTT) and teacher forcing",
+        "idx_start": 925,
+        "idx_end": 1151
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer Networks and Vision Transformer (ViT) Variants\nTransformers, built on tokenization and self-attention, define modern NLP and multimodal models. Vision Transformers adapt this model for images, with variants (CoAtNet, DeiT, MAE, DINO, Swin, TimeSformer, ViT-VQGAN) expanding capabilities in segmentation, synthesis, transfer learning, and enhancing activation, attention, and positional encoding, implemented in frameworks like TensorFlow and PyTorch.",
+        "text_original": "Transformers, built on tokenization and self-attention, define modern NLP and multimodal models. Vision Transformers adapt this model for images, with variants (CoAtNet, DeiT, MAE, DINO, Swin, TimeSformer, ViT-VQGAN) expanding capabilities in segmentation, synthesis, transfer learning, and enhancing activation, attention, and positional encoding, implemented in frameworks like TensorFlow and PyTorch",
+        "idx_start": 1217,
+        "idx_end": 1619
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs) and Variants\nGANs employ generator and discriminator networks in adversarial training to boost data synthesis realism, using the Jensen\u2013Shannon divergence in the classic formulation. Gradient issues, especially for the generator, affected original GANs, prompting innovations like Wasserstein GANs (WGANs), which instead optimize the Wasserstein distance and use a critic constrained by the Lipschitz norm\u2014stabilizing training and improving gradient flow, notably in high-dimensional settings such as ImageNet. Lipschitz constraints in WGANs are enforced via techniques such as weight clipping, spectral normalization, and gradient penalties, yielding more reliable learning signals. Variants like DCGAN, SAGAN, VAEGAN, TransGAN, Flow-GAN, adversarial autoencoders, InfoGANs, BiGANs, and the StyleGAN series (1-3) improved artifact removal, style transfer, and image quality. Other advances include invertible augmentation, SinGAN, progressive GANs, CycleGAN for unpaired translation, BigGAN for scalable synthesis, and evaluation metrics like Inception Score and Fr\u00e9chet Inception Distance.",
+        "text_original": "GANs employ generator and discriminator networks in adversarial training to boost data synthesis realism, using the Jensen\u2013Shannon divergence in the classic formulation. Gradient issues, especially for the generator, affected original GANs, prompting innovations like Wasserstein GANs (WGANs), which instead optimize the Wasserstein distance and use a critic constrained by the Lipschitz norm\u2014stabilizing training and improving gradient flow, notably in high-dimensional settings such as ImageNet. Lipschitz constraints in WGANs are enforced via techniques such as weight clipping, spectral normalization, and gradient penalties, yielding more reliable learning signals. Variants like DCGAN, SAGAN, VAEGAN, TransGAN, Flow-GAN, adversarial autoencoders, InfoGANs, BiGANs, and the StyleGAN series (1-3) improved artifact removal, style transfer, and image quality. Other advances include invertible augmentation, SinGAN, progressive GANs, CycleGAN for unpaired translation, BigGAN for scalable synthesis, and evaluation metrics like Inception Score and Fr\u00e9chet Inception Distance",
+        "idx_start": 1678,
+        "idx_end": 2755
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs) and Variants\n## GAN Applications and Influences\nGANs drive innovation in:\n- **Science:** Astronomical and physical simulation, dark matter modeling.\n- **Medical:** Synthetic imaging, privacy, diagnostics, forensics.\n- **Malicious Use:** Deepfakes, fake profile generation, stimulating regulatory responses.\n- **Art, Fashion, Advertising:** AI-based art, fashion modeling, image enhancement, game content.\n- **Other:** Age progression, 3D/motion modeling, climate visualization, voice-to-face reconstruction, map inpainting.\nAdversarial principles predate GANs, influencing adversarial machine learning, control theory, and robust optimization.",
+        "text_original": "GANs drive innovation in:\n- **Science:** Astronomical and physical simulation, dark matter modeling.\n- **Medical:** Synthetic imaging, privacy, diagnostics, forensics.\n- **Malicious Use:** Deepfakes, fake profile generation, stimulating regulatory responses.\n- **Art, Fashion, Advertising:** AI-based art, fashion modeling, image enhancement, game content.\n- **Other:** Age progression, 3D/motion modeling, climate visualization, voice-to-face reconstruction, map inpainting.\n\nAdversarial principles predate GANs, influencing adversarial machine learning, control theory, and robust optimization",
+        "idx_start": 2795,
+        "idx_end": 3390
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Networks (GNNs)\nGNNs utilize message passing and aggregation (GCN, GAT, gated models) to process graph data for privacy, fraud, biology, social networks, optimization, vision, and language applications.",
+        "text_original": "GNNs utilize message passing and aggregation (GCN, GAT, gated models) to process graph data for privacy, fraud, biology, social networks, optimization, vision, and language applications",
+        "idx_start": 3426,
+        "idx_end": 3611
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Networks\nHopfield networks provide associative memories; advances in nonlinearity, energy functions, and stacking inform modern memory models, optimization strategies, and attention mechanism development.",
+        "text_original": "Hopfield networks provide associative memories; advances in nonlinearity, energy functions, and stacking inform modern memory models, optimization strategies, and attention mechanism development",
+        "idx_start": 3636,
+        "idx_end": 3830
+    }
+]

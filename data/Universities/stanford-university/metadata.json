@@ -1,0 +1,44 @@
+{
+  "id": 26977,
+  "title": "Stanford University",
+  "url": "https://en.wikipedia.org/wiki/Stanford_University",
+  "path": "Universities\\stanford-university",
+  "summary": {
+    "chars": 2021,
+    "tokens": 422
+  },
+  "document": {
+    "chars": 60887,
+    "tokens": 12855
+  },
+  "infobox": {
+    "title": "Leland Stanford Junior University",
+    "data": {
+      "Motto": "Die Luft der Freiheit weht (German)",
+      "Motto in English": "\"The wind of freedom blows\"",
+      "Type": "Private research university",
+      "Established": "October 1, 1891",
+      "Founder": "Leland and Jane Stanford",
+      "Accreditation": "WSCUC",
+      "Academic affiliations": "AAU COFHE URA Space-grant",
+      "Endowment": "$40.8 billion (2025)",
+      "Budget": "$8.9 billion (2023/24)",
+      "President": "Jonathan Levin",
+      "Provost": "Jenny Martinez",
+      "Academic staff": "2,323 (fall 2023)",
+      "Administrative staff": "18,369 (fall 2023)",
+      "Students": "17,529 (fall 2023)",
+      "Undergraduates": "7,841 (fall 2023)",
+      "Postgraduates": "9,688 (fall 2023)",
+      "Location": "Stanford, California, United States 37\u00b025\u203239\u2033N 122\u00b010\u203212\u2033W\ufeff / \ufeff37.42750\u00b0N 122.17000\u00b0W",
+      "Campus": "Large suburb: 8,180-acre (3,310-hectare)",
+      "Other campuses": "Pacific Grove Redwood City Washington, D.C.",
+      "Newspaper": "The Stanford Daily",
+      "Colors": "Cardinal Red \u00b7 White",
+      "Nickname": "Cardinal",
+      "Sporting affiliations": "NCAA Division I FBS \u2013 ACC IRA PCCSC MPSF",
+      "Mascot": "Stanford Tree (unofficial)",
+      "Website": "stanford.edu"
+    }
+  }
+}

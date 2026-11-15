@@ -1,0 +1,35 @@
+{
+  "id": 982874,
+  "title": "The Hitchhiker's Guide to the Galaxy (film)",
+  "url": "https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(film)",
+  "path": "AI-Fiction\\the-hitchhikers-guide-to-the-galaxy-film",
+  "summary": {
+    "chars": 647,
+    "tokens": 152
+  },
+  "document": {
+    "chars": 17682,
+    "tokens": 3912
+  },
+  "infobox": {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "data": {
+      "Directed by": "Garth Jennings",
+      "Screenplay by": "- Douglas Adams - Karey Kirkpatrick",
+      "Based on": "The Hitchhiker's Guide to the Galaxy \u00b7 by Douglas Adams",
+      "Produced by": "- Gary Barber - Roger Birnbaum - Jonathan Glickman - Nick Goldsmith - Jay Roach",
+      "Starring": "- Sam Rockwell - Mos Def - Zooey Deschanel - Martin Freeman - Bill Nighy - Anna Chancellor - John Malkovich",
+      "Cinematography": "Igor Jadue-Lillo",
+      "Edited by": "Niven Howie",
+      "Music by": "Joby Talbot",
+      "Production \u00b7 companies": "- Touchstone Pictures - Spyglass Entertainment - Hammer & Tongs Productions - Everyman Pictures",
+      "Distributed by": "Buena Vista Pictures Distribution",
+      "Release dates": "- 28 April 2005 (United Kingdom) - 29 April 2005 (United States)",
+      "Running time": "109 minutes",
+      "Countries": "United Kingdom \u00b7 United States",
+      "Language": "English",
+      "Budget": "$45\u201350 million",
+      "Box office": "$104.5 million"
+    }
+  }
+}

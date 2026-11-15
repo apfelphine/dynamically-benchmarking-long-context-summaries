@@ -1,0 +1,1 @@
+The Lahore University of Management Sciences, a university in Lahore, Pakistan, launched its National Outreach Programme (NOP) in 2011 to extend the benefits of its education to students all over Pakistan and thereby become a truly national university.

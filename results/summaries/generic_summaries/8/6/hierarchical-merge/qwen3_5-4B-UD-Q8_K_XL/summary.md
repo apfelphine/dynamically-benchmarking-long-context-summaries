@@ -1,0 +1,7 @@
+# Comparative Analysis of Global Educational Systems
+
+## Southeast Asia and Southern Europe
+The Philippines and Romania both operate comprehensive frameworks facing severe structural challenges. In the Philippines, the 12-year K–12 curriculum includes specialized tracks and a Commission on Higher Education network, yet it struggles with chronic underfunding, classroom shortages, and deep socioeconomic inequalities that limit functional literacy and early childhood participation. Romania implements a 14-year compulsory model with a strong state monopoly, but rural areas suffer from infrastructure deficits and staffing crises that drive high dropout rates and force families to illegally fund supplies. Both nations grapple with policy implementation gaps, corruption, and significant disparities between urban and rural access.
+
+## Southeast Asia: Malaysia's Dual Structure
+Malaysia maintains a complex dual education system designed to balance national unity with global competitiveness through Malay, Chinese, and Tamil mediums. Recent reforms include replacing the UPSR with the UASA test, introducing a five-year mandatory secondary model, and transitioning tertiary education from racial quotas to meritocracy in 2002 to attract industry talent. Despite these modernization efforts, significant disparities persist, particularly regarding the controversial 90% Bumiputera allocation in the Matriculation program and the tension between subsidized national frameworks and private international qualifications like A Levels and the IB.

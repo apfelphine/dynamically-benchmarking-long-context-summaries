@@ -1,0 +1,8 @@
+The **Generative Adversarial Network (GAN)** is a deep learning framework consisting of two competing neural networks: a **generator** and a **discriminator**. The generator aims to create realistic data samples from a latent space, while the discriminator evaluates these samples to distinguish between real data and generated ones. This adversarial process, known as a zero-sum game, is optimized via a minimax objective:
+
+- **Generator Objective**: Minimize the loss to fool the discriminator, aiming to generate data indistinguishable from real data.
+- **Discriminator Objective**: Maximize the loss by accurately distinguishing real data from generated data.
+
+The core of GANs is the **adversarial training loop**, where both networks iteratively improve their performance. Initially, GANs used the **Jensen-Shannon divergence** for the discriminator’s loss, but this led to instability and issues like mode collapse, particularly in high-dimensional data (e.g., images). To address these challenges, the **Wasserstein GAN (WGAN)** introduced the **Wasserstein distance** as a more stable and differentiable metric, replacing the Jensen-Shannon divergence. This modification ensures better gradient flow and avoids the vanishing gradient problem, enabling more robust training.
+
+Key advantages of GANs include their ability to generate complex, high-fidelity data (e.g., images, audio) and their flexibility in modeling intricate distributions. However, they also face challenges such as mode collapse, where the generator fails to produce diverse outputs, and training instability. Modern variants, like **Wasserstein GANs with gradient penalty (WGAN-GP)**, further refine these issues by enforcing Lipschitz constraints on the discriminator.

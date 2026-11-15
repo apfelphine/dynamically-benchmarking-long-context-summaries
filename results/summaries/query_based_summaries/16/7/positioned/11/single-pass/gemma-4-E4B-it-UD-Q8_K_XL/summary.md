@@ -1,0 +1,1 @@
+No information regarding the "University of Jordan" was present in the provided text for summarizing.

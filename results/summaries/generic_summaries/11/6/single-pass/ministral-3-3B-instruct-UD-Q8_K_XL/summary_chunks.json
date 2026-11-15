@@ -1,0 +1,275 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\nAn autoencoder is a neural network designed for unsupervised learning, consisting of an encoder and a decoder. The encoder compresses input data into a lower-dimensional latent representation, while the decoder reconstructs the original data from this latent space. The goal is to minimize reconstruction error, often achieved via gradient descent.",
+        "text_original": "An autoencoder is a neural network designed for unsupervised learning, consisting of an encoder and a decoder. The encoder compresses input data into a lower-dimensional latent representation, while the decoder reconstructs the original data from this latent space. The goal is to minimize reconstruction error, often achieved via gradient descent",
+        "idx_start": 20,
+        "idx_end": 367
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Mathematical Principles\n- **Encoder-Decoder Architecture** : The encoder maps input data (typically higher-dimensional) to a latent space (lower-dimensional), while the decoder reconstructs the original input from this latent representation.\n- **Loss Function** : The reconstruction loss (e.g., L2 loss) measures the difference between input and reconstructed output, guiding training via gradient descent.",
+        "text_original": "Encoder-Decoder Architecture**: The encoder maps input data (typically higher-dimensional) to a latent space (lower-dimensional), while the decoder reconstructs the original input from this latent representation.\n- **Loss Function**: The reconstruction loss (e.g., L2 loss) measures the difference between input and reconstructed output, guiding training via gradient descent",
+        "idx_start": 407,
+        "idx_end": 782
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Training\nAutoencoders are trained to minimize reconstruction error, often using backpropagation. The encoder learns to compress data efficiently, while the decoder recovers the original data, enabling tasks like dimensionality reduction and feature extraction.",
+        "text_original": "Autoencoders are trained to minimize reconstruction error, often using backpropagation. The encoder learns to compress data efficiently, while the decoder recovers the original data, enabling tasks like dimensionality reduction and feature extraction",
+        "idx_start": 803,
+        "idx_end": 1053
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Variations\n- **Variational Autoencoder (VAE)** : Introduces probabilistic latent variables, allowing for generative modeling and sampling from the learned distribution.\n- **Sparse Autoencoder (SAE)** : Encourages sparsity in the latent representation to improve feature learning.\n- **Denoising Autoencoder (DAE)** : Trains the network to reconstruct noisy inputs, learning robust representations.\n- **Contractive Autoencoder (CAE)** : Adds regularization to prevent overfitting by penalizing changes in the latent space.\n- **Minimum Description Length Autoencoder (MDL-AE)** : Optimizes for compact representation and interpretability.\n- **Concrete Autoencoder** : Forces discrete feature selection in the latent space.",
+        "text_original": "Variational Autoencoder (VAE)**: Introduces probabilistic latent variables, allowing for generative modeling and sampling from the learned distribution.\n- **Sparse Autoencoder (SAE)**: Encourages sparsity in the latent representation to improve feature learning.\n- **Denoising Autoencoder (DAE)**: Trains the network to reconstruct noisy inputs, learning robust representations.\n- **Contractive Autoencoder (CAE)**: Adds regularization to prevent overfitting by penalizing changes in the latent space.\n- **Minimum Description Length Autoencoder (MDL-AE)**: Optimizes for compact representation and interpretability.\n- **Concrete Autoencoder**: Forces discrete feature selection in the latent space",
+        "idx_start": 1080,
+        "idx_end": 1777
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Advantages of Depth\nDeep autoencoders offer advantages like exponential reduction in computational cost, improved compression, and better generalization compared to shallow networks.",
+        "text_original": "Deep autoencoders offer advantages like exponential reduction in computational cost, improved compression, and better generalization compared to shallow networks",
+        "idx_start": 1809,
+        "idx_end": 1970
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Applications\n- **Dimensionality Reduction** : Reduces high-dimensional data (e.g., images) to lower-dimensional representations.\n- **Anomaly Detection** : Learns normal patterns and flags deviations as anomalies.\n- **Image Processing** : Used in compression, denoising, and super-resolution.\n- **Drug Discovery** : Helps identify molecular structures and interactions.\n- **Popularity Prediction** : Models user behavior in social media platforms.",
+        "text_original": "Dimensionality Reduction**: Reduces high-dimensional data (e.g., images) to lower-dimensional representations.\n- **Anomaly Detection**: Learns normal patterns and flags deviations as anomalies.\n- **Image Processing**: Used in compression, denoising, and super-resolution.\n- **Drug Discovery**: Helps identify molecular structures and interactions.\n- **Popularity Prediction**: Models user behavior in social media platforms",
+        "idx_start": 1999,
+        "idx_end": 2422
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\nA VAE extends autoencoders by introducing probabilistic latent variables, enabling generative modeling. It consists of an encoder that maps data to a latent distribution and a decoder that reconstructs data from this latent space.",
+        "text_original": "A VAE extends autoencoders by introducing probabilistic latent variables, enabling generative modeling. It consists of an encoder that maps data to a latent distribution and a decoder that reconstructs data from this latent space",
+        "idx_start": 2468,
+        "idx_end": 2697
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Mathematical Formulation\n- **Latent Space** : Encoder outputs a latent variable  ${\\displaystyle z}$  sampled from a distribution (e.g., Gaussian).\n- **Reconstruction Loss** : Combines reconstruction error and KL divergence to balance data fidelity and latent space structure.\n- **Reparameterization Trick** : Allows gradient-based optimization of the latent variable.",
+        "text_original": "Latent Space**: Encoder outputs a latent variable  ${\\displaystyle z}$  sampled from a distribution (e.g., Gaussian).\n- **Reconstruction Loss**: Combines reconstruction error and KL divergence to balance data fidelity and latent space structure.\n- **Reparameterization Trick**: Allows gradient-based optimization of the latent variable",
+        "idx_start": 2738,
+        "idx_end": 3073
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Variants\n- **\u03b2-VAE** : Adjusts KL divergence weight to enforce disentangled latent factors.\n- **Conditional VAE (CVAE)** : Incorporates class labels into the latent space for conditional generation.\n- **Hybrid Models** : Combine VAEs with GANs or other architectures for improved performance.",
+        "text_original": "VAE**: Adjusts KL divergence weight to enforce disentangled latent factors.\n- **Conditional VAE (CVAE)**: Incorporates class labels into the latent space for conditional generation.\n- **Hybrid Models**: Combine VAEs with GANs or other architectures for improved performance",
+        "idx_start": 3100,
+        "idx_end": 3373
+    },
+    {
+        "document_idx": null,
+        "text": "# Variational Autoencoder (VAE)\n## Applications\n- **Generative Modeling** : Creates new data samples by sampling from the learned latent distribution.\n- **Image Generation** : Used in tasks like image synthesis and style transfer.\n- **Clustering** : Learns meaningful latent representations for unsupervised clustering.",
+        "text_original": "Generative Modeling**: Creates new data samples by sampling from the learned latent distribution.\n- **Image Generation**: Used in tasks like image synthesis and style transfer.\n- **Clustering**: Learns meaningful latent representations for unsupervised clustering",
+        "idx_start": 3402,
+        "idx_end": 3665
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\nA GNN processes graph-structured data by aggregating information from neighboring nodes. It consists of message-passing layers that update node representations based on local graph structure.",
+        "text_original": "A GNN processes graph-structured data by aggregating information from neighboring nodes. It consists of message-passing layers that update node representations based on local graph structure",
+        "idx_start": 3708,
+        "idx_end": 3898
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Architecture\n- **Message Passing** : Nodes update their representations by aggregating messages from neighbors.\n- **Local Pooling** : Reduces graph size by downsampling nodes (e.g., k-nearest neighbors).\n- **Global Pooling** : Produces a fixed-size representation for the entire graph (e.g., sum or mean pooling).",
+        "text_original": "Message Passing**: Nodes update their representations by aggregating messages from neighbors.\n- **Local Pooling**: Reduces graph size by downsampling nodes (e.g., k-nearest neighbors).\n- **Global Pooling**: Produces a fixed-size representation for the entire graph (e.g., sum or mean pooling",
+        "idx_start": 3927,
+        "idx_end": 4218
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Variants\n- **Graph Convolutional Network (GCN)** : Uses spectral filtering for message passing.\n- **Graph Attention Network (GAT)** : Incorporates attention mechanisms to weigh neighbor contributions.\n- **Gated Graph Sequence Neural Network (GGS-NN)** : Extends GNNs for sequential graph data.",
+        "text_original": "Graph Convolutional Network (GCN)**: Uses spectral filtering for message passing.\n- **Graph Attention Network (GAT)**: Incorporates attention mechanisms to weigh neighbor contributions.\n- **Gated Graph Sequence Neural Network (GGS-NN)**: Extends GNNs for sequential graph data",
+        "idx_start": 4244,
+        "idx_end": 4520
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Applications\n- **Protein Folding** : Used in AlphaFold for predicting protein structures.\n- **Social Networks** : Recommender systems and fraud detection.\n- **Cybersecurity** : Anomaly detection in network traffic.\n- **Computer Vision** : Image segmentation and object detection.",
+        "text_original": "Protein Folding**: Used in AlphaFold for predicting protein structures.\n- **Social Networks**: Recommender systems and fraud detection.\n- **Cybersecurity**: Anomaly detection in network traffic.\n- **Computer Vision**: Image segmentation and object detection",
+        "idx_start": 4549,
+        "idx_end": 4806
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBF)\nAn RBF network consists of an input layer, a hidden layer with RBF activation functions, and a linear output layer. It maps input data to a continuous output by combining basis functions centered at learned parameters.",
+        "text_original": "An RBF network consists of an input layer, a hidden layer with RBF activation functions, and a linear output layer. It maps input data to a continuous output by combining basis functions centered at learned parameters",
+        "idx_start": 4858,
+        "idx_end": 5075
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBF)\n## Architecture\n- **Hidden Layer** : Uses RBF activation functions (e.g., Gaussian) to model local patterns.\n- **Linear Output** : Combines hidden layer outputs to produce the final prediction.",
+        "text_original": "Hidden Layer**: Uses RBF activation functions (e.g., Gaussian) to model local patterns.\n- **Linear Output**: Combines hidden layer outputs to produce the final prediction",
+        "idx_start": 5104,
+        "idx_end": 5274
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBF)\n## Training\n- **Two-Step Process** : First, centers and widths of RBF functions are determined (e.g., via k-means). Then, weights are optimized to minimize reconstruction error.\n- **Interpolation** : RBF networks can interpolate functions by solving linear equations.",
+        "text_original": "Two-Step Process**: First, centers and widths of RBF functions are determined (e.g., via k-means). Then, weights are optimized to minimize reconstruction error.\n- **Interpolation**: RBF networks can interpolate functions by solving linear equations",
+        "idx_start": 5299,
+        "idx_end": 5547
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBF)\n## Applications\n- **Function Approximation** : Models complex functions with local flexibility.\n- **Time Series Prediction** : Used in chaotic time series analysis.\n- **Control Systems** : Optimizes control parameters for dynamic systems.",
+        "text_original": "Function Approximation**: Models complex functions with local flexibility.\n- **Time Series Prediction**: Used in chaotic time series analysis.\n- **Control Systems**: Optimizes control parameters for dynamic systems",
+        "idx_start": 5576,
+        "idx_end": 5790
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\nA ViT replaces convolutional layers in CNNs with self-attention mechanisms, enabling efficient processing of image patches. It splits images into patches, embeds them, and applies transformer layers to capture long-range dependencies.",
+        "text_original": "A ViT replaces convolutional layers in CNNs with self-attention mechanisms, enabling efficient processing of image patches. It splits images into patches, embeds them, and applies transformer layers to capture long-range dependencies",
+        "idx_start": 5831,
+        "idx_end": 6064
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Architecture\n- **Patch Embedding** : Converts images into sequences of embeddings.\n- **Self-Attention** : Processes embeddings to capture semantic relationships.\n- **Positional Encoding** : Adds positional information to embeddings.",
+        "text_original": "Patch Embedding**: Converts images into sequences of embeddings.\n- **Self-Attention**: Processes embeddings to capture semantic relationships.\n- **Positional Encoding**: Adds positional information to embeddings",
+        "idx_start": 6093,
+        "idx_end": 6304
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Variants\n- **Masked Autoencoder (MAE)** : Uses masked patches for self-supervised pretraining.\n- **DINO** : Self-distillation method for pretraining ViTs.\n- **Swin Transformer** : Uses sliding windows for efficient attention.\n- **TimeSformer** : Extends ViTs to video data.",
+        "text_original": "Masked Autoencoder (MAE)**: Uses masked patches for self-supervised pretraining.\n- **DINO**: Self-distillation method for pretraining ViTs.\n- **Swin Transformer**: Uses sliding windows for efficient attention.\n- **TimeSformer**: Extends ViTs to video data",
+        "idx_start": 6329,
+        "idx_end": 6584
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformer (ViT)\n## Applications\n- **Image Classification** : Achieves state-of-the-art performance on benchmarks.\n- **Image Generation** : Used in diffusion models and GANs.\n- **Video Understanding** : Processes temporal sequences with self-attention.",
+        "text_original": "Image Classification**: Achieves state-of-the-art performance on benchmarks.\n- **Image Generation**: Used in diffusion models and GANs.\n- **Video Understanding**: Processes temporal sequences with self-attention",
+        "idx_start": 6613,
+        "idx_end": 6824
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\nA CNN processes images by applying convolutional filters to extract features hierarchically. It consists of convolutional, pooling, and fully connected layers to classify or detect objects.",
+        "text_original": "A CNN processes images by applying convolutional filters to extract features hierarchically. It consists of convolutional, pooling, and fully connected layers to classify or detect objects",
+        "idx_start": 6875,
+        "idx_end": 7063
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Architecture\n- **Convolutional Layers** : Apply filters to extract spatial features.\n- **Pooling Layers** : Reduce spatial dimensions (e.g., max pooling).\n- **Fully Connected Layers** : Classify features into output classes.",
+        "text_original": "Convolutional Layers**: Apply filters to extract spatial features.\n- **Pooling Layers**: Reduce spatial dimensions (e.g., max pooling).\n- **Fully Connected Layers**: Classify features into output classes",
+        "idx_start": 7092,
+        "idx_end": 7295
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Key Features\n- **Local Connectivity** : Filters operate on local regions, preserving spatial structure.\n- **Shared Weights** : Filters are shared across the image, reducing parameters.\n- **Translation Invariance** : Outputs are invariant to small shifts in input.",
+        "text_original": "Local Connectivity**: Filters operate on local regions, preserving spatial structure.\n- **Shared Weights**: Filters are shared across the image, reducing parameters.\n- **Translation Invariance**: Outputs are invariant to small shifts in input",
+        "idx_start": 7324,
+        "idx_end": 7566
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Network (CNN)\n## Applications\n- **Image Recognition** : Classifies images (e.g., MNIST, ImageNet).\n- **Object Detection** : Detects and localizes objects (e.g., YOLO, Faster R-CNN).\n- **Medical Imaging** : Analyzes images for diseases (e.g., cancer detection).",
+        "text_original": "Image Recognition**: Classifies images (e.g., MNIST, ImageNet).\n- **Object Detection**: Detects and localizes objects (e.g., YOLO, Faster R-CNN).\n- **Medical Imaging**: Analyzes images for diseases (e.g., cancer detection",
+        "idx_start": 7595,
+        "idx_end": 7816
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\nA WGAN replaces the GAN game's discriminator with a Lipschitz-constrained critic, improving training stability and avoiding mode collapse. It uses the Wasserstein distance to measure distribution differences.",
+        "text_original": "A WGAN replaces the GAN game's discriminator with a Lipschitz-constrained critic, improving training stability and avoiding mode collapse. It uses the Wasserstein distance to measure distribution differences",
+        "idx_start": 7856,
+        "idx_end": 8063
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\n## Mathematical Formulation\n- **Critic** : Bounded Lipschitz norm to ensure gradient stability.\n- **Generator** : Optimized to minimize Wasserstein distance to the target distribution.",
+        "text_original": "Critic**: Bounded Lipschitz norm to ensure gradient stability.\n- **Generator**: Optimized to minimize Wasserstein distance to the target distribution",
+        "idx_start": 8104,
+        "idx_end": 8253
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\n## Training\n- **Gradient Penalty** : Penalizes violations of Lipschitz constraint.\n- **Spectral Normalization** : Ensures critic's Lipschitz norm is bounded.",
+        "text_original": "Gradient Penalty**: Penalizes violations of Lipschitz constraint.\n- **Spectral Normalization**: Ensures critic's Lipschitz norm is bounded",
+        "idx_start": 8278,
+        "idx_end": 8416
+    },
+    {
+        "document_idx": null,
+        "text": "# Wasserstein GAN (WGAN)\n## Applications\n- **Image Generation** : Produces high-quality images with fewer artifacts.\n- **Style Transfer** : Aligns styles between images.",
+        "text_original": "Image Generation**: Produces high-quality images with fewer artifacts.\n- **Style Transfer**: Aligns styles between images",
+        "idx_start": 8445,
+        "idx_end": 8566
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer\nA transformer replaces recurrent layers in RNNs with self-attention mechanisms, enabling parallel processing of sequences. It consists of encoder and decoder layers with multi-head attention and feedforward networks.",
+        "text_original": "A transformer replaces recurrent layers in RNNs with self-attention mechanisms, enabling parallel processing of sequences. It consists of encoder and decoder layers with multi-head attention and feedforward networks",
+        "idx_start": 8594,
+        "idx_end": 8809
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer\n## Architecture\n- **Multi-Head Attention** : Captures long-range dependencies via parallel attention heads.\n- **Positional Encoding** : Adds positional information to embeddings.\n- **Residual Connections** : Stabilizes training by preserving gradients.",
+        "text_original": "Multi-Head Attention**: Captures long-range dependencies via parallel attention heads.\n- **Positional Encoding**: Adds positional information to embeddings.\n- **Residual Connections**: Stabilizes training by preserving gradients",
+        "idx_start": 8838,
+        "idx_end": 9066
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer\n## Variants\n- **BERT** : Encoder-only model for language understanding.\n- **GPT** : Decoder-only model for text generation.\n- **T5** : Encoder-decoder model for text-to-text tasks.",
+        "text_original": "BERT**: Encoder-only model for language understanding.\n- **GPT**: Decoder-only model for text generation.\n- **T5**: Encoder-decoder model for text-to-text tasks",
+        "idx_start": 9091,
+        "idx_end": 9251
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer\n## Applications\n- **Natural Language Processing** : Translates, summarizes, and generates text.\n- **Machine Translation** : Achieves state-of-the-art performance.\n- **Computer Vision** : Vision transformers for image tasks.",
+        "text_original": "Natural Language Processing**: Translates, summarizes, and generates text.\n- **Machine Translation**: Achieves state-of-the-art performance.\n- **Computer Vision**: Vision transformers for image tasks",
+        "idx_start": 9280,
+        "idx_end": 9479
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\nA GAN consists of a generator and a discriminator in a zero-sum game. The generator creates samples, while the discriminator distinguishes real from fake data. Training alternates between optimizing both networks.",
+        "text_original": "A GAN consists of a generator and a discriminator in a zero-sum game. The generator creates samples, while the discriminator distinguishes real from fake data. Training alternates between optimizing both networks",
+        "idx_start": 9532,
+        "idx_end": 9744
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Mathematical Formulation\n- **Generator** : Maps noise to data (e.g., images).\n- **Discriminator** : Classifies data as real or fake.",
+        "text_original": "Generator**: Maps noise to data (e.g., images).\n- **Discriminator**: Classifies data as real or fake",
+        "idx_start": 9785,
+        "idx_end": 9885
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Training Challenges\n- **Mode Collapse** : Generator fails to generate diverse samples.\n- **Vanishing Gradients** : Discriminator becomes too good, freezing generator.",
+        "text_original": "Mode Collapse**: Generator fails to generate diverse samples.\n- **Vanishing Gradients**: Discriminator becomes too good, freezing generator",
+        "idx_start": 9921,
+        "idx_end": 10060
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Variants\n- **Conditional GAN (cGAN)** : Incorporates class labels for conditional generation.\n- **CycleGAN** : Transforms images between domains without paired data.\n- **StyleGAN** : Improves image quality and diversity.",
+        "text_original": "Conditional GAN (cGAN)**: Incorporates class labels for conditional generation.\n- **CycleGAN**: Transforms images between domains without paired data.\n- **StyleGAN**: Improves image quality and diversity",
+        "idx_start": 10085,
+        "idx_end": 10288
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Network (GAN)\n## Applications\n- **Image Synthesis** : Generates realistic images (e.g., faces, landscapes).\n- **Art Creation** : Produces artistic styles and designs.\n- **Medical Imaging** : Generates synthetic medical images for privacy.",
+        "text_original": "Image Synthesis**: Generates realistic images (e.g., faces, landscapes).\n- **Art Creation**: Produces artistic styles and designs.\n- **Medical Imaging**: Generates synthetic medical images for privacy",
+        "idx_start": 10317,
+        "idx_end": 10517
+    }
+]

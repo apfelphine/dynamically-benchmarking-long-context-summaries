@@ -1,0 +1,31 @@
+{
+  "id": 842178,
+  "title": "Shafi Goldwasser",
+  "url": "https://en.wikipedia.org/wiki/Shafi_Goldwasser",
+  "path": "Comp-Sci-Pioneers\\shafi-goldwasser",
+  "summary": {
+    "chars": 464,
+    "tokens": 108
+  },
+  "document": {
+    "chars": 5335,
+    "tokens": 1171
+  },
+  "infobox": {
+    "title": "Shafi Goldwasser",
+    "data": {
+      "Born": "Shafrira Goldwasser \u00b7 1959 (age 65\u201366) \u00b7 New York City, United States",
+      "Citizenship": "Israel United States",
+      "Education": "Carnegie Mellon University (BS) \u00b7 University of California, Berkeley (MS, PhD)",
+      "Known for": "- Zero-knowledge proof - Probabilistic encryption - Blum\u2013Goldwasser cryptosystem - Goldwasser\u2013Micali cryptosystem",
+      "Children": "2",
+      "Awards": "- Grace Murray Hopper Award (1996) - G\u00f6del Prize (1993, 2001) - Member of the National Academy of Sciences (2004) - IEEE Emanuel R. Piore Award (2011) - BBVA Award (2018) - RSA Mathematics Award (1998) - Loreal Unesco Women in Science Award (2021) - Turing Award (2012) - Suffrage Science award (2016) - ACM Fellow (2017) - AAAS Fellow (2000)",
+      "Fields": "Computer science, cryptography",
+      "Institutions": "- Massachusetts Institute of Technology - Weizmann Institute - Simons Institute, Berkeley",
+      "Thesis": "Probabilistic Encryption: Theory and Applications (1984)",
+      "Doctoral advisor": "Manuel Blum",
+      "Doctoral students": "- Elette Boyle - Johan H\u00e5stad - Yael Tauman Kalai - Tal Malkin - Amit Sahai - Salil Vadhan - Vinod Vaikuntanathan",
+      "Website": "people.csail.mit.edu/shafi"
+    }
+  }
+}

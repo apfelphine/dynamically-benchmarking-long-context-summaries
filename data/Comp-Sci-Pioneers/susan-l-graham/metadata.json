@@ -1,0 +1,29 @@
+{
+  "id": 4524124,
+  "title": "Susan L. Graham",
+  "url": "https://en.wikipedia.org/wiki/Susan_L._Graham",
+  "path": "Comp-Sci-Pioneers\\susan-l-graham",
+  "summary": {
+    "chars": 278,
+    "tokens": 53
+  },
+  "document": {
+    "chars": 2432,
+    "tokens": 503
+  },
+  "infobox": {
+    "title": "Susan L. Graham",
+    "data": {
+      "Born": "Susan Lois Graham \u00b7 September 16, 1942 \u00b7 Cleveland, Ohio, U.S.",
+      "Alma mater": "A.B. Harvard \u00b7 M.S., Ph.D. Stanford",
+      "Awards": "- ACM Fellow - ACM Ken Kennedy Award - IEEE Fellow - IEEE von Neumann Medal - Fellow of the AAAS",
+      "Fields": "Computer science",
+      "Institutions": "University of California, Berkeley",
+      "Thesis": "Precedence Languages and Bounded Right Context Languages (1971)",
+      "Doctoral advisor": "David Gries",
+      "Other academic advisors": "Niklaus Wirth",
+      "Doctoral students": "David F. Bacon \u00b7 M. Kirk McKusick \u00b7 Mark N. Wegman",
+      "Website": "www.cs.berkeley.edu/~graham"
+    }
+  }
+}

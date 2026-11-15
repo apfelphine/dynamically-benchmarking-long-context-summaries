@@ -1,0 +1,26 @@
+{
+  "id": 58385802,
+  "title": "Jardine Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Jardine_Scholarship",
+  "path": "Scholarships\\jardine-scholarship",
+  "summary": {
+    "chars": 521,
+    "tokens": 104
+  },
+  "document": {
+    "chars": 2395,
+    "tokens": 456
+  },
+  "infobox": {
+    "title": "Jardine Scholarship",
+    "data": {
+      "Other name": "Jardine Foundation Scholarship",
+      "Type": "Educational trust",
+      "Established": "1982",
+      "Parent institution": "Jardine Matheson",
+      "Academic affiliation": "University of Oxford, University of Cambridge",
+      "Location": "Hong Kong, Mainland China, Singapore, Indonesia, Thailand, Vietnam, Cambodia, Malaysia, Myanmar, the Philippines, and Taiwan",
+      "Website": "www.jardine-foundation.org"
+    }
+  }
+}

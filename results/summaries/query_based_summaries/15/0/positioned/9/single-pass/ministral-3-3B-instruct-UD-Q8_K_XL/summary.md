@@ -1,0 +1,15 @@
+The **University of Melbourne** was established in 1853 as a public research university in Victoria, Australia, founded following a proposal by the Auditor-General and Finance Minister, Hugh Childers. Originally named the **Royal University of Victoria**, it was granted its current name in 1880. The university was designed to serve as a "civilising influence" during a period of rapid settlement and commercial growth in Victoria, with its wealth stemming from the gold rush.
+
+### **Key Features**
+- **Campuses:** The main campus is located in Parkville, adjacent to Melbourne’s central business district, with additional campuses in Burnley (horticulture), Southbank (arts and music), Dookie (agriculture), Werribee (veterinary science), and Shepparton (medical education). A new engineering campus at Fishermans Bend is under development.
+- **Academics:** The university operates under the **Melbourne Model**, offering nine generalised three-year degrees before specialisation in graduate programs. It is known for its strong research output, particularly in health sciences, engineering, and humanities. The university is home to over 100 research centres and institutes.
+- **Reputation:** Consistently ranked among Australia’s top universities, the University of Melbourne is globally recognised for its research and academic excellence. It is ranked **#19 in the world** (QS 2026), **#37 in the world** (Times Higher Education 2026), and **#1 nationally** in multiple global rankings.
+- **Admissions:** The university is highly selective, with a median ATAR of **94.05** for domestic undergraduate applicants. International students make up **44%** of the student body.
+- **Finances:** The university has an endowment of approximately **$1.335 billion** and relies significantly on international student tuition revenue.
+- **Student Life:** The university has nine residential colleges and a diverse range of student clubs, societies, and sports programs. It is known for its strong emphasis on student welfare and extracurricular activities.
+- **Notable Achievements:** The University of Melbourne has produced numerous Nobel laureates, including **Elizabeth Blackburn** (Physiology or Medicine, 2009) and **Richard Robson** (Chemistry, 2025). It is also renowned for its contributions to medical research, particularly in fields like cancer and neuroscience.
+
+### **Controversies and Challenges**
+The university has faced criticism over issues such as **workforce underpayment, student protests, and governance reforms**. In recent years, there have been concerns about **casualised academic staff, wage theft, and the impact of COVID-19 on teaching and research**. Additionally, the university has been involved in debates over **transgender rights, research funding, and ethical practices**.
+
+The University of Melbourne remains a leading institution in Australia and globally, known for its academic rigor, research impact, and commitment to fostering innovation and excellence.

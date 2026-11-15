@@ -1,0 +1,2 @@
+Royal Manitoba Theatre Centre (Royal MTC) is Canada's oldest English-language regional theatre.  Next to the Stratford and Shaw Festivals, MTC has a higher annual attendance than any other theatre in the country. It was founded in 1958 by John Hirsch and Tom Hendry as an amalgamation of the Winnipeg Little Theatre and Theatre 77. In 2010, the theatre received a royal designation from Queen Elizabeth II, and officially became the Royal Manitoba Theatre Centre.
+Its Mainstage on Market Avenue has a seating capacity of 785 and opened on October 31, 1970.

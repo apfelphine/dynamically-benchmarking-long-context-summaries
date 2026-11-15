@@ -1,0 +1,13 @@
+# Summary of Generative Adversarial Network (GAN)
+
+Generative adversarial networks (GANs) are defined as a zero-sum game between two players: a generator aiming to produce samples whose distribution matches a reference distribution, and a discriminator aiming to distinguish between real samples and those generated. Formally, the generator’s strategy is a probability measure on a space Ω, often implemented via a neural network mapping latent noise inputs to data samples. The discriminator maps data samples to [0,1], estimating the likelihood a sample is real. The GAN objective function encourages the generator to fool the discriminator, while the discriminator tries to correctly distinguish real from fake. At equilibrium, the generator perfectly mimics the reference distribution and the discriminator outputs ½ for all inputs.
+
+Variants of GANs include those with alternative objectives, such as hinge loss GAN and least squares GAN. The Wasserstein GAN (WGAN) replaces the Jensen–Shannon divergence with the Wasserstein metric, imposing a Lipschitz constraint on the discriminator (called the critic), which improves training stability and mitigates mode collapse. WGAN’s objective involves maximizing the expectation difference of the critic over generated versus real data, with the generator minimizing this value, directly minimizing the Wasserstein distance between distributions.
+
+Other GAN variants incorporate additional players and structures: adversarial autoencoders use a discriminator to regularize the latent encoding; InfoGAN maximizes mutual information between latent codes and generated data to learn interpretable representations; Bidirectional GAN (BiGAN) trains encoder and generator simultaneously for inference; CycleGAN enables unpaired domain translation via cycle consistency losses.
+
+A major practical challenge in GAN training is mode collapse, where the generator produces limited varieties of outputs. Strategies such as two time-scale update rules (slower generator learning relative to discriminator) and invertible data augmentation techniques help mitigate these issues. For example, StyleGAN-2-ADA employs adaptive, invertible augmentations applied to both real and generated data to enhance training with limited datasets.
+
+Evaluation metrics for GANs include the Inception Score (IS) and Fréchet Inception Distance (FID), assessing sample diversity and similarity to real data.
+
+In summary, GANs are a powerful framework for implicit generative modeling based on adversarial training, with many variants addressing theoretical and practical challenges related to training stability, mode coverage, and representation interpretability.

@@ -1,0 +1,37 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary of Computing, Logic, and Mathematics Foundations\n## Foundations of Logic and Computation:\nThe mathematical basis of modern computation dates back to Al-Khw\u0101rizm\u012b's algorithms (c. 825 CE), Boole's 1847 \"algebra of logic,\" and Frege's 1879 *Begriffsschrift* . **Claude Shannon** formalized **Information Theory** in 1948 (covering entropy and combinatorics), contributed to AI by co-organizing the 1956 Dartmouth workshop, and helped develop early devices like \"Theseus\" and **pulse-code modulation** .",
+        "text_original": "The mathematical basis of modern computation dates back to Al-Khw\u0101rizm\u012b's algorithms (c. 825 CE), Boole's 1847 \"algebra of logic,\" and Frege's 1879 *Begriffsschrift*. **Claude Shannon** formalized **Information Theory** in 1948 (covering entropy and combinatorics), contributed to AI by co-organizing the 1956 Dartmouth workshop, and helped develop early devices like \"Theseus\" and **pulse-code modulation",
+        "idx_start": 103,
+        "idx_end": 508
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Computing, Logic, and Mathematics Foundations\n## Key Logicians and Mathematical Theory:\n**Kurt G\u00f6del** advanced mathematical logic with his 1929 completeness theorem and his incompleteness theorems, which established fundamental limits. His research also included the axiom of choice, the G\u00f6del metric, and ontological arguments.",
+        "text_original": "Kurt G\u00f6del** advanced mathematical logic with his 1929 completeness theorem and his incompleteness theorems, which established fundamental limits. His research also included the axiom of choice, the G\u00f6del metric, and ontological arguments",
+        "idx_start": 558,
+        "idx_end": 796
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Computing, Logic, and Mathematics Foundations\n## Pioneering Computing and Systems Development:\nEarly computing innovation involved Grace Hopper's COBOL and compiler work, and J. Federico Faggin's Intel 4004. Per Brinch Hansen advanced OS concepts like kernel/policy separation and concurrent programming. Edsger W. Dijkstra championed structured programming, developing the THE OS and introducing the semaphore (earning him the 1972 Turing Award). Lynn Conway was instrumental in inventing multiple-issue out-of-order dynamic instruction scheduling at IBM Research's ACS project.",
+        "text_original": "Early computing innovation involved Grace Hopper's COBOL and compiler work, and J. Federico Faggin's Intel 4004. Per Brinch Hansen advanced OS concepts like kernel/policy separation and concurrent programming. Edsger W. Dijkstra championed structured programming, developing the THE OS and introducing the semaphore (earning him the 1972 Turing Award). Lynn Conway was instrumental in inventing multiple-issue out-of-order dynamic instruction scheduling at IBM Research's ACS project",
+        "idx_start": 849,
+        "idx_end": 1332
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Computing, Logic, and Mathematics Foundations\n## Interdisciplinary and Mechanical Innovations:\n- **Ismail al-Jazari:** Documented mechanical automata in his 1206 manuscript, detailing mechanisms such as the **camshaft** and **crankshaft/crank-slider mechanism** .\n- **George Antheil and Hedy Lamarr:** Co-invented frequency-hopping radio in 1942, a critical innovation for wireless communication.",
+        "text_original": "Ismail al-Jazari:** Documented mechanical automata in his 1206 manuscript, detailing mechanisms such as the **camshaft** and **crankshaft/crank-slider mechanism**.\n*   **George Antheil and Hedy Lamarr:** Co-invented frequency-hopping radio in 1942, a critical innovation for wireless communication",
+        "idx_start": 1391,
+        "idx_end": 1688
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Computing, Logic, and Mathematics Foundations\n## Key Contributors to AI and Modern Computing:\n- **Herbert A. Simon:** A social scientist who developed the General Problem Solver (GPS) based on the concepts of **\"bounded rationality\"** and **\"satisficing,\"** receiving the Turing Award (1975) and Nobel Prize in Economics (1978).\n- **Geoffrey Hinton:** A neural network pioneer known for foundational backpropagation work, who now focuses on **Existential Risk** and **Catastrophic Misuse** in AGI, advocating for regulation and researching concepts like **GLOM** .\n- **Donald Knuth:** A renowned mathematician and computer scientist, celebrated for **The Art of Computer Programming (TAOCP)** , and for creating **TeX** and **Metafont** while promoting **literate programming** .\n- **Lynn Conway:** A distinguished engineer whose career spanned from early work at IBM Research to later contributions at Xerox PARC and DARPA. She co-founded the Mead\u2013Conway VLSI design methodology and the MOSIS system, coined the \"Conway effect,\" and advocated for transgender rights. Her expertise covered VLSI design, computer process design, and simulation techniques; she was inducted into the National Inventors Hall of Fame in 2023 and passed away in June 2024 at age 86.",
+        "text_original": "Herbert A. Simon:** A social scientist who developed the General Problem Solver (GPS) based on the concepts of **\"bounded rationality\"** and **\"satisficing,\"** receiving the Turing Award (1975) and Nobel Prize in Economics (1978).\n*   **Geoffrey Hinton:** A neural network pioneer known for foundational backpropagation work, who now focuses on **Existential Risk** and **Catastrophic Misuse** in AGI, advocating for regulation and researching concepts like **GLOM**.\n*   **Donald Knuth:** A renowned mathematician and computer scientist, celebrated for **The Art of Computer Programming (TAOCP)**, and for creating **TeX** and **Metafont** while promoting **literate programming**.\n*   **Lynn Conway:** A distinguished engineer whose career spanned from early work at IBM Research to later contributions at Xerox PARC and DARPA. She co-founded the Mead\u2013Conway VLSI design methodology and the MOSIS system, coined the \"Conway effect,\" and advocated for transgender rights. Her expertise covered VLSI design, computer process design, and simulation techniques; she was inducted into the National Inventors Hall of Fame in 2023 and passed away in June 2024 at age",
+        "idx_start": 1746,
+        "idx_end": 2907
+    }
+]

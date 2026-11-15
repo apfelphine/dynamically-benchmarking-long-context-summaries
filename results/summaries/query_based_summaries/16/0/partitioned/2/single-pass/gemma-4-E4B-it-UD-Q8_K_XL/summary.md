@@ -1,0 +1,5 @@
+## University of Sydney Summary
+
+The University of Sydney was established by the University of Sydney Act 1850 (NSW) on September 24, 1850, and was inaugurated in 1852. It was Australia's first public, non-denominational, and secular university and received a royal charter in 1858. The university has historically been progressive, notably admitting women on an equal basis with men starting in 1881, and it has been associated with numerous notable alumni, including eight prime ministers and several justices of the High Court.
+
+The university is composed of eight faculties and schools, including the Faculty of Arts and Social Sciences, the Faculty of Medicine and Health, and the University of Sydney Business School. Its academic strengths are supported by extensive libraries, with the University of Sydney Library being the largest academic library in the Southern Hemisphere, and the Rare Books Library housing significant rare items. The university also operates several satellite campuses and specialized schools, such as the Sydney Pharmacy School and the Sydney Conservatorium of Music.

@@ -1,0 +1,2 @@
+Electric Dreams is a 1984 science fiction romantic comedy film directed by Steve Barron (in his feature film directorial debut) and written by Rusty Lemorande. The film stars Lenny Von Dohlen, Virginia Madsen, Maxwell Caulfield, and the voice of Bud Cort.
+Electric Dreams was released in the United States by MGM/UA Entertainment Co. on July 20, 1984, and in the United Kingdom by 20th Century Fox on August 17, 1984. The film received mixed reviews from critics.

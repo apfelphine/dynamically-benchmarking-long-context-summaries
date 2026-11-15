@@ -1,0 +1,34 @@
+{
+  "id": 79829622,
+  "title": "The Residence (film)",
+  "url": "https://en.wikipedia.org/wiki/The_Residence_(film)",
+  "path": "AI-Fiction\\the-residence-film",
+  "summary": {
+    "chars": 793,
+    "tokens": 190
+  },
+  "document": {
+    "chars": 2518,
+    "tokens": 570
+  },
+  "infobox": {
+    "title": "The Residence",
+    "data": {
+      "French": "Dalloway",
+      "Directed by": "Yann Gozlan",
+      "Screenplay by": "- Yann Gozlan - Nicolas Bouvet-Levrard - Thomas Kruithof",
+      "Based on": "Flowers of Darkness \u00b7 by Tatiana de Rosnay",
+      "Produced by": "- \u00c9ric Altmayer - Nicolas Altmayer",
+      "Starring": "- C\u00e9cile de France - Lars Mikkelsen - Anna Mouglalis - Fr\u00e9d\u00e9ric Pierrot - Freya Mavor - Myl\u00e8ne Farmer",
+      "Cinematography": "Manu Dacosse",
+      "Edited by": "Valentin F\u00e9ron",
+      "Music by": "Philippe Rombi",
+      "Production \u00b7 companies": "- Mandarin & Compagnie - Gaumont - Panache Production - La Compagnie Cin\u00e9matographique",
+      "Distributed by": "- Gaumont (France) - Anga Distribution (Belgium)",
+      "Release dates": "- 16 May 2025 (Cannes) - 17 September 2025 (France)",
+      "Running time": "110 minutes",
+      "Countries": "- France - Belgium",
+      "Language": "French"
+    }
+  }
+}

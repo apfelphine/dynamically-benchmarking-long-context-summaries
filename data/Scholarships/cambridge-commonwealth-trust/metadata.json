@@ -1,0 +1,28 @@
+{
+  "id": 25668966,
+  "title": "Cambridge Commonwealth Trust",
+  "url": "https://en.wikipedia.org/wiki/Cambridge_Commonwealth_Trust",
+  "path": "Scholarships\\cambridge-commonwealth-trust",
+  "summary": {
+    "chars": 561,
+    "tokens": 93
+  },
+  "document": {
+    "chars": 2318,
+    "tokens": 472
+  },
+  "infobox": {
+    "title": "Cambridge Commonwealth, European & International Trust",
+    "data": {
+      "Abbreviation": "CCT",
+      "Formation": "1982",
+      "Type": "Trust (United Kingdom)",
+      "Purpose": "Education and scholarship",
+      "Headquarters": "Cambridge, UK",
+      "Area served": "Worldwide",
+      "Method": "Scholarships",
+      "Key people": "Prince of Wales",
+      "Website": "www.cambridgetrust.org"
+    }
+  }
+}

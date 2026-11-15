@@ -1,0 +1,10 @@
+Edmund S. Muskie, a Maine politician, influenced policy across environmental, civil rights (including the 1964 Act), international diplomacy, and federal budgeting, leading to the establishment of the Edmund S. Muskie School of Public Service.
+
+**Global and US Scholarship Landscape:**
+A wide array of scholarship opportunities exists both internationally and within the US. International options include the King's Scholars, the Shuping Scholarship (which requires service and was reinstated in 1986), the Norway Scholarship for Oxford's Wadham College, and the Studienstiftung des deutschen Volkes (noting 55.4% female recipients in 2023). In the US, the Kennedy Scholarship offers nearly 600 merit-based awards similar to Rhodes/Marshall, and the John F. Kennedy Memorial funds studies at Harvard or MIT.
+
+**US-Specific Support Systems:**
+Support for minority students includes the United Negro College Fund (UNCF), which aids diverse HBCUs, and the Thurgood Marshall College Fund (TMCF), overseeing 55 affiliated public HBCUs. Florida's Bright Futures Scholarship has four tiers based on citizenship, residency, academics, and service, with renewal contingent on GPA. The National Merit Scholarship Program ranks high schoolers through stages (Commended, Semifinalist, Finalist), with around 8,000 finalists receiving awards; however, critics question its reliance on the PSAT/NMSQT. The National Achievement Scholarship Program for Black American youth ceased in 2015, redirecting its funds to the UNCF.
+
+**International and University Overview:**
+Globally, diverse higher education options are available across nations like Australia, Great Britain, the USA, Germany, China, and Canada. Notable institutions include the Australian National University, Harvard, Peking, and Stanford. Internationally, the "Bolashak" scholarship in Kazakhstan (since 1993) aims to instill Western values in Kazakh ethnic youth, having served over 12,831 recipients by 2018.

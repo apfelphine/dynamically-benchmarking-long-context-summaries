@@ -1,0 +1,34 @@
+{
+  "id": 54461515,
+  "title": "Extinction (2018 film)",
+  "url": "https://en.wikipedia.org/wiki/Extinction_(2018_film)",
+  "path": "AI-Fiction\\extinction-2018-film",
+  "summary": {
+    "chars": 811,
+    "tokens": 181
+  },
+  "document": {
+    "chars": 7134,
+    "tokens": 1554
+  },
+  "infobox": {
+    "title": "Extinction",
+    "data": {
+      "Directed by": "Ben Young",
+      "Screenplay by": "- Spenser Cohen - Brad Kane",
+      "Story by": "Spenser Cohen",
+      "Produced by": "- David Hoberman - Nathan Kahane - Todd Lieberman",
+      "Starring": "- Michael Pe\u00f1a - Lizzy Caplan - Mike Colter - Amelia Crouch - Erica Tremblay - Israel Broussard - Lex Shrapnel - Emma Booth",
+      "Cinematography": "Pedro Luque",
+      "Edited by": "Matthew Ramsey",
+      "Music by": "The Newton Brothers",
+      "Production \u00b7 companies": "- Good Universe - Mandeville Films",
+      "Distributed by": "Netflix",
+      "Release date": "- July 27, 2018",
+      "Running time": "95 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$20 million"
+    }
+  }
+}

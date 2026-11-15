@@ -1,0 +1,15 @@
+# Final Summary of the Source Text
+
+The updated comprehensive summary covers the literary legacy of the *Daughters of Africa* series, the charitable impact of the Shuping Scholarship, the academic reach of the Harkness Fellowship, and the scholarly documentation of its recipients.
+
+### Literary Achievements: *Daughters of Africa*
+The focus remains on the 2019 sequel, *New Daughters of Africa*, which organizes the series chronologically by birth decade. This edition received universal acclaim, saw proceeds directed toward the *Margaret Busby New Daughters of Africa Award* for UK students, and was nominated for a 2020 NAACP Image Award.
+
+### The Shuping Scholarship
+Distinct from literary achievements, the summary details the **Shuping Scholarship**, established in 1939 by businessman Koo Soh Bing (1909–1998) in memory of his father. Guided by the motto *"Return to the society what you have gained from it,"* the program initially provided continuous support—including tuition, medical care, and vocational training—to over 1,100 students during the Japanese occupation. After Koo revived the initiative in 1986 with government support, the foundation, formally established in 1995, expanded to Beijing, Huzhou, and Shanghai. By 2000, it awarded nearly 6,000 scholarships annually across secondary and tertiary institutions, supported by voluntary Alumni Associations. Koo's personal legacy included extensive charitable works and a wish to be buried in his hometown, leaving behind a foundation that now serves over 30 secondary and 24 tertiary schools with diverse aid, including emergency support for hardship students.
+
+### The Harkness Fellowship
+The summary also introduces the **Harkness Fellowship**, founded in 1925 by Edward Stephen Harkness to reciprocate the Rhodes Scholarship. It enables graduates from the UK, Australia, New Zealand, Canada, and South Africa to study in the United States. While originally open to various professions, the Commonwealth Fund now limits eligibility to health care policy and practice, with a twelve-month tenure. The program, funded by the Commonwealth Fund and international foundations, places fellows at top American institutions for research and seminars, producing distinguished alumni in medicine, science, arts, and public service.
+
+### Bibliographic Documentation
+Finally, the text includes a bibliography of references and notes associated with the Harkness Fellowship program. These citations document notable recipients across academia, science, and the arts, such as Derek Parfit, Jonathan Wolff, and David Lodge. The sources span a wide range of institutions and publications, including university archives, government databases, news outlets, and academic journals, with retrieval dates primarily concentrated in 2015 and extending to 2023.

@@ -1,0 +1,10 @@
+## Global Education System Comparisons
+
+**National Models and Reform Efforts**
+Nations globally are implementing diverse reforms. Saudi Arabia is shifting its curriculum from religious instruction to one focused on critical thinking across all school levels. Bangladesh manages a hybrid public/private system while aiming to reduce reliance on traditional written exams amidst funding constraints. In contrast, Mexico has seen improvements in literacy and attendance following decentralization, whereas New Zealand offers a free K-13 secular system that still grapples with performance gaps among certain minority students.
+
+**Competitive and Structurally Diverse Systems**
+Several high-stakes educational cultures exist. South Korea maintains a highly competitive, Confucian-influenced system driven by rigorous exams and private tutoring, recently attempting to shift toward competency-based learning. Similarly, Japan emphasizes intensive performance through university entrance exams. Russia features structured secondary tracks feeding into vocational or national university studies under the Bologna Process, while Canada operates a highly decentralized system managed by provincial bodies.
+
+**Challenges in Development and Inequality**
+Significant challenges persist in developing nations. Pakistan suffers from chronic underinvestment and deep gender disparities, despite overall literacy gains. Meanwhile, other nations face specific hurdles: Pakistan's curriculum exhibits bias against minority groups, and Canada's decentralization necessitates varied provincial approaches. Western European models, like the Dutch system, utilize age-based stratification for tertiary pathway guidance, while Asian models exhibit varied pressures depending on the country's economic and cultural priorities.

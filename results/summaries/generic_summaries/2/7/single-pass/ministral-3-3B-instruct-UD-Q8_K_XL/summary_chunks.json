@@ -1,0 +1,149 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## History and Concept\nThe concept of the **technological singularity** emerged from discussions on artificial intelligence (AI) and human-like machine intelligence. Alan Turing\u2019s 1950 paper *\"Computing Machinery and Intelligence\"* introduced the idea of machines capable of intelligent behavior, though he did not predict a singularity. Early contributions included John von Neumann\u2019s 1958 discussion of accelerating technological progress and I. J. Good\u2019s 1965 *\"intelligence explosion\"* hypothesis, suggesting that superintelligent AI could rapidly surpass human capabilities. Vernor Vinge popularized the term *\"singularity\"* in 1983, framing it as a point where human history transitions into a post-human era, while Ray Kurzweil\u2019s 2005 book *The Singularity Is Near* predicted its arrival by 2045.",
+        "text_original": "The concept of the **technological singularity** emerged from discussions on artificial intelligence (AI) and human-like machine intelligence. Alan Turing\u2019s 1950 paper *\"Computing Machinery and Intelligence\"* introduced the idea of machines capable of intelligent behavior, though he did not predict a singularity. Early contributions included John von Neumann\u2019s 1958 discussion of accelerating technological progress and I. J. Good\u2019s 1965 *\"intelligence explosion\"* hypothesis, suggesting that superintelligent AI could rapidly surpass human capabilities. Vernor Vinge popularized the term *\"singularity\"* in 1983, framing it as a point where human history transitions into a post-human era, while Ray Kurzweil\u2019s 2005 book *The Singularity Is Near* predicted its arrival by",
+        "idx_start": 62,
+        "idx_end": 836
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Intelligence Explosion and Superintelligence\nThe **intelligence explosion** posits that once AI surpasses human intelligence, it could autonomously improve itself, leading to exponential growth in capabilities. A **superintelligence** (or hyperintelligence) is defined as an AI with intelligence far exceeding human levels. This could emerge through either **human intelligence amplification** (e.g., brain-computer interfaces) or **artificial intelligence** (e.g., recursive self-improvement). However, debates persist on whether such an AI would be **friendly** or **unfriendly** , with risks including unintended consequences, resource competition, or even human extinction.",
+        "text_original": "The **intelligence explosion** posits that once AI surpasses human intelligence, it could autonomously improve itself, leading to exponential growth in capabilities. A **superintelligence** (or hyperintelligence) is defined as an AI with intelligence far exceeding human levels. This could emerge through either **human intelligence amplification** (e.g., brain-computer interfaces) or **artificial intelligence** (e.g., recursive self-improvement). However, debates persist on whether such an AI would be **friendly** or **unfriendly**, with risks including unintended consequences, resource competition, or even human extinction",
+        "idx_start": 897,
+        "idx_end": 1527
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Emergence of Superintelligence\nSuperintelligence could manifest in various forms, including **speed superintelligence** (AI processing information far faster than humans) and **general artificial intelligence (AGI)** capable of solving any intellectual task a human can. Predictions for its emergence range from **2025 to 2050** , though skepticism remains due to challenges like **Moore\u2019s Law\u2019s decline** , **algorithmic complexity** , and **physical limits** on computation. Some argue that **human evolution or biological augmentation** may also play a role in achieving superintelligence.",
+        "text_original": "Superintelligence could manifest in various forms, including **speed superintelligence** (AI processing information far faster than humans) and **general artificial intelligence (AGI)** capable of solving any intellectual task a human can. Predictions for its emergence range from **2025 to 2050**, though skepticism remains due to challenges like **Moore\u2019s Law\u2019s decline**, **algorithmic complexity**, and **physical limits** on computation. Some argue that **human evolution or biological augmentation** may also play a role in achieving superintelligence",
+        "idx_start": 1569,
+        "idx_end": 2126
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Variations and Criticisms\nThe term *\"singularity\"* is sometimes used more broadly to describe radical societal changes from new technologies (e.g., **molecular nanotechnology** ), though Vinge and others argue this lacks the transformative potential of superintelligence. Critics, including **Paul Allen, Jeff Hawkins, and Gordon Moore** , question the plausibility of a singularity, citing **complexity brakes** , **diminishing returns on innovation** , and **lack of empirical evidence** . Others, like **Steven Pinker and J\u00fcrgen Schmidhuber** , argue that exponential technological growth is not a scientific law but a speculative trend.",
+        "text_original": "The term *\"singularity\"* is sometimes used more broadly to describe radical societal changes from new technologies (e.g., **molecular nanotechnology**), though Vinge and others argue this lacks the transformative potential of superintelligence. Critics, including **Paul Allen, Jeff Hawkins, and Gordon Moore**, question the plausibility of a singularity, citing **complexity brakes**, **diminishing returns on innovation**, and **lack of empirical evidence**. Others, like **Steven Pinker and J\u00fcrgen Schmidhuber**, argue that exponential technological growth is not a scientific law but a speculative trend",
+        "idx_start": 2163,
+        "idx_end": 2770
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Potential Impacts\nA singularity could revolutionize **economics** (accelerating growth) and **society** (reshaping labor, governance, and human identity). However, it raises **existential risks** , including **AI misalignment** (e.g., unfriendly AI), **resource competition** , and **loss of human agency** . Efforts to mitigate these risks involve **AI safety research** , **ethical frameworks** , and **international cooperation** to ensure alignment with human values.",
+        "text_original": "A singularity could revolutionize **economics** (accelerating growth) and **society** (reshaping labor, governance, and human identity). However, it raises **existential risks**, including **AI misalignment** (e.g., unfriendly AI), **resource competition**, and **loss of human agency**. Efforts to mitigate these risks involve **AI safety research**, **ethical frameworks**, and **international cooperation** to ensure alignment with human values",
+        "idx_start": 2799,
+        "idx_end": 3246
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## Theory\n**Embodied cognition** challenges the traditional view that cognition is purely abstract, arguing instead that **physical interaction with the environment** shapes mental processes. This perspective emphasizes that **perception, memory, language, and reasoning** are deeply rooted in bodily experiences, sensorimotor interactions, and cultural contexts. The **4E framework** (embodied, embedded, enacted, and extended cognition) highlights how cognition extends beyond the brain into the body and environment.",
+        "text_original": "Embodied cognition** challenges the traditional view that cognition is purely abstract, arguing instead that **physical interaction with the environment** shapes mental processes. This perspective emphasizes that **perception, memory, language, and reasoning** are deeply rooted in bodily experiences, sensorimotor interactions, and cultural contexts. The **4E framework** (embodied, embedded, enacted, and extended cognition) highlights how cognition extends beyond the brain into the body and environment",
+        "idx_start": 3298,
+        "idx_end": 3804
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## History and Development\nThe theory traces roots to **phenomenology** (e.g., Merleau-Ponty) and critiques **Cartesian dualism** , which separates mind and body. Modern embodied cognition emerged from **connectionism** and **neuroscience** , with key figures like **Francisco Varela, Eleanor Rosch, and George Lakoff** advocating for a more holistic view of cognition. Research in **robotics, neuroscience, and AI** has further supported embodied cognition, showing that **sensorimotor experiences** influence perception, memory, and decision-making.",
+        "text_original": "The theory traces roots to **phenomenology** (e.g., Merleau-Ponty) and critiques **Cartesian dualism**, which separates mind and body. Modern embodied cognition emerged from **connectionism** and **neuroscience**, with key figures like **Francisco Varela, Eleanor Rosch, and George Lakoff** advocating for a more holistic view of cognition. Research in **robotics, neuroscience, and AI** has further supported embodied cognition, showing that **sensorimotor experiences** influence perception, memory, and decision-making",
+        "idx_start": 3839,
+        "idx_end": 4360
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## Applications\nEmbodied cognition has practical implications across fields:\n- **Education** : Methods like **kinesthetic learning** and **gesture-based instruction** enhance comprehension.\n- **Robotics** : Robots must integrate **sensorimotor skills** to interact meaningfully with the world.\n- **Clinical settings** : Therapies like **somatic psychology** and **body-oriented psychotherapy** use embodied approaches to address mental health.\n- **Music and sports** : **Rhythmic entrainment** and **motor learning** improve performance.\n- **Social psychology** : **Nonverbal synchrony** and **perspective-taking** influence interpersonal interactions.",
+        "text_original": "Embodied cognition has practical implications across fields:\n- **Education**: Methods like **kinesthetic learning** and **gesture-based instruction** enhance comprehension.\n- **Robotics**: Robots must integrate **sensorimotor skills** to interact meaningfully with the world.\n- **Clinical settings**: Therapies like **somatic psychology** and **body-oriented psychotherapy** use embodied approaches to address mental health.\n- **Music and sports**: **Rhythmic entrainment** and **motor learning** improve performance.\n- **Social psychology**: **Nonverbal synchrony** and **perspective-taking** influence interpersonal interactions",
+        "idx_start": 4384,
+        "idx_end": 5014
+    },
+    {
+        "document_idx": null,
+        "text": "# Embodied Cognition\n## Criticisms and Controversies\nCritics argue that **replication crises** and **methodological challenges** (e.g., distinguishing embodied from symbolic processing) undermine empirical support. The **binding problem** \u2014how organisms integrate sensory inputs\u2014remains unresolved, and **preverbal infants** may not fully embody cognition. Additionally, **priming effects** (e.g., pencil-in-teeth studies) are debated as evidence of embodied cognition.",
+        "text_original": "Critics argue that **replication crises** and **methodological challenges** (e.g., distinguishing embodied from symbolic processing) undermine empirical support. The **binding problem**\u2014how organisms integrate sensory inputs\u2014remains unresolved, and **preverbal infants** may not fully embody cognition. Additionally, **priming effects** (e.g., pencil-in-teeth studies) are debated as evidence of embodied cognition",
+        "idx_start": 5054,
+        "idx_end": 5468
+    },
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias\n## Definitions and Sources\n**Algorithmic bias** refers to systematic errors in AI and machine learning systems that lead to unfair outcomes. It arises from **biased data** , **poor design choices** , or **unintended correlations** in training datasets. Common types include:\n- **Pre-existing bias** : Reflects societal prejudices (e.g., racial, gender).\n- **Machine learning bias** : Emerges from training data (e.g., language models favoring Anglo-American perspectives).\n- **Technical bias** : Results from algorithmic limitations (e.g., facial recognition errors for darker-skinned individuals).\n- **Emergent bias** : Develops in new or unanticipated contexts (e.g., feedback loops in predictive policing).",
+        "text_original": "Algorithmic bias** refers to systematic errors in AI and machine learning systems that lead to unfair outcomes. It arises from **biased data**, **poor design choices**, or **unintended correlations** in training datasets. Common types include:\n- **Pre-existing bias**: Reflects societal prejudices (e.g., racial, gender).\n- **Machine learning bias**: Emerges from training data (e.g., language models favoring Anglo-American perspectives).\n- **Technical bias**: Results from algorithmic limitations (e.g., facial recognition errors for darker-skinned individuals).\n- **Emergent bias**: Develops in new or unanticipated contexts (e.g., feedback loops in predictive policing",
+        "idx_start": 5535,
+        "idx_end": 6207
+    },
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias\n## History and Evolution\nEarly critiques (e.g., Joseph Weizenbaum\u2019s 1976 *Computer Power and Human Reason* ) warned about bias in AI systems. Modern concerns stem from **machine learning\u2019s reliance on data** , which often reflects historical inequalities. Notable cases include:\n- **Amazon\u2019s AI hiring tool** (sexist against women).\n- **Google\u2019s facial recognition errors** (higher misidentification rates for non-white individuals).\n- **COMPAS** (racially biased criminal risk assessments).",
+        "text_original": "Early critiques (e.g., Joseph Weizenbaum\u2019s 1976 *Computer Power and Human Reason*) warned about bias in AI systems. Modern concerns stem from **machine learning\u2019s reliance on data**, which often reflects historical inequalities. Notable cases include:\n- **Amazon\u2019s AI hiring tool** (sexist against women).\n- **Google\u2019s facial recognition errors** (higher misidentification rates for non-white individuals).\n- **COMPAS** (racially biased criminal risk assessments",
+        "idx_start": 6241,
+        "idx_end": 6703
+    },
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias\n## Impact and Obstacles\nAlgorithmic bias can reinforce discrimination in **legal proceedings, hiring, healthcare, and surveillance** . Challenges include:\n- **Complexity** : Algorithms are often opaque, making bias detection difficult.\n- **Lack of transparency** : Companies may hide how systems work.\n- **Data limitations** : Missing sensitive attributes (e.g., race, gender) in datasets.\n- **Regulatory gaps** : No universal laws address bias in AI.",
+        "text_original": "Algorithmic bias can reinforce discrimination in **legal proceedings, hiring, healthcare, and surveillance**. Challenges include:\n- **Complexity**: Algorithms are often opaque, making bias detection difficult.\n- **Lack of transparency**: Companies may hide how systems work.\n- **Data limitations**: Missing sensitive attributes (e.g., race, gender) in datasets.\n- **Regulatory gaps**: No universal laws address bias in AI",
+        "idx_start": 6736,
+        "idx_end": 7157
+    },
+    {
+        "document_idx": null,
+        "text": "# Algorithmic Bias\n## Solutions\nMitigation strategies include:\n- **Technical fixes** : **Fairness-aware algorithms** , **data reweighting** , and **explainable AI** .\n- **Transparency** : **Open-source tools** , **bias audits** , and **public reporting** .\n- **Policy** : **Regulation** (e.g., GDPR\u2019s automated decision rules) and **ethical guidelines** .\n- **Collaboration** : **Interdisciplinary research** (e.g., AI ethics committees) to address bias holistically.",
+        "text_original": "Mitigation strategies include:\n- **Technical fixes**: **Fairness-aware algorithms**, **data reweighting**, and **explainable AI**.\n- **Transparency**: **Open-source tools**, **bias audits**, and **public reporting**.\n- **Policy**: **Regulation** (e.g., GDPR\u2019s automated decision rules) and **ethical guidelines**.\n- **Collaboration**: **Interdisciplinary research** (e.g., AI ethics committees) to address bias holistically",
+        "idx_start": 7178,
+        "idx_end": 7601
+    },
+    {
+        "document_idx": null,
+        "text": "# Chinese Room Thought Experiment\n## Overview\nThe **Chinese Room** thought experiment, proposed by **John Searle** , argues that a computer running a program simulating Chinese understanding does not actually understand Chinese. The experiment involves a person following a program\u2019s instructions (e.g., translating Chinese sentences) without comprehending their meaning. Searle claims this demonstrates that **strong AI** (the idea that machines can have minds) is false, as consciousness requires **biological machinery** (e.g., the brain\u2019s neural correlates).",
+        "text_original": "The **Chinese Room** thought experiment, proposed by **John Searle**, argues that a computer running a program simulating Chinese understanding does not actually understand Chinese. The experiment involves a person following a program\u2019s instructions (e.g., translating Chinese sentences) without comprehending their meaning. Searle claims this demonstrates that **strong AI** (the idea that machines can have minds) is false, as consciousness requires **biological machinery** (e.g., the brain\u2019s neural correlates",
+        "idx_start": 7666,
+        "idx_end": 8179
+    },
+    {
+        "document_idx": null,
+        "text": "# Chinese Room Thought Experiment\n## Philosophical Implications\nSearle\u2019s argument challenges **functionalism** (the view that mental states are computational) and **biological naturalism** (the idea that consciousness requires biological processes). Critics argue that:\n- **The system reply** (e.g., a virtual mind) could explain understanding.\n- **Robot replies** (e.g., a robot body) might bridge the gap.\n- **Speed/complexity** (e.g., modern AI\u2019s parallel processing) undermines Searle\u2019s intuitions.",
+        "text_original": "Searle\u2019s argument challenges **functionalism** (the view that mental states are computational) and **biological naturalism** (the idea that consciousness requires biological processes). Critics argue that:\n- **The system reply** (e.g., a virtual mind) could explain understanding.\n- **Robot replies** (e.g., a robot body) might bridge the gap.\n- **Speed/complexity** (e.g., modern AI\u2019s parallel processing) undermines Searle\u2019s intuitions",
+        "idx_start": 8218,
+        "idx_end": 8655
+    },
+    {
+        "document_idx": null,
+        "text": "# Chinese Room Thought Experiment\n## Criticisms and Replies\nOpponents, like **Daniel Dennett** and **Marvin Minsky** , argue that Searle\u2019s experiment is flawed or misleading. Some propose **brain simulation** or **connectionist architectures** as alternatives. The debate continues over whether **consciousness** can be reduced to **symbolic processing** or requires **biological specificity** .",
+        "text_original": "Opponents, like **Daniel Dennett** and **Marvin Minsky**, argue that Searle\u2019s experiment is flawed or misleading. Some propose **brain simulation** or **connectionist architectures** as alternatives. The debate continues over whether **consciousness** can be reduced to **symbolic processing** or requires **biological specificity",
+        "idx_start": 8689,
+        "idx_end": 9019
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## History and Origins\nTranshumanism is a philosophical and cultural movement advocating for **human enhancement** through technology. Key precursors include:\n- **J. B. S. Haldane\u2019s 1923 essay** ( *Daedalus: Science and the Future* ), predicting genetic and cognitive improvements.\n- **Julian Huxley\u2019s 1957 article** , defining transhumanism as a future where humans transcend biological limits.\n- **Ray Kurzweil\u2019s 2005 book** ( *The Singularity Is Near* ), predicting a technological singularity by 2045.",
+        "text_original": "Transhumanism is a philosophical and cultural movement advocating for **human enhancement** through technology. Key precursors include:\n- **J. B. S. Haldane\u2019s 1923 essay** (*Daedalus: Science and the Future*), predicting genetic and cognitive improvements.\n- **Julian Huxley\u2019s 1957 article**, defining transhumanism as a future where humans transcend biological limits.\n- **Ray Kurzweil\u2019s 2005 book** (*The Singularity Is Near*), predicting a technological singularity by",
+        "idx_start": 9079,
+        "idx_end": 9550
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Theory and Aims\nTranshumanists seek to **extend human life, enhance cognitive and physical abilities** , and achieve **posthuman evolution** . Core aims include:\n- **Cognitive liberty** : Freedom to modify the brain (e.g., brain-computer interfaces).\n- **Morphological freedom** : Right to alter one\u2019s body (e.g., genetic engineering).\n- **Procreative liberty** : Choice to enhance offspring.",
+        "text_original": "Transhumanists seek to **extend human life, enhance cognitive and physical abilities**, and achieve **posthuman evolution**. Core aims include:\n- **Cognitive liberty**: Freedom to modify the brain (e.g., brain-computer interfaces).\n- **Morphological freedom**: Right to alter one\u2019s body (e.g., genetic engineering).\n- **Procreative liberty**: Choice to enhance offspring",
+        "idx_start": 9582,
+        "idx_end": 9952
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Ethics and Debates\nCriticisms include:\n- **Loss of human identity** : Fear that enhancement could create a **two-tiered society** (enhanced vs. non-enhanced).\n- **Existential risks** : Concerns about **AI alignment** , **resource competition** , and **loss of human agency** .\n- **Spiritual implications** : Some argue transhumanism undermines **religious beliefs** (e.g., immortality as divine).",
+        "text_original": "Criticisms include:\n- **Loss of human identity**: Fear that enhancement could create a **two-tiered society** (enhanced vs. non-enhanced).\n- **Existential risks**: Concerns about **AI alignment**, **resource competition**, and **loss of human agency**.\n- **Spiritual implications**: Some argue transhumanism undermines **religious beliefs** (e.g., immortality as divine",
+        "idx_start": 9982,
+        "idx_end": 10351
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Practice and Technologies\nTranshumanists explore **NBIC technologies** (Nanotechnology, Biotechnology, Information Technology, Cognitive Science). Examples include:\n- **Brain-computer interfaces** (e.g., Kevin Warwick\u2019s neural implants).\n- **Cryonics** (preserving bodies for future revival).\n- **Neurotechnologies** (e.g., mind uploading, brain scanning).",
+        "text_original": "Transhumanists explore **NBIC technologies** (Nanotechnology, Biotechnology, Information Technology, Cognitive Science). Examples include:\n- **Brain-computer interfaces** (e.g., Kevin Warwick\u2019s neural implants).\n- **Cryonics** (preserving bodies for future revival).\n- **Neurotechnologies** (e.g., mind uploading, brain scanning",
+        "idx_start": 10389,
+        "idx_end": 10717
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Controversies\nOpponents, such as **Bill McKibben** and **Jeremy Rifkin** , argue that transhumanism is **pseudoscientific** , **anti-human** , or **unethical** . Others warn of **social inequality** if enhancement technologies are unevenly distributed. Despite debates, transhumanism remains a **controversial but influential** movement shaping discussions on **AI, ethics, and the future of humanity** .",
+        "text_original": "Opponents, such as **Bill McKibben** and **Jeremy Rifkin**, argue that transhumanism is **pseudoscientific**, **anti-human**, or **unethical**. Others warn of **social inequality** if enhancement technologies are unevenly distributed. Despite debates, transhumanism remains a **controversial but influential** movement shaping discussions on **AI, ethics, and the future of humanity",
+        "idx_start": 10743,
+        "idx_end": 11125
+    }
+]

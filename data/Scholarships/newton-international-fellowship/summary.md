@@ -1,0 +1,1 @@
+The Newton International Fellowship, named after Sir Isaac Newton, is an international postdoctoral award for selected foreign academics to carry out research at institutions in the United Kingdom.

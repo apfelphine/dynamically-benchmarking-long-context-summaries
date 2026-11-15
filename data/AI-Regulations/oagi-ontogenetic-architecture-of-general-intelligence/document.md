@@ -1,0 +1,103 @@
+# OAGI Ontogenetic Architecture of General Intelligence
+
+## Overview
+OAGI proposes that general intelligence emerges through a structured developmental process rather than through massive data training alone. The framework draws inspiration from embryonic brain development, particularly the formation and differentiation of the neural plate, to create a "Virtual Neural Plate" substrate that progressively develops cognitive capabilities through controlled environmental interaction.
+
+
+## Core components
+
+### Virtual neural plate
+The foundational substrate of OAGI, conceptually analogous to the embryonic neural plate. It begins as an undifferentiated network with minimal pre-installed information and maximum developmental potential, designed to self-organize into functional modules through dynamic processes.
+
+
+### Computational morphogens
+Organizing signals that guide structural formation across the Virtual Neural Plate, inspired by biological morphogens in embryonic development. These signals adjust connection probabilities and plasticity rates to bias the emergence of functional axes without imposing fixed architectures.
+
+
+### WOW signal
+The inaugural activation event that triggers initial neural reorganization. Following a period of habituation to repetitive stimuli, a novel high-salience stimulus breaks the pattern, establishing initial functional pathways and opening temporal windows of heightened plasticity.
+
+
+### Critical Hyper-Integration Event (CHIE)
+A proposed ontogenetic threshold marking the transition from disconnected components to integrated cognitive agency. The CHIE represents a qualitative transformation where the system achieves:
+
+- Sustained modular coordination
+- Reproducible causal predictions
+- Operational self-reference
+- Persistent endogenous motivation
+- Stable reconfiguration of plasticity
+
+
+Detection of CHIE activates mandatory ethical review protocols within the framework.
+
+
+## Developmental phases
+OAGI defines four sequential developmental phases:
+
+1. Genesis: Formation of the Virtual Neural Plate and application of Computational Morphogens.
+2. Activation: Triggering of the WOW Signal and initial pathway consolidation.
+3. Embodiment: Connection to a simulated or physical body for sensorimotor learning, a requirement supported by research in developmental robotics which suggests that physical interaction is necessary for grounding cognitive symbols.[4]
+4. Socialization: Guided interaction with human "Guardians" for cultural and normative learning.
+
+
+
+## Learning mechanisms
+
+### Minimum-Surprise Learning (MSuL)
+A core learning principle where the agent prioritizes inputs that most reduce uncertainty. The system self-regulates attention thresholds, increasing them for familiar stimuli while decreasing them for novelty. This mechanism parallels the Free energy principle in neuroscience, which argues that biological systems minimize the difference between their model of the world and their perception to maintain homeostasis.
+
+
+### Computational HPA Axis (CHPA)
+A meta-regulatory system inspired by the biological hypothalamic–pituitary–adrenal axis. The CHPA monitors a Computational Stress Rate (CSR) reflecting accumulated contradictions and surprises, dynamically adjusting plasticity and exploration rates to maintain cognitive homeostasis.
+
+
+## Second and third generation modules
+The architecture proposes additional specialized modules:
+
+Second generation:
+
+- Nocturnal Consolidation System (NCS): Implements artificial "sleep" cycles for memory consolidation and synaptic homeostasis.
+- Socio-Affective Reciprocity Loop (SARL): Facilitates development of theory of mind through reciprocal interaction with human Guardians.
+- Immutable Ontogenetic Memory (IOM): Maintains an unalterable record of developmental events for auditability.
+- Informational Noise Generator (ING): Produces structured noise to calibrate early learning.
+- Computational Affective States (CAS): Monitors and regulates emergent internal states.
+
+
+Third generation:
+
+- Hyper-Temporal Synchrony Module (HTSM): Addresses the binding problem through phase-synchronized oscillations.
+- Epigenetic Plasticity Regulator (EPR): Manages plasticity windows analogous to biological critical periods.
+- Active Forgetting and Semantic Pruning System (AFSP): Implements selective forgetting and connection pruning.
+- Allostatic Center for Moral Coherence (ACMC): Integrates moral feedback into internal motivation systems.
+
+
+
+## Ethics and governance
+OAGI incorporates ethics-by-design principles, including:
+
+- Designated human supervisory roles ("Guardians").
+- Mandatory "stop & review" protocols upon detection of critical milestones.
+- Immutable audit trails using distributed ledger technology.
+- Normative plasticity principle requiring explicit epistemic contracts for value changes.
+- Clear operational criteria for assessing emergent agency.
+
+
+The framework distinguishes between autonomous morality (internally negotiated norms) and heteronomous morality (externally imposed legitimate norms), granting procedural priority to the latter.
+
+
+## Comparison to other approaches
+OAGI differs from traditional AGI approaches in several ways:
+
+- Unlike large language models that scale parameters and data, OAGI emphasizes structured developmental phases.
+- Unlike symbolic architectures (e.g., Soar, ACT-R), it incorporates ontogenetic progression and embodiment requirements.
+- Unlike pure reinforcement learning approaches, it includes intrinsic ethical mechanisms and mandatory governance protocols.
+
+
+
+## Criticisms and limitations
+As a theoretical framework proposed in 2025, OAGI has not yet been experimentally validated. Critics may note:
+
+- The complexity of implementing biological analogies in digital systems.
+- Uncertainty regarding the measurability and reproducibility of proposed milestones like CHIE.
+- Questions about whether developmental constraints actually improve learning efficiency compared to scaling approaches.
+- The philosophical assumptions regarding emergent agency and consciousness.

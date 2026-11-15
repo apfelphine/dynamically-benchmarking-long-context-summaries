@@ -1,0 +1,28 @@
+{
+  "id": 15590963,
+  "title": "Joseph Sifakis",
+  "url": "https://en.wikipedia.org/wiki/Joseph_Sifakis",
+  "path": "Comp-Sci-Pioneers\\joseph-sifakis",
+  "summary": {
+    "chars": 192,
+    "tokens": 58
+  },
+  "document": {
+    "chars": 3267,
+    "tokens": 736
+  },
+  "infobox": {
+    "title": "Joseph Sifakis",
+    "data": {
+      "Born": "26 December 1946 (age 78) \u00b7 Heraklion, Crete, Greece",
+      "Citizenship": "Greek-French",
+      "Education": "National Technical University of Athens (BS) \u00b7 University of Grenoble (MS, PhD)",
+      "Known for": "Model checking",
+      "Spouse": "Olga Ioannidi",
+      "Awards": "Turing Award (2007), Leonardo da Vinci Medal (2012) \u00b7 Member \u00b7 French Academy of Engineering (2008), French Academy of Sciences (2010), Academia Europaea (2008), American Academy of Arts and Sciences (2015), National Academy of Engineering (2017), Chinese Academy of Sciences (2019), National Academy of Sciences (2024).",
+      "Fields": "Computer science",
+      "Institutions": "CNRS, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+      "Notable students": "Stavros Tripakis, Susanne Graf, Sergio Yovine, Ahmed Bouajjani"
+    }
+  }
+}

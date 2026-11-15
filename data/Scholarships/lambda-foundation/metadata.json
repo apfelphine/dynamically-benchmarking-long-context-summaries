@@ -1,0 +1,27 @@
+{
+  "id": 20606295,
+  "title": "Lambda Foundation",
+  "url": "https://en.wikipedia.org/wiki/Lambda_Foundation",
+  "path": "Scholarships\\lambda-foundation",
+  "summary": {
+    "chars": 370,
+    "tokens": 70
+  },
+  "document": {
+    "chars": 3046,
+    "tokens": 557
+  },
+  "infobox": {
+    "title": "Lambda Foundation",
+    "data": {
+      "Predecessor": "Lambda Business and Professional Group",
+      "Type": "NGO",
+      "Registration no.": "862758448 RR0001",
+      "Legal status": "Charitable organization",
+      "Headquarters": "Ottawa, Ontario, Canada",
+      "President": "Cameron Aitken",
+      "Website": "lambdafoundation.org",
+      "Formerly called": "Lambda Literary and Scholarship Foundation"
+    }
+  }
+}

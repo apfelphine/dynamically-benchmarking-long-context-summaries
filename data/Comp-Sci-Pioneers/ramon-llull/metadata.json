@@ -1,0 +1,24 @@
+{
+  "id": 69677,
+  "title": "Ramon Llull",
+  "url": "https://en.wikipedia.org/wiki/Ramon_Llull",
+  "path": "Comp-Sci-Pioneers\\ramon-llull",
+  "summary": {
+    "chars": 1401,
+    "tokens": 318
+  },
+  "document": {
+    "chars": 20657,
+    "tokens": 4802
+  },
+  "infobox": {
+    "title": "Blessed \u00b7 Ramon Llull \u00b7 TOSF",
+    "data": {
+      "Born": "c. 1232 \u00b7 City of Mallorca, Kingdom of Majorca \u00b7 (now Palma, Spain)",
+      "Died": "1316 (aged 83\u201384)",
+      "Venerated in": "Catholic Church",
+      "Beatified": "11 September 1847 by Pope Pius IX",
+      "Feast": "30 June (Third Order of St. Francis)"
+    }
+  }
+}

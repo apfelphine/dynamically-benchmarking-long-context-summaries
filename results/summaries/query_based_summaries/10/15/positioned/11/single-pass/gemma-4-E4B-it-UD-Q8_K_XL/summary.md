@@ -1,0 +1,1 @@
+**Note:** The provided text does not contain any information regarding "Education in Norway." Therefore, no summary can be generated for that specific topic based on the provided source material.

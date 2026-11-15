@@ -1,0 +1,25 @@
+{
+  "id": 25029278,
+  "title": "Loran Award",
+  "url": "https://en.wikipedia.org/wiki/Loran_Scholars_Foundation",
+  "path": "Scholarships\\loran-award",
+  "summary": {
+    "chars": 494,
+    "tokens": 95
+  },
+  "document": {
+    "chars": 6612,
+    "tokens": 1357
+  },
+  "infobox": {
+    "title": "Loran Scholars Foundation",
+    "data": {
+      "Formation": "1988",
+      "Headquarters": "Toronto, Ontario, Canada",
+      "Official language": "English, French",
+      "CEO": "Meghan Moore (Loran Scholar '98)",
+      "Key people": "- Robert Cluett (Founder) - Mike Johnston (Chair)",
+      "Website": "www.loranscholar.ca"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The Alignment Problem: Machine Learning and Human Values is a 2020 non-fiction book by the American writer Brian Christian. It is based on numerous interviews with experts trying to build artificial intelligence systems, particularly machine learning systems, that are aligned with human values.

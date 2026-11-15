@@ -1,0 +1,1 @@
+The Flinn Scholarship is a merit-based scholarship awarded annually to 20 Arizona high school seniors. It provides four years of study at an Arizona public university, study abroad, a funded internship, personal mentorship by faculty and alumni Scholars, and other benefits. The total package is valued at more than $115,000.

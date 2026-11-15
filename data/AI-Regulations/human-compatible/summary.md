@@ -1,0 +1,1 @@
+Human Compatible: Artificial Intelligence and the Problem of Control is a 2019 non-fiction book by computer scientist Stuart J. Russell. It asserts that the risk to humanity from advanced artificial intelligence (AI) is a serious concern despite the uncertainty surrounding future progress in AI. It also proposes an approach to the AI control problem.

@@ -1,0 +1,1 @@
+John L. Pollock (1940–2009) was an American philosopher known for influential work in epistemology, philosophical logic, cognitive science, and artificial intelligence.

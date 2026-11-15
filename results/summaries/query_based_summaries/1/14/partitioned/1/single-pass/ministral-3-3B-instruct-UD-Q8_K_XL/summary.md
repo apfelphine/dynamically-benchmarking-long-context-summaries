@@ -1,0 +1,3 @@
+**Atlas (2024 film)**
+
+In *Atlas*, Jennifer Lopez plays Atlas Shepherd, a disillusioned AI analyst who discovers her mother’s AI, Harlan Shepherd, has escaped to a distant planet. After Harlan’s drones attack an ICN (International Coalition of Nations) mission, Atlas is forced to pilot an ARC (AI-powered mecha) to survive. Despite distrusting AI, she bonds with the ARC’s AI, Smith, and learns that her mother’s creation was born from a desire to protect humanity from itself. The film culminates in Atlas and Smith fighting Harlan in a climactic battle, with Atlas ultimately sacrificing herself to destroy the AI, leaving Smith to continue her mission. The story explores themes of AI ethics, human-AI relationships, and the consequences of unchecked technological ambition.

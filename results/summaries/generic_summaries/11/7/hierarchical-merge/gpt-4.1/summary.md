@@ -1,0 +1,19 @@
+## Convolutional Neural Networks (CNNs)
+
+Convolutional Neural Networks (CNNs) are foundational deep learning models for visual recognition, leveraging local connectivity, shared filters, pooling, and hierarchical feature learning to efficiently process high-dimensional image and video data. Signature architectures like LeNet-5 and AlexNet popularized their use, with subsequent advancements including deconvolutional networks for image reconstruction and regularization strategies such as dropout and data augmentation to improve generalization. CNNs are widely applicable in image classification, anomaly detection, video analysis, and even adapted for sequential data in natural language processing, often aided by transfer learning and attention mechanisms.
+
+## Transformer Architectures and Vision Transformers
+
+Transformers, introduced in 2017, revolutionized sequence modeling with their self-attention mechanism, enabling parallel processing and improved scalability compared to recurrent architectures. With variants like BERT, GPT, and T5, transformers deploy encoder-only, decoder-only, and encoder-decoder frameworks, enhanced by innovations in activation functions, normalization, and efficient attention methods. They now power multimodal models in text, image, speech, and video, including Vision Transformers (ViTs) which apply self-attention to image patches for tasks such as classification and segmentation. ViTs excel at modeling long-range dependencies but require substantial data and computing resources, with notable models like Swin Transformer and DINO demonstrating their versatility beyond traditional domains.
+
+## Graph Neural Networks (GNNs) and Radial Basis Function Networks (RBFNs)
+
+Graph Neural Networks (GNNs) specialize in graph-structured data, utilizing message-passing and pooling to model complex relationships across domains such as social networks, protein folding, anomaly detection, and recommender systems. Active research focuses on improving their expressiveness and addressing oversmoothing and undersquashing. Radial Basis Function Networks (RBFNs) use Gaussian kernels for effective function approximation and classification, especially in chaotic, high-dimensional tasks. Training strategies like center selection and bandwidth tuning enhance their performance, supporting applications in short-term prediction and control.
+
+## Autoencoders, Variational Autoencoders (VAEs), and Generative Adversarial Networks (GANs)
+
+Autoencoders perform unsupervised learning via encoder-decoder architectures for dimensionality reduction and generative modeling, while VAEs introduce probabilistic latent spaces to boost sample generation and representation quality. These models support tasks ranging from image processing and anomaly detection to drug discovery. GANs generate realistic synthetic data using generator-discriminator dynamics, significantly impacting art, healthcare, and deepfake creation. Advanced variants like Conditional GANs and Wasserstein GANs address challenges of instability and mode collapse, with Wasserstein GANs improving stability and output quality through optimized loss functions.
+
+## Sequential Models: RNNs, Hopfield Networks, and Class Activation Mapping (CAM)
+
+Recurrent Neural Networks (RNNs) capture temporal dynamics in sequential data for speech recognition and time-series analysis, with variants like LSTM and GRU addressing training difficulties such as vanishing gradients. Hopfield networks, structured as associative memories with energy-based retrieval, have seen major capacity improvements and are recognized for their role in modeling human memory, highlighted by the 2024 Nobel Prize in Physics. Class Activation Mapping (CAM) techniques, like Grad-CAM and Score-CAM, enhance model interpretability by visually highlighting influential regions in input data, aiding transparency in image classification and medical diagnosis.

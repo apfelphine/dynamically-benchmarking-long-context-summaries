@@ -1,0 +1,29 @@
+{
+  "id": 78122,
+  "title": "Ivan Sutherland",
+  "url": "https://en.wikipedia.org/wiki/Ivan_Sutherland",
+  "path": "Comp-Sci-Pioneers\\ivan-sutherland",
+  "summary": {
+    "chars": 944,
+    "tokens": 184
+  },
+  "document": {
+    "chars": 8840,
+    "tokens": 2026
+  },
+  "infobox": {
+    "title": "Ivan Sutherland",
+    "data": {
+      "Born": "Ivan Edward Sutherland \u00b7 May 16, 1938 \u00b7 Hastings, Nebraska, U.S.",
+      "Education": "- Carnegie Mellon University (BS) - California Institute of Technology (MS) - Massachusetts Institute of Technology (PhD)",
+      "Known for": "Father of computer graphics \u00b7 Direct linear transformation \u00b7 Interactive computing \u00b7 Sketchpad \u00b7 Zooming user interface \u00b7 Cohen\u2013Sutherland algorithm \u00b7 Sutherland\u2013Hodgman algorithm",
+      "Spouse": "Marly Roncken \u200b(m. 2006)\u200b",
+      "Awards": "- Turing Award (1988) - Computer Pioneer Award (1985) - IEEE John von Neumann Medal (1998) - ACM Fellow (1994) - Member of the National Academy of Sciences (1978) - Kyoto Prize",
+      "Fields": "Computer science \u00b7 Internet \u00b7 Computer graphics",
+      "Institutions": "Harvard University \u00b7 University of Utah \u00b7 Evans and Sutherland \u00b7 California Institute of Technology \u00b7 Carnegie Mellon University \u00b7 Sun Microsystems \u00b7 Portland State University \u00b7 Advanced Research Projects Agency (1964\u20131966)",
+      "Thesis": "Sketchpad, a Man\u2013Machine Graphical Communication System (1963)",
+      "Doctoral advisor": "Claude Shannon",
+      "Doctoral students": "- Danny Cohen - Henri Gouraud - James H. Clark - Bui Tuong Phong - Franklin C. Crow - John Warnock"
+    }
+  }
+}

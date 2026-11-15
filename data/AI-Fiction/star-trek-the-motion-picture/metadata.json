@@ -1,0 +1,36 @@
+{
+  "id": 277006,
+  "title": "Star Trek: The Motion Picture",
+  "url": "https://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture",
+  "path": "AI-Fiction\\star-trek-the-motion-picture",
+  "summary": {
+    "chars": 2891,
+    "tokens": 594
+  },
+  "document": {
+    "chars": 91413,
+    "tokens": 19626
+  },
+  "infobox": {
+    "title": "Star Trek: The Motion Picture",
+    "data": {
+      "Directed by": "Robert Wise",
+      "Screenplay by": "Harold Livingston",
+      "Story by": "Alan Dean Foster",
+      "Based on": "Star Trek \u00b7 by Gene Roddenberry",
+      "Produced by": "Gene Roddenberry",
+      "Starring": "- William Shatner - Leonard Nimoy - DeForest Kelley - James Doohan - George Takei - Majel Barrett - Walter Koenig - Nichelle Nichols - Persis Khambatta - Stephen Collins",
+      "Cinematography": "Richard H. Kline",
+      "Edited by": "Todd C. Ramsay",
+      "Music by": "Jerry Goldsmith",
+      "Production \u00b7 company": "Paramount Pictures",
+      "Distributed by": "Paramount Pictures",
+      "Release date": "- December 7, 1979",
+      "Running time": "132 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$44 million",
+      "Box office": "$139 million"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 75550082,
+  "title": "Laidlaw Scholars",
+  "url": "https://en.wikipedia.org/wiki/Laidlaw_Scholars",
+  "path": "Scholarships\\laidlaw-scholars",
+  "summary": {
+    "chars": 682,
+    "tokens": 122
+  },
+  "document": {
+    "chars": 2667,
+    "tokens": 526
+  },
+  "infobox": {
+    "title": "Laidlaw Scholars",
+    "data": {
+      "Founded": "2014",
+      "Region served": "United Kingdom United States Canada Hong Kong Ireland Switzerland",
+      "Membership": "18 Universities - \u00b7 University of Cambridge \u00b7 (\u2190)Newnham College \u00b7 (\u2190)Murray Edwards College \u00b7 (\u2190)Fitzwilliam College \u00b7 (\u2190)Trinity Hall \u00b7 Durham University \u00b7 Imperial College London \u00b7 University of Leeds \u00b7 London School of Economics \u00b7 University of Oxford \u00b7 University of St Andrews \u00b7 University College London \u00b7 Brown University \u00b7 Columbia University \u00b7 (\u2190)Barnard College \u00b7 (\u2190)Columbia College \u00b7 Cornell University \u00b7 Duke University \u00b7 Georgetown University \u00b7 Tufts University \u00b7 University of Toronto \u00b7 University of Hong Kong \u00b7 Trinity College Dublin \u00b7 \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+      "Key people": "Lord Laidlaw of Rothiemay",
+      "Website": "laidlawfoundation.com"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 14545,
+  "title": "I, Robot",
+  "url": "https://en.wikipedia.org/wiki/I,_Robot",
+  "path": "AI-Fiction\\i-robot",
+  "summary": {
+    "chars": 466,
+    "tokens": 100
+  },
+  "document": {
+    "chars": 13075,
+    "tokens": 2978
+  },
+  "infobox": {
+    "title": "I, Robot",
+    "data": {
+      "Author": "Isaac Asimov",
+      "Cover artist": "Edd Cartier",
+      "Language": "English",
+      "Series": "Robot series",
+      "Genre": "Science fiction",
+      "Publisher": "Gnome Press",
+      "Publication date": "December 2, 1950",
+      "Publication place": "United States",
+      "Media type": "Print (hardback)",
+      "Pages": "253",
+      "Followed by": "The Rest of the Robots \u00b7 The Complete Robot"
+    }
+  }
+}

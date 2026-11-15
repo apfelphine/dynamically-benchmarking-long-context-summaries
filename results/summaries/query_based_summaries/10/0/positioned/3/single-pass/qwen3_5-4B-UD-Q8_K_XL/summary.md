@@ -1,0 +1,1 @@
+The provided text does not contain information regarding **Education in Sweden**. The document exclusively details educational systems in Armenia, Norway, Indonesia, Egypt, Hong Kong, Sri Lanka, Ghana, Turkey, Taiwan, Iran, and England. Consequently, no summary can be generated based strictly on the provided text.

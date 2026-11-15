@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\n- **Early Life & Career** : Born in Rotterdam, studied mathematics and theoretical physics. Entered computing via a job at the Mathematical Centre in Amsterdam, where he worked on programming and hardware design. Shifted from physics to programming after a pivotal discussion with Adriaan van Wijngaarden, who encouraged him to embrace programming as a respectable discipline.\n- **Key Contributions** : Developed the shortest path algorithm (Dijkstra's algorithm), a foundational concept in network routing. Co-developed the first compiler for ALGOL 60. Created the \"THE\" operating system, influencing modern OS design.\n- **Philosophy & Style** : Advocated for structured programming, famously arguing against the use of \"goto\" statements. Emphasized clarity, elegance, and self-reliance in writing. Wrote over 1,300 papers, many in the EWD series, using a fountain pen.\n- **Legacy** : Awarded the Turing Award in 1972. Known for his critical, unconventional teaching style and strong belief in programming as a scientific discipline. Retired in 1999, celebrated in a symposium on his 70th birthday.",
+        "text_original": "Early Life & Career**: Born in Rotterdam, studied mathematics and theoretical physics. Entered computing via a job at the Mathematical Centre in Amsterdam, where he worked on programming and hardware design. Shifted from physics to programming after a pivotal discussion with Adriaan van Wijngaarden, who encouraged him to embrace programming as a respectable discipline.  \n- **Key Contributions**: Developed the shortest path algorithm (Dijkstra's algorithm), a foundational concept in network routing. Co-developed the first compiler for ALGOL 60. Created the \"THE\" operating system, influencing modern OS design.  \n- **Philosophy & Style**: Advocated for structured programming, famously arguing against the use of \"goto\" statements. Emphasized clarity, elegance, and self-reliance in writing. Wrote over 1,300 papers, many in the EWD series, using a fountain pen.  \n- **Legacy**: Awarded the Turing Award in 1972. Known for his critical, unconventional teaching style and strong belief in programming as a scientific discipline. Retired in 1999, celebrated in a symposium on his 70th birthday",
+        "idx_start": 31,
+        "idx_end": 1127
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\n- **Early Life & Education** : Born in Milwaukee, studied social science and mathematics at the University of Chicago. Influenced by Harold Lasswell and Henry Schultz.\n- **Key Contributions** : Pioneered the theory of bounded rationality in decision-making, introducing \"satisficing\" as a model for human decisions under uncertainty. Developed the theory of organizational decision-making in *Administrative Behavior* . Co-created the Logic Theory Machine and General Problem Solver (GPS), foundational in AI.\n- **Philosophy & Style** : Advocated for a \"procedural\" definition of rationality, contrasting with traditional \"substantive\" models. Criticized the teaching of BASIC and emphasized cognitive processes in problem-solving.\n- **Legacy** : Awarded the Nobel Memorial Prize in Economics in 1978. Influential in economics, AI, and organizational theory. Known for his wit, originality, and rigorous critique of conventional models.",
+        "text_original": "Early Life & Education**: Born in Milwaukee, studied social science and mathematics at the University of Chicago. Influenced by Harold Lasswell and Henry Schultz.  \n- **Key Contributions**: Pioneered the theory of bounded rationality in decision-making, introducing \"satisficing\" as a model for human decisions under uncertainty. Developed the theory of organizational decision-making in *Administrative Behavior*. Co-created the Logic Theory Machine and General Problem Solver (GPS), foundational in AI.  \n- **Philosophy & Style**: Advocated for a \"procedural\" definition of rationality, contrasting with traditional \"substantive\" models. Criticized the teaching of BASIC and emphasized cognitive processes in problem-solving.  \n- **Legacy**: Awarded the Nobel Memorial Prize in Economics in 1978. Influential in economics, AI, and organizational theory. Known for his wit, originality, and rigorous critique of conventional models",
+        "idx_start": 1161,
+        "idx_end": 2093
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\n- **Early Life & Education** : Born in Michigan, studied electrical engineering at the University of Michigan. Worked on relay circuits and developed foundational ideas in information theory.\n- **Key Contributions** : Invented information theory, introducing the concept of entropy. Developed the first practical application of Boolean algebra to digital circuits. Co-invented the concept of the \"one-time pad\" in cryptography.\n- **Philosophy & Style** : Believed in the unity of mathematics, communication, and computing. Designed the \"Theseus\" learning machine, an early AI prototype.\n- **Legacy** : Known as the \"father of information theory.\" His work laid the foundation for the digital age. The unit of cryptocurrency \"shannon\" is named after him.",
+        "text_original": "Early Life & Education**: Born in Michigan, studied electrical engineering at the University of Michigan. Worked on relay circuits and developed foundational ideas in information theory.  \n- **Key Contributions**: Invented information theory, introducing the concept of entropy. Developed the first practical application of Boolean algebra to digital circuits. Co-invented the concept of the \"one-time pad\" in cryptography.  \n- **Philosophy & Style**: Believed in the unity of mathematics, communication, and computing. Designed the \"Theseus\" learning machine, an early AI prototype.  \n- **Legacy**: Known as the \"father of information theory.\" His work laid the foundation for the digital age. The unit of cryptocurrency \"shannon\" is named after him",
+        "idx_start": 2125,
+        "idx_end": 2875
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\n- **Early Life & Education** : Born in Denmark, studied electrical engineering. Joined Regnecentralen, where he developed the RC 4000 computer and its multiprogramming system.\n- **Key Contributions** : Pioneered the monitor concept, a foundational idea in concurrent programming. Developed the first concurrent programming language, Concurrent Pascal.\n- **Philosophy & Style** : Focused on simplicity, clarity, and practical implementation. Published extensively on operating systems and concurrent programming.\n- **Legacy** : Authored *Operating System Principles* , the first comprehensive textbook on OS design. His work influenced modern OS architecture and concurrent programming.",
+        "text_original": "Early Life & Education**: Born in Denmark, studied electrical engineering. Joined Regnecentralen, where he developed the RC 4000 computer and its multiprogramming system.  \n- **Key Contributions**: Pioneered the monitor concept, a foundational idea in concurrent programming. Developed the first concurrent programming language, Concurrent Pascal.  \n- **Philosophy & Style**: Focused on simplicity, clarity, and practical implementation. Published extensively on operating systems and concurrent programming.  \n- **Legacy**: Authored *Operating System Principles*, the first comprehensive textbook on OS design. His work influenced modern OS architecture and concurrent programming",
+        "idx_start": 2910,
+        "idx_end": 3591
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\n- **Early Life & Education** : Born in Milwaukee, studied physics at Case Institute of Technology. Worked on compilers and developed the TeX and Metafont typesetting systems.\n- **Key Contributions** : Created *The Art of Computer Programming* , a seminal work on algorithms and programming. Developed the TeX typesetting system and the literate programming methodology.\n- **Philosophy & Style** : Believed in writing as a form of storytelling. Emphasized clarity, elegance, and self-reliance.\n- **Legacy** : Awarded the Turing Award in 1974. His work on typesetting revolutionized scientific publishing. Known for his humor, wit, and deep commitment to precision.",
+        "text_original": "Early Life & Education**: Born in Milwaukee, studied physics at Case Institute of Technology. Worked on compilers and developed the TeX and Metafont typesetting systems.  \n- **Key Contributions**: Created *The Art of Computer Programming*, a seminal work on algorithms and programming. Developed the TeX typesetting system and the literate programming methodology.  \n- **Philosophy & Style**: Believed in writing as a form of storytelling. Emphasized clarity, elegance, and self-reliance.  \n- **Legacy**: Awarded the Turing Award in 1974. His work on typesetting revolutionized scientific publishing. Known for his humor, wit, and deep commitment to precision",
+        "idx_start": 3621,
+        "idx_end": 4280
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\n- **Early Life & Education** : Born in Khwarazm, Persian origin. Worked in Baghdad at the House of Wisdom.\n- **Key Contributions** : Invented algebra, with the book *Al-Jabr* giving rise to the term \"algebra.\" Developed the Hindu-Arabic numeral system, which spread to Europe.\n- **Philosophy & Style** : Emphasized systematic, logical approaches to problem-solving.\n- **Legacy** : Considered the father of algebra. His work laid the foundation for modern mathematics and computing.",
+        "text_original": "Early Life & Education**: Born in Khwarazm, Persian origin. Worked in Baghdad at the House of Wisdom.  \n- **Key Contributions**: Invented algebra, with the book *Al-Jabr* giving rise to the term \"algebra.\" Developed the Hindu-Arabic numeral system, which spread to Europe.  \n- **Philosophy & Style**: Emphasized systematic, logical approaches to problem-solving.  \n- **Legacy**: Considered the father of algebra. His work laid the foundation for modern mathematics and computing",
+        "idx_start": 4310,
+        "idx_end": 4788
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\n- **Early Life & Education** : Born in New York, studied electrical engineering at Columbia University.\n- **Key Contributions** : Co-developed the Mead\u2013Conway VLSI design methodology, revolutionizing chip design. Invented the MOSIS system for rapid prototyping of integrated circuits.\n- **Philosophy & Style** : Advocated for women in engineering and for open, accessible technology.\n- **Legacy** : Instrumental in the rise of the VLSI industry. A pioneer in semiconductor design.",
+        "text_original": "Early Life & Education**: Born in New York, studied electrical engineering at Columbia University.  \n- **Key Contributions**: Co-developed the Mead\u2013Conway VLSI design methodology, revolutionizing chip design. Invented the MOSIS system for rapid prototyping of integrated circuits.  \n- **Philosophy & Style**: Advocated for women in engineering and for open, accessible technology.  \n- **Legacy**: Instrumental in the rise of the VLSI industry. A pioneer in semiconductor design",
+        "idx_start": 4817,
+        "idx_end": 5294
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\n- **Early Life & Education** : Born in Wismar, studied mathematics and philosophy at Jena and G\u00f6ttingen.\n- **Key Contributions** : Invented modern predicate logic and introduced the distinction between \"sense\" and \"reference.\" Developed the foundation of logicism in mathematics.\n- **Philosophy & Style** : Focused on the logical structure of language and mathematics.\n- **Legacy** : A foundational figure in analytic philosophy and logic. His work influenced Russell, Wittgenstein, and G\u00f6del.",
+        "text_original": "Early Life & Education**: Born in Wismar, studied mathematics and philosophy at Jena and G\u00f6ttingen.  \n- **Key Contributions**: Invented modern predicate logic and introduced the distinction between \"sense\" and \"reference.\" Developed the foundation of logicism in mathematics.  \n- **Philosophy & Style**: Focused on the logical structure of language and mathematics.  \n- **Legacy**: A foundational figure in analytic philosophy and logic. His work influenced Russell, Wittgenstein, and G\u00f6del",
+        "idx_start": 5325,
+        "idx_end": 5815
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\n- **Early Life & Education** : Born in Austria-Hungary, studied mathematics at Vienna.\n- **Key Contributions** : Proved the incompleteness theorems, demonstrating that any formal system powerful enough to describe arithmetic is either incomplete or inconsistent.\n- **Philosophy & Style** : Believed in the existence of God and a personal afterlife.\n- **Legacy** : His work reshaped mathematical logic and philosophy. Considered one of the most important figures in modern logic.",
+        "text_original": "Early Life & Education**: Born in Austria-Hungary, studied mathematics at Vienna.  \n- **Key Contributions**: Proved the incompleteness theorems, demonstrating that any formal system powerful enough to describe arithmetic is either incomplete or inconsistent.  \n- **Philosophy & Style**: Believed in the existence of God and a personal afterlife.  \n- **Legacy**: His work reshaped mathematical logic and philosophy. Considered one of the most important figures in modern logic",
+        "idx_start": 5843,
+        "idx_end": 6318
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n- **Early Life & Education** : Born in New York, studied mathematics at Vassar and Yale.\n- **Key Contributions** : Invented the first compiler (A compiler), which enabled programming in natural language. Developed COBOL, a business-oriented programming language.\n- **Philosophy & Style** : Advocated for accessible, user-friendly programming.\n- **Legacy** : A pioneer in programming languages and computer science. Awarded the Presidential Medal of Freedom.",
+        "text_original": "Early Life & Education**: Born in New York, studied mathematics at Vassar and Yale.  \n- **Key Contributions**: Invented the first compiler (A compiler), which enabled programming in natural language. Developed COBOL, a business-oriented programming language.  \n- **Philosophy & Style**: Advocated for accessible, user-friendly programming.  \n- **Legacy**: A pioneer in programming languages and computer science. Awarded the Presidential Medal of Freedom",
+        "idx_start": 6348,
+        "idx_end": 6802
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\n- **Early Life & Education** : Born in Upper Mesopotamia, served as chief engineer at the Artuqlu Palace.\n- **Key Contributions** : Designed intricate mechanical devices, including water-raising machines and automata.\n- **Philosophy & Style** : Focused on practical engineering and human-centered design.\n- **Legacy** : A precursor to modern robotics and automation. His work inspired later developments in AI and mechanical engineering.",
+        "text_original": "Early Life & Education**: Born in Upper Mesopotamia, served as chief engineer at the Artuqlu Palace.  \n- **Key Contributions**: Designed intricate mechanical devices, including water-raising machines and automata.  \n- **Philosophy & Style**: Focused on practical engineering and human-centered design.  \n- **Legacy**: A precursor to modern robotics and automation. His work inspired later developments in AI and mechanical engineering",
+        "idx_start": 6836,
+        "idx_end": 7270
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n- **Early Life & Education** : Born in Italy, studied physics at Padua.\n- **Key Contributions** : Invented silicon-gate technology, enabling the first microprocessors. Designed the Intel 4004, the first single-chip microprocessor.\n- **Philosophy & Style** : Focused on innovation and practical implementation.\n- **Legacy** : A key figure in the development of microprocessors.",
+        "text_original": "Early Life & Education**: Born in Italy, studied physics at Padua.  \n- **Key Contributions**: Invented silicon-gate technology, enabling the first microprocessors. Designed the Intel 4004, the first single-chip microprocessor.  \n- **Philosophy & Style**: Focused on innovation and practical implementation.  \n- **Legacy**: A key figure in the development of microprocessors",
+        "idx_start": 7303,
+        "idx_end": 7676
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\n- **Early Life & Education** : Born in England, studied experimental psychology and AI at Cambridge.\n- **Key Contributions** : Pioneered deep learning and neural networks. Co-invented the backpropagation algorithm.\n- **Philosophy & Style** : Critical of current AI trends, advocating for safety and ethical considerations.\n- **Legacy** : Awarded the Turing Award in 2018. A central figure in the development of modern AI.",
+        "text_original": "Early Life & Education**: Born in England, studied experimental psychology and AI at Cambridge.  \n- **Key Contributions**: Pioneered deep learning and neural networks. Co-invented the backpropagation algorithm.  \n- **Philosophy & Style**: Critical of current AI trends, advocating for safety and ethical considerations.  \n- **Legacy**: Awarded the Turing Award in 2018. A central figure in the development of modern AI",
+        "idx_start": 7709,
+        "idx_end": 8127
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n- **Early Life & Education** : Born in Italy, studied engineering in Poland.\n- **Key Contributions** : Designed pioneering computers like AKAT-1 and K-202, contributing to early computer science in Poland.\n- **Philosophy & Style** : Focused on innovation and practical application.\n- **Legacy** : A key figure in the development of early Polish computing.",
+        "text_original": "Early Life & Education**: Born in Italy, studied engineering in Poland.  \n- **Key Contributions**: Designed pioneering computers like AKAT-1 and K-202, contributing to early computer science in Poland.  \n- **Philosophy & Style**: Focused on innovation and practical application.  \n- **Legacy**: A key figure in the development of early Polish computing",
+        "idx_start": 8160,
+        "idx_end": 8512
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\n- **Early Life & Education** : Born in New Jersey, studied piano and music.\n- **Key Contributions** : Composed *Ballet M\u00e9canique* , a pioneering work in electronic music and mechanical art. Invented frequency-hopping radio, a foundational concept in modern wireless communication.\n- **Philosophy & Style** : A \"bad boy\" of music, known for provocative performances and avant-garde style.\n- **Legacy** : Influenced modern music and technology. His work in radio is foundational to modern wireless systems.",
+        "text_original": "Early Life & Education**: Born in New Jersey, studied piano and music.  \n- **Key Contributions**: Composed *Ballet M\u00e9canique*, a pioneering work in electronic music and mechanical art. Invented frequency-hopping radio, a foundational concept in modern wireless communication.  \n- **Philosophy & Style**: A \"bad boy\" of music, known for provocative performances and avant-garde style.  \n- **Legacy**: Influenced modern music and technology. His work in radio is foundational to modern wireless systems",
+        "idx_start": 8544,
+        "idx_end": 9044
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\n- **Early Life & Education** : Born in Canada, studied mathematics at Queen's and Harvard.\n- **Key Contributions** : Developed APL, a programming language with a powerful, concise syntax.\n- **Philosophy & Style** : Emphasized clarity and simplicity in programming.\n- **Legacy** : Awarded the Turing Award in 1979. His work influenced modern programming languages.",
+        "text_original": "Early Life & Education**: Born in Canada, studied mathematics at Queen's and Harvard.  \n- **Key Contributions**: Developed APL, a programming language with a powerful, concise syntax.  \n- **Philosophy & Style**: Emphasized clarity and simplicity in programming.  \n- **Legacy**: Awarded the Turing Award in 1979. His work influenced modern programming languages",
+        "idx_start": 9080,
+        "idx_end": 9440
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\n- **Early Life & Education** : Born in Majorca, studied theology and philosophy.\n- **Key Contributions** : Developed a combinatorial system of logic (the \"Art\") to prove theological and philosophical truths.\n- **Philosophy & Style** : Focused on universal logic and the use of diagrams and principles to derive truth.\n- **Legacy** : Influenced later thinkers like Leibniz and modern computer science.",
+        "text_original": "Early Life & Education**: Born in Majorca, studied theology and philosophy.  \n- **Key Contributions**: Developed a combinatorial system of logic (the \"Art\") to prove theological and philosophical truths.  \n- **Philosophy & Style**: Focused on universal logic and the use of diagrams and principles to derive truth.  \n- **Legacy**: Influenced later thinkers like Leibniz and modern computer science",
+        "idx_start": 9469,
+        "idx_end": 9866
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\n- **Early Life & Education** : Born in England, self-taught in mathematics.\n- **Key Contributions** : Developed Boolean algebra, a foundation of modern logic and digital computing.\n- **Philosophy & Style** : Emphasized the logical structure of thought and the connection between mathematics and reality.\n- **Legacy** : The foundation of digital circuit design. His work influenced Claude Shannon and modern computing.\n**Summary Themes** :\n- **Foundational Contributions** : All figures made foundational contributions to computing, mathematics, or logic.\n- **Innovation & Practicality** : Emphasis on practical applications, from circuit design to programming languages.\n- **Philosophy & Critique** : Many engaged in philosophical debates about rationality, logic, and the nature of intelligence.\n- **Legacy** : Each left a lasting impact on modern science, technology, and education.",
+        "text_original": "Early Life & Education**: Born in England, self-taught in mathematics.  \n- **Key Contributions**: Developed Boolean algebra, a foundation of modern logic and digital computing.  \n- **Philosophy & Style**: Emphasized the logical structure of thought and the connection between mathematics and reality.  \n- **Legacy**: The foundation of digital circuit design. His work influenced Claude Shannon and modern computing.  \n\n---  \n**Summary Themes**:  \n- **Foundational Contributions**: All figures made foundational contributions to computing, mathematics, or logic.  \n- **Innovation & Practicality**: Emphasis on practical applications, from circuit design to programming languages.  \n- **Philosophy & Critique**: Many engaged in philosophical debates about rationality, logic, and the nature of intelligence.  \n- **Legacy**: Each left a lasting impact on modern science, technology, and education",
+        "idx_start": 9896,
+        "idx_end": 10789
+    }
+]

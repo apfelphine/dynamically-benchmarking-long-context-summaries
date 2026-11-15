@@ -1,0 +1,41 @@
+{
+  "id": 363594,
+  "title": "University of Melbourne",
+  "url": "https://en.wikipedia.org/wiki/University_of_Melbourne",
+  "path": "Universities\\university-of-melbourne",
+  "summary": {
+    "chars": 1764,
+    "tokens": 312
+  },
+  "document": {
+    "chars": 52704,
+    "tokens": 11162
+  },
+  "infobox": {
+    "title": "The University of Melbourne",
+    "data": {
+      "Other name": "Melbourne University",
+      "Motto": "Latin: Postera Crescam Laude",
+      "Motto in English": "\"I shall grow in the esteem of future generations\"",
+      "Type": "Public research university",
+      "Established": "22 January 1853",
+      "Accreditation": "TEQSA",
+      "Academic affiliation": "Group of Eight U21 APRU ACU AOTULE CILECT MISA",
+      "Endowment": "AU$1.287 billion (2022)",
+      "Chancellor": "Jane Hansen",
+      "Vice-Chancellor": "Emma Johnston",
+      "Academic staff": "5,186 (FTE, 2023)",
+      "Administrative staff": "5,328 (FTE, 2023)",
+      "Total staff": "10,514 (FTE, 2023)",
+      "Students": "53,963 (EFTSL, 2023)",
+      "Undergraduates": "27,146 (EFTSL, 2023)",
+      "Postgraduates": "23,113 coursework \u00b7 (EFTSL, 2023) \u00b7 3,703 research \u00b7 (EFTSL, 2023)",
+      "Location": "Melbourne, Victoria, Australia \u00b7 37\u00b047\u203247\u2033S 144\u00b057\u203241\u2033E\ufeff / \ufeff37.7963\u00b0S 144.9614\u00b0E",
+      "Campus": "Urban and regional with multiple sites \u00b7 35.2 hectares (0.35 km2) (Parkville Campus) \u00b7 2,507 hectares (25.1 km2) (Total)",
+      "Colours": "Traditional Heritage \u00b7 Heritage Dark",
+      "Sporting affiliations": "UniSport EAEN UBL",
+      "Mascot": "Barry the Bear",
+      "Website": "unimelb.edu.au"
+    }
+  }
+}

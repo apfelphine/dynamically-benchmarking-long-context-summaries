@@ -1,0 +1,7 @@
+## Cornell University Summary
+
+Cornell University is a large, primarily residential research university accredited by the Middle States Commission on Higher Education since 1921. It operates on a 4–1–4 academic calendar and is classified as an "R1: Doctoral University – Very high research activity." The university is a land-, space-, and sea-grant university and has a diverse student body, with 34.2% of admitted students identifying as underrepresented minorities in Fall 2022. Cornell practices need-blind admission for U.S. applicants.
+
+Academically, Cornell offers numerous international undergraduate majors and provides study abroad opportunities across six continents. The university's research strengths include advancements in nuclear and high-energy physics, and it is known for its strong philosophical research, with the Sage School of Philosophy established in 1891. Cornell maintains an endowment of $10.7 billion. It also operates various off-campus research facilities, including the Shoals Marine Laboratory, and has established international presences, such as the Weill Cornell Medical College in Qatar.
+
+Cornell's main campus is in Ithaca, New York, featuring diverse architectural styles and strong commitment to sustainability. It is governed by a 64-member board of trustees. In addition to its main campus, Cornell has facilities in New York City, including the Cornell Tech campus on Roosevelt Island.

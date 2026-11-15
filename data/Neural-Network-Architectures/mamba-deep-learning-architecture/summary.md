@@ -1,0 +1,1 @@
+Mamba is a deep learning architecture focused on sequence modeling. It was developed by researchers from Carnegie Mellon University and Princeton University to address some limitations of transformer models, especially in processing long sequences. It is based on the structured state space sequence (S4) model.

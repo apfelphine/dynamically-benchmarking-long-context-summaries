@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Algorithms, Programming, and Software Correctness\nEdsger W. Dijkstra contributed fundamental algorithms (shortest-path, Banker's algorithm), advanced concurrency (semaphores, THE operating system), structured programming, and software correctness, earning a Turing Award and shaping modern computer science.",
+        "text_original": "Edsger W. Dijkstra contributed fundamental algorithms (shortest-path, Banker's algorithm), advanced concurrency (semaphores, THE operating system), structured programming, and software correctness, earning a Turing Award and shaping modern computer science",
+        "idx_start": 132,
+        "idx_end": 388
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Artificial Intelligence, Cognitive Science, and Decision Theory\nHerbert A. Simon revolutionized AI, economics, and psychology with bounded rationality and early AI system development, achieving both a Nobel Prize and ACM Turing Award.",
+        "text_original": "Herbert A. Simon revolutionized AI, economics, and psychology with bounded rationality and early AI system development, achieving both a Nobel Prize and ACM Turing Award",
+        "idx_start": 459,
+        "idx_end": 628
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Foundations of Information and Digital Circuits\nClaude Shannon established information theory, digital circuit design, applications of Boolean algebra, and information entropy, influencing cryptography, combinatorics, communications, and drawing from George Boole's logic.",
+        "text_original": "Claude Shannon established information theory, digital circuit design, applications of Boolean algebra, and information entropy, influencing cryptography, combinatorics, communications, and drawing from George Boole's logic",
+        "idx_start": 683,
+        "idx_end": 906
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Operating Systems and Concurrency\nPer Brinch Hansen advanced operating systems and concurrent computing through innovations such as RC 4000, Concurrent Pascal, and the monitor construct, essential for modern system design.",
+        "text_original": "Per Brinch Hansen advanced operating systems and concurrent computing through innovations such as RC 4000, Concurrent Pascal, and the monitor construct, essential for modern system design",
+        "idx_start": 947,
+        "idx_end": 1134
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Programming Theory, Typesetting, and Literate Programming\nDonald Knuth authored \"The Art of Computer Programming,\" invented TeX and METAFONT, revolutionized digital typesetting, and promoted literate programming.",
+        "text_original": "Donald Knuth authored \"The Art of Computer Programming,\" invented TeX and METAFONT, revolutionized digital typesetting, and promoted literate programming",
+        "idx_start": 1199,
+        "idx_end": 1352
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Mathematics, Algebra, and Islamic Science\nAl-Khwarizmi pioneered algebra and contributed to trigonometry, astronomy, and geography, providing enduring foundations in mathematics.",
+        "text_original": "Al-Khwarizmi pioneered algebra and contributed to trigonometry, astronomy, and geography, providing enduring foundations in mathematics",
+        "idx_start": 1401,
+        "idx_end": 1536
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## VLSI Design and Advocacy\nLynn Conway co-led the \"Mead\u2013Conway revolution\" in chip design, helped create MOSIS, shaped EDA and chip foundries, and advocated for transgender inclusion in technology.",
+        "text_original": "Lynn Conway co-led the \"Mead\u2013Conway revolution\" in chip design, helped create MOSIS, shaped EDA and chip foundries, and advocated for transgender inclusion in technology",
+        "idx_start": 1568,
+        "idx_end": 1737
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Modern Logic and Philosophy\nGottlob Frege introduced predicate logic and the sense/reference distinction, founding modern logic and analytic philosophy.",
+        "text_original": "Gottlob Frege introduced predicate logic and the sense/reference distinction, founding modern logic and analytic philosophy",
+        "idx_start": 1772,
+        "idx_end": 1895
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Mathematical Logic and Incompleteness\nKurt G\u00f6del revolutionized mathematical logic through his completeness and incompleteness theorems, affecting set theory, philosophy, and theoretical physics.",
+        "text_original": "Kurt G\u00f6del revolutionized mathematical logic through his completeness and incompleteness theorems, affecting set theory, philosophy, and theoretical physics",
+        "idx_start": 1940,
+        "idx_end": 2096
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Programming, Compilers, and Navy Technology\nGrace Hopper developed the first compiler and COBOL, advanced computer development, and promoted software standards and inclusion of women in computing.",
+        "text_original": "Grace Hopper developed the first compiler and COBOL, advanced computer development, and promoted software standards and inclusion of women in computing",
+        "idx_start": 2147,
+        "idx_end": 2298
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Medieval Engineering and Automation\nIsmail al-Jazari made advances in mechanical engineering with programmable automata, clocks, and gear mechanisms.",
+        "text_original": "Ismail al-Jazari made advances in mechanical engineering with programmable automata, clocks, and gear mechanisms",
+        "idx_start": 2341,
+        "idx_end": 2453
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Microprocessor Innovation and Technology Leadership\nFederico Faggin pioneered silicon gate technology, foundational microprocessors, and innovations in touchpad and image sensor technologies.",
+        "text_original": "Federico Faggin pioneered silicon gate technology, foundational microprocessors, and innovations in touchpad and image sensor technologies",
+        "idx_start": 2512,
+        "idx_end": 2650
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Artificial Intelligence and Neural Networks\nGeoffrey Hinton made breakthroughs in neural networks (backpropagation, Boltzmann machine, capsule networks), brain-inspired models, mentored leading researchers, advocated AI safety, and predicted AGI.",
+        "text_original": "Geoffrey Hinton made breakthroughs in neural networks (backpropagation, Boltzmann machine, capsule networks), brain-inspired models, mentored leading researchers, advocated AI safety, and predicted AGI",
+        "idx_start": 2701,
+        "idx_end": 2902
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Early Polish Computing and Resistance\nJacek Karpi\u0144ski, resistance hero and computer engineer, created innovative machines (AAH, AKAT-1, perceptron, KAR-65, K-202), overcame political barriers, advised leaders, and was posthumously honored in museums.",
+        "text_original": "Jacek Karpi\u0144ski, resistance hero and computer engineer, created innovative machines (AAH, AKAT-1, perceptron, KAR-65, K-202), overcame political barriers, advised leaders, and was posthumously honored in museums",
+        "idx_start": 2947,
+        "idx_end": 3158
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Avant-Garde Music and Technological Innovation\nGeorge Antheil, avant-garde composer, authored influential works and, with Hedy Lamarr, co-invented frequency-hopping radio signals, precursor to modern wireless technology.",
+        "text_original": "George Antheil, avant-garde composer, authored influential works and, with Hedy Lamarr, co-invented frequency-hopping radio signals, precursor to modern wireless technology",
+        "idx_start": 3212,
+        "idx_end": 3384
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Programming Language Design, Formalization, and Education\nKenneth E. Iverson transformed programming languages with APL and J, integrated formal language theory and interactive computing, produced educational resources, authored foundational texts, and earned the Turing Award.",
+        "text_original": "Kenneth E. Iverson transformed programming languages with APL and J, integrated formal language theory and interactive computing, produced educational resources, authored foundational texts, and earned the Turing Award",
+        "idx_start": 3449,
+        "idx_end": 3667
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Ramon Llull: Religious Inquiry, Logic, and Cultural Influence\nRamon Llull (1232/3\u2013c.1316), Majorcan philosopher and missionary, promoted peaceful conversion through education and language studies, succeeded in institutional reforms, and was beatified in 1847. His central work, the \"Art\" (Ars), applied universal logical systems and combinatorial principles with diagrams, influencing manuscript circulation and intellectual revival. Llull\u2019s legacy touches metaphysics, humanism, voting theory, and Catalan literature, inspiring writers, artists, and ongoing scholarship.",
+        "text_original": "Ramon Llull (1232/3\u2013c.1316), Majorcan philosopher and missionary, promoted peaceful conversion through education and language studies, succeeded in institutional reforms, and was beatified in 1847. His central work, the \"Art\" (Ars), applied universal logical systems and combinatorial principles with diagrams, influencing manuscript circulation and intellectual revival. Llull\u2019s legacy touches metaphysics, humanism, voting theory, and Catalan literature, inspiring writers, artists, and ongoing scholarship",
+        "idx_start": 3736,
+        "idx_end": 4244
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Computer Science, Engineering, and Related Fields\n## Mathematical Foundations, Logic, and Legacy\nGeorge Boole (1815\u20131864), mathematician and logician, founded symbolic logic and Boolean algebra, laying key foundations for mathematics, computer science, and digital circuit design. He published influential works and inspired figures such as Claude Shannon, connecting Boolean logic to electronic circuits central to computing. Boole\u2019s legacy spans mathematical, philosophical, and theological reasoning, global influence, and recognition through honors and commemorations. Boole\u2019s family also substantially impacted mathematics, science, literature, and activism: he and Mary Everest had five daughters, whose descendants include notable figures such as Geoffrey Hinton (AI pioneer), Geoffrey Ingram Taylor (mathematician), Leonard Stott (medical innovator), and Ethel Lilian Voynich (author of \"The Gadfly\"), with further contributions in surgery, chemistry, and peace activism.",
+        "text_original": "George Boole (1815\u20131864), mathematician and logician, founded symbolic logic and Boolean algebra, laying key foundations for mathematics, computer science, and digital circuit design. He published influential works and inspired figures such as Claude Shannon, connecting Boolean logic to electronic circuits central to computing. Boole\u2019s legacy spans mathematical, philosophical, and theological reasoning, global influence, and recognition through honors and commemorations. Boole\u2019s family also substantially impacted mathematics, science, literature, and activism: he and Mary Everest had five daughters, whose descendants include notable figures such as Geoffrey Hinton (AI pioneer), Geoffrey Ingram Taylor (mathematician), Leonard Stott (medical innovator), and Ethel Lilian Voynich (author of \"The Gadfly\"), with further contributions in surgery, chemistry, and peace activism",
+        "idx_start": 4295,
+        "idx_end": 5176
+    }
+]

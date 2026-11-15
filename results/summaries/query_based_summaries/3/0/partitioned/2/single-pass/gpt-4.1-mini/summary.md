@@ -1,0 +1,15 @@
+# Deepfake: Overview and Key Information
+
+Deepfake technology involves AI-based creation and manipulation of digital videos, audio, and images to generate hyper-realistic but fabricated representations of individuals. Originating from neural network developments since the 1990s and popularized since 2017, deepfakes use autoencoders and generative adversarial networks (GANs) to superimpose target faces onto original footage. This technology has rapidly evolved, making detection and regulation increasingly challenging.
+
+## Applications and Impacts
+Deepfakes are used for entertainment, satire (e.g., parody videos by Trey Parker and Matt Stone), artistic endeavors (such as AI-generated actors in films), and novel filmmaking techniques (like face-swapping and de-aging). Commercial use includes creating digital clones of actors and personalized training videos. They are also exploited maliciously for political disinformation, blackmail, fraud, scams (including financial and social engineering schemes), non-consensual pornography, and identity masking.
+
+Politically, deepfakes have been used to misrepresent public figures, influence elections, and propagate misinformation (e.g., deepfakes of Barack Obama, Donald Trump, Volodymyr Zelenskyy). They present an epistemic threat by blurring the line between truth and falsehood, undermining public trust and potentially disrupting democratic processes. Additionally, deepfake socks-puppets create entirely fictitious personas to spread propaganda or disinformation.
+
+## Detection, Regulation, and Responses
+Detection efforts span deep learning methods focusing on subtle inconsistencies in videos (like unnatural blinking or light reflections) and audio signal analysis. However, advancing generative techniques continually shift the detection challenge. Initiatives like DARPA’s Media Forensics and industry-led Deepfake Detection Challenges seek to improve identification accuracy.
+
+Social media platforms have responded variably—some ban non-consensual deepfake content, while others opt for labeling content rather than removal, highlighting detection and trust issues. Legislation in multiple countries addresses malicious deepfake use: U.S. states have enacted laws against deepfake impersonations and non-consensual explicit content; the EU’s AI Act adopts a risk-based approach relevant to deepfakes; China mandates labels disclosing synthetic media; and the UK criminalized harmful deepfakes under the Online Safety Act.
+
+Concerns persist over deepfake misuse for harassment, political manipulation, and erosion of information credibility, prompting ongoing calls for enhanced media literacy, regulatory frameworks, technological countermeasures, and public awareness to mitigate risks while exploring the technology’s creative potential.

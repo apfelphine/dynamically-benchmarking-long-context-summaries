@@ -1,0 +1,24 @@
+{
+  "id": 875239,
+  "title": "Harkness Fellowship",
+  "url": "https://en.wikipedia.org/wiki/Harkness_Fellowship",
+  "path": "Scholarships\\harkness-fellowship",
+  "summary": {
+    "chars": 699,
+    "tokens": 132
+  },
+  "document": {
+    "chars": 17621,
+    "tokens": 4612
+  },
+  "infobox": {
+    "title": "Harkness Fellowship",
+    "data": {
+      "Awarded for": "study of healthcare practice and policy in the United States for students from abroad",
+      "Sponsored by": "The Commonwealth Fund",
+      "Formerly called": "The Commonwealth Fellowship",
+      "Established": "1925",
+      "Website": "www.commonweathfund.org"
+    }
+  }
+}

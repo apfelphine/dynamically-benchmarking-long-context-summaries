@@ -1,0 +1,9 @@
+[
+    {
+        "document_idx": null,
+        "text": "Deepfake technology involves the use of AI to create manipulated media, such as altered video images and audio. Academic research in computer vision focuses on developing techniques to both create and identify these deepfakes. The most effective detection methods currently utilize deep-learning algorithms to recognize software-induced artifacts in videos.\nConcerns surrounding deepfakes are multifaceted, covering social, ethical, and informational risks. They pose an \"epistemic threat\" by eroding trust in media, potentially allowing for the dissemination of disinformation, and being used for harmful applications such as pornography without consent, financial scams, and political manipulation. Countermeasures being explored include detection software, digital signing of media by cameras, and promoting media literacy among the public.",
+        "text_original": "Deepfake technology involves the use of AI to create manipulated media, such as altered video images and audio. Academic research in computer vision focuses on developing techniques to both create and identify these deepfakes. The most effective detection methods currently utilize deep-learning algorithms to recognize software-induced artifacts in videos.\n\nConcerns surrounding deepfakes are multifaceted, covering social, ethical, and informational risks. They pose an \"epistemic threat\" by eroding trust in media, potentially allowing for the dissemination of disinformation, and being used for harmful applications such as pornography without consent, financial scams, and political manipulation. Countermeasures being explored include detection software, digital signing of media by cameras, and promoting media literacy among the public",
+        "idx_start": 0,
+        "idx_end": 843
+    }
+]

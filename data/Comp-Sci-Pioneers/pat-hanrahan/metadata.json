@@ -1,0 +1,25 @@
+{
+  "id": 5776406,
+  "title": "Pat Hanrahan",
+  "url": "https://en.wikipedia.org/wiki/Pat_Hanrahan",
+  "path": "Comp-Sci-Pioneers\\pat-hanrahan",
+  "summary": {
+    "chars": 407,
+    "tokens": 75
+  },
+  "document": {
+    "chars": 3165,
+    "tokens": 655
+  },
+  "infobox": {
+    "title": "Pat Hanrahan",
+    "data": {
+      "Born": "May 8, 1955 \u00b7 Milwaukee, Wisconsin, U.S.",
+      "Education": "University of Wisconsin, Madison (BS, MS, PhD)",
+      "Fields": "Computer graphics",
+      "Institutions": "New York Institute of Technology \u00b7 Stanford University \u00b7 Princeton University \u00b7 Pixar",
+      "Doctoral advisor": "Antony Stretton",
+      "Doctoral students": "Maneesh Agrawala, Ren Ng, Matt Pharr, Tamara Munzner, Peter Schr\u00f6der"
+    }
+  }
+}

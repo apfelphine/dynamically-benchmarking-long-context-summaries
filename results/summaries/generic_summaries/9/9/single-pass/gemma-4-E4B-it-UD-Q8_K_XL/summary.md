@@ -1,0 +1,16 @@
+# Global Overview of Education Systems
+
+## Compulsory Education Timelines and Structure
+Education systems across various nations feature distinct timelines for mandatory schooling. In **Canada**, compulsory education was introduced provincially between 1871 (Ontario) and 1943 (Quebec). **Poland** mandates primary school attendance starting at age seven (or six with parental consent), which was extended to eight years after the 2017 reforms. **Mexico**'s compulsory education includes primary (grades 1–6) and junior high school (grades 7–9), with high school recently made compulsory.
+
+## Educational Levels and Progression
+The structure of education varies significantly globally. **South Korea** follows a 6-4-3-4 model (Primary, Middle, High School, College/University). **Japan** has a compulsory system of six years of elementary and three years of lower secondary school, followed by non-compulsory upper secondary. In **the Netherlands**, education is stratified into VMBO (pre-vocational), HAVO, and VWO levels, with a bridge class connecting primary to secondary education. **Russia** maintains separate general and professional education tracks, with compulsory general education lasting nine years.
+
+## Higher and Vocational Education
+Tertiary education pathways differ across countries. **Canada** offers degrees through universities and vocational institutions, with provincial control over most matters. **South Korea** has a highly competitive, university-centric system, with industrial and community colleges offering professional certifications. **The Netherlands** utilizes three routes post-secondary: MBO (applied), HBO (professional), and WO (scientific research). **Saudi Arabia** emphasizes religious content, with public universities offering various degrees, and specialized women's universities existing.
+
+## Quality, Funding, and Challenges
+Educational quality and systemic challenges are widespread. **South Korea** exhibits intense competition driven by high investment, leading to immense academic pressure. **Mexico** faces criticism regarding infrastructure deficits, resulting in low secondary completion rates. **Pakistan** struggles with low overall literacy (60.65% in 2023) and deep gender disparity, with many relying on Madrasas for education. **New Zealand** has strong state funding, but international assessments have shown declining standards in mathematics.
+
+## Diversity and Specific Topics
+Systems show great variation in inclusion and philosophy. **Canada**'s Charter of Rights and Freedoms allows for race or gender-based programs to improve disadvantaged groups. **Saudi Arabia** maintains a heavy religious focus, though reforms aim to increase science and arts. **Japan** heavily relies on "shadow education" ($\text{juku}$) to prepare for highly selective university entrance exams. In **Bangladesh**, the system accommodates both Bengali and English mediums, alongside specialized Alia and Qawmi Madrasas. **South Korea** is actively integrating Meister Schools to combat the stigma against vocational careers.

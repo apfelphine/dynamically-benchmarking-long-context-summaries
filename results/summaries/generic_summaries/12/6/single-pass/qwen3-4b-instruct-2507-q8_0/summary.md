@@ -1,0 +1,23 @@
+The text provides detailed information on various international scholarships and awards, highlighting their historical origins, selection criteria, impact, and notable recipients. Key entries include:
+
+- **New Daughters of Africa** by Margaret Busby: A groundbreaking anthology featuring over 200 women of African descent, praised for its literary significance and role in showcasing marginalized voices. It inspired a companion volume, **New Daughters of Africa (2019)**, which expands on generational links and includes contemporary writers. The latter was linked to the **Margaret Busby New Daughters of Africa Award**, which supports African women students and was funded through contributions from the publisher and scholars.
+
+- **Harkness Fellowship**: A prestigious U.S. health policy fellowship established in 1925, now focused solely on health care. It supports fellows in research and policy development across the globe.
+
+- **Rhodes Scholarship**: A global program established in 1902 to promote peace and understanding through education. It is highly selective and has faced criticism over its historical exclusion of women and Black Africans. The program has evolved, with women now eligible since 1977.
+
+- **Fulbright Program**: A U.S.-led international exchange program promoting mutual understanding through education and cultural exchange. It has faced scrutiny over political interference and controversies related to its selection process.
+
+- **Marshall Scholarship**: A U.S.-UK program established in 1953 to foster academic and cultural exchange. It is comparable in selectivity to the Rhodes Scholarship and has produced many influential leaders in public service, academia, and international relations.
+
+- **UNCF (United Negro College Fund)**: A nonprofit supporting historically Black colleges and universities (HBCUs), providing scholarships to African American students and promoting educational equity.
+
+- **Bright Futures Scholarship Program (Florida)**: A state-based merit-based scholarship with academic and vocational tracks. It has undergone significant reforms due to criticism over racial bias and funding cuts.
+
+- **King's Scholar**: A tradition at several British institutions (Eton, Westminster, King's College Cambridge, and King's Schools) where students are selected through competitive examinations and awarded scholarships or privileges.
+
+- **Norway Scholarship**: A long-standing program enabling Norwegian students to study at Wadham College, Oxford, established in 1919 and supported by a foundation raised by Arthur Jayne.
+
+- **Kennedy Scholarship**: A memorial to President John F. Kennedy, offering scholarships to study at Harvard or MIT. It emphasizes intellectual excellence and public service, with many notable alumni in politics, economics, and academia.
+
+The summaries emphasize the role of these scholarships in promoting diversity, equity, and global understanding, while also addressing ongoing challenges such as access, bias, and political influence.

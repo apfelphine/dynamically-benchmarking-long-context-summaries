@@ -1,0 +1,14 @@
+# Global Higher Education Landscape
+
+**North America and Oceania**
+North American universities display a blend of historic prestige and modern research intensity. In the US, **Harvard University** leads as the top-ranked R1 research institution, renowned for its medical school funding and NCAA athletics, while **Boston College** upholds a strong Jesuit residential model. In Canada, the **University of Western Ontario (UWO)** is a publicly funded research hub facing recent controversies regarding sexual violence and party culture, yet it maintains a robust shared governance structure with over 220 student clubs.
+
+In Oceania, the **University of Auckland** in New Zealand has expanded globally despite internal challenges, including governance disputes, a 2024 rent strike, and legal rulings on student safety. Similarly, the **University of Sydney** in Australia, established in 1850, is undergoing a $1.4 billion improvement plan to address equity and sustainability while managing widespread student dissatisfaction and staff disputes over workload protections.
+
+**Asia, Europe, and the Middle East**
+**Peking University** in China has evolved into a global research powerhouse, ranking 14th globally in 2025 and blending traditional gardens with modern dual-degree partnerships. In Europe, **Lund University** remains Scandinavia's oldest institution, celebrated for innovations like Bluetooth and a legacy of inclusivity, while **Imperial College London** and **The University of Manchester** lead the UK with significant endowments, skilled employment outcomes, and notable student protests regarding housing.
+
+**The University of Jordan** operates across two campuses in the Middle East, offering 221 programs in ABET and AACSB-accredited fields and maintaining academic autonomy. Meanwhile, **RMIT** in Australia continues its transformation from a technical college into a major public university with international campuses, and **São Paulo State University (UNESP)** in Brazil has grown into a significant academic hub managing critical infrastructure and leading in bioenergy research.
+
+**Latin America and New Academic Hubs**
+The **University of the Andes** in Bogotá, Colombia, has expanded from a small nonsectarian institution into a major academic hub valued at over $426 million, modeled after American universities with a focus on interdisciplinary excellence and notable alumni. Other emerging institutions include **RMIT**, which maintains a strong reputation for applied research in design and sustainability, and **UNESP**, which expanded its infrastructure to support high rankings in nanotechnology and bioenergy.

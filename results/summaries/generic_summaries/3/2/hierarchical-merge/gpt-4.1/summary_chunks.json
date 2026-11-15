@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Terminator Franchise Evolution\n*Terminator: Dark Fate* serves as a direct sequel to *Terminator 2: Judgment Day* , introducing new figures like Legion and Dani Ramos alongside core characters Sarah Connor and the T-800. Despite acclaimed action sequences and creative guidance from James Cameron and Tim Miller, the film\u2019s financial underperformance halted further sequels and fueled controversy over its narrative choices. As of 2023, efforts to revive the franchise continued, reflecting evolving public interest in its portrayal of AI-driven futures.",
+        "text_original": "Terminator: Dark Fate* serves as a direct sequel to *Terminator 2: Judgment Day*, introducing new figures like Legion and Dani Ramos alongside core characters Sarah Connor and the T-800. Despite acclaimed action sequences and creative guidance from James Cameron and Tim Miller, the film\u2019s financial underperformance halted further sequels and fueled controversy over its narrative choices. As of 2023, efforts to revive the franchise continued, reflecting evolving public interest in its portrayal of AI-driven futures",
+        "idx_start": 36,
+        "idx_end": 555
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics, Regulation, and Societal Impact of Artificial Intelligence\nDebates on AI ethics center around transparency, accountability, and dignity, with enduring concerns over algorithmic bias, deceptive practices, and misuse\u2014particularly in generative models and deepfakes. Regulatory frameworks like the EU\u2019s AI Act, GDPR, and growing US initiatives aim to address data protection, bias, and misuse, though practical implementation often faces administrative complications and uneven enforcement. The societal impacts\u2014including risks to privacy, misinformation, democracy, and labor\u2014are driving broader calls for responsible innovation, unified legislation, and stakeholder engagement.",
+        "text_original": "Debates on AI ethics center around transparency, accountability, and dignity, with enduring concerns over algorithmic bias, deceptive practices, and misuse\u2014particularly in generative models and deepfakes. Regulatory frameworks like the EU\u2019s AI Act, GDPR, and growing US initiatives aim to address data protection, bias, and misuse, though practical implementation often faces administrative complications and uneven enforcement. The societal impacts\u2014including risks to privacy, misinformation, democracy, and labor\u2014are driving broader calls for responsible innovation, unified legislation, and stakeholder engagement",
+        "idx_start": 629,
+        "idx_end": 1245
+    },
+    {
+        "document_idx": null,
+        "text": "# Philosophies of Transhumanism, Accelerationism, and Technological Singularity\nTranshumanism advocates for voluntary enhancement of human capabilities through technology, urging inclusivity and distancing itself from coercive approaches. Accelerationism pushes for rapid tech-driven societal change, invoking AI and posthumanism but facing criticism for its ethical and social blind spots. Discourse on the technological singularity\u2014when AI may surpass human intelligence\u2014raises concerns over alignment challenges, superintelligence risks, unemployment, and shifting human incentives. These topics fuel philosophical and practical debates about mind uploading, digital immortality, and the governance of transformative technologies.",
+        "text_original": "Transhumanism advocates for voluntary enhancement of human capabilities through technology, urging inclusivity and distancing itself from coercive approaches. Accelerationism pushes for rapid tech-driven societal change, invoking AI and posthumanism but facing criticism for its ethical and social blind spots. Discourse on the technological singularity\u2014when AI may surpass human intelligence\u2014raises concerns over alignment challenges, superintelligence risks, unemployment, and shifting human incentives. These topics fuel philosophical and practical debates about mind uploading, digital immortality, and the governance of transformative technologies",
+        "idx_start": 1330,
+        "idx_end": 1982
+    },
+    {
+        "document_idx": null,
+        "text": "# John L. Pollock: Defeasible Reasoning and AI Contributions\nJohn L. Pollock was a foundational figure in epistemology and AI, renowned for developing defeasible reasoning\u2014systems capable of updating or retracting conclusions with new evidence. His concepts of \u201cundercutting\u201d and \u201crebutting defeat\u201d influenced AI logic architectures such as OSCAR, and advanced understanding through theories like nomic probability. Pollock\u2019s interdisciplinary work, bridging philosophy, mathematics, and computer science, continues to inform contemporary approaches to rational inference, uncertainty, and AI safety.",
+        "text_original": "John L. Pollock was a foundational figure in epistemology and AI, renowned for developing defeasible reasoning\u2014systems capable of updating or retracting conclusions with new evidence. His concepts of \u201cundercutting\u201d and \u201crebutting defeat\u201d influenced AI logic architectures such as OSCAR, and advanced understanding through theories like nomic probability. Pollock\u2019s interdisciplinary work, bridging philosophy, mathematics, and computer science, continues to inform contemporary approaches to rational inference, uncertainty, and AI safety",
+        "idx_start": 2048,
+        "idx_end": 2586
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs): Overview, Architectures, and Applications\nGANs utilize a generator-discriminator minimax framework for complex data modeling, featuring advanced architectures like Wasserstein GANs and StyleGAN-2-ADA that enhance training stability. Optimizations in data augmentation and evaluation metrics (Inception Score, Fr\u00e9chet Inception Distance, LPIPS) have improved performance. GAN variants\u2014including conditional GANs, DCGANs, SAGANs, VAEGANs, TransGANs, Flow-GANs, BigGANs, InfoGAN, CycleGAN, SinGAN, and StyleGAN\u2014support multimodal synthesis and cross-domain translation, impacting science, medicine, art, privacy, and climate modeling.",
+        "text_original": "GANs utilize a generator-discriminator minimax framework for complex data modeling, featuring advanced architectures like Wasserstein GANs and StyleGAN-2-ADA that enhance training stability. Optimizations in data augmentation and evaluation metrics (Inception Score, Fr\u00e9chet Inception Distance, LPIPS) have improved performance. GAN variants\u2014including conditional GANs, DCGANs, SAGANs, VAEGANs, TransGANs, Flow-GANs, BigGANs, InfoGAN, CycleGAN, SinGAN, and StyleGAN\u2014support multimodal synthesis and cross-domain translation, impacting science, medicine, art, privacy, and climate modeling",
+        "idx_start": 86,
+        "idx_end": 674
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformers: Vision, Multimodal AI, and Technical Advances\nTransformers leverage self-attention and multi-head attention, outperforming RNNs and LSTMs in computer vision (ViT), multimodal AI (DALL-E, Phenaki, Muse, Parti, LLaVA), speech (Whisper), NLP (GPT, BERT), and code generation. Innovations like self-supervised learning, efficient attention (FlashAttention, Reformer, BigBird, Performer), improved activations (SwiGLU, GELU, RMSNorm, CapsuleNorm), advanced tokenization, normalization, positional encoding, and residual connections, aided by frameworks such as Hugging Face, drive their success.",
+        "text_original": "Transformers leverage self-attention and multi-head attention, outperforming RNNs and LSTMs in computer vision (ViT), multimodal AI (DALL-E, Phenaki, Muse, Parti, LLaVA), speech (Whisper), NLP (GPT, BERT), and code generation. Innovations like self-supervised learning, efficient attention (FlashAttention, Reformer, BigBird, Performer), improved activations (SwiGLU, GELU, RMSNorm, CapsuleNorm), advanced tokenization, normalization, positional encoding, and residual connections, aided by frameworks such as Hugging Face, drive their success",
+        "idx_start": 741,
+        "idx_end": 1284
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Networks (CNNs): Principles and Uses\nCNNs extract spatial hierarchies using convolution, pooling, activation, and dense layers, and can be extended with transfer learning and 3D volumes. Applications span image/video analysis, NLP, anomaly detection, drug discovery, and forecasting, supported by cross-validation and hyperparameter tuning.",
+        "text_original": "CNNs extract spatial hierarchies using convolution, pooling, activation, and dense layers, and can be extended with transfer learning and 3D volumes. Applications span image/video analysis, NLP, anomaly detection, drug discovery, and forecasting, supported by cross-validation and hyperparameter tuning",
+        "idx_start": 1349,
+        "idx_end": 1651
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoders and Variants: Fundamentals and Applications\nAutoencoders provide unsupervised learning, dimensionality reduction, and feature extraction for tasks like image compression, denoising, super-resolution, medical imaging, molecular generation (VAEs), popularity prediction, and robust communications. Key types include:\n- **Variational Autoencoders (VAE):** Probabilistic latent modeling.\n- **Sparse Autoencoders (SAE):** Sparse feature learning.\n- **Denoising Autoencoders (DAE):** Robust reconstruction.\n- **Contractive, MDL-AE, Concrete Autoencoders:** Specialized for resilience, compression, and feature selection.\nAutoencoders facilitate semantic retrieval, anomaly detection, and hippocampus-inspired models, though unsupervised reliability may vary. Their basis in \"identity mapping\" and self-supervised backpropagation underpins modern generative modeling.",
+        "text_original": "Autoencoders provide unsupervised learning, dimensionality reduction, and feature extraction for tasks like image compression, denoising, super-resolution, medical imaging, molecular generation (VAEs), popularity prediction, and robust communications. Key types include:\n- **Variational Autoencoders (VAE):** Probabilistic latent modeling.\n- **Sparse Autoencoders (SAE):** Sparse feature learning.\n- **Denoising Autoencoders (DAE):** Robust reconstruction.\n- **Contractive, MDL-AE, Concrete Autoencoders:** Specialized for resilience, compression, and feature selection.\n\nAutoencoders facilitate semantic retrieval, anomaly detection, and hippocampus-inspired models, though unsupervised reliability may vary. Their basis in \"identity mapping\" and self-supervised backpropagation underpins modern generative modeling",
+        "idx_start": 1715,
+        "idx_end": 2531
+    },
+    {
+        "document_idx": null,
+        "text": "# Explainability in Vision Models\nInterpretability methods such as Grad-CAM, Grad-CAM++, Score-CAM, and LayerCAM provide visual explanations for vision model predictions.",
+        "text_original": "Interpretability methods such as Grad-CAM, Grad-CAM++, Score-CAM, and LayerCAM provide visual explanations for vision model predictions",
+        "idx_start": 2570,
+        "idx_end": 2705
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Networks: Memory and Neural Attention\nHopfield Networks deliver associative memory via symmetric connections and energy minimization, with learning methods like Hebbian and Storkey expanding memory capacity and inspiring neural attention approaches.",
+        "text_original": "Hopfield Networks deliver associative memory via symmetric connections and energy minimization, with learning methods like Hebbian and Storkey expanding memory capacity and inspiring neural attention approaches",
+        "idx_start": 2759,
+        "idx_end": 2969
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Networks (GNNs): Principles and Applications\nGNNs use permutation equivariant message passing and spectral convolutions for node/graph classification, with enhancements like skip connections, local pooling, and attention. Applications include protein folding, social networks, optimization, cybersecurity, water management, vision, and NLP.",
+        "text_original": "GNNs use permutation equivariant message passing and spectral convolutions for node/graph classification, with enhancements like skip connections, local pooling, and attention. Applications include protein folding, social networks, optimization, cybersecurity, water management, vision, and NLP",
+        "idx_start": 3034,
+        "idx_end": 3328
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Networks (RNNs): Architectures, Training, and Applications\nRNNs\u2014encompassing LSTM, GRU, Elman/Jordan networks, BAM, Echo State Networks, Neural Turing Machines, and DNC\u2014specialize in sequential data tasks. Training methods (teacher forcing, BPTT, RTRL/CRBP, evolutionary) enable translation, prediction, speech synthesis, and time series analysis across frameworks.",
+        "text_original": "RNNs\u2014encompassing LSTM, GRU, Elman/Jordan networks, BAM, Echo State Networks, Neural Turing Machines, and DNC\u2014specialize in sequential data tasks. Training methods (teacher forcing, BPTT, RTRL/CRBP, evolutionary) enable translation, prediction, speech synthesis, and time series analysis across frameworks",
+        "idx_start": 3411,
+        "idx_end": 3716
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Networks (RBFNs): Architecture, Training, and Applications\nRBF networks are universal approximators for continuous functions, featuring input layers, hidden radial basis functions (often Gaussian) with centers selected via clustering or sampling, and a linear output layer. Widths are set based on inter-center distances, and weights are trained via pseudoinverse, gradient descent, projection operator, or algebraic methods\u2014with regularization for smoothness. RBFs may use normalized or unnormalized basis functions, where normalization improves accuracy for higher-dimensional inputs and provides probabilistic interpretation. RBFNs are used for function approximation, time series prediction, and chaotic system control. In chaotic time series prediction, accuracy decreases with time due to sensitivity to initial conditions (Lyapunov exponent). For control tasks, RBFNs adapt a control parameter based on learned dynamics to steer outputs toward desired targets. Backpropagation can further optimize parameters for low-error predictions.",
+        "text_original": "RBF networks are universal approximators for continuous functions, featuring input layers, hidden radial basis functions (often Gaussian) with centers selected via clustering or sampling, and a linear output layer. Widths are set based on inter-center distances, and weights are trained via pseudoinverse, gradient descent, projection operator, or algebraic methods\u2014with regularization for smoothness. RBFs may use normalized or unnormalized basis functions, where normalization improves accuracy for higher-dimensional inputs and provides probabilistic interpretation. RBFNs are used for function approximation, time series prediction, and chaotic system control. In chaotic time series prediction, accuracy decreases with time due to sensitivity to initial conditions (Lyapunov exponent). For control tasks, RBFNs adapt a control parameter based on learned dynamics to steer outputs toward desired targets. Backpropagation can further optimize parameters for low-error predictions",
+        "idx_start": 3804,
+        "idx_end": 4786
+    }
+]

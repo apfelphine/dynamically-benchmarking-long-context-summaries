@@ -1,0 +1,107 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Science and Technology\n## Charles Babbage\nBabbage was a pioneering figure whose early life and education were marked by intellectual curiosity, fostered by the library at Holmwood Academy. After attending Cambridge, he achieved early recognition, becoming a Fellow of the Royal Society in 1816. His interest in mechanization led to the founding of the Royal Astronomical Society in 1820.\nHis most significant work involved the Difference Engine and the Analytical Engine, which represented early mechanical and general-purpose computation, respectively. Furthermore, Babbage contributed to the field of operational research with *On the Economy of Machinery and Manufactures* . In later life, he was also deeply engaged in natural theology, proposing the 'library in the air' concept.",
+        "text_original": "Babbage was a pioneering figure whose early life and education were marked by intellectual curiosity, fostered by the library at Holmwood Academy. After attending Cambridge, he achieved early recognition, becoming a Fellow of the Royal Society in 1816. His interest in mechanization led to the founding of the Royal Astronomical Society in 1820.\n\nHis most significant work involved the Difference Engine and the Analytical Engine, which represented early mechanical and general-purpose computation, respectively. Furthermore, Babbage contributed to the field of operational research with *On the Economy of Machinery and Manufactures*. In later life, he was also deeply engaged in natural theology, proposing the 'library in the air' concept",
+        "idx_start": 60,
+        "idx_end": 801
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Science and Technology\n## Ada Lovelace\nLovelace became fascinated by Charles Babbage's Analytical Engine, augmenting Luigi Menabrea's French transcription with her own extensive notes (Notes A-G). This work is considered by some scholars to be the first published computer program, as her notes detailed an algorithm for calculating Bernoulli numbers.\nLovelace was crucial in recognizing the Analytical Engine's potential beyond mere calculation, realizing it could manipulate symbols to represent any entity, a foundational concept of general-purpose computation. Her contributions have led to numerous commemorations, including the \"Ada Lovelace Day.\"",
+        "text_original": "Lovelace became fascinated by Charles Babbage's Analytical Engine, augmenting Luigi Menabrea's French transcription with her own extensive notes (Notes A-G). This work is considered by some scholars to be the first published computer program, as her notes detailed an algorithm for calculating Bernoulli numbers.\n\nLovelace was crucial in recognizing the Analytical Engine's potential beyond mere calculation, realizing it could manipulate symbols to represent any entity, a foundational concept of general-purpose computation. Her contributions have led to numerous commemorations, including the \"Ada Lovelace Day",
+        "idx_start": 820,
+        "idx_end": 1433
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Science and Technology\n## Alan Turing\nTuring was a leading participant in breaking German ciphers at Bletchley Park, where he designed the bombe and developed statistical procedures like Banburismus for cryptanalysis. His theoretical work, \"On Computable Numbers\" (1936), introduced the Turing machine, proving that no algorithm could solve the Entscheidungsproblem.\nTuring also made seminal contributions to artificial intelligence, proposing the Turing test as a standard for machine intelligence. Later, his research in mathematical biology resulted in his 1952 paper, \"The Chemical Basis of Morphogenesis,\" which introduced the concept of reaction-diffusion systems.",
+        "text_original": "Turing was a leading participant in breaking German ciphers at Bletchley Park, where he designed the bombe and developed statistical procedures like Banburismus for cryptanalysis. His theoretical work, \"On Computable Numbers\" (1936), introduced the Turing machine, proving that no algorithm could solve the Entscheidungsproblem.\n\nTuring also made seminal contributions to artificial intelligence, proposing the Turing test as a standard for machine intelligence. Later, his research in mathematical biology resulted in his 1952 paper, \"The Chemical Basis of Morphogenesis,\" which introduced the concept of reaction-diffusion systems",
+        "idx_start": 1452,
+        "idx_end": 2084
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Science and Technology\n## Blaise Pascal\nPascal was a gifted mathematician and physicist. In the realm of mathematics, he and Pierre de Fermat initiated the mathematical theory of probability through correspondence over gambling problems. He also created Pascal's triangle and defined the principle of mathematical induction.\nIn physics, Pascal made crucial contributions to fluid dynamics, leading to the SI unit of pressure (Pascal's law), and was instrumental in demonstrating the existence of a vacuum through his experiments with the barometer and air pressure at altitude.",
+        "text_original": "Pascal was a gifted mathematician and physicist. In the realm of mathematics, he and Pierre de Fermat initiated the mathematical theory of probability through correspondence over gambling problems. He also created Pascal's triangle and defined the principle of mathematical induction.\n\nIn physics, Pascal made crucial contributions to fluid dynamics, leading to the SI unit of pressure (Pascal's law), and was instrumental in demonstrating the existence of a vacuum through his experiments with the barometer and air pressure at altitude",
+        "idx_start": 2104,
+        "idx_end": 2641
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Science and Technology\n## Leonardo Torres Quevedo\nTorres was a prolific inventor known for his contributions to civil engineering and computation. He pioneered cableway technology, including the successful Niagara Spanish Aerocar.\nIn computation, he developed algebraic calculating machines and, most notably, wrote \"Essays on Automatics\" (1915), which outlined a theoretical, general-purpose electromechanical computer. He also invented the Telekino, one of the first known examples of a radio-controlled unmanned ground vehicle.",
+        "text_original": "Torres was a prolific inventor known for his contributions to civil engineering and computation. He pioneered cableway technology, including the successful Niagara Spanish Aerocar.\n\nIn computation, he developed algebraic calculating machines and, most notably, wrote \"Essays on Automatics\" (1915), which outlined a theoretical, general-purpose electromechanical computer. He also invented the Telekino, one of the first known examples of a radio-controlled unmanned ground vehicle",
+        "idx_start": 2671,
+        "idx_end": 3151
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Science and Technology\n## Vannevar Bush\nBush had a distinguished career spanning engineering, research administration, and science policy. He invented the \"profile tracer\" and later designed a differential analyzer, an early analog computer.\nHis most visionary work was the essay \"As We May Think\" (1945), which introduced the concept of the memex, a precursor to the World Wide Web, and highlighted the need for information management due to scientific data overload. During WWII, he was critical in establishing the NDRC and later the OSRD, guiding U.S. wartime science.",
+        "text_original": "Bush had a distinguished career spanning engineering, research administration, and science policy. He invented the \"profile tracer\" and later designed a differential analyzer, an early analog computer.\n\nHis most visionary work was the essay \"As We May Think\" (1945), which introduced the concept of the memex, a precursor to the World Wide Web, and highlighted the need for information management due to scientific data overload. During WWII, he was critical in establishing the NDRC and later the OSRD, guiding U.S. wartime science",
+        "idx_start": 3171,
+        "idx_end": 3703
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Science and Technology\n## Richard Stallman\nStallman is a leading figure in the free software movement. After experiencing proprietary software restrictions at MIT, he launched the GNU project in 1983 to create a free operating system compatible with Unix.\nHe championed the philosophy of software freedom, advocating for \"reduced copyright\" and opposing digital rights management (DRM). His work and the GNU/Linux system have fundamentally shaped modern computing culture.",
+        "text_original": "Stallman is a leading figure in the free software movement. After experiencing proprietary software restrictions at MIT, he launched the GNU project in 1983 to create a free operating system compatible with Unix.\n\nHe championed the philosophy of software freedom, advocating for \"reduced copyright\" and opposing digital rights management (DRM). His work and the GNU/Linux system have fundamentally shaped modern computing culture",
+        "idx_start": 3726,
+        "idx_end": 4155
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Science and Technology\n## Philip Rubin\nRubin's research spans embodied cognition, speech production, and signal processing. He is best known for his work on articulatory synthesis, designing computational models like ASY and CASY to simulate speech.\nTheoretically, he introduced a dynamical systems/action theory perspective on speech, focusing on the spatiotemporal coordination of global aspects of the system rather than momentary cues. He has also held high-level roles in science policy, including at the NSF and OSTP.",
+        "text_original": "Rubin's research spans embodied cognition, speech production, and signal processing. He is best known for his work on articulatory synthesis, designing computational models like ASY and CASY to simulate speech.\n\nTheoretically, he introduced a dynamical systems/action theory perspective on speech, focusing on the spatiotemporal coordination of global aspects of the system rather than momentary cues. He has also held high-level roles in science policy, including at the NSF and OSTP",
+        "idx_start": 4174,
+        "idx_end": 4658
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Science and Technology\n## Hedy Lamarr\nLamarr achieved international fame as a Hollywood actress, renowned for her beauty and glamorous roles, though her career was marked by typecasting as a seductress. During her time with arms dealer Fritz Mandl, she conceived, along with composer George Antheil, a frequency-hopping spread spectrum technology to prevent torpedo jamming.\nDespite the Navy's initial rejection, this invention, later patented, is recognized as a crucial precursor to modern wireless security technology.",
+        "text_original": "Lamarr achieved international fame as a Hollywood actress, renowned for her beauty and glamorous roles, though her career was marked by typecasting as a seductress. During her time with arms dealer Fritz Mandl, she conceived, along with composer George Antheil, a frequency-hopping spread spectrum technology to prevent torpedo jamming.\n\nDespite the Navy's initial rejection, this invention, later patented, is recognized as a crucial precursor to modern wireless security technology",
+        "idx_start": 4676,
+        "idx_end": 5159
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Science and Technology\n## Alfred North Whitehead\nWhitehead's philosophy is characterized by his process metaphysics, which rejects the notion of irreducible, unchanging matter in favor of reality as interrelated events. He introduced the concept of \"prehension\" to describe perception as an incorporation of the perceived into the perceiver.\nHe developed a concept of God as \"dipolar,\" where the primordial nature represents infinite potentiality, and the consequent nature is God's reception of the world's activity. His work has influenced ecology, economics, and education theory.",
+        "text_original": "Whitehead's philosophy is characterized by his process metaphysics, which rejects the notion of irreducible, unchanging matter in favor of reality as interrelated events. He introduced the concept of \"prehension\" to describe perception as an incorporation of the perceived into the perceiver.\n\nHe developed a concept of God as \"dipolar,\" where the primordial nature represents infinite potentiality, and the consequent nature is God's reception of the world's activity. His work has influenced ecology, economics, and education theory",
+        "idx_start": 5188,
+        "idx_end": 5722
+    },
+    {
+        "document_idx": null,
+        "text": "# Contemporary and Miscellaneous Figures\n## Stephen Hawking\n*No detailed summary was provided for Stephen Hawking in the input text.*",
+        "text_original": "No detailed summary was provided for Stephen Hawking in the input text",
+        "idx_start": 5787,
+        "idx_end": 5857
+    },
+    {
+        "document_idx": null,
+        "text": "# Contemporary and Miscellaneous Figures\n## John von Neumann\n*No detailed summary was provided for John von Neumann in the input text.*",
+        "text_original": "No detailed summary was provided for John von Neumann in the input text",
+        "idx_start": 5882,
+        "idx_end": 5953
+    },
+    {
+        "document_idx": null,
+        "text": "# Contemporary and Miscellaneous Figures\n## Karl Marx\nMarx argued that the source of factory system productivity is the combination of labor division and machinery, building upon Smith, Babbage, and Ure. He disagreed with Babbage and Smith on the manufacturer's motivation for dividing labor, arguing it was for productivity rather than profitability.",
+        "text_original": "Marx argued that the source of factory system productivity is the combination of labor division and machinery, building upon Smith, Babbage, and Ure. He disagreed with Babbage and Smith on the manufacturer's motivation for dividing labor, arguing it was for productivity rather than profitability",
+        "idx_start": 5970,
+        "idx_end": 6266
+    },
+    {
+        "document_idx": null,
+        "text": "# Contemporary and Miscellaneous Figures\n## Russell and Whitehead\nWhitehead and Bertrand Russell co-authored *Principia Mathematica* (1910\u20131913), aiming to prove all mathematical truths from a set of axioms in symbolic logic. While this work is seminal to mathematical logic, it was ultimately undermined by G\u00f6del's incompleteness theorem.",
+        "text_original": "Whitehead and Bertrand Russell co-authored *Principia Mathematica* (1910\u20131913), aiming to prove all mathematical truths from a set of axioms in symbolic logic. While this work is seminal to mathematical logic, it was ultimately undermined by G\u00f6del's incompleteness theorem",
+        "idx_start": 6294,
+        "idx_end": 6566
+    },
+    {
+        "document_idx": null,
+        "text": "# Contemporary and Miscellaneous Figures\n## George Orwell\n*No detailed summary was provided for George Orwell in the input text.*",
+        "text_original": "No detailed summary was provided for George Orwell in the input text",
+        "idx_start": 6587,
+        "idx_end": 6655
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "id": 1041698,
+  "title": "Sergey Lebedev (scientist)",
+  "url": "https://en.wikipedia.org/wiki/Sergey_Lebedev_(scientist)",
+  "path": "Comp-Sci-Pioneers\\sergey-lebedev-scientist",
+  "summary": {
+    "chars": 229,
+    "tokens": 73
+  },
+  "document": {
+    "chars": 2646,
+    "tokens": 574
+  },
+  "infobox": {
+    "title": "Sergey Lebedev",
+    "data": {
+      "Born": "Sergei Alekseyevich Lebedev \u00b7 2 November [O.S. 20 October] 1902 \u00b7 Nizhny Novgorod, Russian Empire",
+      "Died": "3 July 1974 (aged 71) \u00b7 Moscow, Soviet Union",
+      "Alma mater": "Bauman Moscow State Technical University",
+      "Known for": "MESM \u00b7 BESM",
+      "Fields": "electrical engineering, computer science",
+      "Institutions": "National Academy of Sciences of Ukraine \u00b7 Kiev Electrotechnical Institute \u00b7 Moscow Institute of Physics and Technology \u00b7 Institute of Precision Mechanics and Computer Engineering",
+      "Doctoral students": "Lev Korolyov"
+    }
+  }
+}

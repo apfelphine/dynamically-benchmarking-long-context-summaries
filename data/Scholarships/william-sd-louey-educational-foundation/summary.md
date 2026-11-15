@@ -1,0 +1,1 @@
+The William S.D. Louey Educational Foundation is a philanthropic organization dedicated to providing educational opportunities for talented but underprivileged students, primarily from China and Hong Kong. The William S.D. Louey Educational Foundation is named in honor of William Sui-tak Louey.

@@ -1,0 +1,25 @@
+{
+  "id": 19066431,
+  "title": "Edward W. Veitch",
+  "url": "https://en.wikipedia.org/wiki/Edward_W._Veitch",
+  "path": "Comp-Sci-Pioneers\\edward-w-veitch",
+  "summary": {
+    "chars": 614,
+    "tokens": 144
+  },
+  "document": {
+    "chars": 3266,
+    "tokens": 669
+  },
+  "infobox": {
+    "title": "Edward Westbrook Veitch",
+    "data": {
+      "Born": "4 November 1924 \u00b7 Englewood, New Jersey",
+      "Died": "23 December 2013 (aged 89)",
+      "Citizenship": "American",
+      "Alma mater": "Harvard University",
+      "Known for": "optimization of digital circuits",
+      "Fields": "Computer science"
+    }
+  }
+}

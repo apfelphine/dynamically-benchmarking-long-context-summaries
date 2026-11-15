@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Kurt G\u00f6del\nG\u00f6del (1906\u20131978), born in Br\u00fcnn, Austria-Hungary, was a logician and mathematician renowned for his incompleteness theorems, which demonstrated that no consistent system of mathematical axioms can prove all mathematical truths. His work revolutionized mathematical logic, refuting the possibility of complete axiomatization of mathematics. G\u00f6del contributed to set theory, notably proving the consistency of the axiom of choice and the generalized continuum hypothesis, and introduced the constructible universe. He spent much of his career at the Institute for Advanced Study in Princeton, forming a close friendship with Einstein. G\u00f6del's interests included philosophy and physics; he developed models allowing time travel under general relativity. He suffered from lifelong psychological issues and died in 1978 from malnutrition.",
+        "text_original": "G\u00f6del (1906\u20131978), born in Br\u00fcnn, Austria-Hungary, was a logician and mathematician renowned for his incompleteness theorems, which demonstrated that no consistent system of mathematical axioms can prove all mathematical truths. His work revolutionized mathematical logic, refuting the possibility of complete axiomatization of mathematics. G\u00f6del contributed to set theory, notably proving the consistency of the axiom of choice and the generalized continuum hypothesis, and introduced the constructible universe. He spent much of his career at the Institute for Advanced Study in Princeton, forming a close friendship with Einstein. G\u00f6del's interests included philosophy and physics; he developed models allowing time travel under general relativity. He suffered from lifelong psychological issues and died in 1978 from malnutrition",
+        "idx_start": 107,
+        "idx_end": 940
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Lynn Conway\nConway (1938\u20132024), computer scientist and electrical engineer, pioneered the Mead\u2013Conway VLSI design methodology, laying the foundation for modern chip design and the electronic design automation industry. Her career included roles at IBM, Xerox PARC, DARPA, and the University of Michigan. After being dismissed by IBM for transitioning gender, she achieved numerous innovations, including multiproject wafers (MPW) and the MOSIS system for chip prototyping. Conway became renowned in activism for transgender rights, sharing her story to inspire others and advocating for equal employment and protections for transgender people. She received numerous awards, including the Lifetime Achievement Award from IBM and inclusion in the National Inventors Hall of Fame.",
+        "text_original": "Conway (1938\u20132024), computer scientist and electrical engineer, pioneered the Mead\u2013Conway VLSI design methodology, laying the foundation for modern chip design and the electronic design automation industry. Her career included roles at IBM, Xerox PARC, DARPA, and the University of Michigan. After being dismissed by IBM for transitioning gender, she achieved numerous innovations, including multiproject wafers (MPW) and the MOSIS system for chip prototyping. Conway became renowned in activism for transgender rights, sharing her story to inspire others and advocating for equal employment and protections for transgender people. She received numerous awards, including the Lifetime Achievement Award from IBM and inclusion in the National Inventors Hall of Fame",
+        "idx_start": 964,
+        "idx_end": 1728
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Ismail al-Jazari\nAl-Jazari (1136\u20131206) was a mechanical engineer and inventor in Upper Mesopotamia, celebrated for his Book of Knowledge of Ingenious Mechanical Devices, detailing over 50 machines and mechanisms, such as camshafts, crankshafts, automata, and water clocks. He introduced pivotal design and construction methods, developed advanced water-raising machines, and created programmable automata and musical robots. His work is recognized as foundational for modern mechanical engineering and robotics, with substantial influence on later technological advancements and engineering traditions.",
+        "text_original": "Al-Jazari (1136\u20131206) was a mechanical engineer and inventor in Upper Mesopotamia, celebrated for his Book of Knowledge of Ingenious Mechanical Devices, detailing over 50 machines and mechanisms, such as camshafts, crankshafts, automata, and water clocks. He introduced pivotal design and construction methods, developed advanced water-raising machines, and created programmable automata and musical robots. His work is recognized as foundational for modern mechanical engineering and robotics, with substantial influence on later technological advancements and engineering traditions",
+        "idx_start": 1757,
+        "idx_end": 2341
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Donald Knuth\nKnuth (b. 1938) is an influential computer scientist and mathematician, noted for \"The Art of Computer Programming,\" a seminal multi-volume text shaping programming and algorithm analysis. He invented TeX, a digital typesetting system pivotal in academic publishing, and advanced literate programming methodology. His technical and mathematical contributions encompass compiler theory, analysis of algorithms, and computer science pedagogy. Knuth is renowned for his wit, attention to detail, and deep involvement in mathematical and algorithmic writing. He has received numerous awards, including the Turing Award and National Medal of Science.",
+        "text_original": "Knuth (b. 1938) is an influential computer scientist and mathematician, noted for \"The Art of Computer Programming,\" a seminal multi-volume text shaping programming and algorithm analysis. He invented TeX, a digital typesetting system pivotal in academic publishing, and advanced literate programming methodology. His technical and mathematical contributions encompass compiler theory, analysis of algorithms, and computer science pedagogy. Knuth is renowned for his wit, attention to detail, and deep involvement in mathematical and algorithmic writing. He has received numerous awards, including the Turing Award and National Medal of Science",
+        "idx_start": 2366,
+        "idx_end": 3010
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Geoffrey Hinton\nHinton (b. 1947), a cognitive psychologist and computer scientist, is a foundational figure in artificial intelligence and deep neural networks. His research includes the backpropagation algorithm, Boltzmann machines, capsule networks, contrastive learning, and current explorations into the nature of vision and learning in neural systems. Hinton's work enabled breakthroughs in machine learning, robotics, speech recognition, and computer vision. He has expressed concerns about AI safety, existential risks, and societal impacts, calling for government regulation. Hinton received the Turing and Nobel Prizes for his contributions to neural networks and AI.",
+        "text_original": "Hinton (b. 1947), a cognitive psychologist and computer scientist, is a foundational figure in artificial intelligence and deep neural networks. His research includes the backpropagation algorithm, Boltzmann machines, capsule networks, contrastive learning, and current explorations into the nature of vision and learning in neural systems. Hinton's work enabled breakthroughs in machine learning, robotics, speech recognition, and computer vision. He has expressed concerns about AI safety, existential risks, and societal impacts, calling for government regulation. Hinton received the Turing and Nobel Prizes for his contributions to neural networks and AI",
+        "idx_start": 3038,
+        "idx_end": 3697
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Claude Shannon\nShannon (1916\u20132001), \"father of information theory,\" transformed communications, computation, and technology. His 1948 work established the mathematical foundations of information theory, including concepts of entropy and coding, which underpin modern digital communication and cryptography. He also laid the groundwork for digital logic circuits using Boolean algebra, greatly influencing computer engineering. Shannon contributed to AI, combinatorics, detection theory, and device inventions throughout his career, and received the National Medal of Science and numerous other honors. His legacy is integral to the digital age.",
+        "text_original": "Shannon (1916\u20132001), \"father of information theory,\" transformed communications, computation, and technology. His 1948 work established the mathematical foundations of information theory, including concepts of entropy and coding, which underpin modern digital communication and cryptography. He also laid the groundwork for digital logic circuits using Boolean algebra, greatly influencing computer engineering. Shannon contributed to AI, combinatorics, detection theory, and device inventions throughout his career, and received the National Medal of Science and numerous other honors. His legacy is integral to the digital age",
+        "idx_start": 3724,
+        "idx_end": 4352
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## George Antheil\nAntheil (1900\u20131959), American composer and inventor, was known for avant-garde musical works such as Ballet M\u00e9canique and partnerships with innovators like Hedy Lamarr. Together, Antheil and Lamarr developed frequency-hopping spread spectrum technology for secure torpedo guidance, a precursor to modern wireless communication methods like Bluetooth and Wi-Fi. He was both influential in music and technology, bridging artistic and technical realms, and his inventions and compositions remain culturally relevant.",
+        "text_original": "Antheil (1900\u20131959), American composer and inventor, was known for avant-garde musical works such as Ballet M\u00e9canique and partnerships with innovators like Hedy Lamarr. Together, Antheil and Lamarr developed frequency-hopping spread spectrum technology for secure torpedo guidance, a precursor to modern wireless communication methods like Bluetooth and Wi-Fi. He was both influential in music and technology, bridging artistic and technical realms, and his inventions and compositions remain culturally relevant",
+        "idx_start": 4379,
+        "idx_end": 4891
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Edsger W. Dijkstra\nDijkstra (1930\u20132002) was a Dutch computer scientist whose seminal work established structured programming, the shortest path algorithm (Dijkstra\u2019s algorithm), and other foundational concepts in operating systems and distributed computing. Known for his sharp intellect and clarity of writing, he introduced the concept of semaphores, the \"THE\" multiprogramming system, and guarded commands. Dijkstra\u2019s advocacy for programming as a rigorous mathematical discipline shaped modern software engineering and computer science education. He received the Turing Award and numerous recognitions.",
+        "text_original": "Dijkstra (1930\u20132002) was a Dutch computer scientist whose seminal work established structured programming, the shortest path algorithm (Dijkstra\u2019s algorithm), and other foundational concepts in operating systems and distributed computing. Known for his sharp intellect and clarity of writing, he introduced the concept of semaphores, the \"THE\" multiprogramming system, and guarded commands. Dijkstra\u2019s advocacy for programming as a rigorous mathematical discipline shaped modern software engineering and computer science education. He received the Turing Award and numerous recognitions",
+        "idx_start": 4922,
+        "idx_end": 5508
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Ramon Llull\nLlull (1232\u2013c.1316), Majorcan philosopher, logician, and missionary, developed the \"Art,\" a combinatorial system for universal logic and theology. His numerous works laid groundwork for algorithmic reasoning and influenced later developments in logic, computation, and mysticism. Llull's combinatorics, use of diagrams, and missionary efforts contributed to early ideas in artificial intelligence, electoral systems, and interfaith discourse. He was beatified and revered for both literary and intellectual contributions.",
+        "text_original": "Llull (1232\u2013c.1316), Majorcan philosopher, logician, and missionary, developed the \"Art,\" a combinatorial system for universal logic and theology. His numerous works laid groundwork for algorithmic reasoning and influenced later developments in logic, computation, and mysticism. Llull's combinatorics, use of diagrams, and missionary efforts contributed to early ideas in artificial intelligence, electoral systems, and interfaith discourse. He was beatified and revered for both literary and intellectual contributions",
+        "idx_start": 5532,
+        "idx_end": 6052
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Herbert A. Simon\nSimon (1916\u20132001), American polymath, pioneered research in organizational decision-making, bounded rationality, artificial intelligence, psychology, and economics. His work in cognitive psychology and AI led to foundational programs like the Logic Theory Machine and General Problem Solver. Simon introduced key concepts such as satisficing and contributed to behavioral economics, winning the Nobel Prize in Economics and the Turing Award for his extensive scientific accomplishments.",
+        "text_original": "Simon (1916\u20132001), American polymath, pioneered research in organizational decision-making, bounded rationality, artificial intelligence, psychology, and economics. His work in cognitive psychology and AI led to foundational programs like the Logic Theory Machine and General Problem Solver. Simon introduced key concepts such as satisficing and contributed to behavioral economics, winning the Nobel Prize in Economics and the Turing Award for his extensive scientific accomplishments",
+        "idx_start": 6081,
+        "idx_end": 6566
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## George Boole\nBoole (1815\u20131864) was a mathematician and logician whose creation of Boolean algebra became the backbone of digital logic, computer engineering, and information theory. His mathematical analysis of logic and probability theory provided the conceptual basis for computation, most notably influencing Claude Shannon and modern digital circuitry. Boole\u2019s work had lasting philosophical and technological impact, with his name commemorated throughout mathematics, computer science, and various institutions.",
+        "text_original": "Boole (1815\u20131864) was a mathematician and logician whose creation of Boolean algebra became the backbone of digital logic, computer engineering, and information theory. His mathematical analysis of logic and probability theory provided the conceptual basis for computation, most notably influencing Claude Shannon and modern digital circuitry. Boole\u2019s work had lasting philosophical and technological impact, with his name commemorated throughout mathematics, computer science, and various institutions",
+        "idx_start": 6591,
+        "idx_end": 7093
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Per Brinch Hansen\nBrinch Hansen (1936\u20132007), Danish computer scientist, made foundational contributions to operating systems and concurrent programming. He created the RC 4000 multiprogramming system, introduced operating system kernels, and with C. A. R. Hoare, invented monitors and Concurrent Pascal\u2014key developments for concurrent programs. Brinch Hansen also advanced distributed computing, language design, and parallel processing, emphasizing simplicity and reliability in software engineering. He received major awards including the IEEE Computer Pioneer Award.",
+        "text_original": "Brinch Hansen (1936\u20132007), Danish computer scientist, made foundational contributions to operating systems and concurrent programming. He created the RC 4000 multiprogramming system, introduced operating system kernels, and with C. A. R. Hoare, invented monitors and Concurrent Pascal\u2014key developments for concurrent programs. Brinch Hansen also advanced distributed computing, language design, and parallel processing, emphasizing simplicity and reliability in software engineering. He received major awards including the IEEE Computer Pioneer Award",
+        "idx_start": 7123,
+        "idx_end": 7673
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Kenneth E. Iverson\nIverson (1920\u20132004), Canadian computer scientist, invented the APL programming language, noted for its concise, expressive notation and impact on array-based computing. His innovations in language design facilitated practical mathematical computing and influenced later languages like J and K. Iverson was recognized for his educational efforts, language standardization, and conceptual clarity, receiving the Turing Award and other distinctions.",
+        "text_original": "Iverson (1920\u20132004), Canadian computer scientist, invented the APL programming language, noted for its concise, expressive notation and impact on array-based computing. His innovations in language design facilitated practical mathematical computing and influenced later languages like J and K. Iverson was recognized for his educational efforts, language standardization, and conceptual clarity, receiving the Turing Award and other distinctions",
+        "idx_start": 7704,
+        "idx_end": 8149
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Al-Khwarizmi\nAl-Khwarizmi (c.780\u2013c.850), Persian mathematician, astronomer, and geographer, established algebra as a discipline (\"al-jabr\"), systematized computational algorithms, and spread Hindu\u2013Arabic numerals globally. His work on arithmetic, algebra, trigonometry, and cartography shaped mathematics, influencing European scientific progress. The term \"algorithm\" originates from his name, and his texts underlie modern numerical methods, astronomy, and mathematical education.",
+        "text_original": "Al-Khwarizmi (c.780\u2013c.850), Persian mathematician, astronomer, and geographer, established algebra as a discipline (\"al-jabr\"), systematized computational algorithms, and spread Hindu\u2013Arabic numerals globally. His work on arithmetic, algebra, trigonometry, and cartography shaped mathematics, influencing European scientific progress. The term \"algorithm\" originates from his name, and his texts underlie modern numerical methods, astronomy, and mathematical education",
+        "idx_start": 8174,
+        "idx_end": 8642
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Jacek Karpi\u0144ski\nKarpi\u0144ski (1927\u20132010), Polish computer engineer, developed pioneering machines: the first transistor-based differential equations analyzer (AKAT-1), early perceptrons, and the K-202 minicomputer with innovative architecture. Despite technical advances, his projects faced political and institutional obstacles in communist Poland, greatly limiting their production and recognition. Karpi\u0144ski\u2019s inventions remain significant in Poland\u2019s technology history, though his career was marked by controversy and underappreciation.",
+        "text_original": "Karpi\u0144ski (1927\u20132010), Polish computer engineer, developed pioneering machines: the first transistor-based differential equations analyzer (AKAT-1), early perceptrons, and the K-202 minicomputer with innovative architecture. Despite technical advances, his projects faced political and institutional obstacles in communist Poland, greatly limiting their production and recognition. Karpi\u0144ski\u2019s inventions remain significant in Poland\u2019s technology history, though his career was marked by controversy and underappreciation",
+        "idx_start": 8670,
+        "idx_end": 9191
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Gottlob Frege\nFrege (1848\u20131925), German philosopher, logician, and mathematician, founded modern mathematical logic and analytic philosophy. He developed predicate logic, formalized the notion of quantifiers and variables, and deeply influenced computation, semantics, and philosophy of language (notably the sense/reference distinction). Although much of his work gained recognition posthumously, Frege\u2019s theories underpin contemporary logic and mathematics.",
+        "text_original": "Frege (1848\u20131925), German philosopher, logician, and mathematician, founded modern mathematical logic and analytic philosophy. He developed predicate logic, formalized the notion of quantifiers and variables, and deeply influenced computation, semantics, and philosophy of language (notably the sense/reference distinction). Although much of his work gained recognition posthumously, Frege\u2019s theories underpin contemporary logic and mathematics",
+        "idx_start": 9217,
+        "idx_end": 9661
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Federico Faggin\nFaggin (b. 1941), Italian-American physicist and engineer, led the development of the first commercial silicon-gate MOS integrated circuits and designed the Intel 4004\u2014the world\u2019s first microprocessor\u2014ushering in the microcomputer era. He founded Zilog (Z80 microprocessor), Synaptics (touchpad technology), and Foveon (advanced image sensors). Recently, Faggin has contributed to theories of consciousness from a quantum perspective. He has received prominent awards, including the U.S. National Medal of Technology.",
+        "text_original": "Faggin (b. 1941), Italian-American physicist and engineer, led the development of the first commercial silicon-gate MOS integrated circuits and designed the Intel 4004\u2014the world\u2019s first microprocessor\u2014ushering in the microcomputer era. He founded Zilog (Z80 microprocessor), Synaptics (touchpad technology), and Foveon (advanced image sensors). Recently, Faggin has contributed to theories of consciousness from a quantum perspective. He has received prominent awards, including the U.S. National Medal of Technology",
+        "idx_start": 9689,
+        "idx_end": 10205
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Notable Figures in Computer Science, Mathematics, Logic, and Engineering\n## Grace Hopper\nHopper (1906\u20131992), pioneering computer scientist and U.S. Navy Rear Admiral, invented the first compiler and advocated for user-friendly programming languages, leading to the development of COBOL. Her career spanned key contributions to the Mark I computer, UNIVAC, and standards for programming languages, dramatically expanding the accessibility of computing. Recognized as a leader, mentor, and innovator, Hopper received numerous awards and is commemorated in technology, academia, and the U.S. Navy. The Grace Hopper Celebration honors her legacy in promoting women in computing.",
+        "text_original": "Hopper (1906\u20131992), pioneering computer scientist and U.S. Navy Rear Admiral, invented the first compiler and advocated for user-friendly programming languages, leading to the development of COBOL. Her career spanned key contributions to the Mark I computer, UNIVAC, and standards for programming languages, dramatically expanding the accessibility of computing. Recognized as a leader, mentor, and innovator, Hopper received numerous awards and is commemorated in technology, academia, and the U.S. Navy. The Grace Hopper Celebration honors her legacy in promoting women in computing",
+        "idx_start": 10230,
+        "idx_end": 10814
+    }
+]

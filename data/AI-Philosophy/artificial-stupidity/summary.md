@@ -1,0 +1,1 @@
+Artificial stupidity is a term used within the field of computer science to refer to a technique of "dumbing down" computer programs in order to deliberately introduce errors in their responses.

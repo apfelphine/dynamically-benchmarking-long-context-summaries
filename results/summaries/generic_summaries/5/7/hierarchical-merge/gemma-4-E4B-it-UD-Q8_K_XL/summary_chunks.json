@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Pioneers of Science, Technology, and Computation\n## Foundations of Computing\nEarly computing pioneers include Charles Babbage, who designed the Difference and Analytical Engines, establishing concepts such as sequential control. Ada Lovelace collaborated with Babbage to create what is recognized as the first published computer program for the Analytical Engine. Other significant early contributors are Leonardo Torres Quevedo, known for his work on automated processes and mechanical calculating machines.",
+        "text_original": "Early computing pioneers include Charles Babbage, who designed the Difference and Analytical Engines, establishing concepts such as sequential control. Ada Lovelace collaborated with Babbage to create what is recognized as the first published computer program for the Analytical Engine. Other significant early contributors are Leonardo Torres Quevedo, known for his work on automated processes and mechanical calculating machines",
+        "idx_start": 81,
+        "idx_end": 511
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers of Science, Technology, and Computation\n## Theoretical and Modern Computing\nAlan Turing was a pivotal figure whose theoretical work, including the Turing machine, was instrumental in WWII efforts at Bletchley Park. His later contributions include the ACE plan and the proposal of the Turing test for machine intelligence. In contrast, Richard Stallman is noted for championing free software through the GNU project and promoting the \"copyleft\" concept. Additionally, Vannevar Bush proposed the Memex in 1945, an early precursor to modern information retrieval systems.",
+        "text_original": "Alan Turing was a pivotal figure whose theoretical work, including the Turing machine, was instrumental in WWII efforts at Bletchley Park. His later contributions include the ACE plan and the proposal of the Turing test for machine intelligence. In contrast, Richard Stallman is noted for championing free software through the GNU project and promoting the \"copyleft\" concept. Additionally, Vannevar Bush proposed the Memex in 1945, an early precursor to modern information retrieval systems",
+        "idx_start": 551,
+        "idx_end": 1042
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers of Science, Technology, and Computation\n## Scientific and Interdisciplinary Innovation\nSignificant scientific contributions include Blaise Pascal, who co-founded probability theory and invented the Pascaline, and Hedy Lamarr, who co-developed frequency-hopping spread spectrum technology. Alfred North Whitehead developed process metaphysics, viewing reality as a dynamic flow. Philip Rubin exemplifies interdisciplinary research, applying dynamical systems and action theory to speech models while also conducting artistic and ethical research into speech perception.",
+        "text_original": "Significant scientific contributions include Blaise Pascal, who co-founded probability theory and invented the Pascaline, and Hedy Lamarr, who co-developed frequency-hopping spread spectrum technology. Alfred North Whitehead developed process metaphysics, viewing reality as a dynamic flow. Philip Rubin exemplifies interdisciplinary research, applying dynamical systems and action theory to speech models while also conducting artistic and ethical research into speech perception",
+        "idx_start": 1093,
+        "idx_end": 1573
+    }
+]

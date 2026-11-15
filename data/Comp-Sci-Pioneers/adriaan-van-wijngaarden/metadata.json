@@ -1,0 +1,29 @@
+{
+  "id": 943404,
+  "title": "Adriaan van Wijngaarden",
+  "url": "https://en.wikipedia.org/wiki/Adriaan_van_Wijngaarden",
+  "path": "Comp-Sci-Pioneers\\adriaan-van-wijngaarden",
+  "summary": {
+    "chars": 339,
+    "tokens": 74
+  },
+  "document": {
+    "chars": 2519,
+    "tokens": 587
+  },
+  "infobox": {
+    "title": "Adriaan van Wijngaarden",
+    "data": {
+      "Born": "2 November 1916 \u00b7 Rotterdam, Netherlands",
+      "Died": "7 February 1987 (aged 70) \u00b7 Amstelveen, Netherlands",
+      "Citizenship": "Netherlands",
+      "Alma mater": "Delft University of Technology (1939)",
+      "Known for": "ALGOL \u00b7 CWI \u00b7 IFIP \u00b7 Van Wijngaarden grammar",
+      "Awards": "IEEE Computer Pioneer Award (1986)",
+      "Fields": "Numerical mathematics \u00b7 Computer science",
+      "Institutions": "University of Amsterdam \u00b7 Mathematisch Centrum in Amsterdam",
+      "Doctoral advisor": "Cornelis Benjamin Biezeno",
+      "Doctoral students": "Edsger W. Dijkstra \u00b7 Peter van Emde Boas \u00b7 Jaco de Bakker \u00b7 Reinder van de Riet \u00b7 Guus Zoutendijk \u00b7 Maarten van Emden"
+    }
+  }
+}

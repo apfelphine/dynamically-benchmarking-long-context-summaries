@@ -1,0 +1,51 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Transhumanism and Technological Enhancement\nTranshumanism advocates for the use of advanced technologies\u2014including artificial intelligence and biotechnology\u2014to augment human capabilities, alleviate suffering, and transcend biological limits. Rooted in philosophical and secular traditions, the movement raises debates around identity, social inequality, and ethical risks, especially regarding technological misuse and impacts on democracy. Key innovations such as mind uploading and AI-driven transformation exemplify this push to reshape the human experience.",
+        "text_original": "Transhumanism advocates for the use of advanced technologies\u2014including artificial intelligence and biotechnology\u2014to augment human capabilities, alleviate suffering, and transcend biological limits. Rooted in philosophical and secular traditions, the movement raises debates around identity, social inequality, and ethical risks, especially regarding technological misuse and impacts on democracy. Key innovations such as mind uploading and AI-driven transformation exemplify this push to reshape the human experience",
+        "idx_start": 48,
+        "idx_end": 564
+    },
+    {
+        "document_idx": null,
+        "text": "# Artificial Intelligence: Governance, Ethics, and Regulation\nThe rapid proliferation of AI presents significant ethical and practical challenges, including accountability, fairness, privacy, autonomy, and existential risks from superintelligent systems. Efforts to regulate AI have grown globally, with the EU\u2019s Artificial Intelligence Act, the OECD, UNESCO, and U.S. initiatives like the AI Bill of Rights and the National Security Commission on Artificial Intelligence driving oversight. States are also enacting targeted laws, particularly in bias reduction and deepfake disclosure, amid increasing political and industry involvement.",
+        "text_original": "The rapid proliferation of AI presents significant ethical and practical challenges, including accountability, fairness, privacy, autonomy, and existential risks from superintelligent systems. Efforts to regulate AI have grown globally, with the EU\u2019s Artificial Intelligence Act, the OECD, UNESCO, and U.S. initiatives like the AI Bill of Rights and the National Security Commission on Artificial Intelligence driving oversight. States are also enacting targeted laws, particularly in bias reduction and deepfake disclosure, amid increasing political and industry involvement",
+        "idx_start": 631,
+        "idx_end": 1206
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake Technology: Applications and Societal Implications\nDeepfake technology is reshaping art, entertainment, and culture, enabling virtual performances and satire while posing substantial threats through misinformation, election interference, and reputation damage. Risks such as non-consensual pornography, identity theft, and disinformation have prompted development of detection technologies and diverse legislative, educational, and collaborative responses. Global cooperation among technologists, civil society, and governments remains crucial to safeguard democratic integrity and public trust.",
+        "text_original": "Deepfake technology is reshaping art, entertainment, and culture, enabling virtual performances and satire while posing substantial threats through misinformation, election interference, and reputation damage. Risks such as non-consensual pornography, identity theft, and disinformation have prompted development of detection technologies and diverse legislative, educational, and collaborative responses. Global cooperation among technologists, civil society, and governments remains crucial to safeguard democratic integrity and public trust",
+        "idx_start": 1273,
+        "idx_end": 1816
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity: Promise and Controversy\nThe technological singularity theorizes a future in which AI outpaces human intelligence, promising breakthroughs in medicine and digital immortality. Influenced by thinkers such as Turing, von Neumann, Kurzweil, and Vinge, this concept spurs institutions and public debate. Critics highlight scientific, economic, and ethical uncertainties, emphasizing the risks of misaligned machine objectives and the need for robust governance and ethical standards.",
+        "text_original": "The technological singularity theorizes a future in which AI outpaces human intelligence, promising breakthroughs in medicine and digital immortality. Influenced by thinkers such as Turing, von Neumann, Kurzweil, and Vinge, this concept spurs institutions and public debate. Critics highlight scientific, economic, and ethical uncertainties, emphasizing the risks of misaligned machine objectives and the need for robust governance and ethical standards",
+        "idx_start": 1874,
+        "idx_end": 2327
+    },
+    {
+        "document_idx": null,
+        "text": "# Data Protection: GDPR and Global Privacy\nThe EU\u2019s GDPR enforces strict standards for personal data rights, transparency, and consent, driving widespread change in global privacy practices since 2018. Robust penalties and provisions apply to children and sensitive information, with challenges around compliance for smaller organizations. Post-Brexit, the UK upholds similar standards, with both regions influencing international data protection norms.",
+        "text_original": "The EU\u2019s GDPR enforces strict standards for personal data rights, transparency, and consent, driving widespread change in global privacy practices since 2018. Robust penalties and provisions apply to children and sensitive information, with challenges around compliance for smaller organizations. Post-Brexit, the UK upholds similar standards, with both regions influencing international data protection norms",
+        "idx_start": 2375,
+        "idx_end": 2784
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism: Societal Transformation and Critique\nAccelerationism posits that speeding up capitalist and technological processes can drive radical social change, dividing into right-wing and left-wing interpretations. Right-wing variants favor AI-driven, market-centric futures, while left-wing branches advocate democratic, post-capitalist equity. Associated ideas like xenofeminism and effective accelerationism extend these debates, while concerns over technocracy, exclusion, and far-right exploitation of technology underscore the complex risks.",
+        "text_original": "Accelerationism posits that speeding up capitalist and technological processes can drive radical social change, dividing into right-wing and left-wing interpretations. Right-wing variants favor AI-driven, market-centric futures, while left-wing branches advocate democratic, post-capitalist equity. Associated ideas like xenofeminism and effective accelerationism extend these debates, while concerns over technocracy, exclusion, and far-right exploitation of technology underscore the complex risks",
+        "idx_start": 2845,
+        "idx_end": 3344
+    },
+    {
+        "document_idx": null,
+        "text": "# Philosophical Foundations in Artificial Intelligence\nPhilosopher John L. Pollock\u2019s work on epistemology, defeasible reasoning, and nomic probability paved the way for advances in AI\u2019s rational decision-making and non-monotonic reasoning. His development of OSCAR contributed to bridging philosophical inquiry and technological innovation, influencing foundational aspects of artificial intelligence research.",
+        "text_original": "Philosopher John L. Pollock\u2019s work on epistemology, defeasible reasoning, and nomic probability paved the way for advances in AI\u2019s rational decision-making and non-monotonic reasoning. His development of OSCAR contributed to bridging philosophical inquiry and technological innovation, influencing foundational aspects of artificial intelligence research",
+        "idx_start": 3404,
+        "idx_end": 3758
+    }
+]

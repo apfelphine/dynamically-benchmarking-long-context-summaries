@@ -1,0 +1,261 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Early Life and Education\nBlaise Pascal displayed exceptional talent in mathematics and science from a young age, self-educating with Euclid's geometry after moving to Paris. He published his first significant work on conic sections at age 16, impressing leading mathematicians. Struggles with family finances and politics forced relocations and shaped much of his youth.",
+        "text_original": "Blaise Pascal displayed exceptional talent in mathematics and science from a young age, self-educating with Euclid's geometry after moving to Paris. He published his first significant work on conic sections at age 16, impressing leading mathematicians. Struggles with family finances and politics forced relocations and shaped much of his youth",
+        "idx_start": 48,
+        "idx_end": 392
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Inventive Contributions\nPascal created the Pascaline, a mechanical calculator for addition and subtraction. Although innovative, it was not commercially successful due to practical limitations and expense. He also made advances in public transportation by introducing early multi-route carriage services.",
+        "text_original": "Pascal created the Pascaline, a mechanical calculator for addition and subtraction. Although innovative, it was not commercially successful due to practical limitations and expense. He also made advances in public transportation by introducing early multi-route carriage services",
+        "idx_start": 425,
+        "idx_end": 704
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Mathematics and Physics\nPascal was pivotal in developing probability theory through collaboration with Fermat, laying groundwork for future calculus and statistics. He formalized binomial coefficients in what is now known as Pascal's triangle, introduced mathematical induction, and explored cycloidal curves. His experiments on fluid mechanics, pressure, and atmospheric phenomena led to the SI unit \"pascal\" and important principles in hydrostatics and barometry.",
+        "text_original": "Pascal was pivotal in developing probability theory through collaboration with Fermat, laying groundwork for future calculus and statistics. He formalized binomial coefficients in what is now known as Pascal's triangle, introduced mathematical induction, and explored cycloidal curves. His experiments on fluid mechanics, pressure, and atmospheric phenomena led to the SI unit \"pascal\" and important principles in hydrostatics and barometry",
+        "idx_start": 737,
+        "idx_end": 1177
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Religion, Literature, and Philosophy\nPascal underwent significant religious conversion, aligning with Jansenist thought and producing influential theological writings. His \"Provincial Letters\" attacked the ethical laxity of Jesuit casuistry with satire and wit, influencing French prose. In philosophy, Pascal advocated for fideism, critiqued rationalism and empiricism, and contributed to mathematical philosophy with works on axiomatic reasoning, intuition, and the limitations of human certainty.",
+        "text_original": "Pascal underwent significant religious conversion, aligning with Jansenist thought and producing influential theological writings. His \"Provincial Letters\" attacked the ethical laxity of Jesuit casuistry with satire and wit, influencing French prose. In philosophy, Pascal advocated for fideism, critiqued rationalism and empiricism, and contributed to mathematical philosophy with works on axiomatic reasoning, intuition, and the limitations of human certainty",
+        "idx_start": 1223,
+        "idx_end": 1684
+    },
+    {
+        "document_idx": null,
+        "text": "# Blaise Pascal\n## Legacy\nPascal\u2019s influence spans mathematics, physics, literature, and philosophy. Many institutions, scientific units, and modern technologies\u2014such as programming languages\u2014bear his name. His unfinished \"Pens\u00e9es\" is revered as a classic in French thought and Christian apologetics.",
+        "text_original": "Pascal\u2019s influence spans mathematics, physics, literature, and philosophy. Many institutions, scientific units, and modern technologies\u2014such as programming languages\u2014bear his name. His unfinished \"Pens\u00e9es\" is revered as a classic in French thought and Christian apologetics",
+        "idx_start": 1700,
+        "idx_end": 1973
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Early Life and Education\nRichard Stallman showed early aptitude for programming and mathematics, studying at Harvard and working in MIT\u2019s AI Lab. He contributed key advances in computer science, such as intelligent backtracking and foundational hacker culture.",
+        "text_original": "Richard Stallman showed early aptitude for programming and mathematics, studying at Harvard and working in MIT\u2019s AI Lab. He contributed key advances in computer science, such as intelligent backtracking and foundational hacker culture",
+        "idx_start": 2032,
+        "idx_end": 2266
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## GNU Project and Free Software Movement\nStallman founded the GNU Project in 1983, intending to build a free Unix-compatible operating system, and established the Free Software Foundation (FSF). He developed essential software tools (GNU Emacs, GCC, make, etc.), advocated for \u201ccopyleft\u201d licensing, and popularized software freedom. The combination of GNU software and the Linux kernel led to the widely used GNU/Linux systems, sparking ongoing debates about recognition and naming.",
+        "text_original": "Stallman founded the GNU Project in 1983, intending to build a free Unix-compatible operating system, and established the Free Software Foundation (FSF). He developed essential software tools (GNU Emacs, GCC, make, etc.), advocated for \u201ccopyleft\u201d licensing, and popularized software freedom. The combination of GNU software and the Linux kernel led to the widely used GNU/Linux systems, sparking ongoing debates about recognition and naming",
+        "idx_start": 2314,
+        "idx_end": 2754
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Activism and Terminology\nHe has been an outspoken advocate for software freedom, digital rights, copyright reduction, and resistance to DRM. Stallman emphasizes precise terminology in these debates, championing \u201cfree software\u201d over \u201copen source\u201d, and \u201cGNU/Linux\u201d over \u201cLinux\u201d alone, arguing for the ethical dimension of user rights and privacy.",
+        "text_original": "He has been an outspoken advocate for software freedom, digital rights, copyright reduction, and resistance to DRM. Stallman emphasizes precise terminology in these debates, championing \u201cfree software\u201d over \u201copen source\u201d, and \u201cGNU/Linux\u201d over \u201cLinux\u201d alone, arguing for the ethical dimension of user rights and privacy",
+        "idx_start": 2788,
+        "idx_end": 3106
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Controversies and Personal Life\nStallman\u2019s public comments have led to resignation from FSF and MIT in 2019, though he returned to the FSF in 2021 amid sustained controversy. He describes himself as an atheist, polyglot, and remains engaged in technical, ethical, and advocacy work despite personal health challenges.",
+        "text_original": "Stallman\u2019s public comments have led to resignation from FSF and MIT in 2019, though he returned to the FSF in 2021 amid sustained controversy. He describes himself as an atheist, polyglot, and remains engaged in technical, ethical, and advocacy work despite personal health challenges",
+        "idx_start": 3147,
+        "idx_end": 3431
+    },
+    {
+        "document_idx": null,
+        "text": "# Richard Stallman\n## Honors and Works\nStallman holds extensive honors for his technical and social contributions, including the MacArthur Fellowship and ACM awards. He authored numerous manuals and essays, contributing to the philosophical and technical foundations of free software.",
+        "text_original": "Stallman holds extensive honors for his technical and social contributions, including the MacArthur Fellowship and ACM awards. He authored numerous manuals and essays, contributing to the philosophical and technical foundations of free software",
+        "idx_start": 3457,
+        "idx_end": 3701
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## Early Life and Acting Career\nBorn in Vienna to Jewish parents, Lamarr\u2019s acting talents flourished in Europe and Hollywood, becoming a major star noted for her beauty and roles in films such as \u201cAlgiers\u201d and \u201cSamson and Delilah.\u201d Her early controversial role in \u201cEcstasy\u201d and marriage to arms merchant Friedrich Mandl exposed her to scientific circles but also personal hardship.",
+        "text_original": "Born in Vienna to Jewish parents, Lamarr\u2019s acting talents flourished in Europe and Hollywood, becoming a major star noted for her beauty and roles in films such as \u201cAlgiers\u201d and \u201cSamson and Delilah.\u201d Her early controversial role in \u201cEcstasy\u201d and marriage to arms merchant Friedrich Mandl exposed her to scientific circles but also personal hardship",
+        "idx_start": 3759,
+        "idx_end": 4107
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## Invention and Scientific Contributions\nLamarr co-invented frequency-hopping spread spectrum technology with George Antheil, intending to prevent torpedo jamming in WWII. Although initially dismissed by the military, her work became foundational for modern wireless communications, including Wi-Fi and Bluetooth.",
+        "text_original": "Lamarr co-invented frequency-hopping spread spectrum technology with George Antheil, intending to prevent torpedo jamming in WWII. Although initially dismissed by the military, her work became foundational for modern wireless communications, including Wi-Fi and Bluetooth",
+        "idx_start": 4155,
+        "idx_end": 4426
+    },
+    {
+        "document_idx": null,
+        "text": "# Hedy Lamarr\n## Later Life and Legacy\nShe faced personal and financial struggles, including seclusion and legal battles, but ultimately received recognition late in life for her technical achievements. Honors include the Electronic Frontier Foundation\u2019s Pioneer Award and induction into the National Inventors Hall of Fame. Her dual legacy as a Hollywood icon and inventor is celebrated in numerous tributes, documentaries, and popular culture references.",
+        "text_original": "She faced personal and financial struggles, including seclusion and legal battles, but ultimately received recognition late in life for her technical achievements. Honors include the Electronic Frontier Foundation\u2019s Pioneer Award and induction into the National Inventors Hall of Fame. Her dual legacy as a Hollywood icon and inventor is celebrated in numerous tributes, documentaries, and popular culture references",
+        "idx_start": 4457,
+        "idx_end": 4873
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Life and Academic Career\nWhitehead (1861\u20131947) was educated at Trinity College, Cambridge, focusing on mathematics and logic, collaborating with Bertrand Russell on the landmark \u201cPrincipia Mathematica.\u201d Later, he shifted to philosophy, joining Harvard at age 63.",
+        "text_original": "Whitehead (1861\u20131947) was educated at Trinity College, Cambridge, focusing on mathematics and logic, collaborating with Bertrand Russell on the landmark \u201cPrincipia Mathematica.\u201d Later, he shifted to philosophy, joining Harvard at age",
+        "idx_start": 4938,
+        "idx_end": 5171
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Mathematics and Logic\nMajor works include \u201cA Treatise on Universal Algebra,\u201d \u201cPrincipia Mathematica,\u201d and \u201cAn Introduction to Mathematics.\u201d His theory of extensive abstraction influenced ontology and computer science (mereotopology), while his efforts advanced mathematical logic and philosophy of mathematics.",
+        "text_original": "Major works include \u201cA Treatise on Universal Algebra,\u201d \u201cPrincipia Mathematica,\u201d and \u201cAn Introduction to Mathematics.\u201d His theory of extensive abstraction influenced ontology and computer science (mereotopology), while his efforts advanced mathematical logic and philosophy of mathematics",
+        "idx_start": 5205,
+        "idx_end": 5492
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Philosophy and Metaphysics\nWhitehead developed \u201cprocess philosophy,\u201d conceiving reality as interrelated events rather than static matter. He emphasized change, relations, and creativity, proposing panexperientialism (\u201call entities experience\u201d). His theory of perception (\u201cprehension\u201d) extended consciousness to all processes, and he reformulated conceptions of God, religion, and reality with lasting impact, especially in American process theology.",
+        "text_original": "Whitehead developed \u201cprocess philosophy,\u201d conceiving reality as interrelated events rather than static matter. He emphasized change, relations, and creativity, proposing panexperientialism (\u201call entities experience\u201d). His theory of perception (\u201cprehension\u201d) extended consciousness to all processes, and he reformulated conceptions of God, religion, and reality with lasting impact, especially in American process theology",
+        "idx_start": 5528,
+        "idx_end": 5949
+    },
+    {
+        "document_idx": null,
+        "text": "# Alfred North Whitehead\n## Influence and Legacy\nWhitehead\u2019s ecological, educational, and scientific ideas influenced diverse fields, including process theology, environmental ethics, and educational reform. Though often considered difficult, his philosophy is foundational for process thought worldwide, especially in China and America.",
+        "text_original": "Whitehead\u2019s ecological, educational, and scientific ideas influenced diverse fields, including process theology, environmental ethics, and educational reform. Though often considered difficult, his philosophy is foundational for process thought worldwide, especially in China and America",
+        "idx_start": 5979,
+        "idx_end": 6266
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Biography and Education\nBorn to Lord Byron, Ada Lovelace overcame familial challenges and illness, developing strong mathematical skills, largely under the mentorship of Mary Somerville and Augustus De Morgan. She married William King, later Earl of Lovelace.",
+        "text_original": "Born to Lord Byron, Ada Lovelace overcame familial challenges and illness, developing strong mathematical skills, largely under the mentorship of Mary Somerville and Augustus De Morgan. She married William King, later Earl of Lovelace",
+        "idx_start": 6320,
+        "idx_end": 6554
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Work with Charles Babbage\nLovelace became closely associated with Babbage\u2019s Analytical Engine, translating and extensively annotating Luigi Menabrea\u2019s paper on the machine. Her notes, especially Note G, described the first published algorithm for a computing device\u2014often regarded as the first computer program. She anticipated the Engine\u2019s potential for manipulating symbols beyond arithmetic.",
+        "text_original": "Lovelace became closely associated with Babbage\u2019s Analytical Engine, translating and extensively annotating Luigi Menabrea\u2019s paper on the machine. Her notes, especially Note G, described the first published algorithm for a computing device\u2014often regarded as the first computer program. She anticipated the Engine\u2019s potential for manipulating symbols beyond arithmetic",
+        "idx_start": 6589,
+        "idx_end": 6956
+    },
+    {
+        "document_idx": null,
+        "text": "# Ada Lovelace\n## Insight and Legacy\nLovelace\u2019s vision of general-purpose computation and skepticism about artificial intelligence were influential and prescient. Although controversy exists over her exact technical contributions, she remains an icon of computing, with awards, events, buildings, and programming languages named in her honor.",
+        "text_original": "Lovelace\u2019s vision of general-purpose computation and skepticism about artificial intelligence were influential and prescient. Although controversy exists over her exact technical contributions, she remains an icon of computing, with awards, events, buildings, and programming languages named in her honor",
+        "idx_start": 6984,
+        "idx_end": 7288
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Life and Career\nTorres Quevedo (1852\u20131936), a Spanish engineer and inventor, contributed across diverse fields: cableways, analog and digital calculating machines, airship design, remote radio control (Telekino), and automation.",
+        "text_original": "Torres Quevedo (1852\u20131936), a Spanish engineer and inventor, contributed across diverse fields: cableways, analog and digital calculating machines, airship design, remote radio control (Telekino), and automation",
+        "idx_start": 7345,
+        "idx_end": 7556
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Major Innovations\nHe advanced mechanical calculation with analog devices for solving complex equations and pioneered wireless remote control technologies. Torres designed successful airships adopted internationally and developed groundbreaking chess automata, precursors to computer games and artificial intelligence.",
+        "text_original": "He advanced mechanical calculation with analog devices for solving complex equations and pioneered wireless remote control technologies. Torres designed successful airships adopted internationally and developed groundbreaking chess automata, precursors to computer games and artificial intelligence",
+        "idx_start": 7583,
+        "idx_end": 7881
+    },
+    {
+        "document_idx": null,
+        "text": "# Leonardo Torres Quevedo\n## Legacy and Influence\nMany of his inventions achieved lasting recognition, including the Niagara Spanish Aerocar and seminal work in automation and formal languages. He influenced automation, mechatronics, and computing, and is honored by numerous scientific institutions, museums, and awards.",
+        "text_original": "Many of his inventions achieved lasting recognition, including the Niagara Spanish Aerocar and seminal work in automation and formal languages. He influenced automation, mechatronics, and computing, and is honored by numerous scientific institutions, museums, and awards",
+        "idx_start": 7911,
+        "idx_end": 8181
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Career and Contributions\nPhilip Rubin is a multidisciplinary scientist known for foundational work in speech synthesis, perception, embodied cognition, and computational modeling. His developments include articulatory synthesis systems (ASY, CASY), sinewave synthesis, and event-driven models of speech.",
+        "text_original": "Philip Rubin is a multidisciplinary scientist known for foundational work in speech synthesis, perception, embodied cognition, and computational modeling. His developments include articulatory synthesis systems (ASY, CASY), sinewave synthesis, and event-driven models of speech",
+        "idx_start": 8236,
+        "idx_end": 8513
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Science Policy and Advocacy\nRubin held leadership roles at the National Science Foundation and the White House\u2019s Office of Science and Technology Policy, advancing neuroscience, ethical research, and science policy. He has contributed to reforming regulation of human subjects and championing behavioral and cognitive sciences.",
+        "text_original": "Rubin held leadership roles at the National Science Foundation and the White House\u2019s Office of Science and Technology Policy, advancing neuroscience, ethical research, and science policy. He has contributed to reforming regulation of human subjects and championing behavioral and cognitive sciences",
+        "idx_start": 8550,
+        "idx_end": 8848
+    },
+    {
+        "document_idx": null,
+        "text": "# Philip Rubin\n## Legacy\nRubin has received numerous awards and fellowships for his scientific, administrative, and policy work. He remains active in research, advocacy, and public engagement through professional organizations, publications, and advisory roles.",
+        "text_original": "Rubin has received numerous awards and fellowships for his scientific, administrative, and policy work. He remains active in research, advocacy, and public engagement through professional organizations, publications, and advisory roles",
+        "idx_start": 8864,
+        "idx_end": 9099
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Early Life and Education\nAlan Turing (1912\u20131954) was educated at Cambridge and Princeton, contributing foundational work in logic, computability, and mathematics. He developed the concept of the \u201cTuring machine,\u201d providing the basis for the theory of computation.",
+        "text_original": "Alan Turing (1912\u20131954) was educated at Cambridge and Princeton, contributing foundational work in logic, computability, and mathematics. He developed the concept of the \u201cTuring machine,\u201d providing the basis for the theory of computation",
+        "idx_start": 9153,
+        "idx_end": 9390
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## World War II and Cryptanalysis\nTuring was instrumental in breaking German Enigma codes at Bletchley Park, designing the Bombe machine, and contributing to Allied victory through innovations in cryptanalysis and statistics. He played a role in early computer design, including software for the Manchester Mark 1 and introducing the influential Turing Test in the field of artificial intelligence.",
+        "text_original": "Turing was instrumental in breaking German Enigma codes at Bletchley Park, designing the Bombe machine, and contributing to Allied victory through innovations in cryptanalysis and statistics. He played a role in early computer design, including software for the Manchester Mark 1 and introducing the influential Turing Test in the field of artificial intelligence",
+        "idx_start": 9430,
+        "idx_end": 9793
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Later Work and Death\nTuring explored mathematical biology, introducing reaction-diffusion systems to explain morphogenesis. Despite his groundbreaking achievements, he was prosecuted for homosexuality and subjected to chemical castration. Turing died in 1954, with his death officially ruled a suicide; controversy remains regarding the circumstances.",
+        "text_original": "Turing explored mathematical biology, introducing reaction-diffusion systems to explain morphogenesis. Despite his groundbreaking achievements, he was prosecuted for homosexuality and subjected to chemical castration. Turing died in 1954, with his death officially ruled a suicide; controversy remains regarding the circumstances",
+        "idx_start": 9823,
+        "idx_end": 10152
+    },
+    {
+        "document_idx": null,
+        "text": "# Alan Turing\n## Legacy and Recognition\nTuring\u2019s scientific contributions underpin modern computing, cryptography, and artificial intelligence. He has been posthumously pardoned and is widely honored, influencing law (the Alan Turing Law) and memorialized in global culture, policy, and research.",
+        "text_original": "Turing\u2019s scientific contributions underpin modern computing, cryptography, and artificial intelligence. He has been posthumously pardoned and is widely honored, influencing law (the Alan Turing Law) and memorialized in global culture, policy, and research",
+        "idx_start": 10184,
+        "idx_end": 10439
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## Early Life and Engineering\nVannevar Bush (1890\u20131974) was a pioneering American engineer known for inventions such as the differential analyzer, and for founding major companies like Raytheon. He played a significant role in early computing and electronics.",
+        "text_original": "Vannevar Bush (1890\u20131974) was a pioneering American engineer known for inventions such as the differential analyzer, and for founding major companies like Raytheon. He played a significant role in early computing and electronics",
+        "idx_start": 10497,
+        "idx_end": 10725
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## Leadership in Policy and WWII\nBush chaired the National Defense Research Committee and led the Office of Scientific Research and Development (OSRD) during WWII, coordinating vital innovations such as radar and the proximity fuze, and guiding the Manhattan Project\u2019s atomic bomb development. He shaped postwar science policy and advocated for the establishment of the National Science Foundation.",
+        "text_original": "Bush chaired the National Defense Research Committee and led the Office of Scientific Research and Development (OSRD) during WWII, coordinating vital innovations such as radar and the proximity fuze, and guiding the Manhattan Project\u2019s atomic bomb development. He shaped postwar science policy and advocated for the establishment of the National Science Foundation",
+        "idx_start": 10764,
+        "idx_end": 11128
+    },
+    {
+        "document_idx": null,
+        "text": "# Vannevar Bush\n## Vision and Legacy\nHis influential essay \u201cAs We May Think\u201d introduced the concept of the memex, a precursor to hypertext and the World Wide Web. Bush\u2019s commitment to basic research, science management, and innovation established lasting frameworks for U.S. science policy and remains influential in technology and information science today.",
+        "text_original": "His influential essay \u201cAs We May Think\u201d introduced the concept of the memex, a precursor to hypertext and the World Wide Web. Bush\u2019s commitment to basic research, science management, and innovation established lasting frameworks for U.S. science policy and remains influential in technology and information science today",
+        "idx_start": 11155,
+        "idx_end": 11475
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Early Life and Education\nCharles Babbage (1791\u20131871), a British mathematician and inventor, was educated at Cambridge, co-founding the Analytical Society and pushing reforms in mathematical education and application.",
+        "text_original": "Charles Babbage (1791\u20131871), a British mathematician and inventor, was educated at Cambridge, co-founding the Analytical Society and pushing reforms in mathematical education and application",
+        "idx_start": 11533,
+        "idx_end": 11723
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Major Contributions and Inventions\nHe pioneered mechanical computation with his Difference Engine and, later, his Analytical Engine\u2014the first designs for a general-purpose computer. The Analytical Engine featured concepts of programmability, conditional branching, and input/output separation, presaging modern computing models. His collaboration with Ada Lovelace produced the first published algorithm for such a machine.",
+        "text_original": "He pioneered mechanical computation with his Difference Engine and, later, his Analytical Engine\u2014the first designs for a general-purpose computer. The Analytical Engine featured concepts of programmability, conditional branching, and input/output separation, presaging modern computing models. His collaboration with Ada Lovelace produced the first published algorithm for such a machine",
+        "idx_start": 11767,
+        "idx_end": 12154
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Additional Achievements\nBabbage contributed to economics and technology through operational research and manufacturing efficiency (\"Babbage principle\"), and was active in natural theology and societal reform. He made advances in engineering, cryptography, and public advocacy.",
+        "text_original": "Babbage contributed to economics and technology through operational research and manufacturing efficiency (\"Babbage principle\"), and was active in natural theology and societal reform. He made advances in engineering, cryptography, and public advocacy",
+        "idx_start": 12187,
+        "idx_end": 12438
+    },
+    {
+        "document_idx": null,
+        "text": "# Charles Babbage\n## Legacy\nThough his engines were unfinished during his lifetime, they have since been constructed and validated. Babbage influenced the development of computing, management, and scientific societies, and is commemorated widely in scientific, educational, and cultural spheres.",
+        "text_original": "Though his engines were unfinished during his lifetime, they have since been constructed and validated. Babbage influenced the development of computing, management, and scientific societies, and is commemorated widely in scientific, educational, and cultural spheres",
+        "idx_start": 12454,
+        "idx_end": 12720
+    }
+]

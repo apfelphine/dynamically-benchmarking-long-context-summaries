@@ -1,0 +1,29 @@
+{
+  "id": 23284,
+  "title": "Do Androids Dream of Electric Sheep?",
+  "url": "https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F",
+  "path": "AI-Fiction\\do-androids-dream-of-electric-sheep",
+  "summary": {
+    "chars": 762,
+    "tokens": 181
+  },
+  "document": {
+    "chars": 13656,
+    "tokens": 2835
+  },
+  "infobox": {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "data": {
+      "Author": "Philip K. Dick",
+      "Language": "English",
+      "Genre": "Cyberpunk science fiction dystopia",
+      "Publisher": "Doubleday",
+      "Publication date": "1968",
+      "Publication place": "United States",
+      "Media type": "Print (hardback & paperback)",
+      "Pages": "210",
+      "OCLC": "34818133",
+      "Followed by": "The Edge of Human"
+    }
+  }
+}

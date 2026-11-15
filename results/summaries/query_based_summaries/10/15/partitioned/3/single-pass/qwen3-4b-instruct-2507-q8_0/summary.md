@@ -1,0 +1,11 @@
+**Education in Norway**
+
+Norway's education system is structured into three main stages: elementary (barneskole, ages 6–12), lower secondary (ungdomsskole, ages 13–16), and upper secondary (videregående skole, ages 16–19). Compulsory education covers ages 6–16, with upper secondary education being optional. 
+
+Elementary and lower secondary schools are mandatory and provide a broad curriculum, including core subjects like mathematics, English, science, religion, and social studies. Students in lower secondary school are graded, and these grades determine eligibility for upper secondary school. Elective subjects (valgfag) are offered, with options including foreign languages (e.g., German, French, Spanish) and career-oriented courses (arbeidslivsfag).
+
+Upper secondary education, introduced through the 1994 reform ("Reform 94"), merged former general, mercantile, and vocational tracks into a unified system. Students can choose between a general studies (studieforberedelse) or vocational studies (yrkesfag) path. Vocational programs follow a "2+2 model": two years of classroom training and one year of apprenticeship (with one year of practical work and one year of training). General studies emphasize theoretical education, preparing students for higher education.
+
+The system emphasizes inclusive and flexible learning environments, with institutions required to provide universal design. Private schools are limited and must offer a religious or pedagogical alternative. As of 2017, 73% of upper secondary students graduated. Norwegian students perform well internationally, particularly in reading and science, though mathematics performance among top students lags behind Shanghai.
+
+Educators include preschool teachers (førskolelærer), adjunct teachers (adjunkt), and lecturers (lektor) with varying qualifications. Higher education includes universities and university colleges, with degrees in arts, humanities, natural sciences, and professional fields. Admission requires a general university admissions certificate (generell studiekompetanse), and students may re-sit exams to improve grades for competitive programs like medicine or engineering. The Norwegian Agency for Quality Assurance in Education (NOKUT) ensures quality.

@@ -1,0 +1,35 @@
+{
+  "id": 80992913,
+  "title": "Dog 51",
+  "url": "https://en.wikipedia.org/wiki/Dog_51",
+  "path": "AI-Fiction\\dog-51",
+  "summary": {
+    "chars": 564,
+    "tokens": 147
+  },
+  "document": {
+    "chars": 1647,
+    "tokens": 371
+  },
+  "infobox": {
+    "title": "Dog 51",
+    "data": {
+      "French": "Chien 51",
+      "Directed by": "C\u00e9dric Jimenez",
+      "Screenplay by": "- Olivier Demangel - C\u00e9dric Jimenez",
+      "Based on": "Chien 51 \u00b7 by Laurent Gaud\u00e9",
+      "Produced by": "Hugo S\u00e9lignac",
+      "Starring": "- Gilles Lellouche - Ad\u00e8le Exarchopoulos - Louis Garrel - Romain Duris - Valeria Bruni Tedeschi - Artus",
+      "Cinematography": "Laurent Tangy",
+      "Edited by": "- Laure Gardette - Stan Collet",
+      "Music by": "Guillaume Roussel",
+      "Production \u00b7 companies": "- Chi-Fou-Mi Productions - Studiocanal - France 2 Cin\u00e9ma - Jim Films - Artemis Productions",
+      "Distributed by": "Studiocanal",
+      "Release dates": "- 6 September 2025 (Venice) - 15 October 2025 (France)",
+      "Country": "France",
+      "Language": "French",
+      "Budget": "\u20ac40\u201350 million",
+      "Box office": "$6 million"
+    }
+  }
+}

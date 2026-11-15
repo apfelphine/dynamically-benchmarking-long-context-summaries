@@ -1,0 +1,1 @@
+Arthur John Robin Gorell Milner FRS (13 January 1934 – 20 March 2010) was a British computer scientist, and a Turing Award winner.

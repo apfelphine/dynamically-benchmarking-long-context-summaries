@@ -1,0 +1,2 @@
+The Morehead-Cain Scholarship (previously known as the Morehead Scholarship from 1951 to 2007) is a scholarship program at the University of North Carolina at Chapel Hill. It admits high school seniors and covers their expenses for four years of undergraduate education at UNC Chapel Hill, as well as their summer enrichment activities, independent research, internships, and international study.
+The program was founded in 1951. It was named after John Motley Morehead III in 1951 and also after the Gordon and Mary Cain Foundation in 2007.

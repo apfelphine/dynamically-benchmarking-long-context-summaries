@@ -1,0 +1,2 @@
+Khalifa University (Arabic: جامعة خليفة) is a research, innovation and enterprise-intensive public university located in Abu Dhabi, United Arab Emirates.
+As of 2023, faculty and staff come from over 70 countries, and its student body is internationally diverse and co-educational.

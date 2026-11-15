@@ -1,0 +1,27 @@
+{
+  "id": 93547,
+  "title": "Robin Milner",
+  "url": "https://en.wikipedia.org/wiki/Robin_Milner",
+  "path": "Comp-Sci-Pioneers\\robin-milner",
+  "summary": {
+    "chars": 130,
+    "tokens": 35
+  },
+  "document": {
+    "chars": 3466,
+    "tokens": 826
+  },
+  "infobox": {
+    "title": "Robin Milner",
+    "data": {
+      "Born": "Arthur John Robin Gorell Milner \u00b7 13 January 1934 \u00b7 Yealmpton, Plymouth, England",
+      "Died": "20 March 2010 (aged 76) \u00b7 Cambridge, England",
+      "Education": "King's College, Cambridge (BA)",
+      "Known for": "- Theory of Computer Science - LCF - ML - Calculus of communicating systems - \u03c0-calculus - Hindley\u2013Milner type inference",
+      "Awards": "- Turing Award (1991) - FRS - DFBCS - FRSE - Foreign Associate, NAE",
+      "Fields": "Computer science",
+      "Institutions": "- Ferranti - City University, London - Swansea University - Stanford University - University of Edinburgh - University of Cambridge - Aarhus University",
+      "Doctoral students": "Mads Tofte (1988) \u00b7 Faron Moller \u00b7 Chris Tofts \u00b7 Davide Sangiorgi (1993)"
+    }
+  }
+}

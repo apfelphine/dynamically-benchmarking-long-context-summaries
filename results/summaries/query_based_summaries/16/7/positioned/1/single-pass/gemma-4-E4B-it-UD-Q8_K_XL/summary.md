@@ -1,0 +1,1 @@
+The provided text does not contain any information about the "University of Jordan." Therefore, I cannot generate a summary based strictly on the text regarding this institution.

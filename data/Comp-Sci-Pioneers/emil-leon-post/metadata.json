@@ -1,0 +1,27 @@
+{
+  "id": 362382,
+  "title": "Emil Leon Post",
+  "url": "https://en.wikipedia.org/wiki/Emil_Leon_Post",
+  "path": "Comp-Sci-Pioneers\\emil-leon-post",
+  "summary": {
+    "chars": 201,
+    "tokens": 55
+  },
+  "document": {
+    "chars": 5715,
+    "tokens": 1359
+  },
+  "infobox": {
+    "title": "Emil Leon Post",
+    "data": {
+      "Born": "February 11, 1897 \u00b7 August\u00f3w, Suwa\u0142ki Governorate, Congress Poland, Russian Empire \u00b7 (now Poland)",
+      "Died": "April 21, 1954 (aged 57) \u00b7 New York City, U.S.",
+      "Alma mater": "City College of New York (B.S., 1917) \u00b7 Columbia University (A.M. 1918, Ph.D. 1920)",
+      "Known for": "Formulation 1 \u00b7 Post correspondence problem \u00b7 Completeness-proof of Principia's propositional calculus \u00b7 Post's inversion formula \u00b7 Post's lattice \u00b7 Post's theorem",
+      "Fields": "Mathematics, logic",
+      "Institutions": "Princeton University",
+      "Thesis": "Introduction to a General Theory of Elementary Propositions (1920)",
+      "Doctoral advisor": "Cassius Jackson Keyser"
+    }
+  }
+}

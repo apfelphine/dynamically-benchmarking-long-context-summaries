@@ -1,0 +1,30 @@
+{
+  "id": 1507538,
+  "title": "Barbara Liskov",
+  "url": "https://en.wikipedia.org/wiki/Barbara_Liskov",
+  "path": "Comp-Sci-Pioneers\\barbara-liskov",
+  "summary": {
+    "chars": 816,
+    "tokens": 151
+  },
+  "document": {
+    "chars": 6405,
+    "tokens": 1602
+  },
+  "infobox": {
+    "title": "Barbara Liskov",
+    "data": {
+      "Born": "Barbara Jane Huberman \u00b7 November 7, 1939 \u00b7 Los Angeles, California, US",
+      "Education": "- University of California, Berkeley (BA) - Stanford University (MS, PhD)",
+      "Known for": "- Venus (operating system) - CLU - Argus - Thor (object-oriented database) - Liskov substitution principle",
+      "Spouse": "Nathan Liskov (1970\u2013)",
+      "Children": "1",
+      "Awards": "- IEEE John von Neumann Medal (2004) - A. M. Turing Award (2008) \u00b7 National Inventors Hall of Fame (2012) - Computer Pioneer Award (2018)",
+      "Fields": "Computer science",
+      "Institutions": "Massachusetts Institute of Technology",
+      "Thesis": "A Program to Play Chess End Games (1968)",
+      "Doctoral advisor": "John McCarthy",
+      "Doctoral students": "- Maurice Herlihy - J. Eliot Moss - Sanjay Ghemawat - Andrew Myers - Dan R.K. Ports"
+    }
+  }
+}

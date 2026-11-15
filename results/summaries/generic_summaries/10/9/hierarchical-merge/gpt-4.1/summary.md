@@ -1,0 +1,19 @@
+# Global Education Systems
+
+## Europe
+European countries exhibit diverse approaches to education. Ireland and Norway mandate schooling until age 16 and emphasize equity, inclusive practices, and advanced teacher training. England offers state-funded education from ages 5 to 18 across multiple school types, standardized curricula, and vocational pathways, with reforms focusing on access for disadvantaged groups and support for special education. France features a centralized, secular system with free education through high school, competitive university admissions, and a focus on standardized benchmarking. Sweden provides comprehensive, publicly funded education with both state and tuition-free independent schools, curriculum updates, and ongoing debates on equity and grading standards driven by recent slips in international performance.
+
+## Middle East and Asia
+Israel’s compulsory system spans secular, religious, and Arab schools, facing persistent inequalities but recognized strength in higher education. Iran blends Islamic values with scientific development, boasting high female STEM participation and prestigious universities, yet grapples with resource issues and dropout rates. Turkey maintains a centralized, secular model with mandatory twelve-year education and challenges over political influence and minority inclusivity.
+
+In Asia, Taiwan ensures twelve years of structured, discipline-focused education with high university attendance but job scarcity among graduates. Indonesia’s twelve-year compulsory system merges various traditions, achieving high enrollment while confronting resource and teacher quality disparities. Sri Lanka provides free, compulsory education until age 14, but intense competition for university entry leads to reliance on private tuition and employment imbalances. Hong Kong, influenced by British traditions, delivers bilingual and international curricula with competitive university admissions, ongoing curriculum modernization, and a shift toward national security priorities, yet faces educational emigration and retention issues.
+
+## Africa
+Nigeria’s system guides students through primary and secondary education, where national exams determine progression. Ambitions for universal digital literacy are offset by resource gaps and access challenges, particularly for girls in rural regions. Egypt mandates nine years of centralized schooling across academic, technical, and religious tracks but contends with overcrowding, reliance on private tutoring, and graduate unemployment. Ghana offers free, compulsory basic education (12 years), but struggles with low vocational engagement, unequal tertiary access, and infrastructure constrains, particularly in rural areas, despite expanding teacher training and reforms aimed at equity, gender inclusion, and ICT integration.
+
+## Eastern Europe & Eurasia
+Armenia aligns its widespread compulsory schooling with European standards, featuring high literacy and robust university programs. Nonetheless, absenteeism and dropouts persist due to child labor and quality gaps, even as after-school initiatives offer supplemental support.
+
+---
+
+Across regions, common themes include efforts to expand access and equity, integration of standardized curricula and vocational tracks, persistent challenges of quality gaps and resource disparities, and ongoing reforms to better prepare students for higher education and the workforce.

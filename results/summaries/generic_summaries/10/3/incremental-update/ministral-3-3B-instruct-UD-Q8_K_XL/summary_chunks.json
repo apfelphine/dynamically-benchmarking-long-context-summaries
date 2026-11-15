@@ -1,0 +1,107 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Historical & Structural Evolution\nEgypt\u2019s system evolved from **ancient institutions** (e.g., *Bar Ankh* schools) and the **Islamic Golden Age\u2019s al-Azhar/Dar al-Ilm** , later shaped by **colonial reforms** (British occupation, Muhammad Ali\u2019s scientific education) into a **centralized, vocational system** with enduring **teacher shortages** and **infrastructure gaps** . Post-independence, it embraced **public-private partnerships** (e.g., agricultural schools) and **QS rankings** (e.g., Cairo University at 350th globally).\nIndonesia\u2019s system emerged from **colonial segregation** ( *ELS/HIS/HCS* ) into a **post-independence nationalized framework** , blending **Islamic traditions** (e.g., *Pondok Pesantren* ) with secular reforms. **Japanese occupation (1942\u20131945)** drastically reduced schooling access, while **private kindergartens (99.35%)** dominated early childhood education, particularly in rural areas.\nIsrael\u2019s system, shaped by **Jewish-Arab segregation** , prioritized **high attainment** through **military education** (e.g., *Bagrut exams* ) and **universal higher education access** , despite **regional disparities** and **underserved groups** (e.g., Arab/Haredi students). Sri Lanka\u2019s system spans **2,300 years** , rooted in **Buddhist monastic schools (Pirivenas)** and **colonial Christian missions** , evolving into a **vernacular education system** (Sinhala/Tamil) post-colonial reforms.",
+        "text_original": "Egypt\u2019s system evolved from **ancient institutions** (e.g., *Bar Ankh* schools) and the **Islamic Golden Age\u2019s al-Azhar/Dar al-Ilm**, later shaped by **colonial reforms** (British occupation, Muhammad Ali\u2019s scientific education) into a **centralized, vocational system** with enduring **teacher shortages** and **infrastructure gaps**. Post-independence, it embraced **public-private partnerships** (e.g., agricultural schools) and **QS rankings** (e.g., Cairo University at 350th globally).\n\nIndonesia\u2019s system emerged from **colonial segregation** (*ELS/HIS/HCS*) into a **post-independence nationalized framework**, blending **Islamic traditions** (e.g., *Pondok Pesantren*) with secular reforms. **Japanese occupation (1942\u20131945)** drastically reduced schooling access, while **private kindergartens (99.35%)** dominated early childhood education, particularly in rural areas.\n\nIsrael\u2019s system, shaped by **Jewish-Arab segregation**, prioritized **high attainment** through **military education** (e.g., *Bagrut exams*) and **universal higher education access**, despite **regional disparities** and **underserved groups** (e.g., Arab/Haredi students). Sri Lanka\u2019s system spans **2,300 years**, rooted in **Buddhist monastic schools (Pirivenas)** and **colonial Christian missions**, evolving into a **vernacular education system** (Sinhala/Tamil) post-colonial reforms",
+        "idx_start": 130,
+        "idx_end": 1503
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Egypt:\n- **Structure** : **Free compulsory basic education (4\u201314 years)** , two secondary tracks (general/technical), and **TVET/Applied Technology Schools** . Higher education is **public/private** , with **~30% enrollment** and **~50% graduation rates** . **Agricultural schools** collaborate with the Ministry of Agriculture.\n- **COVID-19 Impact** : Shifted to **distance learning** , highlighting **resource disparities** , while **infrastructure gaps** and **teacher shortages** persisted. **Recent challenges** :\n    - **Private tutoring dominance** (61\u201370%) disproportionately funded by wealthier households.\n    - **Public education issues** : Embezzlement, examination leakage, and **low teacher salaries ($360\u2013$460/year)** below average income.\n    - **Youth unemployment** : High (36.1% for university graduates, 53.2% for females).\n- **Global Rankings** : **118th for primary education quality (2013, WEF)** ; **15 Egyptian universities** ranked globally (e.g., AUC: 410th).",
+        "text_original": "Structure**: **Free compulsory basic education (4\u201314 years)**, two secondary tracks (general/technical), and **TVET/Applied Technology Schools**. Higher education is **public/private**, with **~30% enrollment** and **~50% graduation rates**. **Agricultural schools** collaborate with the Ministry of Agriculture.\n- **COVID-19 Impact**: Shifted to **distance learning**, highlighting **resource disparities**, while **infrastructure gaps** and **teacher shortages** persisted. **Recent challenges**:\n  - **Private tutoring dominance** (61\u201370%) disproportionately funded by wealthier households.\n  - **Public education issues**: Embezzlement, examination leakage, and **low teacher salaries ($360\u2013$460/year)** below average income.\n  - **Youth unemployment**: High (36.1% for university graduates, 53.2% for females).\n- **Global Rankings**: **118th for primary education quality (2013, WEF)**; **15 Egyptian universities** ranked globally (e.g., AUC: 410th",
+        "idx_start": 1583,
+        "idx_end": 2537
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Indonesia:\n- **Compulsory Education (12 Years)** : Primary (SD) and junior high (SMP) emphasize core subjects, with **decentralized curricula** since 2013. **Senior high (SMA/SMK)** offers **vocational pathways** , while **early childhood education** is overwhelmingly private. **Islamic education** (e.g., *Pondok Pesantren* ) integrates **Quranic studies with modern subjects** . **Funding gaps** persist, with **teacher shortages** , **low salaries** , and **digital divides** post-COVID.",
+        "text_original": "Compulsory Education (12 Years)**: Primary (SD) and junior high (SMP) emphasize core subjects, with **decentralized curricula** since 2013. **Senior high (SMA/SMK)** offers **vocational pathways**, while **early childhood education** is overwhelmingly private. **Islamic education** (e.g., *Pondok Pesantren*) integrates **Quranic studies with modern subjects**. **Funding gaps** persist, with **teacher shortages**, **low salaries**, and **digital divides** post-COVID",
+        "idx_start": 2560,
+        "idx_end": 3029
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Israel:\n- **High Attainment** : **46% post-secondary degrees** , **11.6 years of schooling** , and **Bagrut exams** determining university admissions/military service. **Arab education sector** faces **underfunding** ($192 vs. $1,100 per student), higher dropout rates, and **classroom shortages** . **Affirmative action policies** (1999) and **5-year plans** (e.g., 2011\u20132022) have limited success due to **resources, textbook biases, and gender gaps** (women dominate higher education but underrepresent STEM).",
+        "text_original": "High Attainment**: **46% post-secondary degrees**, **11.6 years of schooling**, and **Bagrut exams** determining university admissions/military service. **Arab education sector** faces **underfunding** ($192 vs. $1,100 per student), higher dropout rates, and **classroom shortages**. **Affirmative action policies** (1999) and **5-year plans** (e.g., 2011\u20132022) have limited success due to **resources, textbook biases, and gender gaps** (women dominate higher education but underrepresent STEM",
+        "idx_start": 3048,
+        "idx_end": 3542
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Sri Lanka:\n- **Structure** : **Free government schools** (373 national, 9,782 provincial, 561 Pirivenas) and **private/international schools** (104 private, 104 international). **Primary (Grades 1\u20135)** , **junior/senior secondary (Grades 6\u201311)** , and **collegiate exams (GCE O/L/A/L)** determine university entry.\n- **Religious Schools** : **Madrasas (~205)** , **Pirivenas** , and **vernacular colleges** (e.g., Hindu/Catholic/Muslim).\n- **Tertiary Education** : **State universities** (free but competitive) and **private options** (local/foreign degrees, professional qualifications). **Criticisms** : Brain drain, limited exposure, and opposition to private universities.\n- **Vocational Education** : Managed by the **Tertiary & Vocational Education Commission** , including **NVQSL levels** , technical colleges, and **non-formal programs** (e.g., self-employment courses).",
+        "text_original": "Structure**: **Free government schools** (373 national, 9,782 provincial, 561 Pirivenas) and **private/international schools** (104 private, 104 international). **Primary (Grades 1\u20135)**, **junior/senior secondary (Grades 6\u201311)**, and **collegiate exams (GCE O/L/A/L)** determine university entry.\n- **Religious Schools**: **Madrasas (~205)**, **Pirivenas**, and **vernacular colleges** (e.g., Hindu/Catholic/Muslim).\n- **Tertiary Education**: **State universities** (free but competitive) and **private options** (local/foreign degrees, professional qualifications). **Criticisms**: Brain drain, limited exposure, and opposition to private universities.\n- **Vocational Education**: Managed by the **Tertiary & Vocational Education Commission**, including **NVQSL levels**, technical colleges, and **non-formal programs** (e.g., self-employment courses",
+        "idx_start": 3565,
+        "idx_end": 4416
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Egypt:\n- **Curriculum** : Modern reforms emphasize **enrollment expansion** , but **quality remains weak** , with **rote memorization** . **COVID-19 distance learning** exposed **resource disparities** , while **2025 engineering diploma** and **QS rankings** signal emerging global competitiveness.",
+        "text_original": "Curriculum**: Modern reforms emphasize **enrollment expansion**, but **quality remains weak**, with **rote memorization**. **COVID-19 distance learning** exposed **resource disparities**, while **2025 engineering diploma** and **QS rankings** signal emerging global competitiveness",
+        "idx_start": 4496,
+        "idx_end": 4777
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Indonesia:\n- **Curriculum (2013)** : Specialized tracks (Natural Sciences, Social Sciences, Languages, Religion) with **4 hours/week** dedicated to each. **Teacher training lacks standardization** , and **low salaries** reduce retention. **National exams** (e.g., *Sertifikat SD* ) determine promotion, while **SNMPTN** admissions rely on **private tutoring dominance** .",
+        "text_original": "Curriculum (2013)**: Specialized tracks (Natural Sciences, Social Sciences, Languages, Religion) with **4 hours/week** dedicated to each. **Teacher training lacks standardization**, and **low salaries** reduce retention. **National exams** (e.g., *Sertifikat SD*) determine promotion, while **SNMPTN** admissions rely on **private tutoring dominance",
+        "idx_start": 4799,
+        "idx_end": 5148
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Israel:\n- **Matriculation Exams (Bagrut)** : Critical for **university admissions, military service, and employment** , with **61.5% of 12th graders earning certificates in 2014** . **Arab students** and **special education students** face **systemic barriers** , though **military education** complicates equity.",
+        "text_original": "Matriculation Exams (Bagrut)**: Critical for **university admissions, military service, and employment**, with **61.5% of 12th graders earning certificates in 2014**. **Arab students** and **special education students** face **systemic barriers**, though **military education** complicates equity",
+        "idx_start": 5169,
+        "idx_end": 5465
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Sri Lanka:\n- **Exams** : **Scholarship Exam (Grade 5)** , **GCE O/L (Grade 11)** , and **GCE A/L (Grade 13)** for university entry. **Pirivenas** and **vernacular education** remain culturally pivotal.",
+        "text_original": "Exams**: **Scholarship Exam (Grade 5)**, **GCE O/L (Grade 11)**, and **GCE A/L (Grade 13)** for university entry. **Pirivenas** and **vernacular education** remain culturally pivotal",
+        "idx_start": 5487,
+        "idx_end": 5669
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Egypt:\n- **Disparities** : **Gender gaps** , **urban-rural divides** , **teacher shortages** , and **wealth gaps** . **Private tutoring dominance** and **youth unemployment** (36.1% for graduates, 53.2% for females) persist.",
+        "text_original": "Disparities**: **Gender gaps**, **urban-rural divides**, **teacher shortages**, and **wealth gaps**. **Private tutoring dominance** and **youth unemployment** (36.1% for graduates, 53.2% for females) persist",
+        "idx_start": 5721,
+        "idx_end": 5928
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Indonesia:\n- **Disparities** : **Gender gaps** , **rural-urban divides** , **religious segregation** , and **teacher shortages** . **Vocational pathways (SMK)** align with **Industry 4.0** , but **low tertiary transition rates** reflect **limited access** .",
+        "text_original": "Disparities**: **Gender gaps**, **rural-urban divides**, **religious segregation**, and **teacher shortages**. **Vocational pathways (SMK)** align with **Industry 4.0**, but **low tertiary transition rates** reflect **limited access",
+        "idx_start": 5950,
+        "idx_end": 6182
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Israel:\n- **Equity Gaps** : **Regional disparities** , **underserved Arab/Haredi/special education students** , and **gender gaps in STEM** . **Affirmative action policies** face resource constraints.",
+        "text_original": "Equity Gaps**: **Regional disparities**, **underserved Arab/Haredi/special education students**, and **gender gaps in STEM**. **Affirmative action policies** face resource constraints",
+        "idx_start": 6203,
+        "idx_end": 6386
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Sri Lanka:\n- **Disparities** : **Vernacular education prioritization** , **religious school segregation** , and **teacher shortages** . **Private institutions lack regulation** , and **brain drain** is a major issue.",
+        "text_original": "Disparities**: **Vernacular education prioritization**, **religious school segregation**, and **teacher shortages**. **Private institutions lack regulation**, and **brain drain** is a major issue",
+        "idx_start": 6408,
+        "idx_end": 6603
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Global Context & Reforms\n**Shared Legacies** : Colonial legacies (e.g., Egypt\u2019s British occupation, Indonesia\u2019s *ELS/HIS/HCS* , Israel\u2019s segregation, Sri Lanka\u2019s vernacular education) persist in **funding disparities** and **teacher training challenges** .\n**Emerging Trends** :\n- **Digital literacy reforms** and **teacher training** are priorities, though **funding disparities** (e.g., Egypt\u2019s lower spending, Sri Lanka\u2019s private university debates) shape outcomes.\n- **Vocational integration** :\n    - **Egypt** : Limited vocational training.\n    - **Indonesia** : **SMK programs** aligned with **Industry 4.0** .\n    - **Israel** : **Military education** as a pathway.\n    - **Sri Lanka** : **GCE O/L/A/L exams** as university gateways.\n**Key Reforms** :\n- **Egypt** : **Free public education** , **enrollment expansion** , and **COVID-19 adaptations** .\n- **Israel** : Affirmative action policies and **5-year plans for Arab education** .\n- **Indonesia** : **Decentralized curricula** , **vocational pathways (SMK)** , and **corruption mitigation** .\n- **Sri Lanka** : **Kannangara\u2019s free education (1938)** , **vernacular reforms** , and **Pirivenas revival** .",
+        "text_original": "Shared Legacies**:\nColonial legacies (e.g., Egypt\u2019s British occupation, Indonesia\u2019s *ELS/HIS/HCS*, Israel\u2019s segregation, Sri Lanka\u2019s vernacular education) persist in **funding disparities** and **teacher training challenges**.\n\n**Emerging Trends**:\n- **Digital literacy reforms** and **teacher training** are priorities, though **funding disparities** (e.g., Egypt\u2019s lower spending, Sri Lanka\u2019s private university debates) shape outcomes.\n- **Vocational integration**:\n  - **Egypt**: Limited vocational training.\n  - **Indonesia**: **SMK programs** aligned with **Industry 4.0**.\n  - **Israel**: **Military education** as a pathway.\n  - **Sri Lanka**: **GCE O/L/A/L exams** as university gateways.\n\n**Key Reforms**:\n- **Egypt**: **Free public education**, **enrollment expansion**, and **COVID-19 adaptations**.\n- **Israel**: Affirmative action policies and **5-year plans for Arab education**.\n- **Indonesia**: **Decentralized curricula**, **vocational pathways (SMK)**, and **corruption mitigation**.\n- **Sri Lanka**: **Kannangara\u2019s free education (1938)**, **vernacular reforms**, and **Pirivenas revival",
+        "idx_start": 6646,
+        "idx_end": 7753
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Summary of Education Systems: Indonesia, Israel, Egypt, and Sri Lanka\n## Conclusion\nThese systems reflect **diverse historical legacies** \u2014from **colonial segregation** to **post-independence reforms** \u2014while confronting **equity, funding, and digital divides** . **Israel and Sri Lanka** prioritize **high attainment and vocational pathways** , while **Egypt and Indonesia** grapple with **infrastructure, teacher training, and private tutoring dominance** . **Globalization** (e.g., QS rankings, digital education) and **COVID-19 adaptations** are reshaping priorities, yet **systemic inequities** persist, particularly in **funding, teacher quality, and vocational access** . Sri Lanka\u2019s **rigid exam-driven system** and **private sector challenges** underscore the need for **balanced reforms** to foster creativity and sustainability.",
+        "text_original": "These systems reflect **diverse historical legacies**\u2014from **colonial segregation** to **post-independence reforms**\u2014while confronting **equity, funding, and digital divides**. **Israel and Sri Lanka** prioritize **high attainment and vocational pathways**, while **Egypt and Indonesia** grapple with **infrastructure, teacher training, and private tutoring dominance**. **Globalization** (e.g., QS rankings, digital education) and **COVID-19 adaptations** are reshaping priorities, yet **systemic inequities** persist, particularly in **funding, teacher quality, and vocational access**. Sri Lanka\u2019s **rigid exam-driven system** and **private sector challenges** underscore the need for **balanced reforms** to foster creativity and sustainability",
+        "idx_start": 7782,
+        "idx_end": 8530
+    }
+]

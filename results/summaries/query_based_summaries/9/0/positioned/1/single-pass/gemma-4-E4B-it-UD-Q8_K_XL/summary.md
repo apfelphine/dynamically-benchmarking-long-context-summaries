@@ -1,0 +1,1 @@
+The provided text contains no information regarding "Education in Pakistan." The available text sections detail education systems in various other countries, including Poland, the Czech Republic, Russia, Canada, South Korea, Bangladesh, the Netherlands, Saudi Arabia, Japan, New Zealand, Mexico, and several others.

@@ -1,0 +1,29 @@
+{
+  "id": 39434,
+  "title": "Tony Hoare",
+  "url": "https://en.wikipedia.org/wiki/Tony_Hoare",
+  "path": "Comp-Sci-Pioneers\\tony-hoare",
+  "summary": {
+    "chars": 864,
+    "tokens": 178
+  },
+  "document": {
+    "chars": 7195,
+    "tokens": 1614
+  },
+  "infobox": {
+    "title": "Sir Tony HoareFRS FREng",
+    "data": {
+      "Born": "Charles Antony Richard Hoare \u00b7 11 January 1934 \u00b7 Colombo, British Ceylon",
+      "Education": "- Merton College, Oxford (BA, PgDip) - Moscow State University",
+      "Known for": "- Quicksort - Quickselect - Hoare logic - Null reference - Communicating sequential processes - Structured programming - ALGOL",
+      "Spouse": "Jill Pym",
+      "Children": "3",
+      "Awards": "Turing Award (1980) \u00b7 Harry H. Goode Memorial Award (1981) \u00b7 Faraday Medal (1985) \u00b7 Computer Pioneer Award (1990) \u00b7 Kyoto Prize (2000) \u00b7 IEEE John von Neumann Medal (2011) \u00b7 Royal Medal (2023)",
+      "Fields": "Computer science",
+      "Institutions": "- Elliott Brothers - Queen's University Belfast - University of Oxford - Moscow State University - Microsoft Research",
+      "Doctoral students": "- Cliff Jones - Bill Roscoe - Augusto Sampaio",
+      "Website": "www.cs.ox.ac.uk/people/tony.hoare"
+    }
+  }
+}

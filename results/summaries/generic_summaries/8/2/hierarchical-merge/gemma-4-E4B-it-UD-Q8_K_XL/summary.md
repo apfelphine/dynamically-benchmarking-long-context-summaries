@@ -1,0 +1,11 @@
+# Global Education Systems Overview
+
+## Comparative System Profiles
+Various national education systems present a diverse landscape of structure and challenges. The **Philippine** system is compulsory K-12 but struggles with low upper secondary completion rates and poor PISA outcomes, alongside socioeconomic access disparities. In contrast, **Finland** employs a holistic, fee-free model emphasizing well-being and phenomenon-based learning with minimal high-stakes testing.
+
+Other systems display unique characteristics. **Australia** utilizes a decentralized state-regulated K-12 structure while addressing Indigenous educational gaps. **Malaysia** features diverse schools and promotes global competitiveness through dual-language programs. **Romania** mandates 15 years of education but faces resource disparities, while **Portugal** mandates nine years of free basic education, offering diverse secondary pathways.
+
+## Equity, Challenges, and Structure
+Many nations grapple with significant internal equity issues. The **United States** system faces substantial inequality marked by racial achievement gaps, low teacher retention, and reliance on property-tax funding. Similarly, **South Africa** contends with structural disparities inherited from apartheid, poor resource distribution, and high graduate unemployment.
+
+Other countries show systemic difficulties despite general stability. The **Philippines** faces high out-of-school rates, and Australia is actively working to improve outcomes for Indigenous students. Globally, issues range from financial instability impacting higher education (Portugal) to pervasive disparities between urban and rural areas (Romania).

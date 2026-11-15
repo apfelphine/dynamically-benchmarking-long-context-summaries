@@ -1,0 +1,13 @@
+Philip Rubin is a prominent figure in computational and cognitive science, known for his foundational work in speech production and perception. He earned his BA in psychology and linguistics from Brandeis University and his PhD in experimental psychology from the University of Connecticut under the supervision of Michael Turvey, Ignatius Mattingly, Philip Lieberman, and Alvin Liberman.
+
+Rubin's research spans computational modeling, engineering, and cognitive science, with a focus on embodied cognition and the biological bases of speech and language. He is best known for developing key tools in speech technology, including the ASY and SWS articulatory synthesis programs, and the HADES signal processing system. He also designed the SPIEL programming language, a predecessor to MATLAB.
+
+A major theoretical contribution is his dynamical systems/action theory perspective on speech, which emphasizes spatiotemporal coordination over traditional features of speech signals. He introduced the concept of "speech gestures" and developed the TADA system, which integrates articulatory phonology, task dynamics, and articulatory synthesis to model speech production.
+
+Rubin has held significant leadership roles in science policy and administration, including serving as Director of the Division of Behavioral and Cognitive Sciences at the National Science Foundation (NSF) and as Assistant Director for Social, Behavioral, and Economic Sciences at the White House Office of Science and Technology Policy (OSTP). At OSTP, he led the White House's neuroscience initiative and co-chaired the National Science and Technology Council's Committee on Science.
+
+He is also a strong advocate for ethical issues in research, particularly concerning human subjects and emerging technologies. He has served on key advisory committees and has been a vocal critic of technologies like voice stress analysis and surveillance practices.
+
+Rubin has received numerous honors, including fellowships from the Acoustical Society of America, the American Psychological Association, and the American Association for the Advancement of Science. He is a member of the American Academy of Arts and Sciences and has held leadership roles in organizations such as the Federation of Associations in Behavioral and Brain Sciences (FABBS).
+
+He is also recognized for his contributions to open science and public engagement, including co-founding AVISA and participating in initiatives to promote science education and ethical research practices.

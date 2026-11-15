@@ -1,0 +1,7 @@
+# King's Scholar
+
+**Historical Origins and Eton College:**
+The tradition of King's Scholars began on July 7, 1317, when King Edward II established the first King's Scholars at the University of Cambridge. Later, King Henry VI founded Eton College in 1440, providing free education to "poor, scholarly boys." At Eton College, a King's Scholar (or "Colleger"/"tug") must pass the College Election examination and receive a Foundation Scholarship. Historically, this scholarship offered full waiver of fees, but since the 1960s, it has been subject to means testing, meaning part or all of the fees may be waived based on financial circumstances.
+
+**Other Institutions and Academic Recognition:**
+The term "King's Scholar" is also used at King's College Cambridge for undergraduates who achieve first-class degrees, receiving a prize of £350. Furthermore, the seven King's Schools (Canterbury, Chester, Ely, Gloucester, Peterborough, Rochester, and Worcester) were re-endowed or re-founded by King Henry VIII in 1541 to award King's Scholarships, generally recognizing academic or musical attainment and often accompanied by a fee discount. The term is also used for undergraduates at King's College Cambridge who obtain first-class degrees.

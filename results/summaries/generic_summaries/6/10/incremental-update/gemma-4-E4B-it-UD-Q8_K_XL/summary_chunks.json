@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Foundational Concepts in Logic, Computation, and Early Technology:\nThe foundations of logic were established by figures like Ramon Llull, later formalized by George Boole and Claude Shannon. Shannon, a central figure in information theory, applied Boolean algebra to develop switching circuits at MIT, underpinning modern digital design and contributing to WWII cryptography. His work includes introducing **information entropy** in 1948, developing the \"matched filter\" principle, and contributing to combinatorics and detection theory. He also designed \"Theseus,\" an early learning device, participated in the 1956 Dartmouth workshop, co-developed pulse-code modulation, and pioneered computer chess programming using a minimax procedure, estimating the complexity of chess. Early mechanical innovations involved Ismail al-Jazari, Jacek Karpi\u0144ski, and Federico Faggin, alongside pioneers like Grace Hopper and Kenneth E. Iverson.",
+        "text_original": "The foundations of logic were established by figures like Ramon Llull, later formalized by George Boole and Claude Shannon. Shannon, a central figure in information theory, applied Boolean algebra to develop switching circuits at MIT, underpinning modern digital design and contributing to WWII cryptography. His work includes introducing **information entropy** in 1948, developing the \"matched filter\" principle, and contributing to combinatorics and detection theory. He also designed \"Theseus,\" an early learning device, participated in the 1956 Dartmouth workshop, co-developed pulse-code modulation, and pioneered computer chess programming using a minimax procedure, estimating the complexity of chess. Early mechanical innovations involved Ismail al-Jazari, Jacek Karpi\u0144ski, and Federico Faggin, alongside pioneers like Grace Hopper and Kenneth E. Iverson",
+        "idx_start": 71,
+        "idx_end": 934
+    },
+    {
+        "document_idx": null,
+        "text": "# Logic, Mathematics, and AI Theory:\nTheorists such as Kurt G\u00f6del advanced significant concepts with his incompleteness theorems. In AI, Geoffrey Hinton was instrumental in pioneering neural networks and backpropagation, while Herbert A. Simon, a highly decorated scholar, profoundly influenced AI, Economics, Cognitive Science, and Sociology. Simon developed problem-solving models (EPAM, CHREST) and introduced \"satisficing\" based on \"bounded rationality,\" alongside co-developing programs like the General Problem Solver with Allen Newell.",
+        "text_original": "Theorists such as Kurt G\u00f6del advanced significant concepts with his incompleteness theorems. In AI, Geoffrey Hinton was instrumental in pioneering neural networks and backpropagation, while Herbert A. Simon, a highly decorated scholar, profoundly influenced AI, Economics, Cognitive Science, and Sociology. Simon developed problem-solving models (EPAM, CHREST) and introduced \"satisficing\" based on \"bounded rationality,\" alongside co-developing programs like the General Problem Solver with Allen Newell",
+        "idx_start": 976,
+        "idx_end": 1480
+    },
+    {
+        "document_idx": null,
+        "text": "# Computing Systems, Architecture, and Pioneers:\nKey architects include Per Brinch Hansen, who advanced distributed computing via RPC concepts, and Lynn Conway, an IEEE Fellow recognized for her VLSI design at Xerox PARC and coining the \"Conway effect.\" Early algorithmic development is also linked to Al-Khwarizmi.",
+        "text_original": "Key architects include Per Brinch Hansen, who advanced distributed computing via RPC concepts, and Lynn Conway, an IEEE Fellow recognized for her VLSI design at Xerox PARC and coining the \"Conway effect.\" Early algorithmic development is also linked to Al-Khwarizmi",
+        "idx_start": 1534,
+        "idx_end": 1799
+    },
+    {
+        "document_idx": null,
+        "text": "# Programming Discipline and Design Philosophy:\nEdsger W. Dijkstra, the Netherlands' first programmer (1952), strongly championed **structured programming** and opposed the \"Go To statement.\" His major contributions include Dijkstra's algorithm for shortest path finding, the layered \"THE\" operating system, and the invention of **semaphores** and the Banker's algorithm, for which he received the **Turing Award in 1972** . Donald Knuth is renowned for his seminal work in algorithm analysis via *The Art of Computer Programming* , advocating for \"literate programming.\" Other notable contributors include Hedy Lamarr and George Antheil for developing frequency-hopping in 1942.",
+        "text_original": "Edsger W. Dijkstra, the Netherlands' first programmer (1952), strongly championed **structured programming** and opposed the \"Go To statement.\" His major contributions include Dijkstra's algorithm for shortest path finding, the layered \"THE\" operating system, and the invention of **semaphores** and the Banker's algorithm, for which he received the **Turing Award in 1972**. Donald Knuth is renowned for his seminal work in algorithm analysis via *The Art of Computer Programming*, advocating for \"literate programming.\" Other notable contributors include Hedy Lamarr and George Antheil for developing frequency-hopping in",
+        "idx_start": 1852,
+        "idx_end": 2475
+    }
+]

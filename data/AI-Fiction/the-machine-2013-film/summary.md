@@ -1,0 +1,1 @@
+The Machine is a 2013 British science fiction thriller film directed and written by Caradog W. James. It stars Caity Lotz and Toby Stephens as computer scientists who create an artificial intelligence for the British military.

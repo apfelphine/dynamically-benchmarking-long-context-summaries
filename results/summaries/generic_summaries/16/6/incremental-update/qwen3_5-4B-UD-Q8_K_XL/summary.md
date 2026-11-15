@@ -1,0 +1,10 @@
+### University of the Andes (Colombia)
+
+**Founding & Governance:**
+Founded in 1949 by Mario Laserna Pinzón, the University of the Andes (Uniandes) was established as a nonsectarian institution modeled after the American university system. Its primary aim was to produce professionals with both technical and liberal education to drive national development. Initially operating with limited resources and maintaining political neutrality, the university expanded rapidly in the 1950s through initiatives such as a three/two study-abroad program and cultural conferences, eventually securing government status in 1964. Today, Uniandes functions as a highly autonomous, nonprofit corporation with a robust governance structure comprising a Board of Trustees and Rector.
+
+**Structure & Campus:**
+Located in Bogotá's historical center, the university operates on a substantial 180,551 square meter campus equipped with over 2,000 computers, sports facilities, dining, health services, and dedicated study areas. The institution features a goat mascot named Seneca, dating back to the late 1940s, which symbolizes the university and inspires annual traditions. Uniandes is renowned for its academic excellence, attracting high-achieving local and international students. The faculty is predominantly composed of individuals holding advanced degrees from top global institutions, and the institution emphasizes interdisciplinary flexibility to modernize Colombia's response to social unrest and industrial growth.
+
+**Legacy & Impact:**
+Uniandes boasts a distinguished alumni network that includes former President César Gaviria, renowned artist Fernando Botero, and various other public officials and academics. To support practical learning, the university operates an internships center at the Fundación Santa Fe de Bogotá specifically for its Medicine Faculty.

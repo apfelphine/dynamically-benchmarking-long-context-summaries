@@ -1,0 +1,83 @@
+# Transformer (Deep Learning)
+
+The transformer architecture, introduced in 2017, revolutionized sequence modeling by replacing recurrent neural networks (RNNs) with a model that processes entire sequences in parallel via self-attention mechanisms. Early sequence models like Elman networks and LSTMs suffered from vanishing gradients and sequential processing limitations, while transformers addressed these via multi-head attention enabling efficient and parallel computation. Transformers typically include tokenizers, embedding layers, stacked encoder and decoder layers with attention and feedforward sublayers, positional encoding, and an unembedding layer. Variants include encoder-only (e.g., BERT), decoder-only (e.g., GPT), and encoder-decoder models (e.g., T5). Training involves pretraining on large corpora with tasks like masked language modeling and fine-tuning for specific applications.
+
+Transformers have rapidly expanded beyond NLP to modalities such as vision (Vision Transformer), speech, and multimodal tasks, achieving state-of-the-art results in image classification, speech recognition, and generative modeling (e.g., DALL-E). Efficient implementations include KV caching and FlashAttention, and research addresses scaling challenges through sub-quadratic attention methods like sparse and random feature attention. Variations in activation functions, positional encodings (RoPE, ALiBi), and normalization methods optimize performance. Transformers underpin many largescale AI models driving recent AI advances.
+
+# Convolutional Neural Network (CNN)
+
+CNNs are neural architectures designed for spatial data processing, notably images. They consist of convolutional layers performing localized weighted sums (receptive fields) with shared weights (filters), followed by nonlinear activations (commonly ReLU), pooling layers for spatial downsampling (max or average pooling), and fully connected layers for final classification or regression. CNNs exploit spatial locality and translational equivariance, dramatically reducing parameters compared to fully connected networks, allowing deep hierarchies capable of learning increasingly abstract features.
+
+Historically inspired by biological visual cortex studies, CNNs evolved with efficient training via backpropagation and GPU acceleration. Architectures such as LeNet-5 and AlexNet demonstrated significant success in image tasks. CNNs have been extended to video, natural language processing, and beyond. Regularization techniques like dropout, data augmentation, and weight decay prevent overfitting. Despite translation equivariance, stride and pooling can cause aliasing, addressed by various methods. CNNs remain foundational in computer vision and related domains due to their efficiency and strong inductive biases for spatial data.
+
+# Generative Adversarial Network (GAN)
+
+GANs define a two-player minimax game between a generator and a discriminator. The generator models a target data distribution, producing synthetic data samples from latent noise, while the discriminator evaluates if inputs are real or generated. The training iteratively improves both, leading ideally to the generator producing indistinguishable synthetic samples.
+
+Mathematically, the original GAN models the Jensen-Shannon divergence between data and generated distributions via the discriminator’s binary classification. Despite theoretical guarantees, practical training is unstable, suffering from mode collapse and vanishing gradients. Variants address these issues, including Wasserstein GAN which replaces the divergence measure with Wasserstein distance for better gradients, conditional GANs that generate data conditioned on labels, and architectures integrating self-attention or transformers.
+
+GANs have wide applications in image, video, and audio generation, medical imaging, scientific simulations, and creative arts, but raise ethical concerns related to deepfakes and synthetic media misuse.
+
+# Hopfield Network
+
+Hopfield networks are recurrent neural networks modeled as energy-minimizing systems capable of associative memory. Units are binary threshold neurons with symmetric weights learned by rules such as Hebbian or Storkey learning. The network dynamics update neuron states to converge to local minima of an energy function, effectively retrieving stored memory patterns from partial or noisy inputs.
+
+While classical Hopfield networks have limited memory capacity scaling linearly with neuron count, modern dense associative memories utilize higher-order interactions and nonlinear energy functions to achieve super-linear or exponential storage capacity. Continuous and hierarchical variations of Hopfield networks generalize these dynamics.
+
+Hopfield networks have influenced models of human memory, optimization methods, and modern deep learning concepts, with John Hopfield recognized for foundational contributions to machine learning.
+
+# Recurrent Neural Network (RNN)
+
+RNNs process sequential data by maintaining hidden states that incorporate information from previous time steps. Architectures include simple RNNs, Elman and Jordan networks, LSTMs, and GRUs, which address vanishing gradient problems by gated mechanisms allowing long-term dependencies.
+
+Configurations include stacked and bidirectional RNNs, as well as encoder-decoder setups foundational for machine translation before transformers. Training uses gradient descent techniques like backpropagation through time and teacher forcing. RNN variants like independently RNNs and neural history compressors aim to improve learning and memory.
+
+Applications span language modeling, speech recognition, time series prediction, robotics, and bioinformatics. Despite their historical significance, many sequence tasks today favor transformer-based models for scalability and performance.
+
+# Vision Transformer (ViT)
+
+Vision Transformers apply transformer architectures to image processing by splitting images into patches treated as tokens. Employing self-attention over these patch embeddings, ViTs capture global context unlike CNNs which rely on local convolutions. ViTs use learnable positional encodings and a classification token for image recognition.
+
+Variants improve efficiency and accuracy by incorporating hierarchical attention (Swin Transformer), masked autoencoding training, and self-distillation (DINO). ViT models outperform CNNs on large datasets but require more data and are sensitive to hyperparameters.
+
+Vision transformers have been adapted for video, multimodal tasks, and generative modeling, marking a shift toward attention-based vision models complementing or surpassing CNNs.
+
+# Radial Basis Function (RBF) Network
+
+RBF networks are feedforward neural models with three layers: input, hidden (using localized radial basis functions often Gaussian), and linear output layers. Each hidden neuron responds to inputs near its center with activations decreasing radially—enabling universal function approximation.
+
+RBF networks can be normalized to interpret outputs probabilistically and extended with local linear models. Training typically involves unsupervised selection of centers (e.g., k-means) followed by supervised linear fitting of output weights, often via least squares or gradient descent.
+
+Used in function approximation, time series prediction, and control of chaotic systems, RBFs offer intuitive, localized learning mechanisms suitable for interpolation and regression problems.
+
+# Class Activation Mapping (CAM)
+
+CAM and its extensions provide visualization techniques to explain CNN decisions by highlighting image regions critical for a given class prediction. Original CAM requires specific architectural modifications (replacing fully connected layers with global average pooling), producing class-specific heatmaps by weighting feature maps with learned classifier weights.
+
+Grad-CAM generalizes CAM by using gradients of class scores wrt convolutional feature maps to compute importance weights, applicable to a wide range of CNNs without architectural changes, but may focus on the most salient regions only.
+
+Further refinements—Guided Grad-CAM, Grad-CAM++, Score-CAM, and LayerCAM—improve resolution, localization accuracy, and reduce reliance on gradients. These methods enable interpretability in vision models by producing heatmaps indicating which input parts influence classification decisions.
+
+# Autoencoder
+
+An autoencoder is a neural network architecture that learns to compress input data into a lower-dimensional latent representation (encoding) and reconstruct it back (decoding), typically minimizing reconstruction error. The latent space usually has lower dimension than input to prevent trivial identity learning.
+
+Variants include undercomplete, sparse, denoising, and contractive autoencoders, each imposing constraints to promote meaningful feature extraction or robustness. Training minimizes empirical reconstruction loss over a dataset via gradient descent.
+
+Autoencoders are used for dimensionality reduction, information retrieval, anomaly detection, image denoising, and generative modeling. Deep autoencoders with multiple layers can capture complex data structure beyond linear PCA. Extensions include variational autoencoders which impose probabilistic structure on latent codes.
+
+# Variational Autoencoder (VAE)
+
+VAEs are generative models combining autoencoding with variational Bayesian inference. They approximate intractable posteriors over latent variables using an encoder network and optimize via maximizing an evidence lower bound (ELBO) balancing reconstruction fidelity and latent distribution regularization (usually towards a Gaussian prior).
+
+The reparameterization trick enables efficient gradient-based learning by expressing stochastic sampling as a deterministic function with noise input. VAEs use KL divergence in the loss to align approximate posterior and prior.
+
+Variants and improvements include β-VAEs for disentanglement, conditional VAEs, and use of alternative statistical distances like Wasserstein or Maximum Mean Discrepancy. VAEs are widely applied in generative tasks for images, audio, and text.
+
+# Graph Neural Network (GNN)
+
+GNNs generalize neural networks to graph-structured data through permutation-equivariant message passing layers where nodes update representations by aggregating information from neighbors. Architectures include Graph Convolutional Networks (GCNs) leveraging spectral filters and Graph Attention Networks (GATs) employing attention mechanisms.
+
+Pooling layers (local and global) coarsen graphs or produce fixed-size graph embeddings. GNN expressiveness is limited by the Weisfeiler–Leman test but can be extended with higher-dimensional complexes. Challenges like heterophily (low similarity among connected nodes) are active research areas.
+
+Applications include protein folding (AlphaFold), social network analysis, combinatorial optimization, cybersecurity, water systems modeling, and natural language processing tasks. GNNs provide powerful tools for structured data representation and learning.

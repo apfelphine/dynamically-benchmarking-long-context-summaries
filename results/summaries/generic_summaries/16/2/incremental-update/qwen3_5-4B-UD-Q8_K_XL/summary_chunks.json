@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Harvard University: Origins, Governance, Academics, and Recent Developments\nEstablished in 1636 with a Puritan mission, Harvard evolved into a secular, global R1 research powerhouse by the 20th century, driven by leadership such as President James B. Conant. Today, the institution operates across multiple campuses (Cambridge, Allston, Longwood) with international affiliates and a massive $50.7 billion endowment. Historically, Harvard divested $230 million from South African holdings between 1986 and 1987 following student activism.",
+        "text_original": "Established in 1636 with a Puritan mission, Harvard evolved into a secular, global R1 research powerhouse by the 20th century, driven by leadership such as President James B. Conant. Today, the institution operates across multiple campuses (Cambridge, Allston, Longwood) with international affiliates and a massive $50.7 billion endowment. Historically, Harvard divested $230 million from South African holdings between 1986 and 1987 following student activism",
+        "idx_start": 81,
+        "idx_end": 541
+    },
+    {
+        "document_idx": null,
+        "text": "# Academics, Research, and Structure\nHarvard offers 50 undergraduate majors, 134 graduate degrees, and 32 professional degrees, organized into the Faculty of Arts and Sciences and 12 professional schools (including Medicine, Law, and Business). It holds a joint program with MIT and consistently ranks #1 globally in major academic rankings (QS, Times Higher Education). The university is a leader in biomedical research, securing over $1.65 billion in NIH grants in 2019, and boasts the world's largest library system, holding 20.4 million items. It also maintains extensive museums covering art, natural history, archaeology, and visual arts.",
+        "text_original": "Harvard offers 50 undergraduate majors, 134 graduate degrees, and 32 professional degrees, organized into the Faculty of Arts and Sciences and 12 professional schools (including Medicine, Law, and Business). It holds a joint program with MIT and consistently ranks #1 globally in major academic rankings (QS, Times Higher Education). The university is a leader in biomedical research, securing over $1.65 billion in NIH grants in 2019, and boasts the world's largest library system, holding 20.4 million items. It also maintains extensive museums covering art, natural history, archaeology, and visual arts",
+        "idx_start": 583,
+        "idx_end": 1189
+    },
+    {
+        "document_idx": null,
+        "text": "# Governance, Controversies, and Student Life\nHarvard is led by the Harvard Corporation and recently managed by Claudine Gay (2023\u20132024) and Alan Garber (2024\u20132026). The university maintained control over undergraduate admissions until its 1999 merger with Radcliffe College. In 2025, Harvard successfully challenged a contentious conflict with the Trump administration, which had threatened to freeze federal funds and revoke international student visas due to antisemitism concerns and Gaza-related protests; the university secured court injunctions allowing operations to continue. Student life includes the *Harvard Crimson* newspaper, student government, and 42 NCAA Division I Ivy League teams; despite a prohibition on athletic scholarships, the Crimson teams have won five NCAA Division I championships and 159 national titles.",
+        "text_original": "Harvard is led by the Harvard Corporation and recently managed by Claudine Gay (2023\u20132024) and Alan Garber (2024\u20132026). The university maintained control over undergraduate admissions until its 1999 merger with Radcliffe College. In 2025, Harvard successfully challenged a contentious conflict with the Trump administration, which had threatened to freeze federal funds and revoke international student visas due to antisemitism concerns and Gaza-related protests; the university secured court injunctions allowing operations to continue. Student life includes the *Harvard Crimson* newspaper, student government, and 42 NCAA Division I Ivy League teams; despite a prohibition on athletic scholarships, the Crimson teams have won five NCAA Division I championships and 159 national titles",
+        "idx_start": 1240,
+        "idx_end": 2028
+    },
+    {
+        "document_idx": null,
+        "text": "# Cultural Impact and Legacy\nHarvard's elite reputation is reflected in its extensive athletic rivalries, most notably with Yale, Cornell, and McGill. Its alumni are exceptionally overrepresented among the world's most influential figures, including eight U.S. presidents, numerous Nobel laureates, and over 180 living billionaires. Beyond academia, the university serves as a prominent backdrop in popular culture, depicted in literature by authors like William Faulkner and Thomas Wolfe, and featured in major films such as *Love Story* , *The Paper Chase* , and *The Social Network* , often symbolizing tradition, privilege, or the pursuit of academic excellence.",
+        "text_original": "Harvard's elite reputation is reflected in its extensive athletic rivalries, most notably with Yale, Cornell, and McGill. Its alumni are exceptionally overrepresented among the world's most influential figures, including eight U.S. presidents, numerous Nobel laureates, and over 180 living billionaires. Beyond academia, the university serves as a prominent backdrop in popular culture, depicted in literature by authors like William Faulkner and Thomas Wolfe, and featured in major films such as *Love Story*, *The Paper Chase*, and *The Social Network*, often symbolizing tradition, privilege, or the pursuit of academic excellence",
+        "idx_start": 2062,
+        "idx_end": 2695
+    }
+]

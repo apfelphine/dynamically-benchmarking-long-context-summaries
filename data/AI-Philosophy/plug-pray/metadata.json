@@ -1,0 +1,32 @@
+{
+  "id": 30405742,
+  "title": "Plug & Pray",
+  "url": "https://en.wikipedia.org/wiki/Plug_%26_Pray",
+  "path": "AI-Philosophy\\plug-pray",
+  "summary": {
+    "chars": 290,
+    "tokens": 62
+  },
+  "document": {
+    "chars": 2266,
+    "tokens": 476
+  },
+  "infobox": {
+    "title": "Plug & Pray",
+    "data": {
+      "Directed by": "Jens Schanze",
+      "Written by": "Jens Schanze",
+      "Produced by": "Judith Malek-Mahdavi \u00b7 Jens Schanze",
+      "Starring": "Joseph Weizenbaum \u00b7 Raymond Kurzweil \u00b7 Hiroshi Ishiguro \u00b7 Minoru Asada \u00b7 Giorgio Metta \u00b7 Neil Gershenfeld \u00b7 Joel Moses \u00b7 H.-J. Wuensche",
+      "Cinematography": "Boerres Weiffenbach",
+      "Edited by": "Jens Schanze \u00b7 Joerg Hommer",
+      "Music by": "Rainer Bartesch",
+      "Production \u00b7 company": "Mascha Film",
+      "Distributed by": "United Docs",
+      "Release dates": "- April 18, 2010 (Visions du R\u00e9el) - November 11, 2010 (Germany)",
+      "Running time": "91 minutes",
+      "Country": "Germany",
+      "Language": "English"
+    }
+  }
+}

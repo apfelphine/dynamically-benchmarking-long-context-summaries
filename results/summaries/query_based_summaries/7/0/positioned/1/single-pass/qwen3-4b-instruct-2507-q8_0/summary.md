@@ -1,0 +1,10 @@
+**Education in Greece**  
+Greece's education system is structured into three main stages: pre-primary, primary, and secondary education. Pre-primary education (ages 4–6) is compulsory and includes two years of preschool (Προνηπιαγωγείο and Νηπιαγωγείο), with students beginning at age 4 and ending at age 6. Primary education (ages 6–12) lasts six years and is compulsory, culminating in the "Apolytirio Dimotikou" certificate, which grants automatic admission to lower secondary education (Gymnasium).  
+
+Secondary education is divided into lower and upper levels. The lower secondary stage (ages 12–15) is the Gymnasium, which offers three academic years (Grades 1–3) and leads to the "Apolytirio Gymnasium" certificate. The upper secondary stage (ages 15–18) is the Lyceum (Λύκειο), lasting three years (Grades 1–3), and culminates in the "Apolytirio Lykeiou" certificate, required for university admission. The Lyceum offers various specializations, including arts, sciences, and vocational tracks.  
+
+Students take national standardized exams, the Pan-Hellenic Examinations (Πανελλαδικές Εξετάσεις), which determine university admission. The grading system uses a 20-point scale, with 20 representing the highest grade. The curriculum emphasizes core subjects such as modern Greek, mathematics, history, and foreign languages (especially English), with a strong focus on critical thinking and subject-specific specialization.  
+
+The system includes specialized institutions such as vocational schools (EPAL), which offer dual diplomas combining academic and vocational training, and experimental or private schools. Greece also has a national qualification framework (HQF) that aligns education levels with international standards.  
+
+Notable features include the mandatory attendance of students in pre-primary, the emphasis on standardized testing, and a rigid academic structure with limited flexibility in subject choices. The system is designed to ensure academic achievement and prepare students for higher education, with a strong emphasis on national examinations and standardized curricula.

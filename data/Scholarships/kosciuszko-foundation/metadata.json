@@ -1,0 +1,29 @@
+{
+  "id": 14504101,
+  "title": "Kosciuszko Foundation",
+  "url": "https://en.wikipedia.org/wiki/Kosciuszko_Foundation",
+  "path": "Scholarships\\kosciuszko-foundation",
+  "summary": {
+    "chars": 190,
+    "tokens": 35
+  },
+  "document": {
+    "chars": 2921,
+    "tokens": 578
+  },
+  "infobox": {
+    "title": "Kosciuszko Foundation",
+    "data": {
+      "Founder": "Stephen Mizwa",
+      "Established": "1925",
+      "Mission": "Promotion of cultural and educational exchanges between the United States and Poland",
+      "President": "Marek Skulimowski",
+      "Slogan": "An American Center for Polish Culture",
+      "Formerly called": "Polish American Scholarship Committee",
+      "Address": "15 E 65th St \u00b7 New York, NY 10065",
+      "Location": "New York City",
+      "Coordinates": "40\u00b046\u203204\u2033N 73\u00b058\u203217\u2033W\ufeff / \ufeff40.767762\u00b0N 73.9712577\u00b0W",
+      "Website": "www.thekf.org"
+    }
+  }
+}

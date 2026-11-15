@@ -1,0 +1,31 @@
+{
+  "id": 67542253,
+  "title": "Scholly",
+  "url": "https://en.wikipedia.org/wiki/Scholly",
+  "path": "Scholarships\\scholly",
+  "summary": {
+    "chars": 407,
+    "tokens": 71
+  },
+  "document": {
+    "chars": 1192,
+    "tokens": 270
+  },
+  "infobox": {
+    "title": "Scholly",
+    "data": {
+      "Available in": "English",
+      "Country of origin": "America",
+      "Founders": "- Christopher Gray - Nick Pirollo - Bryson Alef",
+      "CEO": "Christopher Gray",
+      "Key people": "Christopher Gray",
+      "Industry": "Education, University",
+      "Products": "Scholly Payoff, Scholly",
+      "Parent": "Sallie Mae",
+      "URL": "https://myscholly.com",
+      "Commercial": "Yes",
+      "Users": "850,000 (as of December 2016)",
+      "Current status": "online"
+    }
+  }
+}

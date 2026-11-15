@@ -1,0 +1,9 @@
+**King's Scholars** are a distinguished academic designation awarded at several institutions in the UK and beyond, rooted in historical traditions of royal patronage and educational support.
+
+At **Eton College**, King's Scholars (known as "Collegers" or "tugs") are selected through the College Election examination and admitted to the original College house, which houses approximately 70 students aged 13–18. They wear a black academic gown over their uniform, eat in College Hall, and participate in exclusive traditions such as the Wall Game throughout their five-year stay. The position is a foundation scholarship, historically providing full fee coverage, though since the 1960s, means testing has been introduced.
+
+At the **King's Schools**—Canterbury, Worcester, and Ely—King's Scholarships are awarded based on academic or musical achievement. At Ely, scholars are admitted to the cathedral foundation and participate in traditions like the "Hoop Trundle." At Worcester, scholars receive a white surplice and are entitled to privileges such as marrying in the cathedral. At Canterbury, scholars wear gowns and have the right to walk down the aisle during cathedral services.
+
+At **King's College Cambridge**, the term "King's Scholar" refers to undergraduates who achieve first-class degrees, receiving a £350 prize and attending a ceremony where they sign a name in the King's Scholar book. The honor is a historical continuation of scholarships founded by Henry VI.
+
+These traditions reflect a long-standing legacy of royal support for education, emphasizing academic excellence, service to the community, and the development of future leaders.

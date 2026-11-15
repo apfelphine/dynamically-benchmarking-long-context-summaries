@@ -1,0 +1,23 @@
+{
+  "id": 16949704,
+  "title": "Cuthbert Hurd",
+  "url": "https://en.wikipedia.org/wiki/Cuthbert_Hurd",
+  "path": "Comp-Sci-Pioneers\\cuthbert-hurd",
+  "summary": {
+    "chars": 229,
+    "tokens": 49
+  },
+  "document": {
+    "chars": 7169,
+    "tokens": 1626
+  },
+  "infobox": {
+    "title": "Cuthbert Corwin Hurd",
+    "data": {
+      "Born": "April 5, 1911 \u00b7 Estherville, Iowa, U.S.",
+      "Died": "May 22, 1996 (aged 85) \u00b7 Portola Valley, California, U.S.",
+      "Alma mater": "Drake University \u00b7 Iowa State University \u00b7 University of Illinois Urbana-Champaign",
+      "Fields": "Computer science"
+    }
+  }
+}

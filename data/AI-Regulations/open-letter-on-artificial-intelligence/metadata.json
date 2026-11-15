@@ -1,0 +1,22 @@
+{
+  "id": 46504825,
+  "title": "Open letter on artificial intelligence",
+  "url": "https://en.wikipedia.org/wiki/Open_letter_on_artificial_intelligence",
+  "path": "AI-Regulations\\open-letter-on-artificial-intelligence",
+  "summary": {
+    "chars": 724,
+    "tokens": 125
+  },
+  "document": {
+    "chars": 4618,
+    "tokens": 890
+  },
+  "infobox": {
+    "title": "Research Priorities for Robust and Beneficial Artificial Intelligence: An Open Letter",
+    "data": {
+      "Created": "January 2015",
+      "Author(s)": "Stephen Hawking, Elon Musk, and dozens of artificial intelligence experts",
+      "Subject": "research on the societal impacts of AI"
+    }
+  }
+}

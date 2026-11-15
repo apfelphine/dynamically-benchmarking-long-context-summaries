@@ -1,0 +1,100 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Lund University\nFounded in 1666, Lund University in Sweden is acclaimed for its research in medical technology and sustainability, and it ranks 75th in the QS World University Rankings 2025. The university fosters international collaboration, offers diverse English-language programs, and maintains a vibrant student life alongside historic organizations and an esteemed alumni network with Nobel laureates and influential leaders.",
+        "text_original": "Founded in 1666, Lund University in Sweden is acclaimed for its research in medical technology and sustainability, and it ranks 75th in the QS World University Rankings 2025. The university fosters international collaboration, offers diverse English-language programs, and maintains a vibrant student life alongside historic organizations and an esteemed alumni network with Nobel laureates and influential leaders",
+        "idx_start": 19,
+        "idx_end": 433
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Jordan\nThe University of Jordan, established in 1962, is the nation\u2019s premier institution with extensive accredited faculties and innovative research centers. It is renowned for top medical facilities, active student unions, global partnerships, and an alumni base of over 159,000 members who have significantly impacted various sectors regionally.",
+        "text_original": "The University of Jordan, established in 1962, is the nation\u2019s premier institution with extensive accredited faculties and innovative research centers. It is renowned for top medical facilities, active student unions, global partnerships, and an alumni base of over 159,000 members who have significantly impacted various sectors regionally",
+        "idx_start": 460,
+        "idx_end": 800
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\nImperial College London, founded in 1907, is a top-ranked global university excelling in science, engineering, medicine, and business. It is noted for substantial research funding, strong industry links, distinguished alumni including Nobel laureates, and a dynamic campus life with a wide array of student organizations and traditions.",
+        "text_original": "Imperial College London, founded in 1907, is a top-ranked global university excelling in science, engineering, medicine, and business. It is noted for substantial research funding, strong industry links, distinguished alumni including Nobel laureates, and a dynamic campus life with a wide array of student organizations and traditions",
+        "idx_start": 830,
+        "idx_end": 1165
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\nEstablished in 1863, Boston College is a Jesuit institution known for academic excellence and inclusivity. The campus supports a vibrant student life with numerous organizations, athletic programs, and traditions. Prominent alumni contribute across public service and entertainment, utilizing advanced facilities and robust alumni networks.",
+        "text_original": "Established in 1863, Boston College is a Jesuit institution known for academic excellence and inclusivity. The campus supports a vibrant student life with numerous organizations, athletic programs, and traditions. Prominent alumni contribute across public service and entertainment, utilizing advanced facilities and robust alumni networks",
+        "idx_start": 1186,
+        "idx_end": 1525
+    },
+    {
+        "document_idx": null,
+        "text": "# Western University (University of Western Ontario)\nWestern University, founded in 1878 in Ontario, excels in research, sustainability, and graduate employability. It boasts leadership programs, international exchanges, and strengths in neuroscience and HIV/AIDS research, alongside a vibrant campus community and distinguished alumni, including Nobel laureates and public figures.",
+        "text_original": "Western University, founded in 1878 in Ontario, excels in research, sustainability, and graduate employability. It boasts leadership programs, international exchanges, and strengths in neuroscience and HIV/AIDS research, alongside a vibrant campus community and distinguished alumni, including Nobel laureates and public figures",
+        "idx_start": 1582,
+        "idx_end": 1910
+    },
+    {
+        "document_idx": null,
+        "text": "# Harvard University\nFounded in 1636, Harvard University is a prominent global research institution with the largest academic library and influential alumni, including U.S. presidents and Nobel laureates. Notable for academic breadth, affiliations with MIT, and strong student governance, Harvard also faces recent scrutiny over labor and leadership controversies.",
+        "text_original": "Founded in 1636, Harvard University is a prominent global research institution with the largest academic library and influential alumni, including U.S. presidents and Nobel laureates. Notable for academic breadth, affiliations with MIT, and strong student governance, Harvard also faces recent scrutiny over labor and leadership controversies",
+        "idx_start": 1935,
+        "idx_end": 2277
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\nUnicamp, established in the 1960s, drives Brazil\u2019s scientific innovation with tuition-free, competitive programs and an interdisciplinary research focus. Despite funding challenges, it is recognized for its community-based governance and reputation for ground-breaking research and inclusivity within Latin America.",
+        "text_original": "Unicamp, established in the 1960s, drives Brazil\u2019s scientific innovation with tuition-free, competitive programs and an interdisciplinary research focus. Despite funding challenges, it is recognized for its community-based governance and reputation for ground-breaking research and inclusivity within Latin America",
+        "idx_start": 2322,
+        "idx_end": 2636
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\nAs China\u2019s leading academic institution, Peking University boasts Asia\u2019s largest university library, exceptional research, global partnerships, and impactful alumni. Its Global Excellence Strategy enhances international influence, and its legacy includes contributions to intellectual and social movements in China.",
+        "text_original": "As China\u2019s leading academic institution, Peking University boasts Asia\u2019s largest university library, exceptional research, global partnerships, and impactful alumni. Its Global Excellence Strategy enhances international influence, and its legacy includes contributions to intellectual and social movements in China",
+        "idx_start": 2660,
+        "idx_end": 2974
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\nThe University of Manchester, formed in 2004, is renowned for excellence in sciences, engineering, and humanities. It features elite research centers, striking architecture, and a diverse international community, with twenty-six Nobel laureates highlighting its leadership in research and innovation.",
+        "text_original": "The University of Manchester, formed in 2004, is renowned for excellence in sciences, engineering, and humanities. It features elite research centers, striking architecture, and a diverse international community, with twenty-six Nobel laureates highlighting its leadership in research and innovation",
+        "idx_start": 3005,
+        "idx_end": 3304
+    },
+    {
+        "document_idx": null,
+        "text": "# RMIT University\nRMIT University, headquartered in Melbourne and established in 1887, operates campuses in Australia, Vietnam, and Europe. As a dual-sector institution, it specializes in vocational and higher education, offering applied learning, strong industry collaboration, and dynamic student life. Globally ranked among the top 200\u2013400 universities, RMIT is distinguished by successful graduate employment, multiple organizations, extensive research centers, and an active arts culture.",
+        "text_original": "RMIT University, headquartered in Melbourne and established in 1887, operates campuses in Australia, Vietnam, and Europe. As a dual-sector institution, it specializes in vocational and higher education, offering applied learning, strong industry collaboration, and dynamic student life. Globally ranked among the top 200\u2013400 universities, RMIT is distinguished by successful graduate employment, multiple organizations, extensive research centers, and an active arts culture",
+        "idx_start": 3326,
+        "idx_end": 3800
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\nThe University of Auckland, ranked #65 in QS 2026, is New Zealand\u2019s largest and highest-ranked university with notable achievements in research and campus innovation. Despite controversies around staff layoffs and campus changes, it boasts a diverse student body of 47,443, vibrant student representation, and celebrated alumni.",
+        "text_original": "The University of Auckland, ranked #65 in QS 2026, is New Zealand\u2019s largest and highest-ranked university with notable achievements in research and campus innovation. Despite controversies around staff layoffs and campus changes, it boasts a diverse student body of 47,443, vibrant student representation, and celebrated alumni",
+        "idx_start": 3829,
+        "idx_end": 4156
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\nUnesp is a leading Brazilian public university, spanning 23 campuses and 33 academic institutes. Renowned for research in bioenergy and nanotechnology, it offers broad academic programs, maintains over 140 international partnerships, and boasts a strong reputation reinforced by successful graduates.",
+        "text_original": "Unesp is a leading Brazilian public university, spanning 23 campuses and 33 academic institutes. Renowned for research in bioenergy and nanotechnology, it offers broad academic programs, maintains over 140 international partnerships, and boasts a strong reputation reinforced by successful graduates",
+        "idx_start": 4197,
+        "idx_end": 4496
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\nEstablished in 1850, the University of Sydney is Australia\u2019s oldest university, known for iconic architecture, academic innovation, and commitment to merit and inclusivity. With strong faculties in arts, business, medicine, and health, the university features a vibrant campus life and notable alumni, but has faced reputational challenges related to staff and student concerns.",
+        "text_original": "Established in 1850, the University of Sydney is Australia\u2019s oldest university, known for iconic architecture, academic innovation, and commitment to merit and inclusivity. With strong faculties in arts, business, medicine, and health, the university features a vibrant campus life and notable alumni, but has faced reputational challenges related to staff and student concerns",
+        "idx_start": 4523,
+        "idx_end": 4900
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Uniandes, Colombia)\nFounded in 1948, Uniandes is Colombia\u2019s first nonsectarian, politically neutral university, emphasizing pluralist values and ethical leadership. Its interdisciplinary programs, international exchanges, and support services foster distinguished alumni in politics, science, and the arts, symbolized by a spirited campus mascot.",
+        "text_original": "Founded in 1948, Uniandes is Colombia\u2019s first nonsectarian, politically neutral university, emphasizing pluralist values and ethical leadership. Its interdisciplinary programs, international exchanges, and support services foster distinguished alumni in politics, science, and the arts, symbolized by a spirited campus mascot",
+        "idx_start": 4951,
+        "idx_end": 5276
+    }
+]

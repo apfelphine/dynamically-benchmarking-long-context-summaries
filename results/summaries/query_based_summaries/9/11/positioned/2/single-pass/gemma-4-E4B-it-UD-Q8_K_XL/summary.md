@@ -1,0 +1,5 @@
+## Education in Poland
+
+Education in Poland features a structure that was significantly reformed by the 2016 "Law on School Education." The compulsory education system was changed from a 6-year primary school followed by a 3-year *gimnazjum* (middle school) to an 8-year primary school. The *gimnazjum* was subsequently abolished, and its function was absorbed into the extended primary education phase, effective September 1, 2017.
+
+Upper secondary education is pursued through general secondary schools (*liceum*) or technical schools (*technikum*). Graduates from *liceum* can pass the "Matura," which grants access to higher education. Vocational training is also available through technical schools, which can lead to the Matura, or basic vocational schools (*zasadnicza szkoła zawodowa*). Tertiary education follows the Bologna scheme, typically comprising a three-year Bachelor's degree followed by a two-year Master's degree. University-level grading utilizes a numeric system from 2.0 (failing) to 5.0 (highest grade).

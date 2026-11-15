@@ -1,0 +1,26 @@
+{
+  "id": 3434143,
+  "title": "Richard Stallman",
+  "url": "https://en.wikipedia.org/wiki/Richard_Stallman",
+  "path": "Comp-Sci-Pioneers\\richard-stallman",
+  "summary": {
+    "chars": 2192,
+    "tokens": 441
+  },
+  "document": {
+    "chars": 31511,
+    "tokens": 6728
+  },
+  "infobox": {
+    "title": "Richard Stallman",
+    "data": {
+      "Born": "Richard Matthew Stallman \u00b7 March 16, 1953 \u00b7 New York City, New York, U.S.",
+      "Other names": "rms (RMS)",
+      "Alma mater": "Harvard University",
+      "Occupations": "Activist programmer",
+      "Known for": "Free software movement GNU GNU Emacs GNU Compiler Collection GNU General Public License copyleft Free Software Foundation",
+      "Awards": "- MacArthur Fellowship - ACM Grace Murray Hopper Award - EFF Pioneer Award - ACM Software System Award - Internet Hall of Fame",
+      "Website": "stallman.org"
+    }
+  }
+}

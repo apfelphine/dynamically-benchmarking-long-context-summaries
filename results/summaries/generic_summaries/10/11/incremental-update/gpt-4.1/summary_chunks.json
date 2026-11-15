@@ -1,0 +1,114 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Sri Lanka\nSri Lanka offers free, centralized education from Grades 1 to 13, yet faces exam pressure, private tutoring reliance, increased online learning, and high graduate unemployment outside select professions.",
+        "text_original": "Sri Lanka offers free, centralized education from Grades 1 to 13, yet faces exam pressure, private tutoring reliance, increased online learning, and high graduate unemployment outside select professions",
+        "idx_start": 26,
+        "idx_end": 228
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Egypt\nEgypt provides free, compulsory schooling (ages 4\u201314) but grapples with overcrowding, rote learning, low teacher pay, infrastructure deficits, a dependence on private tutoring, high youth unemployment, and ongoing reforms.",
+        "text_original": "Egypt provides free, compulsory schooling (ages 4\u201314) but grapples with overcrowding, rote learning, low teacher pay, infrastructure deficits, a dependence on private tutoring, high youth unemployment, and ongoing reforms",
+        "idx_start": 241,
+        "idx_end": 462
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Israel\nIsrael maintains compulsory, multi-track education, though pronounced inequalities affect Arab and Haredi students. STEM subjects are prioritized, but resource and gender disparities persist.",
+        "text_original": "Israel maintains compulsory, multi-track education, though pronounced inequalities affect Arab and Haredi students. STEM subjects are prioritized, but resource and gender disparities persist",
+        "idx_start": 476,
+        "idx_end": 666
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Indonesia\nIndonesia offers 12 years of compulsory education influenced by Islamic and colonial heritage, with the KKNI higher education framework. Rural areas face major resource and funding limitations.",
+        "text_original": "Indonesia offers 12 years of compulsory education influenced by Islamic and colonial heritage, with the KKNI higher education framework. Rural areas face major resource and funding limitations",
+        "idx_start": 683,
+        "idx_end": 875
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Republic of Ireland\nIreland mandates education from ages 6\u201316, supports preschool and homeschooling, features Catholic-dominated primary schools and diverse secondary schools, high literacy and completion rates, and provisions for special needs and international students.",
+        "text_original": "Ireland mandates education from ages 6\u201316, supports preschool and homeschooling, features Catholic-dominated primary schools and diverse secondary schools, high literacy and completion rates, and provisions for special needs and international students",
+        "idx_start": 902,
+        "idx_end": 1153
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Armenia\nArmenia\u2019s K\u201312 system aligns with national and European higher education standards, delivers universal literacy, exam-based access, and tech innovation, but experiences occasional absenteeism.",
+        "text_original": "Armenia\u2019s K\u201312 system aligns with national and European higher education standards, delivers universal literacy, exam-based access, and tech innovation, but experiences occasional absenteeism",
+        "idx_start": 1168,
+        "idx_end": 1359
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Nigeria\nNigeria addresses unemployment and skill gaps at primary, tertiary, and vocational levels, challenged by outdated curricula, poor infrastructure, teacher shortages, and regional disparities. Initiatives promote girls\u2019 education, digital literacy, and international study.",
+        "text_original": "Nigeria addresses unemployment and skill gaps at primary, tertiary, and vocational levels, challenged by outdated curricula, poor infrastructure, teacher shortages, and regional disparities. Initiatives promote girls\u2019 education, digital literacy, and international study",
+        "idx_start": 1374,
+        "idx_end": 1644
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Norway\nNorway offers public, compulsory education to age 16 with varied tracks, prioritizes teacher qualifications, IT integration, Bologna-aligned grading, and broad tertiary access.",
+        "text_original": "Norway offers public, compulsory education to age 16 with varied tracks, prioritizes teacher qualifications, IT integration, Bologna-aligned grading, and broad tertiary access",
+        "idx_start": 1658,
+        "idx_end": 1833
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Taiwan\nTaiwan provides 12 years of Mandarin-medium education with specialized secondary tracks, varied university entry routes, international partnerships, and robust special education.",
+        "text_original": "Taiwan provides 12 years of Mandarin-medium education with specialized secondary tracks, varied university entry routes, international partnerships, and robust special education",
+        "idx_start": 1847,
+        "idx_end": 2024
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Sweden\nSweden delivers income-based preschool, nine years of compulsory education, two upper secondary tracks, Bologna-aligned higher education, financial aid, strong anti-discrimination policies, a female-majority teaching force, debate over independent schools, and limited homeschooling.",
+        "text_original": "Sweden delivers income-based preschool, nine years of compulsory education, two upper secondary tracks, Bologna-aligned higher education, financial aid, strong anti-discrimination policies, a female-majority teaching force, debate over independent schools, and limited homeschooling",
+        "idx_start": 2038,
+        "idx_end": 2320
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Iran\nIran supplies free, compulsory education, competitive university entry, modernization and hybrid learning, entrepreneurship, gender parity promotion in STEM, but faces dropout rates, teacher shortages, privatization, and strict Islamic norms.",
+        "text_original": "Iran supplies free, compulsory education, competitive university entry, modernization and hybrid learning, entrepreneurship, gender parity promotion in STEM, but faces dropout rates, teacher shortages, privatization, and strict Islamic norms",
+        "idx_start": 2332,
+        "idx_end": 2573
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Hong Kong\nHong Kong\u2019s system covers kindergarten through tertiary, with selective, exam-driven university admissions. Reforms expand inclusivity for non-Cantonese speakers and adult/international education, and a demographic shift is reducing class sizes.",
+        "text_original": "Hong Kong\u2019s system covers kindergarten through tertiary, with selective, exam-driven university admissions. Reforms expand inclusivity for non-Cantonese speakers and adult/international education, and a demographic shift is reducing class sizes",
+        "idx_start": 2590,
+        "idx_end": 2834
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Turkey\nTurkey\u2019s 12-year compulsory system includes general, religious, vocational, technical, and IB tracks. Key challenges are frequent curriculum reform, increased religious/nationalist content, textbook quality, minority language restrictions, and university entry via exam. Minority schools face struggles; internationalization is rising.",
+        "text_original": "Turkey\u2019s 12-year compulsory system includes general, religious, vocational, technical, and IB tracks. Key challenges are frequent curriculum reform, increased religious/nationalist content, textbook quality, minority language restrictions, and university entry via exam. Minority schools face struggles; internationalization is rising",
+        "idx_start": 2848,
+        "idx_end": 3182
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## Ghana\nGhana transitioned from colonial roots to universal, free 12-year basic education, offering academic/vocational senior high tracks and expanding higher education. Vocational training remains undervalued, completion rates low, and tertiary entry selective. Reforms and international aid broaden access; the Ministry oversees decentralized agencies with substantial, mostly domestic funding. Teacher training is standardized, adult literacy is improving, ICT use is limited, gender gaps persist, non-formal education and compulsory National Service exist, and the private sector is growing.",
+        "text_original": "Ghana transitioned from colonial roots to universal, free 12-year basic education, offering academic/vocational senior high tracks and expanding higher education. Vocational training remains undervalued, completion rates low, and tertiary entry selective. Reforms and international aid broaden access; the Ministry oversees decentralized agencies with substantial, mostly domestic funding. Teacher training is standardized, adult literacy is improving, ICT use is limited, gender gaps persist, non-formal education and compulsory National Service exist, and the private sector is growing",
+        "idx_start": 3195,
+        "idx_end": 3782
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## France\nFrance ensures state-regulated, secular education (ban on religious symbols since 2004), mandatory from age 3. With a national curriculum, both public and regulated private/international schools, the aging population is reducing youth numbers but school violence is rare. Higher education enrolls 2.9 million, including universities, selective grandes \u00e9coles, technical IUTs, and private colleges, all Bologna-aligned. Teacher recruitment/pay varies, and expanded 19th-century access benefited women.",
+        "text_original": "France ensures state-regulated, secular education (ban on religious symbols since 2004), mandatory from age 3. With a national curriculum, both public and regulated private/international schools, the aging population is reducing youth numbers but school violence is rare. Higher education enrolls 2.9 million, including universities, selective grandes \u00e9coles, technical IUTs, and private colleges, all Bologna-aligned. Teacher recruitment/pay varies, and expanded 19th-century access benefited women",
+        "idx_start": 3796,
+        "idx_end": 4295
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary\n## England\nEngland mandates compulsory schooling until age 16 and continued participation until 18 via various pathways. The broad national curriculum encompasses arts, humanities, design/technology, business, and languages. State schools dominate, including comprehensive, grammar, faith, academy, and other models\u2014largely tax-funded and regulated. Independent schools set their own curricula; home education is allowed but unfunded. The structure spans nursery, primary, secondary, and five Key Stages (KS1\u2013KS5).\nHigher education starts at 18, offering vocational and academic qualifications, with capped tuition fees for UK students, higher fees and bursaries for international students, and prestigious universities like Oxford and Cambridge attracting many. Regulation is provided by agencies such as the Office for Students and QAA, with alignment to the RQF and European standards. Adult education features diverse pathways, vocational and recreational courses, and distance learning opportunities. The introduction of tuition fees has improved funding and standards, narrowing participation gaps.\nEngland's education system is internationally recognized for high performance, ranking above the OECD average for 15-year-olds and fourth globally in reading and literacy among primary students. The UK stands seventh on the UN Education Index. Reforms, including academy expansion in disadvantaged areas and increased school funding since 2018, have improved standards, with 88% of schools rated good or outstanding by 2015, up from 68% in 2010. Special needs provision has also benefited from increased investment.",
+        "text_original": "England mandates compulsory schooling until age 16 and continued participation until 18 via various pathways. The broad national curriculum encompasses arts, humanities, design/technology, business, and languages. State schools dominate, including comprehensive, grammar, faith, academy, and other models\u2014largely tax-funded and regulated. Independent schools set their own curricula; home education is allowed but unfunded. The structure spans nursery, primary, secondary, and five Key Stages (KS1\u2013KS5).\n\nHigher education starts at 18, offering vocational and academic qualifications, with capped tuition fees for UK students, higher fees and bursaries for international students, and prestigious universities like Oxford and Cambridge attracting many. Regulation is provided by agencies such as the Office for Students and QAA, with alignment to the RQF and European standards. Adult education features diverse pathways, vocational and recreational courses, and distance learning opportunities. The introduction of tuition fees has improved funding and standards, narrowing participation gaps.\n\nEngland's education system is internationally recognized for high performance, ranking above the OECD average for 15-year-olds and fourth globally in reading and literacy among primary students. The UK stands seventh on the UN Education Index. Reforms, including academy expansion in disadvantaged areas and increased school funding since 2018, have improved standards, with 88% of schools rated good or outstanding by 2015, up from 68% in 2010. Special needs provision has also benefited from increased investment",
+        "idx_start": 4310,
+        "idx_end": 5920
+    }
+]

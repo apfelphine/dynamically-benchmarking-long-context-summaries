@@ -1,0 +1,14 @@
+# Summary on Autoencoder
+
+An **autoencoder** is a neural network architecture consisting of two functions: an encoder that maps input data from a high-dimensional space to a lower-dimensional latent code (compressed representation), and a decoder that reconstructs the input from this code. Typically both encoder and decoder are parameterized multilayer perceptrons trained to minimize reconstruction error over a data distribution, enabling unsupervised learning of efficient data representations. Undercomplete autoencoders (latent dimension smaller than input) effectively perform dimensionality reduction, learning meaningful compressed features, while overcomplete autoencoders risk learning trivial identity mappings unless constrained. Linear autoencoders relate closely to principal component analysis (PCA), but nonlinear autoencoders can capture more complex structures.
+
+Various **autoencoder variations** extend this basic idea:  
+- **Variational autoencoders (VAE)** model the latent space as distributions, enabling generative modeling by optimizing an evidence lower bound involving reconstruction error and a KL divergence term between approximate posterior and prior. The encoder outputs parameters of latent distributions, and the decoder reconstructs inputs probabilistically. The reparameterization trick enables backpropagation through stochastic sampling.  
+- **Denoising autoencoders (DAE)** learn robust representations by training to reconstruct clean input from corrupted/noisy versions, encouraging stability to input perturbations.  
+- **Contractive autoencoders (CAE)** add a regularization term penalizing sensitivity of latent codes to input perturbations via the Jacobian norm, promoting robustness.  
+- **Concrete autoencoders** perform discrete feature selection by forcing the latent space to select a subset of input features via continuous relaxations.  
+- **Minimum description length autoencoders (MDL-AE)** combine compression and reconstruction errors inspired by information theory.
+
+Autoencoders have been widely applied for **dimensionality reduction** (often outperforming PCA), **information retrieval** (via semantic hashing), **anomaly detection** (by measuring reconstruction error to detect outliers), and **image processing** including denoising and compression. More complex hierarchical or deep autoencoders leverage multiple layers, enhancing representational power and training efficiency. They also underpin generative models like VAEs and components in larger AI systems such as Stable Diffusion.
+
+Historically, autoencoders originated from neural network studies in the 1980s and 1990s, evolving from linear PCA-related architectures to deep probabilistic models enabling generation and robust feature learning.

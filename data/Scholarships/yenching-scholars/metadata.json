@@ -1,0 +1,28 @@
+{
+  "id": 45240691,
+  "title": "Yenching Scholars",
+  "url": "https://en.wikipedia.org/wiki/Yenching_Scholars",
+  "path": "Scholarships\\yenching-scholars",
+  "summary": {
+    "chars": 975,
+    "tokens": 210
+  },
+  "document": {
+    "chars": 3011,
+    "tokens": 568
+  },
+  "infobox": {
+    "title": "Yenching Scholars",
+    "data": {
+      "Type": "Postgraduate Leadership",
+      "Established": "2014",
+      "Parent institution": "Peking University",
+      "Dean": "Yuan Ming",
+      "Associate Dean": "Wang Bo",
+      "Location": "Beijing, China",
+      "Language": "English (Chinese language study is compulsory for all international students who are placed into one of different levels according to their knowledge)",
+      "Colors": "Red",
+      "Website": "yenchingacademy.org"
+    }
+  }
+}

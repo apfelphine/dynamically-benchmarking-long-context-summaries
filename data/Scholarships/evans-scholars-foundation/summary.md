@@ -1,0 +1,2 @@
+The Evans Scholars Foundation is a nonprofit organization based in Glenview, Illinois that provides full tuition and housing college scholarships to golf caddies. Operated by the Western Golf Association, the Evans Scholars Foundation has helped more than 11,550 caddies graduate from college since its creation in 1930.
+The Foundation was founded with money earned and donated by famed amateur golfer Charles "Chick" Evans.

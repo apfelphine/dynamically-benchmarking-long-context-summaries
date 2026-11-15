@@ -1,0 +1,1 @@
+Dream Careers Inc., formerly known as University of Dreams, is an American corporation providing mainly summer internship programs. The company is based in San Mateo, California. According to The New York Times, they are one of the most visible players in the industry.

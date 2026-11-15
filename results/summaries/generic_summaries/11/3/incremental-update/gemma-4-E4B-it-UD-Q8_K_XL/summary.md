@@ -1,0 +1,9 @@
+Deep learning utilizes diverse architectures, including generative models like **GANs** and **VAEs**, and graph-processing models like **GNNs** (**MPNNs**). In computer vision, **Transformers** evolve into **ViTs** (using self-attention on patches), with advanced variants like **Swin Transformer** (shifted window attention) and **TimeSformer**. Self-supervised training for ViTs is advanced by methods like **MAE** and **DINO**, and classification often employs pooling methods such as **[CLS] token**, **GAP**, or **MAP**.
+
+Model interpretability is vital, with **CAM** localizing CNN features by requiring **GAP** and leveraging final linear weights. To make this model-agnostic, **Grad-CAM** computes feature map importance weights ($\alpha_k^C$) using the global average of target class score gradients. Enhancements to Grad-CAM include **Guided Grad-CAM** (fusing with Guided Backpropagation for finer detail) and **Grad-CAM++**, which refines the mathematics using second and third-order derivatives while still relying on gradients.
+
+Alternative and specialized CAM techniques include:
+*   **Score-CAM:** A gradient-free method that uses model confidence scores instead of gradients to weight feature maps, though it is computationally heavier and less context-aware.
+*   **LayerCAM:** Improves localization by integrating information from intermediate and final convolutional layers, using only positive gradients ($\text{ReLU}(\frac{\partial y^C}{\partial A_k(i,j)})$) to produce high-resolution heatmaps.
+
+These interpretability methods are broadly applied across fields such as deep RL, medicine, and art.

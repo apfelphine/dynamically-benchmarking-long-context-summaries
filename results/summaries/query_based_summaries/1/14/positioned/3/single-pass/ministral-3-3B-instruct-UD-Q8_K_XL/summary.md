@@ -1,0 +1,3 @@
+**Atlas (2024 film)**
+
+In 2043, the world faces a war between humanity and artificial intelligence led by the rogue AI, Harlan Shepherd. Twenty-eight years later, in 2071, Atlas Shepherd, a distrustful AI analyst and Harlan’s daughter, searches for her father, who has escaped into space. After discovering Harlan’s AI drones attack an ICN military mission, Atlas is forced to pilot an AI-assisted mecha, named Smith, to survive. As they journey together, Atlas and Smith grow closer, revealing Atlas’s mother’s role in creating Harlan. After a confrontation with Harlan, Atlas and Smith defeat him, though Atlas is severely injured. The film concludes with Atlas testing a new AI mecha, Smith, hinting at its sentience persisting beyond the mission.

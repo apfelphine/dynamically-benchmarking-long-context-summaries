@@ -1,0 +1,2 @@
+If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All (published in the UK with the alternative subtitle The Case Against Superintelligent AI) is a 2025 book by Eliezer Yudkowsky and Nate Soares which details potential threats posed to humanity by artificial superintelligence.
+The book was published by Little, Brown and Company, and appeared in The New York Times Best Seller list on October 5, 2025.

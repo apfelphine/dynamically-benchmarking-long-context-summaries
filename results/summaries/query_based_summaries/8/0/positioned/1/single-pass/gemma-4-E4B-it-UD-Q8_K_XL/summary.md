@@ -1,0 +1,7 @@
+The provided text contains extensive information regarding the education systems of various countries (Finland, United States, South Africa, the Philippines, Portugal, Malaysia, Australia, and Romania).
+
+**The summary below strictly focuses on "Education in the United States" based on the text provided.**
+
+In the United States, formal education is structured across several distinct stages, generally starting around age five or six. Education is compulsory until age 16 (though this varies by state). The primary and secondary education system typically comprises 12 grades, divided into elementary school (K/1–6) and secondary education (9–12). Students progress through these grades, and many may choose to pursue vocational education or continue to higher education after high school.
+
+Higher education is an optional final stage, available at over 7,000 post-secondary institutions. Universities issue bachelor's, master's, professional, or doctorate degrees, while colleges often award solely bachelor's degrees. The system is largely deregulated, offering diverse choices. Student loan debt is a significant contemporary social issue, and disparities in educational attainment are strongly linked to socioeconomic background, race, and geography. Furthermore, the system faces issues such as high teacher turnover, low teacher compensation relative to peers, and the controversy surrounding standardized testing.

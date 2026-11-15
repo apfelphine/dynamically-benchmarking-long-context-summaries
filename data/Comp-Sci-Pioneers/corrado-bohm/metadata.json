@@ -1,0 +1,26 @@
+{
+  "id": 2462324,
+  "title": "Corrado B\u00f6hm",
+  "url": "https://en.wikipedia.org/wiki/Corrado_B%C3%B6hm",
+  "path": "Comp-Sci-Pioneers\\corrado-bohm",
+  "summary": {
+    "chars": 362,
+    "tokens": 71
+  },
+  "document": {
+    "chars": 2641,
+    "tokens": 716
+  },
+  "infobox": {
+    "title": "Corrado B\u00f6hm",
+    "data": {
+      "Born": "17 January 1923 \u00b7 Milan",
+      "Died": "23 October 2017 (aged 94) \u00b7 Rome",
+      "Alma mater": "ETH Z\u00fcrich",
+      "Fields": "Computer science",
+      "Institutions": "University of Rome \"La Sapienza\"",
+      "Doctoral advisor": "- Eduard Stiefel - Paul Bernays",
+      "Doctoral students": "- Giorgio Ausiello - Mariangiola Dezani-Ciancaglini"
+    }
+  }
+}

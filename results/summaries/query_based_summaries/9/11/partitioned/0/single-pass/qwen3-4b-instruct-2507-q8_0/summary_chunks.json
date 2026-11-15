@@ -1,0 +1,44 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Compulsory Education:\n- Children typically start primary school (szko\u0142a podstawowa) at age 6 or 7, after attending kindergarten.\n- Prior to 2017, primary school lasted 6 years (grades 1\u20136), followed by a 3-year middle school (gimnazjum).\n- In 2017, the \"Law on School Education\" abolished gimnazjum and extended primary education to 8 years (grades 1\u20138), making the total compulsory education span 12 years.",
+        "text_original": "Children typically start primary school (szko\u0142a podstawowa) at age 6 or 7, after attending kindergarten. \n- Prior to 2017, primary school lasted 6 years (grades 1\u20136), followed by a 3-year middle school (gimnazjum). \n- In 2017, the \"Law on School Education\" abolished gimnazjum and extended primary education to 8 years (grades 1\u20138), making the total compulsory education span 12 years",
+        "idx_start": 53,
+        "idx_end": 437
+    },
+    {
+        "document_idx": null,
+        "text": "# Upper Secondary Education:\n- After completing primary school, students enter upper secondary education, which includes:\n    - **General secondary schools (liceum)** : Students take the \"Matura\" exam, which grants access to higher education.\n    - **Technical schools (technikum)** : Offer vocational training and lead to the Matura.\n    - **Basic vocational schools (zasadnicza szko\u0142a zawodowa)** : Provide vocational education for 3 years, with a certificate of competence. Graduates can take the Matura after an additional 2 or 3 years in a general secondary school.\n    - **Profiled general secondary schools (liceum profilowane)** : Offer vocational education in fields described by the Polish Classification of Activities (PKD), lasting 4 years.",
+        "text_original": "After completing primary school, students enter upper secondary education, which includes:\n  - **General secondary schools (liceum)**: Students take the \"Matura\" exam, which grants access to higher education.\n  - **Technical schools (technikum)**: Offer vocational training and lead to the Matura.\n  - **Basic vocational schools (zasadnicza szko\u0142a zawodowa)**: Provide vocational education for 3 years, with a certificate of competence. Graduates can take the Matura after an additional 2 or 3 years in a general secondary school.\n  - **Profiled general secondary schools (liceum profilowane)**: Offer vocational education in fields described by the Polish Classification of Activities (PKD), lasting 4 years",
+        "idx_start": 473,
+        "idx_end": 1181
+    },
+    {
+        "document_idx": null,
+        "text": "# Tertiary Education:\n- Poland follows the Bologna system, with a three-cycle structure:\n    - **Bachelor's degree (3 years)** : Followed by a **master's degree (2 years)** .\n    - Some programs (e.g., medicine, pharmacy) are longer (5\u20136 years).\n- Doctoral programs last about 3 years.\n- The diploma for primary school teachers requires 3 years of study at a teacher training college.\n- Vocational education is handled by post-secondary schools (szko\u0142a policealna), with programs lasting 2.5 years.",
+        "text_original": "Poland follows the Bologna system, with a three-cycle structure:\n  - **Bachelor's degree (3 years)**: Followed by a **master's degree (2 years)**.\n  - Some programs (e.g., medicine, pharmacy) are longer (5\u20136 years).\n- Doctoral programs last about 3 years.\n- The diploma for primary school teachers requires 3 years of study at a teacher training college.\n- Vocational education is handled by post-secondary schools (szko\u0142a policealna), with programs lasting 2.5 years",
+        "idx_start": 1210,
+        "idx_end": 1677
+    },
+    {
+        "document_idx": null,
+        "text": "# Grading System:\n- University-level education uses a numeric scale from 2 to 5, with most grades including 0.5 increments.\n- A grade of 2.0 is failing; 3.0 is the lowest passing grade, with 5.0 being the highest.\n- Students can fail a subject and retake it, with no formal grade of 2.5.",
+        "text_original": "University-level education uses a numeric scale from 2 to 5, with most grades including 0.5 increments.\n- A grade of 2.0 is failing; 3.0 is the lowest passing grade, with 5.0 being the highest.\n- Students can fail a subject and retake it, with no formal grade of",
+        "idx_start": 1702,
+        "idx_end": 1964
+    },
+    {
+        "document_idx": null,
+        "text": "# Foreign Languages:\n- Students typically study one or two foreign languages.\n- In 2005/06, 67.9% studied English, 33.3% studied German, and 13.3% studied French.\n- A 2017 reform required students in lower secondary schools to study two foreign languages, with English taught three times a week and a second language twice a week.\n- Language exam results influence eligibility for upper secondary school entry.",
+        "text_original": "Students typically study one or two foreign languages.\n- In 2005/06, 67.9% studied English, 33.3% studied German, and 13.3% studied French.\n- A 2017 reform required students in lower secondary schools to study two foreign languages, with English taught three times a week and a second language twice a week.\n- Language exam results influence eligibility for upper secondary school entry",
+        "idx_start": 1996,
+        "idx_end": 2382
+    },
+    {
+        "document_idx": null,
+        "text": "# Historical Context:\n- Poland's education system has roots dating back to the 12th century, with the Jagiellonian University (founded 1364) being one of Europe\u2019s oldest.\n- The 1773 Commission of National Education was the world\u2019s first state ministry of education.\n- Major reforms occurred in 1999 and 2017, shifting the structure from 6+3+3 to 8+4+5 years, emphasizing core subjects and delaying vocational training.",
+        "text_original": "Poland's education system has roots dating back to the 12th century, with the Jagiellonian University (founded 1364) being one of Europe\u2019s oldest.\n- The 1773 Commission of National Education was the world\u2019s first state ministry of education.\n- Major reforms occurred in 1999 and 2017, shifting the structure from 6+3+3 to 8+4+5 years, emphasizing core subjects and delaying vocational training",
+        "idx_start": 2411,
+        "idx_end": 2804
+    }
+]

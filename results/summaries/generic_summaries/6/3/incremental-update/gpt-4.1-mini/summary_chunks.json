@@ -1,0 +1,394 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Herbert A. Simon\n### Early Life and Education:\nHerbert A. Simon (1916\u20132001) of Milwaukee earned a Ph.D. in political science and economics from the University of Chicago.",
+        "text_original": "Herbert A. Simon (1916\u20132001) of Milwaukee earned a Ph.D. in political science and economics from the University of Chicago",
+        "idx_start": 97,
+        "idx_end": 219
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Herbert A. Simon\n### Career and Contributions:\nSimon's interdisciplinary work spanned decision-making, cognitive psychology, AI, economics, and organizational theory: introducing *bounded rationality* and *satisficing* (Nobel laureate, 1978), co-developing early AI problem solvers, modeling expertise acquisition, advancing mathematical economics, and authoring seminal works ( *Administrative Behavior* , *The Sciences of the Artificial* ).",
+        "text_original": "Simon's interdisciplinary work spanned decision-making, cognitive psychology, AI, economics, and organizational theory: introducing *bounded rationality* and *satisficing* (Nobel laureate, 1978), co-developing early AI problem solvers, modeling expertise acquisition, advancing mathematical economics, and authoring seminal works (*Administrative Behavior*, *The Sciences of the Artificial",
+        "idx_start": 254,
+        "idx_end": 643
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Herbert A. Simon\n### Personal Life and Legacy:\nAn accomplished pianist and mountaineer, Simon\u2019s legacy profoundly impacted multiple disciplines.",
+        "text_original": "An accomplished pianist and mountaineer, Simon\u2019s legacy profoundly impacted multiple disciplines",
+        "idx_start": 680,
+        "idx_end": 776
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Per Brinch Hansen\n### Biography and Contributions:\nDanish computer scientist pioneering operating systems and concurrency: developed the RC 4000 multiprogramming system, co-invented monitors and Concurrent Pascal, conceived multiprocessor languages, and initiated early distributed computing concepts.",
+        "text_original": "Danish computer scientist pioneering operating systems and concurrency: developed the RC 4000 multiprogramming system, co-invented monitors and Concurrent Pascal, conceived multiprocessor languages, and initiated early distributed computing concepts",
+        "idx_start": 841,
+        "idx_end": 1090
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Per Brinch Hansen\n### Legacy:\nLaid foundations for modern concurrency and distributed systems; IEEE Computer Pioneer Awardee (2002).",
+        "text_original": "Laid foundations for modern concurrency and distributed systems; IEEE Computer Pioneer Awardee",
+        "idx_start": 1107,
+        "idx_end": 1201
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Edsger W. Dijkstra\n### Biography and Work:\nDutch pioneer in programming discipline and theory: developed THE OS, co-created ALGOL 60 compiler, popularized structured programming, introduced fundamental algorithms (shortest path, Banker\u2019s algorithm), concurrency primitives (semaphores), and self-stabilization.",
+        "text_original": "Dutch pioneer in programming discipline and theory: developed THE OS, co-created ALGOL 60 compiler, popularized structured programming, introduced fundamental algorithms (shortest path, Banker\u2019s algorithm), concurrency primitives (semaphores), and self-stabilization",
+        "idx_start": 1265,
+        "idx_end": 1531
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Edsger W. Dijkstra\n### Awards and Personality:\nTuring Award (1972), known for wit, strong opinions, classical music passion, and critical views on software engineering.",
+        "text_original": "Turing Award (1972), known for wit, strong opinions, classical music passion, and critical views on software engineering",
+        "idx_start": 1564,
+        "idx_end": 1684
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Al-Khwarizmi\n### Scholarly Contributions:\nFounder of algebra and algorithmic computation: authored the first systematic treatise on linear and quadratic equations, promoted Hindu\u2013Arabic numerals, advanced trigonometry and astronomy, revised Ptolemaic geography, wrote on calendars and astronomical instruments.",
+        "text_original": "Founder of algebra and algorithmic computation: authored the first systematic treatise on linear and quadratic equations, promoted Hindu\u2013Arabic numerals, advanced trigonometry and astronomy, revised Ptolemaic geography, wrote on calendars and astronomical instruments",
+        "idx_start": 1740,
+        "idx_end": 2007
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Al-Khwarizmi\n### Honors:\nLunar crater and asteroids bear his name.",
+        "text_original": "Lunar crater and asteroids bear his name",
+        "idx_start": 2024,
+        "idx_end": 2064
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Claude Shannon\n### Early Life and Education:\nMichigan-born (1916\u20132001), degrees in EE, mathematics, and Ph.D. in mathematics.",
+        "text_original": "Michigan-born (1916\u20132001), degrees in EE, mathematics, and Ph.D. in mathematics",
+        "idx_start": 2123,
+        "idx_end": 2202
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Claude Shannon\n### Career and Contributions:\nFather of the information age: published *Mathematical Theory of Communication* (1948), founding information theory; proved one-time pad cryptosystem unbreakable; estimated chess complexity; invented mechanical learning devices; pioneered wearable computing; contributed to combinatorics, detection theory; worked at Bell Labs and MIT.",
+        "text_original": "Father of the information age: published *Mathematical Theory of Communication* (1948), founding information theory; proved one-time pad cryptosystem unbreakable; estimated chess complexity; invented mechanical learning devices; pioneered wearable computing; contributed to combinatorics, detection theory; worked at Bell Labs and MIT",
+        "idx_start": 2237,
+        "idx_end": 2571
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Claude Shannon\n### Recognition & Legacy:\nGlobal honors including Claude E. Shannon Award.",
+        "text_original": "Global honors including Claude E. Shannon Award",
+        "idx_start": 2602,
+        "idx_end": 2649
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Gottlob Frege\n### Biography and Education:\nGerman logician and analytic philosopher (1848\u20131925), known for axiomatic predicate logic and quantified variables ( *Begriffsschrift* ), foundational for mathematical logic.",
+        "text_original": "German logician and analytic philosopher (1848\u20131925), known for axiomatic predicate logic and quantified variables (*Begriffsschrift*), foundational for mathematical logic",
+        "idx_start": 2706,
+        "idx_end": 2877
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Gottlob Frege\n### Philosophical Contributions:\nFounded analytic philosophy; introduced function-argument analysis, sense vs. reference distinction, context principle; influenced Russell, G\u00f6del, Tarski.",
+        "text_original": "Founded analytic philosophy; introduced function-argument analysis, sense vs. reference distinction, context principle; influenced Russell, G\u00f6del, Tarski",
+        "idx_start": 2915,
+        "idx_end": 3068
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Gottlob Frege\n### Personality and Views:\nIntroverted, incisive wit; controversial late-life antisemitism contrasted with friendships.",
+        "text_original": "Introverted, incisive wit; controversial late-life antisemitism contrasted with friendships",
+        "idx_start": 3100,
+        "idx_end": 3191
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Donald Knuth\n### Early Life and Education:\nMilwaukee-born, physics to mathematics, earned Ph.D. from Caltech.",
+        "text_original": "Milwaukee-born, physics to mathematics, earned Ph.D. from Caltech",
+        "idx_start": 3248,
+        "idx_end": 3313
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Donald Knuth\n### Career and Contributions:\nAuthored *The Art of Computer Programming* , *Concrete Mathematics* ; developed TeX and Metafont; pioneered literate programming.",
+        "text_original": "Authored *The Art of Computer Programming*, *Concrete Mathematics*; developed TeX and Metafont; pioneered literate programming",
+        "idx_start": 3348,
+        "idx_end": 3474
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Donald Knuth\n### Personality and Awards:\nKnown for recursive humor; ACM Grace Murray Hopper Award (1971), Turing Award (1974), National Medal of Science; asteroid named after him.",
+        "text_original": "Known for recursive humor; ACM Grace Murray Hopper Award (1971), Turing Award (1974), National Medal of Science; asteroid named after him",
+        "idx_start": 3507,
+        "idx_end": 3644
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Grace Hopper\n### Biography and Contributions:\nAmerican computer scientist and Navy rear admiral (1906\u20131992); Ph.D. in mathematics from Yale.\n- Pioneered compilers, including FLOW-MATIC, instrumental in COBOL.\n- Led Navy Programming Languages Group, championed distributed networks.",
+        "text_original": "American computer scientist and Navy rear admiral (1906\u20131992); Ph.D. in mathematics from Yale.\n\n- Pioneered compilers, including FLOW-MATIC, instrumental in COBOL.  \n- Led Navy Programming Languages Group, championed distributed networks",
+        "idx_start": 3704,
+        "idx_end": 3941
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Grace Hopper\n### Legacy and Honors:\n\"Grandma COBOL\"; honors include Navy destroyers, scholarships, Presidential Medal of Freedom (2016).",
+        "text_original": "Grandma COBOL\"; honors include Navy destroyers, scholarships, Presidential Medal of Freedom",
+        "idx_start": 3970,
+        "idx_end": 4061
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Lynn Conway\n### Biography and Contributions:\nLynn Conway (1938\u20132024), transgender pioneer in VLSI design; introduced scalable, dimensionless design rules; co-developed Mead\u2013Conway methodology transforming chip design and CAD tools.",
+        "text_original": "Lynn Conway (1938\u20132024), transgender pioneer in VLSI design; introduced scalable, dimensionless design rules; co-developed Mead\u2013Conway methodology transforming chip design and CAD tools",
+        "idx_start": 4127,
+        "idx_end": 4312
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Lynn Conway\n### Activism and Legacy:\nAdvocated transgender rights; coined \"Conway effect\" on overlooked innovators; IEEE Fellow, National Academy of Engineering member, National LGBTQ Wall of Honor.",
+        "text_original": "Advocated transgender rights; coined \"Conway effect\" on overlooked innovators; IEEE Fellow, National Academy of Engineering member, National LGBTQ Wall of Honor",
+        "idx_start": 4342,
+        "idx_end": 4502
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Federico Faggin\n### Biography and Contributions:\nItalian physicist-engineer pivotal in semiconductor and microprocessor innovation.\n- Pioneered silicon gate technology; led design of Intel's 4004\u2014the first single-chip microprocessor\u2014and successors.\n- Co-founded Zilog; designed Z80 and Z8 microcontrollers.\n- Founded Synaptics, advancing neural networks and touch interfaces.\n- Later focused on quantum-based consciousness research.",
+        "text_original": "Italian physicist-engineer pivotal in semiconductor and microprocessor innovation.\n\n- Pioneered silicon gate technology; led design of Intel's 4004\u2014the first single-chip microprocessor\u2014and successors.  \n- Co-founded Zilog; designed Z80 and Z8 microcontrollers.  \n- Founded Synaptics, advancing neural networks and touch interfaces.  \n- Later focused on quantum-based consciousness research",
+        "idx_start": 4565,
+        "idx_end": 4954
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Federico Faggin\n### Recognition:\nMarconi Fellowship, Kyoto Prize, National Medal of Technology, Italy\u2019s highest honors.",
+        "text_original": "Marconi Fellowship, Kyoto Prize, National Medal of Technology, Italy\u2019s highest honors",
+        "idx_start": 4976,
+        "idx_end": 5061
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Kurt G\u00f6del\n### Early Life and Education:\nBorn 1906 Austria-Hungary; doctorate for completeness theorem.",
+        "text_original": "Born 1906 Austria-Hungary; doctorate for completeness theorem",
+        "idx_start": 5116,
+        "idx_end": 5177
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Kurt G\u00f6del\n### Contributions:\nIncompleteness theorems (1931) on formal system limits; G\u00f6del numbering; work on intuitionistic logic, axiom of choice, continuum hypothesis; constructible universe.",
+        "text_original": "Incompleteness theorems (1931) on formal system limits; G\u00f6del numbering; work on intuitionistic logic, axiom of choice, continuum hypothesis; constructible universe",
+        "idx_start": 5201,
+        "idx_end": 5365
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Kurt G\u00f6del\n### Later Life:\nAt IAS Princeton; philosophy, physics (G\u00f6del metric on time-travel); ontological proof; Albert Einstein Medal, National Medal of Science.",
+        "text_original": "At IAS Princeton; philosophy, physics (G\u00f6del metric on time-travel); ontological proof; Albert Einstein Medal, National Medal of Science",
+        "idx_start": 5386,
+        "idx_end": 5522
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Kurt G\u00f6del\n### Personality and Beliefs:\nMental illness struggles; personal religious beliefs; died 1978.",
+        "text_original": "Mental illness struggles; personal religious beliefs; died",
+        "idx_start": 5556,
+        "idx_end": 5614
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Jacek Karpi\u0144ski\n### Early Life and Wartime Service:\nBorn 1927 Poland; WWII underground resistance decorated for valor.",
+        "text_original": "Born 1927 Poland; WWII underground resistance decorated for valor",
+        "idx_start": 5685,
+        "idx_end": 5750
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Jacek Karpi\u0144ski\n### Post-war Career and Innovations:\nDeveloped early computing machines despite political constraints:\n- AAH vacuum tube computer (1957), AKAT-1 transistor analyzer (1959), perceptron learning machines (1964), KAR-65 asynchronous computer (1968).\n- Led 113-engineer team for K-202 minicomputer (1973)\u2014compact, modular, asynchronous, used Intel 4004; outperformed contemporaries but hindered by political opposition and economic sabotage.\n- Emigrated; posthumously honored; controversially revealed as secret informant.",
+        "text_original": "Developed early computing machines despite political constraints:  \n- AAH vacuum tube computer (1957), AKAT-1 transistor analyzer (1959), perceptron learning machines (1964), KAR-65 asynchronous computer (1968).  \n- Led 113-engineer team for K-202 minicomputer (1973)\u2014compact, modular, asynchronous, used Intel 4004; outperformed contemporaries but hindered by political opposition and economic sabotage.  \n- Emigrated; posthumously honored; controversially revealed as secret informant",
+        "idx_start": 5792,
+        "idx_end": 6278
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Ismail al-Jazari\n### Biography and Contributions:\nBorn 1136 in Upper Mesopotamia, chief engineer to Artuqid rulers; authored *Book of Knowledge of Ingenious Mechanical Devices* (1206), emphasizing practical craftsmanship.",
+        "text_original": "Born 1136 in Upper Mesopotamia, chief engineer to Artuqid rulers; authored *Book of Knowledge of Ingenious Mechanical Devices* (1206), emphasizing practical craftsmanship",
+        "idx_start": 6342,
+        "idx_end": 6512
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Ismail al-Jazari\n### Mechanical Innovations:\nInvented camshafts, early crankshafts, segmental gears, conical valves predating Europe; advanced water-raising machines with differential gears and mechanical timers; hydropowered public utility systems.",
+        "text_original": "Invented camshafts, early crankshafts, segmental gears, conical valves predating Europe; advanced water-raising machines with differential gears and mechanical timers; hydropowered public utility systems",
+        "idx_start": 6545,
+        "idx_end": 6748
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Ismail al-Jazari\n### Robotics and Automata:\nCreated programmable musical automata, intricate water clocks (elephant and castle clocks), mechanical performances integrating timekeeping and automata, pioneering early practical robotics.",
+        "text_original": "Created programmable musical automata, intricate water clocks (elephant and castle clocks), mechanical performances integrating timekeeping and automata, pioneering early practical robotics",
+        "idx_start": 6780,
+        "idx_end": 6969
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Kenneth E. Iverson\n### Life and Education:\nCanadian mathematician/computer scientist (1920\u20132004); Harvard Ph.D.",
+        "text_original": "Canadian mathematician/computer scientist (1920\u20132004); Harvard Ph.D",
+        "idx_start": 7026,
+        "idx_end": 7093
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Kenneth E. Iverson\n### APL Development and Career:\nCreated APL at Harvard (1955\u201360), pioneering concise array programming; led IBM Philadelphia Scientific Center; advanced IBM System/360 formal specifications.",
+        "text_original": "Created APL at Harvard (1955\u201360), pioneering concise array programming; led IBM Philadelphia Scientific Center; advanced IBM System/360 formal specifications",
+        "idx_start": 7130,
+        "idx_end": 7287
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Kenneth E. Iverson\n### I. P. Sharp Associates & Jsoftware Inc.:\nAdvanced APL extensions; co-developed J language with ASCII syntax; innovated language features (\"fork\" operator); authored educational works.",
+        "text_original": "Advanced APL extensions; co-developed J language with ASCII syntax; innovated language features (\"fork\" operator); authored educational works",
+        "idx_start": 7337,
+        "idx_end": 7478
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Kenneth E. Iverson\n### Recognition:\nIBM Fellow; IEEE Harry H. Goode and Computer Pioneer Awards; moth species named after him.",
+        "text_original": "IBM Fellow; IEEE Harry H. Goode and Computer Pioneer Awards; moth species named after him",
+        "idx_start": 7500,
+        "idx_end": 7589
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Geoffrey Hinton\n### Biography and Education:\nBritish AI pioneer educated in psychology and AI.",
+        "text_original": "British AI pioneer educated in psychology and AI",
+        "idx_start": 7648,
+        "idx_end": 7696
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Geoffrey Hinton\n### Contributions:\nDeveloped neural networks, backpropagation, Boltzmann machines, capsule networks, Forward-Forward algorithm, hierarchical and symbolic learning (GLOM), advocated hybrid analog/digital AI, introduced \"Mortal-Computation.\"",
+        "text_original": "Developed neural networks, backpropagation, Boltzmann machines, capsule networks, Forward-Forward algorithm, hierarchical and symbolic learning (GLOM), advocated hybrid analog/digital AI, introduced \"Mortal-Computation",
+        "idx_start": 7720,
+        "idx_end": 7938
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Geoffrey Hinton\n### Industry and Advocacy:\nCo-founded DNNresearch (acquired by Google); resigned (2023) to criticize AI risks; advocates regulation, universal basic income, safety laws.",
+        "text_original": "Co-founded DNNresearch (acquired by Google); resigned (2023) to criticize AI risks; advocates regulation, universal basic income, safety laws",
+        "idx_start": 7971,
+        "idx_end": 8112
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Geoffrey Hinton\n### Honors:\nFellow of AAAI and Royal Societies; Turing Award (2018), Nobel Prize in Physics (2024), VinFuture, Queen Elizabeth Prize for Engineering.",
+        "text_original": "Fellow of AAAI and Royal Societies; Turing Award (2018), Nobel Prize in Physics (2024), VinFuture, Queen Elizabeth Prize for Engineering",
+        "idx_start": 8129,
+        "idx_end": 8265
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## George Boole\n### Biography and Contributions:\nSelf-taught English mathematician (1815\u20131864), first professor at Queen\u2019s College, Cork.\n- Pioneered symbolic logic ( *Mathematical Analysis of Logic* , *Laws of Thought* ), formalized Boolean algebra combining logic and probability.\n- Introduced universe of discourse, functionally defining logical operations as algebraic processes.\n- Laid foundation for modern logic, computer science, and digital circuit design.\n- Work influenced successors (Jevons, De Morgan, Peirce) and Claude Shannon, enabling Information Age technologies.",
+        "text_original": "Self-taught English mathematician (1815\u20131864), first professor at Queen\u2019s College, Cork.\n\n- Pioneered symbolic logic (*Mathematical Analysis of Logic*, *Laws of Thought*), formalized Boolean algebra combining logic and probability.  \n- Introduced universe of discourse, functionally defining logical operations as algebraic processes.  \n- Laid foundation for modern logic, computer science, and digital circuit design.  \n- Work influenced successors (Jevons, De Morgan, Peirce) and Claude Shannon, enabling Information Age technologies",
+        "idx_start": 8325,
+        "idx_end": 8860
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## George Boole\n### Personal Life:\nAgnostic deist integrating theology with logic; influenced by multiple religious and philosophical traditions; married Mary Everest; five daughters who furthered contributions in science and activism.",
+        "text_original": "Agnostic deist integrating theology with logic; influenced by multiple religious and philosophical traditions; married Mary Everest; five daughters who furthered contributions in science and activism",
+        "idx_start": 8884,
+        "idx_end": 9083
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## George Boole\n### Legacy:\nCommemorated globally on his 200th birth anniversary (2015) by University College Cork, Google, and others; namesake of Boolean algebra, lunar crater, and computer science terminology.",
+        "text_original": "Commemorated globally on his 200th birth anniversary (2015) by University College Cork, Google, and others; namesake of Boolean algebra, lunar crater, and computer science terminology",
+        "idx_start": 9100,
+        "idx_end": 9283
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## George Antheil\n### Biography and Career:\nAmerican avant-garde composer (1900\u20131959) noted for modernist percussion piano style and later neoromantic, jazz-influenced compositions. Active in Berlin and Paris (1922\u20131933), his *Ballet M\u00e9canique* featured mechanical instrumentation and complex synchronization, influencing contemporaries.",
+        "text_original": "American avant-garde composer (1900\u20131959) noted for modernist percussion piano style and later neoromantic, jazz-influenced compositions. Active in Berlin and Paris (1922\u20131933), his *Ballet M\u00e9canique* featured mechanical instrumentation and complex synchronization, influencing contemporaries",
+        "idx_start": 9338,
+        "idx_end": 9630
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## George Antheil\n### Later Life and Innovations:\nReturned to the U.S. (1933), composing operas, ballets, and over 30 Hollywood film scores, collaborating with directors like Cecil B. DeMille. Authored murder mysteries, war predictions, and advice columns; anti-Nazi advocate.",
+        "text_original": "Returned to the U.S. (1933), composing operas, ballets, and over 30 Hollywood film scores, collaborating with directors like Cecil B. DeMille. Authored murder mysteries, war predictions, and advice columns; anti-Nazi advocate",
+        "idx_start": 9667,
+        "idx_end": 9892
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## George Antheil\n### Technological Contribution:\nDuring WWII, co-invented with actress Hedy Lamarr an early frequency-hopping radio system securing torpedo guidance from jamming; precursor to modern spread-spectrum technologies (Bluetooth, Wi-Fi).",
+        "text_original": "During WWII, co-invented with actress Hedy Lamarr an early frequency-hopping radio system securing torpedo guidance from jamming; precursor to modern spread-spectrum technologies (Bluetooth, Wi-Fi",
+        "idx_start": 9929,
+        "idx_end": 10125
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Ramon Llull\n### Life and Background:\nBorn circa 1232\u201333 in Palma, Majorca, from a wealthy family.",
+        "text_original": "Born circa 1232\u201333 in Palma, Majorca, from a wealthy family",
+        "idx_start": 10177,
+        "idx_end": 10236
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Ramon Llull\n### Religious Calling and Missionary Work:\nExperienced visions (1263) prompting conversion efforts among Muslims; learned Arabic and other languages; traveled extensively for missionary and scholarly work.",
+        "text_original": "Experienced visions (1263) prompting conversion efforts among Muslims; learned Arabic and other languages; traveled extensively for missionary and scholarly work",
+        "idx_start": 10284,
+        "idx_end": 10445
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Ramon Llull\n### Philosophical and Logical Contributions (Llull\u2019s Art):\nDeveloped a universal combinatorial logical system ( *Ars* ) to prove theological truths about God and the Trinity, employing symbolic diagrams evolving from complex divine attributes to simplified threefold correlatives (agent, patient, act).",
+        "text_original": "Developed a universal combinatorial logical system (*Ars*) to prove theological truths about God and the Trinity, employing symbolic diagrams evolving from complex divine attributes to simplified threefold correlatives (agent, patient, act",
+        "idx_start": 10509,
+        "idx_end": 10748
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Ramon Llull\n### Works and Methods:\nIncorporated Islamic influences like zairja devices and Al-Ghazali\u2019s ideas; created symbolic tree diagrams representing knowledge growth; authored dialogues and popular Catalan novels ( *Blanquerna* , *Felix* ) to disseminate ideas.",
+        "text_original": "Incorporated Islamic influences like zairja devices and Al-Ghazali\u2019s ideas; created symbolic tree diagrams representing knowledge growth; authored dialogues and popular Catalan novels (*Blanquerna*, *Felix*) to disseminate ideas",
+        "idx_start": 10777,
+        "idx_end": 11005
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Ramon Llull\n### Reception and Influence:\nInitially rejected by medieval academia and church; later influenced Renaissance thinkers and occultism via pseudo-Lullian texts; his system taught in Spain; recognized for contributions to Catalan literature, cognitive systems, and combinatorial logic.",
+        "text_original": "Initially rejected by medieval academia and church; later influenced Renaissance thinkers and occultism via pseudo-Lullian texts; his system taught in Spain; recognized for contributions to Catalan literature, cognitive systems, and combinatorial logic",
+        "idx_start": 11039,
+        "idx_end": 11291
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Ramon Llull\n### Art and Literature Influence:\nInspired 20th- and 21st-century surrealism and metafiction; Salvador Dal\u00ed used Llull\u2019s diagrams prominently; Jorge Luis Borges, Aldous Huxley, Paul Auster, and John Masefield referenced his thought.",
+        "text_original": "Inspired 20th- and 21st-century surrealism and metafiction; Salvador Dal\u00ed used Llull\u2019s diagrams prominently; Jorge Luis Borges, Aldous Huxley, Paul Auster, and John Masefield referenced his thought",
+        "idx_start": 11330,
+        "idx_end": 11527
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Ramon Llull\n### Computational Legacy:\nLlull\u2019s *Ars Magna* manuscripts (discovered 2001) are viewed as early logical systems akin to computation theory. He devised an electoral system related to the Borda count and Condorcet criterion, concepts formalized centuries later.",
+        "text_original": "Llull\u2019s *Ars Magna* manuscripts (discovered 2001) are viewed as early logical systems akin to computation theory. He devised an electoral system related to the Borda count and Condorcet criterion, concepts formalized centuries later",
+        "idx_start": 11558,
+        "idx_end": 11790
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Ramon Llull\n### Translations:\nKey works translated into English include *Rethorica Nova* , *Selected Works* (with *Ars Demonstrativa* , *Flowers of Love* ), and *Doctor Illuminatus* ( *The Book of the Lover and the Beloved* ), edited mainly by Anthony Bonner et al.",
+        "text_original": "Key works translated into English include *Rethorica Nova*, *Selected Works* (with *Ars Demonstrativa*, *Flowers of Love*), and *Doctor Illuminatus* (*The Book of the Lover and the Beloved*), edited mainly by Anthony Bonner et al",
+        "idx_start": 11813,
+        "idx_end": 12042
+    },
+    {
+        "document_idx": null,
+        "text": "# Updated Working Summary (Chunks 1 to 43)\n## Combined Legacy\nThese pioneers collectively shaped foundational advances across computing, mathematics, logic, information theory, semiconductor technology, programming languages, mechanical engineering, robotics, artificial intelligence, music, philosophy, literature, and theology. Their innovations continue to influence scientific, technological, cultural, and social domains worldwide.",
+        "text_original": "These pioneers collectively shaped foundational advances across computing, mathematics, logic, information theory, semiconductor technology, programming languages, mechanical engineering, robotics, artificial intelligence, music, philosophy, literature, and theology. Their innovations continue to influence scientific, technological, cultural, and social domains worldwide",
+        "idx_start": 12070,
+        "idx_end": 12443
+    }
+]

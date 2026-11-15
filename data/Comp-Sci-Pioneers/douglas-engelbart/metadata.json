@@ -1,0 +1,29 @@
+{
+  "id": 8081,
+  "title": "Douglas Engelbart",
+  "url": "https://en.wikipedia.org/wiki/Douglas_Engelbart",
+  "path": "Comp-Sci-Pioneers\\douglas-engelbart",
+  "summary": {
+    "chars": 1930,
+    "tokens": 423
+  },
+  "document": {
+    "chars": 17903,
+    "tokens": 3674
+  },
+  "infobox": {
+    "title": "Douglas Engelbart",
+    "data": {
+      "Born": "Douglas Carl Engelbart \u00b7 January 30, 1925 \u00b7 Portland, Oregon, U.S.",
+      "Died": "July 2, 2013 (aged 88) \u00b7 Atherton, California, U.S.",
+      "Education": "- Oregon State University (BS) - University of California, Berkeley (MS, DPhil)",
+      "Known for": "- Computer mouse - Hypertext - Groupware - Interactive computing",
+      "Awards": "- National Medal of Technology (2000) - Lemelson\u2013MIT Prize - ACM Turing Award (1997) - BCS Lovelace Medal (2001) - Norbert Wiener Award for Social and Professional Responsibility - Computer History Museum Fellow Award (2005) - NAE Member (1996)",
+      "Fields": "- Human\u2013computer interaction - Inventor",
+      "Institutions": "- SRI International - Tymshare - McDonnell Douglas - Bootstrap Institute/Alliance - The Doug Engelbart Institute",
+      "Thesis": "A Study of High-Frequency Gas-Conduction Electronics in Digital Computers (1956)",
+      "Doctoral advisor": "- Paul L. Morton - John R. Woodyard",
+      "Website": "dougengelbart.org"
+    }
+  }
+}

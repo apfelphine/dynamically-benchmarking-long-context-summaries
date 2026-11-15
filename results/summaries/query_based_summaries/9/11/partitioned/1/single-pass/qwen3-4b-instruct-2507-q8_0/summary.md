@@ -1,0 +1,13 @@
+# Education in Poland
+
+**Upper Secondary Education**  
+Students complete general secondary education (liceum) after four years, earning the *Matura* qualification, which grants access to higher education. Vocational and technical education is provided by technical schools (technikum) and/or basic vocational schools (zasadnicza szkoła zawodowa). Technical schools last five years and lead to the *Matura*, focusing on trades such as accounting, mechanics, and electronics. Basic vocational schools offer a three-year program with a certificate of competence in fields like shop-assistant, cook, or mechanic. Graduates can earn the *Matura* after two years of additional study in a general secondary school or three years in a technical school. Profiled general secondary schools (liceum profilowane) offer vocational training in fields defined by the Polish Classification of Activities (PKD), lasting four years. Special schools (szkoła specjalna) prepare students with disabilities for the *Matura* in three years.
+
+**Tertiary Education**  
+Poland follows the Bologna system, with most programs structured as a three-year bachelor's degree followed by a two-year master's degree. Some master's degrees are awarded through long-cycle programs (4–6 years), such as in pharmacy (5 years) or medicine (6 years). Doctoral programs take about three years. Teacher training requires a three-year program at a teacher training college. Vocational education is managed by post-secondary schools (szkoła policealna), offering two-and-a-half-year programs.
+
+**Grading System**  
+University-level grades range from 2.0 (failing) to 5.0 (excellent), with 0.5 increments. A grade of 3.0 is the lowest passing grade, followed by 3.5, 4.0, and 4.5. A 5.5 or 6.0 may be given as an "exceeds expectations" grade, though it is not universally recognized. Grading occurs twice a year, with final grades based on semester performance or single exams. Failing grades are common and can be corrected through retakes, which are widely accepted.
+
+**Foreign Languages**  
+Students typically learn one or two foreign languages. In 2005/06, English was studied by 67.9% of students, German by 33.3%, French by 13.3%, and Russian by 6.1%. The 2016 education reform required students in lower secondary schools to learn two foreign languages—English and another language—taught three and two times per week, respectively. Students’ language exam results contribute to their eligibility for upper secondary school placement.

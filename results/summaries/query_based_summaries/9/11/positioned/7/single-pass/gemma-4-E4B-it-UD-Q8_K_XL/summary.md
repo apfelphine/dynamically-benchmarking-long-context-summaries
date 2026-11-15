@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding "Education in Poland." Therefore, a summary cannot be generated based strictly on the given source material.

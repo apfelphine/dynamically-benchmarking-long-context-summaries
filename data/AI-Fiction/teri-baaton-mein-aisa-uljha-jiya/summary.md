@@ -1,0 +1,3 @@
+Teri Baaton Mein Aisa Uljha Jiya (transl. The heart got so entangled in your words) is a 2024 Indian Hindi-language science fiction romantic comedy film directed and written by Amit Joshi and Aradhana Sah, in their directorial debuts, and produced by Maddock Films and Jio Studios. The film stars Shahid Kapoor and Kriti Sanon in lead roles.
+Principal photography commenced in October 2022 and concluded in April 2023. The film was released theatrically on 9 February 2024. The film grossed ₹133.64 crore, emerging as a commercial success. It became the seventh highest-grossing Hindi film of 2024.
+At 70th Filmfare Awards it received five nomination including   Best Debut Director (Joshi and Sah) and Best Actress (Sanon).

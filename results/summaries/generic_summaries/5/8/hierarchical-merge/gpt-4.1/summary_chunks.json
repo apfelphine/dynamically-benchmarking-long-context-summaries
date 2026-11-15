@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Influential Figures in Science, Technology, and Philosophy\n## Alan Turing: Architect of Modern Computing and Artificial Intelligence\nAlan Turing was a foundational British mathematician and computer scientist whose theoretical work defined the principles of computability and artificial intelligence. His innovations\u2014including the Turing machine, the Turing test, codebreaking during WWII, and research in mathematical biology\u2014have left an enduring mark on technology, cryptography, and scientific thought. Though Turing faced tragic persecution due to his homosexuality, recent recognition has cemented his legacy as both a scientific luminary and a WWII hero.",
+        "text_original": "Alan Turing was a foundational British mathematician and computer scientist whose theoretical work defined the principles of computability and artificial intelligence. His innovations\u2014including the Turing machine, the Turing test, codebreaking during WWII, and research in mathematical biology\u2014have left an enduring mark on technology, cryptography, and scientific thought. Though Turing faced tragic persecution due to his homosexuality, recent recognition has cemented his legacy as both a scientific luminary and a WWII hero",
+        "idx_start": 139,
+        "idx_end": 666
+    },
+    {
+        "document_idx": null,
+        "text": "# Influential Figures in Science, Technology, and Philosophy\n## Pioneers and Innovators in STEM\nBlaise Pascal revolutionized mathematics, physics, and theology with contributions like Pascal\u2019s theorem, Pascal\u2019s triangle, inventions such as the Pascaline calculator, and influential philosophical writings. Ada Lovelace, collaborating with Charles Babbage, authored the first published algorithm and envisioned programmable machines, positioning her as a pioneer in computer science and an inspiration for women in STEM. Charles Babbage\u2019s Difference and Analytical Engines introduced programmable computation, laying groundwork for mechanical computers and impacting industrial organization. Hedy Lamarr bridged entertainment and invention with her frequency-hopping technology, foundational to modern wireless communication.",
+        "text_original": "Blaise Pascal revolutionized mathematics, physics, and theology with contributions like Pascal\u2019s theorem, Pascal\u2019s triangle, inventions such as the Pascaline calculator, and influential philosophical writings. Ada Lovelace, collaborating with Charles Babbage, authored the first published algorithm and envisioned programmable machines, positioning her as a pioneer in computer science and an inspiration for women in STEM. Charles Babbage\u2019s Difference and Analytical Engines introduced programmable computation, laying groundwork for mechanical computers and impacting industrial organization. Hedy Lamarr bridged entertainment and invention with her frequency-hopping technology, foundational to modern wireless communication",
+        "idx_start": 706,
+        "idx_end": 1433
+    },
+    {
+        "document_idx": null,
+        "text": "# Influential Figures in Science, Technology, and Philosophy\n## Thought Leaders in Engineering, Policy, and Philosophy\nVannevar Bush transformed American science and policy through leadership in WWII technology projects, promotion of civilian-military research collaboration, and the creation of concepts like the memex\u2014precursor to hypertext and the World Wide Web. Leonardo Torres Quevedo advanced robotics, cableway systems, and automation, and his inventions contributed to transportation safety and algorithmic control. Alfred North Whitehead influenced mathematics and philosophy, notably through the co-authorship of *Principia Mathematica* and the development of process philosophy, shaping contemporary thought in diverse disciplines.",
+        "text_original": "Vannevar Bush transformed American science and policy through leadership in WWII technology projects, promotion of civilian-military research collaboration, and the creation of concepts like the memex\u2014precursor to hypertext and the World Wide Web. Leonardo Torres Quevedo advanced robotics, cableway systems, and automation, and his inventions contributed to transportation safety and algorithmic control. Alfred North Whitehead influenced mathematics and philosophy, notably through the co-authorship of *Principia Mathematica* and the development of process philosophy, shaping contemporary thought in diverse disciplines",
+        "idx_start": 1496,
+        "idx_end": 2119
+    },
+    {
+        "document_idx": null,
+        "text": "# Influential Figures in Science, Technology, and Philosophy\n## Shapers of Computer Science, Cognitive Science, and Free Software\nRichard Stallman founded the GNU Project and initiated the free software movement, advocating digital rights and ethical uses of software, notably through the GNU General Public License. Philip Rubin advanced speech synthesis, cognitive science, and neuroscience through research and science policy leadership, promoting interdisciplinary collaboration and open science. These innovators continue to define and expand the ethical, technical, and scientific boundaries of computing and scientific inquiry.",
+        "text_original": "Richard Stallman founded the GNU Project and initiated the free software movement, advocating digital rights and ethical uses of software, notably through the GNU General Public License. Philip Rubin advanced speech synthesis, cognitive science, and neuroscience through research and science policy leadership, promoting interdisciplinary collaboration and open science. These innovators continue to define and expand the ethical, technical, and scientific boundaries of computing and scientific inquiry",
+        "idx_start": 2193,
+        "idx_end": 2696
+    }
+]

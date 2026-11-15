@@ -1,0 +1,21 @@
+{
+  "id": 71459810,
+  "title": "AAAI/ACM Conference on AI, Ethics, and Society",
+  "url": "https://en.wikipedia.org/wiki/AAAI/ACM_Conference_on_AI,_Ethics,_and_Society",
+  "path": "AI-Regulations\\aaaiacm-conference-on-ai-ethics-and-society",
+  "summary": {
+    "chars": 1176,
+    "tokens": 213
+  },
+  "document": {
+    "chars": 2364,
+    "tokens": 471
+  },
+  "infobox": {
+    "title": "AAAI/ACM Conference on AI, Ethics, and Society",
+    "data": {
+      "Abbreviation": "AIES",
+      "Discipline": "Computer science"
+    }
+  }
+}

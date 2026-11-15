@@ -1,0 +1,21 @@
+# Neural Network Architectures and Models
+
+**Autoencoders** compress high-dimensional data into low-dimensional latent spaces and reconstruct inputs by minimizing errors. Variants include Variational Autoencoders (VAEs), Sparse, Denoising, and disentangled kinds like \(\beta\)-VAEs, serving tasks such as dimensionality reduction, anomaly detection, generative modeling, and communication systems. **Recurrent Neural Networks (RNNs)**, including LSTM, GRU, and bidirectional forms, specialize in sequential data, capturing long-range dependencies for applications in speech recognition, machine translation, and biology. **Radial Basis Function (RBF) Networks** use Gaussian kernels and linear outputs for nonlinear function approximation in regression and chaotic system modeling.
+
+# Convolutional and Transformer-Based Vision Models
+
+**Convolutional Neural Networks (CNNs)** exploit spatial hierarchies and translation equivariance with convolution and pooling layers, widely applied in image recognition, NLP, drug discovery, and anomaly detection. Extensions like dilated convolutions, spatial transformers, and capsule networks enhance receptive field and equivariance modeling. **Vision Transformers (ViTs)** extend transformer architectures to image patches, leveraging self-attention for long-range spatial dependencies, excelling on large datasets in classification, detection, and segmentation. Variants such as Swin Transformers incorporate hierarchical and temporal designs. Hybrid models combine CNNs and attention mechanisms for improved robustness and accuracy.
+
+# Graph Neural Networks and Associative Memory Models
+
+**Graph Neural Networks (GNNs)** generalize deep learning to graph-structured data through message passing, graph convolutions, and attention, with mechanisms to combat oversmoothing and support heterophilic graphs. Applications include protein structure prediction (e.g., AlphaFold), social networks, cybersecurity, and combinatorial optimization. **Hopfield Networks**, classical associative memory models storing patterns as stable attractors, have been modernized with continuous states and higher-order interactions to exponentially increase memory capacity and connect with attention mechanisms. These advances contributed to the 2024 Nobel Prize awarded to Hopfield and Hinton.
+
+# Transformers and Large-Scale Pretrained Models
+
+**Transformers** employ multihead self-attention and feed-forward layers within encoder-decoder structures, enabling effective modeling of dependencies across tokens. Variants include encoder-only models (BERT), decoder-only (GPT), and hybrids (T5). Positional encodings have evolved from sinusoidal to sophisticated methods like Rotary Positional Embeddings. Transformers power a wide range of domains—from NLP and vision (Vision Transformers) to speech (Whisper), protein folding (AlphaFold), multimodal tasks (LLaVA), and image generation (DALL·E, Stable Diffusion). Advances improving scalability and efficiency include novel activations (GELU, SwiGLU), normalization methods (RMSNorm), efficient attention mechanisms (FlashAttention, BigBird), and inference optimizations like key-value caching and speculative decoding.
+
+# Generative Models and Interpretability Techniques
+
+**Generative Adversarial Networks (GANs)** model generation as a game between a generator and discriminator, achieving realistic synthesis in image, video, and beyond. Innovations such as Wasserstein GANs with Lipschitz constraints improve training stability. GAN architectures vary from convolutional (DCGAN) to self-attention augmented (SAGAN), transformer-based (TransGAN), and hybrids (VAEGAN). Specialized models include CycleGAN for unpaired translation, BigGAN and StyleGAN for high-fidelity image synthesis, and SinGAN for single-image generation. GANs have broad creative and scientific applications but raise ethical concerns addressed by legislation and detection initiatives.
+
+**Class Activation Mapping (CAM)** and its variants (Grad-CAM, Score-CAM) provide post hoc visual explanations of CNN decisions by highlighting influential regions, improving model interpretability and trust without requiring retraining.

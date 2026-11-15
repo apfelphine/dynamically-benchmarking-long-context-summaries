@@ -1,0 +1,28 @@
+{
+  "id": 307517,
+  "title": "Edward Feigenbaum",
+  "url": "https://en.wikipedia.org/wiki/Edward_Feigenbaum",
+  "path": "Comp-Sci-Pioneers\\edward-feigenbaum",
+  "summary": {
+    "chars": 219,
+    "tokens": 50
+  },
+  "document": {
+    "chars": 5049,
+    "tokens": 1195
+  },
+  "infobox": {
+    "title": "Ed Feigenbaum",
+    "data": {
+      "Born": "Edward Albert Feigenbaum \u00b7 January 20, 1936 \u00b7 Weehawken, New Jersey",
+      "Education": "Carnegie Mellon University (BS, MS, PhD)",
+      "Known for": "Expert systems \u00b7 EPAM \u00b7 DENDRAL project \u00b7 Feigenbaum test",
+      "Awards": "Turing Award (1994) \u00b7 Computer Pioneer Award \u00b7 AAAI Fellow (1990) \u00b7 ACM Fellow (2007)",
+      "Fields": "Computer science \u00b7 Artificial intelligence",
+      "Institutions": "Stanford University \u00b7 United States Air Force",
+      "Doctoral advisor": "Herbert A. Simon",
+      "Doctoral students": "Ramanathan V. Guha - Alon Halevy - Peter Karp - Niklaus Wirth",
+      "Website": "ksl-web.stanford.edu/people/eaf"
+    }
+  }
+}

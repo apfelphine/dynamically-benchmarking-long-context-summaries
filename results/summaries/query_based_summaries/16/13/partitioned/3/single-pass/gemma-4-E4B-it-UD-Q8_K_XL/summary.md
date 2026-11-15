@@ -1,0 +1,5 @@
+## University of the Andes (Colombia) Summary
+
+The University of the Andes (Uniandes) was founded in November 1948 by Mario Laserna Pinzón, modeled after American universities, with the goal of providing Colombia with technically skilled professionals to support the country's development. The institution was legally established as a common-utility nonprofit corporation in February 1948 and received University status from the Colombian government in 1964. Uniandes emphasizes fostering pluralism, diversity, and critical and ethical formation to address Colombian social and civic problems.
+
+Administratively, the university is governed by a Board of Trustees, while its management is overseen by the Board of Directors and the Rector. The academic structure is interdisciplinary, featuring four cycles: the Basic Professional Cycle (CBP), the Cycle of Elective Courses in Socio-humanistic issues (CSH), the Professional Cycle (CP), and the Professional Complementary Cycle (CPC). The university maintains international exchange programs with over 119 universities in 34 countries worldwide.

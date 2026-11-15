@@ -1,0 +1,23 @@
+{
+  "id": 1178488,
+  "title": "Bill English (computer engineer)",
+  "url": "https://en.wikipedia.org/wiki/Bill_English_(computer_engineer)",
+  "path": "Comp-Sci-Pioneers\\bill-english-computer-engineer",
+  "summary": {
+    "chars": 292,
+    "tokens": 64
+  },
+  "document": {
+    "chars": 2099,
+    "tokens": 462
+  },
+  "infobox": {
+    "title": "Bill English",
+    "data": {
+      "Born": "William Kirk English \u00b7 January 27, 1929 \u00b7 Lexington, Kentucky, U.S.",
+      "Died": "July 26, 2020 (aged 91) \u00b7 San Rafael, California, U.S.",
+      "Known for": "Development of the computer mouse",
+      "Institutions": "SRI International's ARC \u00b7 Xerox PARC \u00b7 Sun Microsystems"
+    }
+  }
+}

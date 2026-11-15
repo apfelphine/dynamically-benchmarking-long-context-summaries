@@ -1,0 +1,28 @@
+{
+  "id": 259163,
+  "title": "Kenneth E. Iverson",
+  "url": "https://en.wikipedia.org/wiki/Kenneth_E._Iverson",
+  "path": "Comp-Sci-Pioneers\\kenneth-e-iverson",
+  "summary": {
+    "chars": 477,
+    "tokens": 94
+  },
+  "document": {
+    "chars": 21532,
+    "tokens": 4940
+  },
+  "infobox": {
+    "title": "Kenneth E. Iverson",
+    "data": {
+      "Born": "17 December 1920 \u00b7 Camrose, Alberta, Canada",
+      "Died": "19 October 2004 (aged 83) \u00b7 Toronto, Canada",
+      "Education": "- Queen's University (BA) - Harvard University (MS, PhD)",
+      "Known for": "Programming languages: APL, J",
+      "Awards": "- IBM Fellow - Harry H. Goode Memorial Award - Turing Award - Computer Pioneer Award",
+      "Fields": "- Mathematics - Computer science",
+      "Institutions": "- Harvard University - IBM - I. P. Sharp Associates - Jsoftware Inc.",
+      "Thesis": "Machine Solutions of Linear Differential Equations \u2013 Applications to a Dynamic Economic Model (1954)",
+      "Doctoral advisor": "- Howard Aiken - Wassily Leontief"
+    }
+  }
+}

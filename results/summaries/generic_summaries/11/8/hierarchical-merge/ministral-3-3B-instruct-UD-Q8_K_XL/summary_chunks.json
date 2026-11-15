@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Generative AI & Model Interpretability\nGenerative models leverage **Variational Autoencoders (VAEs)** , **\u03b2-VAEs** , **Conditional VAEs (CVAEs)** , and **Masked Autoencoders (MAE)** for unsupervised pretraining, with extensions like **\u03b2-VAE-GAN hybrids** improving latent space disentanglement. **Generative Adversarial Networks (GANs)** \u2014including **Wasserstein GANs (WGANs)** and **StyleGAN-3** \u2014enhance high-resolution synthetic data generation, while **Conditional GANs** enable controlled outputs. Interpretability tools like **Grad-CAM/Grad-CAM++** visualize CNN-based models, though they trade flexibility for clarity. **Wasserstein/MMD-VAEs** and **Hopfield networks** (for associative memory) improve robustness and pattern retrieval, though their scalability remains limited.",
+        "text_original": "Generative models leverage **Variational Autoencoders (VAEs)**, **\u03b2-VAEs**, **Conditional VAEs (CVAEs)**, and **Masked Autoencoders (MAE)** for unsupervised pretraining, with extensions like **\u03b2-VAE-GAN hybrids** improving latent space disentanglement. **Generative Adversarial Networks (GANs)**\u2014including **Wasserstein GANs (WGANs)** and **StyleGAN-3**\u2014enhance high-resolution synthetic data generation, while **Conditional GANs** enable controlled outputs. Interpretability tools like **Grad-CAM/Grad-CAM++** visualize CNN-based models, though they trade flexibility for clarity. **Wasserstein/MMD-VAEs** and **Hopfield networks** (for associative memory) improve robustness and pattern retrieval, though their scalability remains limited",
+        "idx_start": 47,
+        "idx_end": 787
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Networks (GNNs) & Vision Transformers (ViTs)\nGNNs use **message-passing architectures** (e.g., GCNs, GATs) to model relational data, addressing challenges like **heterophilic graphs** and **oversmoothing** via skip connections or gated updates. **Vision Transformers (ViTs)** replace CNNs with patch-based Transformer encoders, excelling in long-range dependencies, while **Swin Transformer V2** improves scalability. Hybrid models (e.g., ViTs + CNNs) bridge traditional and transformer-based paradigms. **MAE/DINO** variants optimize unsupervised pretraining efficiency, and **Transformers** dominate **computer vision** , **video processing** , and **autoregressive generation** , though computational overhead persists.",
+        "text_original": "GNNs use **message-passing architectures** (e.g., GCNs, GATs) to model relational data, addressing challenges like **heterophilic graphs** and **oversmoothing** via skip connections or gated updates. **Vision Transformers (ViTs)** replace CNNs with patch-based Transformer encoders, excelling in long-range dependencies, while **Swin Transformer V2** improves scalability. Hybrid models (e.g., ViTs + CNNs) bridge traditional and transformer-based paradigms. **MAE/DINO** variants optimize unsupervised pretraining efficiency, and **Transformers** dominate **computer vision**, **video processing**, and **autoregressive generation**, though computational overhead persists",
+        "idx_start": 861,
+        "idx_end": 1534
+    },
+    {
+        "document_idx": null,
+        "text": "# Multimodal AI & Scalability Innovations\nTransformers lead AI advancements with **efficiency gains** via speculative decoding and sparse attention (e.g., BigBird, Performer). Their **multimodal capabilities** expand across vision (ViTs), speech (Conformers/Whisper), and generative tasks (DALL-E, Parti). Low-parameter fine-tuning (e.g., LLaVA) integrates language and vision, while transformers power **scientific applications** (e.g., AlphaFold) and creative fields. **Convolutional Neural Networks (CNNs)** remain foundational for spatial data, with hierarchical feature extraction (e.g., ResNet) dominating **ImageNet** and applications in computer vision, NLP, and medicine. Hybrid architectures (e.g., DQN, CDBN) extend CNN utility.",
+        "text_original": "Transformers lead AI advancements with **efficiency gains** via speculative decoding and sparse attention (e.g., BigBird, Performer). Their **multimodal capabilities** expand across vision (ViTs), speech (Conformers/Whisper), and generative tasks (DALL-E, Parti). Low-parameter fine-tuning (e.g., LLaVA) integrates language and vision, while transformers power **scientific applications** (e.g., AlphaFold) and creative fields. **Convolutional Neural Networks (CNNs)** remain foundational for spatial data, with hierarchical feature extraction (e.g., ResNet) dominating **ImageNet** and applications in computer vision, NLP, and medicine. Hybrid architectures (e.g., DQN, CDBN) extend CNN utility",
+        "idx_start": 1590,
+        "idx_end": 2286
+    },
+    {
+        "document_idx": null,
+        "text": "# Domain-Specific Applications\n- **Generative AI** : GANs/VAEs enable **medical imaging** , **synthetic data** , and **creative applications** (art, deepfakes).\n- **Graph AI** : GNNs excel in **fraud detection** , **AlphaFold** , and **temporal graph analysis** .\n- **Vision & NLP** : ViTs and transformers dominate **computer vision** , **multimodal tasks** , and **NLP pretraining** (BERT, GPT), with hybrid models bridging legacy systems.\n- **Memory Systems** : Hopfield networks solve **NP-hard problems** (e.g., TSP) via associative memory, though practical deployment faces stability challenges.",
+        "text_original": "Generative AI**: GANs/VAEs enable **medical imaging**, **synthetic data**, and **creative applications** (art, deepfakes).\n- **Graph AI**: GNNs excel in **fraud detection**, **AlphaFold**, and **temporal graph analysis**.\n- **Vision & NLP**: ViTs and transformers dominate **computer vision**, **multimodal tasks**, and **NLP pretraining** (BERT, GPT), with hybrid models bridging legacy systems.\n- **Memory Systems**: Hopfield networks solve **NP-hard problems** (e.g., TSP) via associative memory, though practical deployment faces stability challenges",
+        "idx_start": 2334,
+        "idx_end": 2888
+    }
+]

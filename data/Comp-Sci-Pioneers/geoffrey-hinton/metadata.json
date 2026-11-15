@@ -1,0 +1,33 @@
+{
+  "id": 507174,
+  "title": "Geoffrey Hinton",
+  "url": "https://en.wikipedia.org/wiki/Geoffrey_Hinton",
+  "path": "Comp-Sci-Pioneers\\geoffrey-hinton",
+  "summary": {
+    "chars": 2152,
+    "tokens": 433
+  },
+  "document": {
+    "chars": 21570,
+    "tokens": 4609
+  },
+  "infobox": {
+    "title": "Geoffrey HintonCC FRS FRSC",
+    "data": {
+      "Born": "Geoffrey Everest Hinton \u00b7 6 December 1947 \u00b7 London, England, UK",
+      "Education": "- King's College, Cambridge (BA) - University of Edinburgh (PhD)",
+      "Known for": "- Applications of backpropagation - Boltzmann machine - Restricted Boltzmann machine - Deep learning - Deep belief network - Knowledge distillation (\"Dark knowledge\") - Capsule neural networks - Mixture of experts - Product of experts - Time delay neural network - t-SNE - AlexNet - Dropout",
+      "Spouses": "- Joanne - Rosalind Zalin \u200b(died 1994)\u200b - Jacqueline Ford \u200b (m. 1997; died 2018)\u200b",
+      "Father": "H. E. Hinton",
+      "Relatives": "Colin Clark (uncle) George Boole (great-great-grandfather) Mary Everest Boole (great-great-grandmother) George Everest (great-great-granduncle) Joan Hinton (cousin)",
+      "Awards": "- Rumelhart Prize (2001) - Turing Award (2018) - Dickson Prize (2021) - Princess of Asturias Award (2022) - Nobel Prize in Physics (2024) - VinFuture Prize (2024) - Queen Elizabeth Prize for Engineering (2025)",
+      "Fields": "- Machine learning - Psychology - Artificial intelligence - Cognitive science - Computer science",
+      "Institutions": "- University of Toronto - Google - Carnegie Mellon University - University College London - University of California, San Diego",
+      "Thesis": "Relaxation and Its Role in Vision (1977)",
+      "Doctoral advisor": "Christopher Longuet-Higgins",
+      "Doctoral students": "Richard Zemel Brendan Frey Radford M. Neal Yee Whye Teh Ruslan Salakhutdinov Ilya Sutskever Alex Krizhevsky",
+      "Other notable students": "Yann LeCun Peter Dayan Max Welling Zoubin Ghahramani Alex Graves",
+      "Website": "Official website"
+    }
+  }
+}

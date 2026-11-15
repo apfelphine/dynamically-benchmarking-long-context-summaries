@@ -1,0 +1,10 @@
+# Frankenstein
+
+Victor Frankenstein, an ambitious scientist obsessed with alchemy and modern science, assembles a grotesque humanoid creature from stolen body parts and revives it using his own invented method. Upon the creature's awakening, Victor flees in terror, leaving the newly conscious being to discover the world alone. The creature learns to read, write, and speak by observing a family, but is rejected by humanity due to his appearance. After killing Victor's younger brother, William, and framing his servant Justine for the crime, he travels to Geneva to confront Victor, pleading for a female companion to prevent further tragedy. Victor, fearing the monster will create a rival, destroys the incomplete female, prompting the creature to murder Victor's fiancée, Elizabeth, on their wedding night.
+
+Desperate for revenge, Victor chases the creature across the Arctic Ocean. There, Victor recounts his story to Captain Robert Walton, who decides to abandon his own expedition. Exhausted and weakened, Victor dies aboard the ship, only to be followed by the creature, who mourns his creator's death, vows to burn himself on a pyre, and departs into the unknown.
+
+***
+
+**Literary Context & Influences**
+The novel, *Frankenstein; or, The Modern Prometheus*, was written by Mary Shelley during a "ghost story" contest in the summer of 1816 in Geneva. It draws heavily from literary predecessors such as John Milton's *Paradise Lost* and Samuel Taylor Coleridge's *The Rime of the Ancient Mariner*, as well as contemporary scientific ideas regarding electricity and galvanism. While the public often misidentifies the monster as "Frankenstein," the title actually refers to the creator, a name derived from a German castle associated with alchemical scandals. The story explores themes of guilt, the consequences of defying nature, and the isolation of the outcast, reflecting Shelley's own personal tragedies involving the loss of her mother and child.

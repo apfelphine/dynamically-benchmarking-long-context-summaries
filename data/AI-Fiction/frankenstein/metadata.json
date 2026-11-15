@@ -1,0 +1,32 @@
+{
+  "id": 18580673,
+  "title": "Frankenstein",
+  "url": "https://en.wikipedia.org/wiki/Frankenstein",
+  "path": "AI-Fiction\\frankenstein",
+  "summary": {
+    "chars": 1957,
+    "tokens": 412
+  },
+  "document": {
+    "chars": 28229,
+    "tokens": 5966
+  },
+  "infobox": {
+    "title": "Frankenstein; or, The Modern Prometheus",
+    "data": {
+      "Author": "Mary Shelley",
+      "Language": "English",
+      "Genre": "Gothic novel, horror fiction, science fiction",
+      "Set in": "England, Ireland, Italy, France, Scotland, Old Swiss Confederacy, Russian Empire, Holy Roman Empire; late 18th century",
+      "Published": "1 January 1818",
+      "Publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+      "Publication place": "England",
+      "Pages": "280",
+      "Dewey Decimal": "823.7",
+      "LC Class": "PR5397 .F7",
+      "Preceded by": "History of a Six Weeks' Tour",
+      "Followed by": "Valperga",
+      "Text": "Frankenstein; or, The Modern Prometheus at Wikisource"
+    }
+  }
+}

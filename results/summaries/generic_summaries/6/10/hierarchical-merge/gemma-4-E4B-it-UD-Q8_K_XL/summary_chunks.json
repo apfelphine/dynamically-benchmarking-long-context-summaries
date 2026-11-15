@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Logic, Computation, and Cognitive Science\n## Foundational Contributions to Logic and Mathematics\nEarly theoretical foundations were laid by figures like Muhammad ibn Musa al-Khwarizmi, who is recognized as the \"father of Algebra\" for introducing algorithms and the Hindu-Arabic numeral system. Further developments include George Boole's algebraic systematization of logic in 1847, Ramon Llull's combinatorial work, and Gottfried Frege's formal systems. Later, Kurt G\u00f6del established limits to formal systems with his incompleteness theorems.",
+        "text_original": "Early theoretical foundations were laid by figures like Muhammad ibn Musa al-Khwarizmi, who is recognized as the \"father of Algebra\" for introducing algorithms and the Hindu-Arabic numeral system. Further developments include George Boole's algebraic systematization of logic in 1847, Ramon Llull's combinatorial work, and Gottfried Frege's formal systems. Later, Kurt G\u00f6del established limits to formal systems with his incompleteness theorems",
+        "idx_start": 112,
+        "idx_end": 556
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Logic, Computation, and Cognitive Science\n## Pioneers in Computing and Information Theory\nModern computing was critically advanced by Claude Shannon, who invented Information Theory in 1948 and demonstrated the application of Boolean algebra using electrical switches, which was vital to the Digital Age. Other key figures include Ismail al-Jazari, an ancient pioneer of complex mechanical devices; Grace Hopper and Federico Faggin, who contributed to early microprocessors; and Edsger W. Dijkstra, known for advocating structured programming. Modern innovations stem from thinkers like Kenneth E. Iverson and Geoffrey Hinton (for backpropagation in AI).",
+        "text_original": "Modern computing was critically advanced by Claude Shannon, who invented Information Theory in 1948 and demonstrated the application of Boolean algebra using electrical switches, which was vital to the Digital Age. Other key figures include Ismail al-Jazari, an ancient pioneer of complex mechanical devices; Grace Hopper and Federico Faggin, who contributed to early microprocessors; and Edsger W. Dijkstra, known for advocating structured programming. Modern innovations stem from thinkers like Kenneth E. Iverson and Geoffrey Hinton (for backpropagation in AI",
+        "idx_start": 607,
+        "idx_end": 1169
+    },
+    {
+        "document_idx": null,
+        "text": "# Pioneers in Logic, Computation, and Cognitive Science\n## Cognitive Science and Decision Making\nHerbert A. Simon was a pivotal thinker who integrated social science into AI, introducing the concept of **bounded rationality** . This concept posits that human decisions are constrained by cognitive limits, causing individuals to \"satisfice\" rather than reach perfect optimization, and he was an early advocate for concepts like the General Problem Solver.",
+        "text_original": "Herbert A. Simon was a pivotal thinker who integrated social science into AI, introducing the concept of **bounded rationality**. This concept posits that human decisions are constrained by cognitive limits, causing individuals to \"satisfice\" rather than reach perfect optimization, and he was an early advocate for concepts like the General Problem Solver",
+        "idx_start": 1214,
+        "idx_end": 1570
+    }
+]

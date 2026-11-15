@@ -1,0 +1,3 @@
+The provided text does not contain any information regarding the **University of Melbourne**. The document exclusively details the histories, profiles, and current statuses of the following eight universities: the National University of Singapore, University of Hong Kong, Cornell University, University of New South Wales, Federal University of Rio de Janeiro, National Autonomous University of Mexico, University of Toronto, University of British Columbia, and University of Oxford.
+
+Consequently, no summary regarding the University of Melbourne can be generated from the provided text.

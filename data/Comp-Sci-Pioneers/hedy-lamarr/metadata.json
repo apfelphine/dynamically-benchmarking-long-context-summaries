@@ -1,0 +1,26 @@
+{
+  "id": 170982,
+  "title": "Hedy Lamarr",
+  "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+  "path": "Comp-Sci-Pioneers\\hedy-lamarr",
+  "summary": {
+    "chars": 1803,
+    "tokens": 384
+  },
+  "document": {
+    "chars": 34027,
+    "tokens": 7395
+  },
+  "infobox": {
+    "title": "Hedy Lamarr",
+    "data": {
+      "Born": "Hedwig Eva Maria Kiesler \u00b7 November 9, 1914 \u00b7 Vienna, Austria-Hungary",
+      "Died": "January 19, 2000 (aged 85) \u00b7 Casselberry, Florida, US",
+      "Citizenship": "- Austria (until 1938) - Stateless (1938\u20131953) - US (from 1953)",
+      "Occupations": "Actress inventor",
+      "Years active": "1930\u20131958",
+      "Spouses": "Friedrich Mandl \u200b (m. 1933; div. 1937)\u200b Gene Markey \u200b (m. 1939; div. 1941)\u200b John Loder \u200b (m. 1943; div. 1947)\u200b Teddy Stauffer \u200b (m. 1951; div. 1952)\u200b W. Howard Lee \u200b (m. 1953; div. 1960)\u200b Lewis J. Boies \u200b (m. 1963; div. 1965)\u200b",
+      "Children": "3"
+    }
+  }
+}

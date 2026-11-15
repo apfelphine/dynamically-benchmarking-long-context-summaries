@@ -1,0 +1,65 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education Systems: Comparative Overview (India, China, Greece, Germany)\nIndia\u2019s higher education system remains **fragmented** , with **66% private institutions** , weak vocational training, and **employer mismatches** , despite **77.7% literacy rates** . The **NEP 2020** proposes a **5+3+3+4 curriculum reform** , but only **1.74 million students** enroll in **4,599 vocational programs** , and **66% of institutions lack governance oversight** .\nChina\u2019s **9-year compulsory education** ensures **near-universal primary enrollment (96% in 1985)** , though rural dropout rates (10% per grade) and regional disparities persist. **Adult education initiatives** , like radio/TV universities, expand access to formal learning.\nGreece\u2019s system follows the **Hellenic Qualification Framework (HQF)** , categorizing education into **EQF/ISCED tiers** :\n- **Primary/Secondary (EQF/ISCED 1\u20132):** Certificates like *\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03bf\u03cd* and *\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03af\u03bf\u03c5* .\n- **Vocational Training (EQF/ISCED 3):** Certificates ( *\u0392\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b7 \u0395\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03ba\u03c0\u03b1\u03af\u03b4\u03b5\u03c5\u03c3\u03b7\u03c2* ) and diplomas ( *\u03a0\u03c4\u03c5\u03c7\u03af\u03bf \u0395\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03b9\u03b4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2* ).\n- **Upper Secondary (EQF/ISCED 4):** *\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u039b\u03c5\u03ba\u03b5\u03af\u03bf\u03c5* and vocational diplomas ( *\u03a0\u03c4\u03c5\u03c7\u03af\u03bf \u0395\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03a3\u03c7\u03bf\u03bb\u03ae\u03c2* ).\n- **Higher Education (EQF/ISCED 6\u20138):** Public institutions offer **tuition-free degrees** , while private HEIs require **HAHE accreditation** .\nGermany\u2019s **state-managed, decentralized system** prioritizes **vocational integration, teacher stability, and digital literacy** , with **near-universal literacy (99% among 15-year-olds)** . Its **five-tiered secondary education** includes:\n- **Gymnasium (12\u201313 grades)** \u2192 *Abitur* (university entry).\n- **Realschule (10 grades)** \u2192 *Mittlere Reife* (vocational paths).\n- **Hauptschule (9 grades)** \u2192 *Hauptschulabschluss* (vocational training).\n- **Gesamtschule (5\u20138 years)** \u2192 Flexible exit qualifications.\nThe **dual system** ( *Berufsschule* + apprenticeships) merges theory and practice, enabling **vocational careers without university degrees** . While globally respected, **PISA critiques** highlight methodological concerns, and **research funding pressures** persist.",
+        "text_original": "India\u2019s higher education system remains **fragmented**, with **66% private institutions**, weak vocational training, and **employer mismatches**, despite **77.7% literacy rates**. The **NEP 2020** proposes a **5+3+3+4 curriculum reform**, but only **1.74 million students** enroll in **4,599 vocational programs**, and **66% of institutions lack governance oversight**.\n\nChina\u2019s **9-year compulsory education** ensures **near-universal primary enrollment (96% in 1985)**, though rural dropout rates (10% per grade) and regional disparities persist. **Adult education initiatives**, like radio/TV universities, expand access to formal learning.\n\nGreece\u2019s system follows the **Hellenic Qualification Framework (HQF)**, categorizing education into **EQF/ISCED tiers**:\n- **Primary/Secondary (EQF/ISCED 1\u20132):** Certificates like *\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03bf\u03cd* and *\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03af\u03bf\u03c5*.\n- **Vocational Training (EQF/ISCED 3):** Certificates (*\u0392\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b7 \u0395\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03ba\u03c0\u03b1\u03af\u03b4\u03b5\u03c5\u03c3\u03b7\u03c2*) and diplomas (*\u03a0\u03c4\u03c5\u03c7\u03af\u03bf \u0395\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03b9\u03b4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2*).\n- **Upper Secondary (EQF/ISCED 4):** *\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u039b\u03c5\u03ba\u03b5\u03af\u03bf\u03c5* and vocational diplomas (*\u03a0\u03c4\u03c5\u03c7\u03af\u03bf \u0395\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03a3\u03c7\u03bf\u03bb\u03ae\u03c2*).\n- **Higher Education (EQF/ISCED 6\u20138):** Public institutions offer **tuition-free degrees**, while private HEIs require **HAHE accreditation**.\n\nGermany\u2019s **state-managed, decentralized system** prioritizes **vocational integration, teacher stability, and digital literacy**, with **near-universal literacy (99% among 15-year-olds)**. Its **five-tiered secondary education** includes:\n- **Gymnasium (12\u201313 grades)** \u2192 *Abitur* (university entry).\n- **Realschule (10 grades)** \u2192 *Mittlere Reife* (vocational paths).\n- **Hauptschule (9 grades)** \u2192 *Hauptschulabschluss* (vocational training).\n- **Gesamtschule (5\u20138 years)** \u2192 Flexible exit qualifications.\n\nThe **dual system** (*Berufsschule* + apprenticeships) merges theory and practice, enabling **vocational careers without university degrees**. While globally respected, **PISA critiques** highlight methodological concerns, and **research funding pressures** persist",
+        "idx_start": 81,
+        "idx_end": 2138
+    },
+    {
+        "document_idx": null,
+        "text": "# Germany\u2019s Tertiary Education System: Structure, Access, and Trends\nGermany\u2019s higher education system is **tuition-free for public universities** (semester fees: \u20ac150\u2013\u20ac350), with **BAf\u00f6G grants** supporting students (up to \u20ac735/month). **Bologna Process degrees** (3-year Bachelor\u2019s, 2-year Master\u2019s) dominate, though **Staatsexamen** remains mandatory for professions like medicine/law. Doctorates and **Habilitation** are required for academia.",
+        "text_original": "Germany\u2019s higher education system is **tuition-free for public universities** (semester fees: \u20ac150\u2013\u20ac350), with **BAf\u00f6G grants** supporting students (up to \u20ac735/month). **Bologna Process degrees** (3-year Bachelor\u2019s, 2-year Master\u2019s) dominate, though **Staatsexamen** remains mandatory for professions like medicine/law. Doctorates and **Habilitation** are required for academia",
+        "idx_start": 2221,
+        "idx_end": 2598
+    },
+    {
+        "document_idx": null,
+        "text": "# Germany\u2019s Tertiary Education System: Structure, Access, and Trends\n## Financial Support:\n- **No tuition fees** for EU students; non-EU students face **\u20ac650\u2013\u20ac1,500/semester fees** .\n- Scholarships (state/private) cover living costs; **international students** rely on work or funding.",
+        "text_original": "No tuition fees** for EU students; non-EU students face **\u20ac650\u2013\u20ac1,500/semester fees**.\n- Scholarships (state/private) cover living costs; **international students** rely on work or funding",
+        "idx_start": 2628,
+        "idx_end": 2816
+    },
+    {
+        "document_idx": null,
+        "text": "# Germany\u2019s Tertiary Education System: Structure, Access, and Trends\n## Student Life & Mobility:\n- **Self-funded housing** via *Studentenwerk* or private rentals; flexible program switching is allowed.",
+        "text_original": "Self-funded housing** via *Studentenwerk* or private rentals; flexible program switching is allowed",
+        "idx_start": 2852,
+        "idx_end": 2951
+    },
+    {
+        "document_idx": null,
+        "text": "# Germany\u2019s Tertiary Education System: Structure, Access, and Trends\n## Research & Funding:\n- Universities and institutes (e.g., **Max Planck, Fraunhofer** ) drive innovation, with key funders like **DFG and DAAD** . Prestigious awards include the **Leibniz Prize** .",
+        "text_original": "Universities and institutes (e.g., **Max Planck, Fraunhofer**) drive innovation, with key funders like **DFG and DAAD**. Prestigious awards include the **Leibniz Prize",
+        "idx_start": 2980,
+        "idx_end": 3147
+    },
+    {
+        "document_idx": null,
+        "text": "# Socioeconomic Disparities & Policy Debates\nGermany\u2019s education system reflects **deep socioeconomic inequalities** , particularly for **immigrant children** and lower-income families. The **ELEMENT study** shows **parental education** and **early kindergarten attendance** as key predictors of success, while **post-4th-grade tracking** disproportionately favors working-class students for **Gymnasium access** .",
+        "text_original": "Germany\u2019s education system reflects **deep socioeconomic inequalities**, particularly for **immigrant children** and lower-income families. The **ELEMENT study** shows **parental education** and **early kindergarten attendance** as key predictors of success, while **post-4th-grade tracking** disproportionately favors working-class students for **Gymnasium access",
+        "idx_start": 3208,
+        "idx_end": 3572
+    },
+    {
+        "document_idx": null,
+        "text": "# Socioeconomic Disparities & Policy Debates\n## Affirmative Action Debate:\nSince the **1970s** , schools have experimented with **quotas** to improve access to elite schools ( *Gymnasien* ) for working-class students. Critics argue this could **disproportionately disadvantage low-income students** , while proponents emphasize **reducing income segregation** and **leveling opportunities** .",
+        "text_original": "Since the **1970s**, schools have experimented with **quotas** to improve access to elite schools (*Gymnasien*) for working-class students. Critics argue this could **disproportionately disadvantage low-income students**, while proponents emphasize **reducing income segregation** and **leveling opportunities",
+        "idx_start": 3608,
+        "idx_end": 3917
+    },
+    {
+        "document_idx": null,
+        "text": "# Socioeconomic Disparities & Policy Debates\n## International Context:\nFinland\u2019s **PISA success** contrasts with Germany\u2019s challenges in **comprehensive schools** , where **socioeconomic disparities persist** . Concerns also include **outdated school infrastructure** and **limited digital technology** .",
+        "text_original": "Finland\u2019s **PISA success** contrasts with Germany\u2019s challenges in **comprehensive schools**, where **socioeconomic disparities persist**. Concerns also include **outdated school infrastructure** and **limited digital technology",
+        "idx_start": 3949,
+        "idx_end": 4176
+    },
+    {
+        "document_idx": null,
+        "text": "# Socioeconomic Disparities & Policy Debates\n## International Student Presence:\nGermany hosts **~15% of its students as international students** , totaling **325,000** in the winter semester 2020/2021, reflecting its role as a **global education hub** .",
+        "text_original": "Germany hosts **~15% of its students as international students**, totaling **325,000** in the winter semester 2020/2021, reflecting its role as a **global education hub",
+        "idx_start": 4217,
+        "idx_end": 4385
+    }
+]

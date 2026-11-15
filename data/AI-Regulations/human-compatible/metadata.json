@@ -1,0 +1,29 @@
+{
+  "id": 63005595,
+  "title": "Human Compatible",
+  "url": "https://en.wikipedia.org/wiki/Human_Compatible",
+  "path": "AI-Regulations\\human-compatible",
+  "summary": {
+    "chars": 352,
+    "tokens": 64
+  },
+  "document": {
+    "chars": 5310,
+    "tokens": 1010
+  },
+  "infobox": {
+    "title": "Human Compatible: Artificial Intelligence and the Problem of Control",
+    "data": {
+      "Author": "Stuart J. Russell",
+      "Language": "English",
+      "Subject": "AI control problem",
+      "Genre": "Non-fiction",
+      "Publisher": "Viking",
+      "Publication date": "October 8, 2019",
+      "Publication place": "United States",
+      "Pages": "352",
+      "ISBN": "978-0-525-55861-3",
+      "OCLC": "1083694322"
+    }
+  }
+}

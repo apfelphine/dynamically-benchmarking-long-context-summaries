@@ -1,0 +1,29 @@
+{
+  "id": 17618,
+  "title": "Linus Torvalds",
+  "url": "https://en.wikipedia.org/wiki/Linus_Torvalds",
+  "path": "Comp-Sci-Pioneers\\linus-torvalds",
+  "summary": {
+    "chars": 546,
+    "tokens": 111
+  },
+  "document": {
+    "chars": 21774,
+    "tokens": 3538
+  },
+  "infobox": {
+    "title": "Linus Torvalds",
+    "data": {
+      "Born": "Linus Benedict Torvalds \u00b7 28 December 1969 \u00b7 Helsinki, Finland",
+      "Citizenship": "Finland United States",
+      "Alma mater": "University of Helsinki (M.S.)",
+      "Occupation": "Software engineer",
+      "Employer": "Linux Foundation",
+      "Known for": "Linux, Git",
+      "Spouse": "Tove Torvalds",
+      "Children": "3",
+      "Parent(s)": "Nils Torvalds (father) \u00b7 Anna \"Mikke\" Torvalds (n\u00e9e T\u00f6rnqvist, mother)",
+      "Relatives": "Sara Torvalds (sister) \u00b7 Leo T\u00f6rnqvist (grandfather) \u00b7 Ole Torvalds (grandfather)"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+**Embodied cognition** is the theory that cognitive processes are deeply influenced by the body and its interactions with the environment, challenging the traditional Cartesian view of the mind as separate from the body. Key aspects include:
+
+- **Sensorimotor contingencies**: Perception is not passive but shaped by bodily actions. For example, seeing an object changes when you move, and this dynamic interaction is essential for understanding the world.
+- **Learning and reasoning**: Physical actions and gestures enhance learning and reasoning. Studies show that gestures improve memory and comprehension, and dynamic gestures improve performance in mathematical and spatial reasoning.
+- **Language and emotion**: Language comprehension activates motor systems (e.g., mirror neurons), linking words to bodily actions. Emotions are embodied—experiencing anger involves muscle tension, and facial expressions influence emotional processing.
+- **Social cognition**: Bodily interactions, such as nonverbal synchrony, influence social judgments and relationships. People who mimic others' gestures or facial expressions show faster emotional recognition and better social rapport.
+- **Memory and self-regulation**: Memory is tied to bodily experiences—body position affects recall of autobiographical memories. The body also supports self-regulation, such as through muscle-firming to overcome aversion or through movement to manage emotions.
+- **Applications**: Embodied cognition informs education (e.g., gesture-based learning), robotics (e.g., situated robots that adapt to environments), and clinical practices (e.g., sensorimotor retraining for pain and mental health).
+- **Controversy**: Critics, like John Searle, argue that behavior alone does not prove true understanding or consciousness, highlighting the "Chinese room" thought experiment. Others question whether embodiment fully explains abstract reasoning or if it is just one component of cognition.
+
+Overall, embodied cognition emphasizes that cognition is not just a product of the brain but emerges from the dynamic interplay between the body, the environment, and action.

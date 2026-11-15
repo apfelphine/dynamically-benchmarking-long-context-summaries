@@ -1,0 +1,30 @@
+{
+  "id": 30860488,
+  "title": "John Monash Scholars",
+  "url": "https://en.wikipedia.org/wiki/John_Monash_Scholars",
+  "path": "Scholarships\\john-monash-scholars",
+  "summary": {
+    "chars": 402,
+    "tokens": 67
+  },
+  "document": {
+    "chars": 8110,
+    "tokens": 1607
+  },
+  "infobox": {
+    "title": "The General Sir John Monash Foundation",
+    "data": {
+      "Named after": "General Sir John Monash GCMG, KCB, VD",
+      "Formation": "2001",
+      "Type": "Not for Profit",
+      "Legal status": "Deductible Gift Recipient (DGR1)",
+      "Purpose": "The General Sir John Monash Foundation awards The General Sir John Monash Scholarships to outstanding Australians with leadership potential who wish to study at any overseas university.",
+      "Headquarters": "Melbourne, Australia",
+      "Services": "Postgraduate Scholarships for study outside of Australia",
+      "Patron-in-Chief": "Her Excellency The Honourable Sam Mostyn AC",
+      "Chairman": "Ms Jillian Segal AO",
+      "CEO": "Mr Ross Youngman",
+      "Website": "www.johnmonash.com"
+    }
+  }
+}

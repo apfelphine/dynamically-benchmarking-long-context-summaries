@@ -1,0 +1,11 @@
+# Master Summary: Elite Global Universities
+
+## Global Research Powerhouses and Innovation Hubs
+The University of Chicago, King's College London, and Zhejiang University exemplify distinct global identities rooted in history and massive research capacity. UChicago transformed into an R1 powerhouse with a $10.1 billion endowment, blending Victorian tradition with civic landmarks like the Obama Presidential Center. King's College London leveraged the 1882 Act to become a diverse, women-inclusive global leader in medicine and scientific discovery, while Zhejiang University stands as Asia's largest institution, securing a 26.1 billion CNY budget despite historical disruptions.
+
+Parallel to these institutions, MIT, Tsinghua, and Caltech define innovation through rigorous application and specialized focus. MIT bridges science and industry with a 4–1–4 calendar and venture capital culture, having spawned over 25,000 companies. Tsinghua ranks #1 globally in engineering with an acceptance rate under 0.1%, while Caltech maintains an elite reputation through its compact campus, honor code, and leadership in facilities like JPL and LIGO.
+
+## The California Triad: Caltech, Stanford, and UC Berkeley
+Caltech, Stanford, and UC Berkeley represent three distinct operational models within the American higher education landscape. Caltech prioritizes elite scientific training with 48 Nobel laureates, whereas Stanford acts as the economic engine of Silicon Valley, driving innovation through industry collaboration and a $36.5 billion endowment. UC Berkeley anchors the public university system as the sole remaining member of the "Big Six," boasting a legacy of foundational technologies like UNIX and the Internet.
+
+While Caltech and Berkeley are defined by their academic legacies and high selectivity, Stanford fosters a vibrant community through extensive digital resources, themed housing, and diverse traditions. However, the university also navigates complex challenges regarding safety and inclusivity, notably following the Brock Turner case. Together, these institutions balance intense academic rigor with unique cultural traditions, producing significant impacts in government, technology, and the arts.

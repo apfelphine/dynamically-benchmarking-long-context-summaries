@@ -1,0 +1,7 @@
+## Global Education System Comparison
+
+### System Structures and Models
+Global education systems display vast structural diversity, ranging from highly centralized models, such as those in Turkey and Iran, to more inclusive or decentralized systems like France's. Structures vary in compulsory schooling lengths (e.g., England until age 18) and feature diverse tracks, including general, vocational, and specialized streams, as seen in Norway, Israel, and Indonesia. Funding mechanisms and national priorities also shape these models, whether through heavy state investment or facing resource constraints.
+
+### Pedagogical Approaches and Persistent Challenges
+A universal challenge across nations is maintaining equity and ensuring consistent quality. Many systems grapple with socioeconomic disparities, internal inequality (such as in Israel), or infrastructure deficits (seen in Nigeria). While some nations, like Hong Kong, are modernizing curricula to incorporate AI and move beyond rote learning, others face issues like low standardized test scores (Egypt) or teacher shortages (Ghana). International performance metrics further highlight the varied outcomes achieved across these diverse global educational landscapes.

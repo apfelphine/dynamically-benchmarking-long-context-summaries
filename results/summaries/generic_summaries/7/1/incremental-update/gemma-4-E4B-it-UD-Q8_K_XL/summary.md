@@ -1,0 +1,13 @@
+## Comparative Overview of Global Education Systems
+
+**German Education System:**
+Germany features a decentralized system with early academic tracking, where students progress through tracks like Gymnasium, Realschule, and Hauptschule. While public tuition is generally waived, financial aid is available, and vocational training is supported by the *Duale Ausbildung*. The system faces significant socioeconomic disparities; although interventions like high-quality Kindergarten aim to reduce gaps, upper-middle-class children show higher statistical chances of entering Gymnasium than working-class peers. Current debates center on affirmative action and quotas for working-class students entering Gymnasien, with schools retaining quota-setting rights from the 1970s. Proponents of ability-based streaming argue it benefits gifted students, while opponents claim it is unfair and favors affluent families. Further concerns include poor school infrastructure, lack of digital technology, and the presence of nearly 15% international students. Tertiary education is dualistic, involving research-focused *Universitäten* and practical *Fachhochschulen*.
+
+**Indian Education Framework:**
+India is modernizing via NEP 2020, which introduces a "5+3+3+4" structure emphasizing early childhood and mother tongue education. Efforts include standardized assessments (PARAKH) and flexible degrees, but progress is hampered by low funding (under 6% of GDP), reliance on rote learning, skill gaps, and issues with teacher attendance.
+
+**Chinese Education Development:**
+China's system is heavily regulated to align with national economic goals for its 2050 vision, maintaining strict ideological control and promoting entrepreneurship. It is marked by intense competition driven by high-stakes exams like the *Zhongkao* and *Gaokao*, coupled with significant regional disparities and an emphasis on memorization.
+
+**Greek Education System Overview and Vocational Tracks:**
+The Greek system moves from preschool through compulsory Lower Secondary (Gymnasium, which requires English) to elective Upper Secondary tracks: General ($\Gamma\text{E}\Lambda$), Vocational, and Art. University entrance requires the General High School Certificate and the Pan-Hellenic Exam. Vocational support is managed by DYPA via EPAL tracks and dual VET apprenticeships (EPAS, EPAL Post-lyceum). The system grapples with issues such as corruption, educator misconduct, and ongoing debates regarding tuition fees.

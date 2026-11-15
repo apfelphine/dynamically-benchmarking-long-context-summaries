@@ -1,0 +1,26 @@
+{
+  "id": 7956493,
+  "title": "American Indian College Fund",
+  "url": "https://en.wikipedia.org/wiki/American_Indian_College_Fund",
+  "path": "Scholarships\\american-indian-college-fund",
+  "summary": {
+    "chars": 476,
+    "tokens": 81
+  },
+  "document": {
+    "chars": 5173,
+    "tokens": 965
+  },
+  "infobox": {
+    "title": "American Indian College Fund",
+    "data": {
+      "Founded": "1989",
+      "Type": "Non-governmental organization",
+      "Focus": "Education",
+      "Headquarters": "Denver",
+      "Region served": "United States",
+      "President and CEO": "Cheryl Crazy Bull",
+      "Website": "collegefund.org"
+    }
+  }
+}

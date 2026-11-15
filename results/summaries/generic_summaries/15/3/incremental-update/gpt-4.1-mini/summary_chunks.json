@@ -1,0 +1,93 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## University of Toronto\nFounded as King's College in 1827 and secularized in 1849, the University of Toronto grew through federations with ecclesiastical colleges and additional campuses in Scarborough and Mississauga. Governed by a 50-member council spanning 14 faculties, including a leading Medical Faculty affiliated with hospitals, it manages major cultural institutions and a 12-million-volume library. Hosting over 100,000 students in 2024 (29% international), vibrant student life includes Hart House and diverse media outlets. Its Varsity Blues compete in 44 varsity sports. Ranked Canada\u2019s top university (#17\u201318 globally), it holds a $1 billion endowment (2007) and $4 billion fundraising campaign. Contributions include the discovery of insulin and research on cancer stem cells.",
+        "text_original": "Founded as King's College in 1827 and secularized in 1849, the University of Toronto grew through federations with ecclesiastical colleges and additional campuses in Scarborough and Mississauga. Governed by a 50-member council spanning 14 faculties, including a leading Medical Faculty affiliated with hospitals, it manages major cultural institutions and a 12-million-volume library. Hosting over 100,000 students in 2024 (29% international), vibrant student life includes Hart House and diverse media outlets. Its Varsity Blues compete in 44 varsity sports. Ranked Canada\u2019s top university (#17\u201318 globally), it holds a $1 billion endowment (2007) and $4 billion fundraising campaign. Contributions include the discovery of insulin and research on cancer stem cells",
+        "idx_start": 65,
+        "idx_end": 831
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## Federal University of Rio de Janeiro (UFRJ)\nWith origins in the 18th century and formal founding in 1920, UFRJ emphasizes international engagement and public health. Situated on its 5.2 million m\u00b2 Cidade Universit\u00e1ria campus with 52 units, it offers 179 undergraduate and 345 postgraduate interdisciplinary programs and affirmative action policies. Facilities include nine medical institutes and a Technology Park collaborating with Petrobras on energy and maritime technology.",
+        "text_original": "With origins in the 18th century and formal founding in 1920, UFRJ emphasizes international engagement and public health. Situated on its 5.2 million m\u00b2 Cidade Universit\u00e1ria campus with 52 units, it offers 179 undergraduate and 345 postgraduate interdisciplinary programs and affirmative action policies. Facilities include nine medical institutes and a Technology Park collaborating with Petrobras on energy and maritime technology",
+        "idx_start": 883,
+        "idx_end": 1315
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## University of Oxford\nDating to the 12th century, Oxford consists of 39 autonomous colleges and 4 private halls, admitting about 15\u201316% of tutorial-based undergraduates. It provides extensive financial aid including Rhodes Scholarships. Its historic campus features the Bodleian Libraries (11+ million volumes) and multiple museums. With an endowment near \u00a31.9 billion plus substantial college assets, it pursues ethical investments and net-zero goals. Notable alumni include 70+ Nobel laureates, British prime ministers, and monarchs. Traditions feature academic dress, college balls, and Union debates.",
+        "text_original": "Dating to the 12th century, Oxford consists of 39 autonomous colleges and 4 private halls, admitting about 15\u201316% of tutorial-based undergraduates. It provides extensive financial aid including Rhodes Scholarships. Its historic campus features the Bodleian Libraries (11+ million volumes) and multiple museums. With an endowment near \u00a31.9 billion plus substantial college assets, it pursues ethical investments and net-zero goals. Notable alumni include 70+ Nobel laureates, British prime ministers, and monarchs. Traditions feature academic dress, college balls, and Union debates",
+        "idx_start": 1344,
+        "idx_end": 1925
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## Cornell University\nFounded in 1865 as New York\u2019s land-grant university, Cornell spans campuses in Ithaca, Manhattan, and Qatar. Its 16 semi-autonomous colleges maintain a $10.7 billion endowment (2024) and an acceptance rate of 6.9%. An R1 research institution with $1.18 billion R&D annually, Cornell excels in nuclear physics, space exploration, and automotive safety. Student life includes 1,000+ organizations and NCAA Ivy League athletics. Alumni include Nobel laureates and Rhodes Scholars.",
+        "text_original": "Founded in 1865 as New York\u2019s land-grant university, Cornell spans campuses in Ithaca, Manhattan, and Qatar. Its 16 semi-autonomous colleges maintain a $10.7 billion endowment (2024) and an acceptance rate of 6.9%. An R1 research institution with $1.18 billion R&D annually, Cornell excels in nuclear physics, space exploration, and automotive safety. Student life includes 1,000+ organizations and NCAA Ivy League athletics. Alumni include Nobel laureates and Rhodes Scholars",
+        "idx_start": 1952,
+        "idx_end": 2428
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## University of British Columbia (UBC)\nEstablished in 1908 and independent by 1915, UBC\u2019s Vancouver and Okanagan campuses rest on Musqueam and Syilx territories. It holds Canada\u2019s second-largest academic library (7.8 million volumes) and leads in sustainability via net-positive buildings and water conservation. Governance integrates university and student groups emphasizing Indigenous inclusion. With a 2024\u201325 budget exceeding $3.8 billion and rising tuition, student life features Canada\u2019s largest Greek system, vibrant traditions, and varsity Thunderbirds teams. UBC ranks in the global top 50 and counts Nobel laureates and national leaders among alumni.",
+        "text_original": "Established in 1908 and independent by 1915, UBC\u2019s Vancouver and Okanagan campuses rest on Musqueam and Syilx territories. It holds Canada\u2019s second-largest academic library (7.8 million volumes) and leads in sustainability via net-positive buildings and water conservation. Governance integrates university and student groups emphasizing Indigenous inclusion. With a 2024\u201325 budget exceeding $3.8 billion and rising tuition, student life features Canada\u2019s largest Greek system, vibrant traditions, and varsity Thunderbirds teams. UBC ranks in the global top 50 and counts Nobel laureates and national leaders among alumni",
+        "idx_start": 2473,
+        "idx_end": 3094
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## National University of Singapore (NUS)\nOriginating from a 1905 medical school, NUS unified multiple institutions into Singapore\u2019s flagship university with three campuses and 17 faculties. Combining British and American educational models, it pioneered entrepreneurship education since the 1980s. Ranked #8 QS 2026 and among Asia\u2019s elite, NUS hosts strong research institutes in biomedical sciences, engineering, and social sciences. Its collegiate residential system promotes vibrant student life. Alumni include Singapore\u2019s founding leaders and international figures.",
+        "text_original": "Originating from a 1905 medical school, NUS unified multiple institutions into Singapore\u2019s flagship university with three campuses and 17 faculties. Combining British and American educational models, it pioneered entrepreneurship education since the 1980s. Ranked #8 QS 2026 and among Asia\u2019s elite, NUS hosts strong research institutes in biomedical sciences, engineering, and social sciences. Its collegiate residential system promotes vibrant student life. Alumni include Singapore\u2019s founding leaders and international figures",
+        "idx_start": 3141,
+        "idx_end": 3669
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## University of Melbourne\nFounded in 1853, Melbourne leads Australian research, blending broad undergraduate education and specialization. It spans nine faculties and multiple campuses, currently developing a $2 billion engineering complex. Leadership changes saw the appointment of its first female Vice-Chancellor in 2024 amid labor disputes and calls for transparency. Museums and libraries support research and culture. Ranked in the global top 40, it boasts notable employment outcomes. Student life includes historic sports clubs, residential colleges, and 200+ organizations. Alumni include Nobel laureates and Australian Prime Ministers.",
+        "text_original": "Founded in 1853, Melbourne leads Australian research, blending broad undergraduate education and specialization. It spans nine faculties and multiple campuses, currently developing a $2 billion engineering complex. Leadership changes saw the appointment of its first female Vice-Chancellor in 2024 amid labor disputes and calls for transparency. Museums and libraries support research and culture. Ranked in the global top 40, it boasts notable employment outcomes. Student life includes historic sports clubs, residential colleges, and 200+ organizations. Alumni include Nobel laureates and Australian Prime Ministers",
+        "idx_start": 3701,
+        "idx_end": 4319
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## University of Hong Kong (HKU)\nFounded in 1911 from the 1887 Hong Kong College of Medicine for Chinese, HKU expanded post-WWII. In 2023\u201324, it serves ~40,000 students (47.2% international) within a four-year English-medium curriculum. With HK$12.1 billion research funding (2018/19) and a 2.3 million-item library, governance includes the Hong Kong Chief Executive as Chancellor. Ten faculties plus affiliated institutions blend Eastern and Western motifs culturally. Notable alumni include Sun Yat-sen and political leaders. Student life offers extensive housing, health services, and study abroad. HKU ranks #11 worldwide and #1 in Asia (QS 2026).",
+        "text_original": "Founded in 1911 from the 1887 Hong Kong College of Medicine for Chinese, HKU expanded post-WWII. In 2023\u201324, it serves ~40,000 students (47.2% international) within a four-year English-medium curriculum. With HK$12.1 billion research funding (2018/19) and a 2.3 million-item library, governance includes the Hong Kong Chief Executive as Chancellor. Ten faculties plus affiliated institutions blend Eastern and Western motifs culturally. Notable alumni include Sun Yat-sen and political leaders. Student life offers extensive housing, health services, and study abroad. HKU ranks #11 worldwide and #1 in Asia (QS",
+        "idx_start": 4357,
+        "idx_end": 4968
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## National Autonomous University of Mexico (UNAM)\nFounded in 1910 as a secular national successor to the colonial Royal University, UNAM gained autonomy in the 1920s and developed the Ciudad Universitaria campus\u2014a UNESCO World Heritage Site. Serving 324,000+ students, it offers education at all levels nationally and internationally. Mexico\u2019s top university and Latin America\u2019s best (ranking 100\u2013300 globally), it leads multidisciplinary research producing over half of Mexico\u2019s scientific output, notable in AI, robotics, and advanced sciences. Its athletic teams include Club Universidad Nacional. Known for left-leaning activism and minority support, alumni encompass Mexican presidents, diplomats, Nobel laureates, scientists, artists, and business magnates like Carlos Slim.",
+        "text_original": "Founded in 1910 as a secular national successor to the colonial Royal University, UNAM gained autonomy in the 1920s and developed the Ciudad Universitaria campus\u2014a UNESCO World Heritage Site. Serving 324,000+ students, it offers education at all levels nationally and internationally. Mexico\u2019s top university and Latin America\u2019s best (ranking 100\u2013300 globally), it leads multidisciplinary research producing over half of Mexico\u2019s scientific output, notable in AI, robotics, and advanced sciences. Its athletic teams include Club Universidad Nacional. Known for left-leaning activism and minority support, alumni encompass Mexican presidents, diplomats, Nobel laureates, scientists, artists, and business magnates like Carlos Slim",
+        "idx_start": 5030,
+        "idx_end": 5759
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## University of New South Wales (UNSW)\nEstablished in 1949 to meet post-WWII industrial needs, UNSW expanded from engineering to arts, medicine, and law across multiple campuses including the 2025 Sydney CBD campus. Governed by a Council and Academic Board under Vice-Chancellor Attila Brungs, it includes six faculties plus UNSW Canberra, holding a $10.7 billion endowment with top-ranked research centers. Admissions use ATAR scores, specialized tests, and bonus schemes. Student life thrives through Arc @ UNSW supporting clubs, media, volunteerism, legal aid, and venues like the Roundhouse. Accommodation includes colleges such as Philip Baxter and International House. With 250+ exchange partnerships, UNSW promotes innovation via student projects in fusion energy, solar racing, robotics, satellites, biomedical engineering, and synthetic biology. Graduate employment and employer satisfaction rates are high.",
+        "text_original": "Established in 1949 to meet post-WWII industrial needs, UNSW expanded from engineering to arts, medicine, and law across multiple campuses including the 2025 Sydney CBD campus. Governed by a Council and Academic Board under Vice-Chancellor Attila Brungs, it includes six faculties plus UNSW Canberra, holding a $10.7 billion endowment with top-ranked research centers. Admissions use ATAR scores, specialized tests, and bonus schemes. Student life thrives through Arc @ UNSW supporting clubs, media, volunteerism, legal aid, and venues like the Roundhouse. Accommodation includes colleges such as Philip Baxter and International House. With 250+ exchange partnerships, UNSW promotes innovation via student projects in fusion energy, solar racing, robotics, satellites, biomedical engineering, and synthetic biology. Graduate employment and employer satisfaction rates are high",
+        "idx_start": 5804,
+        "idx_end": 6680
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## University of New South Wales (UNSW)\n### UNSW College\nA not-for-profit subsidiary providing education and exams internationally for students from year 3 to year 12.",
+        "text_original": "A not-for-profit subsidiary providing education and exams internationally for students from year 3 to year",
+        "idx_start": 6702,
+        "idx_end": 6808
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## University of New South Wales (UNSW)\n### Notable Alumni\nUNSW has produced prominent politicians (e.g., Scott Morrison, Gladys Berejiklian), business leaders (e.g., Mike Cannon-Brookes), academics, artists, and international royalty, recognized as Australia\u2019s top producer of millionaires and influential engineers.",
+        "text_original": "UNSW has produced prominent politicians (e.g., Scott Morrison, Gladys Berejiklian), business leaders (e.g., Mike Cannon-Brookes), academics, artists, and international royalty, recognized as Australia\u2019s top producer of millionaires and influential engineers",
+        "idx_start": 6835,
+        "idx_end": 7092
+    },
+    {
+        "document_idx": null,
+        "text": "# Comprehensive University Summaries\n## University of New South Wales (UNSW)\n### Controversies\nUNSW\u2019s history includes legal liability for copyright infringement (1975) prompting amendments to copyright law; a fatal campus accident (2000); a failed Singapore campus venture causing $15 million losses (2007); apologized misconduct over donated bodies (2007); $100,000 fine after a field trip injury (2009); a student acquitted on mental illness grounds following violence (2012); police lockdown due to a security threat (2015); privacy violation via leaked student complaint (2018); deletion of a pro-Hong Kong human rights tweet sparking free speech debates (2020); and ongoing investigations (2021\u20132023) into research misconduct and payroll underpayments with legal action initiated by the Fair Work Ombudsman.\nThis summary consolidates comprehensive histories, governance, academic strengths, research, student life, notable alumni, global rankings, and key controversies for leading universities worldwide, highlighting their impact in education, innovation, and society.",
+        "text_original": "UNSW\u2019s history includes legal liability for copyright infringement (1975) prompting amendments to copyright law; a fatal campus accident (2000); a failed Singapore campus venture causing $15 million losses (2007); apologized misconduct over donated bodies (2007); $100,000 fine after a field trip injury (2009); a student acquitted on mental illness grounds following violence (2012); police lockdown due to a security threat (2015); privacy violation via leaked student complaint (2018); deletion of a pro-Hong Kong human rights tweet sparking free speech debates (2020); and ongoing investigations (2021\u20132023) into research misconduct and payroll underpayments with legal action initiated by the Fair Work Ombudsman.\n\n---\n\nThis summary consolidates comprehensive histories, governance, academic strengths, research, student life, notable alumni, global rankings, and key controversies for leading universities worldwide, highlighting their impact in education, innovation, and society",
+        "idx_start": 7115,
+        "idx_end": 8101
+    }
+]

@@ -1,0 +1,1 @@
+Coded Bias is an American documentary film directed by Shalini Kantayya that premiered at the 2020 Sundance Film Festival. The film includes contributions from researchers Joy Buolamwini, Deborah Raji, Meredith Broussard, Cathy O’Neil, Zeynep Tufekci, Safiya Noble, Timnit Gebru, Virginia Eubanks, and Silkie Carlo, and others.

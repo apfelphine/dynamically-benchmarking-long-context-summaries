@@ -1,0 +1,15 @@
+Jacek Karpiński was a Polish engineer and inventor born in Turin, Italy, in 1927. His family, rooted in Polish intellectual and mountaineering traditions, faced significant challenges during World War II, including his father’s tragic death in a climbing expedition. Karpiński became deeply involved in the Polish resistance, participating in numerous operations, including the Warsaw Uprising, where he was seriously wounded.
+
+Post-war, Karpiński pursued higher education and engineering studies, graduating from Warsaw University of Technology in 1951. His early career was marked by minor setbacks from communist security services due to his wartime activities. His most notable contributions came through his pioneering work in computer science and engineering.
+
+Karpiński’s first major project was the **AAH (Analytical Analyzer of Harmonics)**, a vacuum-tube-based computer developed in 1957 to improve weather forecasting accuracy. His breakthrough came with the **AKAT-1**, the world’s first differential equations analyzer using transistors, completed in 1959. This machine, designed with artistic input from Polish artists, was celebrated for its innovative design and functionality.
+
+His international recognition came in 1960 when he was awarded a UNESCO scholarship to study in the United States, where he met influential figures like John Eckert and Claude Shannon. Despite the opportunity to stay in the U.S., Karpiński returned to Poland, where he continued his work, including the development of the **perceptron**, a neural network prototype, in 1964.
+
+Karpiński’s most ambitious project was the **KAR-65**, a mathematical machine built in 1968 to process scanned data, which significantly advanced data analysis in scientific research. However, due to political pressures and bureaucratic challenges, KAR-65 was not widely promoted, and Karpiński faced censorship and restrictions on discussing his work.
+
+Later in his career, Karpiński founded a microcomputer production plant, **Zakład Budowy Mikrokomputerów**, where he developed the **K-202**, a groundbreaking minicomputer with innovative features like memory segmentation and floating-point representation. Though technically superior, K-202 failed to achieve mass production due to political opposition and economic constraints.
+
+Karpiński’s later years were marked by personal struggles, including a secret collaboration with Polish intelligence services, which led to controversies. Despite these challenges, he continued advancements in computer science, including his work on hand-held text scanners and cash registers, which were unsuccessful.
+
+Karpiński passed away in 2010, leaving behind a legacy as a visionary in Polish computer engineering. His contributions laid foundational work for future advancements in computing, and he was posthumously awarded the highest Polish honor, the Commander’s Cross of Polonia Restituta. His story remains a testament to innovation and resilience in the face of adversity.

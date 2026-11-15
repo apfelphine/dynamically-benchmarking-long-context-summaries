@@ -1,0 +1,3 @@
+Je Suis Auto is a 2024 Austrian social science fiction indie comedy film directed by Juliana Neuhuber and written by Johannes Grenzfurthner. 
+Chase Masterson is voicing the title character "Auto", a self-driving taxi. Johannes Grenzfurthner plays Herbie Fuchsel, an unemployed nerd critical of artificial intelligence. The film is a farcical comedy that deals with issues such as artificial intelligence, politics of labor, and tech culture.
+The film is distributed by monochrom.

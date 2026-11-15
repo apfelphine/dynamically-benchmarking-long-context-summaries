@@ -1,0 +1,5 @@
+## Donald Knuth: Key Information
+
+Donald Knuth is a prominent computer scientist and mathematician, best known for authoring *The Art of Computer Programming*, a multi-volume treatise recognized for its rigorous approach to algorithms and programming. Beginning the series in the 1960s, Knuth has published several volumes and fascicles, with additional installments released through 2022. His other significant works include *Concrete Mathematics* and *Surreal Numbers*, as well as the development of digital typesetting systems TeX and METAFONT, appearing in his *Computers & Typesetting* series.
+
+Knuth's innovations go beyond writing—he pioneered literate programming and contributed to compiler design, mathematical analysis of algorithms, and recreational mathematics. His impact is further seen in the dissemination of clear, high-quality technical writing and programming concepts. Knuth has received numerous honors including the ACM Turing Award, National Medal of Science, and Kyoto Prize, and holds positions such as Professor Emeritus at Stanford University. He is widely celebrated for his clarity, wit, and influence on computer science.

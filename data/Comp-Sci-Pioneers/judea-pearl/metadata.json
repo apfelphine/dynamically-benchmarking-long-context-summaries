@@ -1,0 +1,30 @@
+{
+  "id": 699964,
+  "title": "Judea Pearl",
+  "url": "https://en.wikipedia.org/wiki/Judea_Pearl",
+  "path": "Comp-Sci-Pioneers\\judea-pearl",
+  "summary": {
+    "chars": 1042,
+    "tokens": 212
+  },
+  "document": {
+    "chars": 9155,
+    "tokens": 2096
+  },
+  "infobox": {
+    "title": "Judea Pearl",
+    "data": {
+      "Born": "September 4, 1936 \u00b7 Tel Aviv, Mandatory Palestine \u00b7 (present day Israel)",
+      "Education": "Israel Institute of Technology (BS) \u00b7 New Jersey Institute of Technology (MS) \u00b7 Rutgers University, New Brunswick (MS) \u00b7 New York University (PhD)",
+      "Known for": "Artificial Intelligence \u00b7 Causality \u00b7 Bayesian Networks \u00b7 Structural Equation Modeling",
+      "Spouse": "Ruth Pearl (n\u00e9e Eveline Rejwan) \u200b (m. 1960; died 2021)\u200b",
+      "Children": "3, including Daniel",
+      "Awards": "IJCAI Award for Research Excellence (1999) \u00b7 Turing Award (2011) \u00b7 Rumelhart Prize (2011) \u00b7 Harvey Prize (2011) \u00b7 BBVA Foundation Frontiers of Knowledge Award (2021)",
+      "Fields": "Computer science, statistics",
+      "Thesis": "Vortex Theory of Superconductive Memories (1965)",
+      "Doctoral advisor": "Leonard Strauss \u00b7 Leonard Bergstein",
+      "Doctoral students": "Rina Dechter, Hector Geffner, Elias Bareinboim",
+      "Website": "bayes.cs.ucla.edu/jp_home.html"
+    }
+  }
+}

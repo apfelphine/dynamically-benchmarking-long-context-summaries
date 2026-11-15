@@ -1,0 +1,30 @@
+{
+  "id": 20535439,
+  "title": "Neil Siegel",
+  "url": "https://en.wikipedia.org/wiki/Neil_Siegel",
+  "path": "Comp-Sci-Pioneers\\neil-siegel",
+  "summary": {
+    "chars": 669,
+    "tokens": 133
+  },
+  "document": {
+    "chars": 7255,
+    "tokens": 1569
+  },
+  "infobox": {
+    "title": "Neil Siegel",
+    "data": {
+      "Born": "Neil Gilbert Siegel \u00b7 February 19, 1954 \u00b7 Brooklyn, New York, U.S.",
+      "Alma mater": "University of Southern California",
+      "Known for": "Blue-Force Tracking \u00b7 FBCB2 \u00b7 Hunter UAV \u00b7 multicast communications protocols \u00b7 low-data-rate networking protocols \u00b7 Tactical Operations Centers \u00b7 Command and Control Centers",
+      "Spouse": "Robyn Friend",
+      "Mother": "Judith Love Cohen",
+      "Relatives": "Jack Black (half-brother)",
+      "Awards": "US National Medal of Technology and Innovation (2023) \u00b7 US National Academy of Engineering (2005) \u00b7 IEEE Simon Ramo Medal (2011) \u00b7 IEEE Fellow (2011) \u00b7 US National Academy of Inventors (2019)",
+      "Fields": "Engineering, systems engineering, computer science",
+      "Institutions": "TRW \u00b7 Northrop Grumman \u00b7 University of Southern California",
+      "Doctoral advisor": "Barry Boehm",
+      "Website": "neilsiegel.usc.edu"
+    }
+  }
+}

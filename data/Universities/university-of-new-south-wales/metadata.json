@@ -1,0 +1,41 @@
+{
+  "id": 146078,
+  "title": "University of New South Wales",
+  "url": "https://en.wikipedia.org/wiki/University_of_New_South_Wales",
+  "path": "Universities\\university-of-new-south-wales",
+  "summary": {
+    "chars": 1082,
+    "tokens": 217
+  },
+  "document": {
+    "chars": 40267,
+    "tokens": 8233
+  },
+  "infobox": {
+    "title": "University of New South Wales",
+    "data": {
+      "Former name": "The New South Wales University of Technology (1949\u20131958)",
+      "Motto": "Latin: Scientia Corde Manu et Mente",
+      "Motto in English": "\"Knowledge by heart, hand and mind\"",
+      "Type": "Public research university",
+      "Established": "1 July 1949",
+      "Accreditation": "TEQSA",
+      "Academic affiliations": "Go8 U21 APRU PLuS GATU ADFA OUA UA",
+      "Endowment": "A$289.57 million (2024)",
+      "Budget": "A$3.37 billion (2025)",
+      "Visitor": "Governor of New South Wales (ex officio)",
+      "Chancellor": "David Gonski",
+      "Vice-Chancellor": "Attila Brungs",
+      "Academic staff": "3,610 (2024)",
+      "Administrative staff": "4,708 (2024)",
+      "Total staff": "8,318 (2024)",
+      "Students": "82,272 (2024)",
+      "Address": "High Street, Kensington, New South Wales, 2052, Australia",
+      "Campus": "Urban, parkland and regional, 38 hectares (0.38 km2)",
+      "Colours": "Yellow Black",
+      "Sporting affiliations": "UniSport EAEN UBL",
+      "Mascot": "Clancy the Lion",
+      "Website": "unsw.edu.au"
+    }
+  }
+}

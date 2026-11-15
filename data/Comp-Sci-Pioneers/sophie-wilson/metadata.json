@@ -1,0 +1,25 @@
+{
+  "id": 56288,
+  "title": "Sophie Wilson",
+  "url": "https://en.wikipedia.org/wiki/Sophie_Wilson",
+  "path": "Comp-Sci-Pioneers\\sophie-wilson",
+  "summary": {
+    "chars": 806,
+    "tokens": 165
+  },
+  "document": {
+    "chars": 9516,
+    "tokens": 1957
+  },
+  "infobox": {
+    "title": "Sophie WilsonCBE FRS FREng DistFBCS",
+    "data": {
+      "Born": "June 1957 (age 68) \u00b7 Leeds, England",
+      "Education": "- Selwyn College, Cambridge - University of Cambridge",
+      "Known for": "Acorn Computers BBC Micro ARM architecture BBC BASIC",
+      "Awards": "- Fellow of the Royal Academy of Engineering (2009) - Computer History Museum Fellow (2012) - Fellow of the Royal Society (2013) - Fellow of Selwyn College (2016) - Honorary Doctorate (2017) - Distinguished Fellow of the British Computer Society (2020)",
+      "Institutions": "- University of Cambridge - Broadcom Corporation - Acorn Computers",
+      "Website": "- www.sophie.org.uk - royalsociety.org/people/sophie-wilson-12544"
+    }
+  }
+}

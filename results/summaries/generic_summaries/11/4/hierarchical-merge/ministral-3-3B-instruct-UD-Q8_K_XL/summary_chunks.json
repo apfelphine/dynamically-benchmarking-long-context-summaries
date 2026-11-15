@@ -1,0 +1,37 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Neural Networks and Generative Paradigms\n## Memory and Sequential Modeling\nNeural networks leverage **recurrent architectures** (RNNs, LSTMs/GRUs, Bidirectional RNNs) for sequential data, with **Hopfield networks** enabling associative memory via Hebbian learning and energy minimization. Challenges like gradient vanishing/explosion are mitigated by **Backpropagation Through Time (BPTT)** , **Neural Turing Machines (NTMs)** , and **recursive RNNs** . **Autoencoders** (including VAEs, sparse autoencoders, and denoising autoencoders) compress data into latent representations, enabling generative modeling, anomaly detection, and dimensionality reduction.",
+        "text_original": "Neural networks leverage **recurrent architectures** (RNNs, LSTMs/GRUs, Bidirectional RNNs) for sequential data, with **Hopfield networks** enabling associative memory via Hebbian learning and energy minimization. Challenges like gradient vanishing/explosion are mitigated by **Backpropagation Through Time (BPTT)**, **Neural Turing Machines (NTMs)**, and **recursive RNNs**. **Autoencoders** (including VAEs, sparse autoencoders, and denoising autoencoders) compress data into latent representations, enabling generative modeling, anomaly detection, and dimensionality reduction",
+        "idx_start": 90,
+        "idx_end": 669
+    },
+    {
+        "document_idx": null,
+        "text": "# Neural Networks and Generative Paradigms\n## Convolutional and Graph-Based Architectures\n**Convolutional Neural Networks (CNNs)** excel in spatial data via convolutional and pooling layers, with innovations like **Neocognitron, AlexNet, and YOLO/Faster R-CNN** for real-time tasks. **Graph Neural Networks (GNNs)** process structured data via message-passing, addressing challenges like oversmoothing with **GCNs, GATs, and attention mechanisms** , with applications in biology (e.g., AlphaFold) and optimization.",
+        "text_original": "Convolutional Neural Networks (CNNs)** excel in spatial data via convolutional and pooling layers, with innovations like **Neocognitron, AlexNet, and YOLO/Faster R-CNN** for real-time tasks. **Graph Neural Networks (GNNs)** process structured data via message-passing, addressing challenges like oversmoothing with **GCNs, GATs, and attention mechanisms**, with applications in biology (e.g., AlphaFold) and optimization",
+        "idx_start": 727,
+        "idx_end": 1147
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformers: Scalability and Multimodal Integration\nTransformers replace RNNs with **attention-based parallelism** , enabling **quadratic scalability** via self-attention and cross-attention. Key innovations include:\n- **Pretrain-Finetune Paradigm** : Models like **BERT, GPT, and Vision Transformers (ViTs)** dominate NLP and vision tasks via massive pretraining.\n- **Efficiency Optimizations** : **RoPE, FlashAttention, KV caching** , and subquadratic scaling (e.g., Reformer, BigBird) enhance performance.\n- **Multimodal Extensions** : **LLaVA, Whisper, and hybrid CNNs+Transformers** integrate vision-language/speech models, supporting **multimodal tasks (e.g., DALL-E, Stable Diffusion)** .",
+        "text_original": "Transformers replace RNNs with **attention-based parallelism**, enabling **quadratic scalability** via self-attention and cross-attention. Key innovations include:\n- **Pretrain-Finetune Paradigm**: Models like **BERT, GPT, and Vision Transformers (ViTs)** dominate NLP and vision tasks via massive pretraining.\n- **Efficiency Optimizations**: **RoPE, FlashAttention, KV caching**, and subquadratic scaling (e.g., Reformer, BigBird) enhance performance.\n- **Multimodal Extensions**: **LLaVA, Whisper, and hybrid CNNs+Transformers** integrate vision-language/speech models, supporting **multimodal tasks (e.g., DALL-E, Stable Diffusion",
+        "idx_start": 1216,
+        "idx_end": 1849
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Models and Visualization\n**Generative Adversarial Networks (GANs)** stabilize via **Wasserstein distance (WGANs)** , **hinge loss** , or **style-based architectures (StyleGAN)** . **Progressive GANs** mitigate mode collapse, while **VAEs** optimize latent-space distributions via ELBO. **Class Activation Mapping (CAM)** and variants (Grad-CAM, LayerCAM) visualize CNN predictions, aiding interpretability in tasks like medical imaging and object detection.",
+        "text_original": "Generative Adversarial Networks (GANs)** stabilize via **Wasserstein distance (WGANs)**, **hinge loss**, or **style-based architectures (StyleGAN)**. **Progressive GANs** mitigate mode collapse, while **VAEs** optimize latent-space distributions via ELBO. **Class Activation Mapping (CAM)** and variants (Grad-CAM, LayerCAM) visualize CNN predictions, aiding interpretability in tasks like medical imaging and object detection",
+        "idx_start": 1905,
+        "idx_end": 2331
+    },
+    {
+        "document_idx": null,
+        "text": "# Vision Transformers (ViTs): Self-Supervised and Hybrid Models\nViTs process images as patch embeddings via Transformer encoders, with self-supervised variants like **Masked Autoencoders (MAE)** and **DINO** enabling robust pretraining. Hybrid models (e.g., **Swin Transformer, TimeSformer** ) combine local (CNN) and global (Transformer) features, excelling in **long-range dependencies, robustness, and scalability** . Applications span **computer vision, generative synthesis, and specialized domains (e.g., medical imaging, climate prediction)** .",
+        "text_original": "ViTs process images as patch embeddings via Transformer encoders, with self-supervised variants like **Masked Autoencoders (MAE)** and **DINO** enabling robust pretraining. Hybrid models (e.g., **Swin Transformer, TimeSformer**) combine local (CNN) and global (Transformer) features, excelling in **long-range dependencies, robustness, and scalability**. Applications span **computer vision, generative synthesis, and specialized domains (e.g., medical imaging, climate prediction",
+        "idx_start": 2408,
+        "idx_end": 2888
+    }
+]

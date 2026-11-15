@@ -1,0 +1,29 @@
+{
+  "id": 68057,
+  "title": "Ron Rivest",
+  "url": "https://en.wikipedia.org/wiki/Ron_Rivest",
+  "path": "Comp-Sci-Pioneers\\ron-rivest",
+  "summary": {
+    "chars": 756,
+    "tokens": 178
+  },
+  "document": {
+    "chars": 6364,
+    "tokens": 1375
+  },
+  "infobox": {
+    "title": "Ron Rivest",
+    "data": {
+      "Born": "May 6, 1947 \u00b7 Schenectady, New York, U.S.",
+      "Education": "Yale University (BA) \u00b7 Stanford University (MS, PhD)",
+      "Known for": "Public-key \u00b7 RSA, RC2, RC4, RC5, RC6 \u00b7 MD2, MD4, MD5, MD6, Ring signature",
+      "Awards": "- Paris Kanellakis Award (1996) - Turing Award (2002) - Marconi Prize (2007) - BBVA Foundation Frontiers of Knowledge Awards (2017) - National Inventors Hall of Fame (2018)",
+      "Fields": "- Algorithms - Cryptography - Machine learning - Election security",
+      "Institutions": "Massachusetts Institute of Technology",
+      "Thesis": "Analysis of associative retrieval algorithms (1974)",
+      "Doctoral advisor": "Robert W. Floyd",
+      "Doctoral students": "- Margrit Betke - Avrim Blum - Benny Chor - Sally Goldman - Burt Kaliski - Andrea LaPaugh - Anna Lysyanskaya - Ron Pinter - Robert Schapire - Alan Sherman - Mona Singh - Donna Slonim",
+      "Website": "people.csail.mit.edu/rivest"
+    }
+  }
+}

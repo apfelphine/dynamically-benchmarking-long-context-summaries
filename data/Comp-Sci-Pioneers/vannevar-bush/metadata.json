@@ -1,0 +1,23 @@
+{
+  "id": 32767,
+  "title": "Vannevar Bush",
+  "url": "https://en.wikipedia.org/wiki/Vannevar_Bush",
+  "path": "Comp-Sci-Pioneers\\vannevar-bush",
+  "summary": {
+    "chars": 2584,
+    "tokens": 537
+  },
+  "document": {
+    "chars": 43645,
+    "tokens": 9102
+  },
+  "infobox": {
+    "title": "Chairman of the Research and Development Board",
+    "data": {
+      "Chairman of the Research and Development Board": "In office \u00b7 September 30, 1947 \u2013 October 14, 1948",
+      "President": "Harry S. Truman",
+      "Preceded by": "Position established",
+      "Succeeded by": "Karl Compton"
+    }
+  }
+}

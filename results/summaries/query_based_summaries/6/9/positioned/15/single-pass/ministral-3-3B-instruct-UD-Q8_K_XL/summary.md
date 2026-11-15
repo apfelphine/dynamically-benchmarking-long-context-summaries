@@ -1,0 +1,11 @@
+Jacek Karpiński was a pioneering Polish engineer and computer scientist born in 1927 in Turin, Italy, into a family of intellectuals and mountaineers. His father, Adam Karpiński, was an aeronautic engineer and inventor, and his mother, Wanda Czarnocka-Karpińska, was a physician and Dean of the University of Physical Education in Warsaw. Both were prominent in winter mountaineering.
+
+During World War II, Karpiński served in the Polish underground resistance, participating in sabotage operations and the Warsaw Uprising. After the war, he attended university in Warsaw and later in Łódź, graduating in 1951. His early career faced minor setbacks due to his past in the Home Army, but he eventually found work at the Polish Academy of Sciences' Institute of Basic Problems, where he contributed to the development of early computing technologies.
+
+Karpiński’s most notable achievements include the **AAH (Analytical Analyzer of Harmonics)**, a vacuum-tube-based computer developed in 1957 to improve weather forecasting accuracy. His breakthrough came with the **AKAT-1**, the world’s first differential equations analyzer based on transistors, completed in 1959. This project earned him recognition and a UNESCO scholarship to study in the United States, where he met influential figures like John Eckert and Claude Shannon.
+
+Upon returning to Poland, Karpiński designed the **perceptron**, one of the first artificial neural network models, in 1964. His most ambitious project, the **KAR-65**, a transistor-based mathematical computer, was completed in 1968. Though technically successful, its commercial potential was hindered by political and bureaucratic obstacles.
+
+Later in life, Karpiński faced controversies related to his covert work for Polish intelligence, particularly during his time in the United States. Despite these challenges, he continued his work in computer science, eventually retiring to a small farm in Poland. He passed away in 2010 and was posthumously honored with the Commander’s Cross of Polonia Restituta, one of Poland’s highest civilian awards.
+
+Karpiński’s legacy includes contributions to early computer science, artificial intelligence, and the development of innovative computing technologies in Poland. His work laid foundational groundwork for future advancements in digital systems and neural networks.

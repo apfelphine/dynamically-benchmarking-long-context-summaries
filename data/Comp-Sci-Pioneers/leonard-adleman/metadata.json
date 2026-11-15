@@ -1,0 +1,27 @@
+{
+  "id": 249886,
+  "title": "Leonard Adleman",
+  "url": "https://en.wikipedia.org/wiki/Leonard_Adleman",
+  "path": "Comp-Sci-Pioneers\\leonard-adleman",
+  "summary": {
+    "chars": 280,
+    "tokens": 65
+  },
+  "document": {
+    "chars": 2736,
+    "tokens": 594
+  },
+  "infobox": {
+    "title": "Leonard Adleman",
+    "data": {
+      "Born": "Leonard Max Adleman \u00b7 December 31, 1945 \u00b7 San Francisco, California, US",
+      "Education": "University of California, Berkeley (BA, MA, PhD)",
+      "Known for": "RSA",
+      "Awards": "Turing Award (2002)",
+      "Fields": "Computer science \u00b7 Cryptography",
+      "Institutions": "University of Southern California",
+      "Thesis": "Number-Theoretic Aspects of Computational Complexity (1976)",
+      "Doctoral advisor": "Manuel Blum"
+    }
+  }
+}

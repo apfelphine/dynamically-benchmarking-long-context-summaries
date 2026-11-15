@@ -1,0 +1,34 @@
+{
+  "id": 739821,
+  "title": "D.A.R.Y.L.",
+  "url": "https://en.wikipedia.org/wiki/D.A.R.Y.L.",
+  "path": "AI-Fiction\\daryl",
+  "summary": {
+    "chars": 762,
+    "tokens": 174
+  },
+  "document": {
+    "chars": 10924,
+    "tokens": 2444
+  },
+  "infobox": {
+    "title": "D.A.R.Y.L.",
+    "data": {
+      "Directed by": "Simon Wincer",
+      "Written by": "- David Ambrose - Allan Scott - Jeffrey Ellis",
+      "Produced by": "John Heyman",
+      "Starring": "- Mary Beth Hurt - Michael McKean - Kathryn Walker - Colleen Camp - Josef Sommer - Barret Oliver",
+      "Cinematography": "Frank Watts",
+      "Edited by": "Adrian Carr",
+      "Music by": "Marvin Hamlisch",
+      "Production \u00b7 company": "World Film Services",
+      "Distributed by": "- Paramount Pictures (United States) - Columbia-EMI-Warner Distributors (United Kingdom)",
+      "Release date": "- June 14, 1985",
+      "Running time": "100 minutes",
+      "Countries": "- United States - United Kingdom",
+      "Language": "English",
+      "Budget": "$10 million",
+      "Box office": "$7.8 million"
+    }
+  }
+}

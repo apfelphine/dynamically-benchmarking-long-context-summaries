@@ -1,0 +1,7 @@
+**Star Trek: The Motion Picture**
+
+In the 23rd century, the USS *Enterprise* is tasked with intercepting a mysterious energy cloud approaching Earth. Former captain James T. Kirk, now an admiral, takes command of the ship despite opposition from his replacement, Captain Willard Decker. The crew faces a series of challenges, including a malfunctioning transporter that kills two officers, including Vulcan science officer Sonak, and improperly calibrated engines nearly destroying the ship. Kirk’s leadership and Decker’s technical expertise clash, leading to tension.
+
+The *Enterprise* intercepts the cloud, which is revealed to be a massive, sentient space probe named **V’Ger**, originally a NASA Voyager program probe that gained consciousness after being upgraded by an alien race. V’Ger seeks to return to its creator, believing humans are its purpose. Spock, who has been unable to complete a Vulcan ritual due to an emotional connection to V’Ger, attempts a telepathic mind meld with it, discovering that V’Ger is a non-biological life form. The probe’s mission is to learn everything possible and return to its creator, which V’Ger believes to be humans.
+
+The film culminates in a climactic confrontation where V’Ger merges with Decker, creating a new life form. The *Enterprise* crew, led by Kirk, escapes with Earth saved, and the ship is directed to continue its mission. The film explores themes of human ingenuity, the boundaries of technology, and the ethical implications of artificial intelligence.

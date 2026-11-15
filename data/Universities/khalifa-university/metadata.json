@@ -1,0 +1,27 @@
+{
+  "id": 37359708,
+  "title": "Khalifa University",
+  "url": "https://en.wikipedia.org/wiki/Khalifa_University",
+  "path": "Universities\\khalifa-university",
+  "summary": {
+    "chars": 280,
+    "tokens": 66
+  },
+  "document": {
+    "chars": 13621,
+    "tokens": 2605
+  },
+  "infobox": {
+    "title": "Khalifa University",
+    "data": {
+      "Motto": "Nurturing tomorrow\u2019s leaders.. Growing the knowledge economy",
+      "Type": "Public",
+      "Established": "2007",
+      "President": "Ebrahim Al Hajri",
+      "Students": "5,000+",
+      "Location": "Abu Dhabi, United Arab Emirates",
+      "Campus": "Urban",
+      "Website": "Khalifa University"
+    }
+  }
+}

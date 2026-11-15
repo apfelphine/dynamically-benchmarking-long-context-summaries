@@ -1,0 +1,11 @@
+An **autoencoder** is a neural network that learns to compress data into a latent space and reconstruct it, with two main components: an encoder that maps input to a code, and a decoder that reconstructs the input from the code. The quality of reconstruction is measured by a loss function, typically minimizing the difference between the original and reconstructed data.
+
+Key variations include:
+- **Variational Autoencoder (VAE)**: Uses probabilistic modeling with latent variables, where the latent space is a mixture of distributions. It maximizes the Evidence Lower Bound (ELBO), balancing reconstruction accuracy and the divergence between the learned latent distribution and a prior (e.g., Gaussian).
+- **Sparse Autoencoder (SAE)**: Encourages sparsity in the latent code, where only a few neurons are active, improving performance on classification tasks. Sparsity is enforced via k-sparse functions or sparsity regularization loss (e.g., KL divergence, L1/L2).
+- **Denoising Autoencoder (DAE)**: Trains on corrupted inputs to learn robust representations, aiming to recover the original data by reconstructing from noisy versions.
+- **Contractive Autoencoder (CAE)**: Adds a contractive regularization loss to penalize sensitivity to small input perturbations, promoting stable and robust feature extraction.
+- **Minimum Description Length (MDL) Autoencoder**: Applies information-theoretic principles to minimize the total description length of data, combining code length and reconstruction error.
+- **Concrete Autoencoder (CAE)**: For discrete feature selection, forces the latent space to contain only a user-specified number of features using a continuous relaxation of categorical distributions.
+
+Autoencoders are trained using gradient descent, often with backpropagation, and can be deep (multi-layered), offering advantages such as reduced computational cost, better compression, and improved feature learning. Their applications span dimensionality reduction, anomaly detection, image processing (e.g., denoising, super-resolution), drug discovery, machine translation, and communication systems. Modern applications include generative models like VAEs in Stable Diffusion and image generation.

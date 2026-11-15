@@ -1,0 +1,7 @@
+## Education in the United States
+
+### K-12 Education and Curriculum
+Education in the U.S. is governed by a mix of federal, state, and local policies, with states holding most of the control. Education is generally compulsory until age 16 (or 18 in some states). The K-12 system is divided into primary/elementary school (grades K/1–6) and secondary school (grades 9/10–12). Curriculum standards vary widely by district. Issues discussed include the inappropriateness of solely relying on standardized test scores for evaluation, as student performance is affected by in-school and out-of-school factors. Furthermore, curriculum debates exist over subject focus, with concerns that the emphasis on math and reading skills may neglect content knowledge.
+
+### Inequality and Higher Education
+The U.S. education system exhibits significant disparities in achievement based on race, ethnicity, income levels, and geography, leading to a racial achievement gap between Black and Hispanic students versus Asian and Caucasian students. Societal factors, such as socioeconomic background and institutional racism, are cited as contributing to these gaps. Higher education is largely optional after secondary schooling and is offered at thousands of colleges and universities, which range from large research institutions to smaller liberal arts colleges. However, higher education involves significant costs, evidenced by student loan debt exceeding $1.5 trillion, and the system features a large contingent of adjunct professors hired to manage financial resources.

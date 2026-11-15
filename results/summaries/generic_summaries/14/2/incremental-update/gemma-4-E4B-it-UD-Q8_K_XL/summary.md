@@ -1,0 +1,19 @@
+**Leading Research Universities:**
+
+**Stanford University:** An R1 Doctoral University (est. 1885) with a \$36.5 billion endowment, it has driven Silicon Valley's innovation in areas such as DNA synthesis, TCP/IP (Internet), and Google, maintaining a strong venture culture.
+
+**Caltech:** Established in 1891 as an R1 Doctoral University, Caltech emphasizes STEM and arts, contributing to significant scientific milestones like the atomic bomb, the Standard Model, and the LIGO observatory, with notable figures including Albert Einstein and Gordon Moore.
+
+**UC Berkeley:** Since 1868, this extensive institution spans 15 colleges and 180 departments, known for discoveries like carbon 14 and the Calvin cycle, breakthroughs in CRISPR gene editing, early computing (UNIX/BSD), and its involvement in social movements.
+
+**MIT:** Chartered in 1861, MIT balances practical and liberal education, pioneering advancements in digital circuit design (Claude Shannon), the RSA cryptosystem, Lisp, and electroweak unification theory; its alumni have founded companies such as Intel and BlackRock.
+
+**University of Chicago:** Founded in 1857 and modernized in 1890, this research-intensive institution uses a quarter system and hosts the Chicago School of Economics and Sociology. With 101 affiliated Nobel laureates, its 2024 budget was \$5.2 billion on \$20.3 billion in assets, though it currently faces a \$288 million deficit requiring budget reductions. Students must reside on campus for the initial six quarters.
+
+**Other Institutions:**
+
+**King's College London:** Affiliated with the University of London since 1836, this 19th-century institution is a major European hub for healthcare education, particularly in Medicine and Law, and attracts Nobel laureates.
+
+**Tsinghua University:** Ranked 8th globally by Times Higher Education, this university benefits from substantial government funding directed towards science, technology, and military research, excelling in fields like Computer Science, Physical Sciences, and Business & Economics.
+
+**Zhejiang University (ZJU):** A comprehensive, heavily government-funded national university in China, ZJU operates across seven campuses and covers eleven branches of learning. It is noted for its broad academic scope, strong programs like the Chu Kochen Honors College (CKHC), and extensive research across 12 disciplines. ZJU holds high global rankings, such as #24 in ARWU 2025 and #44 in QS World University Rankings 2024. Furthermore, it maintains high global standing with a 2024 aggregate ranking of #33 and top research output rankings (e.g., #3 in Nature Index 2025). ZJU supports a substantial student body and boasts many distinguished alumni, including Nobel laureates.

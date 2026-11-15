@@ -1,0 +1,10 @@
+# Global Education System Comparisons
+
+## National Structures and Administration
+Global education systems feature diverse administrative and structural models. For instance, Canada manages education provincially, while nations like Poland use an 8+4/5 structure with specialized tracks. Other systems include Saudi Arabia's comprehensive, government-managed framework rooted in Islamic tradition, and South Korea's highly competitive system driven by high-stakes testing (CSAT). Japan mandates compulsory education from ages 6 to 14, characterized by intense academic pressure often supplemented by private tutoring.
+
+## Systemic Challenges and Focus Areas
+Educational challenges worldwide vary significantly in scope. Financial constraints are a major issue in places like Pakistan, which struggles with low funding (near 2% of GDP) and completion rates. Other systemic hurdles include rote learning reliance in Bangladesh and issues with student outcome disparities in New Zealand. Some nations are actively reforming: Saudi Arabia is modernizing to emphasize critical thinking and vocational skills, while Russia is increasing state influence through mandatory patriotic education.
+
+## Higher Education and Specific Features
+Tertiary education pathways are highly varied internationally. Many European nations, such as Poland and the Czech Republic, adhere to the Bologna process, a framework also reflected in Mexico's higher education. Canada offers multiple routes through both universities and vocational/community colleges. Meanwhile, the Netherlands differentiates between research universities (WO) and applied science colleges (HBO). Alternative pathways exist globally, such as Islamic seminaries (*Madrasas*) in Pakistan.

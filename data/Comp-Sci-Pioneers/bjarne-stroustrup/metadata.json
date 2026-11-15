@@ -1,0 +1,29 @@
+{
+  "id": 3713,
+  "title": "Bjarne Stroustrup",
+  "url": "https://en.wikipedia.org/wiki/Bjarne_Stroustrup",
+  "path": "Comp-Sci-Pioneers\\bjarne-stroustrup",
+  "summary": {
+    "chars": 483,
+    "tokens": 141
+  },
+  "document": {
+    "chars": 8514,
+    "tokens": 2051
+  },
+  "infobox": {
+    "title": "Bjarne Stroustrup",
+    "data": {
+      "Born": "30 December 1950 \u00b7 Aarhus, Denmark",
+      "Alma mater": "- Aarhus University (Cand.scient.) - University of Cambridge (PhD)",
+      "Known for": "C++",
+      "Spouse": "Marian Tinson \u200b(m. 1975)\u200b",
+      "Children": "2",
+      "Awards": "- Grace Murray Hopper Award (1993) - ACM Fellow (1994) - IEEE Fellow (1994) - NAE Member (2004) - William Procter Prize for Scientific Achievement (2005) - Dr. Dobb's Excellence Award (2008) - Dahl\u2013Nygaard Prize (2015) - CHM Fellow (2015) - IET Faraday Medal (2017) - Charles Stark Draper Prize (2018) - Computer Pioneer Award (2018) - John Scott Medal (2018)",
+      "Institutions": "- Aarhus University - University of Cambridge - Texas A&M University - Bell Labs - Morgan Stanley - Columbia University",
+      "Thesis": "Communication and control in distributed computer systems (1979)",
+      "Doctoral advisor": "David Wheeler",
+      "Website": "stroustrup.com"
+    }
+  }
+}

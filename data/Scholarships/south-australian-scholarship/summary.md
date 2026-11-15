@@ -1,0 +1,1 @@
+The South Australian Scholarship of £200 for overseas study, tenable for four years, was awarded by the University of Adelaide from 1879 to 1886.

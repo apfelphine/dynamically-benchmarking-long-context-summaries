@@ -1,0 +1,22 @@
+{
+  "id": 7025539,
+  "title": "Education in the Philippines",
+  "url": "https://en.wikipedia.org/wiki/Education_in_the_Philippines",
+  "path": "Education-Systems\\education-in-the-philippines",
+  "summary": {
+    "chars": 1619,
+    "tokens": 328
+  },
+  "document": {
+    "chars": 81442,
+    "tokens": 15145
+  },
+  "infobox": {
+    "title": "- Department of Education (DepEd) - Commission on Higher Education (CHED) - Technical Education and Skills Development Authority (TESDA)",
+    "data": {
+      "Secretary of Education": "Sonny Angara",
+      "Chairperson of CHED": "Shirley C. Agrupis",
+      "Director-General of TESDA": "Jose Francisco B. Benitez"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+## Summary on "King's Scholar"
+
+The title "King's Scholar" historically dates back to 7 July 1317 when King Edward II sent 12 boys from his household to study at the University of Cambridge, funded by the Crown. Later, in 1440, King Henry VI founded Eton College as a charity school to educate "poor, scholarly boys," establishing King's Scholars there. At Eton, King's Scholars (also called "Collegers" or colloquially "tugs") are students who pass a competitive examination and receive a Foundation Scholarship, living in the original College buildings. Approximately 70 King's Scholars, admitted around age 13, enjoy distinct traditions including wearing a black gown and eating in College Hall. The scholarship historically covered full fees but is now subject to means testing. King's Scholars append the post-nominal letters KS in school lists. Notable Eton King's Scholars include historical figures such as Prime Ministers Harold Macmillan and Boris Johnson, writer George Orwell, economist John Maynard Keynes, and mathematician Timothy Gowers.
+
+At Westminster School, foundation scholars are called King's Scholars or Queen's Scholars depending on the reigning monarch. These scholars board in the oldest house, the College, and wear gowns during Abbey services.
+
+At King's College Cambridge, the term King's Scholar refers to undergraduates who achieve first-class degrees, awarded a monetary prize and invited to special ceremonies, a tradition linked to the college's royal foundation.
+
+Additionally, several historic English King's Schools (Canterbury, Chester, Ely, Gloucester, Peterborough, Rochester, Worcester) award King's Scholarships primarily recognizing academic or musical excellence, often with fee discounts. These scholarships carry privileges such as membership in cathedral foundations, wearing special gowns or ties, the right to marry or be buried in cathedral grounds, and participation in traditional ceremonies, as detailed at King's Ely, Canterbury, and Worcester.
+
+Overall, the title "King's Scholar" remains a prestigious academic distinction with deep historical roots and distinguished traditions in prominent UK educational institutions.

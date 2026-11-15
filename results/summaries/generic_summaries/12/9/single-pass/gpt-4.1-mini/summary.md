@@ -1,0 +1,53 @@
+# Studienstiftung des deutschen Volkes  
+Founded in 1925 in Dresden, the Studienstiftung was dissolved under National Socialism in 1934 and re-established in 1948 as a registered association in Cologne. It offers merit-based scholarships providing financial (allowances and insurance subsidies) and academic support (summer schools, workshops, mentoring) to highly talented German and international students and doctoral candidates studying full-time in Germany, the EU, or Switzerland. Admissions occur via school or professor nominations, competitions, assessment tests, and alumni referrals. In 2023, around 14,888 students—including 1,262 doctoral scholars—held scholarships. Notable alumni span natural sciences (several Nobel laureates), social sciences, politics, arts, and business.
+
+# Thurgood Marshall College Fund (TMCF)  
+Established in 1987, TMCF supports public Historically Black Colleges and Universities (HBCUs) and their students, raising over $500 million for scholarships and institutional support. It differs from the United Negro College Fund by focusing on 55 member institutions, including universities, law schools, medical schools, and community colleges. Key funders have included Apple and Boeing. TMCF acquired the Opportunity Funding Corporation in 2013 to boost entrepreneurship programs. Its membership spans 42 HBCUs and other predominantly Black and technical institutions across the United States.
+
+# Shuping Scholarship  
+Founded in Shanghai in 1939 by businessman-philanthropist Koo, the Shuping Scholarship supports academically excellent students from poor families. Initially awarding 300 students with full tuition, it incorporated facilities like libraries, laboratories, and free medical care, fostered community service, and aided refugee children and medical emergency funds during wartime. After a hiatus during political upheavals, it was revived in 1986, spreading to multiple cities and schools, sustaining over 6,000 scholars by 2000. The scholarship’s administration remains alumni-led, supported by a HK$10 million endowment and charitable foundation.
+
+# UNCF (United Negro College Fund)  
+Founded in 1944 by prominent African American leaders, UNCF provides scholarships and institutional funding to historically Black colleges/universities and their students. It has awarded over $113 million annually and counts numerous influential alumni across fields such as civil rights, politics, arts, and medicine. Fundraising efforts include notable donations from President John F. Kennedy and Walter Annenberg, and the annual Lou Rawls telethon. Major recent donors include Netflix founder Reed Hastings and the Lilly Endowment.
+
+# Harkness Fellowship  
+Established in 1925 by the Commonwealth Fund, the Harkness Fellowships enable graduates from participating countries (Australia, Canada, UK, Germany, and others) to conduct 12-month health care policy research in the U.S. Fellows engage with American institutions, attend seminars, and build international networks. The fellowship is highly prestigious with notable alumni from diverse fields including academia, arts, law, and science.
+
+# Bolashak Scholarship (Kazakhstan)  
+Created in 1993 by President Nursultan Nazarbayev, Bolashak funds Kazakhstani students to study abroad in leading universities worldwide to foster Western democratic values. By 2018, over 12,800 scholarships had been awarded, with recipients employed in government and national companies. The scholarship primarily favors ethnic Kazakhs due to language requirements. It supports studies in dozens of countries and prominent global universities.
+
+# Margaret Busby New Daughters of Africa Award  
+Originating from the acclaimed anthology "Daughters of Africa" (1992) edited by Margaret Busby, this literary collection showcases writings by women of African descent worldwide. The New Daughters of Africa (2019) expands this legacy with over 200 contributors, focusing on generational and diasporic connections. The anthology is highly praised and linked to initiatives like the Margaret Busby New Daughters of Africa Award supporting African women students through scholarships and book donations.
+
+# National Merit Scholarship Program  
+An academic merit-based U.S. scholarship program using the PSAT/NMSQT to identify high school juniors for recognition and awards. About 1.5 million enter annually, with stages of Commended, Semifinalist, Finalist, and Scholarship winner. Scholarships vary from corporate-sponsored to college-sponsored awards. The program has been critiqued for relying heavily on standardized testing and transparency issues. Notable alumni include Bill Gates, Paul Krugman, and Jeff Bezos.
+
+# Rhodes Scholarship  
+Founded in 1902 by Cecil Rhodes to promote unity among English-speaking countries and diplomatic ties, the Rhodes Scholarship supports postgraduate study at Oxford University worldwide. It selects recipients based on academic excellence, character, leadership, and public service potential. Historically male-only and exclusionary by race, it admitted women starting in 1977 and diversified internationally. With an acceptance rate around 0.7%, it is one of the most competitive scholarships globally. Recipients have notable impacts in politics, human rights, science, and the arts. The scholarship has faced controversies over Rhodes’s legacy and the makeup of scholars but continues as a prestigious program.
+
+# Bright Futures Scholarship Program (Florida)  
+Launched to provide merit-based scholarships to Florida high school graduates without financial need criteria, Bright Futures covers varying portions of tuition and fees based on academic performance (GPA and standardized test scores) and community service/work hours. After funding cuts and raised eligibility standards since 2011, recipients declined and racial disparities emerged. The program funds several scholarship levels, renewable up to five years with academic requirements. Recently, testing acceptance expanded to include the Classic Learning Test (CLT).
+
+# British Council  
+Founded in 1934 as a UK government cultural and educational promotion agency, the British Council operates in over 100 countries to promote English language, UK culture, and educational cooperation. It administers English tests like IELTS and runs programs like Education UK and Erasmus+. The Council has faced controversies including office closures in Russia and Syria, outsourcing criticism, financial scrutiny, and security incidents worldwide. It engages in arts, cultural diplomacy, and education initiatives but also confronts political and organizational challenges.
+
+# Kennedy Scholarship  
+Established in 1964 as a memorial to U.S. President John F. Kennedy, the Kennedy Scholarship enables British students to study at Harvard or MIT. Selection emphasizes intellectual attainment, readiness, originality, public service commitment, and adversity overcoming. Supported by the Kennedy family and UK government, about 600 scholars have been awarded. Alumni include prominent politicians, academics, and journalists.
+
+# Fulbright Program  
+Founded in 1946 by U.S. Senator J. William Fulbright, it is a worldwide educational exchange program promoting peace through mutual understanding. It offers grants and scholarships for study, research, teaching, and professional exchanges for U.S. and international students and scholars. Administered by the U.S. Department of State, it includes student, scholar, teacher, and professional grants across disciplines, with over 325,000 alumni including Nobel laureates and heads of state. The program faces recent challenges including political interference allegations and suspension in Russia.
+
+# Norway Scholarship  
+Founded in 1919 to enable Norwegian students to study at Oxford University (Wadham College), the Norway Scholarship promotes cultural exchange and educational ties. Funded through donations and university support, it has faced funding challenges but continues annual awards with activities and lectures. King Harald V of Norway is among notable affiliates. Recipients study diverse subjects at Oxford and maintain engagement through alumni societies.
+
+# Miss America  
+Dating back to 1921 as a beauty and talent pageant in Atlantic City, Miss America evolved to emphasize scholarships and talent over physical appearance. It faced criticism and protests over racial and gender issues, including exclusion and later inclusion of minorities. The pageant shifted formats over time, notably with the 2018 "Miss America 2.0" removing swimsuit competitions, before reversing some changes in 2023. The organization encountered scandals and leadership changes. It remains a scholarship provider with notable past winners in various fields.
+
+# King's Scholar  
+Originating in 1317 with royal sponsorship of students at Cambridge, King's Scholars are traditionally high-achieving students selected through competitive exams, notably at institutions like Eton College and Westminster School. At Eton, King's Scholars live in the historic College house, enjoy traditions, and may receive financial support. Similar scholarships exist at King's College Cambridge and several historic King's Schools in England. Notable King's Scholars include political leaders, academics, writers, and scientists.
+
+# Marshall Scholarship  
+Established in 1953 as a living memorial to U.S. Secretary of State George C. Marshall, this scholarship funds American students for graduate study at any UK university. It aims to strengthen US-UK relations and reward academic excellence, leadership, and ambassadorial potential. Highly selective, it competes with the Rhodes Scholarship and offers more flexibility in university choice and program length. The Association of Marshall Scholars organizes dialogues on transatlantic issues. Alumni include Nobel laureates, government officials, academics, and cultural leaders.
+
+# Edmund S. Muskie Internship Program  
+Named after Edmund S. Muskie (1914–1996), a prominent American politician and environmental advocate, this U.S. State Department-sponsored program provides summer internships and career support to Eurasian scholars studying in the U.S. Muskie had a distinguished career as Maine governor, U.S. Senator, Secretary of State, and was a key figure in environmental legislation (Clean Air and Clean Water Acts), civil rights, and budget reform. The program honors his legacy of public service and international cooperation.

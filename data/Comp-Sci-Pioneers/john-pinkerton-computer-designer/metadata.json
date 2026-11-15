@@ -1,0 +1,21 @@
+{
+  "id": 2741316,
+  "title": "John Pinkerton (computer designer)",
+  "url": "https://en.wikipedia.org/wiki/John_Pinkerton_(computer_designer)",
+  "path": "Comp-Sci-Pioneers\\john-pinkerton-computer-designer",
+  "summary": {
+    "chars": 237,
+    "tokens": 58
+  },
+  "document": {
+    "chars": 4644,
+    "tokens": 950
+  },
+  "infobox": {
+    "title": "John Pinkerton",
+    "data": {
+      "Citizenship": "British",
+      "Institutions": "Air Ministry Research Establishment \u00b7 Telecommunications Research Establishment \u00b7 English Electric Computers \u00b7 ICL"
+    }
+  }
+}

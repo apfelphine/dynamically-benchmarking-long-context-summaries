@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding "Education in Nigeria." The text sections available cover education in Norway, Sweden, Armenia, Hong Kong, Indonesia, Ghana, Egypt, England, Sri Lanka, France, Israel, Turkey, the Republic of Ireland, and Taiwan.

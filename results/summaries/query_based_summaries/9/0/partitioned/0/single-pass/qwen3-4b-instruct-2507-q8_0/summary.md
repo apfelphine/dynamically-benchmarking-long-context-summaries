@@ -1,0 +1,12 @@
+**Education in Pakistan**  
+Pakistan's formal education system follows an English-inspired structure, beginning with pre-school (ages 3–5) and progressing through primary (grades 1–8), secondary (grades 9–12), and tertiary education. Primary education is not universally completed, with only 67.5% of children finishing, and is marked by a gender disparity, where males outperform females in enrollment and literacy. Female literacy stands at 42%, compared to 67% for males, and girls face systemic barriers including cultural norms, lack of infrastructure, and lower access to education.  
+
+Secondary education culminates in national exams (SSC and HSSC), with students entering intermediate colleges to pursue streams in pre-medical, pre-engineering, or humanities. Alternative qualifications like GCE and IGCSE are offered by private institutions. Technical education includes vocational training through boards like PBTE and SBTE, leading to diplomas in engineering and other fields.  
+
+Tertiary education is limited, with only 6% of the population holding university degrees, though efforts aim to increase this to 15% by 2020. Universities offer degrees in arts, sciences, and professional fields, with a shift toward Honours programs. Teacher education remains underdeveloped, with many programs lacking qualified faculty and practical training.  
+
+Non-formal education includes vocational training, apprenticeships, and madrassas—Islamic seminaries—common among poor families due to their provision of free food and shelter. Madrassas dominate in rural areas and are criticized for promoting religious extremism and rote memorization.  
+
+The education system faces challenges including outdated curricula, poor teacher quality, and underfunding, with public expenditure at only 2% of GDP. Despite policy goals to increase spending to 7%, implementation has been inconsistent. The system also struggles with gender inequality, religious influence in curricula, and a lack of scientific literacy.  
+
+Notable achievements include Nobel laureates like Abdus Salam and Nergis Mavalvala, and prominent scientists such as Atta-ur-Rahman and Ayub Ommaya, highlighting the country’s potential in science and technology. However, persistent issues in access, quality, and equity remain.

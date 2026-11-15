@@ -1,0 +1,25 @@
+{
+  "id": 66072656,
+  "title": "Algorithmic Justice League",
+  "url": "https://en.wikipedia.org/wiki/Algorithmic_Justice_League",
+  "path": "AI-Regulations\\algorithmic-justice-league",
+  "summary": {
+    "chars": 733,
+    "tokens": 145
+  },
+  "document": {
+    "chars": 7745,
+    "tokens": 1496
+  },
+  "infobox": {
+    "title": "Algorithmic Justice League",
+    "data": {
+      "Abbreviation": "AJL",
+      "Formation": "2016",
+      "Founder": "Joy Buolamwini",
+      "Purpose": "AI activism",
+      "Location": "- Cambridge, Massachusetts",
+      "Website": "www.ajl.org"
+    }
+  }
+}

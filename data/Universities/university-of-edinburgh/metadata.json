@@ -1,0 +1,37 @@
+{
+  "id": 23592200,
+  "title": "University of Edinburgh",
+  "url": "https://en.wikipedia.org/wiki/University_of_Edinburgh",
+  "path": "Universities\\university-of-edinburgh",
+  "summary": {
+    "chars": 2699,
+    "tokens": 545
+  },
+  "document": {
+    "chars": 74142,
+    "tokens": 15427
+  },
+  "infobox": {
+    "title": "University of Edinburgh",
+    "data": {
+      "Former names": "Tounis College \u00b7 King James' College",
+      "Type": "Public research university \u00b7 Ancient university",
+      "Established": "1583",
+      "Academic affiliation": "ACU Coimbra Group EUA LERU Russell Group Una Europa UNICA Universitas 21 URA Universities Scotland Universities UK",
+      "Endowment": "\u00a3580.4 million (2024)",
+      "Budget": "\u00a31.386 billion (2023/24)",
+      "Chancellor": "Anne, Princess Royal",
+      "Rector": "Simon Fanshawe",
+      "Principal and Vice-Chancellor": "Sir Peter Mathieson",
+      "Academic staff": "5,401 FTE (2024)",
+      "Administrative staff": "7,207 FTE (2024)",
+      "Students": "40,625 (2023/24) \u00b7 36,260 FTE (2023/24)",
+      "Undergraduates": "26,215 (2023/24)",
+      "Postgraduates": "14,405 (2023/24)",
+      "Location": "Edinburgh, Scotland, UK \u00b7 55\u00b057\u2032N 3\u00b011\u2032W\ufeff / \ufeff55.950\u00b0N 3.183\u00b0W",
+      "Campus": "Urban, suburban",
+      "Colours": "Red Blue",
+      "Website": "www.ed.ac.uk"
+    }
+  }
+}

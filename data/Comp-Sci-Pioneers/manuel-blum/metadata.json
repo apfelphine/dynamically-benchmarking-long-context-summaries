@@ -1,0 +1,30 @@
+{
+  "id": 308357,
+  "title": "Manuel Blum",
+  "url": "https://en.wikipedia.org/wiki/Manuel_Blum",
+  "path": "Comp-Sci-Pioneers\\manuel-blum",
+  "summary": {
+    "chars": 269,
+    "tokens": 51
+  },
+  "document": {
+    "chars": 2209,
+    "tokens": 497
+  },
+  "infobox": {
+    "title": "Manuel Blum",
+    "data": {
+      "Born": "26 April 1938 \u00b7 Caracas, Venezuela",
+      "Education": "Massachusetts Institute of Technology (BS, MS, PhD)",
+      "Known for": "Blum complexity axioms \u00b7 Blum integer \u00b7 Blum's speedup theorem \u00b7 Blum Blum Shub \u00b7 Blum\u2013Goldwasser cryptosystem \u00b7 Blum\u2013Micali algorithm \u00b7 CAPTCHA \u00b7 reCAPTCHA \u00b7 Commitment scheme",
+      "Spouse": "Lenore Blum",
+      "Awards": "ACM's A.M. Turing Award, 1995 \u00b7 Distinguished Teaching Award, UC Berkeley, 1977 \u00b7 Sigma Xi's Monie A. Ferst Award, 1991 \u00b7 Herbert A.Simon Teaching award, 2007",
+      "Fields": "Computer science",
+      "Institutions": "University of California, Berkeley \u00b7 Carnegie Mellon University",
+      "Thesis": "A Machine-Independent Theory of the Complexity of Recursive Functions (1964)",
+      "Doctoral advisor": "Marvin Minsky",
+      "Doctoral students": "Leonard Adleman \u00b7 Dana Angluin \u00b7 C. Eric Bach \u00b7 Shafi Goldwasser \u00b7 Mor Harchol-Balter \u00b7 Russell Impagliazzo \u00b7 Silvio Micali \u00b7 Gary Miller \u00b7 Moni Naor \u00b7 Ronitt Rubinfeld \u00b7 Steven Rudich \u00b7 Jeffrey Shallit \u00b7 Michael Sipser \u00b7 Umesh Vazirani \u00b7 Vijay Vazirani \u00b7 Luis von Ahn \u00b7 Ryan Williams",
+      "Website": "www.cs.cmu.edu/~mblum"
+    }
+  }
+}

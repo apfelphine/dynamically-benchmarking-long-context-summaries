@@ -1,0 +1,1 @@
+Mukhyamantri Vigyan Pratibha Pariksha is an Indian scholarship exam conducted each January by the Science Branch of the Directorate of Education in Delhi. It is open to students of recognized schools in Delhi. 1000 students per year are awarded the scholarship.

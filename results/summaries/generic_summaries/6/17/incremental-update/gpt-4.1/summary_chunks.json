@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\nLynn Conway was a pioneering computer scientist, engineer, and transgender rights advocate who transformed VLSI chip design and automation. Despite facing discrimination, notably being dismissed from IBM during her transition, Conway made major contributions at Xerox PARC, MIT, DARPA, and the University of Michigan. She championed ethical reform, inclusion in STEM, and supported marginalized communities. Conway received numerous honors, including the National Inventors Hall of Fame induction, and passed away in June 2024 at age 86.",
+        "text_original": "Lynn Conway was a pioneering computer scientist, engineer, and transgender rights advocate who transformed VLSI chip design and automation. Despite facing discrimination, notably being dismissed from IBM during her transition, Conway made major contributions at Xerox PARC, MIT, DARPA, and the University of Michigan. She championed ethical reform, inclusion in STEM, and supported marginalized communities. Conway received numerous honors, including the National Inventors Hall of Fame induction, and passed away in June 2024 at age",
+        "idx_start": 16,
+        "idx_end": 549
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\nDonald Knuth is renowned for *The Art of Computer Programming* , inventing TeX and METAFONT, advancing literate programming, and promoting human-readable code. He opposed trivial software patents and earned distinctions including the Turing Award, National Medal of Science, and Kyoto Prize.",
+        "text_original": "Donald Knuth is renowned for *The Art of Computer Programming*, inventing TeX and METAFONT, advancing literate programming, and promoting human-readable code. He opposed trivial software patents and earned distinctions including the Turing Award, National Medal of Science, and Kyoto Prize",
+        "idx_start": 572,
+        "idx_end": 861
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\nKurt G\u00f6del (1906\u20131978) revolutionized logic and mathematics with his completeness and incompleteness theorems, revealing limits of formal systems. He impacted logic and physics, held prominent roles at the University of Vienna and Princeton\u2019s IAS, and left a legacy of major awards and institutes.",
+        "text_original": "Kurt G\u00f6del (1906\u20131978) revolutionized logic and mathematics with his completeness and incompleteness theorems, revealing limits of formal systems. He impacted logic and physics, held prominent roles at the University of Vienna and Princeton\u2019s IAS, and left a legacy of major awards and institutes",
+        "idx_start": 879,
+        "idx_end": 1175
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\nClaude Shannon founded information theory, transforming digital circuits, communications, and coding theory with his 1948 paper. He contributed to cryptography, AI, and received the National Medal of Science, IEEE Medal of Honor, and Claude E. Shannon Award.",
+        "text_original": "Claude Shannon founded information theory, transforming digital circuits, communications, and coding theory with his 1948 paper. He contributed to cryptography, AI, and received the National Medal of Science, IEEE Medal of Honor, and Claude E. Shannon Award",
+        "idx_start": 1197,
+        "idx_end": 1454
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\nIsmail al-Jazari (1136\u2013early 13th century) was a pioneering engineer whose mechanical innovations\u2014including the crankshaft, segmental gears, and conical valves\u2014were milestones in automation. His 1206 book described advanced machines and automata, influencing technology in both the Islamic and European worlds.",
+        "text_original": "Ismail al-Jazari (1136\u2013early 13th century) was a pioneering engineer whose mechanical innovations\u2014including the crankshaft, segmental gears, and conical valves\u2014were milestones in automation. His 1206 book described advanced machines and automata, influencing technology in both the Islamic and European worlds",
+        "idx_start": 1478,
+        "idx_end": 1787
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\nEdsger W. Dijkstra was a leading Dutch computer scientist known for advancing programming theory, structured programming, and education; he developed influential algorithms, operating systems, compilers, and advocated disciplined programming. He received the Turing Award.",
+        "text_original": "Edsger W. Dijkstra was a leading Dutch computer scientist known for advancing programming theory, structured programming, and education; he developed influential algorithms, operating systems, compilers, and advocated disciplined programming. He received the Turing Award",
+        "idx_start": 1813,
+        "idx_end": 2084
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\nGeoffrey Hinton is a key figure in AI, renowned for work on neural networks, backpropagation, Boltzmann machines, and brain-inspired AI. Associated with the University of Toronto and Google, he trained leading researchers, championed AI safety and universal basic income, won the Turing Award and Nobel Prize in Physics, and descends from George Boole.",
+        "text_original": "Geoffrey Hinton is a key figure in AI, renowned for work on neural networks, backpropagation, Boltzmann machines, and brain-inspired AI. Associated with the University of Toronto and Google, he trained leading researchers, championed AI safety and universal basic income, won the Turing Award and Nobel Prize in Physics, and descends from George Boole",
+        "idx_start": 2107,
+        "idx_end": 2458
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\nHerbert A. Simon (1916\u20132001) advanced AI, cognitive psychology, economics, and organizational theory, introducing bounded rationality and behavioral economics. He co-developed key AI programs, published landmark texts, and won the Nobel Prize in Economics, Turing Award, and National Medal of Science.",
+        "text_original": "Herbert A. Simon (1916\u20132001) advanced AI, cognitive psychology, economics, and organizational theory, introducing bounded rationality and behavioral economics. He co-developed key AI programs, published landmark texts, and won the Nobel Prize in Economics, Turing Award, and National Medal of Science",
+        "idx_start": 2482,
+        "idx_end": 2782
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\nGeorge Antheil was an innovative composer and inventor, known for avant-garde music, Hollywood scores, endocrinology research, and with Hedy Lamarr, the invention of frequency-hopping radio technology foundational to wireless communications.",
+        "text_original": "George Antheil was an innovative composer and inventor, known for avant-garde music, Hollywood scores, endocrinology research, and with Hedy Lamarr, the invention of frequency-hopping radio technology foundational to wireless communications",
+        "idx_start": 2804,
+        "idx_end": 3044
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\nPer Brinch Hansen was a pioneering Danish computer scientist in operating systems, concurrent and distributed computing. He developed the RC 4000 system, introduced OS kernel concepts, co-invented the monitor abstraction, and wrote influential textbooks, earning the IEEE Computer Pioneer Award.",
+        "text_original": "Per Brinch Hansen was a pioneering Danish computer scientist in operating systems, concurrent and distributed computing. He developed the RC 4000 system, introduced OS kernel concepts, co-invented the monitor abstraction, and wrote influential textbooks, earning the IEEE Computer Pioneer Award",
+        "idx_start": 3069,
+        "idx_end": 3363
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\nRamon Llull (1232/3\u20131315/6) was a Catalan philosopher and missionary whose \"Ars Magna\" synthesized theology, philosophy, and logic using combinatorial methods, influencing computer science, electoral theory, and figures like Nicholas of Cusa and Leibniz.",
+        "text_original": "Ramon Llull (1232/3\u20131315/6) was a Catalan philosopher and missionary whose \"Ars Magna\" synthesized theology, philosophy, and logic using combinatorial methods, influencing computer science, electoral theory, and figures like Nicholas of Cusa and Leibniz",
+        "idx_start": 3382,
+        "idx_end": 3635
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\nAl-Khwarizmi, a pivotal Persian mathematician at Baghdad\u2019s House of Wisdom, founded algebra, introduced algorithmic methods and Hindu-Arabic numerals, contributed to astronomy and geography, and coined the term \u201calgorithm.\u201d",
+        "text_original": "Al-Khwarizmi, a pivotal Persian mathematician at Baghdad\u2019s House of Wisdom, founded algebra, introduced algorithmic methods and Hindu-Arabic numerals, contributed to astronomy and geography, and coined the term \u201calgorithm",
+        "idx_start": 3655,
+        "idx_end": 3876
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\nGeorge Boole (1815\u20131864) founded Boolean algebra, crucial for mathematics, computer science, and digital circuit design, revolutionized symbolic logic, authored key texts, and linked mathematics with philosophy and religion; his legacy and lineage remain influential.",
+        "text_original": "George Boole (1815\u20131864) founded Boolean algebra, crucial for mathematics, computer science, and digital circuit design, revolutionized symbolic logic, authored key texts, and linked mathematics with philosophy and religion; his legacy and lineage remain influential",
+        "idx_start": 3897,
+        "idx_end": 4163
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\nGottlob Frege (1848\u20131925) was a foundational logician whose works\u2014 *The Foundations of Arithmetic* , *Begriffsschrift* \u2014grounded arithmetic in logic and shaped modern logic and philosophy of language. He survived Russell\u2019s paradox and remains influential despite personal antisemitism.",
+        "text_original": "Gottlob Frege (1848\u20131925) was a foundational logician whose works\u2014*The Foundations of Arithmetic*, *Begriffsschrift*\u2014grounded arithmetic in logic and shaped modern logic and philosophy of language. He survived Russell\u2019s paradox and remains influential despite personal antisemitism",
+        "idx_start": 4184,
+        "idx_end": 4465
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\nKenneth E. Iverson (1920\u20132004) was a Canadian mathematician and computer scientist who created APL and J languages, introduced the fork operator, wrote major educational material, and earned the Turing Award, IBM Fellowship, and US National Academy of Engineering membership.",
+        "text_original": "Kenneth E. Iverson (1920\u20132004) was a Canadian mathematician and computer scientist who created APL and J languages, introduced the fork operator, wrote major educational material, and earned the Turing Award, IBM Fellowship, and US National Academy of Engineering membership",
+        "idx_start": 4491,
+        "idx_end": 4765
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\nGrace Hopper, a trailblazing computer scientist and U.S. Navy rear admiral, created the first compiler and pioneered languages like FLOW-MATIC and COBOL. She advocated English-like programming, popularized \"debugging,\" mentored technologists, contributed to Defense Department computing standards, and received extensive honors including the Presidential Medal of Freedom and National Medal of Technology. Hopper delivered impactful lectures, championed education, and is commemorated through scholarships, awards, and infrastructure. She died in 1992 and remains celebrated in computing.",
+        "text_original": "Grace Hopper, a trailblazing computer scientist and U.S. Navy rear admiral, created the first compiler and pioneered languages like FLOW-MATIC and COBOL. She advocated English-like programming, popularized \"debugging,\" mentored technologists, contributed to Defense Department computing standards, and received extensive honors including the Presidential Medal of Freedom and National Medal of Technology. Hopper delivered impactful lectures, championed education, and is commemorated through scholarships, awards, and infrastructure. She died in 1992 and remains celebrated in computing",
+        "idx_start": 4785,
+        "idx_end": 5372
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\nJacek Karpi\u0144ski (1927\u20132010) was a pioneering Polish computer engineer who developed the AAH for meteorology, AKAT-1\u2014the first transistor-based equation analyzer, Poland\u2019s first perceptron, and the fast KAR-65 computer. His K-202 minicomputer broke ground but faced censorship and political resistance. Only 30 units were produced; debate surrounds its innovation and failure. Later, he moved to Switzerland, advised on computer science, but his subsequent inventions were unsuccessful. He received Polish honors and was controversially a state informant later surveilled by authorities.",
+        "text_original": "Jacek Karpi\u0144ski (1927\u20132010) was a pioneering Polish computer engineer who developed the AAH for meteorology, AKAT-1\u2014the first transistor-based equation analyzer, Poland\u2019s first perceptron, and the fast KAR-65 computer. His K-202 minicomputer broke ground but faced censorship and political resistance. Only 30 units were produced; debate surrounds its innovation and failure. Later, he moved to Switzerland, advised on computer science, but his subsequent inventions were unsuccessful. He received Polish honors and was controversially a state informant later surveilled by authorities",
+        "idx_start": 5395,
+        "idx_end": 5980
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\nFederico Faggin is an Italian-American physicist, engineer, and inventor best known for leading the design and development of the Intel 4004, the world's first commercial microprocessor. He pioneered MOS silicon gate technology, contributed foundational papers and patents in microelectronics, and led development of other Intel microprocessors (8008, 4040, 8080). Faggin co-founded Zilog (Z80, Z8 microprocessors), founded Synaptics (innovating touchpad and touchscreen tech), and Foveon (advancing image sensors). His research extends to artificial intelligence and consciousness, and he argues consciousness is a unique quantum phenomenon. He established a foundation for consciousness research and published technical books and articles. Faggin has received the Marconi Fellowship, National Medal of Technology and Innovation, Kyoto Prize, multiple honorary doctorates, and other honors for his profound impact on computing and science.",
+        "text_original": "Federico Faggin is an Italian-American physicist, engineer, and inventor best known for leading the design and development of the Intel 4004, the world's first commercial microprocessor. He pioneered MOS silicon gate technology, contributed foundational papers and patents in microelectronics, and led development of other Intel microprocessors (8008, 4040, 8080). Faggin co-founded Zilog (Z80, Z8 microprocessors), founded Synaptics (innovating touchpad and touchscreen tech), and Foveon (advancing image sensors). His research extends to artificial intelligence and consciousness, and he argues consciousness is a unique quantum phenomenon. He established a foundation for consciousness research and published technical books and articles. Faggin has received the Marconi Fellowship, National Medal of Technology and Innovation, Kyoto Prize, multiple honorary doctorates, and other honors for his profound impact on computing and science",
+        "idx_start": 6003,
+        "idx_end": 6942
+    }
+]

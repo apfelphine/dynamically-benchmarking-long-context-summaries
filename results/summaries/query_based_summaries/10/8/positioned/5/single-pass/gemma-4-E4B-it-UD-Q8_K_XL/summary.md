@@ -1,0 +1,6 @@
+The provided text contains information exclusively regarding Education in Nigeria.
+
+**Primary and Secondary Education in Nigeria:**
+Primary education generally begins around age 5, spanning six years, resulting in a first school-leaving certificate. The curriculum includes subjects like Mathematics, English language, and religious knowledge (Christian or Islamic). Before 1976, policy was influenced by British colonial rules; in 1999, the Universal Basic Education (UBE) was established, which covers nine years of schooling (six years of Primary School and three years of Junior Secondary School), making it "free," "compulsory," and a "right" for every child.
+
+Secondary education follows primary school and leads to tertiary levels. The system transitioned from a five-year period before 1982 to the current "6-3-3-4" structure, involving three years of Junior Secondary School (JSS) and three years of Senior Secondary School (SSS). The SSS curriculum features core subjects (English, Mathematics, Economics, Civic Education) alongside electives. Federal-sponsored secondary schools are managed by the Federal Government and are viewed as elite due to merit-based admission via the National Common Entrance Examination, while state-sponsored schools are managed by state governments and often face budgetary constraints.

@@ -1,0 +1,22 @@
+{
+  "id": 81659348,
+  "title": "Daniel Wolfe",
+  "url": "https://en.wikipedia.org/wiki/Daniel_Wolfe",
+  "path": "AI-Regulations\\daniel-wolfe",
+  "summary": {
+    "chars": 367,
+    "tokens": 64
+  },
+  "document": {
+    "chars": 7300,
+    "tokens": 1418
+  },
+  "infobox": {
+    "title": "Daniel Wolfe",
+    "data": {
+      "Born": "1960 (age 64\u201365)",
+      "Occupation(s)": "Activist, advocate, writer, health policy expert",
+      "Known for": "HIV/AIDS activism, harm reduction, community health, AI in health"
+    }
+  }
+}

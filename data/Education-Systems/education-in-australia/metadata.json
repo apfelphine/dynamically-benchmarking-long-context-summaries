@@ -1,0 +1,20 @@
+{
+  "id": 51171,
+  "title": "Education in Australia",
+  "url": "https://en.wikipedia.org/wiki/Education_in_Australia",
+  "path": "Education-Systems\\education-in-australia",
+  "summary": {
+    "chars": 727,
+    "tokens": 122
+  },
+  "document": {
+    "chars": 72321,
+    "tokens": 11723
+  },
+  "infobox": {
+    "title": "Australian Government",
+    "data": {
+      "Minister for Education": "Jason Clare"
+    }
+  }
+}

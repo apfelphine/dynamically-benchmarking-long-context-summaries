@@ -1,0 +1,6 @@
+The Queen Silvia Nursing Award (QSNA) is a yearly prize for nursing talent that was established by Swedish Care International and Ideella föreningen Forum for Elderly Care. The focus of the Award is to showcase new ideas and innovations stemming from nurses with the expressed mission to raise the quality of care for older adults and people living with dementia. 
+Every year, nurse and nursing student applicants in the Queen Silvia Nursing Award network have the opportunity to submit their proposals to improve elderly care and dementia care. 
+The application process has generated thousands of proposals within geriatric and dementia care. 
+Winners receive a 6000 Euro cash prize as well as international networking and learning opportunities with network partners. 
+The first Queen Silvia Nursing Award scholar was announced on 23 December 2013 to coincide with Her Majesty Queen Silvia of Sweden's 70th birthday. 
+As of January 2025, there are 56 Queen Silvia Nursing Award laureates in 7 countries.

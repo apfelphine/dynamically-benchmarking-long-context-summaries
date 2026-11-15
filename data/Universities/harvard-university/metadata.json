@@ -1,0 +1,42 @@
+{
+  "id": 18426501,
+  "title": "Harvard University",
+  "url": "https://en.wikipedia.org/wiki/Harvard_University",
+  "path": "Universities\\harvard-university",
+  "summary": {
+    "chars": 2581,
+    "tokens": 494
+  },
+  "document": {
+    "chars": 32797,
+    "tokens": 6768
+  },
+  "infobox": {
+    "title": "Harvard University",
+    "data": {
+      "Former names": "New College \u00b7 Harvard College",
+      "Motto": "Veritas (Latin)",
+      "Motto in English": "\"Truth\"",
+      "Type": "Private research university",
+      "Established": "October 28, 1636",
+      "Founder": "Massachusetts General Court",
+      "Accreditation": "NECHE",
+      "Academic affiliations": "AAU COFHE NAICU UArctic URA Space-grant",
+      "Endowment": "$53.2 billion (2024)",
+      "President": "Alan Garber",
+      "Provost": "John F. Manning",
+      "Academic staff": "~2,400 faculty members (and >10,400 academic appointments in affiliated teaching hospitals)",
+      "Students": "21,189 (fall 2024)",
+      "Undergraduates": "7,038 (fall 2024)",
+      "Postgraduates": "14,151 (fall 2024)",
+      "Location": "Cambridge, Massachusetts, United States \u00b7 42\u00b022\u203228\u2033N 71\u00b007\u203201\u2033W\ufeff / \ufeff42.37444\u00b0N 71.11694\u00b0W",
+      "Campus": "Midsize city, 209 acres (85 ha)",
+      "Newspaper": "The Harvard Crimson",
+      "Colors": "Crimson, white, and black",
+      "Nickname": "Crimson",
+      "Sporting affiliations": "NCAA Division I FCS \u2013 Ivy League ECAC Hockey NEISA CWPA IRA EAWRC EARC EISA",
+      "Mascot": "John Harvard",
+      "Website": "www.harvard.edu"
+    }
+  }
+}

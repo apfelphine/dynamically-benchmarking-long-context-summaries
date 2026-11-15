@@ -1,0 +1,23 @@
+{
+  "id": 142918,
+  "title": "Joseph Marie Jacquard",
+  "url": "https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard",
+  "path": "Comp-Sci-Pioneers\\joseph-marie-jacquard",
+  "summary": {
+    "chars": 447,
+    "tokens": 127
+  },
+  "document": {
+    "chars": 10405,
+    "tokens": 2366
+  },
+  "infobox": {
+    "title": "Joseph Marie Jacquard",
+    "data": {
+      "Born": "Joseph Marie Charles \u00b7 7 July 1752 \u00b7 Lyon, Lyonnais, Kingdom of France",
+      "Died": "7 August 1834 (aged 82) \u00b7 Oullins, Rh\u00f4ne, Kingdom of France",
+      "Occupation(s)": "Merchant, weaver, inventor",
+      "Known for": "Programmable loom"
+    }
+  }
+}

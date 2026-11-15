@@ -1,0 +1,11 @@
+## Education in Germany
+
+German education is decentralized, with responsibility resting with the individual states (*Länder*) and forming part of their constitutional sovereignty. The system is divided into lower-secondary and upper-secondary education. Lower-secondary education provides "basic general education," and the secondary school structure includes five types: Gymnasium (prepares for higher education via the *Abitur*), Realschule, Hauptschule (prepares for vocational education), Gesamtschule (comprehensive school), and Sonderschule (for special educational needs). A key feature is the *Duale Ausbildung* (dual education system), which integrates in-service training in a company with education at a state school.
+
+In terms of higher education, the system distinguishes between *Universitäten* (which have the right to confer doctorates) and *Fachhochschulen* (Universities of Applied Sciences), which focus more on practical application. Public universities charge minimal semester fees, though some states introduced tuition fees, while long-time students may face extra charges. The system is characterized by a strong focus on academic freedom and research, though social class differences in achievement are noted.
+
+## Education in India
+
+Education in India is governed under the Concurrent List, meaning both the Central and State Governments share responsibility for policy implementation, leading to variations across states. The system generally follows a "10+2" pattern, subdivided into 8 years of elementary education (5 years Primary School and 3 years Middle School), 2 years of Secondary education, and 2 years of Higher Secondary Schools.
+
+The system is highly examination-oriented, with national standardized exams at the end of Grade 10 and Grade 12. While enrollment rates for primary education have increased significantly, concerns remain regarding educational quality, as many students lack basic literacy and numeracy skills. The growth of private schools is notable, driven by demand for English-medium education and dissatisfaction with public schooling quality. The National Education Policy 2020 aims to shift the structure to a "5+3+3+4" model, emphasizing foundational literacy/numeracy and moving towards holistic, experiential learning.

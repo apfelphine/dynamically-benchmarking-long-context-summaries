@@ -1,0 +1,9 @@
+## Education in Norway
+
+**History and Structure:**
+Organized education in Norway dates back to 2000 B.C. Early development included the establishment of cathedral schools after Norway became an archdiocese in 1153. Following the Reformation in 1537, these schools became Latin schools, and it was mandated for all market towns to possess one. Compulsory reading training was introduced in 1736, leading to the establishment of *omgangsskoler* (ambulatory schools). The mandatory primary school, *folkeskole*, was introduced in 1827, becoming mandatory for seven years in 1889 and nine years in 1969. Later, the *folkeskole* was replaced by the *grunnskole* (foundation school) in the 1970s and 1980s.
+
+**Current System and Higher Education:**
+The current school system is divided into three parts: elementary school (*barneskole*, ages 6–12), lower secondary school (*ungdomsskole*, ages 13–16), and upper secondary school (*videregående skole*, ages 16–19). The elementary and lower secondary levels are compulsory for children aged 6–16. Upper secondary education is primarily public, although private options are available, provided they offer a religious or pedagogical alternative. The 1994 high school reform merged general, mercantile, and vocational branches into a single system. Students can choose a general studies or vocational studies path within upper secondary school.
+
+Higher education is broadly divided into state-run Universities (concentrating on theoretical subjects) and University Colleges (*høgskole*, offering a wide range of choices including vocational and professional degrees). Quality assurance for higher education is handled by the Norwegian Agency for Quality Assurance in Education (NOKUT). Grading systems vary across different levels, with lower levels using a scale from 1 to 6.

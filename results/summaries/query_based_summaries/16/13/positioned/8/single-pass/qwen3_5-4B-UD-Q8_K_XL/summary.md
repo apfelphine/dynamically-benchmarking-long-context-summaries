@@ -1,0 +1,3 @@
+The provided text contains no information regarding the University of the Andes (Colombia). The document exclusively details the histories, campuses, academics, and notable figures of the following institutions: State University of Campinas (Brazil), University of Western Ontario (Canada), University of Manchester (UK), Imperial College London (UK), University of Auckland (New Zealand), Lund University (Sweden), University of Sydney (Australia), University of Jordan (Jordan), Boston College (USA), São Paulo State University (Brazil), Harvard University (USA), Royal Melbourne Institute of Technology (Australia), and Peking University (China).
+
+Consequently, no summary can be generated based strictly on the provided text regarding the University of the Andes (Colombia).

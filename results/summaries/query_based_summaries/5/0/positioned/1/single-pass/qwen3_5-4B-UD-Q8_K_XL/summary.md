@@ -1,0 +1,1 @@
+The provided text does not contain any information regarding "Alfred North Whitehead." The document exclusively details the lives and works of Richard Stallman, Blaise Pascal, Leonardo Torres Quevedo, Hedy Lamarr, Alan Turing, Ada Lovelace, Charles Babbage, Philip Rubin, and Vannevar Bush.

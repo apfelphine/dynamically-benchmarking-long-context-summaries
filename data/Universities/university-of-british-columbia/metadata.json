@@ -1,0 +1,41 @@
+{
+  "id": 173411,
+  "title": "University of British Columbia",
+  "url": "https://en.wikipedia.org/wiki/University_of_British_Columbia",
+  "path": "Universities\\university-of-british-columbia",
+  "summary": {
+    "chars": 1710,
+    "tokens": 370
+  },
+  "document": {
+    "chars": 52480,
+    "tokens": 11068
+  },
+  "infobox": {
+    "title": "The University of British Columbia",
+    "data": {
+      "Motto": "Tuum Est (Latin)",
+      "Motto in English": "\"It is up to you\" \u00b7 \"It is yours\"",
+      "Established": "1908",
+      "Academic affiliations": "ACU, APRU, ASAIHL, Universities Canada, U15",
+      "Endowment": "CA$3.0 billion (2024)",
+      "Budget": "CA$3.8 billion (2024)",
+      "Chancellor": "Judy Rogers",
+      "President": "Benoit-Antoine Bacon",
+      "Provost": "Gage Averill (Vancouver) and Rehan Sadiq (Okanagan)",
+      "Academic staff": "5,696 (Vancouver) \u00b7 600 (Okanagan)",
+      "Administrative staff": "10,647 (Vancouver) \u00b7 835 (Okanagan)",
+      "Students": "53,481 (2024-25 FTE)",
+      "Undergraduates": "44,882 (Vancouver) \u00b7 8,990 (Okanagan)",
+      "Postgraduates": "9,981 (Vancouver) \u00b7 945 (Okanagan)",
+      "Location": "Vancouver, British Columbia, Canada - UBC Point Grey - UBC Robson Square - UBC\u2013VGH Medical Campus - UBC\u2013BC Children's Hospital Research Institute - UBC\u2013Great Northern Way Kelowna, British Columbia, Canada - UBC Okanagan - UBC Innovation Library - UBC-KGH Clinical Academic Campus \u00b7 49\u00b015\u203253\u2033N 123\u00b015\u203210\u2033W\ufeff / \ufeff49.26472\u00b0N 123.25278\u00b0W",
+      "Campus": "Vancouver: 4.020 km2 (993 acres) \u00b7 Okanagan: 2.086 km2 (515 acres)",
+      "Language": "English",
+      "Newspaper": "The Ubyssey (Vancouver) The Phoenix News (Okanagan)",
+      "Colours": "Blue and gold",
+      "Nickname": "Thunderbirds (Vancouver) \u00b7 Heat (Okanagan)",
+      "Sporting affiliations": "NAIA, U Sports, CWUAA",
+      "Website": "ubc.ca"
+    }
+  }
+}

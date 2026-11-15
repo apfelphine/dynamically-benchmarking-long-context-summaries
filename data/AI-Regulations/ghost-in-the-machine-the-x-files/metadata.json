@@ -1,0 +1,25 @@
+{
+  "id": 6112811,
+  "title": "Ghost in the Machine (The X-Files)",
+  "url": "https://en.wikipedia.org/wiki/Ghost_in_the_Machine_(The_X-Files)",
+  "path": "AI-Regulations\\ghost-in-the-machine-the-x-files",
+  "summary": {
+    "chars": 1694,
+    "tokens": 365
+  },
+  "document": {
+    "chars": 7033,
+    "tokens": 1522
+  },
+  "infobox": {
+    "title": "\"Ghost in the Machine\"",
+    "data": {
+      "Episode no.": "Season 1 \u00b7 Episode 7",
+      "Directed by": "Jerrold Freedman",
+      "Written by": "- Alex Gansa - Howard Gordon",
+      "Production code": "1X06",
+      "Original air date": "October 29, 1993",
+      "Running time": "45 minutes"
+    }
+  }
+}

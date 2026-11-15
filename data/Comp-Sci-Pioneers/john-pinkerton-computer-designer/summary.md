@@ -1,0 +1,1 @@
+John Maurice McClean Pinkerton (2 August 1919 – 22 December 1997) was a pioneering British computer designer. Along with David Caminer, he designed England's first business computer, the LEO computer, produced by J. Lyons and Co in 1951.

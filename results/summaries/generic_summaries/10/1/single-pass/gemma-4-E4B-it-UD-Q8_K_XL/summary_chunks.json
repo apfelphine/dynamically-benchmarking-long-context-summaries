@@ -1,0 +1,135 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Global Education System Overviews\n## Hong Kong Education\nHong Kong's educational history spans from early Chinese village schools to the modern era, significantly influenced by British missionaries starting around 1841. Early education was elite, but the curriculum evolved under figures like Frederick Stewart to be bilingual and bicultural. Post-1919 movements spurred greater focus on Chinese education for the poor. The system has recently undergone significant changes, including the implementation of the Target Oriented Curriculum (TOC) in 1997, leading to active and experiential learning. More recent developments show a shift towards national security emphasis in the curriculum, alongside technological integration, such as allowing AI tools in higher education.",
+        "text_original": "Hong Kong's educational history spans from early Chinese village schools to the modern era, significantly influenced by British missionaries starting around 1841. Early education was elite, but the curriculum evolved under figures like Frederick Stewart to be bilingual and bicultural. Post-1919 movements spurred greater focus on Chinese education for the poor. The system has recently undergone significant changes, including the implementation of the Target Oriented Curriculum (TOC) in 1997, leading to active and experiential learning. More recent developments show a shift towards national security emphasis in the curriculum, alongside technological integration, such as allowing AI tools in higher education",
+        "idx_start": 62,
+        "idx_end": 777
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education System Overviews\n## Ghana Education\nGhana's education history began with informal, oral transmission of knowledge, later formalized by European settlers and mission schools. Independence in 1957 spurred a push for free universal basic education, though initial expansion struggled with quality. Reforms, particularly after the 1987 Education Act, aimed to restructure education, reduce pre-tertiary years, and introduce vocational training. While enrollment has increased significantly, the system faces challenges related to quality, the high role of the private sector, and inequality in access to tertiary education.",
+        "text_original": "Ghana's education history began with informal, oral transmission of knowledge, later formalized by European settlers and mission schools. Independence in 1957 spurred a push for free universal basic education, though initial expansion struggled with quality. Reforms, particularly after the 1987 Education Act, aimed to restructure education, reduce pre-tertiary years, and introduce vocational training. While enrollment has increased significantly, the system faces challenges related to quality, the high role of the private sector, and inequality in access to tertiary education",
+        "idx_start": 800,
+        "idx_end": 1382
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education System Overviews\n## Sweden Education\nThe Swedish system is characterized by a comprehensive, compulsory nine-year school (Grundskola), which emphasizes broad subjects across three stages. Education is generally highly accessible, with preschool being free for children over three. Upper secondary education (Gymnasieskola) is elective, offering preparatory and vocational paths. Higher education follows the Bologna Process structure, with standardized degrees, and the system features independent, publicly-funded schools (friskolor) which are subject to public scrutiny regarding standards and profit motives.",
+        "text_original": "The Swedish system is characterized by a comprehensive, compulsory nine-year school (Grundskola), which emphasizes broad subjects across three stages. Education is generally highly accessible, with preschool being free for children over three. Upper secondary education (Gymnasieskola) is elective, offering preparatory and vocational paths. Higher education follows the Bologna Process structure, with standardized degrees, and the system features independent, publicly-funded schools (friskolor) which are subject to public scrutiny regarding standards and profit motives",
+        "idx_start": 1406,
+        "idx_end": 1979
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education System Overviews\n## England Education\nEducation in England is compulsory from age 5 to 18, with state-funded schooling covering most children without charge. The system is structured across several Key Stages, culminating in GCSEs at age 16. School types vary, including comprehensive, grammar, and various supported academies. Post-16 education offers pathways such as A-levels, BTEC, and apprenticeships. The system is heavily monitored by Ofsted, and recent reforms have focused on raising standards, particularly in disadvantaged areas through the academy program.",
+        "text_original": "Education in England is compulsory from age 5 to 18, with state-funded schooling covering most children without charge. The system is structured across several Key Stages, culminating in GCSEs at age 16. School types vary, including comprehensive, grammar, and various supported academies. Post-16 education offers pathways such as A-levels, BTEC, and apprenticeships. The system is heavily monitored by Ofsted, and recent reforms have focused on raising standards, particularly in disadvantaged areas through the academy program",
+        "idx_start": 2004,
+        "idx_end": 2533
+    },
+    {
+        "document_idx": null,
+        "text": "# Global Education System Overviews\n## Norway Education\nThe Norwegian system is structured into compulsory elementary (6\u201312) and lower secondary (13\u201316) schools, followed by upper secondary education (16\u201319). Education is highly standardized and public, although private schooling is permitted under strict governmental approval. The system has undergone reforms, notably in 1994, to integrate general and vocational studies. The emphasis is on broad education, though criticisms point to the pressure placed on students and the need to balance theory and practice.",
+        "text_original": "The Norwegian system is structured into compulsory elementary (6\u201312) and lower secondary (13\u201316) schools, followed by upper secondary education (16\u201319). Education is highly standardized and public, although private schooling is permitted under strict governmental approval. The system has undergone reforms, notably in 1994, to integrate general and vocational studies. The emphasis is on broad education, though criticisms point to the pressure placed on students and the need to balance theory and practice",
+        "idx_start": 2557,
+        "idx_end": 3065
+    },
+    {
+        "document_idx": null,
+        "text": "# Regional and Specific Systems\n## Egypt Education\nEgypt's education has a long history, rooted in ancient and medieval centers like Al-Azhar. Modern education was formally introduced under Muhammad Ali, creating a dual system of traditional religious schools (mansouri) and modern secular institutions (madrasas). Post-independence, Nasser introduced free public education, but quality remains a major challenge. The system is highly centralized, and despite enrollment gains, low standardized test scores and the growing reliance on private tutoring indicate persistent quality issues and wealth gaps.",
+        "text_original": "Egypt's education has a long history, rooted in ancient and medieval centers like Al-Azhar. Modern education was formally introduced under Muhammad Ali, creating a dual system of traditional religious schools (mansouri) and modern secular institutions (madrasas). Post-independence, Nasser introduced free public education, but quality remains a major challenge. The system is highly centralized, and despite enrollment gains, low standardized test scores and the growing reliance on private tutoring indicate persistent quality issues and wealth gaps",
+        "idx_start": 3122,
+        "idx_end": 3673
+    },
+    {
+        "document_idx": null,
+        "text": "# Regional and Specific Systems\n## Taiwan Education\nTaiwan mandates 12 years of compulsory education, with a focus on national assimilation through public schools, where Mandarin is the main language of instruction. The system is highly disciplined, featuring strict schedules and mandatory daily rituals. Access to higher education is controlled by national entrance exams, with a high rate of university attendance. While public schools are favored, private cram schools (buxiban) are pervasive, reflecting intense academic pressure.",
+        "text_original": "Taiwan mandates 12 years of compulsory education, with a focus on national assimilation through public schools, where Mandarin is the main language of instruction. The system is highly disciplined, featuring strict schedules and mandatory daily rituals. Access to higher education is controlled by national entrance exams, with a high rate of university attendance. While public schools are favored, private cram schools (buxiban) are pervasive, reflecting intense academic pressure",
+        "idx_start": 3697,
+        "idx_end": 4179
+    },
+    {
+        "document_idx": null,
+        "text": "# Regional and Specific Systems\n## Iran Education\nIranian education is highly centralized under the Ministry of Education. The system has undergone shifts, from Soviet-style control to post-1979 Islamization, which mandated sex segregation and the incorporation of Islamic values into textbooks. Education is highly valued for social mobility. While public universities are largely state-funded, private schools are increasingly prominent and expensive. The system faces issues like high dropout rates and teacher shortages.",
+        "text_original": "Iranian education is highly centralized under the Ministry of Education. The system has undergone shifts, from Soviet-style control to post-1979 Islamization, which mandated sex segregation and the incorporation of Islamic values into textbooks. Education is highly valued for social mobility. While public universities are largely state-funded, private schools are increasingly prominent and expensive. The system faces issues like high dropout rates and teacher shortages",
+        "idx_start": 4201,
+        "idx_end": 4674
+    },
+    {
+        "document_idx": null,
+        "text": "# Regional and Specific Systems\n## Sri Lanka Education\nSri Lankan education has historical roots in Buddhist temples and was formally standardized by the British in 1836. Post-independence, the system aimed for free, national language instruction. The structure includes primary, junior, and senior secondary levels, culminating in the G.C.E. Advanced Level, which is the university entrance exam. The system is fragmented across government ministries, leading to inefficiency, and competition from private and international schools is high.",
+        "text_original": "Sri Lankan education has historical roots in Buddhist temples and was formally standardized by the British in 1836. Post-independence, the system aimed for free, national language instruction. The structure includes primary, junior, and senior secondary levels, culminating in the G.C.E. Advanced Level, which is the university entrance exam. The system is fragmented across government ministries, leading to inefficiency, and competition from private and international schools is high",
+        "idx_start": 4701,
+        "idx_end": 5186
+    },
+    {
+        "document_idx": null,
+        "text": "# Regional and Specific Systems\n## Nigeria Education\nNigeria's education system is vast, featuring federal and state-sponsored schools, alongside a large private sector. The Universal Basic Education (UBE) aims for 9 years of free and compulsory schooling (6 years primary + 3 years JSS). The secondary system features JSS and SSS, culminating in the SSCE. Vocational training is a major focus to combat high graduate unemployment, yet challenges persist regarding teacher qualifications, rural infrastructure, and low literacy rates.",
+        "text_original": "Nigeria's education system is vast, featuring federal and state-sponsored schools, alongside a large private sector. The Universal Basic Education (UBE) aims for 9 years of free and compulsory schooling (6 years primary + 3 years JSS). The secondary system features JSS and SSS, culminating in the SSCE. Vocational training is a major focus to combat high graduate unemployment, yet challenges persist regarding teacher qualifications, rural infrastructure, and low literacy rates",
+        "idx_start": 5211,
+        "idx_end": 5691
+    },
+    {
+        "document_idx": null,
+        "text": "# Regional and Specific Systems\n## Turkey Education\nTurkish education was secularized after the Turkish Republic's founding, unifying previously separate educational channels under the Ministry of National Education. The system has evolved, with compulsory education extended to 12 years. A key feature is the emphasis on Turkish nationalism and Atat\u00fcrk's thought. While free public education exists, the high demand for private textbooks due to concerns over state textbook quality is notable.",
+        "text_original": "Turkish education was secularized after the Turkish Republic's founding, unifying previously separate educational channels under the Ministry of National Education. The system has evolved, with compulsory education extended to 12 years. A key feature is the emphasis on Turkish nationalism and Atat\u00fcrk's thought. While free public education exists, the high demand for private textbooks due to concerns over state textbook quality is notable",
+        "idx_start": 5715,
+        "idx_end": 6156
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Systems\n## Israel Education\nThe Israeli system has three tiers of compulsory education (primary, middle, high school) and is characterized by four distinct tracks: state-secular, state-religious, independent religious (Haredi), and Arab. Societally, higher education is viewed as the key to socioeconomic mobility, driving high attainment rates, especially among Jewish populations. However, significant disparities exist between the Haredi sector and the mainstream, and systemic underfunding and low teacher wages pose challenges.",
+        "text_original": "The Israeli system has three tiers of compulsory education (primary, middle, high school) and is characterized by four distinct tracks: state-secular, state-religious, independent religious (Haredi), and Arab. Societally, higher education is viewed as the key to socioeconomic mobility, driving high attainment rates, especially among Jewish populations. However, significant disparities exist between the Haredi sector and the mainstream, and systemic underfunding and low teacher wages pose challenges",
+        "idx_start": 6204,
+        "idx_end": 6707
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Systems\n## Ireland Education\nIreland emphasizes a broad education, with English as the primary language, though Irish is a core subject. Education is compulsory until age 16 or completion of three years of secondary education. The system features distinct cycles: Junior Cycle, Transition Year, and Senior Cycle, culminating in the Leaving Certificate. While state-funded education is widespread, religious control is still dominant in primary schools, prompting calls for secularization.",
+        "text_original": "Ireland emphasizes a broad education, with English as the primary language, though Irish is a core subject. Education is compulsory until age 16 or completion of three years of secondary education. The system features distinct cycles: Junior Cycle, Transition Year, and Senior Cycle, culminating in the Leaving Certificate. While state-funded education is widespread, religious control is still dominant in primary schools, prompting calls for secularization",
+        "idx_start": 6732,
+        "idx_end": 7190
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Systems\n## Indonesian Education\nIndonesia's educational history reflects colonial stratification, with Dutch schools favoring Europeans. Post-independence, the goal was to create a national, anti-discriminatory system, with the Pancasila principles being a key feature of the curriculum. The system is divided into basic, junior, and senior high school. While primary/middle school is free, high school incurs small fees. The system struggles with quality, funding, and the prevalence of rote learning pedagogy.",
+        "text_original": "Indonesia's educational history reflects colonial stratification, with Dutch schools favoring Europeans. Post-independence, the goal was to create a national, anti-discriminatory system, with the Pancasila principles being a key feature of the curriculum. The system is divided into basic, junior, and senior high school. While primary/middle school is free, high school incurs small fees. The system struggles with quality, funding, and the prevalence of rote learning pedagogy",
+        "idx_start": 7218,
+        "idx_end": 7696
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Systems\n## Armenian Education\nArmenian education transitioned from a highly centralized Soviet model to a more nationalistic system emphasizing Armenian culture after the early 1990s. The K-12 system is free and compulsory, divided into primary, middle, and high schools, with specialization options at the high school level. Public schools dominate, but private institutions offer specialized programs. International engagement is strong, evidenced by participation in the Bologna Process.",
+        "text_original": "Armenian education transitioned from a highly centralized Soviet model to a more nationalistic system emphasizing Armenian culture after the early 1990s. The K-12 system is free and compulsory, divided into primary, middle, and high schools, with specialization options at the high school level. Public schools dominate, but private institutions offer specialized programs. International engagement is strong, evidenced by participation in the Bologna Process",
+        "idx_start": 7722,
+        "idx_end": 8181
+    },
+    {
+        "document_idx": null,
+        "text": "# Higher Education and Skills\n## International & Vocational Focus\nSeveral countries actively promote international and vocational education. In **Hong Kong** , the 1997 TOC introduced project learning, shifting pedagogy towards experiential methods. In **Ghana** , the Council for Technical and Vocational Education and Training (COTVET) works to standardize vocational education, though 90% of this remains informal. **Indonesia** utilizes a multi-tiered system (Universitas, Institut, Sekolah Tinggi) that includes specific tracks for vocational and professional education, formalized by the KKNI.",
+        "text_original": "Several countries actively promote international and vocational education. In **Hong Kong**, the 1997 TOC introduced project learning, shifting pedagogy towards experiential methods. In **Ghana**, the Council for Technical and Vocational Education and Training (COTVET) works to standardize vocational education, though 90% of this remains informal. **Indonesia** utilizes a multi-tiered system (Universitas, Institut, Sekolah Tinggi) that includes specific tracks for vocational and professional education, formalized by the KKNI",
+        "idx_start": 8253,
+        "idx_end": 8783
+    },
+    {
+        "document_idx": null,
+        "text": "# Higher Education and Skills\n## Technological Integration\nIn **Nigeria** , despite challenges, the government emphasizes vocational training through the National Board for Technical Education. **Egypt** has been focused on technical and vocational training (TVET) to meet labor skill deficits, established through bodies like the Industrial Training Council (ITC). **Israel** heavily links its economy to high-tech, driving demand for STEM education at the tertiary level.",
+        "text_original": "In **Nigeria**, despite challenges, the government emphasizes vocational training through the National Board for Technical Education. **Egypt** has been focused on technical and vocational training (TVET) to meet labor skill deficits, established through bodies like the Industrial Training Council (ITC). **Israel** heavily links its economy to high-tech, driving demand for STEM education at the tertiary level",
+        "idx_start": 8816,
+        "idx_end": 9228
+    },
+    {
+        "document_idx": null,
+        "text": "# Higher Education and Skills\n## Global Cooperation and Mobility\n**Armenia** is deeply integrated into European frameworks, being a full member of the Bologna Process and participating in Erasmus mobility. **Turkey** also participates in Erasmus+ and is a growing hub for international students due to affordable tuition. **Taiwan** sees many graduates pursuing higher education abroad, and its system facilitates international programs.",
+        "text_original": "Armenia** is deeply integrated into European frameworks, being a full member of the Bologna Process and participating in Erasmus mobility. **Turkey** also participates in Erasmus+ and is a growing hub for international students due to affordable tuition. **Taiwan** sees many graduates pursuing higher education abroad, and its system facilitates international programs",
+        "idx_start": 9269,
+        "idx_end": 9638
+    },
+    {
+        "document_idx": null,
+        "text": "# Higher Education and Skills\n## Student Well-being and Equity\nConcerns regarding student welfare are noted across systems: in **Hong Kong** , the national security law has led to student departure. In **Sri Lanka** and **Egypt** , high competition and reliance on expensive private tutoring create significant equity gaps. **Israel** faces social problems stemming from the Haredi sector's limited engagement with secular education. **Nigeria** and **Ghana** grapple with gender disparities and rural neglect in educational provision.",
+        "text_original": "Concerns regarding student welfare are noted across systems: in **Hong Kong**, the national security law has led to student departure. In **Sri Lanka** and **Egypt**, high competition and reliance on expensive private tutoring create significant equity gaps. **Israel** faces social problems stemming from the Haredi sector's limited engagement with secular education. **Nigeria** and **Ghana** grapple with gender disparities and rural neglect in educational provision",
+        "idx_start": 9675,
+        "idx_end": 10144
+    }
+]

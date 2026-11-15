@@ -1,0 +1,5 @@
+## University of Jordan Summary
+
+The University of Jordan was established following national calls for a national university, with the main campus initially set up in the Jubaiha area of Amman in 1962. It commenced its first day of teaching on December 25, 1965, initially operating with one college, the Faculty of Arts. The university has expanded significantly over time, adding various faculties, such as Medicine, Dentistry, and Engineering, and establishing research centers.
+
+Beyond the main campus in Amman, the University of Jordan operates an Aqaba Campus, which was established in 2009. Academically, the university offers numerous undergraduate and postgraduate programs across scientific, humanitarian, and medical streams. It also maintains a major library, the University of Jordan Library (UJL), and engages in international collaborations, including student exchange programs.

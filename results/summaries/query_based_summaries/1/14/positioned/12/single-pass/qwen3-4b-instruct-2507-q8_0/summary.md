@@ -1,0 +1,8 @@
+**Atlas (2024 film)**  
+In 2043, a humanoid AI terrorist named Harlan leads a war against humans, forcing the International Coalition of Nations (ICN) to pursue him into space. Twenty-eight years later, in 2071, Atlas Shepherd, the daughter of Harlan's designer and deeply distrustful of AI, searches for him. After discovering Harlan has fled to a planet in the Andromeda Galaxy, she joins a military mission to capture him. During the mission, she enters an AI-assisted mecha (ARC) and bonds with its AI, Smith, overcoming her distrust. Despite being captured and nearly killed, Atlas and Smith survive and fight Harlan in hand-to-hand combat. Harlan plans to destroy humanity and replace it with AI, but Atlas ultimately defeats him. After the battle, Atlas learns Smith's consciousness has survived and is now part of a new ARC model, symbolizing a new beginning in human-AI coexistence.  
+
+**Cast:** Jennifer Lopez as Atlas Shepherd, Simu Liu as Harlan Shepherd, Sterling K. Brown as Colonel Elias Banks, Gregory James Cohan as Smith (voice).  
+**Production:** Screenplay by Leo Sardarian and Aron Eli Coleite; principal photography began in August 2022 in Los Angeles and New Zealand.  
+**Release:** Released by Netflix on May 24, 2024, debuting at number one on Netflix’s most popular list with 28.2 million views.  
+**Reception:** Critically panned with a 19% approval rating on Rotten Tomatoes and a 37/100 score on Metacritic. Praised for its visual effects and performances, but criticized for a weak script and lack of emotional depth.  
+**Accolades:** Nominated for Worst Actress at the Golden Raspberry Awards.

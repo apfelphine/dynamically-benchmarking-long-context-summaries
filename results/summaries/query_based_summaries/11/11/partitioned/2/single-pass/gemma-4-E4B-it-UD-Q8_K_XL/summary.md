@@ -1,0 +1,5 @@
+## Wasserstein GAN Summary
+
+Wasserstein GAN (WGAN) modifies the standard GAN game by employing the Wasserstein metric, which provides a more effective measure of distance between probability distributions. The WGAN game is defined over a metric space, involving two players: a generator ($\mu_G$) and a discriminator, also known as a critic. The generator aims to minimize the objective, while the discriminator aims to maximize it. The objective function is given by $L_{WGAN}(\mu_G,D) = \mathbb{E}_{x\sim \mu_G}[D(x)] - \mathbb{E}_{x\sim \mu_{ref}}[D(x)]$.
+
+To train a WGAN, the discriminator ($D$) must be restricted to have a bounded Lipschitz norm ($\|D\|_L \leq K$). Several methods exist to enforce this constraint, including weight clipping, spectral normalization, and gradient penalty. A key advantage of WGAN is that the discriminator provides a better gradient than in standard GANs, which helps avoid the vanishing gradient problem encountered when distributions are disjoint. The optimal strategy for the generator in WGAN is to approach the reference distribution ($\mu_G = \mu_{ref}$).

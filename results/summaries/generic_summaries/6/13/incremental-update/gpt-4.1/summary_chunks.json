@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# George Antheil: Life, Work, and Legacy\nGeorge Antheil was a self-taught avant-garde composer active in Berlin and Paris, collaborating with figures like Stravinsky and Satie. He created groundbreaking works including *Ballet M\u00e9canique* , operas, books, and film scores, and co-invented frequency-hopping technology with Hedy Lamarr. He opposed Nazism, later embraced American romanticism, and left a lasting legacy in both music and technology.",
+        "text_original": "George Antheil was a self-taught avant-garde composer active in Berlin and Paris, collaborating with figures like Stravinsky and Satie. He created groundbreaking works including *Ballet M\u00e9canique*, operas, books, and film scores, and co-invented frequency-hopping technology with Hedy Lamarr. He opposed Nazism, later embraced American romanticism, and left a lasting legacy in both music and technology",
+        "idx_start": 43,
+        "idx_end": 446
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton: Contributions and Perspectives on Artificial Intelligence\nGeoffrey Hinton, Nobel laureate, made major breakthroughs in neural networks with innovations like backpropagation, Boltzmann machines, capsule networks, and \"Forward-Forward\" learning. He mentored leading researchers, founded DNNresearch, and advocates for responsible AI development and oversight.",
+        "text_original": "Geoffrey Hinton, Nobel laureate, made major breakthroughs in neural networks with innovations like backpropagation, Boltzmann machines, capsule networks, and \"Forward-Forward\" learning. He mentored leading researchers, founded DNNresearch, and advocates for responsible AI development and oversight",
+        "idx_start": 528,
+        "idx_end": 826
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull: Philosophy, Works, and Influence\nRamon Llull, Majorcan philosopher, pioneered combinatorial logic, profoundly impacting metaphysics, logic, and literature. He overcame religious censorship and established an enduring intellectual legacy.",
+        "text_original": "Ramon Llull, Majorcan philosopher, pioneered combinatorial logic, profoundly impacting metaphysics, logic, and literature. He overcame religious censorship and established an enduring intellectual legacy",
+        "idx_start": 879,
+        "idx_end": 1082
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari: Engineering Innovations and Automata\nIsmail al-Jazari wrote influential works on programmable automata and invented mechanisms such as camshafts, crankshafts, water-lifting devices, and clocks, shaping both Islamic and Western engineering.",
+        "text_original": "Ismail al-Jazari wrote influential works on programmable automata and invented mechanisms such as camshafts, crankshafts, water-lifting devices, and clocks, shaping both Islamic and Western engineering",
+        "idx_start": 1144,
+        "idx_end": 1345
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole: Life, Work, and Lasting Impact\nGeorge Boole, creator of Boolean algebra, revolutionized mathematics, logic, and computer science, with a lasting influence on digital technology, while teaching at Queen's College Cork.",
+        "text_original": "George Boole, creator of Boolean algebra, revolutionized mathematics, logic, and computer science, with a lasting influence on digital technology, while teaching at Queen's College Cork",
+        "idx_start": 1397,
+        "idx_end": 1582
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon: Foundations, Legacy, and Honors\nClaude Shannon, \"father of information theory,\" developed the Shannon-Weaver model, introduced information entropy, connected Boolean algebra to digital circuits, advanced cryptography, AI, and computing, and received wide acclaim.",
+        "text_original": "Claude Shannon, \"father of information theory,\" developed the Shannon-Weaver model, introduced information entropy, connected Boolean algebra to digital circuits, advanced cryptography, AI, and computing, and received wide acclaim",
+        "idx_start": 1637,
+        "idx_end": 1867
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper: Innovations in Programming, Leadership, and Recognition\nGrace Hopper developed the first compilers, advocated English-based programming languages (leading to COBOL), promoted software standards and education, coined \"debugging,\" and championed women in technology.",
+        "text_original": "Grace Hopper developed the first compilers, advocated English-based programming languages (leading to COBOL), promoted software standards and education, coined \"debugging,\" and championed women in technology",
+        "idx_start": 1944,
+        "idx_end": 2151
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del: Foundational Achievements in Logic and Beyond\nKurt G\u00f6del transformed mathematical logic via his incompleteness theorems, contributed to set theory, physics, and philosophy, collaborated with Einstein, and received numerous honors.",
+        "text_original": "Kurt G\u00f6del transformed mathematical logic via his incompleteness theorems, contributed to set theory, physics, and philosophy, collaborated with Einstein, and received numerous honors",
+        "idx_start": 2216,
+        "idx_end": 2399
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson: Achievements in Programming Language Design and Education\nKenneth E. Iverson, creator of APL and J, greatly influenced programming languages and mathematics education, earning the Turing Award and other distinctions.",
+        "text_original": "Kenneth E. Iverson, creator of APL and J, greatly influenced programming languages and mathematics education, earning the Turing Award and other distinctions",
+        "idx_start": 2484,
+        "idx_end": 2641
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway: Innovations in Computer Architecture, Patents, and Advocacy\nLynn Conway co-developed VLSI chip design methods, authored seminal engineering texts, held key patents, discovered the \"Conway effect,\" and advocates for inclusion and transgender rights.",
+        "text_original": "Lynn Conway co-developed VLSI chip design methods, authored seminal engineering texts, held key patents, discovered the \"Conway effect,\" and advocates for inclusion and transgender rights",
+        "idx_start": 2721,
+        "idx_end": 2908
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski: Engineering Pioneering, Recognition, and Legacy\nJacek Karpi\u0144ski, Polish computer engineer and WWII resistance member, designed the KAR-65 and K-202 computers, overcame political barriers, and is honored via museums and accolades.",
+        "text_original": "Jacek Karpi\u0144ski, Polish computer engineer and WWII resistance member, designed the KAR-65 and K-202 computers, overcame political barriers, and is honored via museums and accolades",
+        "idx_start": 2980,
+        "idx_end": 3160
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth: Work, Innovations, and Influence\nDonald Knuth authored *The Art of Computer Programming* , created TeX and Metafont, promoted \"literate programming,\" advanced algorithms, opposed software patents, and won several major awards.",
+        "text_original": "Donald Knuth authored *The Art of Computer Programming*, created TeX and Metafont, promoted \"literate programming,\" advanced algorithms, opposed software patents, and won several major awards",
+        "idx_start": 3214,
+        "idx_end": 3405
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin: Microprocessors, Writing, and Promotion of Consciousness Studies\nFederico Faggin led Intel microprocessor development, co-founded Zilog and Synaptics, advanced sensor technologies, revitalized Foveon, and now researches quantum consciousness, earning global recognition.",
+        "text_original": "Federico Faggin led Intel microprocessor development, co-founded Zilog and Synaptics, advanced sensor technologies, revitalized Foveon, and now researches quantum consciousness, earning global recognition",
+        "idx_start": 3494,
+        "idx_end": 3698
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra: Foundational Contributions and Influence\nEdsger W. Dijkstra made seminal contributions to graph theory, structured programming, software correctness, and computing education, notably through ALGOL 60, influential writings, and the Turing Award.",
+        "text_original": "Edsger W. Dijkstra made seminal contributions to graph theory, structured programming, software correctness, and computing education, notably through ALGOL 60, influential writings, and the Turing Award",
+        "idx_start": 3766,
+        "idx_end": 3968
+    },
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege: Foundational Impact in Logic, Philosophy, and Mathematics\nGottlob Frege founded analytic philosophy and mathematical logic, introducing function-argument analysis, sense and reference, compositionality, and formal logic, with enduring influence despite initial neglect.",
+        "text_original": "Gottlob Frege founded analytic philosophy and mathematical logic, introducing function-argument analysis, sense and reference, compositionality, and formal logic, with enduring influence despite initial neglect",
+        "idx_start": 4048,
+        "idx_end": 4258
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon: Interdisciplinary Contributions, Career, and Personal Life\nHerbert A. Simon impacted economics, AI, psychology, decision theory, and organizational science via \"bounded rationality.\" He authored 27 books, hundreds of articles, and received Nobel and Turing Prizes.",
+        "text_original": "Herbert A. Simon impacted economics, AI, psychology, decision theory, and organizational science via \"bounded rationality.\" He authored 27 books, hundreds of articles, and received Nobel and Turing Prizes",
+        "idx_start": 4342,
+        "idx_end": 4546
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi: Foundations in Mathematics, Science, and Geography\nAl-Khwarizmi, 9th-century scholar in Baghdad's House of Wisdom, authored the first algebra text, introduced Hindu\u2013Arabic numerals to the West, improved trigonometric tables and geographic works, and inspired the term \"algorithm,\" profoundly shaping mathematics and science.",
+        "text_original": "Al-Khwarizmi, 9th-century scholar in Baghdad's House of Wisdom, authored the first algebra text, introduced Hindu\u2013Arabic numerals to the West, improved trigonometric tables and geographic works, and inspired the term \"algorithm,\" profoundly shaping mathematics and science",
+        "idx_start": 4618,
+        "idx_end": 4890
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen: Pioneering Work in Computer Science and Operating Systems\nPer Brinch Hansen was a pioneering computer scientist who formalized computer science as an engineering discipline and was a central figure in concurrent and distributed programming. He developed foundational operating systems (Solo) and programming languages (Concurrent Pascal, Distributed Processes, Edison, Joyce, SuperPascal), introduced monitors and remote procedure calls, and made important advances in parallel computing. His book, *The Architecture of Concurrent Programs* , became an ACM classic, and his textbooks including *Operating System Principles* shaped generations of computer scientists. Brinch Hansen founded a leading computer science department at USC, held distinguished posts, received honors like the IEEE Computer Pioneer Award, and had an enduring impact through academia, industry, and publications.",
+        "text_original": "Per Brinch Hansen was a pioneering computer scientist who formalized computer science as an engineering discipline and was a central figure in concurrent and distributed programming. He developed foundational operating systems (Solo) and programming languages (Concurrent Pascal, Distributed Processes, Edison, Joyce, SuperPascal), introduced monitors and remote procedure calls, and made important advances in parallel computing. His book, *The Architecture of Concurrent Programs*, became an ACM classic, and his textbooks including *Operating System Principles* shaped generations of computer scientists. Brinch Hansen founded a leading computer science department at USC, held distinguished posts, received honors like the IEEE Computer Pioneer Award, and had an enduring impact through academia, industry, and publications",
+        "idx_start": 4974,
+        "idx_end": 5801
+    }
+]

@@ -1,0 +1,28 @@
+{
+  "id": 42124868,
+  "title": "Barbara J. Grosz",
+  "url": "https://en.wikipedia.org/wiki/Barbara_J._Grosz",
+  "path": "Comp-Sci-Pioneers\\barbara-j-grosz",
+  "summary": {
+    "chars": 614,
+    "tokens": 117
+  },
+  "document": {
+    "chars": 3504,
+    "tokens": 670
+  },
+  "infobox": {
+    "title": "Barbara Grosz",
+    "data": {
+      "Born": "Barbara Jean Grosz \u00b7 July 21, 1948 \u00b7 Philadelphia, Pennsylvania, U.S.",
+      "Alma mater": "- University of California, Berkeley - Cornell University",
+      "Awards": "- AAAI Fellow (1990) - ACM Fellow (2004) - ACM/AAAI Allen Newell Award (2008) - CorrFRSE (2014) - IJCAI Award for Research Excellence (2015) \u00b7 ACL Lifetime Achievement Award (2017)",
+      "Fields": "- Artificial Intelligence - Natural language processing - Multi-agent systems",
+      "Institutions": "Harvard University",
+      "Thesis": "The Representation and Use of Focus in Dialogue Understanding (1977)",
+      "Doctoral advisor": "Martin H. Graham",
+      "Doctoral students": "Martha E. Pollack",
+      "Other notable students": "Steven Salzberg"
+    }
+  }
+}

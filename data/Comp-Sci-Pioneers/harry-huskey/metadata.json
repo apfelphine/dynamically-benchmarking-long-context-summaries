@@ -1,0 +1,28 @@
+{
+  "id": 2697684,
+  "title": "Harry Huskey",
+  "url": "https://en.wikipedia.org/wiki/Harry_Huskey",
+  "path": "Comp-Sci-Pioneers\\harry-huskey",
+  "summary": {
+    "chars": 96,
+    "tokens": 28
+  },
+  "document": {
+    "chars": 4341,
+    "tokens": 1042
+  },
+  "infobox": {
+    "title": "Harry Huskey",
+    "data": {
+      "Born": "Harry Douglas Huskey \u00b7 January 19, 1916 \u00b7 Whittier, North Carolina, U.S.",
+      "Died": "April 9, 2017 (aged 101) \u00b7 Santa Cruz, California, U.S.",
+      "Alma mater": "Ohio State University (Master & PhD) \u00b7 University of Idaho (Bachelor)",
+      "Spouse(s)": "Velma Roeth (died 1991); Nancy Grindstaff (m. 1994, died 2015)",
+      "Awards": "ACM Fellow (1994) \u00b7 Computer History Museum Fellow (2013)",
+      "Fields": "Mathematics",
+      "Institutions": "University of California \u00b7 University of Pennsylvania",
+      "Thesis": "Contributions to the Problem of Geocze (1943)",
+      "Doctoral students": "Butler Lampson \u00b7 Niklaus Wirth"
+    }
+  }
+}

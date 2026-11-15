@@ -1,0 +1,21 @@
+{
+  "id": 12810,
+  "title": "Garry Kasparov",
+  "url": "https://en.wikipedia.org/wiki/Garry_Kasparov",
+  "path": "Comp-Sci-Pioneers\\garry-kasparov",
+  "summary": {
+    "chars": 2731,
+    "tokens": 621
+  },
+  "document": {
+    "chars": 68684,
+    "tokens": 16058
+  },
+  "infobox": {
+    "title": "Personal information",
+    "data": {
+      "Full name": "Garry Kimovich Kasparov",
+      "Born": "Garik Kimovich Weinstein \u00b7 13 April 1963 \u00b7 Baku, Azerbaijan SSR, Soviet Union"
+    }
+  }
+}

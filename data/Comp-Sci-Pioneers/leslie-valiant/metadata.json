@@ -1,0 +1,29 @@
+{
+  "id": 3006751,
+  "title": "Leslie Valiant",
+  "url": "https://en.wikipedia.org/wiki/Leslie_Valiant",
+  "path": "Comp-Sci-Pioneers\\leslie-valiant",
+  "summary": {
+    "chars": 615,
+    "tokens": 124
+  },
+  "document": {
+    "chars": 4826,
+    "tokens": 935
+  },
+  "infobox": {
+    "title": "Leslie ValiantFRS",
+    "data": {
+      "Born": "Leslie Gabriel Valiant \u00b7 28 March 1949 \u00b7 Budapest, Hungarian Republic",
+      "Education": "- King's College, Cambridge (BA) - Imperial College London (MS) - University of Warwick (PhD)",
+      "Known for": "- Valiant\u2013Vazirani theorem - Counting problem - Probably approximately correct learning",
+      "Awards": "- Turing Award (2010) - EATCS Award (2008) - Member of the National Academy of Sciences (2001) - Knuth Prize (1997) - AAAI Fellow (1992) - Nevanlinna Prize (1986)",
+      "Fields": "Mathematics \u00b7 Theoretical computer science \u00b7 Computational learning theory \u00b7 Theoretical neuroscience",
+      "Institutions": "- Harvard University - University of Edinburgh",
+      "Thesis": "Decision Procedures for Families of Deterministic Pushdown Automata (1974)",
+      "Doctoral advisor": "Mike Paterson",
+      "Doctoral students": "- Mark Jerrum - Michael Kearns - Dan Roth",
+      "Website": "people.seas.harvard.edu/~valiant"
+    }
+  }
+}

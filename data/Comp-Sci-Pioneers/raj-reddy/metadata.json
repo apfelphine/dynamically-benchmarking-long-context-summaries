@@ -1,0 +1,27 @@
+{
+  "id": 307669,
+  "title": "Raj Reddy",
+  "url": "https://en.wikipedia.org/wiki/Raj_Reddy",
+  "path": "Comp-Sci-Pioneers\\raj-reddy",
+  "summary": {
+    "chars": 807,
+    "tokens": 162
+  },
+  "document": {
+    "chars": 8397,
+    "tokens": 1766
+  },
+  "infobox": {
+    "title": "Raj Reddy",
+    "data": {
+      "Born": "Dabbala Rajagopal Reddy \u00b7 13 June 1937 \u00b7 Katur, Madras Presidency, British India (now in Andhra Pradesh, India)",
+      "Citizenship": "United States",
+      "Education": "University of Madras (BEng) \u00b7 University of New South Wales (MTech) \u00b7 Stanford University (PhD)",
+      "Awards": "- Legion of Honor (1984) - Turing Award (1994) - Padma Bhushan (2001) - The Okawa Prize (2004) - The Honda Prize (2005) - Vannevar Bush Award (2006)",
+      "Fields": "Artificial Intelligence \u00b7 Robotics \u00b7 Human-Computer Interaction",
+      "Institutions": "IIIT Hyderabad \u00b7 Carnegie Mellon University \u00b7 Stanford University",
+      "Doctoral advisor": "John McCarthy",
+      "Doctoral students": "James K. Baker \u00b7 Alexander Waibel \u00b7 James Gosling \u00b7 Janet M. Baker \u00b7 Kai-Fu Lee \u00b7 Xuedong Huang \u00b7 Roni Rosenfeld \u00b7 Harry Shum \u00b7 Hsiao-Wuen Hon"
+    }
+  }
+}

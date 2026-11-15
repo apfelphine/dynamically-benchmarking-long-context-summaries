@@ -1,0 +1,9 @@
+[
+    {
+        "document_idx": null,
+        "text": "Donald Knuth is a computer scientist, mathematician, and author renowned for his foundational work in the field. He is the author of *The Art of Computer Programming* , a monumental series of texts. Early in his career, he worked as a programmer and consultant for Burroughs Corporation, where he suggested an extension to the symbol table in Burroughs ALGOL that became the basis for the DEFINE command in that language.\nKnuth is also credited with developing his own methodology for programming, known as literate programming, which posits that programs should be viewed as literary works. Furthermore, his work has significantly contributed to computer science through his writings on algorithms, and he has authored *Concrete Mathematics: A Foundation for Computer Science* . He has received numerous honors, including the Turing Award, the National Medal of Science, and the Kyoto Prize.",
+        "text_original": "Donald Knuth is a computer scientist, mathematician, and author renowned for his foundational work in the field. He is the author of *The Art of Computer Programming*, a monumental series of texts. Early in his career, he worked as a programmer and consultant for Burroughs Corporation, where he suggested an extension to the symbol table in Burroughs ALGOL that became the basis for the DEFINE command in that language.\n\nKnuth is also credited with developing his own methodology for programming, known as literate programming, which posits that programs should be viewed as literary works. Furthermore, his work has significantly contributed to computer science through his writings on algorithms, and he has authored *Concrete Mathematics: A Foundation for Computer Science*. He has received numerous honors, including the Turing Award, the National Medal of Science, and the Kyoto Prize",
+        "idx_start": 0,
+        "idx_end": 890
+    }
+]

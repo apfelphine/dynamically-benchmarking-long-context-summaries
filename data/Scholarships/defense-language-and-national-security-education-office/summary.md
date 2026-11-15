@@ -1,0 +1,1 @@
+On February 6, 2012, the Defense Language Office and National Security Education Program were merged to form the Defense Language and National Security Education Office (DLNSEO), which consolidates cultural, linguistic, and regional foreign studies education efforts into a single program capable of satisfying national and Department-wide requirements.

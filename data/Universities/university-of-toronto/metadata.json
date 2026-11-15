@@ -1,0 +1,42 @@
+{
+  "id": 7955325,
+  "title": "University of Toronto",
+  "url": "https://en.wikipedia.org/wiki/University_of_Toronto",
+  "path": "Universities\\university-of-toronto",
+  "summary": {
+    "chars": 3255,
+    "tokens": 622
+  },
+  "document": {
+    "chars": 52945,
+    "tokens": 10548
+  },
+  "infobox": {
+    "title": "University of Toronto",
+    "data": {
+      "Former name": "King's College \u00b7 (1827\u20131849)",
+      "Motto": "Velut arbor \u00e6vo (Latin)",
+      "Motto in English": "\"As a tree through the ages\"",
+      "Type": "Public research university",
+      "Established": "March 15, 1827",
+      "Academic affiliation": "AAU ACU Universities Canada U15",
+      "Endowment": "- c. C$3.62 billion (excl. colleges) - c. C$4.49 billion (incl. colleges)",
+      "Chancellor": "Wes Hall",
+      "President": "Melanie Woodin",
+      "Provost": "L. Trevor Young",
+      "Academic staff": "16,503",
+      "Administrative staff": "9,812",
+      "Students": "102,431",
+      "Undergraduates": "80,573",
+      "Postgraduates": "21,858",
+      "Location": "Toronto, Ontario, Canada \u00b7 43\u00b039\u203242\u2033N 79\u00b023\u203242\u2033W\ufeff / \ufeff43.66167\u00b0N 79.39500\u00b0W",
+      "Campuses": "St. George (main): Large city, 138 acres (56 ha) \u00b7 Mississauga: Suburban, 225 acres (91 ha) \u00b7 Scarborough: Suburban, 300 acres (120 ha)",
+      "Newspaper": "The Varsity",
+      "Colours": "U of T Blue",
+      "Nickname": "Varsity Blues",
+      "Sporting affiliations": "U Sports \u2013 OUA, CUFLA",
+      "Mascot": "True Blue the Beaver",
+      "Website": "utoronto.ca"
+    }
+  }
+}

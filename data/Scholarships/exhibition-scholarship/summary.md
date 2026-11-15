@@ -1,0 +1,1 @@
+An exhibition is a type of historical financial scholarship or bursary awarded in the United Kingdom and Ireland, and some Commonwealth countries.

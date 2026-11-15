@@ -1,0 +1,1 @@
+Edward Joseph McCluskey (October 16, 1929 – February 13, 2016) was a professor at Stanford University. He was a pioneer in the field of Electrical Engineering.

@@ -1,0 +1,5 @@
+# Atlas (2024 film)
+
+*Atlas* is set in the year 2043, where humanoid artificial intelligence terrorist Harlan initiates a machine war against humans, forcing the International Coalition of Nations (ICN) military to drive Harlan into outer space. Twenty-eight years later, in 2071, Atlas Shepherd, an analyst distrustful of AI and the daughter of Harlan's designer, seeks the fugitive. Atlas discovers Harlan has fled to a planet in the Andromeda Galaxy and joins a military mission equipped with AI-assisted mecha called ARCs to capture him.
+
+During the mission, Atlas is forced into an ARC herself and interfaces her mind with the ARC's AI, Smith. After placing a beacon at Harlan's base, Atlas is captured. Harlan plans to destroy most of humanity to allow chosen survivors to thrive under AI guidance, extracting security codes from Atlas's brain. After escaping, Atlas and Smith fight their way out, eventually defeating Harlan in hand-to-hand combat. The film was released by Netflix on May 24, 2024, and was not well received by critics, with a 19% approval rating on Rotten Tomatoes.

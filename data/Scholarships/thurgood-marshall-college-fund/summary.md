@@ -1,0 +1,1 @@
+The Thurgood Marshall College Fund (TMCF) is a non-profit organization that supports and represents nearly 300,000 students attending its 55 member-schools that include public historically black colleges and universities (HBCUs), medical schools, and law schools. The organization is named after the Supreme Court's first African-American Justice, Thurgood Marshall.

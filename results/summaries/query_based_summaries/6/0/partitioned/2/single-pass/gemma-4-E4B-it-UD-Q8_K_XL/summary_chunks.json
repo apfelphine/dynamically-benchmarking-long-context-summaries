@@ -1,0 +1,9 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\nDonald Knuth is a renowned computer scientist and author, best known for his monumental work, *The Art of Computer Programming* (TAOCP). His initial published \"scientific\" article was in 1957, defining fundamental units of length and force. He is also credited with proposing the name \"algorithmics\" as a term for computer science.\nKnuth's career involved early work on compilers, including an ALGOL compiler for the Burroughs B205, and he later joined the Stanford University faculty, where he became Professor of The Art of Computer Programming. He has received numerous honors, including the Turing Award and the National Medal of Science. He is also known for his satirical announcement of \"iTeX\" and for having previously offered a finder's fee for typographical errors in his books.",
+        "text_original": "Donald Knuth is a renowned computer scientist and author, best known for his monumental work, *The Art of Computer Programming* (TAOCP). His initial published \"scientific\" article was in 1957, defining fundamental units of length and force. He is also credited with proposing the name \"algorithmics\" as a term for computer science.\n\nKnuth's career involved early work on compilers, including an ALGOL compiler for the Burroughs B205, and he later joined the Stanford University faculty, where he became Professor of The Art of Computer Programming. He has received numerous honors, including the Turing Award and the National Medal of Science. He is also known for his satirical announcement of \"iTeX\" and for having previously offered a finder's fee for typographical errors in his books",
+        "idx_start": 16,
+        "idx_end": 804
+    }
+]

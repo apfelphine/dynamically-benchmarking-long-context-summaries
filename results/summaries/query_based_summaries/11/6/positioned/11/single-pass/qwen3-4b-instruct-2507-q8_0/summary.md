@@ -1,0 +1,13 @@
+An autoencoder is a neural network that learns to compress data into a lower-dimensional latent space and then reconstruct it. It consists of an encoder that maps input data to a latent representation and a decoder that reconstructs the input from this representation. The model is trained to minimize the reconstruction error between the original input and the reconstructed output, typically using a loss function like mean squared error. By forcing the latent space to be smaller than the input space (undercomplete), the autoencoder performs dimensionality reduction and learns compact, meaningful representations.
+
+Variants of autoencoders include:
+- **Variational Autoencoders (VAEs)**: Introduce probabilistic modeling in the latent space, using a prior distribution and a variational posterior to approximate the true posterior, enabling generation of new data samples.
+- **Sparse Autoencoders (SAEs)**: Encourage sparsity in the latent representation by penalizing the activation of most neurons, promoting a more efficient and interpretable feature space.
+- **Denoising Autoencoders (DAEs)**: Train on corrupted inputs, learning to reconstruct the original data, which enhances robustness to noise and improves feature learning.
+- **Contractive Autoencoders (CAEs)**: Add a regularization term that penalizes the sensitivity of the encoder to small input changes, promoting stable and smooth latent representations.
+- **Minimum Description Length (MDL) Autoencoders**: Optimize for the shortest total description length of the data and model, balancing compression and reconstruction accuracy.
+- **Concrete Autoencoders**: Force the latent space to contain only a user-specified number of features, useful for discrete feature selection.
+
+Deep autoencoders, with multiple layers, offer significant advantages over shallow ones, including better compression, reduced training data requirements, and more powerful feature learning. They are trained using techniques such as deep belief networks, where each layer is pre-trained as a restricted Boltzmann machine before fine-tuning via backpropagation.
+
+Applications span dimensionality reduction, anomaly detection, image processing (e.g., denoising, compression, super-resolution), information retrieval, drug discovery, and machine translation. Autoencoders have also been used in communication systems for robust data encoding and in modeling biological processes like memory in the hippocampus.

@@ -1,0 +1,1 @@
+The Don and Gee Nicholl Fellowships in Screenwriting is a fellowship program founded in 1986 to aid screenwriters. It is administered by the Academy of Motion Picture Arts and Sciences, under the governance of the Academy Foundation Board.

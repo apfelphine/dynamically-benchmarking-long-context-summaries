@@ -1,0 +1,1 @@
+The provided text does not contain information regarding "Education in Nigeria." The document exclusively details educational systems in Hong Kong, Ghana, Sweden, England, Norway, France, Armenia, Turkey, Indonesia, Iran, Egypt, Taiwan, Sri Lanka, Israel, and the Republic of Ireland. Consequently, no summary regarding Nigeria can be generated based strictly on the provided text.

@@ -1,0 +1,27 @@
+# Education in China
+
+China's education system has evolved from a focus on literacy post-1949 to prioritizing economic modernization and technical skills following the Cultural Revolution. Key reforms introduced compulsory nine-year education and decentralized educational administration, with increased state funding emphasizing science and technology. Despite rural-urban disparities and funding imbalances, literacy rates have dramatically improved, and Chinese students excel in international academic competitions and assessments like PISA.
+
+The education policy, shaped by CCP ideological priorities, enforces patriotic education and recent reforms aim to reduce homework and regulate private tutoring, especially limiting services in minority regions. The nine-year compulsory education system integrates elementary and junior secondary schooling, with strong emphasis on vocational training to meet economic demands. Higher education, the largest globally, underwent significant reform post-1978 to improve quality, autonomy, and international cooperation, with thousands of institutions and millions of students enrolled. Online education and ICT integration have expanded access, while teacher quality and rural education remain challenges. Issues persist around educational equity, academic competitiveness, censorship, and regional disparities.
+
+# Education in Germany
+
+Germany's education system is state-controlled, characterized by early tracking into distinct secondary school types: Gymnasium (prepares for university), Realschule, Hauptschule, Gesamtschule (comprehensive), and Sonderschule (special education). The dual education system, combining academic and vocational training, is prominent and highly valued. After primary education, students select pathways influencing their academic and career trajectories, with varying exams and qualifications including the Abitur.
+
+Primary and secondary schooling incorporates compulsory foreign language learning, often starting with English. Public schools dominate, with private and international schools also present. Germany has a strong tradition of academic research and tertiary education, with universities (Universitäten) authorized to award doctorates, and applied sciences universities (Fachhochschulen) focusing on practical skills. Tuition fees are generally absent in public universities, with financial aid available. Social and economic factors strongly influence educational attainment, with marked disparities in access and success between social classes and immigrant communities. Reforms focus on improving educational quality and equity.
+
+# Education in India
+
+India follows a 10+2 educational structure, recently revised in the National Education Policy 2020 to a 5+3+3+4 model emphasizing activity-based and holistic learning, with a diverse governance involving both central and state authorities. Education is delivered through government, aided, and private schools, with growing private sector participation driven by demand for quality and English-medium instruction.
+
+India’s education faces challenges including teacher absenteeism, uneven quality, economic and gender disparities, and issues in rural and marginalized communities. Vocational education coexists with traditional academic pathways but remains underdeveloped relative to demand. Higher education is vast but grapples with quality control, overcrowding, and employability concerns; elite institutions like IITs enjoy global recognition. The country has extensive NGO involvement and open and distance learning initiatives, with online education emerging especially post-COVID-19.
+
+Efforts focus on inclusivity, literacy, gender equity, and integration of disadvantaged groups, amid challenges of corruption, grade inflation, and pressures from coaching culture. The government implements numerous policies and programs, including reservation systems, midday meals, and scholarship schemes targeting equitable access and improved learning outcomes.
+
+# Education in Greece
+
+Greece’s education system includes compulsory preschool, six years of primary schooling, followed by compulsory three-year lower secondary (Gymnasium) and three-year non-compulsory upper secondary (Lyceum) education. The system awards certificates granting access to successive levels, with national examinations determining higher education entry. Vocational education is integrated with specialized lyceums and apprenticeship programs inspired by the dual training system.
+
+Higher education comprises public and accredited private institutions, offering undergraduate to doctoral degrees aligned with European frameworks. Non-formal education and lifelong learning initiatives complement formal education. Greece faces challenges such as corruption, bullying, and school crime, as well as historical use of corporal punishment now banned.
+
+The country maintains a detailed national qualification framework (HQF) consistent with European standards, supporting diverse pathways in general, vocational, and higher education. Numerous reforms aim to modernize curricula, expand accessibility, and integrate technology within classrooms. Despite issues in administration and infrastructure, Greece upholds free or affordable education at most levels and encourages participation in international educational programs.

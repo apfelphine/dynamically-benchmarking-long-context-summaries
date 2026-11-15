@@ -1,0 +1,2 @@
+The City University of Hong Kong (CityUHK) is a public university in Kowloon Tong, Kowloon, Hong Kong. It was founded in 1984 as the City Polytechnic of Hong Kong and formally established as the City University of Hong Kong in 1994.
+The university currently has ten main schools offering courses in business, science, engineering, liberal arts and social sciences, law, and veterinary medicine, along with the Chow Yei Ching School of Graduate Studies, CityU Shenzhen Research Institute, and Hong Kong Institute for Advanced Study.

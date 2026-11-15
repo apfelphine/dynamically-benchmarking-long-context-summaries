@@ -1,0 +1,32 @@
+{
+  "id": 51036297,
+  "title": "Kill Command",
+  "url": "https://en.wikipedia.org/wiki/Kill_Command",
+  "path": "AI-Fiction\\kill-command",
+  "summary": {
+    "chars": 301,
+    "tokens": 62
+  },
+  "document": {
+    "chars": 4197,
+    "tokens": 956
+  },
+  "infobox": {
+    "title": "Kill Command",
+    "data": {
+      "Directed by": "Steven Gomez",
+      "Written by": "Steven Gomez",
+      "Produced by": "- Allan Niblo - James Richardson - Jim Spencer",
+      "Starring": "- Thure Lindhardt - Vanessa Kirby - David Ajala",
+      "Cinematography": "Simon Dennis",
+      "Edited by": "- Celeste Bothwick - Alex Mackie",
+      "Music by": "Stephen Hilton",
+      "Production \u00b7 company": "Vertigo Films",
+      "Distributed by": "- Vertigo Films - Front Row Filmed Entertainment - Parco Co. Ltd.",
+      "Release date": "- 13 May 2016",
+      "Running time": "99 minutes",
+      "Country": "United Kingdom",
+      "Language": "English"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The Kosciuszko Foundation is a charitable foundation based in New York City. It was created by Stephen Mizwa to fund programs that promote Polish-American intellectual and artistic exchange.

@@ -1,0 +1,107 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## Lund University\nFounded in 1666, Lund University in Sweden is renowned for excellence in medical and technological sciences, sustainability practices, gender equality initiatives, international collaborations, and a strong Nobel laureate tradition.",
+        "text_original": "Founded in 1666, Lund University in Sweden is renowned for excellence in medical and technological sciences, sustainability practices, gender equality initiatives, international collaborations, and a strong Nobel laureate tradition",
+        "idx_start": 73,
+        "idx_end": 304
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## University of Jordan\nEstablished in 1962, the University of Jordan offers diverse academic programs, major research centers, and the nation\u2019s leading teaching hospital, with alumni committed to resource conservation and national advancement.",
+        "text_original": "Established in 1962, the University of Jordan offers diverse academic programs, major research centers, and the nation\u2019s leading teaching hospital, with alumni committed to resource conservation and national advancement",
+        "idx_start": 332,
+        "idx_end": 551
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## Imperial College London\nFounded in 1907, Imperial specializes in STEM and medicine, with the UK\u2019s largest university endowment. It emphasizes innovation, entrepreneurship, and international diversity.",
+        "text_original": "Founded in 1907, Imperial specializes in STEM and medicine, with the UK\u2019s largest university endowment. It emphasizes innovation, entrepreneurship, and international diversity",
+        "idx_start": 582,
+        "idx_end": 757
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## Boston College\nA Jesuit Catholic institution founded in 1863, Boston College stands out for rigorous academics, selective admissions, robust financial aid, athletic achievement, and an engaged alumni network.",
+        "text_original": "A Jesuit Catholic institution founded in 1863, Boston College stands out for rigorous academics, selective admissions, robust financial aid, athletic achievement, and an engaged alumni network",
+        "idx_start": 779,
+        "idx_end": 971
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## University of Western Ontario (Western University)\nFounded in 1878, Western excels in research, student safety, selectivity, sustainability, and architecture, and boasts Nobel laureates and astronauts among its alumni.",
+        "text_original": "Founded in 1878, Western excels in research, student safety, selectivity, sustainability, and architecture, and boasts Nobel laureates and astronauts among its alumni",
+        "idx_start": 1029,
+        "idx_end": 1195
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## Harvard University\nThe oldest US university (est. 1636), Harvard is a global leader in research and education, closely partnered with MIT, home to world-class libraries and museums, possessing the largest academic endowment, and producing Nobel laureates and presidents.",
+        "text_original": "The oldest US university (est. 1636), Harvard is a global leader in research and education, closely partnered with MIT, home to world-class libraries and museums, possessing the largest academic endowment, and producing Nobel laureates and presidents",
+        "idx_start": 1221,
+        "idx_end": 1471
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## State University of Campinas (Unicamp)\nSince the 1960s, Unicamp has been a benchmark of Brazilian academic excellence through interdisciplinary studies, competitive admissions, inclusive governance, distinguished hospitals, and Latin America\u2019s only synchrotron facility.",
+        "text_original": "Since the 1960s, Unicamp has been a benchmark of Brazilian academic excellence through interdisciplinary studies, competitive admissions, inclusive governance, distinguished hospitals, and Latin America\u2019s only synchrotron facility",
+        "idx_start": 1517,
+        "idx_end": 1747
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## Peking University\nFounded in 1898, Peking University plays a pivotal role in Chinese education and culture, with 55 schools, major research centers, Asia\u2019s largest academic library, and influential alumni.",
+        "text_original": "Founded in 1898, Peking University plays a pivotal role in Chinese education and culture, with 55 schools, major research centers, Asia\u2019s largest academic library, and influential alumni",
+        "idx_start": 1772,
+        "idx_end": 1958
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## University of Manchester\nEstablished in 2004, Manchester is one of the UK\u2019s largest universities, noted for research productivity, international diversity, robust student organizations, and 26 Nobel laureates.",
+        "text_original": "Established in 2004, Manchester is one of the UK\u2019s largest universities, noted for research productivity, international diversity, robust student organizations, and 26 Nobel laureates",
+        "idx_start": 1990,
+        "idx_end": 2173
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## Royal Melbourne Institute of Technology (RMIT)\nFounded in 1887, RMIT operates across continents, focusing on applied research, practical training, career readiness, and vibrant alumni networks, with campuses in Melbourne, Vietnam, and Spain.",
+        "text_original": "Founded in 1887, RMIT operates across continents, focusing on applied research, practical training, career readiness, and vibrant alumni networks, with campuses in Melbourne, Vietnam, and Spain",
+        "idx_start": 2227,
+        "idx_end": 2420
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## University of Auckland\nFounded in 1883, Auckland is New Zealand\u2019s premier university, recognized for modernization, governance, research commercialization, diversity, activism, and prominent alumni, but also facing challenges such as restructuring and library closures.",
+        "text_original": "Founded in 1883, Auckland is New Zealand\u2019s premier university, recognized for modernization, governance, research commercialization, diversity, activism, and prominent alumni, but also facing challenges such as restructuring and library closures",
+        "idx_start": 2450,
+        "idx_end": 2695
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## S\u00e3o Paulo State University (UNESP)\nSince 1976, UNESP has grown across 23 campuses, leading in multidisciplinary teaching, international partnerships, selectivity, bioenergy, and biotechnology in Latin America.",
+        "text_original": "Since 1976, UNESP has grown across 23 campuses, leading in multidisciplinary teaching, international partnerships, selectivity, bioenergy, and biotechnology in Latin America",
+        "idx_start": 2737,
+        "idx_end": 2910
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## University of Sydney\nAustralia\u2019s oldest university (est. 1850), Sydney champions inclusivity, heritage preservation, and academic excellence, producing leaders in politics, law, science, and the arts, including prime ministers and Nobel laureates. It supports diverse colleges and indigenous scholarships, is acclaimed in radio astronomy and physics, but faces ongoing controversies and resource challenges.",
+        "text_original": "Australia\u2019s oldest university (est. 1850), Sydney champions inclusivity, heritage preservation, and academic excellence, producing leaders in politics, law, science, and the arts, including prime ministers and Nobel laureates. It supports diverse colleges and indigenous scholarships, is acclaimed in radio astronomy and physics, but faces ongoing controversies and resource challenges",
+        "idx_start": 2938,
+        "idx_end": 3323
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## University of the Andes (Colombia)\nFounded in 1948 by Mario Laserna Pinz\u00f3n as Colombia\u2019s first nonsectarian, apolitical university, Uniandes cultivates national leaders through technical and liberal education, maintaining neutrality and fostering pluralism, diversity, and social responsibility. It offers customizable interdisciplinary programs, a robust international exchange network (119+ universities in 34 countries), 14 academic and 20 administrative units, significant assets, and a faculty with 70% holding PhDs from top universities, attracting top-ranked students nationwide. The campus, located in Bogot\u00e1\u2019s historic center, blends restored buildings and modern IT infrastructure with extensive facilities, including sports complexes, gyms, health services, study and dining spaces, and a Medicine Internships Center at Fundaci\u00f3n Santa Fe. Uniandes values tradition, with the goat mascot Seneca commemorated annually. Alumni include Colombian presidents, ministers, artists, scientists, and public figures such as C\u00e9sar Gaviria, Mar\u00eda \u00c1ngela Holgu\u00edn, Luis Caballero, and Paola Turbay, reflecting the institution\u2019s national influence.",
+        "text_original": "Founded in 1948 by Mario Laserna Pinz\u00f3n as Colombia\u2019s first nonsectarian, apolitical university, Uniandes cultivates national leaders through technical and liberal education, maintaining neutrality and fostering pluralism, diversity, and social responsibility. It offers customizable interdisciplinary programs, a robust international exchange network (119+ universities in 34 countries), 14 academic and 20 administrative units, significant assets, and a faculty with 70% holding PhDs from top universities, attracting top-ranked students nationwide. The campus, located in Bogot\u00e1\u2019s historic center, blends restored buildings and modern IT infrastructure with extensive facilities, including sports complexes, gyms, health services, study and dining spaces, and a Medicine Internships Center at Fundaci\u00f3n Santa Fe. Uniandes values tradition, with the goat mascot Seneca commemorated annually. Alumni include Colombian presidents, ministers, artists, scientists, and public figures such as C\u00e9sar Gaviria, Mar\u00eda \u00c1ngela Holgu\u00edn, Luis Caballero, and Paola Turbay, reflecting the institution\u2019s national influence",
+        "idx_start": 3365,
+        "idx_end": 4473
+    },
+    {
+        "document_idx": null,
+        "text": "# Comparative Summary: Leading Global Universities\n## University of the Andes (Colombia)\n### Overview:\nThese universities exemplify global leadership in education, research, and social impact, each excelling in areas such as practical learning, modernization, scientific innovation, and progressive milestones. Uniandes highlights the impact of political neutrality, pluralism, and interdisciplinary flexibility in nurturing national progress, robust campuses, and influential alumni. Across all institutions, there is an enduring commitment to internationalization, alumni engagement, adaptability, and societal advancement.",
+        "text_original": "These universities exemplify global leadership in education, research, and social impact, each excelling in areas such as practical learning, modernization, scientific innovation, and progressive milestones. Uniandes highlights the impact of political neutrality, pluralism, and interdisciplinary flexibility in nurturing national progress, robust campuses, and influential alumni. Across all institutions, there is an enduring commitment to internationalization, alumni engagement, adaptability, and societal advancement",
+        "idx_start": 4497,
+        "idx_end": 5018
+    }
+]

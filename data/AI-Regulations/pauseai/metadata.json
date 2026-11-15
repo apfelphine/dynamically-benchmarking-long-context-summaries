@@ -1,0 +1,26 @@
+{
+  "id": 77072832,
+  "title": "PauseAI",
+  "url": "https://en.wikipedia.org/wiki/PauseAI",
+  "path": "AI-Regulations\\pauseai",
+  "summary": {
+    "chars": 391,
+    "tokens": 76
+  },
+  "document": {
+    "chars": 3138,
+    "tokens": 662
+  },
+  "infobox": {
+    "title": "PauseAI",
+    "data": {
+      "Formation": "May 2023",
+      "Founder": "Joep Meindertsma",
+      "Founded at": "Utrecht, Netherlands",
+      "Type": "Advocacy group, Nonprofit",
+      "Purpose": "Mitigating the existential risk from artificial general intelligence and other risks of advanced artificial intelligence",
+      "Region": "International",
+      "Website": "pauseai.info"
+    }
+  }
+}

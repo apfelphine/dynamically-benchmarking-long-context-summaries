@@ -1,0 +1,35 @@
+{
+  "id": 67351889,
+  "title": "M3GAN",
+  "url": "https://en.wikipedia.org/wiki/M3GAN",
+  "path": "AI-Fiction\\m3gan",
+  "summary": {
+    "chars": 938,
+    "tokens": 219
+  },
+  "document": {
+    "chars": 16189,
+    "tokens": 3776
+  },
+  "infobox": {
+    "title": "M3GAN",
+    "data": {
+      "Directed by": "Gerard Johnstone",
+      "Screenplay by": "Akela Cooper",
+      "Story by": "- Akela Cooper - James Wan",
+      "Produced by": "- Jason Blum - James Wan",
+      "Starring": "- Allison Williams - Violet McGraw - Ronny Chieng - Jenna Davis - Amie Donald",
+      "Cinematography": "Peter McCaffrey",
+      "Edited by": "Jeff McEvoy",
+      "Music by": "Anthony Willis",
+      "Production \u00b7 companies": "- Blumhouse Productions - Atomic Monster",
+      "Distributed by": "Universal Pictures",
+      "Release dates": "- December 7, 2022 (Los Angeles) - January 6, 2023 (United States)",
+      "Running time": "102 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$12 million",
+      "Box office": "$181.8 million"
+    }
+  }
+}

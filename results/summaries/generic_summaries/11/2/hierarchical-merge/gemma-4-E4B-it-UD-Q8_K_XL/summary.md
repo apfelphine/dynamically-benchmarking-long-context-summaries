@@ -1,0 +1,10 @@
+## Neural Network Architectures Overview
+
+### Vision, Sequence, and Graph Processing
+Deep learning utilizes specialized architectures for different data types. Convolutional Neural Networks (CNNs) excel at visual tasks using local connectivity and shared weights, with modern variants incorporating efficiency improvements. For sequence modeling, Recurrent Neural Networks (RNNs/LSTMs/GRUs) handle temporal dependencies, while Transformers dominate NLP by using Multihead Self-Attention to capture long-range context. In computer vision, Vision Transformers (ViTs) apply the Transformer mechanism to image patches, sometimes surpassing CNNs. Graph Neural Networks (GNNs), including GCNs and GATs, process structured data by iteratively passing messages between nodes.
+
+### Generative, Dimensionality Reduction, and Approximating Models
+Models for generating realistic data include Generative Adversarial Networks (GANs), which employ a minimax game between generator and discriminator, and Variational Autoencoders (VAEs), which are probabilistic models optimizing the ELBO. Autoencoders (AEs) are used for dimensionality reduction by compressing data into a latent space. Beyond these, Radial Basis Function (RBF) Networks serve as universal approximators, and specialized GAN variants like StyleGAN offer finer control over synthesis.
+
+### Advanced Techniques and Interpretation
+Several advanced techniques enhance model capabilities and understanding. Self-supervised learning, seen in models like MAE and DINO, is used for pretraining vision models. In interpretability, Class Activation Mapping (CAM) methods, including Grad-CAM and its variants, allow researchers to visualize which parts of an input most influenced a network's prediction. For handling complexity in sequence models, sparse attention techniques are being developed to reduce the quadratic complexity associated with standard Transformers.

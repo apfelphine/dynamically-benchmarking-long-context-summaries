@@ -1,0 +1,5 @@
+## Wasserstein GAN Summary
+
+The Wasserstein GAN (WGAN) is an adaptation of the standard Generative Adversarial Network (GAN) game, motivated by the limitations of the original GAN objective. The standard GAN game, defined by the Jensen–Shannon divergence ($D_{JS}$), suffers severely in high-dimensional spaces like ImageNet because the generator distribution ($\mu_G$) is often disjoint from the reference distribution ($\mu_{ref}$), leading to infinite divergence and vanishing gradients for the generator.
+
+WGAN resolves this by utilizing the Wasserstein metric. In WGAN, the discriminator's strategy set is restricted to measurable functions $D:\Omega \to \mathbb{R}$ with a bounded Lipschitz norm ($\|D\|_L \le K$). The objective function is changed to $L_{WGAN}(\mu_G,D):=\mathbb{E}_{x\sim \mu_G}[D(x)]-\mathbb{E}_{x\sim \mu_{ref}}[D(x)]$. Training WGAN involves gradient descent for the generator, while the discriminator's training requires methods to enforce the Lipschitz constraint, such as weight clipping, spectral normalization, or adding a gradient penalty term.

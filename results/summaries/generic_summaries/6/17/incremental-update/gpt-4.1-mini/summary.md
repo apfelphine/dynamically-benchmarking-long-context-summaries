@@ -1,0 +1,37 @@
+**Lynn Conway** (1938–2024) was a pioneering transgender computer scientist and electrical engineer who revolutionized VLSI chip design with the Mead–Conway methodology and MOSIS prototyping system. She advanced electronic design automation and engineering education at Xerox PARC, Memorex, DARPA, and academia, while advocating for transgender rights.
+
+**Donald Knuth** (b. 1938) is foundational in computer science for *The Art of Computer Programming*, literate programming, and the TeX typesetting system. His contributions to algorithm analysis, digital typography, and computer architecture earned him prestigious awards.
+
+**Kurt Gödel** (1906–1978), Austrian logician and mathematician, transformed logic, philosophy, and physics with his incompleteness and completeness theorems and work on Einstein’s field equations enabling theoretical time travel. His foundational contributions to set theory and axiomatic systems remain influential despite later mental health struggles.
+
+**Claude Shannon** (1916–2001), the "father of information theory," revolutionized digital communication, cryptography, and circuit design through groundbreaking theses and papers. His innovations laid the foundations of the digital age.
+
+**Ismail al-Jazari** (c. 1136–1206) was a medieval Islamic engineer who authored *The Book of Knowledge of Ingenious Mechanical Devices*, pioneering mechanical engineering and automation with inventions like programmable automata and hydropowered machines.
+
+**Edsger W. Dijkstra** (1930–2002) was a Dutch computer scientist who developed the first ALGOL 60 compiler, solved the shortest path problem, and devised foundational algorithms and programming philosophies emphasizing clarity. His legacy includes seminal works and the Turing Award.
+
+**Geoffrey Hinton** (b. 1947) revitalized neural networks through backpropagation and co-invented Boltzmann machines. A Nobel laureate, he remains influential in AI theory and policy while warning about AI risks.
+
+**Herbert A. Simon** (1916–2001) integrated economics, psychology, AI, and organizational theory, introducing bounded rationality and satisficing. A Nobel and Turing Awardee, Simon challenged neoclassical models and promoted sustained practice for expertise.
+
+**George Antheil** (1900–1959), modernist composer and bilingual prodigy, fused mechanistic rhythms and jazz, co-inventing frequency-hopping spread spectrum technology foundational for wireless communication.
+
+**Per Brinch Hansen** (d. 2007) specialized in operating systems and concurrent computing, pioneering kernel concepts, monitors, and distributed computing ideas that shaped modern systems.
+
+**Ramon Llull** (1232/3–1315/16) developed the *Art*, a universal combinatorial logical system blending logic, language, and theology with lasting influence on medieval philosophy, logic, and early computational ideas.
+
+**Al-Khwārizmī** (9th century), Persian scholar at Baghdad’s House of Wisdom, authored *Al-Jabr*, establishing algebra, introduced Hindu-Arabic numerals to the West, coined "algorithm," and advanced astronomy and geography.
+
+**George Boole** (1815–1864) founded Boolean algebra, algebraizing logic to underpin modern logic and computing; his legacy influenced Claude Shannon and includes his family’s notable AI descendants.
+
+**Gottlob Frege** (1848–1925), German logician and mathematician, pioneered axiomatic predicate logic and analytic philosophy with major contributions including function-argument analysis, the concept-object distinction, compositionality, and the sense-reference dichotomy. His second-order logic introduced *Basic Law V*, which faced consistency challenges but inspired consistent modifications. His key works include *The Foundations of Arithmetic* (1884), *Grundgesetze der Arithmetik* (1893, 1903), and philosophical papers like "Function and Concept" (1891), "On Sense and Reference" (1892), and *Logical Investigations* (1918–1923). While profoundly influential, his late-life writings revealed extreme right-wing and antisemitic views.
+
+**Kenneth E. Iverson** (1920–2004) was a pioneering Canadian computer scientist who developed APL, a programming language grounded in a unique mathematical notation combining matrix algebra and higher-order functions, influencing computing education and system descriptions. At IBM Research, he implemented APL on IBM systems and advanced its theoretical foundations. Later, at I.P. Sharp Associates, Iverson extended APL and co-created the J programming language with Arthur Whitney and Roger Hui, emphasizing simplicity and ASCII usability. He received the Turing Award (1979) among other honors.
+
+**Grace Hopper** (1906–1992) was a pioneering computer scientist and naval officer who programmed the Harvard Mark I, developed the first compiler (A-0), and strongly influenced business programming languages such as COBOL. She popularized computing culture through concepts like "debugging" and analogies such as "nanoseconds." Hopper achieved the rank of Rear Admiral, received numerous prestigious awards including the National Medal of Technology and posthumous Presidential Medal of Freedom. Her legacy endures globally through honors such as the USS Hopper destroyer, Yale's Hopper College, Nvidia’s 2024 CPU and GPU generations, and initiatives promoting women in computing like the Grace Hopper Celebration.
+
+**Jacek Karpiński** (1927–2010) was a Polish engineer known for early transistor-based computers including the K-202 minicomputer featuring advanced modularity and speed. Political interference and monopolies limited his recognition and mass production. After moving abroad, he returned to Poland advising on tech despite commercial setbacks. Controversially, he was an informant for Polish intelligence but later surveilled himself. His contributions remain debated and documented in biographies.
+
+**Federico Faggin** is an Italian physicist and engineer who pioneered MOS silicon gate technology, enabling key advances in NMOS/CMOS microelectronics and designed the first commercial silicon-gate IC at Fairchild. He led the design of the Intel 4004 (1971), the world’s first commercial microprocessor, and contributed to other Intel early products, including the 8008 and 8080 CPUs. Co-founding Zilog, he created the influential Z80 CPU and Z8 microcontroller. Later ventures include Communication CoSystem, Synaptics (developing touchpads and early touchscreens), and image sensor advances at Foveon. He and Elvia Faggin founded a foundation supporting consciousness research. Faggin authored books on microprocessor history, science, spirituality, and consciousness, proposing it as a unique quantum phenomenon independent from the body. His numerous honors include the Marconi Fellowship, Kyoto Prize, National Medal of Technology and Innovation, and European Inventor Lifetime Achievement Award.
+
+Together, these visionaries—Conway, Knuth, Gödel, Shannon, al-Jazari, Dijkstra, Hinton, Simon, Antheil, Brinch Hansen, Llull, Al-Khwārizmī, Boole, Frege, Iverson, Hopper, Karpiński, and Faggin—exemplify transformative innovators whose foundational contributions across computer science, engineering, logic, mathematics, physics, AI, social science, the arts, medieval philosophy, early scientific thought, microprocessor technology, and computing history have profoundly shaped their fields and continue to inspire ongoing scholarship and progress.

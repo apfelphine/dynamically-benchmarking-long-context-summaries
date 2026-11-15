@@ -1,0 +1,27 @@
+{
+  "id": 58731,
+  "title": "Peter Naur",
+  "url": "https://en.wikipedia.org/wiki/Peter_Naur",
+  "path": "Comp-Sci-Pioneers\\peter-naur",
+  "summary": {
+    "chars": 327,
+    "tokens": 80
+  },
+  "document": {
+    "chars": 3619,
+    "tokens": 733
+  },
+  "infobox": {
+    "title": "Peter Naur",
+    "data": {
+      "Born": "25 October 1928 \u00b7 Frederiksberg, Denmark",
+      "Died": "3 January 2016 (aged 87) \u00b7 Herlev, Denmark",
+      "Education": "University of Copenhagen (BS, MS, PhD)",
+      "Known for": "ALGOL \u00b7 Backus\u2013Naur form",
+      "Spouse": "Christiane Floyd",
+      "Awards": "Computer Pioneer Award (1986) \u00b7 Turing Award (2005)",
+      "Fields": "Computer science, informatics",
+      "Institutions": "Regnecentralen \u00b7 Niels Bohr Institute \u00b7 Technical University of Denmark \u00b7 University of Copenhagen"
+    }
+  }
+}

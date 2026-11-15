@@ -1,0 +1,33 @@
+{
+  "id": 349679,
+  "title": "Technical University of Munich",
+  "url": "https://en.wikipedia.org/wiki/Technical_University_of_Munich",
+  "path": "Universities\\technical-university-of-munich",
+  "summary": {
+    "chars": 916,
+    "tokens": 193
+  },
+  "document": {
+    "chars": 29256,
+    "tokens": 5854
+  },
+  "infobox": {
+    "title": "Technical University of Munich",
+    "data": {
+      "Motto": "The Entrepreneurial University",
+      "Type": "Public",
+      "Established": "April 12, 1868",
+      "Founder": "Ludwig II of Bavaria",
+      "Academic affiliation": "ATHENS EAIE EUA EuroTech GUEI TIME TU9",
+      "Budget": "\u20ac1,892.9 million (2023) - University: \u20ac1,098.2 million - Hospital: \u20ac794.7 million",
+      "President": "Thomas Hofmann \u00b7 (list of presidents)",
+      "Academic staff": "698 professors \u00b7 8,037 (other academic staff)",
+      "Administrative staff": "4,262 (without university hospital)",
+      "Students": "52,931 (WS 2024\u201325)",
+      "Address": "Arcisstra\u00dfe 21, Munich, Bavaria, 80333, Germany \u00b7 48\u00b008\u203253\u2033N 11\u00b034\u203205\u2033E\ufeff / \ufeff48.14806\u00b0N 11.56806\u00b0E",
+      "Campus": "Urban",
+      "Colors": "Blue, White",
+      "Website": "tum.de"
+    }
+  }
+}

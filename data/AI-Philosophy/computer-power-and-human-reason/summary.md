@@ -1,0 +1,1 @@
+Computer Power and Human Reason: From Judgment to Calculation is a 1976 nonfiction book by German-American computer scientist Joseph Weizenbaum in which he contends that while artificial intelligence may be possible, we should never allow computers to make important decisions, as they will always lack human qualities such as compassion and wisdom.

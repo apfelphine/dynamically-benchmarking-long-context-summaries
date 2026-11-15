@@ -1,0 +1,30 @@
+{
+  "id": 69438830,
+  "title": "The Alignment Problem",
+  "url": "https://en.wikipedia.org/wiki/The_Alignment_Problem",
+  "path": "AI-Regulations\\the-alignment-problem",
+  "summary": {
+    "chars": 295,
+    "tokens": 51
+  },
+  "document": {
+    "chars": 3780,
+    "tokens": 705
+  },
+  "infobox": {
+    "title": "The Alignment Problem: Machine Learning and Human Values",
+    "data": {
+      "Author": "Brian Christian",
+      "Language": "English",
+      "Subject": "AI alignment",
+      "Publisher": "W. W. Norton & Company",
+      "Publication date": "October 6, 2020",
+      "Publication place": "United States",
+      "Media type": "Print, e-book, audiobook",
+      "Pages": "496",
+      "ISBN": "0393635821",
+      "OCLC": "1137850003",
+      "Website": "brianchristian.org/the-alignment-problem"
+    }
+  }
+}

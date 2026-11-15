@@ -1,0 +1,9 @@
+# Master Summary
+
+## Scholarships and Educational Foundations
+
+The landscape of higher education funding encompasses diverse models ranging from U.S. merit-based initiatives to international exchange programs. In the United States, programs like Florida Bright Futures offer substantial tuition coverage, while the National Merit Scholarship and the Thurgood Marshall College Fund (TMCF) support over 55 Historically Black Colleges and Universities (HBCUs) through corporate grants and strategic acquisitions. Globally, prestigious initiatives such as the Rhodes Scholarship and the Busby Foundation continue to cultivate leaders, though they navigate complex legacies; the Busby Foundation, inspired by Margaret Busby's literary canon, now awards an annual scholarship to African women students, and the Rhodes program, despite historical controversies, expands its demographic reach.
+
+## International Initiatives and Unique Models
+
+International exchange programs face varying degrees of stability and political scrutiny. While Kazakhstan's Bolashak program serves over 12,800 students and the Studienstiftung des deutschen Volkes supports students across Germany, the EU, and Switzerland with extensive mentorship, other programs have faced severe disruptions. The Fulbright Program suspended nearly 20,000 participants in 2025 due to U.S. funding freezes, highlighting the precarious nature of global academic bridges. Distinct from these transatlantic exchanges, the Shuping Scholarship in China offers a unique civic engagement model, combining full tuition, medical care, and vocational training with a mandate to "return to society," serving over 700 students annually across multiple Chinese cities.

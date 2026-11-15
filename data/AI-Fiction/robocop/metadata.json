@@ -1,0 +1,34 @@
+{
+  "id": 445066,
+  "title": "RoboCop",
+  "url": "https://en.wikipedia.org/wiki/RoboCop",
+  "path": "AI-Fiction\\robocop",
+  "summary": {
+    "chars": 2537,
+    "tokens": 555
+  },
+  "document": {
+    "chars": 59512,
+    "tokens": 12857
+  },
+  "infobox": {
+    "title": "RoboCop",
+    "data": {
+      "Directed by": "Paul Verhoeven",
+      "Written by": "- Edward Neumeier - Michael Miner",
+      "Produced by": "Arne Schmidt",
+      "Starring": "- Peter Weller - Nancy Allen - Daniel O'Herlihy - Ronny Cox - Kurtwood Smith - Miguel Ferrer",
+      "Cinematography": "Jost Vacano",
+      "Edited by": "Frank J. Urioste",
+      "Music by": "Basil Poledouris",
+      "Production \u00b7 company": "Orion Pictures",
+      "Distributed by": "Orion Pictures",
+      "Release date": "- July 17, 1987",
+      "Running time": "102 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$13.7 million",
+      "Box office": "$53.4 million"
+    }
+  }
+}

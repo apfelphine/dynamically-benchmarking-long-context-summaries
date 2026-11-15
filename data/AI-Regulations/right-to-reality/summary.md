@@ -1,0 +1,2 @@
+The right to reality refers to the right to consume organic content as opposed to content created by artificial intelligence, or more broadly speaking, to experience life and the world as they are, not through simulations and simulacra. It was once defined as "the latest in a series of novel rights set forth in response to a sizable jump in technology".
+A right to reality can also refer to the right to consume real news in opposition to fake news, as well as the right to receive information when in a news desert.

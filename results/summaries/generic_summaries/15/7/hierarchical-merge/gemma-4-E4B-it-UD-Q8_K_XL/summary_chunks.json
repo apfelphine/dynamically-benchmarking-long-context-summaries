@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Global University Profiles\n## North American and Oceanic Institutions\nSeveral prominent institutions demonstrate diverse strengths. Cornell University (founded 1865) is a research powerhouse known for its sustainability focus and large endowment, while the University of Melbourne (established 1853) is a leading international research center facing recent administrative challenges. The University of British Columbia (UBC), founded in 1915, emphasizes sustainability, hosts a high percentage of international students, and supports significant research endeavors like TRIUMF.\nCanada's University of Toronto (U of T), established in 1827, is Canada's largest post-secondary institution, renowned for major research achievements in medicine and computing, and holds substantial economic influence through its alumni.",
+        "text_original": "Several prominent institutions demonstrate diverse strengths. Cornell University (founded 1865) is a research powerhouse known for its sustainability focus and large endowment, while the University of Melbourne (established 1853) is a leading international research center facing recent administrative challenges. The University of British Columbia (UBC), founded in 1915, emphasizes sustainability, hosts a high percentage of international students, and supports significant research endeavors like TRIUMF.\n\nCanada's University of Toronto (U of T), established in 1827, is Canada's largest post-secondary institution, renowned for major research achievements in medicine and computing, and holds substantial economic influence through its alumni",
+        "idx_start": 73,
+        "idx_end": 819
+    },
+    {
+        "document_idx": null,
+        "text": "# Global University Profiles\n## Asian and Latin American Institutions\nIn Asia, the National University of Singapore (NUS, 1980) is a globally ranked, research-intensive institution blending British and American models, with plans to incorporate Yale-NUS College. The University of Hong Kong (HKU, 1911) is recognized for its research across multiple disciplines. Latin America features the National Autonomous University of Mexico (UNAM, 1910), a premier research university with a humanist approach to disciplines like AI, and the Federal University of Rio de Janeiro (UFRJ), which prioritizes research and international exchange.",
+        "text_original": "In Asia, the National University of Singapore (NUS, 1980) is a globally ranked, research-intensive institution blending British and American models, with plans to incorporate Yale-NUS College. The University of Hong Kong (HKU, 1911) is recognized for its research across multiple disciplines. Latin America features the National Autonomous University of Mexico (UNAM, 1910), a premier research university with a humanist approach to disciplines like AI, and the Federal University of Rio de Janeiro (UFRJ), which prioritizes research and international exchange",
+        "idx_start": 863,
+        "idx_end": 1423
+    },
+    {
+        "document_idx": null,
+        "text": "# Global University Profiles\n## Other Notable Global Institutions\nThe University of Oxford, tracing its roots to 1096, operates via a collegiate system and is highly regarded globally, particularly in the Humanities, though it has faced modern scrutiny regarding historical donations. Other comprehensive institutions mentioned include the University of New South Wales (UNSW, 1946), noted for its robust research and international programs.",
+        "text_original": "The University of Oxford, tracing its roots to 1096, operates via a collegiate system and is highly regarded globally, particularly in the Humanities, though it has faced modern scrutiny regarding historical donations. Other comprehensive institutions mentioned include the University of New South Wales (UNSW, 1946), noted for its robust research and international programs",
+        "idx_start": 1463,
+        "idx_end": 1837
+    }
+]

@@ -1,0 +1,33 @@
+{
+  "id": 60799825,
+  "title": "Ron's Gone Wrong",
+  "url": "https://en.wikipedia.org/wiki/Ron%27s_Gone_Wrong",
+  "path": "AI-Fiction\\rons-gone-wrong",
+  "summary": {
+    "chars": 974,
+    "tokens": 222
+  },
+  "document": {
+    "chars": 24024,
+    "tokens": 4985
+  },
+  "infobox": {
+    "title": "Ron's Gone Wrong",
+    "data": {
+      "Directed by": "- Sarah Smith - Jean-Philippe Vine",
+      "Written by": "- Peter Baynham - Sarah Smith",
+      "Produced by": "- Julie Lockhart - Lara Breay",
+      "Starring": "- Jack Dylan Grazer - Zach Galifianakis - Ed Helms - Justice Smith - Rob Delaney - Kylie Cantrall - Ricardo Hurtado - Olivia Colman",
+      "Cinematography": "- David Peers - Hailey White",
+      "Edited by": "David Burrows",
+      "Music by": "Henry Jackman",
+      "Production \u00b7 company": "Locksmith Animation",
+      "Distributed by": "20th Century Studios",
+      "Release dates": "- 9 October 2021 (BFI London Film Festival) - 15 October 2021 (United Kingdom) - 22 October 2021 (United States)",
+      "Running time": "107 minutes",
+      "Countries": "- United Kingdom - United States",
+      "Language": "English",
+      "Box office": "$60.7 million"
+    }
+  }
+}

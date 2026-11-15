@@ -1,0 +1,25 @@
+# Comparative Overview of Global Education Systems
+
+## Portugal
+Portugal has modernized its education system since the 1974 Carnation Revolution, offering compulsory basic and secondary education mostly funded by the state. Secondary school features specialized tracks and flexible pathways for adult learners, while public schools and rigorous teacher qualifications prevail. Challenges include university funding, dropout and adult illiteracy rates, and disparities between public and private institutions. Higher education attainment trails the EU average, spurring ongoing reforms for improved quality and inclusivity.
+
+## South Africa
+South Africa’s education system is shaped by the legacy of colonialism and apartheid. Reforms have broadened access and democratized education, but inequalities persist, especially regarding infrastructure and resources in rural areas. Efforts to improve digital access and curriculum relevance continue alongside high dropout rates and graduate unemployment. The divide between public and private schools underscores the need for equity-focused policies.
+
+## Australia
+Australia’s education system is overseen by states and territories, encompassing public, Catholic, independent, and international schools under a largely standardized national curriculum. Equity-driven funding reforms and targeted support for Indigenous students are ongoing, but challenges include decreasing proficiency, school violence, unequal access, ongoing religious education debates, and shrinking government support. Australia remains a leading destination for international students.
+
+## Finland
+Finland’s education system offers nine years of compulsory schooling and universally accessible, tuition-free upper secondary options, both academic and vocational. Distinguished by small class sizes, highly qualified teachers, and comprehensive social support, Finland also champions adult learning. Its educational excellence is recognized globally, and reforms seek to further expand vocational education and skilled labor supply. Finland actively exports its education model and participates in international collaborations such as the Bologna Process.
+
+## Romania
+Romania mandates 15 years of schooling, from kindergarten through high school, with standardized placement and graduation exams. Despite high literacy rates and diverse academic tracks, stark disparities exist between urban and rural areas, with rural students facing absenteeism and underfunded resources. Debates persist over religious education and grading digitalization, while modest university enrollment and rising international study rates contribute to concerns about brain drain.
+
+## United States
+The U.S. education system is highly decentralized, marked by pronounced disparities in standards, funding, and resources due to localized governance and property tax reliance. Achievement gaps are evident along racial, socioeconomic, and geographic lines, and are compounded by teacher shortages, low pay, high burnout, and uneven standardized testing outcomes. Libraries support literacy but face low parental involvement and poor outcomes in marginalized groups, including the incarcerated. Higher education is characterized by high costs, growing debt, declining enrollment, and adjunct faculty reliance. Performance in math, science, and literacy remains below international benchmarks, fueling calls for comprehensive reform.
+
+## Malaysia
+Malaysia’s education system is shaped by multiculturalism, colonial legacy, and religious factors, resulting in diverse school types: Malay national schools, Chinese and Tamil national-type schools, Islamic institutions, and international schools. Emphasis is placed on the Malay language, with English allowed for science and math. School-type diversity raises concerns about racial polarization, prompting projects for integration. Public university admissions operate under affirmative action, heavily favoring Bumiputera students and B40 applicants, with limited minority representation. Pathways include Form 6 (STPM), government matriculation, and the Chinese UEC. Recent policies focus on teacher quality and integration, but efforts to attract global talent remain limited.
+
+## Philippines
+The Philippine education system transitioned from informal and religious origins to a centralized approach influenced by American models. The 2012 K–12 reform extended compulsory education to 13 years, adding senior high tracks, while initiatives like free state tertiary education and the Alternative Learning System aim to improve access. Despite high basic literacy, persistent issues include underfunding, teacher shortages, regional disparities, low proficiency (notably in reading), high dropout rates, and a mismatch between graduates and labor market needs. The COVID-19 pandemic exacerbated these challenges, prompting calls for increased investment and quality improvements.

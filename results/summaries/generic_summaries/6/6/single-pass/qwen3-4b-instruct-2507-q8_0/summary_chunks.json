@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Gottlob Frege\n- **Life** : Born in Wismar, Germany (1848). Studied at the University of Jena and later at G\u00f6ttingen. Married Margarete Lieseberg in 1887.\n- **Work as a logician** : Developed *Begriffsschrift* (1879), introducing a formal language for pure thought. Introduced quantified variables and functions, enabling rigorous treatment of logic and arithmetic. His *Grundgesetze der Arithmetik* (1893\u20131903) aimed to show arithmetic as a branch of logic. His work was challenged by Russell's paradox in 1903, leading to a controversial appendix.\n- **Philosopher** : Key figure in analytic philosophy. Introduced the distinction between *sense* ( *Sinn* ) and *reference* ( *Bedeutung* ), influencing the philosophy of language.\n- **Political views and antisemitism** : Later in life, expressed extreme right-wing views, including hostility toward Jews, though he maintained friendly relations with Jewish students.\n- **Legacy** : His work laid the foundation for modern logic, influencing Russell, Whitehead, G\u00f6del, and the development of formal logic and set theory.",
+        "text_original": "Life**: Born in Wismar, Germany (1848). Studied at the University of Jena and later at G\u00f6ttingen. Married Margarete Lieseberg in 1887. \n- **Work as a logician**: Developed *Begriffsschrift* (1879), introducing a formal language for pure thought. Introduced quantified variables and functions, enabling rigorous treatment of logic and arithmetic. His *Grundgesetze der Arithmetik* (1893\u20131903) aimed to show arithmetic as a branch of logic. His work was challenged by Russell's paradox in 1903, leading to a controversial appendix. \n- **Philosopher**: Key figure in analytic philosophy. Introduced the distinction between *sense* (*Sinn*) and *reference* (*Bedeutung*), influencing the philosophy of language. \n- **Political views and antisemitism**: Later in life, expressed extreme right-wing views, including hostility toward Jews, though he maintained friendly relations with Jewish students. \n- **Legacy**: His work laid the foundation for modern logic, influencing Russell, Whitehead, G\u00f6del, and the development of formal logic and set theory",
+        "idx_start": 26,
+        "idx_end": 1072
+    },
+    {
+        "document_idx": null,
+        "text": "# Grace Hopper\n- **Early life and education** : Born in New York. Earned degrees in mathematics and physics from Vassar and Yale.\n- **Career** : Served in the U.S. Navy during WWII, later becoming a senior officer. Joined Eckert\u2013Mauchly Computer Corporation and developed the first compiler (A compiler).\n- **COBOL** : Championed the creation of COBOL, a business-oriented programming language that used English-like syntax, making it accessible to non-specialists.\n- **Legacy** : A pioneer in programming languages and computer science. Received numerous awards, including the National Medal of Technology and the Presidential Medal of Freedom. Named after her in various institutions (e.g., USS Hopper, Grace Hopper Celebration).",
+        "text_original": "Early life and education**: Born in New York. Earned degrees in mathematics and physics from Vassar and Yale. \n- **Career**: Served in the U.S. Navy during WWII, later becoming a senior officer. Joined Eckert\u2013Mauchly Computer Corporation and developed the first compiler (A compiler). \n- **COBOL**: Championed the creation of COBOL, a business-oriented programming language that used English-like syntax, making it accessible to non-specialists. \n- **Legacy**: A pioneer in programming languages and computer science. Received numerous awards, including the National Medal of Technology and the Presidential Medal of Freedom. Named after her in various institutions (e.g., USS Hopper, Grace Hopper Celebration",
+        "idx_start": 1105,
+        "idx_end": 1814
+    },
+    {
+        "document_idx": null,
+        "text": "# Al-Khwarizmi\n- **Life** : Persian scholar from Khwarazm (modern-day Uzbekistan). Worked in Baghdad during the Islamic Golden Age.\n- **Contributions** :\n    - Authored *Al-Jabr* (c. 820), establishing algebra as a field.\n    - Developed algorithms for arithmetic, which gave rise to the term *algorithm* .\n    - Wrote on astronomy, geography, and trigonometry, improving upon Ptolemy\u2019s work.\n- **Legacy** : Known as the \"father of algebra.\" His work spread to Europe via Latin translations and became foundational in the development of mathematics and computing.",
+        "text_original": "Life**: Persian scholar from Khwarazm (modern-day Uzbekistan). Worked in Baghdad during the Islamic Golden Age. \n- **Contributions**: \n  - Authored *Al-Jabr* (c. 820), establishing algebra as a field. \n  - Developed algorithms for arithmetic, which gave rise to the term *algorithm*. \n  - Wrote on astronomy, geography, and trigonometry, improving upon Ptolemy\u2019s work. \n- **Legacy**: Known as the \"father of algebra.\" His work spread to Europe via Latin translations and became foundational in the development of mathematics and computing",
+        "idx_start": 1848,
+        "idx_end": 2386
+    },
+    {
+        "document_idx": null,
+        "text": "# Federico Faggin\n- **Education and early career** : Born in Italy. Earned a physics degree from the University of Padua. Joined Olivetti and then SGS-Fairchild.\n- **Silicon-gate technology** : Pioneered the silicon-gate technology (SGT) at Fairchild, which became the foundation for modern microelectronics.\n- **Microprocessor design** : Designed the Intel 4004, the first single-chip microprocessor. Developed the 8008 and 8080 microprocessors.\n- **Zilog and Synaptics** : Co-founded Zilog and Synaptics, where he invented the touchpad and contributed to neural network research.\n- **Consciousness theory** : Proposed a quantum-based theory of consciousness, suggesting that consciousness arises from quantum states.\n- **Legacy** : A key figure in the development of microprocessors and computer hardware. Awarded numerous honors, including the Turing Award.",
+        "text_original": "Education and early career**: Born in Italy. Earned a physics degree from the University of Padua. Joined Olivetti and then SGS-Fairchild. \n- **Silicon-gate technology**: Pioneered the silicon-gate technology (SGT) at Fairchild, which became the foundation for modern microelectronics. \n- **Microprocessor design**: Designed the Intel 4004, the first single-chip microprocessor. Developed the 8008 and 8080 microprocessors. \n- **Zilog and Synaptics**: Co-founded Zilog and Synaptics, where he invented the touchpad and contributed to neural network research. \n- **Consciousness theory**: Proposed a quantum-based theory of consciousness, suggesting that consciousness arises from quantum states. \n- **Legacy**: A key figure in the development of microprocessors and computer hardware. Awarded numerous honors, including the Turing Award",
+        "idx_start": 2422,
+        "idx_end": 3258
+    },
+    {
+        "document_idx": null,
+        "text": "# Per Brinch Hansen\n- **Early life and education** : Born in Denmark. Studied electrical engineering at the Technical University of Denmark.\n- **Operating systems** : Developed the RC 4000 multiprogramming system, introducing the concept of a kernel and separating mechanism from policy.\n- **Concurrent programming** : Co-developed the *monitor* concept with Hoare. Created *Concurrent Pascal* , a language for concurrent programming.\n- **Distributed computing** : Proposed *remote procedure calls* (RPC) for distributed systems.\n- **Legacy** : Influential in operating systems and concurrent programming. Authored foundational textbooks. Awarded the IEEE Computer Pioneer Award.",
+        "text_original": "Early life and education**: Born in Denmark. Studied electrical engineering at the Technical University of Denmark. \n- **Operating systems**: Developed the RC 4000 multiprogramming system, introducing the concept of a kernel and separating mechanism from policy. \n- **Concurrent programming**: Co-developed the *monitor* concept with Hoare. Created *Concurrent Pascal*, a language for concurrent programming. \n- **Distributed computing**: Proposed *remote procedure calls* (RPC) for distributed systems. \n- **Legacy**: Influential in operating systems and concurrent programming. Authored foundational textbooks. Awarded the IEEE Computer Pioneer Award",
+        "idx_start": 3296,
+        "idx_end": 3948
+    },
+    {
+        "document_idx": null,
+        "text": "# Jacek Karpi\u0144ski\n- **Early life** : Born in Italy to Polish intellectuals and alpinists. Participated in WWII resistance.\n- **Post-war work** : Developed the *AAH* (Analytical Analyzer of Harmonics) and *AKAT-1* , the world\u2019s first differential equations analyzer based on transistors.\n- **K-202** : Designed a minicomputer in the 1970s, though it failed to achieve mass production due to political and industrial resistance.\n- **Legacy** : A pioneer in computer engineering in Poland. His work laid the groundwork for digital computing in Eastern Europe.",
+        "text_original": "Early life**: Born in Italy to Polish intellectuals and alpinists. Participated in WWII resistance. \n- **Post-war work**: Developed the *AAH* (Analytical Analyzer of Harmonics) and *AKAT-1*, the world\u2019s first differential equations analyzer based on transistors. \n- **K-202**: Designed a minicomputer in the 1970s, though it failed to achieve mass production due to political and industrial resistance. \n- **Legacy**: A pioneer in computer engineering in Poland. His work laid the groundwork for digital computing in Eastern Europe",
+        "idx_start": 3984,
+        "idx_end": 4515
+    },
+    {
+        "document_idx": null,
+        "text": "# Herbert A. Simon\n- **Early life and education** : Born in Milwaukee, Wisconsin. Studied at the University of Chicago, where he developed an interest in organizational decision-making.\n- **Research** : Introduced the concept of *bounded rationality* and *satisficing* , arguing that humans make decisions under cognitive limitations.\n- **Artificial intelligence** : Co-developed the Logic Theory Machine and General Problem Solver with Allen Newell.\n- **Psychology** : Developed the EPAM model of learning, which explained how humans acquire knowledge.\n- **Legacy** : Awarded the Nobel Prize in Economics (1978) and the Turing Award (1975). Influenced modern economics, AI, and cognitive science.",
+        "text_original": "Early life and education**: Born in Milwaukee, Wisconsin. Studied at the University of Chicago, where he developed an interest in organizational decision-making. \n- **Research**: Introduced the concept of *bounded rationality* and *satisficing*, arguing that humans make decisions under cognitive limitations. \n- **Artificial intelligence**: Co-developed the Logic Theory Machine and General Problem Solver with Allen Newell. \n- **Psychology**: Developed the EPAM model of learning, which explained how humans acquire knowledge. \n- **Legacy**: Awarded the Nobel Prize in Economics (1978) and the Turing Award (1975). Influenced modern economics, AI, and cognitive science",
+        "idx_start": 4553,
+        "idx_end": 5224
+    },
+    {
+        "document_idx": null,
+        "text": "# Kenneth E. Iverson\n- **Early life** : Born in Canada. Served in the Canadian Army and later in the Royal Canadian Air Force.\n- **Work** : Developed the APL programming language, using a symbolic, concise notation to simplify programming.\n- **Language design** : Introduced key features like *forks* and *monadic functions* , enabling powerful, readable code.\n- **Legacy** : Created the J programming language, which extended APL. Awarded the Turing Award (1979). His work influenced modern programming languages and data processing.",
+        "text_original": "Early life**: Born in Canada. Served in the Canadian Army and later in the Royal Canadian Air Force. \n- **Work**: Developed the APL programming language, using a symbolic, concise notation to simplify programming. \n- **Language design**: Introduced key features like *forks* and *monadic functions*, enabling powerful, readable code. \n- **Legacy**: Created the J programming language, which extended APL. Awarded the Turing Award (1979). His work influenced modern programming languages and data processing",
+        "idx_start": 5263,
+        "idx_end": 5769
+    },
+    {
+        "document_idx": null,
+        "text": "# Edsger W. Dijkstra\n- **Early life and education** : Born in Rotterdam, Netherlands. Studied at the University of Leiden and the Mathematical Centre in Amsterdam.\n- **Key contributions** :\n    - Developed the *shortest path algorithm* (Dijkstra\u2019s algorithm).\n    - Introduced the *monitor* concept and *semaphores* for process synchronization.\n    - Advocated for *structured programming* and wrote \"Go To Statement Considered Harmful.\"\n- **Legacy** : Influential in computer science and software engineering. Awarded the Turing Award (1972). Known for his elegant, concise writing.",
+        "text_original": "Early life and education**: Born in Rotterdam, Netherlands. Studied at the University of Leiden and the Mathematical Centre in Amsterdam. \n- **Key contributions**: \n  - Developed the *shortest path algorithm* (Dijkstra\u2019s algorithm). \n  - Introduced the *monitor* concept and *semaphores* for process synchronization. \n  - Advocated for *structured programming* and wrote \"Go To Statement Considered Harmful.\" \n- **Legacy**: Influential in computer science and software engineering. Awarded the Turing Award (1972). Known for his elegant, concise writing",
+        "idx_start": 5808,
+        "idx_end": 6361
+    },
+    {
+        "document_idx": null,
+        "text": "# George Boole\n- **Early life** : Born in England. Self-taught in mathematics and logic.\n- **Contributions** :\n    - Developed *Boolean algebra* , which forms the basis of digital logic.\n    - Introduced the *principle of wholistic reference* and laid the foundation for symbolic logic.\n- **Legacy** : His work became the foundation of modern digital computing. The term *Boolean* is used in programming and logic. His work influenced Claude Shannon and the development of digital circuits.",
+        "text_original": "Early life**: Born in England. Self-taught in mathematics and logic. \n- **Contributions**: \n  - Developed *Boolean algebra*, which forms the basis of digital logic. \n  - Introduced the *principle of wholistic reference* and laid the foundation for symbolic logic. \n- **Legacy**: His work became the foundation of modern digital computing. The term *Boolean* is used in programming and logic. His work influenced Claude Shannon and the development of digital circuits",
+        "idx_start": 6394,
+        "idx_end": 6860
+    },
+    {
+        "document_idx": null,
+        "text": "# Claude Shannon\n- **Early life** : Born in Michigan. Studied at the University of Michigan and MIT.\n- **Key contributions** :\n    - Invented the *Boolean algebra* for electronic circuits, enabling digital computing.\n    - Developed *information theory* , introducing the concept of *entropy* .\n    - Pioneered the use of *frequency-hopping* in communication, a key concept in modern wireless systems.\n- **Legacy** : Known as the \"father of information theory.\" His work underpins modern computing, telecommunications, and AI.",
+        "text_original": "Early life**: Born in Michigan. Studied at the University of Michigan and MIT. \n- **Key contributions**: \n  - Invented the *Boolean algebra* for electronic circuits, enabling digital computing. \n  - Developed *information theory*, introducing the concept of *entropy*. \n  - Pioneered the use of *frequency-hopping* in communication, a key concept in modern wireless systems. \n- **Legacy**: Known as the \"father of information theory.\" His work underpins modern computing, telecommunications, and AI",
+        "idx_start": 6895,
+        "idx_end": 7393
+    },
+    {
+        "document_idx": null,
+        "text": "# Ramon Llull\n- **Life** : Born in Majorca, Spain. A 13th-century philosopher and inventor.\n- **Work** : Developed *Llull\u2019s Art* , a combinatorial system to prove logical truths.\n- **Legacy** : Influenced the development of logic, computer science, and artificial intelligence. His work is considered a precursor to algorithmic thinking and modern computation.",
+        "text_original": "Life**: Born in Majorca, Spain. A 13th-century philosopher and inventor. \n- **Work**: Developed *Llull\u2019s Art*, a combinatorial system to prove logical truths. \n- **Legacy**: Influenced the development of logic, computer science, and artificial intelligence. His work is considered a precursor to algorithmic thinking and modern computation",
+        "idx_start": 7425,
+        "idx_end": 7764
+    },
+    {
+        "document_idx": null,
+        "text": "# Donald Knuth\n- **Early life and education** : Born in Milwaukee, Wisconsin. Studied at Case Institute of Technology and MIT.\n- **Key contributions** :\n    - Authored *The Art of Computer Programming* , a foundational work in computer science.\n    - Developed *TeX* and *Metafont* , revolutionizing digital typesetting.\n    - Introduced *literate programming* , emphasizing clarity and readability.\n- **Legacy** : One of the most influential computer scientists. Awarded the Turing Award (1974) and numerous other honors.",
+        "text_original": "Early life and education**: Born in Milwaukee, Wisconsin. Studied at Case Institute of Technology and MIT. \n- **Key contributions**: \n  - Authored *The Art of Computer Programming*, a foundational work in computer science. \n  - Developed *TeX* and *Metafont*, revolutionizing digital typesetting. \n  - Introduced *literate programming*, emphasizing clarity and readability. \n- **Legacy**: One of the most influential computer scientists. Awarded the Turing Award (1974) and numerous other honors",
+        "idx_start": 7797,
+        "idx_end": 8292
+    },
+    {
+        "document_idx": null,
+        "text": "# George Antheil\n- **Early life** : Born in New Jersey. A composer and inventor.\n- **Key works** :\n    - Created *Ballet M\u00e9canique* , a pioneering work combining music and mechanical devices.\n    - Invented *frequency-hopping radio* , a foundational concept in modern wireless communication.\n- **Legacy** : Influential in early electronic music and communication technology. His work inspired modern wireless systems.",
+        "text_original": "Early life**: Born in New Jersey. A composer and inventor. \n- **Key works**: \n  - Created *Ballet M\u00e9canique*, a pioneering work combining music and mechanical devices. \n  - Invented *frequency-hopping radio*, a foundational concept in modern wireless communication. \n- **Legacy**: Influential in early electronic music and communication technology. His work inspired modern wireless systems",
+        "idx_start": 8327,
+        "idx_end": 8717
+    },
+    {
+        "document_idx": null,
+        "text": "# Lynn Conway\n- **Early life and education** : Born in New York. Faced gender dysphoria and transitioned in the 1960s.\n- **Key contributions** :\n    - Co-developed the *Mead\u2013Conway VLSI design methodology* , revolutionizing chip design.\n    - Founded the *MOSIS* system, enabling rapid prototyping of integrated circuits.\n- **Legacy** : A pioneer in VLSI and computer design. Awarded the National Inventors Hall of Fame and recognized for her contributions to engineering and gender equality.",
+        "text_original": "Early life and education**: Born in New York. Faced gender dysphoria and transitioned in the 1960s. \n- **Key contributions**: \n  - Co-developed the *Mead\u2013Conway VLSI design methodology*, revolutionizing chip design. \n  - Founded the *MOSIS* system, enabling rapid prototyping of integrated circuits. \n- **Legacy**: A pioneer in VLSI and computer design. Awarded the National Inventors Hall of Fame and recognized for her contributions to engineering and gender equality",
+        "idx_start": 8749,
+        "idx_end": 9218
+    },
+    {
+        "document_idx": null,
+        "text": "# Geoffrey Hinton\n- **Education and research** : Born in England. Studied at Cambridge and Edinburgh.\n- **Key contributions** :\n    - Co-developed the *backpropagation algorithm* and *Boltzmann machines* .\n    - Pioneered deep learning and neural networks, earning the 2018 Turing Award.\n- **Views on AI** : Expresses concern about the risks of AI, including existential threats and job displacement.\n- **Legacy** : A central figure in the development of deep learning. His work underpins modern AI systems.",
+        "text_original": "Education and research**: Born in England. Studied at Cambridge and Edinburgh. \n- **Key contributions**: \n  - Co-developed the *backpropagation algorithm* and *Boltzmann machines*. \n  - Pioneered deep learning and neural networks, earning the 2018 Turing Award. \n- **Views on AI**: Expresses concern about the risks of AI, including existential threats and job displacement. \n- **Legacy**: A central figure in the development of deep learning. His work underpins modern AI systems",
+        "idx_start": 9254,
+        "idx_end": 9734
+    },
+    {
+        "document_idx": null,
+        "text": "# Kurt G\u00f6del\n- **Early life and education** : Born in Austria-Hungary. Studied at the University of Vienna.\n- **Key contributions** :\n    - Proved the *incompleteness theorems* , showing that any formal system powerful enough to describe arithmetic is either incomplete or inconsistent.\n    - Developed the *constructible universe* , proving the consistency of the axiom of choice and the continuum hypothesis.\n- **Legacy** : His work transformed mathematical logic and philosophy. Influenced computer science, AI, and the understanding of human cognition.",
+        "text_original": "Early life and education**: Born in Austria-Hungary. Studied at the University of Vienna. \n- **Key contributions**: \n  - Proved the *incompleteness theorems*, showing that any formal system powerful enough to describe arithmetic is either incomplete or inconsistent. \n  - Developed the *constructible universe*, proving the consistency of the axiom of choice and the continuum hypothesis. \n- **Legacy**: His work transformed mathematical logic and philosophy. Influenced computer science, AI, and the understanding of human cognition",
+        "idx_start": 9765,
+        "idx_end": 10298
+    },
+    {
+        "document_idx": null,
+        "text": "# Ismail al-Jazari\n- **Biography** : Born in 1136 in Upper Mesopotamia. Served as chief engineer at the Artuqid palace.\n- **Key inventions** :\n    - Designed water-raising machines (e.g., saqiya chain pumps, double-action suction pumps).\n    - Created automata, including a hand-washing device and a musical robot band.\n    - Invented early mechanical components like the *crankshaft* , *camshaft* , and *segmental gears* .\n- **Legacy** : One of the earliest known engineers to use mechanical components in practical devices. His work influenced later developments in robotics and automation.",
+        "text_original": "Biography**: Born in 1136 in Upper Mesopotamia. Served as chief engineer at the Artuqid palace. \n- **Key inventions**: \n  - Designed water-raising machines (e.g., saqiya chain pumps, double-action suction pumps). \n  - Created automata, including a hand-washing device and a musical robot band. \n  - Invented early mechanical components like the *crankshaft*, *camshaft*, and *segmental gears*. \n- **Legacy**: One of the earliest known engineers to use mechanical components in practical devices. His work influenced later developments in robotics and automation",
+        "idx_start": 10335,
+        "idx_end": 10896
+    }
+]

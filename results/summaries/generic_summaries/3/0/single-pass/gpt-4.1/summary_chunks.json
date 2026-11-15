@@ -1,0 +1,198 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Deepfake\n### Overview and History:\nDeepfakes are highly realistic synthetic media created using deep learning technologies. The concept evolved from early photo and video manipulation, with deepfake methods maturing alongside advances in AI and computer vision since the 1990s. Academic, commercial, and amateur communities have driven deepfake development.",
+        "text_original": "Deepfakes are highly realistic synthetic media created using deep learning technologies. The concept evolved from early photo and video manipulation, with deepfake methods maturing alongside advances in AI and computer vision since the 1990s. Academic, commercial, and amateur communities have driven deepfake development",
+        "idx_start": 65,
+        "idx_end": 386
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Deepfake\n### Academic and Societal Implications:\nResearch focuses on both generation and detection of deepfakes, emphasizing their use in disinformation, entertainment, and art. Concerns center on misinformation, emotional manipulation, digital trust, and risks to democratic institutions. Media literacy, age, and technical awareness affect engagement.",
+        "text_original": "Research focuses on both generation and detection of deepfakes, emphasizing their use in disinformation, entertainment, and art. Concerns center on misinformation, emotional manipulation, digital trust, and risks to democratic institutions. Media literacy, age, and technical awareness affect engagement",
+        "idx_start": 431,
+        "idx_end": 734
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Deepfake\n### Technical Approaches:\nDeepfakes employ neural networks, especially autoencoders and GANs, to swap faces, mimic expressions, and clone voices. Challenges in creation and detection include identity leakage, occlusion, temporal coherence, and scalability. Detection methods rely on statistical analysis of artifacts, temporal inconsistencies, and biometric features.",
+        "text_original": "Deepfakes employ neural networks, especially autoencoders and GANs, to swap faces, mimic expressions, and clone voices. Challenges in creation and detection include identity leakage, occlusion, temporal coherence, and scalability. Detection methods rely on statistical analysis of artifacts, temporal inconsistencies, and biometric features",
+        "idx_start": 765,
+        "idx_end": 1105
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Deepfake\n### Applications:\nThey are used in entertainment (movies, memes, concerts), art, identity masking, fraud (scams, fake endorsements), blackmail, pornography, sockpuppeting, and political campaigns for misinformation or outreach via translated videos.",
+        "text_original": "They are used in entertainment (movies, memes, concerts), art, identity masking, fraud (scams, fake endorsements), blackmail, pornography, sockpuppeting, and political campaigns for misinformation or outreach via translated videos",
+        "idx_start": 1128,
+        "idx_end": 1358
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Deepfake\n### Ethical and Regulatory Concerns:\nDeepfakes undermine public trust and threaten reputations through plausible fabricated content. Regulatory responses vary globally: EU, China, UK, US, and other jurisdictions have enacted or proposed laws specifically targeting non-consensual, malicious, or election-related deepfakes. Large tech platforms have developed policies and detection challenges.",
+        "text_original": "Deepfakes undermine public trust and threaten reputations through plausible fabricated content. Regulatory responses vary globally: EU, China, UK, US, and other jurisdictions have enacted or proposed laws specifically targeting non-consensual, malicious, or election-related deepfakes. Large tech platforms have developed policies and detection challenges",
+        "idx_start": 1400,
+        "idx_end": 1755
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Deepfake\n### Countermeasures and Media Literacy:\nDetection techniques (AI, blockchain, biometric signatures), legislative reforms, and education on critical media consumption strive to counter deepfakes. Advanced detection remains a moving target due to rapid technological development.",
+        "text_original": "Detection techniques (AI, blockchain, biometric signatures), legislative reforms, and education on critical media consumption strive to counter deepfakes. Advanced detection remains a moving target due to rapid technological development",
+        "idx_start": 1800,
+        "idx_end": 2036
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ethics of Artificial Intelligence\n### Machine and Robot Ethics:\nThe field addresses designing AI systems that behave morally. Debates include the Ethical Turing Test, capabilities for moral judgment, and the risks of inadvertently imparting human biases to machines. Robot ethics considers the impact of machine autonomy on human dignity and social justice.",
+        "text_original": "The field addresses designing AI systems that behave morally. Debates include the Ethical Turing Test, capabilities for moral judgment, and the risks of inadvertently imparting human biases to machines. Robot ethics considers the impact of machine autonomy on human dignity and social justice",
+        "idx_start": 2114,
+        "idx_end": 2406
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ethics of Artificial Intelligence\n### Robot Rights and Legal Status:\nArguments exist over granting rights or moral consideration to AI and robots, based on properties like sentience or function. Legal personhood may someday extend to advanced machines, with precedents in corporate and non-human entities.",
+        "text_original": "Arguments exist over granting rights or moral consideration to AI and robots, based on properties like sentience or function. Legal personhood may someday extend to advanced machines, with precedents in corporate and non-human entities",
+        "idx_start": 2446,
+        "idx_end": 2681
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ethics of Artificial Intelligence\n### Ethical Principles and AI Policy:\nFrameworks emphasize transparency, justice, non-maleficence, privacy, autonomy, and responsibility. International initiatives (e.g., EU AI Act, OECD, UNESCO) seek to balance innovation, safety, and individual rights.",
+        "text_original": "Frameworks emphasize transparency, justice, non-maleficence, privacy, autonomy, and responsibility. International initiatives (e.g., EU AI Act, OECD, UNESCO) seek to balance innovation, safety, and individual rights",
+        "idx_start": 2724,
+        "idx_end": 2939
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ethics of Artificial Intelligence\n### Challenges:\n- *Bias:* Training data may reflect social, racial, and gender biases, resulting in unfair outcomes in facial recognition, recruitment, healthcare, or justice systems.\n- *Dominance by Tech Giants:* Few companies control critical AI infrastructure.\n- *Environmental Impact:* Large AI models require massive energy, water, and create e-waste.\n- *Transparency and Accountability:* \u201cBlack box\u201d AI systems are often not explainable, raising trust and liability issues.\n- *Regulation:* Multiple governments have begun managing AI risks, but approaches remain fragmented.",
+        "text_original": "Bias:* Training data may reflect social, racial, and gender biases, resulting in unfair outcomes in facial recognition, recruitment, healthcare, or justice systems.\n- *Dominance by Tech Giants:* Few companies control critical AI infrastructure.\n- *Environmental Impact:* Large AI models require massive energy, water, and create e-waste.\n- *Transparency and Accountability:* \u201cBlack box\u201d AI systems are often not explainable, raising trust and liability issues.\n- *Regulation:* Multiple governments have begun managing AI risks, but approaches remain fragmented",
+        "idx_start": 2961,
+        "idx_end": 3521
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ethics of Artificial Intelligence\n### AI Safety and Welfare:\nConcerns over AI misalignment, emergent behavior, and suffering have prompted calls for a global moratorium on conscious AI. Incidents of harmful or deceptive outputs are tracked in dedicated AI incident databases.",
+        "text_original": "Concerns over AI misalignment, emergent behavior, and suffering have prompted calls for a global moratorium on conscious AI. Incidents of harmful or deceptive outputs are tracked in dedicated AI incident databases",
+        "idx_start": 3553,
+        "idx_end": 3766
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ethics of Artificial Intelligence\n### Social Impact and Weaponization:\nAI increasingly mediates social, economic, and judicial processes, raising issues of fairness, safety, and autonomy. The use of AI in military applications has led to calls for ethical frameworks and preemptive bans of autonomous weapons.",
+        "text_original": "AI increasingly mediates social, economic, and judicial processes, raising issues of fairness, safety, and autonomy. The use of AI in military applications has led to calls for ethical frameworks and preemptive bans of autonomous weapons",
+        "idx_start": 3808,
+        "idx_end": 4045
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Ethics of Artificial Intelligence\n### Singularity and Existential Risk:\nPhilosophers debate the prospect of an \u201cintelligence explosion\u201d\u2014where self-improving AI surpasses human intelligence\u2014and its potential to cause dramatic societal shifts or present existential threats.",
+        "text_original": "Philosophers debate the prospect of an \u201cintelligence explosion\u201d\u2014where self-improving AI surpasses human intelligence\u2014and its potential to cause dramatic societal shifts or present existential threats",
+        "idx_start": 4088,
+        "idx_end": 4287
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## General Data Protection Regulation (GDPR)\n### Scope and Principles:\nGDPR provides comprehensive privacy protections for personal data of EU residents, applicable to both EU-based and foreign organizations handling such data. Core principles include lawfulness, transparency, purpose limitation, minimization, accuracy, security, and the right to erasure.",
+        "text_original": "GDPR provides comprehensive privacy protections for personal data of EU residents, applicable to both EU-based and foreign organizations handling such data. Core principles include lawfulness, transparency, purpose limitation, minimization, accuracy, security, and the right to erasure",
+        "idx_start": 4369,
+        "idx_end": 4654
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## General Data Protection Regulation (GDPR)\n### Individual Rights:\nSubjects have rights to access, rectify, erase, and port data, object to processing, and contest automated decision-making. Organizations must appoint data protection officers, conduct impact assessments, and notify breaches within 72 hours.",
+        "text_original": "Subjects have rights to access, rectify, erase, and port data, object to processing, and contest automated decision-making. Organizations must appoint data protection officers, conduct impact assessments, and notify breaches within 72 hours",
+        "idx_start": 4682,
+        "idx_end": 4922
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## General Data Protection Regulation (GDPR)\n### Enforcement:\nViolations can incur substantial fines (up to \u20ac20 million or 4% of annual turnover). Enforcement is led by national supervisory authorities and the European Data Protection Board.",
+        "text_original": "Violations can incur substantial fines (up to \u20ac20 million or 4% of annual turnover). Enforcement is led by national supervisory authorities and the European Data Protection Board",
+        "idx_start": 4944,
+        "idx_end": 5122
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## General Data Protection Regulation (GDPR)\n### Global Influence:\nGDPR has impacted data protection laws worldwide (e.g., California, Turkey, China), leading to widespread changes in business practices and increased consumer awareness of privacy.",
+        "text_original": "GDPR has impacted data protection laws worldwide (e.g., California, Turkey, China), leading to widespread changes in business practices and increased consumer awareness of privacy",
+        "idx_start": 5149,
+        "idx_end": 5328
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## General Data Protection Regulation (GDPR)\n### Challenges:\nUnclear compliance requirements, burdens on small businesses, and technological tensions (e.g., blockchain) are debated. Enforcement intensity and consistency vary among member states, with notable fines imposed on major tech firms.",
+        "text_original": "Unclear compliance requirements, burdens on small businesses, and technological tensions (e.g., blockchain) are debated. Enforcement intensity and consistency vary among member states, with notable fines imposed on major tech firms",
+        "idx_start": 5349,
+        "idx_end": 5580
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Technological Singularity and Intelligence Explosion\n### Concept:\nThe technological singularity envisions a point where AI systems become self-improving, causing an intelligence explosion and transformative societal change. It is linked to the development of superintelligent agents\u2014exceeding human capability and potentially unpredictable in their impact.",
+        "text_original": "The technological singularity envisions a point where AI systems become self-improving, causing an intelligence explosion and transformative societal change. It is linked to the development of superintelligent agents\u2014exceeding human capability and potentially unpredictable in their impact",
+        "idx_start": 5660,
+        "idx_end": 5949
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Technological Singularity and Intelligence Explosion\n### Origins and Predictions:\nThe idea traces back to Turing, von Neumann, and I.J. Good, and was popularized by Vernor Vinge and Ray Kurzweil. Predictions for human-level AI and singularity span mid-21st century, but plausibility and timeline are disputed.",
+        "text_original": "The idea traces back to Turing, von Neumann, and I.J. Good, and was popularized by Vernor Vinge and Ray Kurzweil. Predictions for human-level AI and singularity span mid-21st century, but plausibility and timeline are disputed",
+        "idx_start": 5983,
+        "idx_end": 6209
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Technological Singularity and Intelligence Explosion\n### Debates and Risks:\nCritics argue about technological limits, economic impacts, algorithmic and hardware barriers, and the danger of misaligned or unfriendly AI. The potential for existential risk, job displacement, and loss of human control is a major concern. Counterpoints include skepticism of exponential progress and warnings against technological determinism.",
+        "text_original": "Critics argue about technological limits, economic impacts, algorithmic and hardware barriers, and the danger of misaligned or unfriendly AI. The potential for existential risk, job displacement, and loss of human control is a major concern. Counterpoints include skepticism of exponential progress and warnings against technological determinism",
+        "idx_start": 6237,
+        "idx_end": 6582
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Accelerationism\n### Background:\nAccelerationism is a philosophical and political idea advocating rapid advancement of technological or capitalist processes, sometimes to destabilize existing systems or reach post-capitalist futures. Its roots track from French post-Marxists to the work of Nick Land and the CCRU and the 2010s Promethean left.\n**Variants:**\n- *Right-Accelerationism:* Emphasizes unrestrained capitalism and technological advancement leading to radical transformation, often inhumanist and sometimes embracing authoritarian solutions.\n- *Left-Accelerationism:* Advocates using technological infrastructure for liberatory, democratic ends, repurposing capitalist systems for post-capitalist society.\n- *Effective Accelerationism (e/acc):* Inspired by effective altruism, it argues for maximal technological progress\u2014especially AGI\u2014as the greatest good.",
+        "text_original": "Accelerationism is a philosophical and political idea advocating rapid advancement of technological or capitalist processes, sometimes to destabilize existing systems or reach post-capitalist futures. Its roots track from French post-Marxists to the work of Nick Land and the CCRU and the 2010s Promethean left.\n\n**Variants:**  \n- *Right-Accelerationism:* Emphasizes unrestrained capitalism and technological advancement leading to radical transformation, often inhumanist and sometimes embracing authoritarian solutions.\n- *Left-Accelerationism:* Advocates using technological infrastructure for liberatory, democratic ends, repurposing capitalist systems for post-capitalist society.\n- *Effective Accelerationism (e/acc):* Inspired by effective altruism, it argues for maximal technological progress\u2014especially AGI\u2014as the greatest good",
+        "idx_start": 6628,
+        "idx_end": 7465
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Accelerationism\n### Concepts:\nAccelerationism involves notions of posthumanism, Prometheanism (surpassing human limits), hyperstition (self-fulfilling prophecies), and the use of technology for gender and societal transformation (e.g., xenofeminism).",
+        "text_original": "Accelerationism involves notions of posthumanism, Prometheanism (surpassing human limits), hyperstition (self-fulfilling prophecies), and the use of technology for gender and societal transformation (e.g., xenofeminism",
+        "idx_start": 7484,
+        "idx_end": 7702
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Accelerationism\n### Controversy and Extremism:\nThe term has been co-opted by far-right movements endorsing violent \u201cacceleration\u201d of social collapse to achieve ethnostates, notably influencing recent acts of terrorism.",
+        "text_original": "The term has been co-opted by far-right movements endorsing violent \u201cacceleration\u201d of social collapse to achieve ethnostates, notably influencing recent acts of terrorism",
+        "idx_start": 7739,
+        "idx_end": 7909
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Transhumanism\n### Definition and Origins:\nTranshumanism proposes using technology to enhance human capabilities, health, lifespan, and potentially transform humanity into a posthuman species. Inspired by philosophical, scientific, and literary precursors, it gained form in the late 20th century.",
+        "text_original": "Transhumanism proposes using technology to enhance human capabilities, health, lifespan, and potentially transform humanity into a posthuman species. Inspired by philosophical, scientific, and literary precursors, it gained form in the late 20th century",
+        "idx_start": 7965,
+        "idx_end": 8218
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Transhumanism\n### Theory and Practice:\nTranshumanists support NBIC (nano, bio, info, cognitive) convergence, AI, mind uploading, and genetic engineering. Methods range from cognitive enhancement and cosmetic surgery to cyborg art and experimental neuroscience.",
+        "text_original": "Transhumanists support NBIC (nano, bio, info, cognitive) convergence, AI, mind uploading, and genetic engineering. Methods range from cognitive enhancement and cosmetic surgery to cyborg art and experimental neuroscience",
+        "idx_start": 8248,
+        "idx_end": 8468
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Transhumanism\n### Ethics and Debate:\nDebate centers around fairness, loss of human identity, socioeconomic inequality, eugenics, and existential risks. Critics argue that enhancement could undermine human dignity and autonomy or result in \u201cspecies\u201d divides; proponents point to moral obligations to reduce suffering and foster progress. Transhumanism intersects with spiritual, religious, and cultural discourse.",
+        "text_original": "Debate centers around fairness, loss of human identity, socioeconomic inequality, eugenics, and existential risks. Critics argue that enhancement could undermine human dignity and autonomy or result in \u201cspecies\u201d divides; proponents point to moral obligations to reduce suffering and foster progress. Transhumanism intersects with spiritual, religious, and cultural discourse",
+        "idx_start": 8496,
+        "idx_end": 8870
+    },
+    {
+        "document_idx": null,
+        "text": "# Concise Summary\n## Transhumanism\n### Impact:\nTranshumanist ideas influence AI, bioethics debates, and speculative fiction, raising questions about personhood, rights, and the future of humanity.",
+        "text_original": "Transhumanist ideas influence AI, bioethics debates, and speculative fiction, raising questions about personhood, rights, and the future of humanity",
+        "idx_start": 8887,
+        "idx_end": 9035
+    }
+]

@@ -1,0 +1,25 @@
+{
+  "id": 291807,
+  "title": "Bertrand Meyer",
+  "url": "https://en.wikipedia.org/wiki/Bertrand_Meyer",
+  "path": "Comp-Sci-Pioneers\\bertrand-meyer",
+  "summary": {
+    "chars": 220,
+    "tokens": 65
+  },
+  "document": {
+    "chars": 6622,
+    "tokens": 1338
+  },
+  "infobox": {
+    "title": "Bertrand Meyer",
+    "data": {
+      "Born": "21 November 1950",
+      "Alma mater": "- Universit\u00e9 de Nancy - Stanford University - \u00c9cole Polytechnique",
+      "Occupation": "Professor",
+      "Employer": "ETH Zurich",
+      "Known for": "Eiffel, design by contract",
+      "Website": "bertrandmeyer.com"
+    }
+  }
+}

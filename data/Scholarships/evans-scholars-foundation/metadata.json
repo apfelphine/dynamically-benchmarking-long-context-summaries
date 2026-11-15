@@ -1,0 +1,24 @@
+{
+  "id": 41576749,
+  "title": "Evans Scholars Foundation",
+  "url": "https://en.wikipedia.org/wiki/Evans_Scholars_Foundation",
+  "path": "Scholarships\\evans-scholars-foundation",
+  "summary": {
+    "chars": 424,
+    "tokens": 83
+  },
+  "document": {
+    "chars": 7711,
+    "tokens": 1514
+  },
+  "infobox": {
+    "title": "Evans Scholars Foundation",
+    "data": {
+      "Founded": "1930",
+      "Founder": "Chick Evans",
+      "Location": "- Glenview, Illinois, U.S.",
+      "Area served": "United States",
+      "Website": "www.wgaesf.org"
+    }
+  }
+}

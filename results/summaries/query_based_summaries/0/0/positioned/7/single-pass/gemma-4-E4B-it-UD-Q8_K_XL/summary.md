@@ -1,0 +1,7 @@
+# Star Trek: The Motion Picture Summary
+
+*Star Trek: The Motion Picture* takes place in the 23rd century when Starfleet monitoring station Epsilon Nine detects an alien entity moving toward Earth, which destroys three Klingon warships and Epsilon Nine. Starfleet Command assigns the *Enterprise*, undergoing major refit, to intercept this cloud. Captain James T. Kirk takes command, leading to tension with the new commanding officer, Willard Decker. Spock joins the ship as a replacement science officer and senses a consciousness emanating from the cloud.
+
+The *Enterprise* intercepts the energy cloud and is attacked by an alien vessel. The entity, which reveals itself to be V'Ger—a 20th-century NASA Voyager 6 probe upgraded by living machines—abducts the navigator Ilia and replaces her with a robotic replica. Spock telepathically connects with V'Ger and learns that the machine cannot define its own purpose. Upon realizing that the human crew are the "Creator," Decker merges with the Ilia probe and V'Ger, creating a new life form that disappears into space, saving Earth.
+
+The film was notable for its technical achievements, with director Robert Wise and production designer Harold Michelson overseeing the design of the Enterprise. The special effects, led by Douglas Trumbull, featured complex models and groundbreaking use of in-camera techniques. The score was composed by Jerry Goldsmith and received multiple nominations, including a Saturn Award for Best Original Score.

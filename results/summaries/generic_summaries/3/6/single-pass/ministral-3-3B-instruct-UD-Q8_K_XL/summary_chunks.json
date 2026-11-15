@@ -1,0 +1,191 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## History and Origins\nThe concept of the **technological singularity** emerged from early discussions on artificial intelligence (AI) and human-like machine intelligence. Alan Turing\u2019s 1950 paper *\"Computing Machinery and Intelligence\"* proposed that machines could achieve human-level intelligence, though it did not necessitate a singularity. John von Neumann\u2019s 1958 discussions with Stanislaw Ulam hinted at accelerating technological progress, framing it as a \"singularity\" beyond human comprehension. Key contributions included:\n- **I. J. Good (1965)** proposed an \"intelligence explosion\" where an ultraintelligent machine could self-improve indefinitely.\n- **Vernor Vinge (1983, 1993)** popularized the term, describing it as a point where superintelligence surpasses human intelligence, altering societal structures.\n- **Ray Kurzweil (2005)** predicted the singularity by 2045, emphasizing exponential technological growth.",
+        "text_original": "The concept of the **technological singularity** emerged from early discussions on artificial intelligence (AI) and human-like machine intelligence. Alan Turing\u2019s 1950 paper *\"Computing Machinery and Intelligence\"* proposed that machines could achieve human-level intelligence, though it did not necessitate a singularity. John von Neumann\u2019s 1958 discussions with Stanislaw Ulam hinted at accelerating technological progress, framing it as a \"singularity\" beyond human comprehension. Key contributions included:\n- **I. J. Good (1965)** proposed an \"intelligence explosion\" where an ultraintelligent machine could self-improve indefinitely.\n- **Vernor Vinge (1983, 1993)** popularized the term, describing it as a point where superintelligence surpasses human intelligence, altering societal structures.\n- **Ray Kurzweil (2005)** predicted the singularity by 2045, emphasizing exponential technological growth",
+        "idx_start": 64,
+        "idx_end": 972
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Intelligence Explosion and Superintelligence\nThe singularity arises from the potential for **superintelligence** \u2014machines surpassing human cognitive abilities. This could occur through:\n- **Artificial Intelligence (AI):** Machines designed to surpass human reasoning, such as \"seed AI,\" which could autonomously improve its own capabilities.\n- **Human Augmentation:** Enhancements like brain-computer interfaces or genetic modifications to amplify human intelligence.\n- **Recursive Self-Improvement:** AI systems that iteratively refine their intelligence, potentially leading to an \"intelligence explosion\" where progress accelerates exponentially.\nCritics argue that such rapid advancement may not be feasible or desirable, citing ethical concerns and the potential for unintended consequences.",
+        "text_original": "The singularity arises from the potential for **superintelligence**\u2014machines surpassing human cognitive abilities. This could occur through:\n- **Artificial Intelligence (AI):** Machines designed to surpass human reasoning, such as \"seed AI,\" which could autonomously improve its own capabilities.\n- **Human Augmentation:** Enhancements like brain-computer interfaces or genetic modifications to amplify human intelligence.\n- **Recursive Self-Improvement:** AI systems that iteratively refine their intelligence, potentially leading to an \"intelligence explosion\" where progress accelerates exponentially.\n\nCritics argue that such rapid advancement may not be feasible or desirable, citing ethical concerns and the potential for unintended consequences",
+        "idx_start": 1029,
+        "idx_end": 1780
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Emergence of Superintelligence\nSuperintelligence is defined as an agent with intelligence far exceeding that of humans. Key debates include:\n- **Speed vs. Quality:** Speed superintelligence refers to machines processing information at human-like speeds, while traditional superintelligence focuses on surpassing human cognitive depth.\n- **Feasibility:** Disagreements persist on whether AI will surpass human intelligence within a reasonable timeframe, with some predicting it will occur by 2040\u20132050, while others remain skeptical.",
+        "text_original": "Superintelligence is defined as an agent with intelligence far exceeding that of humans. Key debates include:\n- **Speed vs. Quality:** Speed superintelligence refers to machines processing information at human-like speeds, while traditional superintelligence focuses on surpassing human cognitive depth.\n- **Feasibility:** Disagreements persist on whether AI will surpass human intelligence within a reasonable timeframe, with some predicting it will occur by 2040\u20132050, while others remain skeptical",
+        "idx_start": 1823,
+        "idx_end": 2323
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Variations and Non-AI Singularity\nThe term \"singularity\" is sometimes used broadly to describe radical societal changes from new technologies (e.g., nanotechnology), though Vinge and others argue that such changes are not true singularities without superintelligence.",
+        "text_original": "The term \"singularity\" is sometimes used broadly to describe radical societal changes from new technologies (e.g., nanotechnology), though Vinge and others argue that such changes are not true singularities without superintelligence",
+        "idx_start": 2369,
+        "idx_end": 2601
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Predictions and Plausibility\nNumerous dates have been proposed for the singularity\u2019s arrival, including:\n- **1965 (Good):** Predicted an ultraintelligent machine by the 20th century.\n- **1988 (Moravec):** Human-level AI in supercomputers by 2010.\n- **1993 (Vinge):** Greater-than-human intelligence between 2005\u20132030.\n- **2005 (Kurzweil):** Human-level AI by 2029, singularity by 2045.\n- **2021 (Bostrom/M\u00fcller):** 50% chance of human-level AI by 2040\u20132050.\nCritics like **Paul Allen, Jeff Hawkins, and Gordon Moore** argue that technological progress is slowing, and the singularity is unlikely due to diminishing returns in innovation.",
+        "text_original": "Numerous dates have been proposed for the singularity\u2019s arrival, including:\n- **1965 (Good):** Predicted an ultraintelligent machine by the 20th century.\n- **1988 (Moravec):** Human-level AI in supercomputers by 2010.\n- **1993 (Vinge):** Greater-than-human intelligence between 2005\u20132030.\n- **2005 (Kurzweil):** Human-level AI by 2029, singularity by 2045.\n- **2021 (Bostrom/M\u00fcller):** 50% chance of human-level AI by 2040\u20132050.\n\nCritics like **Paul Allen, Jeff Hawkins, and Gordon Moore** argue that technological progress is slowing, and the singularity is unlikely due to diminishing returns in innovation",
+        "idx_start": 2642,
+        "idx_end": 3250
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Speed Improvements and Exponential Growth\nExponential growth in computing power, driven by **Moore\u2019s Law** , has been cited as a reason for expecting a singularity. However, concerns include:\n- **Hardware Limitations:** Physical constraints on computing power, such as heat dissipation and energy efficiency.\n- **Algorithm Limitations:** Software innovations may be more unpredictable than hardware improvements.",
+        "text_original": "Exponential growth in computing power, driven by **Moore\u2019s Law**, has been cited as a reason for expecting a singularity. However, concerns include:\n- **Hardware Limitations:** Physical constraints on computing power, such as heat dissipation and energy efficiency.\n- **Algorithm Limitations:** Software innovations may be more unpredictable than hardware improvements",
+        "idx_start": 3304,
+        "idx_end": 3672
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Criticism and Skepticism\nCritics highlight:\n- **Lack of Scientific Rigor:** Claims like Kurzweil\u2019s extrapolation of exponential trends are debated.\n- **Ethical and Existential Risks:** Concerns about AI alignment, unintended consequences, and potential threats to human existence.\n- **Technological Paradox:** Massive job displacement and reduced consumer demand could hinder investment in singularity-relevant technologies.",
+        "text_original": "Critics highlight:\n- **Lack of Scientific Rigor:** Claims like Kurzweil\u2019s extrapolation of exponential trends are debated.\n- **Ethical and Existential Risks:** Concerns about AI alignment, unintended consequences, and potential threats to human existence.\n- **Technological Paradox:** Massive job displacement and reduced consumer demand could hinder investment in singularity-relevant technologies",
+        "idx_start": 3709,
+        "idx_end": 4107
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity\n## Potential Impacts\nThe singularity could revolutionize economics, society, and human identity. However, its effects remain uncertain:\n- **Economic Disruption:** Rapid technological change may lead to unprecedented economic growth or instability.\n- **Existential Risks:** AI could pose threats to human survival, requiring careful alignment of goals and values.",
+        "text_original": "The singularity could revolutionize economics, society, and human identity. However, its effects remain uncertain:\n- **Economic Disruption:** Rapid technological change may lead to unprecedented economic growth or instability.\n- **Existential Risks:** AI could pose threats to human survival, requiring careful alignment of goals and values",
+        "idx_start": 4137,
+        "idx_end": 4477
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism\n## Background and Influences\nAccelerationism is a philosophical movement advocating for the acceleration of societal and technological progress. Influenced by:\n- **French Post-Marxists (1960s\u201370s):** Gilles Deleuze, F\u00e9lix Guattari, and Jean Baudrillard, who critiqued capitalism\u2019s destabilizing effects.\n- **Nick Land (1990s):** Advocated for unregulated capitalism as a force for exponential growth, rejecting traditional left-wing politics.\n- **Cyberpunk and Electronic Dance Music:** Influenced by themes of technological liberation and posthumanism.",
+        "text_original": "Accelerationism is a philosophical movement advocating for the acceleration of societal and technological progress. Influenced by:\n- **French Post-Marxists (1960s\u201370s):** Gilles Deleuze, F\u00e9lix Guattari, and Jean Baudrillard, who critiqued capitalism\u2019s destabilizing effects.\n- **Nick Land (1990s):** Advocated for unregulated capitalism as a force for exponential growth, rejecting traditional left-wing politics.\n- **Cyberpunk and Electronic Dance Music:** Influenced by themes of technological liberation and posthumanism",
+        "idx_start": 4545,
+        "idx_end": 5068
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism\n## Concepts and Variants\nAccelerationism is divided into **right-wing** and **left-wing** currents:\n- **Right-Wing Accelerationism:** Celebrates capitalism\u2019s self-improving tendencies, advocating for rapid technological and economic growth. Influenced by neoreactionary ideas.\n- **Left-Wing Accelerationism:** Advocates for using capitalism\u2019s forces to destabilize it, emphasizing democratic control and technological liberation. Key figures include **Nick Srnicek, Alex Williams, and Ray Brassier** .",
+        "text_original": "Accelerationism is divided into **right-wing** and **left-wing** currents:\n- **Right-Wing Accelerationism:** Celebrates capitalism\u2019s self-improving tendencies, advocating for rapid technological and economic growth. Influenced by neoreactionary ideas.\n- **Left-Wing Accelerationism:** Advocates for using capitalism\u2019s forces to destabilize it, emphasizing democratic control and technological liberation. Key figures include **Nick Srnicek, Alex Williams, and Ray Brassier",
+        "idx_start": 5102,
+        "idx_end": 5574
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism\n## Prometheanism and Hyperstition\n- **Prometheanism:** A belief in technology\u2019s power to transcend human limitations, often associated with left-accelerationism.\n- **Hyperstition:** The idea that beliefs and narratives can shape reality, influencing how accelerationism constructs visions of the future.",
+        "text_original": "Prometheanism:** A belief in technology\u2019s power to transcend human limitations, often associated with left-accelerationism.\n- **Hyperstition:** The idea that beliefs and narratives can shape reality, influencing how accelerationism constructs visions of the future",
+        "idx_start": 5623,
+        "idx_end": 5887
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism\n## Criticism and Controversies\nCritics argue that accelerationism:\n- **Ignores Ethical Concerns:** Prioritizes technological progress over human well-being.\n- **Promotes Unregulated Capitalism:** Risks exacerbating inequality and environmental degradation.\n- **Lacks Practical Solutions:** Focuses on abstract visions without clear pathways to implementation.",
+        "text_original": "Critics argue that accelerationism:\n- **Ignores Ethical Concerns:** Prioritizes technological progress over human well-being.\n- **Promotes Unregulated Capitalism:** Risks exacerbating inequality and environmental degradation.\n- **Lacks Practical Solutions:** Focuses on abstract visions without clear pathways to implementation",
+        "idx_start": 5927,
+        "idx_end": 6254
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism\n## Political and Cultural Implications\nAccelerationism has been co-opted by anti-democratic movements, including:\n- **Far-Right Accelerationism:** Advocates for violent disruption of societal norms to achieve a white ethnostate.\n- **Conspiracy Theories:** Accelerationism is sometimes used to justify extreme political ideologies, blurring the line between theory and action.",
+        "text_original": "Accelerationism has been co-opted by anti-democratic movements, including:\n- **Far-Right Accelerationism:** Advocates for violent disruption of societal norms to achieve a white ethnostate.\n- **Conspiracy Theories:** Accelerationism is sometimes used to justify extreme political ideologies, blurring the line between theory and action",
+        "idx_start": 6302,
+        "idx_end": 6637
+    },
+    {
+        "document_idx": null,
+        "text": "# Regulation of AI in the United States\n## Federal Government Measures\nThe U.S. government has taken steps to regulate AI, including:\n- **2016\u20132017:** The Obama administration emphasized research and limited restrictions on AI development.\n- **2018\u20132020:** The National Security Commission on AI and the **Artificial Intelligence Initiative Act** were established to address national security risks.\n- **2021\u20132024:** The Biden administration introduced the **AI Bill of Rights** , mandating transparency, fairness, and accountability in AI systems. Voluntary commitments from tech companies (e.g., Amazon, Google) to manage AI risks were also secured.\n- **2023\u20132024:** The **Executive Order on Safe, Secure, and Trustworthy AI** aimed to regulate AI in critical infrastructure, cybersecurity, and biological synthesis projects. The **AI Risk Management Framework (AI RMF)** was released by NIST to guide AI risk assessment.",
+        "text_original": "The U.S. government has taken steps to regulate AI, including:\n- **2016\u20132017:** The Obama administration emphasized research and limited restrictions on AI development.\n- **2018\u20132020:** The National Security Commission on AI and the **Artificial Intelligence Initiative Act** were established to address national security risks.\n- **2021\u20132024:** The Biden administration introduced the **AI Bill of Rights**, mandating transparency, fairness, and accountability in AI systems. Voluntary commitments from tech companies (e.g., Amazon, Google) to manage AI risks were also secured.\n- **2023\u20132024:** The **Executive Order on Safe, Secure, and Trustworthy AI** aimed to regulate AI in critical infrastructure, cybersecurity, and biological synthesis projects. The **AI Risk Management Framework (AI RMF)** was released by NIST to guide AI risk assessment",
+        "idx_start": 6729,
+        "idx_end": 7579
+    },
+    {
+        "document_idx": null,
+        "text": "# Regulation of AI in the United States\n## State and Local Interventions\nStates have also enacted AI regulations:\n- **New York (2023):** The **Bias Audit Law** requires companies to audit AI tools for bias.\n- **California (2024):** The **Safe and Secure Innovation for Frontier AI Models Act** was vetoed by Governor Newsom but remains under consideration.\n- **Utah (2024):** The **Artificial Intelligence Policy Act** established liability for AI misuse and created an AI policy office.",
+        "text_original": "States have also enacted AI regulations:\n- **New York (2023):** The **Bias Audit Law** requires companies to audit AI tools for bias.\n- **California (2024):** The **Safe and Secure Innovation for Frontier AI Models Act** was vetoed by Governor Newsom but remains under consideration.\n- **Utah (2024):** The **Artificial Intelligence Policy Act** established liability for AI misuse and created an AI policy office",
+        "idx_start": 7621,
+        "idx_end": 8034
+    },
+    {
+        "document_idx": null,
+        "text": "# Regulation of AI in the United States\n## Challenges and Controversies\nRegulation faces challenges, including:\n- **Balancing Innovation and Safety:** Critics argue that excessive regulation could stifle AI progress.\n- **Interstate Competition:** State-level AI laws risk creating regulatory fragmentation, with some states banning others\u2019 laws.\n- **Public Trust:** Concerns about AI bias, privacy, and ethical concerns persist, requiring ongoing oversight.",
+        "text_original": "Regulation faces challenges, including:\n- **Balancing Innovation and Safety:** Critics argue that excessive regulation could stifle AI progress.\n- **Interstate Competition:** State-level AI laws risk creating regulatory fragmentation, with some states banning others\u2019 laws.\n- **Public Trust:** Concerns about AI bias, privacy, and ethical concerns persist, requiring ongoing oversight",
+        "idx_start": 8075,
+        "idx_end": 8459
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Overview\nThe **GDPR (2016)** is a comprehensive data protection framework in the European Union, designed to protect personal data and ensure privacy rights. Key provisions include:\n- **Scope:** Applies to data controllers and processors within the EU, even if they are based outside the EU.\n- **Principles:** Data must be processed lawfully, fairly, transparently, and with purpose limitation.\n- **Data Subject Rights:** Individuals have rights to access, rectify, erase, object to, and port their data.",
+        "text_original": "The **GDPR (2016)** is a comprehensive data protection framework in the European Union, designed to protect personal data and ensure privacy rights. Key provisions include:\n- **Scope:** Applies to data controllers and processors within the EU, even if they are based outside the EU.\n- **Principles:** Data must be processed lawfully, fairly, transparently, and with purpose limitation.\n- **Data Subject Rights:** Individuals have rights to access, rectify, erase, object to, and port their data",
+        "idx_start": 8536,
+        "idx_end": 9030
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Key Features\n- **Consent:** Data subjects must provide explicit, informed consent for data processing.\n- **Pseudonymization:** Personal data must be anonymized or pseudonymized to protect privacy.\n- **Data Protection Officer (DPO):** Mandatory for organizations handling large-scale data processing.\n- **Breach Notification:** Data controllers must report breaches to supervisory authorities within 72 hours.",
+        "text_original": "Consent:** Data subjects must provide explicit, informed consent for data processing.\n- **Pseudonymization:** Personal data must be anonymized or pseudonymized to protect privacy.\n- **Data Protection Officer (DPO):** Mandatory for organizations handling large-scale data processing.\n- **Breach Notification:** Data controllers must report breaches to supervisory authorities within 72 hours",
+        "idx_start": 9059,
+        "idx_end": 9449
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Enforcement and Impact\n- **Enforcement Actions:** The GDPR has led to significant fines, including **\u20ac20 million or 4% of annual revenue** for violations.\n- **Public Awareness:** Increased awareness of data privacy rights among individuals and businesses.\n- **Global Influence:** The GDPR has inspired similar regulations worldwide, including the **California Consumer Privacy Act (CCPA)** and the **Personal Information Protection and Electronic Documents Act (PIPEDA)** in Canada.",
+        "text_original": "Enforcement Actions:** The GDPR has led to significant fines, including **\u20ac20 million or 4% of annual revenue** for violations.\n- **Public Awareness:** Increased awareness of data privacy rights among individuals and businesses.\n- **Global Influence:** The GDPR has inspired similar regulations worldwide, including the **California Consumer Privacy Act (CCPA)** and the **Personal Information Protection and Electronic Documents Act (PIPEDA)** in Canada",
+        "idx_start": 9488,
+        "idx_end": 9942
+    },
+    {
+        "document_idx": null,
+        "text": "# General Data Protection Regulation (GDPR)\n## Criticisms and Misconceptions\n- **Overregulation:** Critics argue that GDPR imposes excessive administrative burdens on businesses.\n- **Misinterpretation:** Some believe individuals have an absolute right to data deletion, though this is limited by lawful processing purposes.",
+        "text_original": "Overregulation:** Critics argue that GDPR imposes excessive administrative burdens on businesses.\n- **Misinterpretation:** Some believe individuals have an absolute right to data deletion, though this is limited by lawful processing purposes",
+        "idx_start": 9988,
+        "idx_end": 10229
+    },
+    {
+        "document_idx": null,
+        "text": "# John L. Pollock\nJohn L. Pollock (1940\u20132017) was a prominent philosopher known for his work on **defeasible reasoning** and epistemology. His key contributions include:\n- **Defeasible Reasoning:** Pollock\u2019s work on non-monotonic reasoning influenced AI and legal systems, where systems must handle exceptions and uncertainties.\n- **Knowledge and Justification:** His book *Knowledge and Justification* (1974) introduced the idea that epistemic norms are governed by ceteris paribus conditions, allowing for exceptions.\n- **OSCAR Project:** A prototype AI system that embodied Pollock\u2019s ideas on reasoning, intentions, and problem-solving.",
+        "text_original": "John L. Pollock (1940\u20132017) was a prominent philosopher known for his work on **defeasible reasoning** and epistemology. His key contributions include:\n- **Defeasible Reasoning:** Pollock\u2019s work on non-monotonic reasoning influenced AI and legal systems, where systems must handle exceptions and uncertainties.\n- **Knowledge and Justification:** His book *Knowledge and Justification* (1974) introduced the idea that epistemic norms are governed by ceteris paribus conditions, allowing for exceptions.\n- **OSCAR Project:** A prototype AI system that embodied Pollock\u2019s ideas on reasoning, intentions, and problem-solving",
+        "idx_start": 10261,
+        "idx_end": 10881
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\nTranshumanism is a philosophical movement advocating for the use of technology to enhance human capabilities beyond biological limits. Key themes include:\n- **Goals:** Extending human life, improving cognitive and physical abilities, and achieving posthuman evolution.\n- **Ethics:** Debates on the moral implications of human enhancement, including concerns about inequality and the loss of human identity.\n- **Technologies:** Focuses on **NBIC** (Nanotechnology, Biotechnology, Information Technology, Cognitive Science) and speculative technologies like mind uploading.",
+        "text_original": "Transhumanism is a philosophical movement advocating for the use of technology to enhance human capabilities beyond biological limits. Key themes include:\n- **Goals:** Extending human life, improving cognitive and physical abilities, and achieving posthuman evolution.\n- **Ethics:** Debates on the moral implications of human enhancement, including concerns about inequality and the loss of human identity.\n- **Technologies:** Focuses on **NBIC** (Nanotechnology, Biotechnology, Information Technology, Cognitive Science) and speculative technologies like mind uploading",
+        "idx_start": 10911,
+        "idx_end": 11481
+    },
+    {
+        "document_idx": null,
+        "text": "# Transhumanism\n## Criticisms\n- **Feasibility:** Critics argue that many transhumanist goals are unrealistic or unethical.\n- **Ethical Concerns:** Risks include the creation of a two-tiered society, the loss of human dignity, and unintended consequences of genetic engineering.",
+        "text_original": "Feasibility:** Critics argue that many transhumanist goals are unrealistic or unethical.\n- **Ethical Concerns:** Risks include the creation of a two-tiered society, the loss of human dignity, and unintended consequences of genetic engineering",
+        "idx_start": 11508,
+        "idx_end": 11750
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake Technology\nDeepfakes are AI-generated videos or audio that manipulate images and voices to create realistic but fake content. Key aspects include:\n- **Applications:** Used for entertainment, blackmail, political manipulation, and fraud.\n- **Detection:** Challenges include identifying inconsistencies in deepfake videos and audio, often requiring advanced AI tools.\n- **Regulation:** Governments and tech companies are developing frameworks to address deepfake misuse, including legal penalties and AI detection tools.",
+        "text_original": "Deepfakes are AI-generated videos or audio that manipulate images and voices to create realistic but fake content. Key aspects include:\n- **Applications:** Used for entertainment, blackmail, political manipulation, and fraud.\n- **Detection:** Challenges include identifying inconsistencies in deepfake videos and audio, often requiring advanced AI tools.\n- **Regulation:** Governments and tech companies are developing frameworks to address deepfake misuse, including legal penalties and AI detection tools",
+        "idx_start": 11786,
+        "idx_end": 12292
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfake Technology\n## Concerns\n- **Misinformation:** Deepfakes can spread false narratives, undermining trust in media and politics.\n- **Privacy Violations:** Non-consensual deepfake pornography is a significant ethical issue.",
+        "text_original": "Misinformation:** Deepfakes can spread false narratives, undermining trust in media and politics.\n- **Privacy Violations:** Non-consensual deepfake pornography is a significant ethical issue",
+        "idx_start": 12317,
+        "idx_end": 12507
+    },
+    {
+        "document_idx": null,
+        "text": "# Legion (Terminator)\n*Legion* (2019) is a sequel to the *Terminator* franchise, focusing on the aftermath of Cyberdyne Systems\u2019 destruction. Key elements include:\n- **Plot:** Sarah Connor and a cyborg soldier named Grace hunt down a Terminator (Rev-9) sent from the future to assassinate Dani Ramos.\n- **Themes:** Explores themes of redemption, sacrifice, and the consequences of time travel.",
+        "text_original": "Legion* (2019) is a sequel to the *Terminator* franchise, focusing on the aftermath of Cyberdyne Systems\u2019 destruction. Key elements include:\n- **Plot:** Sarah Connor and a cyborg soldier named Grace hunt down a Terminator (Rev-9) sent from the future to assassinate Dani Ramos.\n- **Themes:** Explores themes of redemption, sacrifice, and the consequences of time travel",
+        "idx_start": 12544,
+        "idx_end": 12913
+    },
+    {
+        "document_idx": null,
+        "text": "# Legion (Terminator)\n## Reception\n- **Box Office:** Underperformed, with a worldwide gross of $261 million.\n- **Critical Response:** Mixed reviews, with praise for visual effects but criticism for its plot and character development.\nThis summary distills the key topics, debates, and developments across the provided texts while maintaining coherence and conciseness.",
+        "text_original": "Box Office:** Underperformed, with a worldwide gross of $261 million.\n- **Critical Response:** Mixed reviews, with praise for visual effects but criticism for its plot and character development.\n\n---\nThis summary distills the key topics, debates, and developments across the provided texts while maintaining coherence and conciseness",
+        "idx_start": 12939,
+        "idx_end": 13272
+    }
+]

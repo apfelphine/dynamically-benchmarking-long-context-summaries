@@ -1,0 +1,29 @@
+{
+  "id": 19867,
+  "title": "Max Newman",
+  "url": "https://en.wikipedia.org/wiki/Max_Newman",
+  "path": "Comp-Sci-Pioneers\\max-newman",
+  "summary": {
+    "chars": 483,
+    "tokens": 99
+  },
+  "document": {
+    "chars": 10430,
+    "tokens": 2237
+  },
+  "infobox": {
+    "title": "Max NewmanFRS",
+    "data": {
+      "Born": "Maxwell Herman Alexander Neumann \u00b7 7 February 1897 \u00b7 Chelsea, London, England",
+      "Died": "22 February 1984 (aged 87) \u00b7 Cambridge, England",
+      "Alma mater": "St John's College, Cambridge",
+      "Known for": "Elements of the topology of plane sets of points \u00b7 Newman's lemma \u00b7 Newmanry section at Bletchley Park \u00b7 Heath Robinson (codebreaking machine) \u00b7 Colossus computer \u00b7 Newman's problem",
+      "Spouses": "Lyn Irvine \u200b (m. 1934; died 1973)\u200b - Margaret Penrose",
+      "Children": "Edward and William",
+      "Awards": "Fellow of the Royal Society (1939) \u00b7 Sylvester Medal (1958) \u00b7 De Morgan Medal (1962)",
+      "Fields": "Mathematics",
+      "Institutions": "University of Cambridge \u00b7 University of Manchester \u00b7 Princeton University",
+      "Doctoral students": "Sze-Tsen Hu \u00b7 Gilbert Robinson \u00b7 Hsien Chung Wang"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 974,
+  "title": "Ada Lovelace",
+  "url": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+  "path": "Comp-Sci-Pioneers\\ada-lovelace",
+  "summary": {
+    "chars": 3970,
+    "tokens": 827
+  },
+  "document": {
+    "chars": 35178,
+    "tokens": 7517
+  },
+  "infobox": {
+    "title": "The Right HonourableThe Countess of Lovelace",
+    "data": {
+      "Born": "Hon. Augusta Ada Byron \u00b7 10 December 1815 \u00b7 London, England",
+      "Died": "27 November 1852 (aged 36) \u00b7 Marylebone, London, England",
+      "Resting place": "Church of St. Mary Magdalene, Hucknall, Nottingham, England",
+      "Known for": "Mathematics, computing",
+      "Spouse": "William King-Noel, 1st Earl of Lovelace \u200b (m. 1835)\u200b",
+      "Children": "- Byron King-Noel, Viscount Ockham - Anne Blunt, 15th Baroness Wentworth - Ralph King-Milbanke, 2nd Earl of Lovelace",
+      "Parents": "- George Byron, 6th Baron Byron (father) - Anne Isabella Milbanke (mother)"
+    }
+  }
+}

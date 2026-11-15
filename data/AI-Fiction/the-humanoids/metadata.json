@@ -1,0 +1,29 @@
+{
+  "id": 43739400,
+  "title": "The Humanoids",
+  "url": "https://en.wikipedia.org/wiki/The_Humanoids",
+  "path": "AI-Fiction\\the-humanoids",
+  "summary": {
+    "chars": 809,
+    "tokens": 187
+  },
+  "document": {
+    "chars": 9538,
+    "tokens": 2016
+  },
+  "infobox": {
+    "title": "The Humanoids",
+    "data": {
+      "Author": "Jack Williamson",
+      "Language": "English",
+      "Genre": "Science fiction \u00b7 Campbellian science fiction",
+      "Publisher": "Simon and Schuster (US)",
+      "Publication date": "1949",
+      "Publication place": "United States",
+      "Media type": "Print (periodical, hardback & paperback)",
+      "Pages": "239",
+      "Preceded by": "\"With Folded Hands...\" (1947)",
+      "Followed by": "The Humanoid Touch (1980)"
+    }
+  }
+}

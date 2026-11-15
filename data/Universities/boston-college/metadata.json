@@ -1,0 +1,43 @@
+{
+  "id": 239811,
+  "title": "Boston College",
+  "url": "https://en.wikipedia.org/wiki/Boston_College",
+  "path": "Universities\\boston-college",
+  "summary": {
+    "chars": 1428,
+    "tokens": 278
+  },
+  "document": {
+    "chars": 32061,
+    "tokens": 6973
+  },
+  "infobox": {
+    "title": "Boston College",
+    "data": {
+      "Motto": "\u0391\u1f30\u1f72\u03bd \u1f00\u03c1\u03b9\u03c3\u03c4\u03b5\u03cd\u03b5\u03b9\u03bd (Greek)",
+      "Motto in English": "\"Ever to Excel\"",
+      "Type": "Private research university",
+      "Established": "March 31, 1863",
+      "Founder": "John McElroy",
+      "Accreditation": "NECHE",
+      "Religious affiliation": "Roman Catholic (Jesuit)",
+      "Academic affiliations": "AJCU ACCU NAICU",
+      "Endowment": "$3.777 billion (2024)",
+      "President": "William P. Leahy",
+      "Provost": "David Quigley",
+      "Academic staff": "1,848",
+      "Administrative staff": "2,690",
+      "Students": "15,106 (2022)",
+      "Undergraduates": "9,532 (2022)",
+      "Postgraduates": "5,574 (2022)",
+      "Location": "Chestnut Hill, Massachusetts, United States \u00b7 42\u00b020\u203206\u2033N 71\u00b010\u203213\u2033W\ufeff / \ufeff42.33500\u00b0N 71.17028\u00b0W",
+      "Campus": "- Small City, 388 acres (157 ha) (total) - Chestnut Hill (main campus), 175 acres (71 ha) - Chestnut Hill (Pine Manor Institute), 48 acres (19 ha) - Newton Campus, 40 acres (16 ha) - Brighton Campus, 65 acres (26 ha)",
+      "Newspaper": "The Heights",
+      "Colors": "Maroon and gold",
+      "Nickname": "Eagles",
+      "Sporting affiliations": "NCAA Division I FBS \u2013 ACC Hockey East NEISA EISA EAWRC",
+      "Mascot": "Baldwin the Eagle",
+      "Website": "bc.edu"
+    }
+  }
+}

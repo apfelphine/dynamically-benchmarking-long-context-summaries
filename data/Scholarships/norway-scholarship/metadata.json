@@ -1,0 +1,24 @@
+{
+  "id": 1228811,
+  "title": "Norway Scholarship",
+  "url": "https://en.wikipedia.org/wiki/Norway_Scholarship",
+  "path": "Scholarships\\norway-scholarship",
+  "summary": {
+    "chars": 626,
+    "tokens": 128
+  },
+  "document": {
+    "chars": 22698,
+    "tokens": 2928
+  },
+  "infobox": {
+    "title": "Norway Oxford Scholarship",
+    "data": {
+      "Name": "Norway Scholarship",
+      "Duration": "1920\u2013present",
+      "Present scholar": "Mads Pr\u00f8itz",
+      "Notable alumni": "Nordahl Grieg, P. A. Munch, Harald Sverdrup, Abid Q. Raja and Iver Neumann",
+      "Amount": "Approx. NOK 175,000"
+    }
+  }
+}

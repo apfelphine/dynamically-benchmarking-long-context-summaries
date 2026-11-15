@@ -1,0 +1,22 @@
+{
+  "id": 6117,
+  "title": "Charles Sanders Peirce",
+  "url": "https://en.wikipedia.org/wiki/Charles_Sanders_Peirce",
+  "path": "Comp-Sci-Pioneers\\charles-sanders-peirce",
+  "summary": {
+    "chars": 1992,
+    "tokens": 434
+  },
+  "document": {
+    "chars": 81843,
+    "tokens": 17837
+  },
+  "infobox": {
+    "title": "Charles Sanders Peirce",
+    "data": {
+      "Born": "September 10, 1839 \u00b7 Cambridge, Massachusetts, U.S.",
+      "Died": "April 19, 1914 (aged 74) \u00b7 Milford, Pennsylvania, U.S.",
+      "Relatives": "Benjamin Peirce (father)"
+    }
+  }
+}

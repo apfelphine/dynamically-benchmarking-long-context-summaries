@@ -1,0 +1,28 @@
+{
+  "id": 365802,
+  "title": "Robert Kahn (computer scientist)",
+  "url": "https://en.wikipedia.org/wiki/Robert_Kahn_(computer_scientist)",
+  "path": "Comp-Sci-Pioneers\\robert-kahn-computer-scientist",
+  "summary": {
+    "chars": 338,
+    "tokens": 76
+  },
+  "document": {
+    "chars": 7891,
+    "tokens": 1604
+  },
+  "infobox": {
+    "title": "Robert Kahn",
+    "data": {
+      "Born": "Robert Elliot Kahn \u00b7 December 23, 1938 \u00b7 Brooklyn, New York, U.S.",
+      "Education": "City College of New York (BS) \u00b7 Princeton University (MA, PhD)",
+      "Known for": "TCP/IP",
+      "Spouse": "Patrice Ann Lyons",
+      "Awards": "Marconi Prize (1994) National Medal of Tech (1997) National Medal of Technology and Innovation (1997) IEEE Alexander Graham Bell Medal (1997) Charles Stark Draper Prize (2001) Prince of Asturias Award (2002) Turing Award (2004) Presidential Medal of Freedom (2005) Computer History Museum Fellow (2006) Japan Prize (2008) Harold Pender Award (2010) Queen Elizabeth Prize for Engineering (2013) IEEE Medal of Honor (2024)",
+      "Fields": "Telecommunications, networking",
+      "Institutions": "Bell Labs \u00b7 MIT \u00b7 BBN \u00b7 DARPA \u00b7 Corporation for National Research Initiatives",
+      "Thesis": "Some problems in the sampling and modulation of signals (1964)",
+      "Doctoral advisor": "Bede Liu"
+    }
+  }
+}

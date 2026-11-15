@@ -1,0 +1,359 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education in Canada\n## Timeline of Compulsory Education\nCompulsory education in Canada was introduced progressively from 1871 in Ontario to 1943 in Quebec, covering all provinces and territories by the mid-20th century. Key milestones include:\n- **1871** : Ontario\n- **1873** : British Columbia\n- **1883** : Nova Scotia\n- **1905** : New Brunswick\n- **1910** : Alberta\n- **1916** : Manitoba\n- **1942** : Newfoundland\n- **1943** : Quebec",
+        "text_original": "Compulsory education in Canada was introduced progressively from 1871 in Ontario to 1943 in Quebec, covering all provinces and territories by the mid-20th century. Key milestones include:\n- **1871**: Ontario\n- **1873**: British Columbia\n- **1883**: Nova Scotia\n- **1905**: New Brunswick\n- **1910**: Alberta\n- **1916**: Manitoba\n- **1942**: Newfoundland\n- **1943**: Quebec",
+        "idx_start": 69,
+        "idx_end": 440
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Canada\n## Section 15(2) and Equity Programs\nSection 15(2) of Canada\u2019s *Charter of Rights and Freedoms* permits governments to implement equity programs for disadvantaged groups, including racialized students. Schools like the **Toronto District School Board (TDSB)** collect identity-based data to assess achievement gaps, though transparency and methodology remain concerns. There is no federal or provincial legislation mandating inclusion or exclusion of demographic groups in school data, leading to ongoing debates about equity-focused interventions.",
+        "text_original": "Section 15(2) of Canada\u2019s *Charter of Rights and Freedoms* permits governments to implement equity programs for disadvantaged groups, including racialized students. Schools like the **Toronto District School Board (TDSB)** collect identity-based data to assess achievement gaps, though transparency and methodology remain concerns. There is no federal or provincial legislation mandating inclusion or exclusion of demographic groups in school data, leading to ongoing debates about equity-focused interventions",
+        "idx_start": 484,
+        "idx_end": 994
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Canada\n## Education Statistics and Assessment\nCanada\u2019s education system is managed by provincial governments, with limited federal oversight. The **Canadian Education Statistics Council (CESC)** collaborates with provincial departments to produce the *Education Indicators in Canada* report, comparing Canada\u2019s education systems with international standards. The **Programme for International Student Assessment (PISA)** evaluates student performance in mathematics, science, and reading.",
+        "text_original": "Canada\u2019s education system is managed by provincial governments, with limited federal oversight. The **Canadian Education Statistics Council (CESC)** collaborates with provincial departments to produce the *Education Indicators in Canada* report, comparing Canada\u2019s education systems with international standards. The **Programme for International Student Assessment (PISA)** evaluates student performance in mathematics, science, and reading",
+        "idx_start": 1041,
+        "idx_end": 1482
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Canada\n## Education Funding and Structure\nEducation is primarily a provincial responsibility, with federal funding limited to Indigenous education, military colleges, and the Canadian Coast Guard College. Canada spends around **5.2% of GDP** on education, heavily investing in tertiary education (over **US$20,000 per student** ). Tuition fees vary by province, with recent increases ranging from **0.3% in Ontario to 5.7% in Alberta** .",
+        "text_original": "Education is primarily a provincial responsibility, with federal funding limited to Indigenous education, military colleges, and the Canadian Coast Guard College. Canada spends around **5.2% of GDP** on education, heavily investing in tertiary education (over **US$20,000 per student**). Tuition fees vary by province, with recent increases ranging from **0.3% in Ontario to 5.7% in Alberta",
+        "idx_start": 1525,
+        "idx_end": 1915
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Canada\n## Religious and Language-Based Schools\nCanada\u2019s *Constitution Act, 1867* guarantees religious-based separate schools for those established before provincial Confederation. **Section 93** allows for publicly funded religious schools in Ontario, Saskatchewan, and Alberta, while **Section 23** ensures bilingual education rights. French and English are both official languages, with French immersion and English immersion programs available across Canada.",
+        "text_original": "Canada\u2019s *Constitution Act, 1867* guarantees religious-based separate schools for those established before provincial Confederation. **Section 93** allows for publicly funded religious schools in Ontario, Saskatchewan, and Alberta, while **Section 23** ensures bilingual education rights. French and English are both official languages, with French immersion and English immersion programs available across Canada",
+        "idx_start": 1965,
+        "idx_end": 2378
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Canada\n## Education Levels and Compulsory Attendance\nEducation in Canada spans **early childhood, elementary, secondary, and tertiary levels** , with compulsory attendance varying by province. Most provinces require children to attend school from age **5 to 16** , though exceptions exist (e.g., Manitoba and New Brunswick require attendance until age **18** or completion of a secondary school diploma). Compulsory education begins at **Kindergarten (age 5)** and ends after **Grade 12** , with some provinces offering extended programs.",
+        "text_original": "Education in Canada spans **early childhood, elementary, secondary, and tertiary levels**, with compulsory attendance varying by province. Most provinces require children to attend school from age **5 to 16**, though exceptions exist (e.g., Manitoba and New Brunswick require attendance until age **18** or completion of a secondary school diploma). Compulsory education begins at **Kindergarten (age 5)** and ends after **Grade 12**, with some provinces offering extended programs",
+        "idx_start": 2432,
+        "idx_end": 2913
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Canada\n## Vocational and Tertiary Education\nVocational education in Canada includes **apprenticeships, certificates, diplomas, and associate degrees** , offered through institutions like **Seneca College, Sheridan College, and Kwantlen Polytechnic University** . Tertiary education is divided into **universities (offering bachelor\u2019s, master\u2019s, and doctoral degrees)** and **vocational colleges (offering diplomas and certificates)** . Private universities exist but face regulatory scrutiny, particularly regarding religious exemptions.",
+        "text_original": "Vocational education in Canada includes **apprenticeships, certificates, diplomas, and associate degrees**, offered through institutions like **Seneca College, Sheridan College, and Kwantlen Polytechnic University**. Tertiary education is divided into **universities (offering bachelor\u2019s, master\u2019s, and doctoral degrees)** and **vocational colleges (offering diplomas and certificates)**. Private universities exist but face regulatory scrutiny, particularly regarding religious exemptions",
+        "idx_start": 2958,
+        "idx_end": 3447
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Canada\n## International Education and Scholarships\nCanada offers a **fast-track system** for foreign students and graduates with Canadian work experience to become permanent residents. International schools in Canada follow **British, International Baccalaureate (IB), and other curricula** , catering to diverse student populations.",
+        "text_original": "Canada offers a **fast-track system** for foreign students and graduates with Canadian work experience to become permanent residents. International schools in Canada follow **British, International Baccalaureate (IB), and other curricula**, catering to diverse student populations",
+        "idx_start": 3499,
+        "idx_end": 3779
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Czech Republic\n## Elementary and Secondary Education\nThe Czech education system is divided into **elementary (grades 1\u20139)** and **secondary (grades 10\u201313)** education. Elementary school is split into **first (grades 1\u20135)** and **second stages (grades 6\u20139)** , with the latter focusing on academic rigor. Secondary education culminates in the **maturita exam** , required for university admission.",
+        "text_original": "The Czech education system is divided into **elementary (grades 1\u20139)** and **secondary (grades 10\u201313)** education. Elementary school is split into **first (grades 1\u20135)** and **second stages (grades 6\u20139)**, with the latter focusing on academic rigor. Secondary education culminates in the **maturita exam**, required for university admission",
+        "idx_start": 3870,
+        "idx_end": 4210
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Czech Republic\n## Vocational and Professional Schools\nVocational certificates are awarded after **2\u20133 years of study** , including **two-year vocational courses without certification** . Some vocational schools offer academic **maturita qualifications** , allowing progression to university. Professional schools (4 years) and lyceums (4 years) provide specialized training in fields like medicine, agriculture, and business.",
+        "text_original": "Vocational certificates are awarded after **2\u20133 years of study**, including **two-year vocational courses without certification**. Some vocational schools offer academic **maturita qualifications**, allowing progression to university. Professional schools (4 years) and lyceums (4 years) provide specialized training in fields like medicine, agriculture, and business",
+        "idx_start": 4257,
+        "idx_end": 4624
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Czech Republic\n## Higher Education\nThe Czech Republic has a long history of higher education, with **Charles University (founded 1348)** as its oldest institution. Public universities offer **free instruction in Czech** for first-time students, while private universities charge **\u20ac2,000\u2013\u20ac3,000/year** . Higher education spans **bachelor\u2019s (3 years), master\u2019s (2 years), and doctoral (PhD) programs** , with degrees awarded in **PhDr., JUDr., RNDr., and others** .",
+        "text_original": "The Czech Republic has a long history of higher education, with **Charles University (founded 1348)** as its oldest institution. Public universities offer **free instruction in Czech** for first-time students, while private universities charge **\u20ac2,000\u2013\u20ac3,000/year**. Higher education spans **bachelor\u2019s (3 years), master\u2019s (2 years), and doctoral (PhD) programs**, with degrees awarded in **PhDr., JUDr., RNDr., and others",
+        "idx_start": 4652,
+        "idx_end": 5075
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Czech Republic\n## School Calendar and Holidays\nThe school year runs from **September to June** , divided into two semesters. Key holidays include **autumn (October), Christmas (December\u2013January), spring (February\u2013March), and summer (July\u2013August)** . The **Children\u2019s Day (June 1)** is a cultural event rather than a holiday.",
+        "text_original": "The school year runs from **September to June**, divided into two semesters. Key holidays include **autumn (October), Christmas (December\u2013January), spring (February\u2013March), and summer (July\u2013August)**. The **Children\u2019s Day (June 1)** is a cultural event rather than a holiday",
+        "idx_start": 5117,
+        "idx_end": 5391
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Bangladesh\n## Education System Structure\nBangladesh\u2019s education system is divided into **pre-primary (K\u20132), primary (3\u20138), secondary (9\u201312), and tertiary levels** . The **National Curriculum and Textbook Board (NCTB)** develops textbooks and administers standardized exams in **Bengali and English** . Madrasahs (Islamic schools) and international schools offer alternative curricula.",
+        "text_original": "Bangladesh\u2019s education system is divided into **pre-primary (K\u20132), primary (3\u20138), secondary (9\u201312), and tertiary levels**. The **National Curriculum and Textbook Board (NCTB)** develops textbooks and administers standardized exams in **Bengali and English**. Madrasahs (Islamic schools) and international schools offer alternative curricula",
+        "idx_start": 5466,
+        "idx_end": 5806
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Bangladesh\n## Compulsory Education and Literacy\nCompulsory education is mandatory from **age 5 to 12** , with **100% of primary school teaching positions reserved for women** . The literacy rate improved from **51.77% (2011) to 74.66% (2022)** , driven by government initiatives like **free education for girls up to class 10** and **stipends for female students** .",
+        "text_original": "Compulsory education is mandatory from **age 5 to 12**, with **100% of primary school teaching positions reserved for women**. The literacy rate improved from **51.77% (2011) to 74.66% (2022)**, driven by government initiatives like **free education for girls up to class 10** and **stipends for female students",
+        "idx_start": 5851,
+        "idx_end": 6162
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Bangladesh\n## Vocational and Technical Education\nThe **Technical and Vocational Education System** provides courses in **engineering, medicine, agriculture, and skilled trades** , with **apprenticeships and diplomas** available. The **Directorate of Technical Education (DTE)** oversees vocational training, while **universities and colleges** offer degrees in **engineering, medicine, and business** .",
+        "text_original": "The **Technical and Vocational Education System** provides courses in **engineering, medicine, agriculture, and skilled trades**, with **apprenticeships and diplomas** available. The **Directorate of Technical Education (DTE)** oversees vocational training, while **universities and colleges** offer degrees in **engineering, medicine, and business",
+        "idx_start": 6210,
+        "idx_end": 6558
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Bangladesh\n## Alternative Education Systems\nInternational schools follow **Cambridge, Pearson Edexcel, and International Baccalaureate (IB)** curricula, while **madrasahs** focus on Islamic studies. Refugee education programs, such as those for Rohingya children, are managed by **UNICEF** , offering temporary learning centers.",
+        "text_original": "International schools follow **Cambridge, Pearson Edexcel, and International Baccalaureate (IB)** curricula, while **madrasahs** focus on Islamic studies. Refugee education programs, such as those for Rohingya children, are managed by **UNICEF**, offering temporary learning centers",
+        "idx_start": 6601,
+        "idx_end": 6883
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Bangladesh\n## Grading and Literacy Rates\nThe grading system ranges from **33% (passing) to 100% (A+)** . Literacy rates vary by province, with **Punjab (66.25%) and Sindh (57.54%)** having the highest rates. The **2023 Census** reported **60.65% literacy** , up from **51.77% in 2011** .",
+        "text_original": "The grading system ranges from **33% (passing) to 100% (A+)**. Literacy rates vary by province, with **Punjab (66.25%) and Sindh (57.54%)** having the highest rates. The **2023 Census** reported **60.65% literacy**, up from **51.77% in",
+        "idx_start": 6921,
+        "idx_end": 7156
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Poland\n## Compulsory Education\nPoland\u2019s compulsory education begins at **age 6\u20137** and lasts **8 years (primary school)** . The **2017 reform** extended primary school to **8 years** , replacing the previous **6-year primary + 3-year junior high system** . Secondary education includes **general (liceum), vocational (technikum), and special schools (szko\u0142a specjalna)** .",
+        "text_original": "Poland\u2019s compulsory education begins at **age 6\u20137** and lasts **8 years (primary school)**. The **2017 reform** extended primary school to **8 years**, replacing the previous **6-year primary + 3-year junior high system**. Secondary education includes **general (liceum), vocational (technikum), and special schools (szko\u0142a specjalna",
+        "idx_start": 7228,
+        "idx_end": 7561
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Poland\n## Upper Secondary and Tertiary Education\nUpper secondary education prepares students for **labor markets or tertiary education** . **General secondary schools (liceum)** offer the **Matura exam** for university admission. **Vocational schools (technikum)** provide technical training, while **special schools** cater to students with disabilities. Tertiary education follows the **Bologna Process** , with **bachelor\u2019s (3 years), master\u2019s (2 years), and PhD programs** .",
+        "text_original": "Upper secondary education prepares students for **labor markets or tertiary education**. **General secondary schools (liceum)** offer the **Matura exam** for university admission. **Vocational schools (technikum)** provide technical training, while **special schools** cater to students with disabilities. Tertiary education follows the **Bologna Process**, with **bachelor\u2019s (3 years), master\u2019s (2 years), and PhD programs",
+        "idx_start": 7614,
+        "idx_end": 8037
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Poland\n## Foreign Languages and History\nStudents learn **one or two foreign languages** , with **English (67.9%) and German (33.3%)** being the most common. The **2017 education reform** introduced **two foreign languages** in lower secondary schools. History education has been criticized for its **Eurocentric and nationalist focus** , with debates over the inclusion of **Non-Aligned Movement** and **communism** .",
+        "text_original": "Students learn **one or two foreign languages**, with **English (67.9%) and German (33.3%)** being the most common. The **2017 education reform** introduced **two foreign languages** in lower secondary schools. History education has been criticized for its **Eurocentric and nationalist focus**, with debates over the inclusion of **Non-Aligned Movement** and **communism",
+        "idx_start": 8080,
+        "idx_end": 8451
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Poland\n## Education Reforms\nThe **1999 reform** shifted education from **8 + 4 years to 6 + 3 + 3 years** , improving rankings in **reading and science** . The **2017 reform** reversed this, extending primary school to **8 years** and increasing the duration of upper secondary education.",
+        "text_original": "The **1999 reform** shifted education from **8 + 4 years to 6 + 3 + 3 years**, improving rankings in **reading and science**. The **2017 reform** reversed this, extending primary school to **8 years** and increasing the duration of upper secondary education",
+        "idx_start": 8482,
+        "idx_end": 8739
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Saudi Arabia\n## Pre-Primary and Primary Education\nPre-primary education (kindergarten) is optional, while **primary education (6 years)** is compulsory. The curriculum includes **Arabic, Islamic studies, mathematics, science, and English** . The **2021 reform** mandated English instruction from **Grade 1** .",
+        "text_original": "Pre-primary education (kindergarten) is optional, while **primary education (6 years)** is compulsory. The curriculum includes **Arabic, Islamic studies, mathematics, science, and English**. The **2021 reform** mandated English instruction from **Grade",
+        "idx_start": 8823,
+        "idx_end": 9075
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Saudi Arabia\n## Intermediate and Secondary Education\nIntermediate education lasts **3 years** , followed by **secondary education (3 years)** . Students can pursue **general or specialized secondary education** , including **technical secondary institutes** . The **2021 curriculum reform** merged multiple Islamic subjects into a single book.",
+        "text_original": "Intermediate education lasts **3 years**, followed by **secondary education (3 years)**. Students can pursue **general or specialized secondary education**, including **technical secondary institutes**. The **2021 curriculum reform** merged multiple Islamic subjects into a single book",
+        "idx_start": 9127,
+        "idx_end": 9412
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Saudi Arabia\n## Higher Education and Vocational Training\nHigher education in Saudi Arabia lasts **4 years (humanities) to 6 years (medicine, engineering, pharmacy)** . The **Ministry of Education\u2019s 10-Year Plan (2025\u20132035)** aims to improve **STEM education, teacher training, and digital literacy** . Vocational training focuses on **skilled trades and technical careers** , with **apprenticeships and diplomas** available.",
+        "text_original": "Higher education in Saudi Arabia lasts **4 years (humanities) to 6 years (medicine, engineering, pharmacy)**. The **Ministry of Education\u2019s 10-Year Plan (2025\u20132035)** aims to improve **STEM education, teacher training, and digital literacy**. Vocational training focuses on **skilled trades and technical careers**, with **apprenticeships and diplomas** available",
+        "idx_start": 9464,
+        "idx_end": 9827
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Saudi Arabia\n## Girls\u2019 and Women\u2019s Education\nWomen constitute **60% of university students** , with **Princess Nora bint Abdul Rahman University** being the largest women-only university in the world. The **2015 enrollment rates** surpassed those of men, and **scholarships** support women\u2019s higher education.",
+        "text_original": "Women constitute **60% of university students**, with **Princess Nora bint Abdul Rahman University** being the largest women-only university in the world. The **2015 enrollment rates** surpassed those of men, and **scholarships** support women\u2019s higher education",
+        "idx_start": 9867,
+        "idx_end": 10129
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Saudi Arabia\n## Gifted Education and Special Needs\nGifted education programs include **enrichment programs (SEP) and gifted educational centers** , with **91 centers** serving **1% of students** . Special education focuses on **autism and physical disabilities** , with **assistive technology (AT)** aiding students.",
+        "text_original": "Gifted education programs include **enrichment programs (SEP) and gifted educational centers**, with **91 centers** serving **1% of students**. Special education focuses on **autism and physical disabilities**, with **assistive technology (AT)** aiding students",
+        "idx_start": 10175,
+        "idx_end": 10436
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Pakistan\n## Primary and Secondary Education\nPakistan\u2019s education system is **partially inspired by British models** , with **pre-school (3\u20135 years)** followed by **primary (1\u20135), middle (6\u20138), and secondary (9\u201312)** education. **Arts, sciences, and vocational tracks** are available, with **8\u201310 subjects** typically studied. The **2009 literacy rate** was **60.65%** , with **Punjab (66.25%)** and **Sindh (57.54%)** having the highest rates.",
+        "text_original": "Pakistan\u2019s education system is **partially inspired by British models**, with **pre-school (3\u20135 years)** followed by **primary (1\u20135), middle (6\u20138), and secondary (9\u201312)** education. **Arts, sciences, and vocational tracks** are available, with **8\u201310 subjects** typically studied. The **2009 literacy rate** was **60.65%**, with **Punjab (66.25%)** and **Sindh (57.54%)** having the highest rates",
+        "idx_start": 10514,
+        "idx_end": 10910
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Pakistan\n## Tertiary Education and Teacher Training\nTertiary education includes **bachelor\u2019s (4\u20135 years), master\u2019s (2 years), and PhD programs** , with **public and private universities** offering degrees in **engineering, medicine, and business** . Teacher training programs are **criticized for lacking professional development and funding** .",
+        "text_original": "Tertiary education includes **bachelor\u2019s (4\u20135 years), master\u2019s (2 years), and PhD programs**, with **public and private universities** offering degrees in **engineering, medicine, and business**. Teacher training programs are **criticized for lacking professional development and funding",
+        "idx_start": 10961,
+        "idx_end": 11248
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Pakistan\n## Vocational and Technical Education\nThe **Technical and Vocational Education Training (TVET) system** provides **apprenticeships, diplomas, and associate degrees** in **engineering, medicine, and skilled trades** . The **Directorate of Technical Education (DTE)** oversees vocational training, with **Meister Schools** (German-style vocational training) gaining popularity.",
+        "text_original": "The **Technical and Vocational Education Training (TVET) system** provides **apprenticeships, diplomas, and associate degrees** in **engineering, medicine, and skilled trades**. The **Directorate of Technical Education (DTE)** oversees vocational training, with **Meister Schools** (German-style vocational training) gaining popularity",
+        "idx_start": 11296,
+        "idx_end": 11631
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Pakistan\n## Gender Disparity and Literacy\nPakistan faces **gender disparities** , with **only 18% of women receiving 10+ years of schooling** . Literacy rates vary by province, with **Punjab (66.25%)** and **Khyber Pakhtunkhwa (51.09%)** having the lowest rates. The **2023 Census** reported **60.65% literacy** , up from **51.77% in 2011** .",
+        "text_original": "Pakistan faces **gender disparities**, with **only 18% of women receiving 10+ years of schooling**. Literacy rates vary by province, with **Punjab (66.25%)** and **Khyber Pakhtunkhwa (51.09%)** having the lowest rates. The **2023 Census** reported **60.65% literacy**, up from **51.77% in",
+        "idx_start": 11672,
+        "idx_end": 11960
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in New Zealand\n## Compulsory Education\nNew Zealand\u2019s education system is **free and compulsory** from **age 5 to 16** . It includes **early childhood education (0\u20135 years)** , **primary (1\u20138 years)** , **intermediate (7\u20138 years)** , and **secondary (9\u201313 years)** . The **New Zealand Curriculum (NZC)** and **Te Marautanga o Aotearoa (TMoA)** guide instruction in **English and M\u0101ori-medium schools** .",
+        "text_original": "New Zealand\u2019s education system is **free and compulsory** from **age 5 to 16**. It includes **early childhood education (0\u20135 years)**, **primary (1\u20138 years)**, **intermediate (7\u20138 years)**, and **secondary (9\u201313 years)**. The **New Zealand Curriculum (NZC)** and **Te Marautanga o Aotearoa (TMoA)** guide instruction in **English and M\u0101ori-medium schools",
+        "idx_start": 12037,
+        "idx_end": 12391
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in New Zealand\n## School Structure and Funding\nSchools are **state, state-integrated, or private** , with **state schools** being free and **state-integrated schools** charging **attendance dues** . Private schools rely on tuition fees. **Funding is based on socio-economic decile ratings** , with **low-decile schools** receiving more support.",
+        "text_original": "Schools are **state, state-integrated, or private**, with **state schools** being free and **state-integrated schools** charging **attendance dues**. Private schools rely on tuition fees. **Funding is based on socio-economic decile ratings**, with **low-decile schools** receiving more support",
+        "idx_start": 12433,
+        "idx_end": 12726
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in New Zealand\n## Vocational and Tertiary Education\nVocational education includes **manual training, technical schools, and apprenticeships** . Tertiary education is regulated by the **New Zealand Qualifications Framework** , offering **degrees, diplomas, and certificates** in **universities, colleges, and online programs** .",
+        "text_original": "Vocational education includes **manual training, technical schools, and apprenticeships**. Tertiary education is regulated by the **New Zealand Qualifications Framework**, offering **degrees, diplomas, and certificates** in **universities, colleges, and online programs",
+        "idx_start": 12771,
+        "idx_end": 13040
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in New Zealand\n## International Education\nNew Zealand has **152 international schools** (as of 2015), offering **British, IB, and other curricula** . The **Education Review Office (ERO)** monitors school quality, with **M\u0101ori-medium schools** showing improved academic outcomes.",
+        "text_original": "New Zealand has **152 international schools** (as of 2015), offering **British, IB, and other curricula**. The **Education Review Office (ERO)** monitors school quality, with **M\u0101ori-medium schools** showing improved academic outcomes",
+        "idx_start": 13077,
+        "idx_end": 13311
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Russia\n## Levels of Education\nRussia\u2019s education system includes **general (preschool, primary, secondary) and professional education** . **Preschool (0\u20136 years)** and **primary (4 years)** are followed by **basic (5 years) and secondary (2 years)** education. **Vocational education** lasts **3\u20134 years** , while **higher education** includes **bachelor\u2019s (4 years), master\u2019s (2 years), and PhD programs** .",
+        "text_original": "Russia\u2019s education system includes **general (preschool, primary, secondary) and professional education**. **Preschool (0\u20136 years)** and **primary (4 years)** are followed by **basic (5 years) and secondary (2 years)** education. **Vocational education** lasts **3\u20134 years**, while **higher education** includes **bachelor\u2019s (4 years), master\u2019s (2 years), and PhD programs",
+        "idx_start": 13375,
+        "idx_end": 13747
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Russia\n## Secondary and Tertiary Education\nSecondary education is **compulsory for 9 years** , with **specialized schools** offering **vocational training** . **Higher education** follows the **Bologna Process** , with **universities and colleges** offering **bachelor\u2019s, master\u2019s, and PhD degrees** . The **Ministry of Education** regulates accreditation and quality assurance.",
+        "text_original": "Secondary education is **compulsory for 9 years**, with **specialized schools** offering **vocational training**. **Higher education** follows the **Bologna Process**, with **universities and colleges** offering **bachelor\u2019s, master\u2019s, and PhD degrees**. The **Ministry of Education** regulates accreditation and quality assurance",
+        "idx_start": 13793,
+        "idx_end": 14123
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Russia\n## Special Education and Language Programs\nRussia has **special schools for students with disabilities** , with **80 schools for the blind and 207 secondary boarding schools for the deaf** . **Language programs** include **Russian, English, and indigenous languages** , with **10,608 schools** offering instruction in **24 languages** .",
+        "text_original": "Russia has **special schools for students with disabilities**, with **80 schools for the blind and 207 secondary boarding schools for the deaf**. **Language programs** include **Russian, English, and indigenous languages**, with **10,608 schools** offering instruction in **24 languages",
+        "idx_start": 14174,
+        "idx_end": 14460
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Mexico\n## Basic Education Structure\nMexico\u2019s basic education system includes **primary (1\u20136), junior high (7\u20139), and high school (10\u201312)** . **Preparatoria (high school)** is **not compulsory** , but **secundaria (junior high)** is. **T\u00e9cnica (vocational training)** and **telesecundaria (distance learning)** are also available.",
+        "text_original": "Mexico\u2019s basic education system includes **primary (1\u20136), junior high (7\u20139), and high school (10\u201312)**. **Preparatoria (high school)** is **not compulsory**, but **secundaria (junior high)** is. **T\u00e9cnica (vocational training)** and **telesecundaria (distance learning)** are also available",
+        "idx_start": 14532,
+        "idx_end": 14822
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Mexico\n## Educational Integration\nMexico\u2019s **educational integration** policy mandates the inclusion of students with disabilities into regular classrooms. **USAER (Unit of Support Services for Regular Education)** provides support for special needs students, though **accessibility and training** remain challenges.",
+        "text_original": "Mexico\u2019s **educational integration** policy mandates the inclusion of students with disabilities into regular classrooms. **USAER (Unit of Support Services for Regular Education)** provides support for special needs students, though **accessibility and training** remain challenges",
+        "idx_start": 14857,
+        "idx_end": 15138
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Mexico\n## Quality and Higher Education\nMexico\u2019s education system has faced **criticism for low quality and high dropout rates** . **Higher education** includes **public and private universities** , with **bachelor\u2019s (Licenciatura), master\u2019s (Maestr\u00eda), and PhD programs** . The **National Autonomous University of Mexico (UNAM)** is the highest-ranked university.",
+        "text_original": "Mexico\u2019s education system has faced **criticism for low quality and high dropout rates**. **Higher education** includes **public and private universities**, with **bachelor\u2019s (Licenciatura), master\u2019s (Maestr\u00eda), and PhD programs**. The **National Autonomous University of Mexico (UNAM)** is the highest-ranked university",
+        "idx_start": 15178,
+        "idx_end": 15498
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Mexico\n## International Education\nMexico has **151 international schools** (as of 2015), offering **British, IB, and other curricula** . The **Ministry of Education** regulates **vocational and higher education** , with **Conalep (National College of Professional Technical Education)** offering **vocational training** .",
+        "text_original": "Mexico has **151 international schools** (as of 2015), offering **British, IB, and other curricula**. The **Ministry of Education** regulates **vocational and higher education**, with **Conalep (National College of Professional Technical Education)** offering **vocational training",
+        "idx_start": 15533,
+        "idx_end": 15814
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in South Korea\n## School Grades and Structure\nSouth Korea\u2019s education system spans **infant school (0\u20132), kindergarten (3\u20135), elementary (1\u20136), middle (7\u20139), and high school (10\u201312)** . **High school is not compulsory** , but **middle school is** . **Meister Schools** (German-style vocational training) are gaining popularity, with **15,213 students enrolled** .",
+        "text_original": "South Korea\u2019s education system spans **infant school (0\u20132), kindergarten (3\u20135), elementary (1\u20136), middle (7\u20139), and high school (10\u201312)**. **High school is not compulsory**, but **middle school is**. **Meister Schools** (German-style vocational training) are gaining popularity, with **15,213 students enrolled",
+        "idx_start": 15893,
+        "idx_end": 16203
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in South Korea\n## Vocational and Higher Education\nVocational education includes **Meister Schools, industrial universities, and community colleges** . **Higher education** is dominated by **universities** , with **bachelor\u2019s (4 years), master\u2019s (2 years), and PhD programs** . The **College Scholastic Ability Test (CSAT)** is the primary admission criterion.",
+        "text_original": "Vocational education includes **Meister Schools, industrial universities, and community colleges**. **Higher education** is dominated by **universities**, with **bachelor\u2019s (4 years), master\u2019s (2 years), and PhD programs**. The **College Scholastic Ability Test (CSAT)** is the primary admission criterion",
+        "idx_start": 16248,
+        "idx_end": 16553
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in South Korea\n## English Education and Criticisms\nSouth Korea has **extensive English education programs** , with **100,000+ students studying abroad** . **Hagwons (cram schools)** are criticized for **overworking students** and **high costs** . The **2024 budget** allocated **\u00a529.2 trillion** for education, reflecting **high demand and competition** .",
+        "text_original": "South Korea has **extensive English education programs**, with **100,000+ students studying abroad**. **Hagwons (cram schools)** are criticized for **overworking students** and **high costs**. The **2024 budget** allocated **\u00a529.2 trillion** for education, reflecting **high demand and competition",
+        "idx_start": 16597,
+        "idx_end": 16894
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Japan\n## School Levels and Structure\nJapan\u2019s education system includes **elementary (1\u20136), junior high (7\u20139), and senior high (10\u201312)** . **University education** lasts **4 years (bachelor\u2019s), 2 years (master\u2019s), and 3 years (PhD)** . The **Basic Act on Education (2007)** guarantees **equal opportunity for students with disabilities** .",
+        "text_original": "Japan\u2019s education system includes **elementary (1\u20136), junior high (7\u20139), and senior high (10\u201312)**. **University education** lasts **4 years (bachelor\u2019s), 2 years (master\u2019s), and 3 years (PhD)**. The **Basic Act on Education (2007)** guarantees **equal opportunity for students with disabilities",
+        "idx_start": 16967,
+        "idx_end": 17262
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Japan\n## Secondary and Tertiary Education\nSecondary education is **not compulsory** , but **98.8% of students attend** . **Higher education** includes **universities, junior colleges, and colleges of technology** , with **49 universities listed in the QS World University Rankings (2025)** .",
+        "text_original": "Secondary education is **not compulsory**, but **98.8% of students attend**. **Higher education** includes **universities, junior colleges, and colleges of technology**, with **49 universities listed in the QS World University Rankings",
+        "idx_start": 17308,
+        "idx_end": 17543
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Japan\n## Extracurricular Activities and Criticisms\nJapan\u2019s education system emphasizes **extracurricular activities (juku, ronin)** , which can lead to **high stress and poor student health** . **Bullying and academic pressure** are major concerns, with **612,496 bullying cases reported in 2019** .",
+        "text_original": "Japan\u2019s education system emphasizes **extracurricular activities (juku, ronin)**, which can lead to **high stress and poor student health**. **Bullying and academic pressure** are major concerns, with **612,496 bullying cases reported in",
+        "idx_start": 17605,
+        "idx_end": 17842
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Netherlands\n## Compulsory Education\nThe Netherlands\u2019 compulsory education starts at **age 5** and lasts **until age 18** . It includes **elementary (8 years), secondary (4\u20136 years), and vocational education** . **Public, special, and private schools** are funded equally, with **special schools** based on religious or educational philosophies.",
+        "text_original": "The Netherlands\u2019 compulsory education starts at **age 5** and lasts **until age 18**. It includes **elementary (8 years), secondary (4\u20136 years), and vocational education**. **Public, special, and private schools** are funded equally, with **special schools** based on religious or educational philosophies",
+        "idx_start": 17923,
+        "idx_end": 18228
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Netherlands\n## Secondary Education\nSecondary education includes **VMBO (vocational), HAVO (academic), and VWO (scientific)** . **VMBO** is **4 years** , while **HAVO (5 years) and VWO (6 years)** prepare for **HBO (college) and WO (university)** . **Bilingual VWO (TVWO)** is available in some schools.",
+        "text_original": "Secondary education includes **VMBO (vocational), HAVO (academic), and VWO (scientific)**. **VMBO** is **4 years**, while **HAVO (5 years) and VWO (6 years)** prepare for **HBO (college) and WO (university)**. **Bilingual VWO (TVWO)** is available in some schools",
+        "idx_start": 18259,
+        "idx_end": 18522
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Netherlands\n## Vocational and Higher Education\nVocational education includes **MBO (middle-level applied education)** , **HBO (higher professional education)** , and **WO (scientific education)** . **HBO graduates** can pursue **master\u2019s programs** , while **WO graduates** can enter **PhD programs** . **Accreditation** is regulated by the **NVAO (Accreditation Organization of the Netherlands and Flanders)** .",
+        "text_original": "Vocational education includes **MBO (middle-level applied education)**, **HBO (higher professional education)**, and **WO (scientific education)**. **HBO graduates** can pursue **master\u2019s programs**, while **WO graduates** can enter **PhD programs**. **Accreditation** is regulated by the **NVAO (Accreditation Organization of the Netherlands and Flanders",
+        "idx_start": 18565,
+        "idx_end": 18920
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Netherlands\n## Criticisms\nThe Dutch education system is criticized for **early separation into educational levels** , leading to **unequal opportunities** . **Research shows that 30% of gifted children are sent to lower levels** , and **IQ testing may not always be accurate** . The **PISA rankings** indicate **declining standards in reading and math** .",
+        "text_original": "The Dutch education system is criticized for **early separation into educational levels**, leading to **unequal opportunities**. **Research shows that 30% of gifted children are sent to lower levels**, and **IQ testing may not always be accurate**. The **PISA rankings** indicate **declining standards in reading and math",
+        "idx_start": 18945,
+        "idx_end": 19266
+    }
+]

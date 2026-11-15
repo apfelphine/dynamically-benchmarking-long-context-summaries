@@ -1,0 +1,36 @@
+{
+  "id": 72836067,
+  "title": "M3GAN 2.0",
+  "url": "https://en.wikipedia.org/wiki/M3GAN_2.0",
+  "path": "AI-Fiction\\m3gan-20",
+  "summary": {
+    "chars": 875,
+    "tokens": 204
+  },
+  "document": {
+    "chars": 10224,
+    "tokens": 2385
+  },
+  "infobox": {
+    "title": "M3GAN 2.0",
+    "data": {
+      "Directed by": "Gerard Johnstone",
+      "Screenplay by": "Gerard Johnstone",
+      "Story by": "- Gerard Johnstone - Akela Cooper",
+      "Based on": "Characters \u00b7 by - Akela Cooper - James Wan",
+      "Produced by": "- Jason Blum - James Wan - Allison Williams",
+      "Starring": "- Allison Williams - Violet McGraw - Ivanna Sakhno - Jemaine Clement",
+      "Cinematography": "Toby Oliver",
+      "Edited by": "Jeff McEvoy",
+      "Music by": "Chris Bacon",
+      "Production \u00b7 companies": "- Blumhouse Productions - Atomic Monster",
+      "Distributed by": "Universal Pictures",
+      "Release dates": "- June 24, 2025 (New York City) - June 27, 2025 (United States)",
+      "Running time": "120 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$15\u201325 million",
+      "Box office": "$39.1 million"
+    }
+  }
+}

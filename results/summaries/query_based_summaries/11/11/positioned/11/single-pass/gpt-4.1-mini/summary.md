@@ -1,0 +1,15 @@
+**Wasserstein GAN (WGAN)** is a variant of the original Generative Adversarial Network formulated as a two-player zero-sum game between a generator and a discriminator (critic). Unlike the original GAN where the discriminator outputs probabilities in [0,1] and the objective relates to the Jensen–Shannon divergence, WGAN uses the Wasserstein-1 (Earth Mover) distance as its training criterion. This is enabled via the Kantorovich-Rubenstein duality, which expresses the Wasserstein distance as a supremum over all 1-Lipschitz functions.
+
+In WGAN, the discriminator is no longer a classifier but a critic function \( D: \Omega \to \mathbb{R} \) constrained to have bounded Lipschitz norm. The game’s objective function is:
+\[
+L_{WGAN}(\mu_G, D) = \mathbb{E}_{x \sim \mu_G}[D(x)] - \mathbb{E}_{x \sim \mu_{ref}}[D(x)]
+\]
+where the generator aims to minimize this objective and the discriminator aims to maximize it. The optimal discriminator’s value corresponds to the Wasserstein distance between the generator’s and reference distributions. Compared to the original GAN, WGAN provides more stable gradients with less variance because the Wasserstein critic has gradients of approximately constant magnitude, avoiding the vanishing gradient issue when the generator and data distributions have disjoint support.
+
+**Training WGANs** requires enforcing the Lipschitz constraint on the critic. Practical methods include:
+
+- **Weight Clipping:** Clamping discriminator network weights within a fixed range to indirectly bound the Lipschitz norm.
+- **Spectral Normalization:** Normalizing the spectral norm (largest singular value) of each layer’s weight matrix to 1, ensuring an upper bound on the Lipschitz constant.
+- **Gradient Penalty:** Adding a penalty to the loss that encourages the gradient norm of the discriminator’s output w.r.t. its input to be close to a constant, thus softly enforcing Lipschitzness.
+
+These methods help maintain the required Lipschitz constraint, which is critical for the theoretical guarantees and performance of WGAN. Empirically, WGANs show improved training stability and resilience to mode collapse compared to vanilla GANs.

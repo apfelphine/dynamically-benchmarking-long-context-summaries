@@ -1,0 +1,1 @@
+Daniel Wolfe (born 1960) is an American activist, advocate, and writer whose work advances health programs and policy that balance scientific research and community expertise. His career has focused on support for community health movements, particularly among groups often regarded as criminal or socially suspect, including gay men and people who use illicit drugs.

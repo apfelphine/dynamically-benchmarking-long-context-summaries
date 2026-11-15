@@ -1,0 +1,5 @@
+**National Autonomous University of Mexico (UNAM)**
+
+UNAM was established on September 22, 1910, by Justo Sierra to create a secular and national institution, departing from its 19th-century predecessor. The university gained autonomy through student strikes in the mid-1920s and was later consolidated onto the main campus, Ciudad Universitaria, in the 1950s, which was declared a UNESCO World Heritage Site in 2007. The university is organized into schools or colleges, offering both undergraduate and graduate studies across various fields.
+
+Academically and scientifically, UNAM is a major research-oriented university in Latin America. It has been recognized by UNESCO for its impactful research in Artificial Intelligence and consistently ranks as one of the top universities in Mexico. The institution is known for its politically active student body, and its history includes major student strikes protesting examination and tuition regulations. Furthermore, UNAM has produced numerous notable alumni in fields such as science, arts, and politics.

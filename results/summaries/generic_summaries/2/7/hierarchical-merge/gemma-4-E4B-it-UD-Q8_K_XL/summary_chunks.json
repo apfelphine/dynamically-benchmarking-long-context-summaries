@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Artificial Intelligence: Foundations, Ethics, and Societal Shifts\n## Cognitive Models and Philosophical Debates\nCurrent AI development moves beyond simple mimicry (Turing Test) toward task-based evaluation, with Explainable AI (XAI) remaining crucial for system transparency. Cognitively, theories like Embodied Cognition suggest AI must integrate sensory and motor skills, while philosophical challenges\u2014such as Searle's Chinese Room argument\u2014debate whether syntax manipulation can equate to genuine semantic understanding or consciousness.",
+        "text_original": "Current AI development moves beyond simple mimicry (Turing Test) toward task-based evaluation, with Explainable AI (XAI) remaining crucial for system transparency. Cognitively, theories like Embodied Cognition suggest AI must integrate sensory and motor skills, while philosophical challenges\u2014such as Searle's Chinese Room argument\u2014debate whether syntax manipulation can equate to genuine semantic understanding or consciousness",
+        "idx_start": 115,
+        "idx_end": 543
+    },
+    {
+        "document_idx": null,
+        "text": "# Artificial Intelligence: Foundations, Ethics, and Societal Shifts\n## Ethics, Bias, and Governance\nAlgorithmic bias, driven by perpetuating societal injustices in training data, is a major ethical risk. Mitigation requires both technical interventions (e.g., adversarial debiasing) and robust governance. Global regulatory efforts are varied: Europe uses GDPR to mandate anti-discrimination measures, the US utilizes a decentralized framework, and India is developing specific data bills.",
+        "text_original": "Algorithmic bias, driven by perpetuating societal injustices in training data, is a major ethical risk. Mitigation requires both technical interventions (e.g., adversarial debiasing) and robust governance. Global regulatory efforts are varied: Europe uses GDPR to mandate anti-discrimination measures, the US utilizes a decentralized framework, and India is developing specific data bills",
+        "idx_start": 578,
+        "idx_end": 966
+    },
+    {
+        "document_idx": null,
+        "text": "# Artificial Intelligence: Foundations, Ethics, and Societal Shifts\n## Future Trajectories and Societal Impact\nThe development of highly advanced AI raises existential concerns, including potential \"emergent misalignment\" and the unpredictable nature of a technological singularity. Broader societal debates encompass the environmental footprint of large models, the need for accountability (like a \"right to understanding\"), and the ethical implications of Transhumanism, which seeks human augmentation but risks exacerbating socio-economic divides.",
+        "text_original": "The development of highly advanced AI raises existential concerns, including potential \"emergent misalignment\" and the unpredictable nature of a technological singularity. Broader societal debates encompass the environmental footprint of large models, the need for accountability (like a \"right to understanding\"), and the ethical implications of Transhumanism, which seeks human augmentation but risks exacerbating socio-economic divides",
+        "idx_start": 1012,
+        "idx_end": 1450
+    }
+]

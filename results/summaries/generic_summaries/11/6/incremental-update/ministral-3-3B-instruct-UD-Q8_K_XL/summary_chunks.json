@@ -1,0 +1,37 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs): Theory, Evolution, Applications, and Challenges\nGANs operate through an adversarial framework where a **generator (** **`G`** **)** creates synthetic data, and a **discriminator (** **`D`** **)** distinguishes real from generated samples. Training instability, mode collapse, and gradient issues persist, though **Wasserstein GANs (WGANs)** and **Adversarial Autoencoders (AAEs)** address these by optimizing the Wasserstein distance and leveraging autoencoder latent spaces. Evaluation metrics like **Fr\u00e9chet Inception Distance (FID)** , **Inception Score (IS)** , and **LPICS** assess realism, diversity, and perceptual quality.",
+        "text_original": "GANs operate through an adversarial framework where a **generator (`G`)** creates synthetic data, and a **discriminator (`D`)** distinguishes real from generated samples. Training instability, mode collapse, and gradient issues persist, though **Wasserstein GANs (WGANs)** and **Adversarial Autoencoders (AAEs)** address these by optimizing the Wasserstein distance and leveraging autoencoder latent spaces. Evaluation metrics like **Fr\u00e9chet Inception Distance (FID)**, **Inception Score (IS)**, and **LPICS** assess realism, diversity, and perceptual quality",
+        "idx_start": 97,
+        "idx_end": 656
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs): Theory, Evolution, Applications, and Challenges\n## Core Variants and Innovations:\n- **WGANs** and **AAEs** stabilize training via structured latent spaces.\n- **InfoGAN** decomposes latent space into interpretable noise and labels via mutual information.\n- **BiGANs** enable latent space inference, supporting semi-supervised learning and NMT.\n- **CycleGAN** facilitates unpaired domain translations (e.g., horse \u2194 zebra) via cycle-consistency.\n- **BigGAN** and **StyleGAN series** (e.g., StyleGAN-2-ADA) achieve high-resolution outputs (e.g., ImageNet-scale) with progressive training and controlled artifacts.\n- **SinGAN** and **progressive GANs** decompose layers into resolution pyramids for smoother training.",
+        "text_original": "WGANs** and **AAEs** stabilize training via structured latent spaces.\n- **InfoGAN** decomposes latent space into interpretable noise and labels via mutual information.\n- **BiGANs** enable latent space inference, supporting semi-supervised learning and NMT.\n- **CycleGAN** facilitates unpaired domain translations (e.g., horse \u2194 zebra) via cycle-consistency.\n- **BigGAN** and **StyleGAN series** (e.g., StyleGAN-2-ADA) achieve high-resolution outputs (e.g., ImageNet-scale) with progressive training and controlled artifacts.\n- **SinGAN** and **progressive GANs** decompose layers into resolution pyramids for smoother training",
+        "idx_start": 698,
+        "idx_end": 1324
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs): Theory, Evolution, Applications, and Challenges\n## Applications Across Domains:\n- **Science:** Reconstructs astronomical data, simulates physics, and models complex phenomena.\n- **Medical:** Generates synthetic imaging (e.g., MRI/PET) and aids diagnostics (e.g., glaucoma).\n- **Creative Fields:** Produces art (e.g., *Edmond de Belamy* ), fashion renders, and inpainting.\n- **Fashion/Art/Advertising:** Used in 2020 for game assets (e.g., *Ben Drowned* ), recreating games (e.g., *Pac-Man* ), and generating MIDI songs from lyrics.\n- **Miscellaneous:** Age prediction, 3D reconstruction, motion modeling, map augmentation, climate visualization, voice-to-face synthesis, and video generation.",
+        "text_original": "Science:** Reconstructs astronomical data, simulates physics, and models complex phenomena.\n- **Medical:** Generates synthetic imaging (e.g., MRI/PET) and aids diagnostics (e.g., glaucoma).\n- **Creative Fields:** Produces art (e.g., *Edmond de Belamy*), fashion renders, and inpainting.\n- **Fashion/Art/Advertising:** Used in 2020 for game assets (e.g., *Ben Drowned*), recreating games (e.g., *Pac-Man*), and generating MIDI songs from lyrics.\n- **Miscellaneous:** Age prediction, 3D reconstruction, motion modeling, map augmentation, climate visualization, voice-to-face synthesis, and video generation",
+        "idx_start": 1364,
+        "idx_end": 1968
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs): Theory, Evolution, Applications, and Challenges\n## Key Developments and History:\n- Early inspiration from **neural curiosity models (1991)** and **conditional GANs (2010)** .\n- 2017 marked breakthroughs in image enhancement and human-like face generation, later compared to **Deepfakes (2019)** .\n- Emerged from adversarial training (2010s), influenced by noise-contrastive estimation and broader adversarial machine learning.",
+        "text_original": "Early inspiration from **neural curiosity models (1991)** and **conditional GANs (2010)**.\n- 2017 marked breakthroughs in image enhancement and human-like face generation, later compared to **Deepfakes (2019)**.\n- Emerged from adversarial training (2010s), influenced by noise-contrastive estimation and broader adversarial machine learning",
+        "idx_start": 2007,
+        "idx_end": 2347
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Adversarial Networks (GANs): Theory, Evolution, Applications, and Challenges\n## Ethical Risks and Hybrid Approaches:\n- Concerns over **deepfakes** (e.g., election interference, fake social media) have spurred regulations like **AB-602/AB-730** .\n- Hybrid models (e.g., **VAEGAN** , **Flow-GAN** ) combine GANs with VAEs or flow-based methods for differentiable sampling and improved robustness.\nGANs remain foundational in generative modeling, bridging theory, practical applications, and ethical considerations while evolving through iterative refinements.",
+        "text_original": "Concerns over **deepfakes** (e.g., election interference, fake social media) have spurred regulations like **AB-602/AB-730**.\n- Hybrid models (e.g., **VAEGAN**, **Flow-GAN**) combine GANs with VAEs or flow-based methods for differentiable sampling and improved robustness.\n\nGANs remain foundational in generative modeling, bridging theory, practical applications, and ethical considerations while evolving through iterative refinements",
+        "idx_start": 2393,
+        "idx_end": 2828
+    }
+]

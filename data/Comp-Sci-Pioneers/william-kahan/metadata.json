@@ -1,0 +1,28 @@
+{
+  "id": 303413,
+  "title": "William Kahan",
+  "url": "https://en.wikipedia.org/wiki/William_Kahan",
+  "path": "Comp-Sci-Pioneers\\william-kahan",
+  "summary": {
+    "chars": 264,
+    "tokens": 59
+  },
+  "document": {
+    "chars": 2260,
+    "tokens": 445
+  },
+  "infobox": {
+    "title": "William Morton Kahan",
+    "data": {
+      "Born": "June 5, 1933 \u00b7 Toronto, Ontario, Canada",
+      "Education": "University of Toronto (BS, MS, PhD)",
+      "Known for": "- IEEE 754 - Kahan summation algorithm",
+      "Awards": "- Turing Award (1989) - IEEE Emanuel R. Piore Award (2000) - National Academy of Engineering - ACM Fellow",
+      "Fields": "- Mathematics - Computer science",
+      "Institutions": "University of California, Berkeley",
+      "Thesis": "Gauss\u2013Seidel Methods of Solving Large Systems of Linear Equations (1958)",
+      "Doctoral advisor": "Byron Griffith",
+      "Doctoral students": "James Demmel"
+    }
+  }
+}

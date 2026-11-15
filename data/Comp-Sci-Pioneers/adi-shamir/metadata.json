@@ -1,0 +1,29 @@
+{
+  "id": 57314,
+  "title": "Adi Shamir",
+  "url": "https://en.wikipedia.org/wiki/Adi_Shamir",
+  "path": "Comp-Sci-Pioneers\\adi-shamir",
+  "summary": {
+    "chars": 436,
+    "tokens": 122
+  },
+  "document": {
+    "chars": 2509,
+    "tokens": 563
+  },
+  "infobox": {
+    "title": "Adi Shamir",
+    "data": {
+      "Born": "July 6, 1952 \u00b7 Tel Aviv, Israel",
+      "Education": "Tel Aviv University (BSc) \u00b7 Weizmann Institute of Science (MSc, PhD)",
+      "Known for": "RSA \u00b7 Feige\u2013Fiat\u2013Shamir identification scheme \u00b7 differential cryptanalysis \u00b7 Shamir's secret sharing",
+      "Awards": "- Erd\u0151s Prize (1983) - Weizmann Prize (1987) - Paris Kanellakis Award (1996) - Turing Award (2002) - Foreign Associate of the National Academy of Sciences (2005) - Israel Prize (2008) - Foreign Member of the Royal Society (2018) - Wolf Prize in Mathematics (2024)",
+      "Fields": "Cryptography",
+      "Institutions": "Weizmann Institute \u00b7 Massachusetts Institute of Technology",
+      "Thesis": "The fixedpoints of recursive definitions (1976)",
+      "Doctoral advisor": "Zohar Manna",
+      "Doctoral students": "Eli Biham \u00b7 Uriel Feige \u00b7 Amos Fiat",
+      "Website": "www.wisdom.weizmann.ac.il/profile/scientists/shamir-profile.html"
+    }
+  }
+}

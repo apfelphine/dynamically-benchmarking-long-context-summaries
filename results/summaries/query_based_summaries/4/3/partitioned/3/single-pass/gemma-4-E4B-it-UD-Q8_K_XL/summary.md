@@ -1,0 +1,5 @@
+## Garry Kasparov Summary
+
+Garry Kasparov has been a vocal political figure, particularly regarding Russia. He spoke out against the Russian invasion of Ukraine, advocating for the fall of Putin's regime, and joined the Anti-War Committee of Russia. In 2022, he was designated a "foreign agent" by the Russian Ministry of Justice, and in 2024, a Russian court issued an arrest warrant charging him with creating and leading a "terrorist" group. Internationally, Kasparov has supported Armenian genocide recognition and advocated for the right of Artsakh to independence.
+
+In the United States, Kasparov criticized Donald Trump during the 2016 presidential election and questioned reports regarding FSB cooperation with the FBI concerning the Boston bombers. He served as Chairman of the Human Rights Foundation until 2024 and was awarded the Morris B. Abram Human Rights Award in 2013. Beyond politics, Kasparov has extensively written about chess, including the five-volume series *My Great Predecessors*. He also engaged with international affairs, advising the Western world to oppose the Yugoslav People's Army during the Yugoslav Wars.

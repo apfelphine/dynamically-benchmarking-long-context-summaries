@@ -1,0 +1,13 @@
+# Summary of Education in Norway
+
+Education in Norway is divided into three key levels: elementary school (barneskole, ages 6–12), lower secondary school (ungdomsskole, ages 13–16), and upper secondary school (videregående skole, ages 16–19). Elementary and lower secondary education, collectively called grunnskole, are compulsory and cover grades 1 through 10. The curriculum begins with foundational skills and social development in the early elementary years, expanding to subjects including mathematics, English, sciences, religion (covering multiple faiths), aesthetics, geography, history, and social studies. Grading begins in lower secondary (grades 8–10), where students’ performance influences upper secondary school placement. Elective subjects and additional languages such as German, French, and Spanish become available.
+
+Upper secondary school offers both general academic and vocational paths, with the 1994 "Reform 94" merging previously separate tracks to allow for more flexibility and credit transfer. Vocational programs typically follow a "2+2 model," combining school training with apprenticeship. As of 2017, approximately 73% of students graduate from upper secondary education. Besides public schools, private schools legally exist following the Independent Schools Act of 2003 but are few.
+
+Higher education in Norway requires a general university admissions certificate, obtainable via upper secondary completion or meeting alternative criteria based on age, work, and exams. Institutions include universities, university colleges, and private schools, with universities offering bachelor’s, master’s, and doctoral degrees. Quality assurance is supervised by the Norwegian Agency for Quality Assurance in Education (NOKUT). Norway has a long tradition of higher education, with institutional developments dating back to the 18th and 19th centuries.
+
+Special education has progressively integrated students into local schools, with rights to special support tailored to individual needs. Educators in Norway range from preschool teachers to university lecturers, distinguished by their educational qualifications.
+
+The academic year runs from mid-August to June, divided into two semesters with scheduled breaks including summer, Christmas, autumn, and winter holidays as well as national public holidays. Norway employs a grading system that varies by education level, with lower levels using a 1–6 scale and universities transitioning from a numeric scale to the Bologna letter grading system.
+
+Overall, Norway’s education system emphasizes inclusivity, quality assurance, flexibility in educational pathways, and widespread access to comprehensive compulsory education.

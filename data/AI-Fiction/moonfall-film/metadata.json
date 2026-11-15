@@ -1,0 +1,34 @@
+{
+  "id": 60694612,
+  "title": "Moonfall (film)",
+  "url": "https://en.wikipedia.org/wiki/Moonfall_(film)",
+  "path": "AI-Fiction\\moonfall-film",
+  "summary": {
+    "chars": 815,
+    "tokens": 172
+  },
+  "document": {
+    "chars": 12362,
+    "tokens": 2708
+  },
+  "infobox": {
+    "title": "Moonfall",
+    "data": {
+      "Directed by": "Roland Emmerich",
+      "Written by": "- Roland Emmerich - Harald Kloser - Spenser Cohen",
+      "Produced by": "- Roland Emmerich - Harald Kloser",
+      "Starring": "- Halle Berry - Patrick Wilson - John Bradley - Michael Pe\u00f1a - Charlie Plummer - Kelly Yu - Carolina Bartczak - Donald Sutherland",
+      "Cinematography": "Robby Baumgartner",
+      "Edited by": "- Adam Wolfe - Ryan Stevens Harris",
+      "Music by": "- Thomas Wander - Harald Kloser",
+      "Production \u00b7 companies": "- Summit Entertainment - UK Moonfall LLP - Centropolis Entertainment - Huayi Brothers - AGC Studios - Tencent Pictures - Street Entertainment",
+      "Distributed by": "- Lionsgate (United States) - China Film Group Corporation (China) - Entertainment Film Distributors (United Kingdom)",
+      "Release dates": "- January 31, 2022 (Los Angeles) - February 4, 2022 (United States and United Kingdom) - March 25, 2022 (China)",
+      "Running time": "130 minutes",
+      "Countries": "- United States - Canada - China - United Kingdom",
+      "Language": "English",
+      "Budget": "$150 million",
+      "Box office": "$67.3 million"
+    }
+  }
+}

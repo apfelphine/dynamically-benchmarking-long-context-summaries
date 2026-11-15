@@ -1,0 +1,9 @@
+**Education in New Zealand**
+
+New Zealand’s education system is structured around **free, compulsory primary and secondary schooling** from the age of 5 to 19, with most students attending until at least 17. The system is divided into **13 year levels** (Years 1–13), with primary education lasting eight years (Years 1–8) and secondary education spanning five years (Years 9–13). Students transition from primary to secondary school around age 12–13.
+
+The **national curriculum** is implemented in state and state-integrated schools, covering core subjects like English, mathematics, science, and social studies, with additional focus on learning languages and technology. Private schools operate independently but must meet equivalent standards. **Māori-medium education** is available through immersion schools (kura kaupapa Māori) and Māori language programs within English-medium schools, reflecting New Zealand’s official languages of English, Māori, and New Zealand Sign Language.
+
+Funding for state schools is per-student, with additional support based on socio-economic decile ratings. Private schools rely on tuition fees, while home-schooling is permitted with government approval. The system emphasizes **inclusive education**, though challenges remain in addressing disparities among Māori and Pacific Island students, who historically lag behind Pākehā (non-Māori) students in academic achievement.
+
+Recent reforms have aimed to improve **educational standards**, particularly in mathematics and science, though concerns persist about overemphasis on standardized testing and underfunding in rural areas. The country also faces issues like **school bullying** and **equity in resources**, with ongoing efforts to enhance inclusivity and support for students with special needs.

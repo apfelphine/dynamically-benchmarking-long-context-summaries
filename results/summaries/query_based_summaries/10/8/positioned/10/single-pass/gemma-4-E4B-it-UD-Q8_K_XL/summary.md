@@ -1,0 +1,3 @@
+The provided text contains extensive information about the education systems of numerous countries, including Indonesia, Armenia, Egypt, Norway, Sri Lanka, Sweden, Israel, Hong Kong, the Republic of Ireland, Ghana, England, Taiwan, France, Iran, and Turkey.
+
+**Since there is no information regarding "Education in Nigeria" within the provided source text, no summary can be generated for that specific topic.**

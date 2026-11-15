@@ -1,0 +1,11 @@
+**Education in Norway** is structured into three main levels: elementary (barneskole, ages 6–12), lower secondary (ungdomsskole, ages 13–16), and upper secondary (videregående skole, ages 16–19). Compulsory education spans from age 6 to 16, with the system emphasizing broad-based learning and student development. 
+
+Elementary education focuses on foundational skills in reading, writing, math, and social studies, with an introduction to foreign languages and religion. In lower secondary, students are graded and assessed, with their performance influencing placement in upper secondary schools. Elective subjects, including foreign languages, are offered, and students may choose a career-oriented or general academic path.
+
+Upper secondary education is divided into general and vocational tracks, with the latter offering practical training and apprenticeships. The "2+2 model" allows students to complete two years of school training followed by two years of apprenticeship in a workplace. Graduates earn a diploma and are prepared for higher education or employment.
+
+The system values inclusivity and special education, with students who have learning difficulties receiving support in mainstream schools. Teachers are required to have specific qualifications, and educators are trained in pedagogical methods that promote student engagement and well-being.
+
+Higher education in Norway is accessible and largely free for citizens, with public universities and university colleges offering degrees in arts, sciences, and professional fields. Admission is based on performance in upper secondary school, and students may pursue bachelor’s, master’s, or doctoral degrees. The Norwegian Agency for Quality Assurance in Education (NOKUT) ensures academic standards and quality.
+
+The education system emphasizes equity, student well-being, and active learning, with a strong focus on student development, critical thinking, and social responsibility. It is known for its high international performance in reading and mathematics, particularly in OECD assessments.

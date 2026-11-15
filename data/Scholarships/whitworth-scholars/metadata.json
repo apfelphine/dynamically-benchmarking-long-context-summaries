@@ -1,0 +1,24 @@
+{
+  "id": 27599265,
+  "title": "Whitworth Scholars",
+  "url": "https://en.wikipedia.org/wiki/Joseph_Whitworth",
+  "path": "Scholarships\\whitworth-scholars",
+  "summary": {
+    "chars": 910,
+    "tokens": 202
+  },
+  "document": {
+    "chars": 10733,
+    "tokens": 2274
+  },
+  "infobox": {
+    "title": "Sir Joseph WhitworthBt FRS FRSA",
+    "data": {
+      "Born": "21 December 1803 \u00b7 Stockport, Cheshire, England, United Kingdom",
+      "Died": "22 January 1887 (aged 83) \u00b7 Monte Carlo, Monaco",
+      "Institutions": "Royal Society \u00b7 Institution of Mechanical Engineers",
+      "Significant advance": "Whitworth standardised screw threads",
+      "Awards": "FRS (1857) Albert Medal (1868)"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+Tsinghua University (THU) is a public university in Haidian, Beijing, China. It is affiliated with and funded by the Ministry of Education of China. The university is part of Project 211, Project 985, and the Double First-Class Construction. The university is also a member of the C9 League.
+Tsinghua University's campus is in northwest Beijing, on the site of the former imperial gardens of the Qing dynasty. The university has 21 schools and 59 departments, with faculties in science, engineering, humanities, law, medicine, history, philosophy, economics, management, education, and art.
+Since the university was established in 1911, it has produced notable leaders in science, engineering, politics, business, and academia.

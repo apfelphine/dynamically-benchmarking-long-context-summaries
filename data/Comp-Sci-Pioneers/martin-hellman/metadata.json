@@ -1,0 +1,29 @@
+{
+  "id": 422387,
+  "title": "Martin Hellman",
+  "url": "https://en.wikipedia.org/wiki/Martin_Hellman",
+  "path": "Comp-Sci-Pioneers\\martin-hellman",
+  "summary": {
+    "chars": 688,
+    "tokens": 145
+  },
+  "document": {
+    "chars": 5619,
+    "tokens": 1150
+  },
+  "infobox": {
+    "title": "Martin Hellman",
+    "data": {
+      "Born": "Martin Edward Hellman \u00b7 October 2, 1945 \u00b7 New York City, United States",
+      "Education": "New York University (BS) \u00b7 Stanford University (MS, PhD)",
+      "Known for": "Diffie\u2013Hellman key exchange",
+      "Awards": "IEEE Centennial Medal (1984) \u00b7 EFF Pioneer Award (1994) \u00b7 Louis E. Levy Medal(1997) \u00b7 Golden Jubilee Awards for Technological Innovation (1998) \u00b7 Marconi Prize (2000) \u00b7 National Academy of Engineering Member (2002) \u00b7 Hamming Medal (2010) \u00b7 Computer History Museum Fellow (2011) \u00b7 Turing Award (2015)",
+      "Fields": "Cryptography \u00b7 Computer science \u00b7 Electrical engineering",
+      "Institutions": "Stanford University \u00b7 MIT \u00b7 IBM Research",
+      "Thesis": "Learning with Finite Memory (1969)",
+      "Doctoral advisor": "Thomas Cover",
+      "Doctoral students": "Ralph Merkle \u00b7 Taher Elgamal",
+      "Website": "ee.stanford.edu/~hellman"
+    }
+  }
+}

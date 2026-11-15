@@ -1,0 +1,28 @@
+{
+  "id": 29103,
+  "title": "Seymour Cray",
+  "url": "https://en.wikipedia.org/wiki/Seymour_Cray",
+  "path": "Comp-Sci-Pioneers\\seymour-cray",
+  "summary": {
+    "chars": 844,
+    "tokens": 179
+  },
+  "document": {
+    "chars": 16161,
+    "tokens": 3582
+  },
+  "infobox": {
+    "title": "Seymour Cray",
+    "data": {
+      "Born": "Seymour Roger Cray \u00b7 September 28, 1925 \u00b7 Chippewa Falls, Wisconsin, US",
+      "Died": "October 5, 1996 (aged 71) \u00b7 Colorado Springs, Colorado, US",
+      "Alma mater": "University of Minnesota",
+      "Known for": "Supercomputers",
+      "Spouse(s)": "Verene Voll (1947\u20131978; divorced) \u00b7 Geri M. Harrand",
+      "Children": "3",
+      "Relatives": "Andrew Cray (grandson)",
+      "Fields": "Applied mathematics, computer science, and electrical engineering",
+      "Institutions": "Engineering Research Associates \u00b7 Control Data Corporation \u00b7 Cray Research \u00b7 Cray Computer Corporation \u00b7 SRC Computers"
+    }
+  }
+}

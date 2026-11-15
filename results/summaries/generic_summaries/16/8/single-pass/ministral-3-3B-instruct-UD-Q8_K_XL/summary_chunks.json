@@ -1,0 +1,513 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## History\nBoston College was founded in 1857 by Jesuit priests, initially as a preparatory institution for Irish Catholic immigrants. It received a university charter in 1863, launching its collegiate instruction in 1864. Early on, it emphasized Latin, Greek, philosophy, and theology, with a strong Jesuit Ratio Studiorum influence. The university expanded significantly in the 20th century, moving from its South End campus to Chestnut Hill in 1907, and later adopting co-education in 1970. Notable expansions included the establishment of graduate schools, law school, and the Carroll School of Management. Under President J. Donald Monan, the university faced financial challenges but achieved substantial growth, including a major capital campaign and increased endowment.",
+        "text_original": "Boston College was founded in 1857 by Jesuit priests, initially as a preparatory institution for Irish Catholic immigrants. It received a university charter in 1863, launching its collegiate instruction in 1864. Early on, it emphasized Latin, Greek, philosophy, and theology, with a strong Jesuit Ratio Studiorum influence. The university expanded significantly in the 20th century, moving from its South End campus to Chestnut Hill in 1907, and later adopting co-education in 1970. Notable expansions included the establishment of graduate schools, law school, and the Carroll School of Management. Under President J. Donald Monan, the university faced financial challenges but achieved substantial growth, including a major capital campaign and increased endowment",
+        "idx_start": 39,
+        "idx_end": 805
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Campuses\nBoston College operates multiple campuses:\n- **Chestnut Hill Campus** : The main 175-acre campus, home to over 120 buildings, including Gasson Hall and the McMullen Museum of Art.\n- **Connors Family Retreat** : A retreat and conference center in Dover, Massachusetts.\n- **Weston Observatory** : A research facility in Weston, Massachusetts.\n- **Newton Campus** : A residential area for freshman and the Boston College Law School.\n- **Brighton Campus** : Houses the School of Theology and Ministry and athletic facilities.\n- **Pine Manor College** : A financially struggling liberal arts institution acquired in 2020.",
+        "text_original": "Boston College operates multiple campuses:\n- **Chestnut Hill Campus**: The main 175-acre campus, home to over 120 buildings, including Gasson Hall and the McMullen Museum of Art.\n- **Connors Family Retreat**: A retreat and conference center in Dover, Massachusetts.\n- **Weston Observatory**: A research facility in Weston, Massachusetts.\n- **Newton Campus**: A residential area for freshman and the Boston College Law School.\n- **Brighton Campus**: Houses the School of Theology and Ministry and athletic facilities.\n- **Pine Manor College**: A financially struggling liberal arts institution acquired in",
+        "idx_start": 825,
+        "idx_end": 1429
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Organization and Administration\nBoston College is governed by a Board of Trustees, with a focus on Jesuit values. The university operates eight research libraries, including the McMullen Museum of Art, and maintains close ties with the Church of Saint Ignatius of Loyola. It is need-blind for domestic applicants and offers a range of academic programs across nine constituent colleges and schools.",
+        "text_original": "Boston College is governed by a Board of Trustees, with a focus on Jesuit values. The university operates eight research libraries, including the McMullen Museum of Art, and maintains close ties with the Church of Saint Ignatius of Loyola. It is need-blind for domestic applicants and offers a range of academic programs across nine constituent colleges and schools",
+        "idx_start": 1477,
+        "idx_end": 1842
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Academics\nBoston College offers a diverse range of undergraduate and graduate programs, including the prestigious Order of the Cross and Crown honor society. The university is ranked highly in national and global rankings, with notable achievements in research publications and interdisciplinary studies. Notable programs include the Carroll School of Management, which ranks highly in business education, and the Boston College Law Review, a prominent legal journal.",
+        "text_original": "Boston College offers a diverse range of undergraduate and graduate programs, including the prestigious Order of the Cross and Crown honor society. The university is ranked highly in national and global rankings, with notable achievements in research publications and interdisciplinary studies. Notable programs include the Carroll School of Management, which ranks highly in business education, and the Boston College Law Review, a prominent legal journal",
+        "idx_start": 1863,
+        "idx_end": 2319
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Student Life\nBoston College has a student body with a diverse demographic, including 58% White, 11% Hispanic, and 8% Asian students. Student life is enriched by various clubs, societies, and media outlets, such as *The Heights* , a student newspaper. The university emphasizes student engagement through initiatives like the AHANA program, which supports African-American, Hispanic, Asian, and Native American students. The university also hosts notable traditions, including the annual graduation parade and the celebration of the Alma Mater.",
+        "text_original": "Boston College has a student body with a diverse demographic, including 58% White, 11% Hispanic, and 8% Asian students. Student life is enriched by various clubs, societies, and media outlets, such as *The Heights*, a student newspaper. The university emphasizes student engagement through initiatives like the AHANA program, which supports African-American, Hispanic, Asian, and Native American students. The university also hosts notable traditions, including the annual graduation parade and the celebration of the Alma Mater",
+        "idx_start": 2343,
+        "idx_end": 2871
+    },
+    {
+        "document_idx": null,
+        "text": "# Boston College\n## Notable People\nBoston College has produced notable alumni, including former U.S. Secretary of State John F. Kerry, Nobel laureate Tu Youyou, and prominent figures in academia, business, and sports. The university is also home to the Order of the Cross and Crown, a prestigious honor society for outstanding students.",
+        "text_original": "Boston College has produced notable alumni, including former U.S. Secretary of State John F. Kerry, Nobel laureate Tu Youyou, and prominent figures in academia, business, and sports. The university is also home to the Order of the Cross and Crown, a prestigious honor society for outstanding students",
+        "idx_start": 2897,
+        "idx_end": 3197
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## History\nFounded in 1878 as The Western University of London, Ontario, the university initially focused on arts, divinity, law, and medicine. It became non-denominational in 1908 and expanded significantly after World War II. The university merged with Brescia University College in 2024, integrating its operations into the main campus. Notable figures include Sir Frederick Banting, who received the Nobel Prize for discovering insulin, and Alice Munro, the Nobel laureate in literature.",
+        "text_original": "Founded in 1878 as The Western University of London, Ontario, the university initially focused on arts, divinity, law, and medicine. It became non-denominational in 1908 and expanded significantly after World War II. The university merged with Brescia University College in 2024, integrating its operations into the main campus. Notable figures include Sir Frederick Banting, who received the Nobel Prize for discovering insulin, and Alice Munro, the Nobel laureate in literature",
+        "idx_start": 3259,
+        "idx_end": 3738
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Campuses\nThe main campus is located in London, Ontario, and includes several residential halls and academic buildings. Notable structures include University College and the Physics and Astronomy Building. The university also operates affiliated colleges, such as Huron University College and King\u2019s University College.",
+        "text_original": "The main campus is located in London, Ontario, and includes several residential halls and academic buildings. Notable structures include University College and the Physics and Astronomy Building. The university also operates affiliated colleges, such as Huron University College and King\u2019s University College",
+        "idx_start": 3758,
+        "idx_end": 4066
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Organization and Administration\nThe university is governed by a Board of Governors and the Senate, with the president serving as the chief executive officer. It comprises 11 faculties and schools, including the Don Wright Faculty of Music and the Schulich School of Medicine & Dentistry. The university is known for its strong research output and is a member of the Association of Universities and Colleges of Canada.",
+        "text_original": "The university is governed by a Board of Governors and the Senate, with the president serving as the chief executive officer. It comprises 11 faculties and schools, including the Don Wright Faculty of Music and the Schulich School of Medicine & Dentistry. The university is known for its strong research output and is a member of the Association of Universities and Colleges of Canada",
+        "idx_start": 4109,
+        "idx_end": 4493
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Academics\nWestern University offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. The university is ranked highly in national and global rankings, particularly in the fields of medicine, engineering, and law. Notable programs include the Ivey School of Business and the Schulich School of Medicine & Dentistry.",
+        "text_original": "Western University offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. The university is ranked highly in national and global rankings, particularly in the fields of medicine, engineering, and law. Notable programs include the Ivey School of Business and the Schulich School of Medicine & Dentistry",
+        "idx_start": 4514,
+        "idx_end": 4861
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Student Life\nWestern University has a diverse student body, with a significant proportion of international students. Student life is supported by various clubs, societies, and media outlets, such as the *Gazette* , a student newspaper. The university emphasizes leadership education and student exchange programs, fostering a vibrant campus community.",
+        "text_original": "Western University has a diverse student body, with a significant proportion of international students. Student life is supported by various clubs, societies, and media outlets, such as the *Gazette*, a student newspaper. The university emphasizes leadership education and student exchange programs, fostering a vibrant campus community",
+        "idx_start": 4885,
+        "idx_end": 5221
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Western Ontario\n## Notable People\nWestern University has produced numerous notable alumni, including former Canadian Prime Ministers, Nobel laureates, and leaders in business and academia. The university is also home to the Brain and Mind Institute, a leading center for research in cognitive neuroscience.",
+        "text_original": "Western University has produced numerous notable alumni, including former Canadian Prime Ministers, Nobel laureates, and leaders in business and academia. The university is also home to the Brain and Mind Institute, a leading center for research in cognitive neuroscience",
+        "idx_start": 5247,
+        "idx_end": 5518
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## History\nThe University of Auckland began as Auckland University College in 1883, initially offering part-time education for law clerks and teachers. It became a full university in 1961 and has since grown into a major research institution. The university has a rich history of academic freedom and research, with notable contributions in various fields. It was gifted its M\u0101ori name, Waipapa Taumata Rau, by Ng\u0101ti Wh\u0101tua \u014cr\u0101kei in 2021.",
+        "text_original": "The University of Auckland began as Auckland University College in 1883, initially offering part-time education for law clerks and teachers. It became a full university in 1961 and has since grown into a major research institution. The university has a rich history of academic freedom and research, with notable contributions in various fields. It was gifted its M\u0101ori name, Waipapa Taumata Rau, by Ng\u0101ti Wh\u0101tua \u014cr\u0101kei in",
+        "idx_start": 5573,
+        "idx_end": 5995
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Campuses\nThe university operates several campuses, including the City Campus in Auckland CBD, Grafton Campus near Auckland City Hospital, and Newmarket Campus. It also has satellite facilities in Whang\u0101rei and research centers like the Leigh Marine Laboratory. The university has recently expanded its facilities, including a new recreation center named Hiwa.",
+        "text_original": "The university operates several campuses, including the City Campus in Auckland CBD, Grafton Campus near Auckland City Hospital, and Newmarket Campus. It also has satellite facilities in Whang\u0101rei and research centers like the Leigh Marine Laboratory. The university has recently expanded its facilities, including a new recreation center named Hiwa",
+        "idx_start": 6020,
+        "idx_end": 6369
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Organization and Administration\nThe University of Auckland is governed by a Chancellor and a Vice-Chancellor, currently Professor Dawn Freshwater. It comprises several faculties and schools, including the Faculty of Arts and Education, Business School, and Faculty of Medical and Health Sciences. The university is known for its strong research output and international collaborations.",
+        "text_original": "The University of Auckland is governed by a Chancellor and a Vice-Chancellor, currently Professor Dawn Freshwater. It comprises several faculties and schools, including the Faculty of Arts and Education, Business School, and Faculty of Medical and Health Sciences. The university is known for its strong research output and international collaborations",
+        "idx_start": 6412,
+        "idx_end": 6764
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Academics\nThe University of Auckland offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of medicine, engineering, and business. Notable programs include the Auckland Bioengineering Institute and the Liggins Institute.",
+        "text_original": "The University of Auckland offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of medicine, engineering, and business. Notable programs include the Auckland Bioengineering Institute and the Liggins Institute",
+        "idx_start": 6785,
+        "idx_end": 7121
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Student Life\nThe university has a diverse student body, with a significant proportion of international students. Student life is supported by various clubs, societies, and media outlets, such as the Auckland University Students' Association (AUSA). The university emphasizes entrepreneurship and innovation through initiatives like the Unleash Space and the Centre for Innovation and Entrepreneurship.",
+        "text_original": "The university has a diverse student body, with a significant proportion of international students. Student life is supported by various clubs, societies, and media outlets, such as the Auckland University Students' Association (AUSA). The university emphasizes entrepreneurship and innovation through initiatives like the Unleash Space and the Centre for Innovation and Entrepreneurship",
+        "idx_start": 7145,
+        "idx_end": 7532
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland\n## Notable People\nThe University of Auckland has produced numerous notable alumni, including former Prime Ministers of New Zealand, Nobel laureates, and leaders in business and academia. Notable figures include Helen Clark, former Prime Minister of New Zealand, and Sir Richard Faull, a neuroscientist.",
+        "text_original": "The University of Auckland has produced numerous notable alumni, including former Prime Ministers of New Zealand, Nobel laureates, and leaders in business and academia. Notable figures include Helen Clark, former Prime Minister of New Zealand, and Sir Richard Faull, a neuroscientist",
+        "idx_start": 7558,
+        "idx_end": 7841
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## History\nThe University of Sydney was established in 1850 as the first public, non-denominational university in Australia. It began with a small group of students and quickly expanded, becoming a major research institution. The university has a rich history of academic excellence and contributions to various fields. It was one of the first universities in the world to admit women on an equal basis with men.",
+        "text_original": "The University of Sydney was established in 1850 as the first public, non-denominational university in Australia. It began with a small group of students and quickly expanded, becoming a major research institution. The university has a rich history of academic excellence and contributions to various fields. It was one of the first universities in the world to admit women on an equal basis with men",
+        "idx_start": 7894,
+        "idx_end": 8294
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Campuses\nThe main campus is located in Camperdown and Darlington, Sydney, and includes historic buildings like the Main Building and the Great Hall. The university also operates satellite campuses, including the Sydney Dental Hospital, Sydney Conservatorium of Music, and the Sydney CBD campus.",
+        "text_original": "The main campus is located in Camperdown and Darlington, Sydney, and includes historic buildings like the Main Building and the Great Hall. The university also operates satellite campuses, including the Sydney Dental Hospital, Sydney Conservatorium of Music, and the Sydney CBD campus",
+        "idx_start": 8314,
+        "idx_end": 8598
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Organization and Administration\nThe University of Sydney is governed by a Chancellor and a Vice-Chancellor. It comprises eight faculties and schools, including the Faculty of Arts and Social Sciences, University of Sydney Business School, and Faculty of Medicine and Health. The university is known for its strong research output and international collaborations.",
+        "text_original": "The University of Sydney is governed by a Chancellor and a Vice-Chancellor. It comprises eight faculties and schools, including the Faculty of Arts and Social Sciences, University of Sydney Business School, and Faculty of Medicine and Health. The university is known for its strong research output and international collaborations",
+        "idx_start": 8641,
+        "idx_end": 8971
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Academics\nThe University of Sydney offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of medicine, law, and business. Notable programs include the Sydney Law School and the Sydney Business School.",
+        "text_original": "The University of Sydney offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of medicine, law, and business. Notable programs include the Sydney Law School and the Sydney Business School",
+        "idx_start": 8992,
+        "idx_end": 9307
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Student Life\nThe university has a diverse student body, with a significant proportion of international students. Student life is supported by various clubs, societies, and media outlets, such as the University of Sydney Union (USU). The university emphasizes student engagement through initiatives like Welcome Week and the Charles Perkins Oration.",
+        "text_original": "The university has a diverse student body, with a significant proportion of international students. Student life is supported by various clubs, societies, and media outlets, such as the University of Sydney Union (USU). The university emphasizes student engagement through initiatives like Welcome Week and the Charles Perkins Oration",
+        "idx_start": 9331,
+        "idx_end": 9665
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Sydney\n## Notable People\nThe University of Sydney has produced numerous notable alumni, including former Prime Ministers of Australia, Nobel laureates, and leaders in business and academia. Notable figures include Sir John Eccles, Nobel laureate in physiology or medicine, and Sir John Cornforth, Nobel laureate in chemistry.",
+        "text_original": "The University of Sydney has produced numerous notable alumni, including former Prime Ministers of Australia, Nobel laureates, and leaders in business and academia. Notable figures include Sir John Eccles, Nobel laureate in physiology or medicine, and Sir John Cornforth, Nobel laureate in chemistry",
+        "idx_start": 9691,
+        "idx_end": 9990
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\n## History\nThe University of Manchester traces its roots to the Mechanics' Institution in 1824 and the Owens College in 1851. It became a federal university in 1880 and later merged with the University of Manchester Institute of Science and Technology (UMIST) in 2004. The university has a rich history of scientific and academic achievements, including the discovery of the nuclear nature of the atom by Ernest Rutherford.",
+        "text_original": "The University of Manchester traces its roots to the Mechanics' Institution in 1824 and the Owens College in 1851. It became a federal university in 1880 and later merged with the University of Manchester Institute of Science and Technology (UMIST) in 2004. The university has a rich history of scientific and academic achievements, including the discovery of the nuclear nature of the atom by Ernest Rutherford",
+        "idx_start": 10047,
+        "idx_end": 10458
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\n## Campuses\nThe university's main site includes the Old Quadrangle and notable buildings like the John Owens Building and the Whitworth Art Gallery. It also operates residential campuses in the City, Fallowfield, and Victoria Park areas.",
+        "text_original": "The university's main site includes the Old Quadrangle and notable buildings like the John Owens Building and the Whitworth Art Gallery. It also operates residential campuses in the City, Fallowfield, and Victoria Park areas",
+        "idx_start": 10478,
+        "idx_end": 10702
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\n## Organization and Administration\nThe University of Manchester is divided into three faculties: biology, medicine and health; science and engineering; and humanities. It is governed by a Chancellor and a Vice-Chancellor, currently Duncan Ivison. The university is a member of the Russell Group of leading British research universities.",
+        "text_original": "The University of Manchester is divided into three faculties: biology, medicine and health; science and engineering; and humanities. It is governed by a Chancellor and a Vice-Chancellor, currently Duncan Ivison. The university is a member of the Russell Group of leading British research universities",
+        "idx_start": 10745,
+        "idx_end": 11045
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\n## Academics\nThe University of Manchester is renowned for its research output and interdisciplinary studies. It is ranked highly in national and global rankings, particularly in the fields of engineering, medicine, and humanities. Notable programs include the National Graphene Institute and the Manchester Business School.",
+        "text_original": "The University of Manchester is renowned for its research output and interdisciplinary studies. It is ranked highly in national and global rankings, particularly in the fields of engineering, medicine, and humanities. Notable programs include the National Graphene Institute and the Manchester Business School",
+        "idx_start": 11066,
+        "idx_end": 11375
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\n## Student Life\nThe university has a vibrant student life, supported by various clubs, societies, and media outlets, such as the University of Manchester Students' Union. The university emphasizes student engagement through initiatives like the University Challenge quiz program and the XXI Club for elite sportsmen and sportswomen.",
+        "text_original": "The university has a vibrant student life, supported by various clubs, societies, and media outlets, such as the University of Manchester Students' Union. The university emphasizes student engagement through initiatives like the University Challenge quiz program and the XXI Club for elite sportsmen and sportswomen",
+        "idx_start": 11399,
+        "idx_end": 11714
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Manchester\n## Notable People\nThe University of Manchester has produced numerous notable alumni and faculty members, including Nobel laureates in physics, chemistry, and medicine. Notable figures include Ernest Rutherford, who discovered the nuclear nature of the atom, and Alan Turing, a key figure in the development of theoretical computer science.",
+        "text_original": "The University of Manchester has produced numerous notable alumni and faculty members, including Nobel laureates in physics, chemistry, and medicine. Notable figures include Ernest Rutherford, who discovered the nuclear nature of the atom, and Alan Turing, a key figure in the development of theoretical computer science",
+        "idx_start": 11740,
+        "idx_end": 12060
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## History\nUnicamp was founded in 1962 as a response to the need for higher education in the interior of S\u00e3o Paulo state. It began with the School of Medicine and expanded rapidly in the following decades. The university has been a key player in Brazil's scientific and educational landscape, contributing significantly to research and innovation.",
+        "text_original": "Unicamp was founded in 1962 as a response to the need for higher education in the interior of S\u00e3o Paulo state. It began with the School of Medicine and expanded rapidly in the following decades. The university has been a key player in Brazil's scientific and educational landscape, contributing significantly to research and innovation",
+        "idx_start": 12131,
+        "idx_end": 12466
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Campuses\nThe main campus is located in Bar\u00e3o Geraldo, Campinas, and includes the School of Medical Sciences and the Hospital das Cl\u00ednicas. Unicamp also operates campuses in Limeira, Piracicaba, Paul\u00ednia, and other locations, offering a wide range of academic programs.",
+        "text_original": "The main campus is located in Bar\u00e3o Geraldo, Campinas, and includes the School of Medical Sciences and the Hospital das Cl\u00ednicas. Unicamp also operates campuses in Limeira, Piracicaba, Paul\u00ednia, and other locations, offering a wide range of academic programs",
+        "idx_start": 12486,
+        "idx_end": 12744
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Organization and Administration\nUnicamp is governed by a rector, who is appointed by the governor of S\u00e3o Paulo from a list of candidates elected by the university's community. The university comprises 24 teaching units, including schools and institutes, and is known for its strong research output and academic freedom.",
+        "text_original": "Unicamp is governed by a rector, who is appointed by the governor of S\u00e3o Paulo from a list of candidates elected by the university's community. The university comprises 24 teaching units, including schools and institutes, and is known for its strong research output and academic freedom",
+        "idx_start": 12787,
+        "idx_end": 13073
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Academics\nUnicamp offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of medicine, engineering, and agriculture. Notable programs include the School of Medical Sciences and the Institute of Computing.",
+        "text_original": "Unicamp offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of medicine, engineering, and agriculture. Notable programs include the School of Medical Sciences and the Institute of Computing",
+        "idx_start": 13094,
+        "idx_end": 13412
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Student Life\nUnicamp emphasizes student engagement through initiatives like the Student Residence compound and the university's extension programs. The university also supports various clubs, societies, and media outlets. Student life is enriched by the university's vibrant culture and traditions.",
+        "text_original": "Unicamp emphasizes student engagement through initiatives like the Student Residence compound and the university's extension programs. The university also supports various clubs, societies, and media outlets. Student life is enriched by the university's vibrant culture and traditions",
+        "idx_start": 13436,
+        "idx_end": 13720
+    },
+    {
+        "document_idx": null,
+        "text": "# State University of Campinas (Unicamp)\n## Notable People\nUnicamp has produced numerous notable alumni and faculty members, including scientists, academics, and leaders in various fields. Notable figures include Sadhan Kumar Adhikari, a professor of physics, and Heleieth Saffioti, a sociologist and feminist activist.",
+        "text_original": "Unicamp has produced numerous notable alumni and faculty members, including scientists, academics, and leaders in various fields. Notable figures include Sadhan Kumar Adhikari, a professor of physics, and Heleieth Saffioti, a sociologist and feminist activist",
+        "idx_start": 13746,
+        "idx_end": 14005
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## History\nPeking University was founded in 1898 as the Imperial University of Peking, inspired by the Hundred Days' Reform. It became the Government University of Peking in 1912 and the National University of Peking in 1919. The university has a rich history of academic excellence and contributions to various fields, including science, technology, and humanities.",
+        "text_original": "Peking University was founded in 1898 as the Imperial University of Peking, inspired by the Hundred Days' Reform. It became the Government University of Peking in 1912 and the National University of Peking in 1919. The university has a rich history of academic excellence and contributions to various fields, including science, technology, and humanities",
+        "idx_start": 14055,
+        "idx_end": 14409
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## Campuses\nPeking University has a main campus on the former site of Qing dynasty imperial gardens, featuring traditional Chinese-style landscaping and notable historical buildings. It also operates satellite campuses, including the Shenzhen Graduate School and the Nanchang Innovation Research Institute.",
+        "text_original": "Peking University has a main campus on the former site of Qing dynasty imperial gardens, featuring traditional Chinese-style landscaping and notable historical buildings. It also operates satellite campuses, including the Shenzhen Graduate School and the Nanchang Innovation Research Institute",
+        "idx_start": 14429,
+        "idx_end": 14722
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## Organization and Administration\nPeking University is governed by a Chancellor and a Vice-Chancellor. It comprises 55 schools and departments, with a focus on research and innovation. The university is ranked highly in national and global rankings, particularly in the fields of science, technology, and humanities.",
+        "text_original": "Peking University is governed by a Chancellor and a Vice-Chancellor. It comprises 55 schools and departments, with a focus on research and innovation. The university is ranked highly in national and global rankings, particularly in the fields of science, technology, and humanities",
+        "idx_start": 14765,
+        "idx_end": 15046
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## Academics\nPeking University offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is renowned for its strong research output and interdisciplinary studies. Notable programs include the National School of Development and the Shenzhen Graduate School.",
+        "text_original": "Peking University offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is renowned for its strong research output and interdisciplinary studies. Notable programs include the National School of Development and the Shenzhen Graduate School",
+        "idx_start": 15067,
+        "idx_end": 15355
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## Student Life\nThe university emphasizes student engagement through various clubs, societies, and media outlets. It supports initiatives like the Global Excellence Strategy, which aims to enhance Peking University's global presence. Student life is enriched by the university's vibrant culture and traditions.",
+        "text_original": "The university emphasizes student engagement through various clubs, societies, and media outlets. It supports initiatives like the Global Excellence Strategy, which aims to enhance Peking University's global presence. Student life is enriched by the university's vibrant culture and traditions",
+        "idx_start": 15379,
+        "idx_end": 15672
+    },
+    {
+        "document_idx": null,
+        "text": "# Peking University\n## Notable People\nPeking University has produced numerous notable alumni and faculty members, including Nobel laureates and leaders in science, technology, and academia. Notable figures include Tu Youyou, Nobel laureate in Physiology or Medicine, and Robin Li, co-founder and CEO of Baidu.",
+        "text_original": "Peking University has produced numerous notable alumni and faculty members, including Nobel laureates and leaders in science, technology, and academia. Notable figures include Tu Youyou, Nobel laureate in Physiology or Medicine, and Robin Li, co-founder and CEO of Baidu",
+        "idx_start": 15698,
+        "idx_end": 15968
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## History\nLund University traces its origins to a cathedral school established in 1085 and a Franciscan studium generale in 1425. It became a university in 1666 and has since grown into a major research institution. The university is known for its contributions to various fields, including science, humanities, and social sciences.",
+        "text_original": "Lund University traces its origins to a cathedral school established in 1085 and a Franciscan studium generale in 1425. It became a university in 1666 and has since grown into a major research institution. The university is known for its contributions to various fields, including science, humanities, and social sciences",
+        "idx_start": 16016,
+        "idx_end": 16337
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Campuses\nThe main campus is located in Lund, Scania, and includes historic buildings like the Main Building and the Historical Museum. The university also operates satellite campuses in Helsingborg and Malm\u00f6, offering a wide range of academic programs.",
+        "text_original": "The main campus is located in Lund, Scania, and includes historic buildings like the Main Building and the Historical Museum. The university also operates satellite campuses in Helsingborg and Malm\u00f6, offering a wide range of academic programs",
+        "idx_start": 16357,
+        "idx_end": 16599
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Organization and Administration\nLund University is divided into nine faculties and more than 20 research centers. It is governed by a Chancellor and a Vice-Chancellor. The university is known for its strong research output and international collaborations.",
+        "text_original": "Lund University is divided into nine faculties and more than 20 research centers. It is governed by a Chancellor and a Vice-Chancellor. The university is known for its strong research output and international collaborations",
+        "idx_start": 16642,
+        "idx_end": 16865
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Academics\nLund University offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of medicine, engineering, and humanities. Notable programs include the Lund Institute of Technology and the Lund University Centre for Sustainability Studies.",
+        "text_original": "Lund University offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of medicine, engineering, and humanities. Notable programs include the Lund Institute of Technology and the Lund University Centre for Sustainability Studies",
+        "idx_start": 16886,
+        "idx_end": 17240
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Student Life\nThe university emphasizes student engagement through various clubs, societies, and media outlets, such as the Academic Society (AF) and the Lund Student Union. Student life is enriched by traditions like the Lund Carnival and the Academic Society's annual events.",
+        "text_original": "The university emphasizes student engagement through various clubs, societies, and media outlets, such as the Academic Society (AF) and the Lund Student Union. Student life is enriched by traditions like the Lund Carnival and the Academic Society's annual events",
+        "idx_start": 17264,
+        "idx_end": 17526
+    },
+    {
+        "document_idx": null,
+        "text": "# Lund University\n## Notable People\nLund University has produced numerous notable alumni and faculty members, including Nobel laureates and leaders in science, humanities, and business. Notable figures include Samuel Pufendorf, a jurist and philosopher, and Knut Wicksell, an economist.",
+        "text_original": "Lund University has produced numerous notable alumni and faculty members, including Nobel laureates and leaders in science, humanities, and business. Notable figures include Samuel Pufendorf, a jurist and philosopher, and Knut Wicksell, an economist",
+        "idx_start": 17552,
+        "idx_end": 17801
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## History\nRMIT was founded in 1887 as the Working Men's College of Melbourne and became the Royal Melbourne Technical College in 1954. It merged with the Phillip Institute of Technology in 1992 to become RMIT University. The university has a rich history of innovation and contributions to various fields, including engineering, design, and technology.",
+        "text_original": "RMIT was founded in 1887 as the Working Men's College of Melbourne and became the Royal Melbourne Technical College in 1954. It merged with the Phillip Institute of Technology in 1992 to become RMIT University. The university has a rich history of innovation and contributions to various fields, including engineering, design, and technology",
+        "idx_start": 17880,
+        "idx_end": 18221
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Campuses\nRMIT operates multiple campuses, including the Melbourne City campus, Bundoora campus, Brunswick campus, and international campuses in Ho Chi Minh City, Hanoi, and Barcelona.",
+        "text_original": "RMIT operates multiple campuses, including the Melbourne City campus, Bundoora campus, Brunswick campus, and international campuses in Ho Chi Minh City, Hanoi, and Barcelona",
+        "idx_start": 18241,
+        "idx_end": 18414
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Organization and Administration\nRMIT is governed by a Council and a Vice-Chancellor. It comprises four academic colleges and schools, including the College of Business and Law, College of Design and Social Context, and STEM College. The university is known for its strong research output and industry collaborations.",
+        "text_original": "RMIT is governed by a Council and a Vice-Chancellor. It comprises four academic colleges and schools, including the College of Business and Law, College of Design and Social Context, and STEM College. The university is known for its strong research output and industry collaborations",
+        "idx_start": 18457,
+        "idx_end": 18740
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Academics\nRMIT offers a wide range of undergraduate and graduate programs, with a focus on applied research and innovation. It is ranked highly in national and global rankings, particularly in the fields of engineering, design, and business. Notable programs include the RMIT School of Engineering and the RMIT School of Design.",
+        "text_original": "RMIT offers a wide range of undergraduate and graduate programs, with a focus on applied research and innovation. It is ranked highly in national and global rankings, particularly in the fields of engineering, design, and business. Notable programs include the RMIT School of Engineering and the RMIT School of Design",
+        "idx_start": 18761,
+        "idx_end": 19078
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Student Life\nThe university emphasizes student engagement through various clubs, societies, and media outlets, such as RMIT Link and RUSU. Student life is enriched by traditions like the graduation parade and the university's vibrant culture.",
+        "text_original": "The university emphasizes student engagement through various clubs, societies, and media outlets, such as RMIT Link and RUSU. Student life is enriched by traditions like the graduation parade and the university's vibrant culture",
+        "idx_start": 19102,
+        "idx_end": 19330
+    },
+    {
+        "document_idx": null,
+        "text": "# Royal Melbourne Institute of Technology (RMIT)\n## Notable People\nRMIT has produced numerous notable alumni, including Australian skiers, film directors, and leaders in business and technology. Notable figures include James Wan, a film director, and Chris Boshuizen, an astronaut.",
+        "text_original": "RMIT has produced numerous notable alumni, including Australian skiers, film directors, and leaders in business and technology. Notable figures include James Wan, a film director, and Chris Boshuizen, an astronaut",
+        "idx_start": 19356,
+        "idx_end": 19569
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## History\nImperial College London traces its roots to the Royal College of Chemistry, founded in 1845. It merged with the Royal School of Mines and the Royal College of Science in 1907 to become the Imperial College of Science and Technology. The university gained degree-awarding powers in 2003 and became fully independent of the University of London in 2007.",
+        "text_original": "Imperial College London traces its roots to the Royal College of Chemistry, founded in 1845. It merged with the Royal School of Mines and the Royal College of Science in 1907 to become the Imperial College of Science and Technology. The university gained degree-awarding powers in 2003 and became fully independent of the University of London in",
+        "idx_start": 19625,
+        "idx_end": 19970
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Campuses\nThe main campus is located in South Kensington, London, and includes notable buildings like the Royal School of Mines and the Royal College of Science. The university also operates satellite campuses in White City and Silwood Park.",
+        "text_original": "The main campus is located in South Kensington, London, and includes notable buildings like the Royal School of Mines and the Royal College of Science. The university also operates satellite campuses in White City and Silwood Park",
+        "idx_start": 19995,
+        "idx_end": 20225
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Organization and Administration\nImperial College is divided into four faculties: Engineering, Medicine, Natural Sciences, and Imperial Business School. It is governed by a Chancellor and a Vice-Chancellor. The university is known for its strong research output and interdisciplinary studies.",
+        "text_original": "Imperial College is divided into four faculties: Engineering, Medicine, Natural Sciences, and Imperial Business School. It is governed by a Chancellor and a Vice-Chancellor. The university is known for its strong research output and interdisciplinary studies",
+        "idx_start": 20268,
+        "idx_end": 20526
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Academics\nImperial College offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of engineering, medicine, and business. Notable programs include the Imperial Cancer Research UK Center and the UK Energy Research Centre.",
+        "text_original": "Imperial College offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of engineering, medicine, and business. Notable programs include the Imperial Cancer Research UK Center and the UK Energy Research Centre",
+        "idx_start": 20547,
+        "idx_end": 20882
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Student Life\nThe university emphasizes student engagement through various clubs, societies, and media outlets, such as Imperial College Union. Student life is enriched by traditions like Commemoration Day and the university's vibrant culture.",
+        "text_original": "The university emphasizes student engagement through various clubs, societies, and media outlets, such as Imperial College Union. Student life is enriched by traditions like Commemoration Day and the university's vibrant culture",
+        "idx_start": 20906,
+        "idx_end": 21134
+    },
+    {
+        "document_idx": null,
+        "text": "# Imperial College London\n## Notable People\nImperial College has produced numerous notable alumni and faculty members, including Nobel laureates and leaders in science, medicine, and business. Notable figures include Sir Alexander Fleming, Nobel laureate in physiology or medicine, and Sir Geoffrey Wilkinson, Nobel laureate in chemistry.",
+        "text_original": "Imperial College has produced numerous notable alumni and faculty members, including Nobel laureates and leaders in science, medicine, and business. Notable figures include Sir Alexander Fleming, Nobel laureate in physiology or medicine, and Sir Geoffrey Wilkinson, Nobel laureate in chemistry",
+        "idx_start": 21160,
+        "idx_end": 21453
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## History\nUnesp was founded in 1933 as the first university in S\u00e3o Paulo state. It expanded rapidly in the following decades and has since become a major research institution. The university is known for its contributions to various fields, including medicine, engineering, and agriculture.",
+        "text_original": "Unesp was founded in 1933 as the first university in S\u00e3o Paulo state. It expanded rapidly in the following decades and has since become a major research institution. The university is known for its contributions to various fields, including medicine, engineering, and agriculture",
+        "idx_start": 21520,
+        "idx_end": 21799
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Campuses\nUnesp operates multiple campuses, including the main campus in Bar\u00e3o Geraldo, Campinas, and campuses in Limeira, Piracicaba, and Paul\u00ednia. It also manages technical high schools like the Technical High School of Campinas (COTUCA).",
+        "text_original": "Unesp operates multiple campuses, including the main campus in Bar\u00e3o Geraldo, Campinas, and campuses in Limeira, Piracicaba, and Paul\u00ednia. It also manages technical high schools like the Technical High School of Campinas (COTUCA",
+        "idx_start": 21819,
+        "idx_end": 22047
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Organization and Administration\nUnesp is governed by a rector, who is appointed by the governor of S\u00e3o Paulo. The university comprises 24 teaching units, including schools and institutes, and is known for its strong research output and academic freedom.",
+        "text_original": "Unesp is governed by a rector, who is appointed by the governor of S\u00e3o Paulo. The university comprises 24 teaching units, including schools and institutes, and is known for its strong research output and academic freedom",
+        "idx_start": 22091,
+        "idx_end": 22311
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Academics\nUnesp offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of medicine, engineering, and agriculture. Notable programs include the School of Medical Sciences and the Institute of Computing.",
+        "text_original": "Unesp offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of medicine, engineering, and agriculture. Notable programs include the School of Medical Sciences and the Institute of Computing",
+        "idx_start": 22332,
+        "idx_end": 22648
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Student Life\nUnesp emphasizes student engagement through initiatives like the Student Residence compound and the university's extension programs. The university also supports various clubs, societies, and media outlets.",
+        "text_original": "Unesp emphasizes student engagement through initiatives like the Student Residence compound and the university's extension programs. The university also supports various clubs, societies, and media outlets",
+        "idx_start": 22672,
+        "idx_end": 22877
+    },
+    {
+        "document_idx": null,
+        "text": "# S\u00e3o Paulo State University (Unesp)\n## Notable People\nUnesp has produced numerous notable alumni and faculty members, including scientists, academics, and leaders in various fields. Notable figures include Sadhan Kumar Adhikari, a professor of physics, and Heleieth Saffioti, a sociologist.",
+        "text_original": "Unesp has produced numerous notable alumni and faculty members, including scientists, academics, and leaders in various fields. Notable figures include Sadhan Kumar Adhikari, a professor of physics, and Heleieth Saffioti, a sociologist",
+        "idx_start": 22903,
+        "idx_end": 23138
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## History\nThe University of the Andes was founded in 1949 as the first non-sectarian and non-politically affiliated university in Colombia. It was inspired by the need for skilled professionals to support Colombia's industrial development and was modeled after American universities. The university has since grown into a major research institution, known for its contributions to various fields, including engineering, law, and humanities.",
+        "text_original": "The University of the Andes was founded in 1949 as the first non-sectarian and non-politically affiliated university in Colombia. It was inspired by the need for skilled professionals to support Colombia's industrial development and was modeled after American universities. The university has since grown into a major research institution, known for its contributions to various fields, including engineering, law, and humanities",
+        "idx_start": 23205,
+        "idx_end": 23634
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Campuses\nThe main campus is located in Bogot\u00e1, Colombia, and includes historic buildings and modern facilities. The university also operates an internship center for the Medicine Faculty in Fundaci\u00f3n Santa Fe de Bogot\u00e1.",
+        "text_original": "The main campus is located in Bogot\u00e1, Colombia, and includes historic buildings and modern facilities. The university also operates an internship center for the Medicine Faculty in Fundaci\u00f3n Santa Fe de Bogot",
+        "idx_start": 23654,
+        "idx_end": 23862
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Organization and Administration\nThe University of the Andes is governed by a Board of Trustees and a Board of Directors. It comprises 14 academic units, including 10 faculties, and is known for its strong research output and academic freedom.",
+        "text_original": "The University of the Andes is governed by a Board of Trustees and a Board of Directors. It comprises 14 academic units, including 10 faculties, and is known for its strong research output and academic freedom",
+        "idx_start": 23906,
+        "idx_end": 24115
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Academics\nThe University of the Andes offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of engineering, law, and humanities. Notable programs include the Alberto Lleras Camargo School of Government and the CIDER, an interdisciplinary center for development studies.",
+        "text_original": "The University of the Andes offers a wide range of undergraduate and graduate programs, with a focus on research and innovation. It is ranked highly in national and global rankings, particularly in the fields of engineering, law, and humanities. Notable programs include the Alberto Lleras Camargo School of Government and the CIDER, an interdisciplinary center for development studies",
+        "idx_start": 24136,
+        "idx_end": 24521
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Student Life\nThe university emphasizes student engagement through various clubs, societies, and media outlets. Student life is enriched by traditions like the celebration of Students' Day with a goat mascot.",
+        "text_original": "The university emphasizes student engagement through various clubs, societies, and media outlets. Student life is enriched by traditions like the celebration of Students' Day with a goat mascot",
+        "idx_start": 24545,
+        "idx_end": 24738
+    },
+    {
+        "document_idx": null,
+        "text": "# University of the Andes (Colombia)\n## Notable People\nThe University of the Andes has produced numerous notable alumni, including former Presidents of Colombia, scientists, and leaders in various fields. Notable figures include C\u00e9sar Gaviria, former President of Colombia, and Gabriela Tafur, Miss Colombia 2018.",
+        "text_original": "The University of the Andes has produced numerous notable alumni, including former Presidents of Colombia, scientists, and leaders in various fields. Notable figures include C\u00e9sar Gaviria, former President of Colombia, and Gabriela Tafur, Miss Colombia",
+        "idx_start": 24764,
+        "idx_end": 25016
+    },
+    {
+        "document_idx": null,
+        "text": "# University of Auckland (New Zealand)\n*(Note: The University of Auckland is already covered above, so this section is redundant and omitted.)*",
+        "text_original": "Note: The University of Auckland is already covered above, so this section is redundant and omitted",
+        "idx_start": 25076,
+        "idx_end": 25175
+    }
+]

@@ -1,0 +1,32 @@
+{
+  "id": 70141296,
+  "title": "Simulant (film)",
+  "url": "https://en.wikipedia.org/wiki/Simulant_(film)",
+  "path": "AI-Fiction\\simulant-film",
+  "summary": {
+    "chars": 208,
+    "tokens": 56
+  },
+  "document": {
+    "chars": 3555,
+    "tokens": 778
+  },
+  "infobox": {
+    "title": "Simulant",
+    "data": {
+      "Directed by": "April Mullen",
+      "Written by": "Ryan Christopher Churchill",
+      "Produced by": "- Tim Doiron - James van der Woerd",
+      "Starring": "- Robbie Amell - Jordana Brewster - Simu Liu - Sam Worthington",
+      "Cinematography": "Russ De Jong",
+      "Edited by": "Orlee Buium",
+      "Music by": "Blitz//Berlin",
+      "Production \u00b7 companies": "- WANGO Films - Telefilm Canada",
+      "Distributed by": "Mongrel Media",
+      "Release date": "- April 7, 2023 (Canada)",
+      "Running time": "95 minutes",
+      "Country": "Canada",
+      "Language": "English"
+    }
+  }
+}

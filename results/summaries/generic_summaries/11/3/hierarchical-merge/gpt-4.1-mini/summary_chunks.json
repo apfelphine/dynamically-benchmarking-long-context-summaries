@@ -1,0 +1,65 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Neural Network Architectures and Advances\n## Hopfield Networks and Modern Extensions:\nHopfield networks are early recurrent neural networks implementing associative memory through symmetric binary neuron connections, converging to stable attractors by energy minimization. While classical models have limited storage and spurious attractors, Dense Associative Memory variants generalize these concepts using higher-order interactions and nonlinear energies, achieving vastly increased storage capacity and robustness. These developments relate to attention mechanisms in AI and earned the 2024 Nobel Prize recognition.",
+        "text_original": "Hopfield networks are early recurrent neural networks implementing associative memory through symmetric binary neuron connections, converging to stable attractors by energy minimization. While classical models have limited storage and spurious attractors, Dense Associative Memory variants generalize these concepts using higher-order interactions and nonlinear energies, achieving vastly increased storage capacity and robustness. These developments relate to attention mechanisms in AI and earned the 2024 Nobel Prize recognition",
+        "idx_start": 92,
+        "idx_end": 623
+    },
+    {
+        "document_idx": null,
+        "text": "# Neural Network Architectures and Advances\n## Recurrent Neural Networks (RNNs):\nRNNs model temporal dependencies by maintaining hidden states, powering tasks such as language modeling, speech processing, and time series forecasting. Advanced variants (LSTM, GRU, IndRNN) overcome training challenges like vanishing gradients and enable modeling hierarchical or continuous-time sequences. Extensions, including Neural Turing Machines, augment RNNs with external differentiable memory, granting Turing completeness.",
+        "text_original": "RNNs model temporal dependencies by maintaining hidden states, powering tasks such as language modeling, speech processing, and time series forecasting. Advanced variants (LSTM, GRU, IndRNN) overcome training challenges like vanishing gradients and enable modeling hierarchical or continuous-time sequences. Extensions, including Neural Turing Machines, augment RNNs with external differentiable memory, granting Turing completeness",
+        "idx_start": 666,
+        "idx_end": 1098
+    },
+    {
+        "document_idx": null,
+        "text": "# Neural Network Architectures and Advances\n## Convolutional Neural Networks (CNNs):\nCNNs excel at handling spatially structured data (e.g., images) through convolutional layers with shared kernels, pooling for dimensionality reduction and invariances, and nonlinear activations. Innovations include dilated convolutions and architectures optimized for segmentation, generation, and transfer learning. Beyond vision, CNNs apply to video analysis, natural language, anomaly detection, and drug discovery.",
+        "text_original": "CNNs excel at handling spatially structured data (e.g., images) through convolutional layers with shared kernels, pooling for dimensionality reduction and invariances, and nonlinear activations. Innovations include dilated convolutions and architectures optimized for segmentation, generation, and transfer learning. Beyond vision, CNNs apply to video analysis, natural language, anomaly detection, and drug discovery",
+        "idx_start": 1145,
+        "idx_end": 1562
+    },
+    {
+        "document_idx": null,
+        "text": "# Neural Network Architectures and Advances\n## Radial Basis Function (RBF) Networks:\nRBF networks are three-layer feedforward models leveraging Gaussian kernels for local nonlinear approximation. Their probabilistic variants enable kernel density estimation. They are effective in modeling nonlinear and chaotic dynamics and supporting iterative short-term predictions, although long-horizon forecasting remains challenging due to sensitivity to chaos.",
+        "text_original": "RBF networks are three-layer feedforward models leveraging Gaussian kernels for local nonlinear approximation. Their probabilistic variants enable kernel density estimation. They are effective in modeling nonlinear and chaotic dynamics and supporting iterative short-term predictions, although long-horizon forecasting remains challenging due to sensitivity to chaos",
+        "idx_start": 1609,
+        "idx_end": 1975
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Models: GANs and Autoencoders\n## Generative Adversarial Networks (GANs):\nGANs employ adversarial training between generator and discriminator networks to produce realistic synthetic data in a single forward pass, facing instability and mode collapse challenges. Techniques like TTUR, Wasserstein losses, and balanced optimizations improve training stability. Variants encompass conditional GANs, self-attention GANs (SAGAN), large-scale BigGANs, transformer-based TransGAN, and hybrid models like VAEGANs. GANs have broad applications including image synthesis, data augmentation with invertible semantic-preserving transformations, and specialized domains such as medical imaging and creative arts.",
+        "text_original": "GANs employ adversarial training between generator and discriminator networks to produce realistic synthetic data in a single forward pass, facing instability and mode collapse challenges. Techniques like TTUR, Wasserstein losses, and balanced optimizations improve training stability. Variants encompass conditional GANs, self-attention GANs (SAGAN), large-scale BigGANs, transformer-based TransGAN, and hybrid models like VAEGANs. GANs have broad applications including image synthesis, data augmentation with invertible semantic-preserving transformations, and specialized domains such as medical imaging and creative arts",
+        "idx_start": 2068,
+        "idx_end": 2693
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Models: GANs and Autoencoders\n## Variational Autoencoders (VAEs) and Other Autoencoders:\nAutoencoders learn compressed latent representations by reconstructing inputs. Variants include sparse, denoising, contractive, and concrete autoencoders, with VAEs introducing probabilistic latent modeling via reparameterization to maximize ELBO. Extensions like \u03b2-VAE promote disentangled features, and hybrids integrating GAN objectives enhance quality. Applications span dimensionality reduction, anomaly detection, image compression, and as components in generative models (e.g., Stable Diffusion, DALL\u00b7E). Careful validation is necessary for anomaly detection since some anomalies may reconstruct well.",
+        "text_original": "Autoencoders learn compressed latent representations by reconstructing inputs. Variants include sparse, denoising, contractive, and concrete autoencoders, with VAEs introducing probabilistic latent modeling via reparameterization to maximize ELBO. Extensions like \u03b2-VAE promote disentangled features, and hybrids integrating GAN objectives enhance quality. Applications span dimensionality reduction, anomaly detection, image compression, and as components in generative models (e.g., Stable Diffusion, DALL\u00b7E). Careful validation is necessary for anomaly detection since some anomalies may reconstruct well",
+        "idx_start": 2758,
+        "idx_end": 3365
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer Models and Interpretability\n## Transformers:\nTransformers revolutionize sequence modeling by replacing recurrence with self-attention, enabling parallel processing of tokens and richer contextual capture. Architectures stack encoder and decoder layers with self- and cross-attention, supporting encoder-only (BERT), decoder-only (GPT), and encoder-decoder (T5) variants. Positional encodings and advanced normalization (LayerNorm, RMSNorm) and activation functions (GELU, SwiGLU) enhance performance. Efficient attention mechanisms like FlashAttention and sparse variants reduce computation, expanding applications from NLP and computer vision (Vision Transformers, DALL\u00b7E) to speech, multimodal learning, biological analysis (AlphaFold), and symbolic reasoning without search.",
+        "text_original": "Transformers revolutionize sequence modeling by replacing recurrence with self-attention, enabling parallel processing of tokens and richer contextual capture. Architectures stack encoder and decoder layers with self- and cross-attention, supporting encoder-only (BERT), decoder-only (GPT), and encoder-decoder (T5) variants. Positional encodings and advanced normalization (LayerNorm, RMSNorm) and activation functions (GELU, SwiGLU) enhance performance. Efficient attention mechanisms like FlashAttention and sparse variants reduce computation, expanding applications from NLP and computer vision (Vision Transformers, DALL\u00b7E) to speech, multimodal learning, biological analysis (AlphaFold), and symbolic reasoning without search",
+        "idx_start": 3431,
+        "idx_end": 4162
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer Models and Interpretability\n## Vision Transformers and Interpretability:\nVision Transformers (ViTs) apply self-attention to image patches, outperforming CNNs in global context capture but requiring large data and careful training. Variants like Swin Transformer improve transfer learning; TimeSformer extends to video. Integrations with GANs (ViT-VQGAN) boost image synthesis. Interpretability techniques\u2014Class Activation Mapping (CAM), Grad-CAM, and their advanced variants\u2014highlight influential image regions in model decisions, aiding transparency in CNNs and transformers.",
+        "text_original": "Vision Transformers (ViTs) apply self-attention to image patches, outperforming CNNs in global context capture but requiring large data and careful training. Variants like Swin Transformer improve transfer learning; TimeSformer extends to video. Integrations with GANs (ViT-VQGAN) boost image synthesis. Interpretability techniques\u2014Class Activation Mapping (CAM), Grad-CAM, and their advanced variants\u2014highlight influential image regions in model decisions, aiding transparency in CNNs and transformers",
+        "idx_start": 4213,
+        "idx_end": 4715
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Networks (GNNs) and Extensions\nGNNs process graph data via message passing among neighbors, with architectures such as Graph Convolutional Networks (GCN), Graph Attention Networks (GAT), and Gated Graph Sequence Neural Networks (GGS-NN), employing pooling strategies to manage graph complexity. Critical in protein folding (AlphaFold), social network analysis, and cybersecurity, GNNs traditionally assume homophily (neighbor similarity). Research now addresses heterophilic graphs, where connected nodes differ, developing specialized architectures enhancing anomaly detection, robustness, clustering, and privacy.\nCollectively, these neural architectures and their advancements establish powerful, complementary frameworks for modeling, generating, interpreting, and analyzing complex data across scientific, medical, and technological domains. Continuous innovation targets improved scalability, stability, interpretability, and robustness, further broadening their applicability and impact.",
+        "text_original": "GNNs process graph data via message passing among neighbors, with architectures such as Graph Convolutional Networks (GCN), Graph Attention Networks (GAT), and Gated Graph Sequence Neural Networks (GGS-NN), employing pooling strategies to manage graph complexity. Critical in protein folding (AlphaFold), social network analysis, and cybersecurity, GNNs traditionally assume homophily (neighbor similarity). Research now addresses heterophilic graphs, where connected nodes differ, developing specialized architectures enhancing anomaly detection, robustness, clustering, and privacy.\n\n---\n\nCollectively, these neural architectures and their advancements establish powerful, complementary frameworks for modeling, generating, interpreting, and analyzing complex data across scientific, medical, and technological domains. Continuous innovation targets improved scalability, stability, interpretability, and robustness, further broadening their applicability and impact",
+        "idx_start": 4765,
+        "idx_end": 5733
+    }
+]

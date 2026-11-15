@@ -1,0 +1,31 @@
+# Summary of Major Universities
+
+## Yale University
+Yale University has a rich history, beginning as a Collegiate School founded in 1701, initially championed to maintain Puritan religious orthodoxy against perceived laxity at Harvard. The institution adopted the name Yale College in 1718 after Elihu Yale's donation, and later became Yale University in 1887.
+
+Yale operates under a liberal arts curriculum within a residential college system. The university has navigated major intellectual movements like the Great Awakening and the Enlightenment. Academically, it is highly selective, and its collections include the massive Yale University Library and the Beinecke Rare Book Library. In recent history, Yale has engaged in debates regarding its historical ties to slavery (prompted by Elihu Yale's involvement with the East India Company) and has seen significant internal discussions concerning campus culture, diversity, and student mental health.
+
+## University of Edinburgh
+The University of Edinburgh was established in 1583, originating from a bequest by Bishop Robert Reid, and was uniquely founded by secular authorities in Presbyterian Scotland. The university was a key center of the Scottish Enlightenment, attracting figures like Adam Smith and David Hume.
+
+Modern-day Edinburgh features five main sites, with the Central Area being the oldest. Academically, it has strong faculties in Arts, Humanities, Social Sciences, Medicine & Vet Medicine, and Science & Engineering. The university holds significant global repute, ranking highly in research, and has deep historical links to the founding of medical schools at other major international universities, including Yale.
+
+## University of Pennsylvania (Penn)
+Penn was chartered in 1755 and is known for blending historic architecture with modern facilities, including the Perelman Center for Advanced Medicine. Its "One University Policy" promotes interdisciplinary learning across its twelve schools, such as Wharton (business), Perelman School of Medicine, and the School of Engineering and Applied Science (SEAS).
+
+Penn is recognized for its significant research activity, boasting a top-tier ranking among U.S. universities. The campus integrates extensive parks and arboreta. The institution also features notable cultural aspects, such as its art installations and its historic commitment to the liberal arts tradition.
+
+## Princeton University
+Founded as the College of New Jersey in 1746, Princeton's early history was shaped by the Great Awakening and a commitment to a broad curriculum for both clergy and secular leadership. The university embraced the residential college system and established its reputation for high academic standards, notably through the introduction of the preceptorial system by Woodrow Wilson.
+
+Princeton maintains a strong focus on its undergraduate liberal arts education and is renowned for its commitment to financial aid, meeting 100% of demonstrated financial need through grants. The campus is characterized by its Collegiate Gothic architecture, and the university has seen recent significant internal movements regarding its historical ties to slavery.
+
+## University of Cambridge
+Established in 1209, Cambridge is a collegiate university where its 31 constituent colleges are self-governing entities. The university rapidly developed as a global leader in mathematics, evidenced by the rigorous Mathematical Tripos.
+
+The institution maintains an elite global reputation, frequently ranking among the world's top universities across various subjects. Academically, it blends college-based undergraduate teaching with centralized research faculties. Its culture is defined by long-standing traditions, such as Formal Halls and its extensive network of student societies, while also engaging in contemporary issues like sexual harassment complaints.
+
+## University College London (UCL)
+UCL began in 1826 as an alternative to the Anglican universities of Oxford and Cambridge. It rapidly expanded and reconstituted itself to become a federal university. UCL has been a pioneer in modern academic fields, notably contributing to early internetworking and being one of the first universities to admit women to its core faculties in 1878.
+
+The university is highly ranked globally, noted for its research power and its commitment to sustainability initiatives. Its campus is centered in Bloomsbury, and it is noted for its large student body, which has a high proportion of international students. UCL has also navigated controversies related to its historical links with eugenics.

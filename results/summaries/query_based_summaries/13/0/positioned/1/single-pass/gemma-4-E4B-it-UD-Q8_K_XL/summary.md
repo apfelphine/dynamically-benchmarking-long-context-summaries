@@ -1,0 +1,5 @@
+## University of Cambridge Summary
+
+The University of Cambridge was inspired by an incident at the University of Oxford and began forming after scholars began leaving Oxford for more hospitable cities, including Cambridge. By 1225, a chancellor was appointed, and in 1231, writs issued by King Henry III established specific rent customs for the university. The university received papal confirmation as a *studium generale* in 1290, and later in 1318.
+
+The university operates as a collegiate university, meaning its 31 self-governing colleges provide housing, welfare, and undergraduate teaching, while the university itself arranges lectures and awards degrees across its faculties, schools, and departments. The University of Cambridge is a founding member of the Russell Group and is part of the "golden triangle" of research-intensive universities in Southern England. It maintains significant traditions, such as the Festival of Nine Lessons and Carols, and its alumni include numerous world-renowned figures across various fields.

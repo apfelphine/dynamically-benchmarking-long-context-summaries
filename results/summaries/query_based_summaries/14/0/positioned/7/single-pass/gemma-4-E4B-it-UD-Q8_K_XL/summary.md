@@ -1,0 +1,5 @@
+## King's College London Summary
+
+King's College London was established in 1829, named in honor of King George IV. Its founding occurred partly in response to the secular nature of London University, which was established by Utilitarians, Jews, and Nonconformists. The creation of King's College represented a Tory counter-response to reaffirming established educational values. The institution gained monarchical patronage and its visitor is the Archbishop of Canterbury.
+
+Over time, King's College London underwent several significant changes, including being merged into the University of London in 1910, and later regaining legal independence in 1980. The college's medical school history is extensive, with major mergers contributing to the GKT School of Medical Education. In 2007, King's was granted independent degree-awarding powers by the Privy Council. King's is now one of the founding colleges of the federal University of London and is part of the Russell Group.

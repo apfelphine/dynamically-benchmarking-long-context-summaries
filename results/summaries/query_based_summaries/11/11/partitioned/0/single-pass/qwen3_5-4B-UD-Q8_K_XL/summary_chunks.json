@@ -1,0 +1,9 @@
+[
+    {
+        "document_idx": null,
+        "text": "To enforce the Lipschitz constraint without requiring computationally expensive manual weight clipping, WGAN employs three primary techniques: weight clipping, spectral normalization, and gradient penalty. Weight clipping restricts the magnitude of weights within the discriminator to bound the Lipschitz norm. Spectral normalization normalizes the spectral radius of the weight matrices in the discriminator's layers after each update to ensure the Lipschitz constant remains bounded. Alternatively, the gradient penalty method adds a regularization term to the loss function that penalizes deviations of the gradient norm from a specific constant, effectively smoothing the discriminator's decision boundary. These improvements allow WGAN to achieve stable convergence and effectively solve the mode collapse problem often seen in standard GANs.",
+        "text_original": "To enforce the Lipschitz constraint without requiring computationally expensive manual weight clipping, WGAN employs three primary techniques: weight clipping, spectral normalization, and gradient penalty. Weight clipping restricts the magnitude of weights within the discriminator to bound the Lipschitz norm. Spectral normalization normalizes the spectral radius of the weight matrices in the discriminator's layers after each update to ensure the Lipschitz constant remains bounded. Alternatively, the gradient penalty method adds a regularization term to the loss function that penalizes deviations of the gradient norm from a specific constant, effectively smoothing the discriminator's decision boundary. These improvements allow WGAN to achieve stable convergence and effectively solve the mode collapse problem often seen in standard GANs",
+        "idx_start": 761,
+        "idx_end": 1607
+    }
+]

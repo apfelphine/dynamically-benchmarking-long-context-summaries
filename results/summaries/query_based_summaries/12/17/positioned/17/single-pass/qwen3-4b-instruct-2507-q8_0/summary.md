@@ -1,0 +1,11 @@
+The **King's Scholar** is a prestigious academic honor with historical roots in British education. Originating in 1317 when King Edward II established scholars at the University of Cambridge, the title evolved into a system of scholarships at various institutions.
+
+At **Eton College**, King's Scholars (or "Collegers") are selected through a competitive examination and admitted to the original College house. They wear a distinctive black gown and live in the central part of the school. The program has a long tradition of academic excellence, with notable alumni including Winston Churchill, Harold Macmillan, and Boris Johnson. The scholarship, once fully fee-free, now includes means-tested financial support.
+
+At **Westminster School**, scholars are known as Queen's Scholars when a Queen is reigning and King's Scholars when a King is reigning. They are selected through a rigorous examination and attend the oldest house, College, and participate in formal traditions.
+
+At **King's College Cambridge**, King's Scholars are undergraduates who achieve first-class degrees. They receive a £350 prize and attend a formal ceremony in the college chapel, where they sign a book. The tradition reflects the college’s founding by Henry VI.
+
+The **seven King's Schools** (Canterbury, Chester, Ely, Gloucester, Peterborough, Rochester, Worcester) were re-founded by Henry VIII and award scholarships in his name. These scholarships are now given for academic or musical achievement and often include fee discounts. In 1973, under Queen Elizabeth II, the schools were granted the right to award Queen's Scholarships for girls, reflecting a shift toward co-education.
+
+Each institution maintains unique traditions, such as the annual "Hoop Trundle" at King's Ely or "Judge's Day" at King's Worcester, and scholars enjoy lifelong privileges like burial in cathedral grounds or the right to marry in the cathedral. The King's Scholar title remains a symbol of academic distinction and historical continuity in British education.

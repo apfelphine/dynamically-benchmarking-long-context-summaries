@@ -1,0 +1,3 @@
+The Studienstiftung des deutschen Volkes originated in Dresden in 1925 as a department of the Deutsche Studentenschaft. Following its dissolution under National Socialism in 1934, it was re-established as a registered association in Cologne in 1948.
+
+The organization supports exceptionally talented students and doctoral candidates through a general scholarship offering both financial and academic assistance. Eligibility is determined through various channels, including nomination by schools or professors, nomination by examination boards, participation in national or federal competitions, or by submitting to an assessment test. The scholarship's mission is founded on the principles of "excellence, initiative and responsibility."

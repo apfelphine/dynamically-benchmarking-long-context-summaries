@@ -1,0 +1,2 @@
+36°00′07″N 78°55′21″W﻿ / ﻿36.00187°N 78.92239°W
+The Robertson Scholars Leadership Program is a joint merit scholarship and leadership development program at Duke University and the University of North Carolina at Chapel Hill. The scholarship offers participants a unique "dual citizenship" at both Duke University and UNC-Chapel Hill. Approximately 25-30 students are selected from the pool of applicants to both universities.

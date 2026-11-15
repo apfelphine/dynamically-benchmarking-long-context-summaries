@@ -1,0 +1,23 @@
+{
+  "id": 15942,
+  "title": "John von Neumann",
+  "url": "https://en.wikipedia.org/wiki/John_von_Neumann",
+  "path": "Comp-Sci-Pioneers\\john-von-neumann",
+  "summary": {
+    "chars": 2042,
+    "tokens": 430
+  },
+  "document": {
+    "chars": 92320,
+    "tokens": 18974
+  },
+  "infobox": {
+    "title": "Member of the \u00b7 United States Atomic Energy Commission",
+    "data": {
+      "Member of the \u00b7 United States Atomic Energy Commission": "In office \u00b7 March 15, 1955 \u2013 February 8, 1957",
+      "President": "Dwight D. Eisenhower",
+      "Preceded by": "Eugene M. Zuckert",
+      "Succeeded by": "John S. Graham"
+    }
+  }
+}

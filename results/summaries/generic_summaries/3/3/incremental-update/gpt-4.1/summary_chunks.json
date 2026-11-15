@@ -1,0 +1,72 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Overview of Transhumanism\nTranshumanism promotes enhancing human capacities and lifespan through technology, shaped by secular, religious, and spiritual viewpoints.",
+        "text_original": "Transhumanism promotes enhancing human capacities and lifespan through technology, shaped by secular, religious, and spiritual viewpoints",
+        "idx_start": 30,
+        "idx_end": 167
+    },
+    {
+        "document_idx": null,
+        "text": "# Historical Development\nTranshumanist thought originates from ancient aspirations for immortality, evolving through theorists (Haldane, Huxley), organizations (Extropy Institute, Humanity+), academic initiatives, and institutions like Singularity University. Science fiction and media have also shaped public opinion.",
+        "text_original": "Transhumanist thought originates from ancient aspirations for immortality, evolving through theorists (Haldane, Huxley), organizations (Extropy Institute, Humanity+), academic initiatives, and institutions like Singularity University. Science fiction and media have also shaped public opinion",
+        "idx_start": 197,
+        "idx_end": 489
+    },
+    {
+        "document_idx": null,
+        "text": "# Core Themes and Debates\nThe movement centers on cognitive and morphological freedom, ethical human enhancement, and issues like singularitarianism, with technologies such as AI, neural implants, nanotech, and mind uploading. Major debates include risks versus benefits, identity, dehumanization, exclusion, equity, and existential threats.",
+        "text_original": "The movement centers on cognitive and morphological freedom, ethical human enhancement, and issues like singularitarianism, with technologies such as AI, neural implants, nanotech, and mind uploading. Major debates include risks versus benefits, identity, dehumanization, exclusion, equity, and existential threats",
+        "idx_start": 520,
+        "idx_end": 834
+    },
+    {
+        "document_idx": null,
+        "text": "# Accelerationism: Foundations, Types, and Criticisms\nAccelerationism advocates for rapid technological progress, particularly \"effective accelerationism\" (e/acc) in areas like AI, yet faces criticism related to instability, unchecked corporate influence, and ethical extremism.",
+        "text_original": "Accelerationism advocates for rapid technological progress, particularly \"effective accelerationism\" (e/acc) in areas like AI, yet faces criticism related to instability, unchecked corporate influence, and ethical extremism",
+        "idx_start": 893,
+        "idx_end": 1116
+    },
+    {
+        "document_idx": null,
+        "text": "# Ethics and Regulation of AI and Robotics\nU.S. AI governance features a complex mix of federal, state, and local regulation:\n- **Federal Initiatives (2018\u20132025):** Agencies have set safety standards and civil rights protections, including the AI Bill of Rights and President Biden\u2019s executive order on AI ethics. President Trump\u2019s policies shifted toward deregulation and addressing deepfake risks. Authority tensions continue.\n- **State and Local Actions:** Bias audits are required for automated hiring in NYC; Utah and Tennessee regulate disclosure and liability for deepfakes; California\u2019s AI safety bill was vetoed.\n- **Enforcement and Perspectives:** The FTC enforces AI compliance amidst ongoing debates about civil rights, algorithmic bias, and diversity in AI, as public support remains moderate.\nInternational organizations (IEEE, EU, OECD, UNESCO) encourage transparency, fairness, privacy, and accountability for high-risk AI.",
+        "text_original": "U.S. AI governance features a complex mix of federal, state, and local regulation:\n\n- **Federal Initiatives (2018\u20132025):** Agencies have set safety standards and civil rights protections, including the AI Bill of Rights and President Biden\u2019s executive order on AI ethics. President Trump\u2019s policies shifted toward deregulation and addressing deepfake risks. Authority tensions continue.\n- **State and Local Actions:** Bias audits are required for automated hiring in NYC; Utah and Tennessee regulate disclosure and liability for deepfakes; California\u2019s AI safety bill was vetoed.\n- **Enforcement and Perspectives:** The FTC enforces AI compliance amidst ongoing debates about civil rights, algorithmic bias, and diversity in AI, as public support remains moderate.\n\nInternational organizations (IEEE, EU, OECD, UNESCO) encourage transparency, fairness, privacy, and accountability for high-risk AI",
+        "idx_start": 1164,
+        "idx_end": 2061
+    },
+    {
+        "document_idx": null,
+        "text": "# Deepfakes: Technology, Societal Impact, and Regulation\nDeepfake technology is prominent in entertainment, but raises serious concerns about identity, privacy, and misinformation. Countermeasures involve audiovisual detection, blockchain, media literacy, and legal remedies. Laws increasingly target deepfake disclosure and liability, including voice cloning.",
+        "text_original": "Deepfake technology is prominent in entertainment, but raises serious concerns about identity, privacy, and misinformation. Countermeasures involve audiovisual detection, blockchain, media literacy, and legal remedies. Laws increasingly target deepfake disclosure and liability, including voice cloning",
+        "idx_start": 2123,
+        "idx_end": 2425
+    },
+    {
+        "document_idx": null,
+        "text": "# Technological Singularity and Evolutionary Transition\nAs digital technologies fuse with human biology, humanity faces an evolutionary transition. An \"intelligence explosion\"\u2014rapid AI advancement potentially surpassing human cognition\u2014is a focal point for theorists like Lem, Vinge, Moravec, Solomonoff, and Kurzweil. Key issues include socioeconomic, ethical, and existential implications, with proposed outcomes such as superintelligence, mind uploading, nanotech breakthroughs, and digital immortality.",
+        "text_original": "As digital technologies fuse with human biology, humanity faces an evolutionary transition. An \"intelligence explosion\"\u2014rapid AI advancement potentially surpassing human cognition\u2014is a focal point for theorists like Lem, Vinge, Moravec, Solomonoff, and Kurzweil. Key issues include socioeconomic, ethical, and existential implications, with proposed outcomes such as superintelligence, mind uploading, nanotech breakthroughs, and digital immortality",
+        "idx_start": 2486,
+        "idx_end": 2935
+    },
+    {
+        "document_idx": null,
+        "text": "# Philosophical Contributions\nJohn L. Pollock's work on defeasible reasoning and AI architectures (OSCAR) informs logic, cognitive science, and legal reasoning.",
+        "text_original": "John L. Pollock's work on defeasible reasoning and AI architectures (OSCAR) informs logic, cognitive science, and legal reasoning",
+        "idx_start": 2970,
+        "idx_end": 3099
+    },
+    {
+        "document_idx": null,
+        "text": "# Cultural Reflections\nFrom \"Frankenstein\" to \"Black Mirror,\" cultural works explore the ethics and consequences of technology, while deepfakes prompt new questions about authenticity and identity.",
+        "text_original": "From \"Frankenstein\" to \"Black Mirror,\" cultural works explore the ethics and consequences of technology, while deepfakes prompt new questions about authenticity and identity",
+        "idx_start": 3127,
+        "idx_end": 3300
+    },
+    {
+        "document_idx": null,
+        "text": "# Political Influence and Continuing Discourse\nIn August 2025, Silicon Valley companies and investors pledged $200 million to pro-AI super PACs (Meta California, Leading the Future) to support AI-friendly political candidates in the 2026 elections. Ongoing debates focus on identity, sustainability, equity, civil rights, regulation, and balancing innovation against risk as technology further integrates into society.",
+        "text_original": "In August 2025, Silicon Valley companies and investors pledged $200 million to pro-AI super PACs (Meta California, Leading the Future) to support AI-friendly political candidates in the 2026 elections. Ongoing debates focus on identity, sustainability, equity, civil rights, regulation, and balancing innovation against risk as technology further integrates into society",
+        "idx_start": 3352,
+        "idx_end": 3722
+    }
+]

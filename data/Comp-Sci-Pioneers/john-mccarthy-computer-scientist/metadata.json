@@ -1,0 +1,29 @@
+{
+  "id": 308362,
+  "title": "John McCarthy (computer scientist)",
+  "url": "https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)",
+  "path": "Comp-Sci-Pioneers\\john-mccarthy-computer-scientist",
+  "summary": {
+    "chars": 799,
+    "tokens": 167
+  },
+  "document": {
+    "chars": 11745,
+    "tokens": 2599
+  },
+  "infobox": {
+    "title": "John McCarthy",
+    "data": {
+      "Born": "September 4, 1927 \u00b7 Boston, Massachusetts, U.S.",
+      "Died": "October 24, 2011 (aged 84) \u00b7 Stanford, California, U.S.",
+      "Education": "California Institute of Technology (BS) \u00b7 Princeton University (MS, PhD)",
+      "Known for": "Artificial intelligence, Lisp, circumscription, situation calculus",
+      "Spouse(s)": "Vera Watson (her death, 1978) \u00b7 Carolyn Talcott",
+      "Awards": "Turing Award (1971) \u00b7 Computer Pioneer Award (1985) \u00b7 IJCAI Award for Research Excellence (1985) \u00b7 Kyoto Prize (1988) \u00b7 National Medal of Science (1990) \u00b7 Benjamin Franklin Medal (2003)",
+      "Fields": "Computer science",
+      "Institutions": "Stanford University, Massachusetts Institute of Technology, Dartmouth College, Princeton University",
+      "Doctoral advisor": "Donald C. Spencer",
+      "Doctoral students": "Ruzena Bajcsy \u00b7 Ramanathan V. Guha \u00b7 Barbara Liskov \u00b7 Hans Moravec \u00b7 Raj Reddy"
+    }
+  }
+}

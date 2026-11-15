@@ -1,0 +1,113 @@
+# Summary of Education in Mexico, New Zealand, Japan, Saudi Arabia, the Netherlands, Bangladesh, South Korea, Canada, Russia, the Czech Republic, Pakistan, and Poland (2024–2025)
+
+---
+
+## Education in Mexico
+
+Mexico’s education system spans preschool to higher education with compulsory schooling through high school across public, private, and charter schools. Although primary enrollment is high, secondary and tertiary completion remain uneven, especially in rural areas due to infrastructure deficits. Student achievement lags behind OECD averages. The 2013 reform targeted union corruption and improved oversight. Higher education adopts U.S. and European models, promoting indigenous enrollment via intercultural universities. Literacy grew from 83% in 1980 to over 94% by 2018, rooted in precolonial and colonial legacies.
+
+---
+
+## Education in New Zealand
+
+New Zealand’s secular, free education is compulsory from ages 6 to 16, incorporating early childhood and Māori cultural education. State-funded public schools operate alongside state-integrated and private schools influenced by zoning. Māori language education is officially supported since 1987. Technical education integrates with tertiary funding through subsidies and loans. Challenges include declining math scores, ethnic disparities, and bullying.
+
+---
+
+## Education in Japan
+
+Japan mandates nine years of compulsory education, followed by diverse upper secondary tracks with near-universal enrollment. Post-WWII reforms democratized curricula but later recentralized them. The 1980s Yutori reforms eased academic pressure but were reversed by 2011 over skill concerns. The academic year is April–March, focusing on Japanese, math, science, English (since 2011), and moral education. High-stakes exams dominate entry to universities, supported by cram schools, linked to mental health challenges. Special needs education has expanded since the 1990s.
+
+---
+
+## Education in Saudi Arabia
+
+Saudi Arabia integrates Islamic and secular curricula emphasizing loyalty and Islamic values. Kindergarten is optional; primary compulsory; intermediate and secondary schools offer multiple tracks with high enrollment. Recent reforms reduce Islamic content, introduce earlier English instruction, and enhance analytical and vocational skills through the $2 billion Tatweer program, revising textbooks to remove intolerance. Female university enrollment surpasses males despite low female workforce participation. Gifted education is limited (~1%), and special education faces stigma and infrastructure gaps. Literacy has improved, though rote learning and limited critical thinking persist.
+
+---
+
+## Education in the Netherlands
+
+Compulsory education begins at age five, with publicly funded public and religious schools equally supported; private schools are rare. At age 12, standardized testing directs students into tracked secondary education: VMBO (60%, pre-vocational), HAVO (senior general), and VWO (pre-university). Postsecondary options include MBO vocational training, HBO applied sciences universities, and WO research universities accredited since 2002. Early tracking risks limiting gifted students and reinforcing social inequality, contributing to declining international rankings. By 2015, 152 international schools offer English or international curricula.
+
+---
+
+## Education in Bangladesh
+
+Bangladesh’s education includes pre-primary to higher secondary stages under general and Islamic boards (Qawmi and Alia) in Bengali or English. Urban-rural disparities affect quality and administration. Secondary education culminates in SSC and HSC exams; Science dominates urban streams. Public, private, and international universities coexist with technical/vocational training. NGOs like BRAC provide extensive non-formal education. Government initiatives promote compulsory primary education and girls’ schooling through stipends. Literacy increased from ~52% in 2011 to nearly 75% in 2022 despite low spending (~2% GDP), high absenteeism (~15.5%), dropout rates, insufficient higher education capacity, and rural gender gaps. Rohingya refugees study Myanmar curricula supported by UNICEF.
+
+---
+
+## Education in South Korea
+
+Rooted in Confucianism, South Korea’s 6-4-3-4 system integrates academic and vocational tracks. Literacy rose from 22% in 1945 to over 90% by the 1980s. The 2025 credit system emphasizes course choice. Education covers nursery to tertiary levels with subjects including Korean, math, science, moral education, and early English instruction. Mobile phones were banned in schools (2023); corporal punishment ended in 2011. Secondary completion stands at 97%, split into general and specialized schools; vocational schools (20%) feature Meister Schools with close industry connections and near-zero unemployment.
+
+Higher education, modeled on the U.S., includes ~190 colleges serving ~2 million students, 154 junior colleges, and 1,100+ graduate schools, mostly private. Admissions rely on CSAT scores, school grades, and extracurriculars; elite SKY universities admit top students. Bachelor’s degrees last four years; professional degrees up to six years. Challenges include elite stratification, job-major mismatches, vocational stigma, mental health issues, declining teacher authority, school violence, and security concerns.
+
+---
+
+## Education in Canada
+
+Canada’s provincially governed system varies in grade structures, with compulsory schooling generally from ages 5–7 to 16–18. Public schools follow provincial curricula alongside some charter schools (Alberta). Secondary ends at Grade 12 (Grade 11 in Quebec) and offers International Baccalaureate and AP programs. Postsecondary includes universities offering bachelor’s, master’s, and doctoral degrees; colleges provide certificates, diplomas, some bachelor's programs, apprenticeships, and trades certifications. Quebec requires CEGEP for pre-university and professional education. Universities are globally renowned research centers. Funding and faith-based school policies vary regionally, with ongoing inclusion debates. Tertiary attainment is high (~51% by 2010), though concerns over grade inflation persist. Reforms expand early childhood education, immigrant graduate retention, and inclusion.
+
+---
+
+## Education in Russia
+
+Russia mandates nine years of compulsory education starting at age 6–7, with a fixed curriculum graded 2–5 and no electives. Students may pursue senior high or vocational training; male conscription timing complicates transitions. Since 2009, the Unified State Examination standardizes university admissions and curbs corruption.
+
+Roughly 20% of children need special education for mental disabilities, offered through segregated or integrated settings, though exclusion remains common. Over 50% of adults hold tertiary degrees—double OECD average—with 8.1 million students (5.2% foreign). State and private universities exist amid federal university consolidations potentially reducing regional access. Transition from traditional specialist diplomas (5–6 years) to Bologna bachelor-master degrees is underway, though bachelor’s degrees lack full labor market recognition.
+
+Postgraduate titles include Candidate of Sciences (Ph.D. equivalent) and Doctor of Sciences (habilitation), requiring academic and mentoring achievements. Military postgraduate education has academies (no degree) and adjunctura (Candidate of Military Sciences).
+
+Since 2021, laws regulate state "educational outreach"; "patriotic lessons" promote national identity and government narratives with coercion. President Putin endorses these policies.
+
+Russia supports minority language education for ~24.8 million speakers via 6,300+ full-language schools and 10,500+ subject offerings. Since 2024, foreign students must pass a Russian language exam for school admission.
+
+---
+
+## Education in the Czech Republic
+
+Elementary education spans nine grades in two stages: Grades 1–5 with one core teacher; Grades 6–9 add a second foreign language and additional subjects. Secondary entrance exams in Czech and math/English have a 12.3% failure rate (2025). Secondary options include vocational (2–3 years), professional schools and lyceums (4 years), grammar schools (4 years), and special/practical schools for disabilities. The maturita exam is needed for university admission.
+
+Tertiary education involves public/private universities, professional schools, and police/military academies. Public universities charge no tuition for first-time Czech students; private schools charge fees (€2,000–10,000). Degrees follow Bologna: bachelor (3 years), master (2–5 years), and Ph.D. The academic year runs September to June with two semesters and multiple holidays.
+
+---
+
+## Education in Pakistan
+
+Pakistan’s education system spans preschool to tertiary with curricula often in English and regional languages. Primary attendance (~66%) lags behind global averages. Secondary ends with SSC and HSSC exams across diverse streams. Private schools offer British O- and A-levels.
+
+Tertiary graduation was 6% in 2007, aiming for 15% by 2020. Professional degrees last 4–5 years with accreditation. Teacher education confronts theoretical bias and poor infrastructure. Madrassas combine religious and secular learning, serving many poor families.
+
+Severe gender disparities persist; female enrollment trails due to socio-cultural and infrastructural barriers despite legal access frameworks. Quality suffers from outdated curricula and inadequate facilities. TVET faces competency and relevance challenges.
+
+COVID-19 expanded distance learning via Teleschool TV and open universities, improving rural and female access constrained by infrastructure.
+
+Education spending is ~2% GDP with plans to increase; many schools lack safety and investment.
+
+Notable universities (NUST, Quaid-i-Azam) have regional rankings. Pakistan produces renowned scientists in various fields.
+
+Science education is ideological, with common evolution rejection and biased textbooks marginalizing minorities.
+
+Literacy rose to ~61% in 2023 with significant regional and gender disparities. Pakistan hosts 439 international schools; pathways exist for overseas study, especially in China.
+
+---
+
+## Education in Poland
+
+Compulsory education starts at age 6 or 7, structured as eight years of primary (grades 1–8) since 2017, replacing the former three-year junior high (gimnazjum). Upper secondary includes general (liceum, 4 years) leading to the Matura exam, vocational options via technical schools (5 years, with Matura) and basic vocational schools (3 years), and special schools for handicapped students.
+
+Tertiary education follows Bologna with typical bachelor (3 years), master (2 years), and doctoral degrees (~3 years). Grading ranges from 2.0 (fail) to 5.0 (highest) with semester evaluations and retake opportunities. Foreign language instruction is common, mainly English (68%) and German (33%).
+
+Poland has a rich educational history including the 1364 Jagiellonian University and the first state education ministry (1773). Compulsory education formally began in 1919 at age 7, now ending at 18. Post-1999 reforms introduced the 6+3+3 model, markedly improving OECD performance in reading, science, and math.
+
+### 2017 Reforms and Policy
+
+The 2017 PiS government restructured education to eight years of primary and 4/5 years of high school. History curriculum revisions emphasize Polish and Eurocentric perspectives, focusing on political and military leaders and nobility, downplaying lower classes, and altering terminology related to communism and socialism.
+
+Following a 2006 student suicide linked to sexual molestation, Poland instituted a "zero tolerance" policy on school violence. Teachers gained civil servant status for legal protection; aggressive students may face community service, parents can be fined, and teachers are legally required to report violent acts under threat of imprisonment.
+
+---
+
+This comprehensive synthesis presents education systems, structures, reforms, challenges, cultural aspects, and data across these countries in 2024–2025, highlighting diverse historical contexts, ongoing policy shifts, and educational outcomes globally.

@@ -1,0 +1,65 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education System Overviews\n## Portugal\nPortugal mandates free education for ages 6\u201318, covering early childhood, basic, upper-secondary, and vocational tracks. Persistent challenges include dropout rates, literacy, diploma recognition, and safety concerns.",
+        "text_original": "Portugal mandates free education for ages 6\u201318, covering early childhood, basic, upper-secondary, and vocational tracks. Persistent challenges include dropout rates, literacy, diploma recognition, and safety concerns",
+        "idx_start": 44,
+        "idx_end": 260
+    },
+    {
+        "document_idx": null,
+        "text": "# Education System Overviews\n## South Africa\nSouth Africa\u2019s Grade R\u201312 system is state-funded with a quintile framework supporting \u201cNo Fee\u201d schools for disadvantaged communities. Key challenges involve financial constraints, infrastructure, teacher shortages, overcrowding, rural connectivity gaps, and pronounced inequality.",
+        "text_original": "South Africa\u2019s Grade R\u201312 system is state-funded with a quintile framework supporting \u201cNo Fee\u201d schools for disadvantaged communities. Key challenges involve financial constraints, infrastructure, teacher shortages, overcrowding, rural connectivity gaps, and pronounced inequality",
+        "idx_start": 280,
+        "idx_end": 559
+    },
+    {
+        "document_idx": null,
+        "text": "# Education System Overviews\n## Australia\nAustralia requires schooling up to age 17 across public, private, and Catholic schools, regulated by state and national authorities. The system emphasizes inclusivity and international pathways. Ongoing concerns include achievement gaps, Indigenous disparities, violence, and regulatory complexity.",
+        "text_original": "Australia requires schooling up to age 17 across public, private, and Catholic schools, regulated by state and national authorities. The system emphasizes inclusivity and international pathways. Ongoing concerns include achievement gaps, Indigenous disparities, violence, and regulatory complexity",
+        "idx_start": 576,
+        "idx_end": 873
+    },
+    {
+        "document_idx": null,
+        "text": "# Education System Overviews\n## Finland\nFinland provides free, equitable education emphasizing teacher autonomy, well-being, and broad academic/vocational choices. Higher education is tuition-free for EU/EEA students, with reforms focusing on lifelong learning and technology.",
+        "text_original": "Finland provides free, equitable education emphasizing teacher autonomy, well-being, and broad academic/vocational choices. Higher education is tuition-free for EU/EEA students, with reforms focusing on lifelong learning and technology",
+        "idx_start": 888,
+        "idx_end": 1123
+    },
+    {
+        "document_idx": null,
+        "text": "# Education System Overviews\n## Romania\nRomania enforces 15 years of compulsory education, starting with a preparatory year and diverse secondary paths. Major challenges are urban-rural divides, funding, informal fees, minority inclusion, early language policies, and alignment with European Bologna standards.",
+        "text_original": "Romania enforces 15 years of compulsory education, starting with a preparatory year and diverse secondary paths. Major challenges are urban-rural divides, funding, informal fees, minority inclusion, early language policies, and alignment with European Bologna standards",
+        "idx_start": 1138,
+        "idx_end": 1407
+    },
+    {
+        "document_idx": null,
+        "text": "# Education System Overviews\n## United States\nThe U.S. system includes optional preschool, compulsory K\u201312, and varied postsecondary options, with diverse institutions and local funding leading to disparities. Issues include completion times, cost and debt, adjunct reliance, standardized testing, curriculum debates, teacher shortages, immigrant integration, and higher education access.",
+        "text_original": "The U.S. system includes optional preschool, compulsory K\u201312, and varied postsecondary options, with diverse institutions and local funding leading to disparities. Issues include completion times, cost and debt, adjunct reliance, standardized testing, curriculum debates, teacher shortages, immigrant integration, and higher education access",
+        "idx_start": 1428,
+        "idx_end": 1769
+    },
+    {
+        "document_idx": null,
+        "text": "# Education System Overviews\n## Malaysia\nMalaysia\u2019s education system includes Malay, Chinese, Tamil, and English-medium schools, shaped by language and inclusion reforms. Primary education is compulsory; secondary and higher education options vary, with university admissions favoring bumiputeras. Challenges center on racial polarization, gender and geographic disparities, infrastructure, and support for special needs students.",
+        "text_original": "Malaysia\u2019s education system includes Malay, Chinese, Tamil, and English-medium schools, shaped by language and inclusion reforms. Primary education is compulsory; secondary and higher education options vary, with university admissions favoring bumiputeras. Challenges center on racial polarization, gender and geographic disparities, infrastructure, and support for special needs students",
+        "idx_start": 1785,
+        "idx_end": 2173
+    },
+    {
+        "document_idx": null,
+        "text": "# Education System Overviews\n## Philippines\nThe Philippines offers public, private, international, science, Chinese, and Islamic schools, with the academic year running June\u2013March and uniforms optional since 2008. The reformed K\u201312 system features kindergarten, elementary, junior high, and senior high, with compulsory curricula and specialized tracks. Technical-vocational education provides certifications via TESDA, and alternative learning options like the Alternative Learning System serve out-of-school youth. Curriculum reforms use 19 mother tongues, Filipino, and English, alongside initiatives such as Matatag (2023).\nHigher education is regulated by CHED, encompassing public and private institutions, with admissions via university entrance exams. Policy aims include access, Filipino identity development, and Indigenous cultural relevance.\nDespite rising enrollment, the Philippines grapples with classroom shortages, limited funding, large class sizes, and modest teacher pay, resulting in poor learning outcomes and underperformance in international assessments. The COVID-19 pandemic worsened instructional losses. There are mismatches between education and job market needs, contributing to brain drain, and persistent calls for increased investment and systemic reform to address inequalities and improve teacher quality.",
+        "text_original": "The Philippines offers public, private, international, science, Chinese, and Islamic schools, with the academic year running June\u2013March and uniforms optional since 2008. The reformed K\u201312 system features kindergarten, elementary, junior high, and senior high, with compulsory curricula and specialized tracks. Technical-vocational education provides certifications via TESDA, and alternative learning options like the Alternative Learning System serve out-of-school youth. Curriculum reforms use 19 mother tongues, Filipino, and English, alongside initiatives such as Matatag (2023).\n\nHigher education is regulated by CHED, encompassing public and private institutions, with admissions via university entrance exams. Policy aims include access, Filipino identity development, and Indigenous cultural relevance.\n\nDespite rising enrollment, the Philippines grapples with classroom shortages, limited funding, large class sizes, and modest teacher pay, resulting in poor learning outcomes and underperformance in international assessments. The COVID-19 pandemic worsened instructional losses. There are mismatches between education and job market needs, contributing to brain drain, and persistent calls for increased investment and systemic reform to address inequalities and improve teacher quality",
+        "idx_start": 2192,
+        "idx_end": 3489
+    },
+    {
+        "document_idx": null,
+        "text": "# Common Challenges Across Systems\n- Resource limitations (funding, infrastructure, teacher supply)\n- Disparities based on geography, socioeconomic status, minority group, or language\n- Curriculum alignment and relevance for workforce needs\n- Impact of recent crises, such as the COVID-19 pandemic\n- Ongoing reforms emphasizing equity, inclusivity, and adaptability to global standards",
+        "text_original": "Resource limitations (funding, infrastructure, teacher supply)\n- Disparities based on geography, socioeconomic status, minority group, or language\n- Curriculum alignment and relevance for workforce needs\n- Impact of recent crises, such as the COVID-19 pandemic\n- Ongoing reforms emphasizing equity, inclusivity, and adaptability to global standards",
+        "idx_start": 3536,
+        "idx_end": 3884
+    }
+]

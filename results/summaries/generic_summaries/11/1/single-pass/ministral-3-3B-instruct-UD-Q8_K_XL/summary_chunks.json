@@ -1,0 +1,184 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Transformer (Deep Learning)\n## History\nTransformers emerged as a breakthrough in sequence modeling, overcoming limitations of recurrent neural networks (RNNs) like the vanishing gradient problem. Early models, such as LSTM (1995), addressed these issues but still operated sequentially. The **Transformer** (2017) introduced self-attention mechanisms, enabling parallel processing of sequences, fundamentally altering NLP. It replaced RNNs in seq2seq tasks, notably in machine translation, and became foundational for modern AI, including large language models like GPT-3 and BERT.",
+        "text_original": "Transformers emerged as a breakthrough in sequence modeling, overcoming limitations of recurrent neural networks (RNNs) like the vanishing gradient problem. Early models, such as LSTM (1995), addressed these issues but still operated sequentially. The **Transformer** (2017) introduced self-attention mechanisms, enabling parallel processing of sequences, fundamentally altering NLP. It replaced RNNs in seq2seq tasks, notably in machine translation, and became foundational for modern AI, including large language models like GPT-3 and BERT",
+        "idx_start": 54,
+        "idx_end": 595
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer (Deep Learning)\n## Attention with Seq2Seq\nBefore transformers, seq2seq models (2014) used LSTMs or GRUs, which processed sequences sequentially, limiting efficiency. Attention mechanisms (RNN Search, 2016) addressed this by allowing models to focus on relevant parts of input sequences during decoding. Transformers adopted self-attention, enabling parallel processing and superior performance in tasks like machine translation, surpassing statistical methods.",
+        "text_original": "Before transformers, seq2seq models (2014) used LSTMs or GRUs, which processed sequences sequentially, limiting efficiency. Attention mechanisms (RNN Search, 2016) addressed this by allowing models to focus on relevant parts of input sequences during decoding. Transformers adopted self-attention, enabling parallel processing and superior performance in tasks like machine translation, surpassing statistical methods",
+        "idx_start": 630,
+        "idx_end": 1047
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer (Deep Learning)\n## Parallelizing Attention\nTransformers\u2019 self-attention mechanism, though powerful, required quadratic computation time relative to sequence length. Early attempts to parallelize attention (e.g., decomposable attention) improved efficiency but were limited. The **Transformer** (2017) introduced multi-head attention, allowing parallel processing across multiple attention heads, enabling widespread adoption in large-scale models.",
+        "text_original": "Transformers\u2019 self-attention mechanism, though powerful, required quadratic computation time relative to sequence length. Early attempts to parallelize attention (e.g., decomposable attention) improved efficiency but were limited. The **Transformer** (2017) introduced multi-head attention, allowing parallel processing across multiple attention heads, enabling widespread adoption in large-scale models",
+        "idx_start": 1083,
+        "idx_end": 1486
+    },
+    {
+        "document_idx": null,
+        "text": "# Transformer (Deep Learning)\n## AI Boom Era\nTransformers became central to the AI boom, powering generative models like ELMo (2018) and BERT (2018). BERT, an encoder-only transformer, improved contextual embeddings, while GPT series (decoder-only) excelled in text generation. Beyond text, transformers extended to vision (Vision Transformer), speech (Whisper), and multimodal tasks, driving advancements in AI applications.",
+        "text_original": "Transformers became central to the AI boom, powering generative models like ELMo (2018) and BERT (2018). BERT, an encoder-only transformer, improved contextual embeddings, while GPT series (decoder-only) excelled in text generation. Beyond text, transformers extended to vision (Vision Transformer), speech (Whisper), and multimodal tasks, driving advancements in AI applications",
+        "idx_start": 1510,
+        "idx_end": 1889
+    },
+    {
+        "document_idx": null,
+        "text": "# Training Methods\n## Stabilizing Training\nThe original transformer architecture struggled with convergence. Warmup learning rates and layer normalization (pre-LN) were introduced to stabilize training. Pre-LN (2018) simplified training by eliminating the need for warmup, enhancing model performance.",
+        "text_original": "The original transformer architecture struggled with convergence. Warmup learning rates and layer normalization (pre-LN) were introduced to stabilize training. Pre-LN (2018) simplified training by eliminating the need for warmup, enhancing model performance",
+        "idx_start": 1952,
+        "idx_end": 2209
+    },
+    {
+        "document_idx": null,
+        "text": "# Training Methods\n## Pretrain-Finetune\nTransformers are typically pretrained using self-supervised learning on large datasets (e.g., The Pile), followed by fine-tuning on task-specific data. Pretraining tasks include language modeling, next-sentence prediction, and question answering. This approach leverages vast data to learn generalizable features, improving downstream task performance.",
+        "text_original": "Transformers are typically pretrained using self-supervised learning on large datasets (e.g., The Pile), followed by fine-tuning on task-specific data. Pretraining tasks include language modeling, next-sentence prediction, and question answering. This approach leverages vast data to learn generalizable features, improving downstream task performance",
+        "idx_start": 2239,
+        "idx_end": 2590
+    },
+    {
+        "document_idx": null,
+        "text": "# Training Methods\n## Tasks\nTransformers handle three main task types:\n- **Masked Language Modeling** : Predict masked tokens based on context.\n- **Autoregressive Modeling** : Generate sequences step-by-step, conditioned on previous tokens.\n- **Prefix Language Modeling** : Predict tokens based on a prefix of the sequence.",
+        "text_original": "Transformers handle three main task types:\n- **Masked Language Modeling**: Predict masked tokens based on context.\n- **Autoregressive Modeling**: Generate sequences step-by-step, conditioned on previous tokens.\n- **Prefix Language Modeling**: Predict tokens based on a prefix of the sequence",
+        "idx_start": 2608,
+        "idx_end": 2899
+    },
+    {
+        "document_idx": null,
+        "text": "# Architecture\n## Tokenization\nText is converted into numerical tokens via tokenizers (e.g., Byte Pair Encoding, BPE). Tokens are mapped to integers, enabling matrix operations in transformers. Special tokens like `[CLS]` (classification) and `[SEP]` (separator) are used for structured inputs.",
+        "text_original": "Text is converted into numerical tokens via tokenizers (e.g., Byte Pair Encoding, BPE). Tokens are mapped to integers, enabling matrix operations in transformers. Special tokens like `[CLS]` (classification) and `[SEP]` (separator) are used for structured inputs",
+        "idx_start": 2950,
+        "idx_end": 3212
+    },
+    {
+        "document_idx": null,
+        "text": "# Architecture\n## Embedding and Positional Encoding\nTokens are converted into dense vectors via embedding layers. Positional encoding ensures transformers understand sequence order, as they lack inherent positional information. Sinusoidal positional encodings (original Transformer) or learned embeddings (e.g., RoPE) are used.",
+        "text_original": "Tokens are converted into dense vectors via embedding layers. Positional encoding ensures transformers understand sequence order, as they lack inherent positional information. Sinusoidal positional encodings (original Transformer) or learned embeddings (e.g., RoPE) are used",
+        "idx_start": 3258,
+        "idx_end": 3532
+    },
+    {
+        "document_idx": null,
+        "text": "# Architecture\n## Encoder-Decoder Architecture\nTransformers use encoder-decoder structures:\n- **Encoder** : Processes input sequences via self-attention and feedforward layers, producing contextualized representations.\n- **Decoder** : Uses cross-attention to incorporate encoder outputs and self-attention to generate sequences autoregressively.",
+        "text_original": "Transformers use encoder-decoder structures:\n- **Encoder**: Processes input sequences via self-attention and feedforward layers, producing contextualized representations.\n- **Decoder**: Uses cross-attention to incorporate encoder outputs and self-attention to generate sequences autoregressively",
+        "idx_start": 3573,
+        "idx_end": 3868
+    },
+    {
+        "document_idx": null,
+        "text": "# Architecture\n## Attention Mechanisms\n- **Scaled Dot-Product Attention** : Computes attention weights by scaling dot products of queries and keys, normalized by the square root of key dimension.\n- **Multihead Attention** : Combines multiple attention heads to capture diverse semantic relationships, improving model flexibility.",
+        "text_original": "Scaled Dot-Product Attention**: Computes attention weights by scaling dot products of queries and keys, normalized by the square root of key dimension.\n- **Multihead Attention**: Combines multiple attention heads to capture diverse semantic relationships, improving model flexibility",
+        "idx_start": 3905,
+        "idx_end": 4188
+    },
+    {
+        "document_idx": null,
+        "text": "# Architecture\n## Masked Attention\nCausal masking in decoders prevents tokens from attending to future positions, ensuring autoregressive generation. Non-masked attention allows cross-attention between encoder and decoder.",
+        "text_original": "Causal masking in decoders prevents tokens from attending to future positions, ensuring autoregressive generation. Non-masked attention allows cross-attention between encoder and decoder",
+        "idx_start": 4217,
+        "idx_end": 4403
+    },
+    {
+        "document_idx": null,
+        "text": "# Variants and Adaptations\n## Encoder-Only/Decoder-Only\n- **Encoder-Only** : Used for tasks like text embedding (BERT).\n- **Decoder-Only** : Used for text generation (GPT series).\n- **PrefixLM** : A decoder-only variant with prefix masking, enabling efficient generation.",
+        "text_original": "Encoder-Only**: Used for tasks like text embedding (BERT).\n- **Decoder-Only**: Used for text generation (GPT series).\n- **PrefixLM**: A decoder-only variant with prefix masking, enabling efficient generation",
+        "idx_start": 4483,
+        "idx_end": 4690
+    },
+    {
+        "document_idx": null,
+        "text": "# Variants and Adaptations\n## Efficient Implementations\n- **KV Caching** : Stores key-value pairs to avoid recomputation during inference.\n- **FlashAttention** : Optimizes attention computation for GPUs, reducing memory usage.\n- **Multi-Query Attention** : Reduces computational overhead by sharing keys and values across attention heads.",
+        "text_original": "KV Caching**: Stores key-value pairs to avoid recomputation during inference.\n- **FlashAttention**: Optimizes attention computation for GPUs, reducing memory usage.\n- **Multi-Query Attention**: Reduces computational overhead by sharing keys and values across attention heads",
+        "idx_start": 4732,
+        "idx_end": 5006
+    },
+    {
+        "document_idx": null,
+        "text": "# Variants and Adaptations\n## Multimodal Applications\nTransformers extend beyond text to vision (Vision Transformer), speech (Whisper), and multimodal tasks (e.g., DALL-E for image generation). These models leverage tokenization techniques for diverse modalities.",
+        "text_original": "Transformers extend beyond text to vision (Vision Transformer), speech (Whisper), and multimodal tasks (e.g., DALL-E for image generation). These models leverage tokenization techniques for diverse modalities",
+        "idx_start": 5042,
+        "idx_end": 5250
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Network Architecture\nRBF networks consist of three layers:\n- **Input Layer** : Receives input vectors.\n- **Hidden Layer** : Uses RBF activation functions (e.g., Gaussian) centered at learned parameters.\n- **Output Layer** : Linear combination of hidden layer outputs.",
+        "text_original": "RBF networks consist of three layers:\n- **Input Layer**: Receives input vectors.\n- **Hidden Layer**: Uses RBF activation functions (e.g., Gaussian) centered at learned parameters.\n- **Output Layer**: Linear combination of hidden layer outputs",
+        "idx_start": 5334,
+        "idx_end": 5576
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Training\nRBFNs are trained in two steps:\n1. **Center Selection** : Randomly sampled or via clustering (e.g., k-means).\n2. **Weight Optimization** : Linear weights are adjusted to minimize reconstruction error (e.g., least squares).",
+        "text_original": "RBFNs are trained in two steps:\n1. **Center Selection**: Randomly sampled or via clustering (e.g., k-means).\n2. **Weight Optimization**: Linear weights are adjusted to minimize reconstruction error (e.g., least squares",
+        "idx_start": 5597,
+        "idx_end": 5815
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function Network (RBFN)\n## Applications\nRBFNs are used for function approximation, time series prediction, and control systems. Their local nature makes them robust to noise and outliers.",
+        "text_original": "RBFNs are used for function approximation, time series prediction, and control systems. Their local nature makes them robust to noise and outliers",
+        "idx_start": 5841,
+        "idx_end": 5987
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM)\n## Background\nCAM methods visualize neural network decisions by highlighting discriminative regions. **Class Activation Mapping (CAM)** and **Gradient-Weighted CAM (Grad-CAM)** are foundational techniques:\n- **CAM** : Uses global average pooling (GAP) to generate class-specific heatmaps.\n- **Grad-CAM** : Computes gradients of class scores to identify influential regions.",
+        "text_original": "CAM methods visualize neural network decisions by highlighting discriminative regions. **Class Activation Mapping (CAM)** and **Gradient-Weighted CAM (Grad-CAM)** are foundational techniques:\n- **CAM**: Uses global average pooling (GAP) to generate class-specific heatmaps.\n- **Grad-CAM**: Computes gradients of class scores to identify influential regions",
+        "idx_start": 6055,
+        "idx_end": 6411
+    },
+    {
+        "document_idx": null,
+        "text": "# Class Activation Mapping (CAM)\n## Fine-Tuned Versions\n- **Guided Grad-CAM** : Combines Grad-CAM with guided backpropagation for sharper visualizations.\n- **Grad-CAM++** : Uses higher-order gradients to improve localization accuracy.\n- **Score-CAM** : Replaces gradients with model confidence scores for robustness.",
+        "text_original": "Guided Grad-CAM**: Combines Grad-CAM with guided backpropagation for sharper visualizations.\n- **Grad-CAM++**: Uses higher-order gradients to improve localization accuracy.\n- **Score-CAM**: Replaces gradients with model confidence scores for robustness",
+        "idx_start": 6447,
+        "idx_end": 6699
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Mathematical Principles\nAn autoencoder consists of an encoder (compresses input) and a decoder (reconstructs input). Training involves minimizing reconstruction error, often using L2 loss or cross-entropy.",
+        "text_original": "An autoencoder consists of an encoder (compresses input) and a decoder (reconstructs input). Training involves minimizing reconstruction error, often using L2 loss or cross-entropy",
+        "idx_start": 6761,
+        "idx_end": 6941
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Variations\n- **Variational Autoencoder (VAE)** : Uses probabilistic models and KL divergence to enforce latent space structure.\n- **Sparse Autoencoder** : Encourages sparsity in latent representations for better feature learning.\n- **Denoising Autoencoder** : Learns robust representations by reconstructing noisy inputs.",
+        "text_original": "Variational Autoencoder (VAE)**: Uses probabilistic models and KL divergence to enforce latent space structure.\n- **Sparse Autoencoder**: Encourages sparsity in latent representations for better feature learning.\n- **Denoising Autoencoder**: Learns robust representations by reconstructing noisy inputs",
+        "idx_start": 6968,
+        "idx_end": 7270
+    },
+    {
+        "document_idx": null,
+        "text": "# Autoencoder\n## Applications\nAutoencoders are used for dimensionality reduction, anomaly detection, and image processing. They are also integral to modern AI systems like VAEs in Stable Diffusion and transformers in image generation.",
+        "text_original": "Autoencoders are used for dimensionality reduction, anomaly detection, and image processing. They are also integral to modern AI systems like VAEs in Stable Diffusion and transformers in image generation",
+        "idx_start": 7295,
+        "idx_end": 7498
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Architecture\nGNNs process graph-structured data using message passing layers:\n- **Message Passing** : Nodes update representations by aggregating messages from neighbors.\n- **Local Pooling** : Reduces graph size via downsampling (e.g., top-k pooling).\n- **Global Pooling** : Provides fixed-size graph representations (e.g., sum/mean).",
+        "text_original": "GNNs process graph-structured data using message passing layers:\n- **Message Passing**: Nodes update representations by aggregating messages from neighbors.\n- **Local Pooling**: Reduces graph size via downsampling (e.g., top-k pooling).\n- **Global Pooling**: Provides fixed-size graph representations (e.g., sum/mean",
+        "idx_start": 7564,
+        "idx_end": 7880
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Message Passing Layers\n- **Graph Convolutional Network (GCN)** : Uses spectral filtering for graph convolution.\n- **Graph Attention Network (GAT)** : Applies attention mechanisms to focus on relevant nodes.\n- **Gated Graph Sequence Neural Network (GGS-NN)** : Extends GNNs to sequence tasks.",
+        "text_original": "Graph Convolutional Network (GCN)**: Uses spectral filtering for graph convolution.\n- **Graph Attention Network (GAT)**: Applies attention mechanisms to focus on relevant nodes.\n- **Gated Graph Sequence Neural Network (GGS-NN)**: Extends GNNs to sequence tasks",
+        "idx_start": 7920,
+        "idx_end": 8180
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Network (GNN)\n## Applications\nGNNs are pivotal in protein folding (AlphaFold), social network analysis, and combinatorial optimization. They enable modeling of complex relationships in graph-structured data.",
+        "text_original": "GNNs are pivotal in protein folding (AlphaFold), social network analysis, and combinatorial optimization. They enable modeling of complex relationships in graph-structured data",
+        "idx_start": 8205,
+        "idx_end": 8381
+    }
+]

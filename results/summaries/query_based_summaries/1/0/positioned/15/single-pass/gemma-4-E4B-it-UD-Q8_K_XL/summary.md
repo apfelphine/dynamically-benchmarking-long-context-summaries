@@ -1,0 +1,5 @@
+## Ra.One Summary
+
+*Ra.One* introduces a new technology in London, operated by Barron Industries, that permits digital elements to cross into the real world via wireless transmissions. A video game is created, featuring a protagonist named G.One (portrayed by Shah Rukh Khan) and a powerful, faceless antagonist, Ra.One (portrayed by Arjun Rampal). Ra.One is imbued with a self-learning AI, and both characters are powered by a H.A.R.T. device.
+
+The antagonist, Ra.One, proves to be self-aware and breaks free from the game's constraints, entering the real world to pursue G.One's family. The conflict escalates when Ra.One murders Shekhar Subramaniam (Shah Rukh Khan) after discovering he is lying. G.One eventually defeats Ra.One by tricking him into shooting G.One without his H.A.R.T., causing Ra.One to break into cubes. Ultimately, G.One absorbs Ra.One's remains, allowing him to return to the real world months later to restore G.One.

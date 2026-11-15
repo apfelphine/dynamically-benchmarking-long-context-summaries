@@ -1,0 +1,1 @@
+Tell Them We Are Rising (TTWAR) was a program created by Ruth Wright Hayre in 1988. In the program, Hayre offered to fund the college education of 116 selected children if they stayed in school and got into college. The program was somewhat successful, resulting in decreased drop-out rates and increased the number of students on an honor roll.

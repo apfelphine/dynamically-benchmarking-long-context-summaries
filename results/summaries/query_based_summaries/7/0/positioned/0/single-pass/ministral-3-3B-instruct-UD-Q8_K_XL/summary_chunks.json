@@ -1,0 +1,44 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education in Greece\nGreece\u2019s education system is structured into **three main stages** : **preschool, primary education** , and **secondary education** , with additional vocational and higher education pathways.",
+        "text_original": "Greece\u2019s education system is structured into **three main stages**: **preschool, primary education**, and **secondary education**, with additional vocational and higher education pathways",
+        "idx_start": 29,
+        "idx_end": 216
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Greece\n## Preschool (Pre-Kindergarten & Kindergarten)\n- **Compulsory for ages 4\u20136** , lasting **two years** (1 year Pre-Kindergarten, 1 year Kindergarten).\n- **Preschool (\u03a0\u03c1\u03bf\u03bd\u03b7\u03c0\u03b9\u03b1\u03b3\u03c9\u03b3\u03b5\u03af\u03bf, \u039d\u03b7\u03c0\u03b9\u03b1\u03b3\u03c9\u03b3\u03b5\u03af\u03bf)** is mandatory, with no formal grades until Year 3.\n- **Foreign language instruction** : English begins in Kindergarten, with scientific evidence supporting early foreign language learning.\n- **Curriculum** : Focuses on early childhood development, with descriptive assessments rather than numerical grades.",
+        "text_original": "Compulsory for ages 4\u20136**, lasting **two years** (1 year Pre-Kindergarten, 1 year Kindergarten).\n- **Preschool (\u03a0\u03c1\u03bf\u03bd\u03b7\u03c0\u03b9\u03b1\u03b3\u03c9\u03b3\u03b5\u03af\u03bf, \u039d\u03b7\u03c0\u03b9\u03b1\u03b3\u03c9\u03b3\u03b5\u03af\u03bf)** is mandatory, with no formal grades until Year 3.\n- **Foreign language instruction**: English begins in Kindergarten, with scientific evidence supporting early foreign language learning.\n- **Curriculum**: Focuses on early childhood development, with descriptive assessments rather than numerical grades",
+        "idx_start": 276,
+        "idx_end": 721
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Greece\n## Primary Education (\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc \u03a3\u03c7\u03bf\u03bb\u03b5\u03af\u03bf, Dimotiko)\n- **Compulsory for 6 years (Grades 1\u20136)** , starting at age **6** .\n- **School year** : September 11 to June 15, with a standard school day from **08:15\u201313:15** .\n- **Grading System** :\n    - **Grades 1\u20132** : No grades.\n    - **Grades 3\u20134** : Alphabetical grades (A\u2013D).\n    - **Grades 5\u20136** : Numerical grades (1\u201310).\n- **Leaving Certificate** : Awarded after Grade 6 ( **\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03bf\u03cd** ), granting automatic admission to **Gymnasium (lower secondary)** .",
+        "text_original": "Compulsory for 6 years (Grades 1\u20136)**, starting at age **6**.\n- **School year**: September 11 to June 15, with a standard school day from **08:15\u201313:15**.\n- **Grading System**:\n  - **Grades 1\u20132**: No grades.\n  - **Grades 3\u20134**: Alphabetical grades (A\u2013D).\n  - **Grades 5\u20136**: Numerical grades (1\u201310).\n- **Leaving Certificate**: Awarded after Grade 6 (**\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03bf\u03cd**), granting automatic admission to **Gymnasium (lower secondary",
+        "idx_start": 784,
+        "idx_end": 1221
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Greece\n## Secondary Education\nGreece\u2019s secondary education is divided into **two compulsory stages** :\n#### Lower Secondary (\u0393\u03c5\u03bc\u03bd\u03ac\u03c3\u03b9\u03bf, Gymnasium, Grades 7\u20139)\n    - - **Compulsory for ages 12\u201315** , lasting **3 years** .\n    - **Leaving Certificate** : Awarded after Grade 9 ( **\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03af\u03bf\u03c5** ), granting admission to **Lyceum (upper secondary)** .\n    - **Curriculum** : Includes English, French, or German as a second foreign language.\n#### Upper Secondary (\u039b\u03cd\u03ba\u03b5\u03b9\u03bf, Lyceum, Grades 10\u201312)\n    - - **Non-compulsory** , lasting **3 years** .\n    - **Leaving Certificate** : Awarded after Grade 12 ( **\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u039b\u03c5\u03ba\u03b5\u03af\u03bf\u03c5** ), required for **higher education** .\n    - **Grading System** : 1\u201320 scale (100% equivalent to a 20).\n    - **Orientation Groups (\u039f\u03bc\u03ac\u03b4\u03b5\u03c2 \u03a0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03c3\u03bc\u03bf\u03cd)** : Students choose between **Humanities, Sciences, or Economics** in Grade 3, with specialized subjects in later grades.",
+        "text_original": "Greece\u2019s secondary education is divided into **two compulsory stages**:\n1. **Lower Secondary (\u0393\u03c5\u03bc\u03bd\u03ac\u03c3\u03b9\u03bf, Gymnasium, Grades 7\u20139)**\n   - **Compulsory for ages 12\u201315**, lasting **3 years**.\n   - **Leaving Certificate**: Awarded after Grade 9 (**\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u0393\u03c5\u03bc\u03bd\u03b1\u03c3\u03af\u03bf\u03c5**), granting admission to **Lyceum (upper secondary)**.\n   - **Curriculum**: Includes English, French, or German as a second foreign language.\n\n2. **Upper Secondary (\u039b\u03cd\u03ba\u03b5\u03b9\u03bf, Lyceum, Grades 10\u201312)**\n   - **Non-compulsory**, lasting **3 years**.\n   - **Leaving Certificate**: Awarded after Grade 12 (**\u0391\u03c0\u03bf\u03bb\u03c5\u03c4\u03ae\u03c1\u03b9\u03bf \u039b\u03c5\u03ba\u03b5\u03af\u03bf\u03c5**), required for **higher education**.\n   - **Grading System**: 1\u201320 scale (100% equivalent to a 20).\n   - **Orientation Groups (\u039f\u03bc\u03ac\u03b4\u03b5\u03c2 \u03a0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03c3\u03bc\u03bf\u03cd)**: Students choose between **Humanities, Sciences, or Economics** in Grade 3, with specialized subjects in later grades",
+        "idx_start": 1256,
+        "idx_end": 2109
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Greece\n## Vocational & Higher Education\n- **Vocational Lyceum (\u0395\u03a0\u0391\u039b, EPAL)** : 3-year program offering specialized diplomas in fields like IT, healthcare, and engineering.\n- **Higher Education** : Accessible via **Pan-Hellenic Examinations (\u03a0\u03b1\u03bd\u03b5\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03ad\u03c2 \u0395\u03be\u03b5\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2)** , with admission determined by weighted exam scores, university preferences, and available placements.\n- **Public Onassis Schools** : Free, socially focused schools in disadvantaged areas, emphasizing STEM, arts, and digital literacy.",
+        "text_original": "Vocational Lyceum (\u0395\u03a0\u0391\u039b, EPAL)**: 3-year program offering specialized diplomas in fields like IT, healthcare, and engineering.\n- **Higher Education**: Accessible via **Pan-Hellenic Examinations (\u03a0\u03b1\u03bd\u03b5\u03bb\u03bb\u03b1\u03b4\u03b9\u03ba\u03ad\u03c2 \u0395\u03be\u03b5\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2)**, with admission determined by weighted exam scores, university preferences, and available placements.\n- **Public Onassis Schools**: Free, socially focused schools in disadvantaged areas, emphasizing STEM, arts, and digital literacy",
+        "idx_start": 2155,
+        "idx_end": 2607
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Greece\n## Key Features\n- **Compulsory Education** : 9 years (Pre-Kindergarten to Gymnasium).\n- **Grading System** : Transition from descriptive to numerical grades as students progress.\n- **Foreign Language** : English begins in Kindergarten, with French/German as optional second languages.\n- **Higher Education** : Requires the **Lyceum Apolytirio** , with admission based on standardized exams and university preferences.\n- **Vocational Pathways** : EPAL provides specialized training for careers in technical and professional fields.",
+        "text_original": "Compulsory Education**: 9 years (Pre-Kindergarten to Gymnasium).\n- **Grading System**: Transition from descriptive to numerical grades as students progress.\n- **Foreign Language**: English begins in Kindergarten, with French/German as optional second languages.\n- **Higher Education**: Requires the **Lyceum Apolytirio**, with admission based on standardized exams and university preferences.\n- **Vocational Pathways**: EPAL provides specialized training for careers in technical and professional fields",
+        "idx_start": 2636,
+        "idx_end": 3139
+    }
+]

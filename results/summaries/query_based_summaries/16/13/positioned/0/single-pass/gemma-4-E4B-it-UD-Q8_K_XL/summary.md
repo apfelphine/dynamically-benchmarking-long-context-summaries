@@ -1,0 +1,5 @@
+## University of the Andes (Colombia)
+
+The Universidad de los Andes was founded in November 1948 by Mario Laserna Pinzón, making it the first nonsectarian and non-politically affiliated university in Colombia. Its establishment was motivated by the urgent national need for skilled labor to support the country's industrial development. Modeled after American universities, Uniandes aimed to provide professionals with technical knowledge and a liberal education for practical and altruistic purposes.
+
+The university began classes on March 29, 1949, with 80 students. Throughout the early 1950s, it implemented a three/two program, allowing students to study partially in Colombia and transfer to American universities. Legally established as a common-utility nonprofit corporation in February 1948, the Colombian government granted it University status in 1964. The university's mission emphasizes fostering pluralism, diversity, dialogue, and critical, ethical formation to address Colombia's societal problems.

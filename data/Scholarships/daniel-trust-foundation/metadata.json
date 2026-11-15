@@ -1,0 +1,23 @@
+{
+  "id": 44159562,
+  "title": "Daniel Trust Foundation",
+  "url": "https://en.wikipedia.org/wiki/Daniel_Trust_Foundation",
+  "path": "Scholarships\\daniel-trust-foundation",
+  "summary": {
+    "chars": 1049,
+    "tokens": 190
+  },
+  "document": {
+    "chars": 1746,
+    "tokens": 303
+  },
+  "infobox": {
+    "title": "Daniel Trust Foundation",
+    "data": {
+      "Founder": "Daniel Trust",
+      "Type": "501(c) organization",
+      "Focus": "Youth Mentoring and College Scholarships",
+      "Area served": "Bridgeport, CT and New York City"
+    }
+  }
+}

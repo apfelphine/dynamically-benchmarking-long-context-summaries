@@ -1,0 +1,128 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Education in Portugal\n## Historical Development and Literacy:\nPortuguese education began with the Christian clergy, with universities existing since 1290. Despite early foundations, by the late 19th century, illiteracy exceeded 80%. While the democratic First Republic saw modest growth, the authoritarian Estado Novo regime achieved significant literacy expansion, culminating in the near-eradication of child illiteracy by the late 1950s.",
+        "text_original": "Portuguese education began with the Christian clergy, with universities existing since 1290. Despite early foundations, by the late 19th century, illiteracy exceeded 80%. While the democratic First Republic saw modest growth, the authoritarian Estado Novo regime achieved significant literacy expansion, culminating in the near-eradication of child illiteracy by the late 1950s",
+        "idx_start": 67,
+        "idx_end": 444
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Portugal\n## Modern Structure and Challenges:\nFrom the 1960s onward, public education expanded, and state universities were founded by 1973. Education democratized fully in the 1980s. Portugal has adopted the Bologna Process since 2006, but its higher education rate remains low compared to other EU nations. Challenges include past controversies over erratic policies, high multi-generational functional illiteracy (48%), and financial strain on higher education institutions following the sovereign debt crisis.",
+        "text_original": "From the 1960s onward, public education expanded, and state universities were founded by 1973. Education democratized fully in the 1980s. Portugal has adopted the Bologna Process since 2006, but its higher education rate remains low compared to other EU nations. Challenges include past controversies over erratic policies, high multi-generational functional illiteracy (48%), and financial strain on higher education institutions following the sovereign debt crisis",
+        "idx_start": 484,
+        "idx_end": 950
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in South Africa\n## System Structure and Legislation:\nBasic education runs from Grade 1 to Grade 12, divided into General Education and Training (GET, Grades R\u20139) and Further Education and Training (FET, Grades 10\u201312). Governance is managed by the Department of Basic Education and Higher Education and Training, underpinned by acts like the South African Schools Act of 1996.",
+        "text_original": "Basic education runs from Grade 1 to Grade 12, divided into General Education and Training (GET, Grades R\u20139) and Further Education and Training (FET, Grades 10\u201312). Governance is managed by the Department of Basic Education and Higher Education and Training, underpinned by acts like the South African Schools Act of",
+        "idx_start": 1021,
+        "idx_end": 1337
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in South Africa\n## Funding and Equity:\nSchool funding is supplemented by parent contributions, and government grants are determined by the neighborhood's poverty level (quintile). While legal exemptions exist for very poor families, high school fees can still prevent poorer children from attending affluent schools.",
+        "text_original": "School funding is supplemented by parent contributions, and government grants are determined by the neighborhood's poverty level (quintile). While legal exemptions exist for very poor families, high school fees can still prevent poorer children from attending affluent schools",
+        "idx_start": 1369,
+        "idx_end": 1645
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in South Africa\n## Historical Context and Challenges:\nThe history of South African education is heavily marked by racial segregation, notably the implementation of Bantu education after 1953. Since 1994, the system has aimed for uniformity under the South African Schools Act. Persistent issues include poor academic performance, high dropout rates, and the pervasive impact of systemic inequality.",
+        "text_original": "The history of South African education is heavily marked by racial segregation, notably the implementation of Bantu education after 1953. Since 1994, the system has aimed for uniformity under the South African Schools Act. Persistent issues include poor academic performance, high dropout rates, and the pervasive impact of systemic inequality",
+        "idx_start": 1687,
+        "idx_end": 2030
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Australia\n## Governance and Structure:\nEducation is regulated by states and territories, though the federal government provides funding support and regulates VET. Australia utilizes the Australian Qualifications Framework, which unifies qualifications across schools, VET, and tertiary education.",
+        "text_original": "Education is regulated by states and territories, though the federal government provides funding support and regulates VET. Australia utilizes the Australian Qualifications Framework, which unifies qualifications across schools, VET, and tertiary education",
+        "idx_start": 2090,
+        "idx_end": 2346
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Australia\n## Schooling and Performance:\nGovernment schools educate about 64% of students, with non-government (Catholic and private) schools making up the remainder. Compulsory attendance varies by state, generally from ages 5\u20136 to 15\u201317. While Australia ranks highly on the Education Index (0.929), recent PISA results show a declining trend in standardized test performance.",
+        "text_original": "Government schools educate about 64% of students, with non-government (Catholic and private) schools making up the remainder. Compulsory attendance varies by state, generally from ages 5\u20136 to 15\u201317. While Australia ranks highly on the Education Index (0.929), recent PISA results show a declining trend in standardized test performance",
+        "idx_start": 2380,
+        "idx_end": 2715
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Finland\n## Philosophy and Structure:\nThe Finnish system emphasizes equality, low-stakes testing, and student individuality, with no formal \"gifted\" programs. The compulsory education system is nine years (Grades 1\u20139), followed by compulsory upper secondary schooling (ages 15\u201318), which bifurcates into academic or vocational tracks.",
+        "text_original": "The Finnish system emphasizes equality, low-stakes testing, and student individuality, with no formal \"gifted\" programs. The compulsory education system is nine years (Grades 1\u20139), followed by compulsory upper secondary schooling (ages 15\u201318), which bifurcates into academic or vocational tracks",
+        "idx_start": 2773,
+        "idx_end": 3068
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Finland\n## Pedagogy and Access:\nEarly childhood education is highly regarded, emphasizing play-based learning before formal instruction begins at age seven. All schools are publicly funded and non-selective; private schools must adhere to the same rules regarding fees and admissions. Teachers require a master's degree, and the system strongly values multilingualism.",
+        "text_original": "Early childhood education is highly regarded, emphasizing play-based learning before formal instruction begins at age seven. All schools are publicly funded and non-selective; private schools must adhere to the same rules regarding fees and admissions. Teachers require a master's degree, and the system strongly values multilingualism",
+        "idx_start": 3096,
+        "idx_end": 3431
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Romania\n## Compulsory Education and Structure:\nEducation is compulsory for 15 years, with the most recent legislation extending it to 14 years. The system resembles the French model, comprising primary, middle, and high school.",
+        "text_original": "Education is compulsory for 15 years, with the most recent legislation extending it to 14 years. The system resembles the French model, comprising primary, middle, and high school",
+        "idx_start": 3499,
+        "idx_end": 3678
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Romania\n## Challenges and Modernization:\nHistorical literacy campaigns eradicated mass illiteracy in the 1950s, but the 1990s saw low concern for education quality. Post-2011 reforms introduced the preparatory year and extended compulsory education. Access is heavily skewed toward urban areas, where resources are abundant, while rural areas struggle with poor infrastructure and high dropout rates.",
+        "text_original": "Historical literacy campaigns eradicated mass illiteracy in the 1950s, but the 1990s saw low concern for education quality. Post-2011 reforms introduced the preparatory year and extended compulsory education. Access is heavily skewed toward urban areas, where resources are abundant, while rural areas struggle with poor infrastructure and high dropout rates",
+        "idx_start": 3715,
+        "idx_end": 4073
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the United States\n## System Decentralization and Funding:\nPower is shared between federal, state, and local governments, with states holding most control. K\u201312 education is generally free in public schools, though local taxes are a primary funding source, leading to funding disparities between wealthy and poor districts.",
+        "text_original": "Power is shared between federal, state, and local governments, with states holding most control. K\u201312 education is generally free in public schools, though local taxes are a primary funding source, leading to funding disparities between wealthy and poor districts",
+        "idx_start": 4152,
+        "idx_end": 4415
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the United States\n## Performance and Inequality:\nThe U.S. has high tertiary education value, but significant achievement gaps persist based on race and income. Despite high spending per student in some areas, educational performance metrics remain a concern. The system is characterized by high student loan debt and a debate over the efficacy of standardized testing.",
+        "text_original": "The U.S. has high tertiary education value, but significant achievement gaps persist based on race and income. Despite high spending per student in some areas, educational performance metrics remain a concern. The system is characterized by high student loan debt and a debate over the efficacy of standardized testing",
+        "idx_start": 4450,
+        "idx_end": 4768
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Malaysia\n## Bilingualism and Identity:\nThe education system is characterized by ethnic and language dynamics, stemming from the Razak Report of 1956. Public schools are categorized as Malay-medium National Schools (SK) and vernacular National-type Schools (SJK).",
+        "text_original": "The education system is characterized by ethnic and language dynamics, stemming from the Razak Report of 1956. Public schools are categorized as Malay-medium National Schools (SK) and vernacular National-type Schools (SJK",
+        "idx_start": 4828,
+        "idx_end": 5049
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in Malaysia\n## Current Reforms:\nRecent policies have aimed for national unity through the National Education Blueprint, which mandates compulsory schooling up to 11 years. The Dual Language Program (DLP) attempts to boost English proficiency in STEM, though language policy remains a politically sensitive issue regarding ethnic identity.",
+        "text_original": "Recent policies have aimed for national unity through the National Education Blueprint, which mandates compulsory schooling up to 11 years. The Dual Language Program (DLP) attempts to boost English proficiency in STEM, though language policy remains a politically sensitive issue regarding ethnic identity",
+        "idx_start": 5074,
+        "idx_end": 5379
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Philippines\n## Curriculum Evolution:\nThe system underwent a significant overhaul from the K\u20134th Year system to the current K\u201312 curriculum, which is mandatory and free. The K\u201312 structure divides secondary education into junior and senior high schools, allowing for specialization tracks.",
+        "text_original": "The system underwent a significant overhaul from the K\u20134th Year system to the current K\u201312 curriculum, which is mandatory and free. The K\u201312 structure divides secondary education into junior and senior high schools, allowing for specialization tracks",
+        "idx_start": 5441,
+        "idx_end": 5691
+    },
+    {
+        "document_idx": null,
+        "text": "# Education in the Philippines\n## Access and Outcomes:\nWhile K\u201312 aims for universal access, significant disparities exist between urban and rural areas. Functional literacy rates are still low, and the transition to the new curriculum has faced implementation challenges. Higher education is overseen by CHED, with private HEIs being the majority sector.",
+        "text_original": "While K\u201312 aims for universal access, significant disparities exist between urban and rural areas. Functional literacy rates are still low, and the transition to the new curriculum has faced implementation challenges. Higher education is overseen by CHED, with private HEIs being the majority sector",
+        "idx_start": 5719,
+        "idx_end": 6018
+    },
+    {
+        "document_idx": null,
+        "text": "# Summary of Other Nations\n- **Czechia (Not provided in input)**\n- **General Comparison:** Each country presents a distinct model\u2014from Finland's highly equitable, student-centered approach to the U.S.'s decentralized, market-driven system, and Portugal's historical push towards universal access.\n- **International Schools:** All surveyed nations have international schools, with Australia and Malaysia featuring prominent international curriculum providers.\n- **Technology:** South Africa and the Philippines highlight the persistent challenge of uneven technological adoption despite governmental initiatives.",
+        "text_original": "Czechia (Not provided in input)**\n*   **General Comparison:** Each country presents a distinct model\u2014from Finland's highly equitable, student-centered approach to the U.S.'s decentralized, market-driven system, and Portugal's historical push towards universal access.\n*   **International Schools:** All surveyed nations have international schools, with Australia and Malaysia featuring prominent international curriculum providers.\n*   **Technology:** South Africa and the Philippines highlight the persistent challenge of uneven technological adoption despite governmental initiatives",
+        "idx_start": 6056,
+        "idx_end": 6641
+    }
+]

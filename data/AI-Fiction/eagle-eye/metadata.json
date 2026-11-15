@@ -1,0 +1,35 @@
+{
+  "id": 14090644,
+  "title": "Eagle Eye",
+  "url": "https://en.wikipedia.org/wiki/Eagle_Eye",
+  "path": "AI-Fiction\\eagle-eye",
+  "summary": {
+    "chars": 704,
+    "tokens": 154
+  },
+  "document": {
+    "chars": 12109,
+    "tokens": 2640
+  },
+  "infobox": {
+    "title": "Eagle Eye",
+    "data": {
+      "Directed by": "D. J. Caruso",
+      "Screenplay by": "- John Glenn - Travis Adam Wright - Hillary Seitz - Dan McDermott",
+      "Story by": "Dan McDermott",
+      "Produced by": "- Alex Kurtzman - Roberto Orci - Pat Crowley",
+      "Starring": "- Shia LaBeouf - Michelle Monaghan - Rosario Dawson - Michael Chiklis - Anthony Mackie - Billy Bob Thornton",
+      "Cinematography": "Dariusz Wolski",
+      "Edited by": "Jim Page",
+      "Music by": "Brian Tyler",
+      "Production \u00b7 companies": "- DreamWorks Pictures - K/O Productions",
+      "Distributed by": "DreamWorks/Paramount Distribution",
+      "Release dates": "- September 16, 2008 (Hollywood) - September 26, 2008 (United States)",
+      "Running time": "118 minutes",
+      "Country": "United States",
+      "Language": "English",
+      "Budget": "$80 million",
+      "Box office": "$178.8 million"
+    }
+  }
+}

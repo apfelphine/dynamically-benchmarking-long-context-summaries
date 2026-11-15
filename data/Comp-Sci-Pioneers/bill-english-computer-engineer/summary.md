@@ -1,0 +1,1 @@
+William Kirk English (January 27, 1929 – July 26, 2020) was an American computer engineer who contributed to the development of the computer mouse while working for Douglas Engelbart at SRI International's Augmentation Research Center. He would later work for Xerox PARC and Sun Microsystems.

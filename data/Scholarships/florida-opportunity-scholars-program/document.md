@@ -1,0 +1,10 @@
+# Florida Opportunity Scholars Program
+
+## History
+This program is designed to provide financial support for first-generation, financially disadvantaged students working toward a bachelor's degree. The first need-based scholarship was dispersed in the summer of 2006, and during the 2006-2008 academic years $3.6 million has been given to students at the University of Florida.
+
+In 2008, Coach Urban Meyer and Coach Billy Donovan agreed to lead the charge to raise $50 million to help support and fund this scholarship on campus.
+
+
+### Objective
+This scholarship was designed for First-generation students that have unique needs and financial challenges.  The Florida Opportunity Scholars Program was created by President Bernie Machen to increase the opportunities for academically prepared first-generation students to attend the university without having to struggle with financial burdens. For examples:books and fees, meal and housing, transportation, miscellaneous expenses are all covered by this scholarship.

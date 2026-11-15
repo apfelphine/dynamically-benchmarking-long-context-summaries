@@ -1,0 +1,7 @@
+The **National Autonomous University of Mexico (UNAM)** was founded in **1910** by Justo Sierra, aiming to create a secular, national university distinct from its colonial predecessor. Originally merging several colleges, UNAM gained autonomy in the 1920s, becoming a central institution for higher education in Mexico. Its founding rector, José Vasconcelos, designed the university’s emblem and motto, emphasizing cultural and educational reform.
+
+UNAM operates across multiple campuses, with its main campus, **Ciudad Universitaria** in Mexico City, declared a UNESCO World Heritage Site in 2007. The university is organized into schools and national schools, offering undergraduate and graduate programs, including specialized fields like engineering, medicine, and law. It also operates an **Open University and Distance Education System (SUAyED)** for alternative learning.
+
+UNAM is renowned for its research, particularly in fields like robotics, artificial intelligence, and renewable energy. It has produced multiple Nobel laureates, including **Alfonso García Robles, Octavio Paz, and Mario Molina**, and hosts prestigious research institutes. The university is also known for its political activism, with students and faculty playing key roles in Mexican society.
+
+In terms of rankings, UNAM consistently ranks among the top universities in Mexico and Latin America, often within the **100–300 global range**. Its academic rigor, research output, and cultural influence have solidified its reputation as a leading institution in the region.

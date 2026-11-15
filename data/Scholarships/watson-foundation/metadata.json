@@ -1,0 +1,23 @@
+{
+  "id": 57105197,
+  "title": "Watson Foundation",
+  "url": "https://en.wikipedia.org/wiki/Watson_Foundation",
+  "path": "Scholarships\\watson-foundation",
+  "summary": {
+    "chars": 516,
+    "tokens": 111
+  },
+  "document": {
+    "chars": 9008,
+    "tokens": 2117
+  },
+  "infobox": {
+    "title": "Thomas J. Watson Foundation",
+    "data": {
+      "Founded": "1961",
+      "Founders": "Jeannette K. Watson",
+      "Location": "- Woolworth Building, New York, New York, U.S.",
+      "Website": "watson.foundation"
+    }
+  }
+}

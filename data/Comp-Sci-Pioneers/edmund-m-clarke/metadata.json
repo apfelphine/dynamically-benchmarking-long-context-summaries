@@ -1,0 +1,30 @@
+{
+  "id": 15590926,
+  "title": "Edmund M. Clarke",
+  "url": "https://en.wikipedia.org/wiki/Edmund_M._Clarke",
+  "path": "Comp-Sci-Pioneers\\edmund-m-clarke",
+  "summary": {
+    "chars": 386,
+    "tokens": 85
+  },
+  "document": {
+    "chars": 3860,
+    "tokens": 781
+  },
+  "infobox": {
+    "title": "Edmund M. Clarke",
+    "data": {
+      "Born": "Edmund Melson Clarke, Jr. \u00b7 July 27, 1945 \u00b7 Newport News, Virginia, U.S.",
+      "Died": "December 22, 2020 (aged 75) \u00b7 Pittsburgh, Pennsylvania, U.S.",
+      "Education": "University of Virginia (BA) \u00b7 Duke University (MA) \u00b7 Cornell University (PhD)",
+      "Known for": "Model checking",
+      "Awards": "A.M. Turing Award",
+      "Fields": "Computer science",
+      "Institutions": "Carnegie Mellon University",
+      "Thesis": "Completeness and Incompleteness Theorems for Hoare-Like Axiom Systems (1976)",
+      "Doctoral advisor": "Robert Lee Constable",
+      "Doctoral students": "- E. Allen Emerson - Bhubaneswar Mishra - David L. Dill - Kenneth L. McMillan",
+      "Website": "www.cs.cmu.edu/~emc"
+    }
+  }
+}

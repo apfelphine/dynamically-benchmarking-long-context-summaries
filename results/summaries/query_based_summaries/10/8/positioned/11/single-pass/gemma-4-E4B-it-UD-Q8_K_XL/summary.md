@@ -1,0 +1,1 @@
+There is no information provided in the text regarding "Education in Nigeria." The documents detail educational systems in several other countries, such as Ghana, England, Hong Kong, France, Sweden, Turkey, Norway, Iran, Armenia, Taiwan, Indonesia, Sri Lanka, and Israel.

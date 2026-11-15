@@ -1,0 +1,13 @@
+**Education in Poland**
+
+Poland's education system includes a compulsory 8-year primary school (grades 1–8), replacing the previous 6-year primary and 3-year middle school structure introduced in 2017. Primary education covers core subjects such as Polish language, history, mathematics, and foreign languages. After primary school, students enter upper secondary education, which includes general secondary schools (liceum) offering a 4-year program leading to the *Matura* exam for university entry, and vocational schools (technikum or zasadnicza szkoła zawodowa) providing technical training and leading to a *Matura* or a vocational certificate. 
+
+Higher education in Poland follows the Bologna model with a three-year bachelor's degree and a two-year master's degree, though some programs (e.g., medicine and pharmacy) last five or six years. The grading system uses a numeric scale from 2.0 (fail) to 5.0 (excellent), with no grade of 2.5. Students may take a retake exam if they fail a course. 
+
+Foreign language education is mandatory, with students required to study two languages, typically English and a second language. 
+
+The education system has undergone major reforms in 2017, including a shift from a 6+3 structure to 8+4, emphasizing broader access and equity. The curriculum has been updated to include more modern subjects and to reduce the emphasis on rote memorization. 
+
+The system also includes special education for students with disabilities, with specialized schools and support services. 
+
+Poland's education system is publicly funded, with the Ministry of Education overseeing policy and implementation. The system emphasizes national identity and civic education, with a strong focus on preparing students for both higher education and the workforce.

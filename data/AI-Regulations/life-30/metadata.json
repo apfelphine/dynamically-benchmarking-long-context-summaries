@@ -1,0 +1,29 @@
+{
+  "id": 55090826,
+  "title": "Life 3.0",
+  "url": "https://en.wikipedia.org/wiki/Life_3.0",
+  "path": "AI-Regulations\\life-30",
+  "summary": {
+    "chars": 429,
+    "tokens": 89
+  },
+  "document": {
+    "chars": 4489,
+    "tokens": 896
+  },
+  "infobox": {
+    "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+    "data": {
+      "Author": "Max Tegmark",
+      "Language": "English",
+      "Subject": "Artificial Intelligence",
+      "Genre": "Non-fiction",
+      "Publisher": "Knopf (US) \u00b7 Allen Lane (UK)",
+      "Publication date": "August 23, 2017",
+      "Publication place": "United States",
+      "Media type": "Print (hardback)",
+      "Pages": "280",
+      "ISBN": "978-1-101-94659-6"
+    }
+  }
+}

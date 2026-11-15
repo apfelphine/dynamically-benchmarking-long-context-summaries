@@ -1,0 +1,9 @@
+Stanford University was founded in 1885 by Leland and Jane Stanford as a tribute to their only child, Leland Stanford Jr. The university officially opened in 1891 on the Stanfords' former Palo Alto farm, modeled after Cornell University. It is located in the San Francisco Peninsula, approximately 37 miles (60 km) southeast of San Francisco and 20 miles (30 km) northwest of San Jose.
+
+Stanford is a private, non-profit university administered by a privately appointed board of trustees with a maximum membership of 38. The board appoints a president as the chief executive officer and a provost as the chief academic officer. Stanford has a large endowment valued at $36.5 billion as of August 2023, one of the four largest academic endowments in the United States.
+
+The university is organized into seven academic schools, including Humanities and Sciences, Engineering, and Sustainability. Stanford is classified among "R1: Doctoral Universities – Very high research activity" and has a strong reputation for innovation, with notable discoveries in fields such as physics, chemistry, and computer science. The university is home to the Stanford Research Park and the SLAC National Accelerator Laboratory.
+
+Stanford's admissions process is highly selective, with an acceptance rate of 4%, one of the lowest among U.S. universities. The university is known for its emphasis on undergraduate education, with a strong focus on research and innovation. Stanford is also known for its student life, with traditions such as the "Big Game" football rivalry with Cal, the "Big Game Gaieties," and the "Mausoleum Party."
+
+Stanford has produced many notable alumni and faculty, including Nobel laureates, tech entrepreneurs, and leaders in various fields. The university is recognized for its contributions to science, technology, and entrepreneurship, with a strong culture of innovation and a commitment to academic excellence.

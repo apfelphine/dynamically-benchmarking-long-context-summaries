@@ -1,0 +1,30 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Science and Computing\n## Mathematical and Logical Foundations\nEarly mathematical and logical concepts were profoundly shaped by Al-Khwarizmi, recognized as the father of algebra and the originator of the term \"algorithm.\" Further advancing logic, George Boole formalized Boolean algebra, creating the binary logic essential for modern computing. Key figures in logic also include Kurt G\u00f6del, whose Incompleteness Theorems demonstrated inherent limitations in axiomatic systems, and Gottlob Frege, who established axiomatic predicate logic.",
+        "text_original": "Early mathematical and logical concepts were profoundly shaped by Al-Khwarizmi, recognized as the father of algebra and the originator of the term \"algorithm.\" Further advancing logic, George Boole formalized Boolean algebra, creating the binary logic essential for modern computing. Key figures in logic also include Kurt G\u00f6del, whose Incompleteness Theorems demonstrated inherent limitations in axiomatic systems, and Gottlob Frege, who established axiomatic predicate logic",
+        "idx_start": 89,
+        "idx_end": 565
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Science and Computing\n## Pioneers in Programming, AI, and Hardware\nThe field of computing owes much to various innovators. Claude Shannon established information theory in 1948, while Donald Knuth and Edsger W. Dijkstra were key figures in programming theory and structured programming, respectively. Grace Hopper was foundational for making technology accessible by developing compilers and popularizing the term \"debugging.\"",
+        "text_original": "The field of computing owes much to various innovators. Claude Shannon established information theory in 1948, while Donald Knuth and Edsger W. Dijkstra were key figures in programming theory and structured programming, respectively. Grace Hopper was foundational for making technology accessible by developing compilers and popularizing the term \"debugging",
+        "idx_start": 613,
+        "idx_end": 970
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Science and Computing\n## Interdisciplinary and Modern Technological Advancements\nPioneering work spans diverse technical areas, including hardware and AI. Lynn Conway was instrumental in Very-Large-Scale Integration (VLSI) design, and Federico Faggin was pivotal in microelectronics for developing the MOS metal-gate process and co-designing the Intel 4004. In AI, Herbert A. Simon introduced \"bounded rationality,\" while Geoffrey Hinton is recognized for his foundational work on neural networks, despite recent concerns about AGI risks.",
+        "text_original": "Pioneering work spans diverse technical areas, including hardware and AI. Lynn Conway was instrumental in Very-Large-Scale Integration (VLSI) design, and Federico Faggin was pivotal in microelectronics for developing the MOS metal-gate process and co-designing the Intel 4004. In AI, Herbert A. Simon introduced \"bounded rationality,\" while Geoffrey Hinton is recognized for his foundational work on neural networks, despite recent concerns about AGI risks",
+        "idx_start": 1033,
+        "idx_end": 1489
+    },
+    {
+        "document_idx": null,
+        "text": "# Foundational Figures in Science and Computing\n## Early Computing and Wireless Innovations\nOther significant contributions include Per Brinch Hansen's work on concurrent computing, and the early co-development of frequency hopping by Hedy Lamarr and George Antheil, a precursor to modern wireless technology. Jacek Karpi\u0144ski also pioneered early computer science by designing machines like the KAR-65 for CERN.",
+        "text_original": "Other significant contributions include Per Brinch Hansen's work on concurrent computing, and the early co-development of frequency hopping by Hedy Lamarr and George Antheil, a precursor to modern wireless technology. Jacek Karpi\u0144ski also pioneered early computer science by designing machines like the KAR-65 for CERN",
+        "idx_start": 1536,
+        "idx_end": 1854
+    }
+]

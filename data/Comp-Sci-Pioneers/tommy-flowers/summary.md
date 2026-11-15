@@ -1,0 +1,1 @@
+Thomas Harold Flowers (22 December 1905 – 28 October 1998) was an English engineer with the British General Post Office. During World War II, Flowers designed and built Colossus, the world's first programmable electronic computer, to help decipher encrypted German messages.

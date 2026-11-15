@@ -1,0 +1,23 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Computation, Mathematics, and Cognitive Science\n## Foundations of Logic and Computation\nThe theoretical basis of modern computation stems from early logical and mathematical innovations. Pioneers like Ramon Llull utilized combinatorial processes in his *Ars Magna* , which modern scholars suggest may prefigure computer science concepts. George Boole developed the \"algebra of logic,\" which was later applied to digital technology by Claude Shannon, who also introduced information entropy. This theoretical groundwork was expanded upon by logicians such as Gottlob Frege and demonstrated limitations by Kurt G\u00f6del.",
+        "text_original": "The theoretical basis of modern computation stems from early logical and mathematical innovations. Pioneers like Ramon Llull utilized combinatorial processes in his *Ars Magna*, which modern scholars suggest may prefigure computer science concepts. George Boole developed the \"algebra of logic,\" which was later applied to digital technology by Claude Shannon, who also introduced information entropy. This theoretical groundwork was expanded upon by logicians such as Gottlob Frege and demonstrated limitations by Kurt G\u00f6del",
+        "idx_start": 106,
+        "idx_end": 631
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Computation, Mathematics, and Cognitive Science\n## Modern Computing and AI\nKey figures in developing practical computation include Charles Babbage, who laid groundwork for mechanical calculation, and Grace Hopper, who advanced compiler technology. Geoffrey Hinton is crucial in modern AI for popularizing multi-layer neural networks via backpropagation, while Herbert A. Simon introduced the concept of \"bounded rationality\" to model human decision-making. Technological breakthroughs were also driven by Federico Faggin's work on MOS microprocessors and Lynn Conway's digital pioneering.",
+        "text_original": "Key figures in developing practical computation include Charles Babbage, who laid groundwork for mechanical calculation, and Grace Hopper, who advanced compiler technology. Geoffrey Hinton is crucial in modern AI for popularizing multi-layer neural networks via backpropagation, while Herbert A. Simon introduced the concept of \"bounded rationality\" to model human decision-making. Technological breakthroughs were also driven by Federico Faggin's work on MOS microprocessors and Lynn Conway's digital pioneering",
+        "idx_start": 661,
+        "idx_end": 1173
+    },
+    {
+        "document_idx": null,
+        "text": "# Key Figures in Computation, Mathematics, and Cognitive Science\n## Interdisciplinary and Technological Innovations\nInnovation spanned diverse fields, from early automata engineered by Ismail al-Jazari to advanced military technology. Hedy Lamarr and George Antheil developed a frequency-hopping concept during WWII, patented in 1942 and vital to spread-spectrum communication. In computer science notation, Kenneth E. Iverson was instrumental in creating APL, and J. Jacek Karpi\u0144ski pioneered the first perceptron in the communist bloc.",
+        "text_original": "Innovation spanned diverse fields, from early automata engineered by Ismail al-Jazari to advanced military technology. Hedy Lamarr and George Antheil developed a frequency-hopping concept during WWII, patented in 1942 and vital to spread-spectrum communication. In computer science notation, Kenneth E. Iverson was instrumental in creating APL, and J. Jacek Karpi\u0144ski pioneered the first perceptron in the communist bloc",
+        "idx_start": 1227,
+        "idx_end": 1647
+    }
+]

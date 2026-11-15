@@ -1,0 +1,9 @@
+[
+    {
+        "document_idx": null,
+        "text": "Donald Knuth was born in Milwaukee, Wisconsin, and later received a physics scholarship to the Case Institute of Technology. After studying physics, he switched to mathematics and received dual degrees from Case in 1960. In 1963, he earned a Ph.D. in mathematics from the California Institute of Technology.\nKnuth worked as an assistant professor at Caltech and also served as a consultant to Burroughs Corporation. He wrote the seminal work, *The Art of Computer Programming* , originally planned as a single book but expanded to seven volumes. He also developed TeX and Metafont during the 1970s to address frustration with phototypesetting, and pioneered the methodology of literate programming, which he embodied in the WEB system. Knuth has received numerous honors, including the Turing Award and the National Medal of Science.",
+        "text_original": "Donald Knuth was born in Milwaukee, Wisconsin, and later received a physics scholarship to the Case Institute of Technology. After studying physics, he switched to mathematics and received dual degrees from Case in 1960. In 1963, he earned a Ph.D. in mathematics from the California Institute of Technology.\n\nKnuth worked as an assistant professor at Caltech and also served as a consultant to Burroughs Corporation. He wrote the seminal work, *The Art of Computer Programming*, originally planned as a single book but expanded to seven volumes. He also developed TeX and Metafont during the 1970s to address frustration with phototypesetting, and pioneered the methodology of literate programming, which he embodied in the WEB system. Knuth has received numerous honors, including the Turing Award and the National Medal of Science",
+        "idx_start": 0,
+        "idx_end": 832
+    }
+]

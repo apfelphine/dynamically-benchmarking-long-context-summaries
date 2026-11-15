@@ -1,0 +1,26 @@
+{
+  "id": 64188,
+  "title": "Ole-Johan Dahl",
+  "url": "https://en.wikipedia.org/wiki/Ole-Johan_Dahl",
+  "path": "Comp-Sci-Pioneers\\ole-johan-dahl",
+  "summary": {
+    "chars": 263,
+    "tokens": 59
+  },
+  "document": {
+    "chars": 4442,
+    "tokens": 1032
+  },
+  "infobox": {
+    "title": "Ole-Johan Dahl",
+    "data": {
+      "Born": "12 October 1931 \u00b7 Mandal, Norway",
+      "Died": "29 June 2002 (aged 70) \u00b7 Asker, Norway",
+      "Education": "University of Oslo (BS, MS)",
+      "Known for": "Simula \u00b7 Object-oriented programming",
+      "Awards": "Turing Award (2001) \u00b7 IEEE John von Neumann Medal (2002)",
+      "Fields": "Computer science",
+      "Institutions": "Norwegian Computing Center \u00b7 University of Oslo"
+    }
+  }
+}

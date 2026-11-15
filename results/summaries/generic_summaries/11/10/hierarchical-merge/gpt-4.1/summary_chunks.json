@@ -1,0 +1,58 @@
+[
+    {
+        "document_idx": null,
+        "text": "# Transformer Architectures and Vision Transformers\nTransformers have transformed deep learning by leveraging self-attention, multihead attention, feed-forward layers, and residual connections, driving breakthroughs across natural language processing, computer vision, speech, and multimodal AI. Notable variants include BERT, GPT, T5, and Vision Transformers (ViTs), which adapt transformers for images by patching and capturing global dependencies. Recent innovations\u2014such as optimized attention (FlashAttention), robust training, and pre-layer normalization\u2014have improved efficiency and stability. Advanced models like BEiT, Swin Transformer, and TimeSformer excel at self-supervised learning and spatial-temporal processing but still require significant data and fine-tuning.",
+        "text_original": "Transformers have transformed deep learning by leveraging self-attention, multihead attention, feed-forward layers, and residual connections, driving breakthroughs across natural language processing, computer vision, speech, and multimodal AI. Notable variants include BERT, GPT, T5, and Vision Transformers (ViTs), which adapt transformers for images by patching and capturing global dependencies. Recent innovations\u2014such as optimized attention (FlashAttention), robust training, and pre-layer normalization\u2014have improved efficiency and stability. Advanced models like BEiT, Swin Transformer, and TimeSformer excel at self-supervised learning and spatial-temporal processing but still require significant data and fine-tuning",
+        "idx_start": 54,
+        "idx_end": 780
+    },
+    {
+        "document_idx": null,
+        "text": "# Generative Models: GANs, VAEs, and Autoencoders\nGenerative Adversarial Networks (GANs) and Variational Autoencoders (VAEs) are pivotal for generative tasks, with GANs excelling at producing realistic data under adversarial training and VAEs enabling probabilistic representations and robust reconstruction. Innovations like StyleGAN, BigGAN, and \u03b2-VAE have advanced image synthesis and unsupervised learning. Autoencoders\u2014including denoising, contractive, sparse, and variational types\u2014provide powerful nonlinear compression and representation learning, further extending generative model capabilities.",
+        "text_original": "Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs) are pivotal for generative tasks, with GANs excelling at producing realistic data under adversarial training and VAEs enabling probabilistic representations and robust reconstruction. Innovations like StyleGAN, BigGAN, and \u03b2-VAE have advanced image synthesis and unsupervised learning. Autoencoders\u2014including denoising, contractive, sparse, and variational types\u2014provide powerful nonlinear compression and representation learning, further extending generative model capabilities",
+        "idx_start": 835,
+        "idx_end": 1388
+    },
+    {
+        "document_idx": null,
+        "text": "# Convolutional Neural Networks (CNNs)\nCNNs remain essential for pattern recognition and perception, using convolution, pooling, and normalization to extract spatial features. Techniques like dilated convolutions and embedded attention expand interpretability and generative power, while transfer learning and regularization support improved generalization. CNNs are foundational to image analysis, speech, time-series forecasting, and more, widely supported by frameworks such as TensorFlow and PyTorch.",
+        "text_original": "CNNs remain essential for pattern recognition and perception, using convolution, pooling, and normalization to extract spatial features. Techniques like dilated convolutions and embedded attention expand interpretability and generative power, while transfer learning and regularization support improved generalization. CNNs are foundational to image analysis, speech, time-series forecasting, and more, widely supported by frameworks such as TensorFlow and PyTorch",
+        "idx_start": 1432,
+        "idx_end": 1896
+    },
+    {
+        "document_idx": null,
+        "text": "# Graph Neural Networks (GNNs)\nGNNs enable neural processing on graph-structured data through message passing and attention, driving progress in node classification, graph prediction, protein folding, and social network analysis. Key architectures\u2014GCNs, GATs, and GRU-based temporal models\u2014overcome challenges like oversmoothing and broaden the scope of graph-based AI solutions.",
+        "text_original": "GNNs enable neural processing on graph-structured data through message passing and attention, driving progress in node classification, graph prediction, protein folding, and social network analysis. Key architectures\u2014GCNs, GATs, and GRU-based temporal models\u2014overcome challenges like oversmoothing and broaden the scope of graph-based AI solutions",
+        "idx_start": 1932,
+        "idx_end": 2279
+    },
+    {
+        "document_idx": null,
+        "text": "# Recurrent Neural Networks (RNNs)\nRNNs leverage feedback and memory mechanisms to process sequences and multidimensional data, crucial for natural language processing, machine translation, speech, and time series analysis. Architectures range from Encoder-Decoder models and PixelRNNs to advanced types like LSTM, GRU, Neural Turing Machine, and Differentiable Neural Computer, which address long-term dependencies and vanishing gradients. Training techniques include gradient descent, BPTT, and real-time learning, with practical applications widely backed by established frameworks.",
+        "text_original": "RNNs leverage feedback and memory mechanisms to process sequences and multidimensional data, crucial for natural language processing, machine translation, speech, and time series analysis. Architectures range from Encoder-Decoder models and PixelRNNs to advanced types like LSTM, GRU, Neural Turing Machine, and Differentiable Neural Computer, which address long-term dependencies and vanishing gradients. Training techniques include gradient descent, BPTT, and real-time learning, with practical applications widely backed by established frameworks",
+        "idx_start": 2319,
+        "idx_end": 2868
+    },
+    {
+        "document_idx": null,
+        "text": "# Hopfield Networks\nHopfield networks pioneered neural associative memory using binary units and symmetric weight matrices, encoding patterns as stable attractors in an energy landscape. While classical models were limited in capacity, modern enhancements employ higher-order interactions and nonlinearities, improving scaling and pattern organization. Their influence spans optimization, advanced attention mechanisms, and graph-like data processing, recognized by the 2024 Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton.",
+        "text_original": "Hopfield networks pioneered neural associative memory using binary units and symmetric weight matrices, encoding patterns as stable attractors in an energy landscape. While classical models were limited in capacity, modern enhancements employ higher-order interactions and nonlinearities, improving scaling and pattern organization. Their influence spans optimization, advanced attention mechanisms, and graph-like data processing, recognized by the 2024 Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton",
+        "idx_start": 2893,
+        "idx_end": 3415
+    },
+    {
+        "document_idx": null,
+        "text": "# Radial Basis Function (RBF) Networks\nRBF Networks are feedforward models utilizing radial basis functions (typically Gaussian) in hidden layers to measure input similarity to learned centers, supporting tasks in pattern recognition, function approximation, and time series prediction. They benefit from clustering-based center selection and output normalization, though accuracy may fall in complex, chaotic environments. RBFNs remain valuable in various control and prediction scenarios.",
+        "text_original": "RBF Networks are feedforward models utilizing radial basis functions (typically Gaussian) in hidden layers to measure input similarity to learned centers, supporting tasks in pattern recognition, function approximation, and time series prediction. They benefit from clustering-based center selection and output normalization, though accuracy may fall in complex, chaotic environments. RBFNs remain valuable in various control and prediction scenarios",
+        "idx_start": 3459,
+        "idx_end": 3909
+    },
+    {
+        "document_idx": null,
+        "text": "# Interpretability: Class Activation Mapping\nClass Activation Mapping methods, including Grad-CAM, generate heatmaps to highlight influential image regions in convolutional neural networks, enhancing transparency and model debugging. Guided extensions of CAM further improve detail and efficiency, fostering better understanding of neural decision processes.",
+        "text_original": "Class Activation Mapping methods, including Grad-CAM, generate heatmaps to highlight influential image regions in convolutional neural networks, enhancing transparency and model debugging. Guided extensions of CAM further improve detail and efficiency, fostering better understanding of neural decision processes",
+        "idx_start": 3959,
+        "idx_end": 4271
+    }
+]
